@@ -1020,7 +1020,6 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="ticket_card_description">Heute kann geplant werden</string>
   <string name="ticket_card_dialog_positive_button_text">Installieren</string>
   <string name="ticket_card_phase">- Ausgabe %1$s</string>
-  <string name="ticket_card_phase">- Das erste %1$s von</string>
   <string name="time_picker_dialog_title">Zeit einstellen</string>
   <string name="time_picker_label_hour">Std</string>
   <string name="time_picker_label_minute">Min</string>
