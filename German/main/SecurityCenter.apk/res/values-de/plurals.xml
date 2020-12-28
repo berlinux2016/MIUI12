@@ -302,6 +302,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
    <item quantity="other">Mind. %d Punkte verbinden</item>
    <item quantity="one">Mind. %d Punkt verbinden</item>
   </plurals>
+  <plurals name="lockpattern_recording_intro_header_new">
+    <item quantity="other">Mind. %s Punkte verbinden</item>
+    <item quantity="one">Mind. %s Punkt verbinden</item>
+  </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
     <item quantity="other">%d Sek warten und erneut versuchen</item>
     <item quantity="one">%d Sek warten und erneut versuchen</item>
@@ -346,17 +350,29 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="other">%d Updates sind verfügbar</item>
     <item quantity="one">%d Update ist verfügbar</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d Elemente ausgewählt</item>
+    <item quantity="one">%d Element ausgewählt</item>
+  </plurals>
   <plurals name="mixed_recording_incorrect_too_short">
    <item quantity="other">Mind. %d Zeichen eingeben</item>
    <item quantity="one">Mind. %d Zeichen eingeben</item>
   </plurals>
   <plurals name="net_booster_expire_notification_tip">
-    <item quantity="other">%d Tage bleiben, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Sitzung erneuern, um Geschwindigkeitsprobleme zu vermeiden.</item>
-    <item quantity="one">%d Tag bleiben, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Sitzung erneuern, um Geschwindigkeitsprobleme zu vermeiden.</item>
+    <item quantity="other">Noch %d Tage, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Sitzung erneuern, um Geschwindigkeitsprobleme zu vermeiden.</item>
+    <item quantity="one">Noch %d Tag, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Sitzung erneuern, um Geschwindigkeitsprobleme zu vermeiden.</item>
   </plurals>
   <plurals name="network_restrict_count">
     <item quantity="other">"Netzwerkzugang beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
     <item quantity="one">"Netzwerkzugang beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
+  </plurals>
+  <plurals name="notification_antivirus_title">
+    <item quantity="other">%d Tage ohne Sicherheitsscan</item>
+    <item quantity="one">%d Tag ohne Sicherheitsscan</item>
+  </plurals>
+  <plurals name="notification_link_cleaner_2006">
+    <item quantity="other">%d APK-Reste löschen</item>
+    <item quantity="one">%d APK-Rest löschen</item>
   </plurals>
   <plurals name="notification_battery_consume_abnormal_summary">
     <item quantity="other">In den letzten %1$d Min wurden %2$d%% des Akkus entleert</item>
@@ -375,8 +391,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">%d Akkuproblem</item>
   </plurals>
   <plurals name="notification_power_consume_suggest">
-    <item quantity="other">%d Elemente optimieren, um den Akku zu schonen</item>
-    <item quantity="one">%d Element optimieren, um den Akku zu schonen</item>
+    <item quantity="other">%d Punkte optimieren, um den Akku zu schonen</item>
+    <item quantity="one">%d Punkt optimieren, um den Akku zu schonen</item>
   </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">%d Tage seit letzter Prüfung</item>
@@ -535,16 +551,16 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">Sie können %d Akkuproblem beheben</item>
   </plurals>
   <plurals name="power_center_battery_save_suggest">
-    <item quantity="other">" %d Elemente optimierbar"</item>
-    <item quantity="one">" %d Element optimierbar"</item>
+    <item quantity="other">%d Punkte optimierbar</item>
+    <item quantity="one">%d Punkt optimierbar</item>
   </plurals>
   <plurals name="power_center_battery_suggest">
-    <item quantity="other">%d Elemente optimieren, um den Akku zu schonen</item>
-    <item quantity="one">%d Element optimieren, um den Akku zu schonen</item>
+    <item quantity="other">%d Punkte optimieren, um den Akku zu schonen</item>
+    <item quantity="one">%d Punkt optimieren, um den Akku zu schonen</item>
   </plurals>
   <plurals name="power_center_battery_suggest_result">
-    <item quantity="other">Sie können %d Elemente optimieren, um den Akku zu schonen</item>
-    <item quantity="one">Sie können %d Element optimieren, um den Akku zu schonen</item>
+    <item quantity="other">Sie können %d Punkte optimieren, um den Akku zu schonen</item>
+    <item quantity="one">Sie können %d Punkt optimieren, um den Akku zu schonen</item>
   </plurals>
   <plurals name="power_center_battery_volume">
     <item quantity="other">%d mAh</item>
@@ -583,8 +599,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">%d App startet häufig automatisch</item>
   </plurals>
   <plurals name="power_optimize_close_app_summary">
-    <item quantity="other">%d Apps leeren den Akku</item>
-    <item quantity="one">%d App leert den Akku</item>
+    <item quantity="other">%d Apps entleeren den Akku</item>
+    <item quantity="one">%d App entleert den Akku</item>
   </plurals>
   <plurals name="pp_times">
     <item quantity="other">%s-mal</item>
@@ -690,6 +706,12 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="other">%d Viren entfernt</item>
     <item quantity="one">%d Virus entfernt</item>
   </plurals>
+  <plurals name="simlock_set_pin_tips">
+    <item quantity="other">Bitte SIM-PIN eingeben. Sie haben noch %d Versuche.</item>
+  </plurals>
+  <plurals name="simlock_set_puk_tips">
+    <item quantity="other">Bitte SIM-PUK eingeben. Sie haben noch %d Versuche.</item>
+  </plurals>
   <plurals name="sp_monitored_apps_count">
     <item quantity="other">%s Zahlungs-Apps sind geschützt</item>
     <item quantity="one">%s Zahlungs-App ist geschützt</item>
@@ -737,6 +759,14 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
   <plurals name="uninstall_game_count_title">
     <item quantity="other">%d nicht hinzugefügte Spiele</item>
     <item quantity="one">%d nicht hinzugefügtes Spiel</item>
+  </plurals>
+  <plurals name="unlock_set_unlock_pattern_summary_new">
+    <item quantity="other">Mind. %s Punkte verbinden</item>
+    <item quantity="one">Mind. %s Punkt verbinden</item>
+  </plurals>
+  <plurals name="unlock_set_unlock_pin_summary_new">
+    <item quantity="other">%s Ziffern eingeben</item>
+    <item quantity="one">%s Ziffer eingeben</item>
   </plurals>
   <plurals name="videobox_settings_manager_apps_count">
     <item quantity="other">%d Apps</item>
