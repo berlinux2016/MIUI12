@@ -3,7 +3,7 @@
   <string name="blur_location_is_on_tip">%1$s hat den ungefähren Standortdienst gestartet. Soll der ungefähre Standortdienst eingeschaltet bleiben?</string>
   <string name="blur_location_title">Ungefährer Standort</string>
   <string name="gold_master_dialog_reject">Ablehnen (%d)</string>
-  <string name="gold_master_dialog_title">%1$s wollen Zwischenablage lesen</string>
+  <string name="gold_master_dialog_title">%1$s will die Zwischenablage lesen</string>
   <string name="keep_blur_location">Weitermachen</string>
   <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_select_all">Alle auswählen</string>
