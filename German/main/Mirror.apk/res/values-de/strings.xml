@@ -31,7 +31,7 @@
   <string name="default_error_msg">Unbekannter Fehler</string>
   <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>
   <string name="display_not_support_secondary_toast">Diese App kann nicht in neuem Fenster geöffnet werden</string>
-  <string name="download_aborted">Aufgrund einer Verbindungsunterbrechung übertragen nicht möglich</string>
+  <string name="download_aborted">Wegen einer Verbindungsunterbrechung übertragen nicht möglich</string>
   <string name="download_cancel">Abbrechen</string>
   <string name="download_canceled">Herunterladen abbrechen</string>
   <string name="download_canceled_title">%1$s abgelehnt</string>
@@ -52,7 +52,7 @@
   <string name="evening">Nachmittag</string>
   <string name="expand_button_title">Erweitert</string>
   <string name="fingerprint_dialog_touch_sensor">Fingerabdrucksensor berühren</string>
-  <string name="fingerprint_error_hw_not_available">Fingerprint-Hardware nicht verfügbar.</string>
+  <string name="fingerprint_error_hw_not_available">Fingerabdruck-Hardware nicht verfügbar.</string>
   <string name="fingerprint_error_hw_not_present">Dieses Gerät verfügt nicht über einen Fingerabdrucksensor</string>
   <string name="fingerprint_error_lockout">Zu viele Versuche. Bitte später erneut versuchen.</string>
   <string name="fingerprint_error_no_fingerprints">Keine Fingerabdrücke registriert.</string>
@@ -213,7 +213,7 @@
   <string name="settings_privacy_policy">PDatenschutzerklärung</string>
   <string name="settings_trusted">Automatisch verbinden</string>
   <string name="settings_trusted_delete">Entfernen</string>
-  <string name="settings_trusted_delete_dialog_msg">Sie können keine automatische Verbindung zu diesem Gerät herstellen, nachdem Sie es aus der Liste entfernt haben.</string>
+  <string name="settings_trusted_delete_dialog_msg">Sie können keine automatische Verbindung zu diesem Gerät herstellen, wenn Sie es aus der Liste entfernen.</string>
   <string name="settings_trusted_delete_dialog_title">Automatische Verbindung stoppen?</string>
   <string name="settings_trusted_device_group">Geräte, die sich automatisch verbinden</string>
   <string name="settings_trusted_device_none">Keine Geräte hier</string>
