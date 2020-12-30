@@ -3361,7 +3361,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="homepage_condition_footer_content_description">Einklappen</string>
   <string name="homepage_personal_settings">Vorschläge</string>
   <string name="how_adjust_font_size">Wie passe ich die Textgröße an?</string>
-  <string name="how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem mobilen Gerät, Computer oder USB-Laufwerk gespeichert werden.
+  <string name="how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem Mobilgerät, Computer oder USB-Laufwerk gespeichert werden.
 
 Mobilgerät
 Speichern Sie Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente in einer separaten Datei, die auf Ihrem Gerät gespeichert ist (MIUI-backup-AllBackup). Hinweis: Durch einen Werksreset werden solche Sicherungen dauerhaft gelöscht. Bedenken Sie, die Sicherungen auf Ihren Computer zu kopieren.
@@ -3387,7 +3387,7 @@ Mobilgerät
 Auf \"Mobilgerät\" tippen, Option zum Wiederherstellen von Elementen finden und Sicherung wählen, um fortzufahren.
 
 Computer
-Sicherung vom Computer per USB-Kabel auf MIUI-backup-AllBackup kopieren und Elemente vom mobilen Gerät wiederherstellen.
+Sicherung vom Computer per USB-Kabel auf MIUI-backup-AllBackup kopieren und Elemente vom Mobilgerät wiederherstellen.
 
 USB-Laufwerk
 Sicherung vom USB-Laufwerk nach MIUI-backup-AllBackup kopieren und Option zur Wiederherstellung von Elementen von einem USB-Laufwerk wählen, um fortzufahren.
@@ -5794,7 +5794,7 @@ UT Interface: %5$s"</string>
 "<li>Alle Rechtebeschränkungen</li>"
  App-Daten gehen nicht verloren."</string>
   <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
-  <string name="reset_confirm_directory">Hinweis: Vor dem Wiederherstellen von Elementen prüfen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem mobilen Gerät vorhanden ist. Ist dies nicht der Fall, erstellen Sie ihn.</string>
+  <string name="reset_confirm_directory">Hinweis: Vor dem Wiederherstellen von Elementen prüfen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät vorhanden ist. Ist dies nicht der Fall, erstellen Sie ihn.</string>
   <string name="reset_dashboard_summary">Netzwerk, Apps oder Gerät können zurückgestzt werden</string>
   <string name="reset_dashboard_title">Zurücksetzen</string>
   <string name="reset_default_apn_failed">Zurücksetzen des Standard-APN fehlgeschlagen</string>
@@ -9039,14 +9039,14 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wps_overlap_error">Andere WLAN-Sitzung gefunden. Versuchen Sie es in einigen Minuten erneut.</string>
   <string name="wifi_wps_setup_msg">WPS starten…</string>
   <string name="wifi_wps_setup_title">Geschützte WLAN-Einrichtung</string>
-  <string name="wifiap_configure_ap_text">WLAN wifiap einrichten</string>
-  <string name="wifiap_configure_subtext">%1$s%2$s mobiler WLAN wifiap</string>
-  <string name="wifiap_settings_desc">WLAN wifiap kann die Datenverbindung dieses Mobiltelefons über WLAN mit anderen PC/mobilen Geräten austauschen</string>
-  <string name="wifiap_settings_indication">Nach Einschalten der WLAN wifiap können andere PC/mobile Geräte eine Verbindung herstellen und mit dem Internet beginnen, indem Sie folgende Schritte ausführen:</string>
-  <string name="wifiap_settings_indication_step1">1. Schalten Sie WLAN auf dem PC/mobilen Gerät ein.</string>
+  <string name="wifiap_configure_ap_text">WLAN-AP einrichten</string>
+  <string name="wifiap_configure_subtext">%1$s%2$s mobiler WLAN-AP</string>
+  <string name="wifiap_settings_desc">WLAN-AP kann die Datenverbindung dieses Mobiltelefons über WLAN mit anderen PC/Mobilgeräten austauschen</string>
+  <string name="wifiap_settings_indication">Nach Einschalten von WLAN-AP können andere PC/Mobilgeräte eine Verbindung herstellen und mit dem Internet beginnen, indem Sie folgende Schritte ausführen:</string>
+  <string name="wifiap_settings_indication_step1">1. Schalten Sie WLAN auf dem PC/Mobilgerät ein.</string>
   <string name="wifiap_settings_indication_step2">2. Finden Sie “%s” in der Liste der WLAN.</string>
   <string name="wifiap_title">WLAN-Hotspot</string>
-  <string name="wifiap_turn_on_hint">Zur Verwendung von WLAN wifiap schalten Sie es ein</string>
+  <string name="wifiap_turn_on_hint">Zur Verwendung von WLAN-AP schalten Sie es ein</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Fensteranimationskala</string>
   <string name="wireless_button">Andere Geräte kabellos laden</string>

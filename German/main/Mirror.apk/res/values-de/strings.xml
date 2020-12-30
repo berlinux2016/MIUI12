@@ -176,7 +176,7 @@
   <string name="settings_connect">So verbinden Sie sich</string>
   <string name="settings_connect_more_help"><u>Hilfe</u></string>
   <string name="settings_connect_summary1">MIUI+ Beta herunterladen und auf Ihrem Computer instllieren: https://pc.mi.com/aiot.</string>
-  <string name="settings_connect_summary2">Scannen Sie den QR-Code auf dem PC-Bildschirm mit Ihrem mobilen Gerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
+  <string name="settings_connect_summary2">Scannen Sie den QR-Code auf dem PC-Bildschirm mit Ihrem Mobilgerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
   <string name="settings_connect_title1">Schritt 1</string>
   <string name="settings_connect_title2">Schritt 2</string>
   <string name="settings_feature">Besondere Funktionen</string>
@@ -207,7 +207,7 @@
   <string name="settings_home_device_disconnect">Trennen</string>
   <string name="settings_home_device_group">Verbundenes Gerät</string>
   <string name="settings_home_sub_title">Ihr Telefon und Ihren Computer zu einer Arbeitsstation kombinieren</string>
-  <string name="settings_home_tips">Screen Combo platziert eine Kopie des Telefonbildschirms auf einem angeschlossenen PC, so dass Sie dort Dateien übertragen und mit Ihrem mobilen Gerät interagieren können.</string>
+  <string name="settings_home_tips">Screen Combo platziert eine Kopie des Telefonbildschirms auf einem angeschlossenen PC, so dass Sie dort Dateien übertragen und mit Ihrem Mobilgerät interagieren können.</string>
   <string name="settings_log_options">Protokolle</string>
   <string name="settings_more_help">Hilfe</string>
   <string name="settings_privacy_policy">PDatenschutzerklärung</string>

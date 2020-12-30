@@ -394,7 +394,7 @@
   <string name="pc_note_edit_create_time">"Erstellt: "</string>
   <string name="pc_note_edit_insert_doodle_by_phone">Doodle auf dem Telefon erstellen</string>
   <string name="pc_note_edit_insert_picture_from_pc">Bild vom Computer wählen</string>
-  <string name="pc_note_edit_insert_picture_from_phone">Bild vom mobilen Gerät wählen</string>
+  <string name="pc_note_edit_insert_picture_from_phone">Bild vom Mobilgerät wählen</string>
   <string name="pc_note_edit_last_modified_time">"Zuletzt bearbeitet: "</string>
   <string name="pc_note_edit_lock_dialog_doodle_by_phone">Doodle auf dem Telefon erstellen…</string>
   <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Foto mit dem Telefon machen…</string>
