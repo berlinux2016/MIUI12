@@ -210,7 +210,7 @@
   <string name="settings_home_tips">Screen Combo platziert eine Kopie des Telefonbildschirms auf einem angeschlossenen PC, so dass Sie dort Dateien übertragen und mit Ihrem Mobilgerät interagieren können.</string>
   <string name="settings_log_options">Protokolle</string>
   <string name="settings_more_help">Hilfe</string>
-  <string name="settings_privacy_policy">PDatenschutzerklärung</string>
+  <string name="settings_privacy_policy">Datenschutzerklärung</string>
   <string name="settings_trusted">Automatisch verbinden</string>
   <string name="settings_trusted_delete">Entfernen</string>
   <string name="settings_trusted_delete_dialog_msg">Sie können keine automatische Verbindung zu diesem Gerät herstellen, wenn Sie es aus der Liste entfernen.</string>

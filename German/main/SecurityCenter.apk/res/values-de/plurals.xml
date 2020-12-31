@@ -200,6 +200,10 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
     <item quantity="other">%d-Tage-Testversion erfolgreich erhalten</item>
     <item quantity="one">%d-Tag-Testversion erfolgreich erhalten</item>
   </plurals>
+  <plurals name="gb_voice_changer_toast_tips_window_bubble">
+    <item quantity="other">"Voice Changer jetzt ausprobieren,
+um eine %d-Tage-Gratis-Testversion zu erhalten!"</item>
+  </plurals>
   <plurals name="gb_voice_changer_user_status_get_trial_card">
     <item quantity="other">Kostenlose %d-Tage-Testversion erhalten</item>
     <item quantity="one">Kostenlose %d-Tag-Testversion erhalten</item>
