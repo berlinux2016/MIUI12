@@ -525,7 +525,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="select_webview_provider_title">WebView-Implementierung</string>
   <string name="select_webview_provider_toast_text">Diese Auswahl ist nicht mehr gültig. Erneut versuchen.</string>
   <string name="shared_data_delete_failure_text">Beim Löschen der gemeinsamen Daten ist ein Fehler aufgetreten.</string>
-  <string name="shared_data_no_accessors_dialog_text">Für diese gemeinsamen Daten sind keine Mietverträge erworben worden. Möchten Sie sie löschen?</string>
+  <string name="shared_data_no_accessors_dialog_text">Für diese gemeinsamen Daten wurden keine Mietverträge abgeschlossen. Möchten Sie sie löschen?</string>
   <string name="shared_data_no_blobs_text">Für diesen Benutzer gibt es keine gemeinsamen Daten.</string>
   <string name="shared_data_query_failure_text">Beim Abrufen der gemeinsamen Daten ist ein Fehler aufgetreten. Erneut versuchen.</string>
   <string name="shared_data_summary">Gemeinsame Daten anzeigen und ändern</string>
@@ -610,11 +610,11 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="user_add_profile_item_title">Eingeschränktes Profil</string>
   <string name="user_add_user_item_summary">Benutzer haben ihre eigenen Apps und Inhalte</string>
   <string name="user_add_user_item_title">Benutzer</string>
-  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen, wenn Sie weitere Benutzer anlegen. Jeder Benutzer hat seinen eigenen Bereich, den er mit Apps, Hintergrundbildern usw. anpassen kann. Benutzer können auch Geräteeinstellungen wie WLAN anpassen, die für alle gelten.
+  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen, indem Sie weitere Benutzer anlegen. Jeder Benutzer hat seinen eigenen Bereich, den er mit Apps, Hintergrundbildern usw. anpassen kann. Benutzer können auch Geräteeinstellungen wie WLAN anpassen, die für alle gelten.
 
 Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
-Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Einstellungen Eingabehilfen und Dienste werden evtl. nicht auf den neuen Benutzer übertragen."</string>
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Eingabehilfen-Einstellungen und Dienste werden evtl. nicht auf den neuen Benutzer übertragen."</string>
   <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
 Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
