@@ -204,8 +204,8 @@ In %d Sekunden erneut versuchen."</string>
   <string name="dock_alignment_slow_charging">Telefon für schnelleres Aufladen neu ausrichten</string>
   <string name="drag_to_rearrange_tiles">Halten und ziehen, um Kacheln neu anzuordnen</string>
   <string name="drag_to_remove_disabled">Sie benötigen mindestens %1$d Kacheln</string>
-  <string name="enable_adb_wireless">Debugging über WLAN</string>
-  <string name="enable_adb_wireless_summary">Debugging-Modus, wenn eine WLAN-Verbindung besteht</string>
+  <string name="enable_adb_wireless">Kabelloses Debugging</string>
+  <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
   <string name="enable_verbose_vendor_logging">Ausführliche Protokollierung aktivieren</string>
   <string name="enable_verbose_vendor_logging_summary">Schließt zusätzliche gerätespezifische Anbieterprotokolle in Fehlerberichten ein, die private Informationen enthalten, den Akkuverbrauch erhöhen und/oder zusätzlichen Speicher benötigen können.</string>
   <string name="enhanced_connectivity">Verbesserte Konnektivität</string>

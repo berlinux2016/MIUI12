@@ -280,8 +280,8 @@ Vom oberen Displayrand nach unten wischen, um die Benachrichtigungsleiste zu öf
   <string name="doze_summary">Wenn der Bildschirm inaktiv ist, wird es bei neuen Benachrichtigungen aktiviert</string>
   <string name="doze_title">Bildschirm bei Benachrichtigungen aktivieren</string>
   <string name="dpp_qrcode_generator_summary">Diesen QR-Code mit einem Gerät scannen, das Easy Connect unterstützt</string>
-  <string name="enable_adb_wireless">Debugging über WLAN</string>
-  <string name="enable_adb_wireless_summary">Debugging-Modus, wenn eine WLAN-Verbindung besteht</string>
+  <string name="enable_adb_wireless">Kabelloses Debugging</string>
+  <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
   <string name="enable_blurs_on_windows_summary">Aktiviert das Weichzeichnen für Fenster auf Composition-Manager-Ebene. Erfordert einen Neustart des Geräts.</string>
   <string name="enable_blurs_on_windows_title">Weichzeichnen aktivieren</string>
   <string name="enable_sizecompat_freeform">Größenkompatible Freiform-Apps aktivieren</string>

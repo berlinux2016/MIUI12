@@ -270,7 +270,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="disconnect_device">Gerät trennen</string>
   <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">>Debug-Modus bei Anschluss über USB</string>
-  <string name="enable_adb_wireless">Wireless-Debugging</string>
+  <string name="enable_adb_wireless">Kabelloses Debugging</string>
   <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
   <string name="enable_freeform_support">Freiformfenster aktivieren</string>
   <string name="enable_freeform_support_summary">Unterstützung für experimentelle Freiformfenster aktivieren.</string>
