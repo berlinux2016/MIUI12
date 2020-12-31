@@ -40,7 +40,7 @@
   <string name="accessor_info_title">Apps, die Daten teilen</string>
   <string name="accessor_no_description_text">Die App liefert keine Beschreibung.</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
-  <string name="adb_device_fingerprint_title_format">Geräte-Fingerabdruck: %1$s</string>
+  <string name="adb_device_fingerprint_title_format">Gerätefingerabdruck: %1$s</string>
   <string name="adb_device_forget">Vergessen</string>
   <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_pair_method_code_summary">Neue Geräte mit 6-stelligem Code koppeln</string>
@@ -80,8 +80,8 @@
   <string name="audio_relay_default_device_name">Mi KI-Lautsprecher</string>
   <string name="auto_connect_disable">Auto-Verbinden ist aus</string>
   <string name="available_via_app">Verfügbar über %1$s</string>
-  <string name="available_via_carrier">Verfügbar via %1$s</string>
-  <string name="available_via_passpoint">Verfügfbar via %1$s</string>
+  <string name="available_via_carrier">Verfügbar über %1$s</string>
+  <string name="available_via_passpoint">Verfügfbar über %1$s</string>
   <string name="band_24G">" (2,4-GHz-Band)"</string>
   <string name="band_5G">" (5-GHz-Band)"</string>
   <string name="battery_info_status_charging">Laden</string>
