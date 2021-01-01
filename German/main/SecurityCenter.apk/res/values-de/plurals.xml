@@ -395,8 +395,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">%d Akkuproblem</item>
   </plurals>
   <plurals name="notification_power_consume_suggest">
-    <item quantity="other">%d Punkte optimieren, um den Akku zu schonen</item>
-    <item quantity="one">%d Punkt optimieren, um den Akku zu schonen</item>
+    <item quantity="other">"%d Punkte optimieren,
+um den Akku zu schonen"</item>
+    <item quantity="one">"%d Punkt optimieren,
+um den Akku zu schonen"</item>
   </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">%d Tage seit letzter Prüfung</item>
