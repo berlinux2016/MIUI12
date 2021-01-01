@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Konten</string>
+  <string name="Data_set">"Daten: "</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
@@ -988,7 +990,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
   <string name="battery_info_status_charging">Laden</string>
   <string name="battery_info_status_charging_ac">Laden über Ladegerät</string>
   <string name="battery_info_status_charging_ac_short">Laden</string>
+  <string name="battery_info_status_charging_fast">Schnelles Laden</string>
   <string name="battery_info_status_charging_lower">Laden</string>
+  <string name="battery_info_status_charging_slow">Langsames Laden</string>
   <string name="battery_info_status_charging_usb">Laden über USB</string>
   <string name="battery_info_status_charging_usb_short">Laden</string>
   <string name="battery_info_status_charging_wireless">Kabellos laden</string>
@@ -1112,6 +1116,8 @@ Apps:
   <string name="biometric_weak_liveliness_summary">Augenzwinkern beim Entsperren erforderlich</string>
   <string name="biometric_weak_liveliness_title">Personenechtheitsprüfung</string>
   <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können System-Apps und -dienste nach wie vor Bluetooth-Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
+  <string name="blob_expires_text">Läuft ab am %s</string>
+  <string name="blob_id_text">Gemeinsame Daten-ID: %d</string>
   <string name="block_list_connected_devices">Verbundene Geräte</string>
   <string name="block_list_diaglog_cancle">Abbrechen</string>
   <string name="block_list_dialog_content">Diese Aktion wird \"%s\" von diesem Gerät trennen und zur Sperrliste hinzufügen</string>
@@ -1152,6 +1158,8 @@ Apps:
   <string name="bluetooth_auto_connect">Automatisch verbinden</string>
   <string name="bluetooth_battery_level">Akku %1$s</string>
   <string name="bluetooth_battery_level_untethered">L: %1$s Akku, R: %2$s Akku</string>
+  <string name="bluetooth_blacklist_cancel_remove_device">Abbrechen</string>
+  <string name="bluetooth_blacklist_remove_device">Entsperren</string>
   <string name="bluetooth_broadcasting_explaination">Wenn diese Funktion eingestellt ist, kann Ihr Telefon mit anderen Geräten in der Umgebung kommunizieren. Broadcasting nutzt Niedrigstrom Bluetooth-Signale.</string>
   <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit <b>%1$s</b> stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: <b>%2$s</b></string>
   <string name="bluetooth_connect_failed">Verbinden nicht möglich, erneut versuchen</string>
@@ -1181,6 +1189,8 @@ Apps:
   <string name="bluetooth_device_advanced_profile_header_title">Profile</string>
   <string name="bluetooth_device_advanced_rename_device">Umbenennen</string>
   <string name="bluetooth_device_advanced_title">Gekoppelte Bluetooth-Geräte</string>
+  <string name="bluetooth_device_blacklist_summary">Gesperrte Bluetooth-Geräte verwalten</string>
+  <string name="bluetooth_device_blacklist_tital">Bluetooth-Sperrliste</string>
   <string name="bluetooth_device_context_connect">Verbinden</string>
   <string name="bluetooth_device_context_connect_advanced">Optionen…</string>
   <string name="bluetooth_device_context_disconnect">Trennen</string>
@@ -1194,6 +1204,8 @@ Apps:
   <string name="bluetooth_device_nearby_title">Geräte in der Nähe</string>
   <string name="bluetooth_device_searchable">Sichtbarkeit</string>
   <string name="bluetooth_devices">Bluetooth-Geräte</string>
+  <string name="bluetooth_devices_card_off_summary">Tippen zum Einschalten</string>
+  <string name="bluetooth_devices_card_off_title">Bluetooth ist aus</string>
   <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP Hardware Offload deaktivieren</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Abbrechen</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Neu starten</string>
@@ -1230,6 +1242,8 @@ Apps:
   <string name="bluetooth_empty_list_bluetooth_off">Bluetooth einschalten, um verfügbare Geräte anzuzeigen</string>
   <string name="bluetooth_empty_list_user_restricted">Sie haben keine Erlaubnis, die Bluetooth-Einstellungen zu ändern</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN enthält Buchstaben oder Symbole</string>
+  <string name="bluetooth_enable_gabeldorsche">Gabeldorsche aktivieren</string>
+  <string name="bluetooth_enable_gabeldorsche_summary">Aktiviert den Bluetooth Gabeldorsche Funktions-Stack</string>
   <string name="bluetooth_enable_inband_ringing">In-Band-Klingeln aktivieren</string>
   <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Telefonklingeltönen über Bluetooth-Kopfhörer</string>
   <string name="bluetooth_enter_passkey_msg">Geben Sie den Pairing-Code ein und drücken Sie Return oder Enter</string>
@@ -1270,9 +1284,11 @@ Das hier könnte schief gelaufen sein:
   <string name="bluetooth_max_connected_audio_devices_string">"Max. verbundene-
 BT-Audiogeräte"</string>
   <string name="bluetooth_menu_advanced">Erweiterte Einstellungen</string>
+  <string name="bluetooth_message_move_out_of_blacklist">%1$s jetzt entsperren?</string>
   <string name="bluetooth_mi_fast_connect">Kompatible Geräte koppeln</string>
   <string name="bluetooth_mi_fast_connect_summary">Verbindung zu Geräten in der Nähe mittels eines vereinfachten Kopplungsprozesses</string>
   <string name="bluetooth_middle_name">Fall</string>
+  <string name="bluetooth_move_out_of_blacklist">Gerät entsperren</string>
   <string name="bluetooth_name_not_set">Kein Name festgelegt, Kontoname wird verwendet</string>
   <string name="bluetooth_no_devices_found">Kein Bluetooth-Gerät in der Nähe gefunden</string>
   <string name="bluetooth_not_visible_to_other_devices">Nicht sichtbar für andere Bluetooth-Geräte</string>
@@ -1292,6 +1308,7 @@ BT-Audiogeräte"</string>
   <string name="bluetooth_pairing">Koppeln…</string>
   <string name="bluetooth_pairing_accept">Koppeln</string>
   <string name="bluetooth_pairing_accept_all_caps">KOPPELN</string>
+  <string name="bluetooth_pairing_add_to_blackfile">Sperren</string>
   <string name="bluetooth_pairing_decline">Abbrechen</string>
   <string name="bluetooth_pairing_device_down_error_message">Kommunikation mit %1$s nicht möglich</string>
   <string name="bluetooth_pairing_dialog_contants_request">%1$s möchte auf Ihre Kontakte und Anrufverlauf zugreifen</string>
@@ -1306,6 +1323,7 @@ BT-Audiogeräte"</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
   <string name="bluetooth_pairing_request">Mit %1$s koppeln?</string>
   <string name="bluetooth_pairing_shares_phonebook">Zugriff auf Ihre Kontakte und Ihren Gesprächsverlauf erlauben</string>
+  <string name="bluetooth_pairing_toast_add_to_blackfile">Erfolgreich gesperrt. Sie können gesperrte Elemente in \"Zusätzliche Einstellungen\" verwalten.</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppeln ermöglicht Zugriff auf Ihre Kontakte und die Anrufliste, wenn verbunden</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Gemeinsame Nutzung der lokalen Internetverbindung mit dem Gerät</string>
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetzugriff verwenden</string>
@@ -1379,8 +1397,13 @@ Wiedergabequalität"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Abtastrate</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec wählen:
 Abtastrate"</string>
+  <string name="bluetooth_select_a2dp_codec_type">Bluetooth Audio Codec</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Audio Codec wählen</string>
+  <string name="bluetooth_select_a2dp_codec_type_help_info">Ausgegraut bedeutet keine Unterstützung durch Telefon oder Headset</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
+  <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Version</string>
+  <string name="bluetooth_select_map_version_dialog_title">Bluetooth MAP Version wählen</string>
+  <string name="bluetooth_select_map_version_string">Bluetooth MAP Version</string>
   <string name="bluetooth_settings_summary">Verbindungen, Gerätenamen und Erkennbarkeit verwalten</string>
   <string name="bluetooth_show_devices_without_names">Bluetooth-Geräte ohne Namen anzeigen</string>
   <string name="bluetooth_show_devices_without_names_summary">Bluetooth-Geräte ohne Namen (nur MAC-Adressen) werden angezeigt</string>
@@ -1532,13 +1555,25 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="bt_trace_log_summary">Bluetooth-Tracelog einschalten</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_got_it">Verstanden</string>
+  <string name="bubble_app_setting_all">Alle Unterhaltungen können Sprechblasen bilden</string>
+  <string name="bubble_app_setting_bubble_conversation">Sprechblasen für diese Unterhaltung einschalten</string>
+  <string name="bubble_app_setting_excluded_conversation_title">Alle Unterhaltungen können Sprechblasen bilden außer</string>
+  <string name="bubble_app_setting_none">Nichts kann Sprechblasen bilden</string>
+  <string name="bubble_app_setting_selected">Ausgewählte Unterhaltungen können Sprechblasen bilden</string>
+  <string name="bubble_app_setting_selected_conversation_title">Unterhaltungen</string>
+  <string name="bubble_app_setting_unbubble_conversation">Sprechblasen für diese Unterhaltung ausschalten</string>
   <string name="bubbles_app_toggle_summary">%1$s erlauben, einige Benachrichtigungen als Blasen anzuzeigen</string>
   <string name="bubbles_app_toggle_title">Blasen</string>
+  <string name="bubbles_conversation_app_link">Alle Sprechblaseneinstellungen</string>
+  <string name="bubbles_conversation_toggle_summary">Schwebendes Symbol oben auf Apps anzeigen</string>
+  <string name="bubbles_conversation_toggle_title">Diese Unterhaltung in Sprechblasen verwandeln</string>
   <string name="bubbles_feature_disabled_button_approve">Für das Gerät einschalten</string>
   <string name="bubbles_feature_disabled_button_cancel">Abbrechen</string>
   <string name="bubbles_feature_disabled_dialog_text">Um Blasen für diese App einzuschalten, müssen Sie sie zuerst für Ihr Gerät einschalten. Dies hat Einfluss auf andere Apps, in denen Sie zuvor Blasen aktiviert haben.</string>
   <string name="bubbles_feature_disabled_dialog_title">Blasen einschalten</string>
   <string name="bubbles_feature_education">Einige Benachrichtigungen und andere Inhalte können als Blasen auf dem Bildschirm erscheinen. Zum Öffnen einer Blase tippen Sie auf sie. Zum Verwerfen ziehen Sie sie auf dem Bildschirm nach unten.</string>
+  <string name="bug_report_handler_picker_footer_text">Legt fest, welche App die Fehlerbericht-Verknüpfung auf Ihrem Gerät verwaltet</string>
+  <string name="bug_report_handler_title">Fehlerbericht-Verwalter</string>
   <string name="bug_report_settings">Fehlerbericht erstellen</string>
   <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
   <string name="bugreport_in_power_summary">Schaltfläche für Fehlerberichte im Power-Menü anzeigen</string>
@@ -1567,12 +1602,22 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="button_text_next_step_timer">Weiter (%d)</string>
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="button_text_reject">Ablehnen</string>
+  <string name="ca_certificate">CA-Zertifikat</string>
+  <string name="ca_certificate_warning_description">"CA-Zertifikate werden von Websites, Apps und VPNs zur Verschlüsselung verwendet. Installieren Sie nur CA-Zertifikate von Organisationen, denen Sie vertrauen. 
+
+ Wenn Sie ein CA-Zertifikat installieren, könnte der Zertifikatsinhaber von Websites, die Sie besuchen, oder von Apps, die Sie verwenden, auf Ihre Daten, wie z. B. Passwörter oder Kreditkartendaten, zugreifen - selbst wenn Ihre Daten verschlüsselt sind"</string>
+  <string name="ca_certificate_warning_title">Ihre Daten werden nicht privat sein</string>
   <string name="cached">Hintergrundprozess im Cache</string>
+  <string name="cached_apps_freezer">Ausführung für Apps im Cache aussetzen</string>
+  <string name="cached_apps_freezer_disabled">Deaktiviert</string>
+  <string name="cached_apps_freezer_enabled">Aktiviert</string>
+  <string name="cached_apps_freezer_reboot_dialog_text">Ihr Gerät muss neu gestartet werden, damit diese Änderung wirksam wird. Jetzt neu starten oder abbrechen.</string>
   <string name="calendar_remind">Termine</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
   <string name="calendar_sound_title">Kalendereintrag</string>
   <string name="call_and_contact">Anrufe &amp; Kontakte</string>
   <string name="call_category">Anrufen</string>
+  <string name="call_connected_tones_title">Mit Anrufen verbundene Töne</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden</string>
   <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
   <string name="call_manager_title">Anrufmanager</string>
@@ -1624,12 +1669,15 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="capability_title_receiveAccessibilityEvents">Ihre Aktionen beobachten</string>
   <string name="captioning_background_color">Hintergrundfarbe</string>
   <string name="captioning_background_opacity">Hintergrundtransparenz</string>
+  <string name="captioning_caption_appearance_summary">%1$s Textgröße</string>
+  <string name="captioning_caption_appearance_title">Größe und Stil der Untertitel</string>
   <string name="captioning_custom_options_title">Eigene Optionen</string>
   <string name="captioning_edge_color">Rahmenfarbe</string>
   <string name="captioning_edge_type">Rahmentyp</string>
   <string name="captioning_foreground_color">Textfarbe</string>
   <string name="captioning_foreground_opacity">Textdeckkraft</string>
   <string name="captioning_locale">Sprache</string>
+  <string name="captioning_more_options_title">Mehr Optionen</string>
   <string name="captioning_preset">Untertitelstil</string>
   <string name="captioning_preview_text">Untertitel sehen so aus</string>
   <string name="captioning_preview_title">Vorschau</string>
@@ -1641,6 +1689,10 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="capture_system_heap_dump_title">System-Heap-Dump erfassen</string>
   <string name="capturing_system_heap_dump_message">System-Heap-Dump erfassen…</string>
   <string name="card_main_hbassistant_title">Roter Umschlag;Rotes Paket;Geld</string>
+  <string name="cards_passes_lower">Karten &amp; Pässe</string>
+  <string name="cards_passes_sentence">Karten &amp; Pässe</string>
+  <string name="cards_passes_setting_subtitle">Um auf Dinge wie Ihre Zahlungsmethoden und Bordkarten zuzugreifen, drücken und halten Sie die Einschalttaste.</string>
+  <string name="cards_passes_setting_toggle">Karten &amp; Pässe anzeigen</string>
   <string name="carrier">Mobilfunkanbieter</string>
   <string name="carrier_and_update_now_text">Von ^1 gerade eben aktualisiert</string>
   <string name="carrier_and_update_text">Von ^1 vor ^2 aktualisiert</string>
@@ -1674,6 +1726,9 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="cellular_to_wlan_hint_title">Hinweis Mobilfunk-&gt;WLAN</string>
   <string name="cellular_to_wlan_hint_toast">Verbindung Mobilfunk-&gt;WLAN kann betroffen sein</string>
   <string name="cellular_to_wlan_title">Mobilfunk-&gt;WLAN</string>
+  <string name="cert_not_installed">Zertifikat nicht installiert</string>
+  <string name="certificate_warning_dont_install">Nicht installieren</string>
+  <string name="certificate_warning_install_anyway">Trotzdem installieren</string>
   <string name="change">Ändern</string>
   <string name="change_brightness">Helligkeit einstellen</string>
   <string name="change_lock_screen_password_title">Bildschirmsperre ändern</string>
@@ -1904,6 +1959,9 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="confirm_reject_all_permission">Alle Apps daran hindern, diese Funktion zu nutzen?</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Drosselungsszähler für ShortcutManager zurücksetzen?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Drosselung für ShortcutManager zurücksetzen?</string>
+  <string name="confirm_sim_deletion_description">Bestätigen Sie, dass Sie es sind, bevor Sie eine heruntergeladene SIM-Karte löschen</string>
+  <string name="confirm_sim_deletion_title">SIM-Kartenlöschung bestätigen</string>
+  <string name="confirmation_turn_on">Einschalten</string>
   <string name="connect_later">Verbindung zu diesem Netzwerk ist derzeit nicht möglich. Später erneut versuchen.</string>
   <string name="connect_mode">Verbindungstyp</string>
   <string name="connect_to_internet">Netzwerkverbindung</string>
@@ -1915,11 +1973,16 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="connected_device_available_call_title">Verfügbare Anrufgeräte</string>
   <string name="connected_device_available_media_title">Verfügbare Mediengeräte</string>
   <string name="connected_device_bluetooth_turned_on_toast">Bluetooth eingeschaltet</string>
+  <string name="connected_device_call_device_title">Telefongeräte</string>
   <string name="connected_device_connected_title">Aktuell verbunden</string>
   <string name="connected_device_connections_title">Verbindungseinstellungen</string>
+  <string name="connected_device_media_device_title">Mediengeräte</string>
+  <string name="connected_device_other_device_title">Andere Geräte</string>
   <string name="connected_device_previously_connected_screen_title">Zuvor verbunden</string>
   <string name="connected_device_previously_connected_title">Zuvor verbundene Geräte</string>
   <string name="connected_device_saved_title">Gespeicherte Geräte</string>
+  <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, Fahrmodus</string>
+  <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, Fahrmodus, NFC</string>
   <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, Fahrmodus</string>
   <string name="connected_devices_dashboard_summary">Bluetooth, Fahrmodus, NFC</string>
   <string name="connected_devices_dashboard_title">Verbundene Geräte</string>
@@ -1934,6 +1997,16 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="connecting_to_vpn">Verbindung zum VPN</string>
   <string name="connection_and_sharing">Verbinden &amp; Teilen</string>
   <string name="contact_data">Kontakte</string>
+  <string name="contact_discovery_opt_in_dialog_message">"Die Telefonnummern Ihrer Kontakte werden in regelmäßigen Abständen an %1$s gesendet.
+
+Diese Info gibt an, ob Ihre Kontakte bestimmte Funktionen nutzen können, wie z. B. Videoanrufe oder einige Messaging-Funktionen."</string>
+  <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Die Telefonnummern Ihrer Kontakte werden in regelmäßigen Abständen an Ihren Anbieter gesendet.
+
+Diese Info gibt an, ob Ihre Kontakte bestimmte Funktionen nutzen können, wie z. B. Videoanrufe oder einige Messaging-Funktionen."</string>
+  <string name="contact_discovery_opt_in_dialog_title">Kontakte an %1$s senden?</string>
+  <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Kontakte an Ihren Anbieter senden?</string>
+  <string name="contact_discovery_opt_in_summary">Telefonnummern Ihrer Kontakte senden, um erweiterte Funktionen bereitzustellen</string>
+  <string name="contact_discovery_opt_in_title">Kontakte an den Anbieter senden</string>
   <string name="contact_title">Kontakte</string>
   <string name="content_capture">App-Inhalt</string>
   <string name="content_capture_summary">Apps erlauben, Inhalte ans Android-System zu senden</string>
@@ -1955,6 +2028,15 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="controls_label">Steuerung</string>
   <string name="controls_subtitle">Stromverbrauch anpassen</string>
   <string name="convenience_key_category_title">Systemsteuerung</string>
+  <string name="conversation_category_title">Unterhaltung</string>
+  <string name="conversation_onboarding_summary">"Sobald Sie eine Unterhaltung als vorrangig markieren oder andere Änderungen an Unterhaltungen vornehmen, werden diese hier angezeigt. 
+
+Gesprächseinstellungen ändern: 
+Vom oberen Bildschirmrand runterwischen, um die Pulldown-Leiste zu öffnen, dann eine Unterhaltung berühren &amp; halten."</string>
+  <string name="conversation_onboarding_title">Vorrangige und geänderte Unterhaltungen werden hier angezeigt</string>
+  <string name="conversation_section_switch_summary">Der App die Verwendung des Unterhaltungsbereichs erlauben</string>
+  <string name="conversation_section_switch_title">Unterhaltungsbereich</string>
+  <string name="conversations_category_title">Unterhaltungen</string>
   <string name="convert_to_fbe_warning">"Konvertieren der Datenpartition in dateibasierte Verschlüsselung.
 Warnung: Dies löscht alle Ihre Daten.
 Diese Funktion wird gerade entwickelt und arbeitet eventuell nicht richtig.
@@ -1962,6 +2044,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
   <string name="convert_to_file_encryption_done">Dateiverschlüsselung bereits erledigt</string>
   <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
+  <string name="convo_not_supported_summary">%1$s unterstützt die meisten Unterhaltungsfunktionen nicht. Sie können eine Unterhaltung nicht als vorrangig festlegen, und Unterhaltungen werden nicht als Sprechblasen angezeigt.</string>
   <string name="cool_color">Kühl</string>
   <string name="copy">Kopieren</string>
   <string name="copyable_slice_toast">%1$s in Zwischenablage kopiert</string>
@@ -1995,6 +2078,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="credentials_title_verification">Verifizierung</string>
   <string name="credentials_unlock_hint">Passwort für den Anmeldedatenspeicher eingeben</string>
   <string name="credentials_wrong_password">Falsches Passwort</string>
+  <string name="crisp_text">Hohe Frequenzen sorgen für mehr Klarheit bei den Details jeder Aktion</string>
+  <string name="critical_feedback">Kritisches Feedback</string>
   <string name="cross_profile_calendar_restricted_summary">Ihre Firma erlaubt es persönlichen Apps nicht, auf Ihren Arbeitskalender zuzugreifen</string>
   <string name="cross_profile_calendar_summary">Arbeitstermine in Ihrem persönlichen Kalender anzeigen</string>
   <string name="cross_profile_calendar_title">Profilübergreifender Kalender</string>
@@ -2062,10 +2147,16 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="cutout_type_desc">Einschalten zum Glätten der Notch-Kurven</string>
   <string name="cutout_type_title">Anpassen der Notch-Form</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (Grünsehschwäche)</string>
+  <string name="daltonizer_mode_deuteranomaly_summary">Rot-Grün-Sehschwäche</string>
+  <string name="daltonizer_mode_deuteranomaly_title">Deuteranomalie</string>
   <string name="daltonizer_mode_disabled">Deaktiviert</string>
   <string name="daltonizer_mode_monochromacy">Monochromasie (nur Graustufen)</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (Rotsehschwäche)</string>
+  <string name="daltonizer_mode_protanomaly_summary">Rot-Grün-Sehschwäche</string>
+  <string name="daltonizer_mode_protanomaly_title">Protanomalie</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (Blausehschwäche)</string>
+  <string name="daltonizer_mode_tritanomaly_summary">Blau-Gelb-Sehschwäche</string>
+  <string name="daltonizer_mode_tritanomaly_title">Tritanomalie</string>
   <string name="daltonizer_type">Korrekturmodus</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
   <string name="dangerous_option">Risikoreiche Entwickleroptionen</string>
@@ -2080,6 +2171,18 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="dark_mode_contrast">Kontrast automatisch einstellen</string>
   <string name="dark_mode_contrast_hint">Farben und geringeren Kontrast automatisch anpassen, wenn die Helligkeit reduziert wird</string>
   <string name="dark_mode_font_background_title">Text und Hintergründe automatisch anpassen</string>
+  <string name="dark_theme_slice_subtitle">Verlängert die Akkulaufzeit</string>
+  <string name="dark_theme_slice_title">Dunkles Design testen</string>
+  <string name="dark_ui_activation_off_auto">Bis Sonnenuntergang deaktivieren</string>
+  <string name="dark_ui_activation_off_custom">Bis %1$s deaktivieren</string>
+  <string name="dark_ui_activation_off_manual">Jetzt deaktivieren</string>
+  <string name="dark_ui_activation_on_auto">Bis Sonnenaufgang aktivieren</string>
+  <string name="dark_ui_activation_on_custom">Bis %1$s aktivieren</string>
+  <string name="dark_ui_activation_on_manual">Jetzt aktivieren</string>
+  <string name="dark_ui_auto_mode_auto">An von Sonnenuntergang bis -aufgang</string>
+  <string name="dark_ui_auto_mode_custom">Zu benutzerdefinierter Zeit</string>
+  <string name="dark_ui_auto_mode_never">Niemals</string>
+  <string name="dark_ui_auto_mode_title">Zeitplan</string>
   <string name="dark_ui_mode">Nachtmodus</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">Temporär eingeschaltet durch Stromsparen</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">An/Temporär ausgeschaltet durch Stromsparen</string>
@@ -2087,6 +2190,16 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="dark_ui_settings_dark_summary">Unterstützte Apps wechseln auch zu einem dunklen Thema</string>
   <string name="dark_ui_settings_dialog_acknowledge">Verstanden</string>
   <string name="dark_ui_settings_light_summary">Diese Einstellungen gelten auch für Apps</string>
+  <string name="dark_ui_summary_off">Aus / %1$s</string>
+  <string name="dark_ui_summary_off_auto_mode_auto">Wird automatisch bei Sonnenuntergang aktiviert</string>
+  <string name="dark_ui_summary_off_auto_mode_custom">Wird automatisch um %1$s aktiviert</string>
+  <string name="dark_ui_summary_off_auto_mode_never">Wird nie automatisch aktiviert</string>
+  <string name="dark_ui_summary_on">An / %1$s</string>
+  <string name="dark_ui_summary_on_auto_mode_auto">Wird automatisch bei Sonnenaufgang deaktiviert</string>
+  <string name="dark_ui_summary_on_auto_mode_custom">Wird automatisch um %1$s deaktiviert</string>
+  <string name="dark_ui_summary_on_auto_mode_never">Wird nie automatisch deaktiviert</string>
+  <string name="dark_ui_text">Beim dunklen Design ist der Hintergrund schwarz, damit Ihr Akku länger hält. Zeitpläne für das dunkle Design werden erst aktiviert, wenn der Bildschirm aus ist.</string>
+  <string name="dark_ui_title">Dunkler Modus</string>
   <string name="dark_wallpaper_mode">Hintergrundbild an den Dark Mode anpassen</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Zuklappen</string>
   <string name="dashboard_title">Einstellungen</string>
@@ -2096,6 +2209,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="data_limit">Datenlimit</string>
   <string name="data_no_enough_space_message">Auf Ihrem Gerät ist nicht genügend Speicher vorhanden</string>
   <string name="data_overusage">^1 drüber</string>
+  <string name="data_preference">Daten-Präferenz</string>
   <string name="data_remaining">^1 übrig</string>
   <string name="data_saver_off">Aus</string>
   <string name="data_saver_on">An</string>
@@ -2126,6 +2240,8 @@ Für einige Konten werden eventuell auch Änderungen, die Sie auf Ihrem Gerät v
   <string name="data_usage_cellular_data">Mobile Daten</string>
   <string name="data_usage_cellular_data_summary">Wegen Limit angehalten</string>
   <string name="data_usage_change_cycle">Zeitraum ändern…</string>
+  <string name="data_usage_chart_brief_content_description">Grafik zeigt Datennutzung zwischen dem %1$s und dem %2$s.</string>
+  <string name="data_usage_chart_no_data_content_description">Keine Daten für diesen Zeitraum vorhanden</string>
   <string name="data_usage_cycle">Datenverbrauchszyklus</string>
   <string name="data_usage_cycle_editor_positive">Übernehmen</string>
   <string name="data_usage_cycle_editor_subtitle">Datum (monatlich):</string>
@@ -2281,6 +2397,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="delete">Löschen</string>
   <string name="delete_backup_process">Löschen…</string>
   <string name="delete_backup_title">Sicherung löschen</string>
+  <string name="delete_blob_confirmation_text">Sind Sie sicher, dass Sie diese gemeinsamen Daten löschen wollen?</string>
+  <string name="delete_blob_text">Gemeinsame Daten löschen</string>
   <string name="delete_failed_backup_confirm">Diese Sicherung ist fehlerhaft</string>
   <string name="delete_fingerprint_confirm_msg">Fingerabdruck entfernen?</string>
   <string name="delete_fingerprint_confirm_title">Vorsicht</string>
@@ -2296,6 +2414,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="deletion_helper_preference_title">Jetzt Speicher freigeben</string>
   <string name="demo_mode">Demomodus</string>
   <string name="demo_mode_summary">Demosymbol in der Statusleiste anzeigen</string>
+  <string name="demote_conversation_summary">Aus dem Unterhaltungsbereich entfernen</string>
+  <string name="demote_conversation_title">Keine Unterhaltung</string>
   <string name="deny">Ablehnen</string>
   <string name="deselect_all">Alle abwählen</string>
   <string name="detail_app_button">App-Info</string>
@@ -2326,6 +2446,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_camera">Kamera</string>
   <string name="device_cellular_network">Mobilfunknetz scannen</string>
   <string name="device_complete_parameters">Alle Spezifikationen</string>
+  <string name="device_controls_sentence">Gerätesteuerung</string>
+  <string name="device_controls_setting_subtitle">Einschalttaste gedrückt halten, um auf Steuerungen für angeschlossene Geräte zuzugreifen</string>
+  <string name="device_controls_setting_toggle">Gerätesteuerung anzeigen</string>>
   <string name="device_description_battery">Akkukapazität</string>
   <string name="device_description_camera">Hauptkamera</string>
   <string name="device_description_cpu">CPU</string>
@@ -2391,6 +2514,7 @@ Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese App."</st
   <string name="dialog_location_ok">Ausschalten</string>
   <string name="dialog_location_title">Standort ausschalten?</string>
   <string name="dialog_msg_auto_start_declare">Einige Apps können irrtümlich anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie die erteilten Berechtigungen einzelner Apps unter Einstellungen &gt; Apps.</string>
+  <string name="dialog_network_priority_title">Priorität</string>
   <string name="dialog_no">Nein</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
   <string name="dialog_restrict_all_mobile_title">Einschränken der mobilen Datenverbindung in %s</string>
@@ -2434,6 +2558,14 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disable_service_message">Wenn Sie OK drücken, wird %1$s beendet</string>
   <string name="disable_service_title">%1$s beenden?</string>
   <string name="disable_text">Deaktivieren</string>
+  <string name="disable_wifi_hotspot_title">Keinen WLAN-Hotspot verwenden</string>
+  <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Internet nur über Bluetooth und Ethernet teilen</string>
+  <string name="disable_wifi_hotspot_when_bluetooth_on">Internet nur über Bluetooth teilen</string>
+  <string name="disable_wifi_hotspot_when_ethernet_on">Internet nur über Ethernet teilen</string>
+  <string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Internet nur über USB, Bluetooth und Ethernet teilen</string>
+  <string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">Internet nur über USB und Bluetooth teilen</string>
+  <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Internet nur über USB und Ethernet teilen</string>
+  <string name="disable_wifi_hotspot_when_usb_on">Internet nur über USB teilen</string>
   <string name="disabled">Deaktiviert</string>
   <string name="disabled_authorised_apps_title">Widerruf der Berechtigung</string>
   <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
@@ -2600,6 +2732,9 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dsds_dialog_message">Sie müssen Ihr Gerät neu starten, um diese Einstellung zu ändern</string>
   <string name="dsds_dialog_title">Gerät neu starten?</string>
   <string name="dsds_switch_string">DSDS aktivieren</string>
+  <string name="dsu_is_running">DSU wird ausgeführt</string>
+  <string name="dsu_loader_description">Dynamisches System-Update-Image laden</string>
+  <string name="dsu_loader_loading">Laden...</string>
   <string name="dtmf_tone_enable_title">Wähltastentöne</string>
   <string name="dual_cdma_sim_warning_notification_channel_title">SIM-Kombination</string>
   <string name="dual_cdma_sim_warning_notification_summary">Verwendung von %1$s kann die Funktionalität einschränken. Tippen, um mehr zu erfahren.</string>
@@ -2647,6 +2782,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="edit_rule">Regeln bearbeiten</string>
   <string name="edit_rules">Bearbeiten</string>
   <string name="eighthours">8 Stunden</string>
+  <string name="elastic_text">Prompts und Dropdown-Menüs erscheinen mit einem elastischen Pop, der mehr Aufmerksamkeit auf diese Objekte lenkt</string>
   <string name="emergency_address_summary">Adresse, die von den Rettungsdiensten als Standort verwendet wird, wenn Sie einen Notruf über WLAN tätigen</string>
   <string name="emergency_address_title">Notfalladresse aktualisieren</string>
   <string name="emergency_info_contextual_card_summary">Medizinische Infos, Notfallkontakte</string>
@@ -2663,11 +2799,14 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="empty_title_auto_start_list">Keine App kann automatisch starten</string>
   <string name="empty_title_perm_apps">Keine App hat diese Berechtigung</string>
   <string name="empty_title_permission_apps_list">Keine Apps</string>
-  <string name="enabled">Ein</string>
   <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">Debug-Modus bei Anschluss über USB</string>
+  <string name="enable_adb_wireless">Kabelloses Debugging</string>
+  <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
   <string name="enable_atrace">ATrace einschalten</string>
   <string name="enable_atrace_summary">Kernel-Ereignisse mit ATrace erfassen</string>
+  <string name="enable_blurs_on_windows_summary">Aktiviert die Fensterunschärfe auf Compositor-Ebene. Erfordert einen Neustart des Geräts.</string>
+  <string name="enable_blurs_on_windows_title">Unschärfe aktivieren</string>
   <string name="enable_compatibility">App skalieren</string>
   <string name="enable_encrypt">Verschlüsselung einschalten</string>
   <string name="enable_encrypt_description">Verschlüsseln</string>
@@ -2698,15 +2837,21 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="enable_service_pattern_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Entsperrmuster bestätigen</string>
   <string name="enable_service_pin_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihren PIN-Code bestätigen</string>
   <string name="enable_service_title">Dienst führt diese Aktionen durch</string>
+  <string name="enable_sizecompat_freeform">Freiform-Größenkompatibilität aktivieren</string>
+  <string name="enable_sizecompat_freeform_summary">Erlaubt größenkompatiblen Apps, in Freiform zu sein</string>
   <string name="enable_snapshot_screenlock">Zurücktaste lange gedrückt halten, um ein Foto zu machen</string>
   <string name="enable_tcp_rtt_support">TCP RTT anzeigen</string>
   <string name="enable_tcp_rtt_support_summary">Bewertung der Leistung der Qualität der Netzwerkkommunikation</string>
   <string name="enable_terminal_summary">Terminal-App aktivieren, die den lokalen Shell-Zugriff bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_text">Aktivieren</string>
+  <string name="enable_verbose_vendor_logging">Ausführliche Vendor-Protokollierung aktivieren</string>
+  <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Informationen enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
   <string name="enable_webview_multiprocess_desc">WebView Renderer separat ausführen</string>
   <string name="enable_wifi_display">Kabellose Übertragung aktivieren</string>
+  <string name="enabled">Ein</string>
+  <string name="enabled_5g_mode_title">5G aktivieren</string>
   <string name="enabled_authorised_apps_summary">Ihre Berechtigung wird widerrufen, wenn Sie die Schalter der einzelnen Apps umlegen.</string>
   <string name="enabled_authorised_apps_title">Erteilte Berechtigung</string>
   <string name="enabled_by_admin">Vom Administrator aktiviert</string>
@@ -2727,7 +2872,6 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="encryption_and_credential_settings_title">Verschlüsselung &amp; Anmeldedaten</string>
   <string name="encryption_continue_button">Weiter</string>
   <string name="encryption_interstitial_header">Sicherer Start</string>
-  <string name="eq_return">Zurück</string>
   <string name="encryption_interstitial_message_password">"Sie können dieses Gerät zusätzlich durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?"</string>
@@ -2768,6 +2912,8 @@ Einige Apps funktionieren eventuell erst, wenn sie von ihren Entwicklern aktuali
   <string name="enhanced_4g_lte_mode_summary_4g_calling">4G-Dienste verwenden, um Sprache und Kommunikation zu verbessern (empfohlen)</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">4G-Anrufe</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Erweiterte Anrufe</string>
+  <string name="enhanced_connectivity">Erweiterte Konnektivität</string>
+  <string name="enhanced_connectivity_summary">Aktiviert die Funktion Erweiterte Konnektivität</string>
   <string name="enrol_fingerprint_data">Fingerabdruck hinzufügen</string>
   <string name="enter_password">Passwort zum Starten von Android eingeben</string>
   <string name="enter_pattern">Muster zum Starten von Android zeichnen</string>
@@ -2822,6 +2968,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="eq_preset_hint">Effektname</string>
   <string name="eq_preset_rename">Umbenennen</string>
   <string name="eq_preset_select">Voreinstellung auswählen</string>
+  <string name="eq_return">Zurück</string>
   <string name="erase_application">Apps löschen</string>
   <string name="erase_application_description">Löscht heruntergeladene Apps</string>
   <string name="erase_data">Löschen</string>
