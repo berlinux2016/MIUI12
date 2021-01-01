@@ -615,9 +615,9 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="one">Falsche PIN, Sie haben noch %d Versuch, bevor Sie Ihren Mobilfunkanbieter kontaktieren müssen, um Ihr Gerät zu entsperren.</item>
   </plurals>
   <plurals name="zen_mode_bypassing_apps_subtext">
-    <item quantity="other">Benachrichtigungen von %1$d Apps können \"Nicht stören\" überschreiben</item>
-    <item quantity="zero">Keine App kann \"Nicht stören\" überschreiben</item>
-    <item quantity="one">Benachrichtigungen von %1$d App können \"Nicht stören\" überschreiben</item>
+    <item quantity="other">%s können unterbrechen</item>
+    <item quantity="zero">Keine kann unterbrechen</item>
+    <item quantity="one">%s kann unterbrechen</item>
   </plurals>
   <plurals name="zen_mode_contacts_count">
     <item quantity="other">%d Kontakte</item>
