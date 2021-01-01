@@ -1455,13 +1455,13 @@ Screenshot zu erstellen"</string>
   <string name="miui_screen_rotation_freeze_message">Sperrbildschirm im Querformatmodus ausrichten</string>
   <string name="miui_toast_zen_dnd_to_off">DND-Modus ist aus. Töne und Vibrationen sind jetzt an.</string>
   <string name="miui_toast_zen_dnd_to_off_version_R">DND ist aus. Benachrichtigungstöne und Vibration sind wieder an.</string>
-  <string name="miui_toast_zen_standard_to_off">Lautlos-Modus ist aus. Anruf- und Benachrichtigungstöne sind jetzt an.</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Lautlos-Modus ist aus. Anruf-, Benachrichtigungs- und Medientöne sind jetzt an.</string>
+  <string name="miui_toast_zen_standard_to_off">Lautlosmodus ist aus. Anruf- und Benachrichtigungstöne sind jetzt an.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Lautlosmodus ist aus. Anruf-, Benachrichtigungs- und Medientöne sind jetzt an.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Lautlosmodus ist aus. Benachrichtigungen, Medientöne und Vibration sind wieder an.</string>
   <string name="miui_toast_zen_to_dnd">Zum DND-Modus gewechselt. Töne und Vibration sind jetzt aus.</string>
   <string name="miui_toast_zen_to_dnd_version_R">DND ist an. Benachrichtigungen werden lautlos gestellt und die Vibration ausgeschaltet.</string>
-  <string name="miui_toast_zen_to_standard">Zum Lautlos-Modus gewechselt. Anruf- und Benachrichtigungstöne sind jetzt aus.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Zum Lautlos-Modus gewechselt, Anruf-, Benachrichtigungs- und Medientöne sind jetzt aus.</string>
+  <string name="miui_toast_zen_to_standard">Zum Lautlosmodus gewechselt. Anruf- und Benachrichtigungstöne sind jetzt aus.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Zum Lautlosmodus gewechselt, Anruf-, Benachrichtigungs- und Medientöne sind jetzt aus.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Lautlosmodus ist an. Benachrichtigungen und Medien werden lautlos gestellt und die Vibration ausgeschaltet.</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>

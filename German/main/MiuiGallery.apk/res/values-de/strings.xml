@@ -2022,7 +2022,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="text_append_color">Farbe</string>
   <string name="text_append_font">Schriftart</string>
   <string name="text_append_hint">Text eingeben</string>
-  <string name="text_append_style">Blase</string>
+  <string name="text_append_style">Sprechblase</string>
   <string name="text_append_transparent">Deckkraft</string>
   <string name="text_edit_dialog_font">Font</string>
   <string name="text_edit_dialog_font_default">Standard</string>
@@ -2037,7 +2037,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="text_edit_dialog_style_stroke">Kontur</string>
   <string name="text_edit_dialog_style_toast">Konturtext kann nicht auf Hintergründen platziert werden</string>
   <string name="text_edit_dialog_style_transparent">Transparenz</string>
-  <string name="text_edit_sub_menu_text">Blase</string>
+  <string name="text_edit_sub_menu_text">Sprechblase</string>
   <string name="text_tab_bubble">Text</string>
   <string name="text_tab_city">Stadt</string>
   <string name="text_tab_festival">Feiertag</string>

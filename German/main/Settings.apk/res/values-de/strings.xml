@@ -1571,7 +1571,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="bubbles_feature_disabled_button_cancel">Abbrechen</string>
   <string name="bubbles_feature_disabled_dialog_text">Um Blasen für diese App einzuschalten, müssen Sie sie zuerst für Ihr Gerät einschalten. Dies hat Einfluss auf andere Apps, in denen Sie zuvor Blasen aktiviert haben.</string>
   <string name="bubbles_feature_disabled_dialog_title">Blasen einschalten</string>
-  <string name="bubbles_feature_education">Einige Benachrichtigungen und andere Inhalte können als Blasen auf dem Bildschirm erscheinen. Zum Öffnen einer Blase tippen Sie auf sie. Zum Verwerfen ziehen Sie sie auf dem Bildschirm nach unten.</string>
+  <string name="bubbles_feature_education">Einige Benachrichtigungen und andere Inhalte können als Blasen auf dem Bildschirm erscheinen. Zum Öffnen einer Sprechblase tippen Sie auf sie. Zum Verwerfen ziehen Sie sie auf dem Bildschirm nach unten.</string>
   <string name="bug_report_handler_picker_footer_text">Legt fest, welche App die Fehlerbericht-Verknüpfung auf Ihrem Gerät verwaltet</string>
   <string name="bug_report_handler_title">Fehlerbericht-Verwalter</string>
   <string name="bug_report_settings">Fehlerbericht erstellen</string>
