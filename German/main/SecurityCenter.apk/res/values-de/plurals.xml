@@ -559,8 +559,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">%d Punkt optimierbar</item>
   </plurals>
   <plurals name="power_center_battery_suggest">
-    <item quantity="other">%d Punkte optimieren, um den Akku zu schonen</item>
-    <item quantity="one">%d Punkt optimieren, um den Akku zu schonen</item>
+    <item quantity="other">"Sie können %d Punkte optimieren,
+um den Akku zu schonen"</item> 
+<item quantity="one">"Sie können %d Punkt optimieren,
+um den Akku zu schonen"</item>
   </plurals>
   <plurals name="power_center_battery_suggest_result">
     <item quantity="other">%d Punkte optimieren, um den Akku zu schonen</item>
