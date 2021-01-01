@@ -101,7 +101,7 @@ Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit d
   <string name="adaptive_sleep_description">Verhindert, dass der Bildschirm ausgeschaltet wird, wenn Sie auf ihn schauen</string>
   <string name="adaptive_sleep_summary_no_permission">Tippen, um Berechtigungen für Dienste zur Gerätepersonalisierung zu verwalten</string>
   <string name="adaptive_sleep_title_no_permission">Zugriff auf Kamera erforderlich</string>
-  <string name="adb_authorization_timeout_summary">Automatische Aufhebung von ADB-Autorisierungen für Systeme deaktivieren, die sich nicht innerhalb der Standardzeit (7 Tage) oder der vom Nutzer festgelegten Zeit (mindestens 1 Tag) wieder verbunden haben.</string>
+  <string name="adb_authorization_timeout_summary">Automatische Aufhebung von ADB-Autorisierungen für Systeme deaktivieren, die sich nicht innerhalb der Standardzeit (7 Tage) oder der vom Benutzer festgelegten Zeit (mindestens 1 Tag) wieder verbunden haben.</string>
   <string name="adb_authorization_timeout_title">Zeitlimit für ADB-Autorisierung deaktivieren</string>
   <string name="adb_device_fingerprint_title_format">Fingerabdruck des Geräts: %1$s</string>
   <string name="adb_device_forget">Entfernen</string>
@@ -530,7 +530,7 @@ Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funkt
   <string name="roaming_warning">Eventuell fallen Roaminggebühren an.</string>
   <string name="roaming_warning_multiuser">"Wenn Sie Daten-Roaming zulassen, fallen eventuell Roaminggebühren an.
 
-Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
+Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="runtime_permissions_summary_control_app_access">App-Zugriff auf Ihre Daten kontrollieren</string>
   <string name="screen_locking_sounds_title">Ton bei Bildschirmsperre</string>
   <string name="screen_pinning_description">"Mit App-Anheften können Sie die aktuelle App so lange im Blick behalten, bis Sie das Anheften aufheben. Diese Funktion kann zum Beispiel verwendet werden, um einen vertrauenswürdigen Freund ein bestimmtes Spiel spielen zu lassen.
@@ -601,7 +601,7 @@ Ihr Telefon kann eventuell auch von jemandem entsperrt werden, der Ihnen sehr ä
   <string name="select_invalid_bug_report_handler_toast_text">Diese Auswahl ist nicht mehr gültig. Bitte erneut versuchen.</string>
   <string name="shared_data_delete_failure_text">Beim Löschen der geteilten Daten ist ein Fehler aufgetreten.</string>
   <string name="shared_data_no_accessors_dialog_text">Für diese geteilten Daten gibt es keine Freigaben. Möchten Sie sie löschen?</string>
-  <string name="shared_data_no_blobs_text">Es gibt keine geteilten Daten für diesen Nutzer.</string>
+  <string name="shared_data_no_blobs_text">Es gibt keine geteilten Daten für diesen Benutzer.</string>
   <string name="shared_data_query_failure_text">Beim Abrufen der geteilten Daten ist ein Fehler aufgetreten. Erneut versuchen.</string>
   <string name="shared_data_summary">Geteilte Daten anzeigen und ändern</string>
   <string name="shared_data_title">Geteilte Daten</string>

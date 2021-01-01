@@ -333,7 +333,7 @@ Sie müssen die Kika Datenschutzerklärung akzeptieren, bevor Sie diese Funktion
   <string name="terms_privacy_policy_input_method_kika">Kika Datenschutzerklärung</string>
   <string name="title_fingerprint">Fingerabdruck hinzufügen</string>
   <string name="user_agreement">Nutzervereinbarung</string>
-  <string name="user_agreement_declare">Bevor Sie MIUI verwenden, müssen Sie unsere Benutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Während Ihr Gerät aktiviert wird, verbinden sich der Mi SIM-Aktivierungsdienst, Gerät finden, häufige Ausdrücke, der Übersetzungsdienst, der MIUI Daemon, HTML-Betrachter und der Updater mit dem Netzwerk. Intelligente Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu.</string>
+  <string name="user_agreement_declare">Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Während Ihr Gerät aktiviert wird, verbinden sich der Mi SIM-Aktivierungsdienst, Gerät finden, häufige Ausdrücke, der Übersetzungsdienst, der MIUI Daemon, HTML-Betrachter und der Updater mit dem Netzwerk. Intelligente Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu.</string>
   <string name="voice_assist_advice">Mi KI ermöglicht die Verwendung von Sprachsteuerung, verbraucht aber mehr Strom (+1% pro Stunde).</string>
   <string name="voice_assist_condition">"In diesen Fällen können Sie Mi KI verwenden:
 1. Wenn der Bildschirm an ist.

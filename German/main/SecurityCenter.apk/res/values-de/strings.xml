@@ -938,7 +938,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile 
   <string name="databooster_tips_title">Achtung</string>
   <string name="day_overflow_tips">Der tägliche Datenverbrauch überschreitet das Limit</string>
   <string name="debug_open_final_tip">USB-Debugging einschalten?</string>
-  <string name="debug_open_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Nutzer möglicherweise nicht geeignet. Einschalten von USB-Debugging könnte die folgenden Änderungen mit sich bringen:</string>
+  <string name="debug_open_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Benutzer möglicherweise nicht geeignet. Einschalten von USB-Debugging könnte die folgenden Änderungen mit sich bringen:</string>
   <string name="declaration_dialog_msg">Diese Funktion kann Ihnen helfen, Ihre Datennutzung zu überwachen. Sie ist keine Garantie für die Vermeidung zusätzlicher Kosten. Mit einem konservativen Limit erzielen Sie die besten Ergebnisse.</string>
   <string name="deep_clean_disconnect_data_title">Nach Gerätesperre mobile Daten aus</string>
   <string name="deep_clean_memory_clean_title">Nach Gerätesperre Cache löschen</string>
@@ -2051,7 +2051,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="midrop_post_notification_contentText">Probieren Sie Mi Drop. Es ist schnell und werbefrei.</string>
   <string name="midrop_post_notification_contentTitle">Sie müssen Dateien übertragen?</string>
   <string name="miui_optimization_close_final_tip">MIUI-Optimierung ausschalten?</string>
-  <string name="miui_optimization_close_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Nutzer möglicherweise nicht geeignet. Abschalten der MIUI-Optimierung könnte die folgenden Änderungen mit sich bringen:</string>
+  <string name="miui_optimization_close_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Benutzer möglicherweise nicht geeignet. Abschalten der MIUI-Optimierung könnte die folgenden Änderungen mit sich bringen:</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
@@ -3713,7 +3713,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="summary_permission">Unerwünschte Zahlungen vermeiden und personenbezogene Daten schützen</string>
   <string name="summary_permission_root">Anscheinend hat dieses Gerät Root-Zugriff. Dies kann die Sicherheit Ihres Geräts beeinträchtigen.</string>
   <string name="summary_power_optimizer">Leistung reduzieren, wenn der Akkustand niedrig ist</string>
-  <string name="summary_rcs_switch">Senden Sie SMS ohne Kosten an China Mobile-Nutzer</string>
+  <string name="summary_rcs_switch">Senden Sie SMS ohne Kosten an China Mobile-Benutzer</string>
   <string name="summary_realname_verify">Verifizieren Sie Ihre Identität, um Zahlungen sicherer zu machen</string>
   <string name="summary_restrict_data_usage">Sie haben die Datennutzung für diese App eingeschränkt.</string>
   <string name="summary_show_notification">Cache löschen, Akkustatus anzeigen und Elemente in der Benachrichtigungsleiste blockieren</string>
@@ -3760,25 +3760,25 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="system_permission_declare_agree">Zustimmen</string>
   <string name="system_permission_declare_analytics_declare">Wir laden Sie ein, sich für unser User Experience-Programm anzumelden. Diese App muss eine Internetverbindung herstellen und die folgenden Berechtigungen oder Funktionen zum Sammeln von Statistiken nutzen, um die von uns angebotenen Dienste zu verbessern. Wir sammeln hier nur Daten für statistische Zwecke und wir können Sie anhand der von uns gesammelten Daten nicht persönlich identifizieren.</string>
   <string name="system_permission_declare_disagree">Nicht zustimmen</string>
-  <string name="system_permission_declare_double_link"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>.</Data></string>
+  <string name="system_permission_declare_double_link"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Willkommen bei %1s! Mit dieser App können Sie die folgende Funktion nutzen: %2s.</string>
-  <string name="system_permission_declare_meanwhile_double_link"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>.</Data></string>
-  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>.</Data></string>
-  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>.</Data></string>
   <string name="system_permission_declare_no_say_no">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu erfassen und zu verwenden, wird diese App nicht normal funktionieren.</string>
   <string name="system_permission_declare_no_say_no_analytics">Wenn Sie diese Berechtigungen nicht gewähren möchten, können Sie sich unter Einstellungen &gt; Zusätzliche Einstellungen &gt; Datenschutz &gt; Benutzererfahrungsprogramm abmelden.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu sammeln und zu verwenden, kann diese App teilweise nicht funktionieren.</string>
   <string name="system_permission_declare_privacy_declare">Diese App muss mit dem Internet verbunden sein und benötigt die folgenden Berechtigungen, um normal arbeiten zu können:</string>
   <string name="system_permission_declare_privacy_no_network">Diese App benötigt die folgenden Berechtigungen, um normal zu funktionieren:</string>
   <string name="system_permission_declare_privacy_no_permission">Diese App muss sich mit dem Internet verbinden und die erforderlichen persönlichen Daten sammeln, um normal arbeiten zu können.</string>
-  <string name="system_permission_declare_privacy_policy"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>.</Data></string>
+  <string name="system_permission_declare_privacy_policy"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>.</Data></string>
   <string name="system_permission_declare_revoke_path">Sie können diese App deinstallieren, sich von Ihrem Konto abmelden oder Ihre Berechtigungen und Autorisierungen verwalten in Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Andere Berechtigungen.</string>
   <string name="system_permission_declare_revoke_system">Sie können diese App beenden.</string>
   <string name="system_permission_declare_revoke_uninstallable">Sie können diese App deinstallieren oder Ihre Berechtigungen und Autorisierungen unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Weitere Berechtigungen ändern.</string>
   <string name="system_permission_declare_title">Achtung</string>
   <string name="system_permission_declare_use_network">Mit Netzwerk verbinden</string>
   <string name="system_permission_declare_use_network_no_permission">Mit Netzwerk verbinden</string>
-  <string name="system_permission_declare_user_agreement"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>.</Data></string>
+  <string name="system_permission_declare_user_agreement"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>.</Data></string>
   <string name="system_permission_perm_answer_call">Anrufen</string>
   <string name="system_permission_perm_read_mms">MMS lesen</string>
   <string name="system_permission_perm_read_numbers">Telefonnummern lesen</string>

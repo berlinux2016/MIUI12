@@ -507,12 +507,12 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">%d Sek seit letztem Laden</item>
   </plurals>
   <plurals name="people">
-    <item quantity="other">Von %1$d Nutzern heruntergeladen</item>
-    <item quantity="one">Von %1$d Nutzer heruntergeladen</item>
+    <item quantity="other">Von %1$d Benutzern heruntergeladen</item>
+    <item quantity="one">Von %1$d Benutzer heruntergeladen</item>
   </plurals>
   <plurals name="people_million">
-    <item quantity="other">Von %1$d Nutzern heruntergeladen</item>
-    <item quantity="one">Von %1$d Nutzer heruntergeladen</item>
+    <item quantity="other">Von %1$d Benutzern heruntergeladen</item>
+    <item quantity="one">Von %1$d Benutzer heruntergeladen</item>
   </plurals>
   <plurals name="power_center_battery_charge_number">
     <item quantity="other">-mal</item>
