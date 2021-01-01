@@ -20,13 +20,8 @@
   <string name="actionbar_button_up_description">Zurück</string>
   <string name="advanced_mode">Erweiterte Einstellungen</string>
   <string name="africa_introduction">Die Tierwelt gedeiht in Afrika - der Heimat vieler der berühmtesten Tiere der Welt.</string>
-  <string name="african_bush_elephant">Afrika-
-nischer 
-Busch
-elefant"</string>
-  <string name="africans_white_backed_vulture">"Weiß
-rücken
-geier"</string>
+  <string name="african_bush_elephant">Afrikanischer Buschelefant</string>
+  <string name="africans_white_backed_vulture">Weißrückengeier</string>
   <string name="afternoon">Nachmittag</string>
   <string name="all_ringtone">Weitere</string>
   <string name="all_ringtone_summary">Klingeltöne online auswählen</string>
@@ -48,15 +43,13 @@ geier"</string>
   <string name="area_amazon">Regenwald</string>
   <string name="area_arctic">Arktis</string>
   <string name="area_australia">Australien</string>
-  <string name="atarctic_shag">"Antarktik-
-scharbe"</string>
+  <string name="atarctic_shag">Antarktikscharbe </string>
   <string name="australia_introduction">Der australische Kontinent ist ein Paradies für seltene endemische Arten.</string>
   <string name="baboon_info">Der Olivpavian lebt in Gruppen mit ausgeprägter sozialer Rangordnung, die von der Dominanz der einzelnen Individuen abhängt.</string>
   <string name="back">Zurück</string>
   <string name="bear_info">Bären sind die größten Landraubtiere. Sie leben in kalten Regionen und sind für ihren scharfen Geruchssinn bekannt.</string>
   <string name="black_backed_jackal">Schakal</string>
-  <string name="black_headed_bulbul">"Schwarz-
-kopfbülbül"</string>
+  <string name="black_headed_bulbul">Schwarzkopfbülbül</string>
   <string name="black_howler_monkey">Schwarzer Brüllaffe</string>
   <string name="black_rhinoceros">Spitzmaulnashorn</string>
   <string name="black_swan">Trauerschwan</string>
@@ -86,24 +79,18 @@ kopfbülbül"</string>
   <string name="branch_walrus">Odobenidae</string>
   <string name="calendar_sound">Erinnerungstöne</string>
   <string name="calendar_tip">Terminerinnerungstöne funktionieren bei Kalendererinnerungen, Notizen und Aufgaben</string>
-  <string name="canada_goose">"Kanada-
-gans"</string>
+  <string name="canada_goose">Kanadagans</string>
   <string name="capybara">Capybara</string>
   <string name="category_other">Andere</string>
-  <string name="chacma_baboon">"Chakma-
-Pavian"</string>
+  <string name="chacma_baboon">Chakma-Pavian</string>
   <string name="cheetah">Gepard</string>
-  <string name="chinstrap_penguin">"Kinnriemen-
-pinguin"</string>
+  <string name="chinstrap_penguin">Kinnriemenpinguin</string>
   <string name="class_bird">Vögel</string>
   <string name="class_breast_feeding">Säugetiere</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="click_to_save">Auf \"Fertig\" tippen, um einen allgemeinen Klingelton einzustellen.</string>
   <string name="color_gamut">Farbraum</string>
-  <string name="common_brushtail">"Busch
-schwanz
-beutel
-ratte"</string>
+  <string name="common_brushtail">Buschschwanzbeutelratte</string>
   <string name="common_ostrich">Strauß</string>
   <string name="contact_description">Auf Startseitenverknüpfungen tippen, um Anrufe zu tätigen</string>
   <string name="contact_title">Kontaktverknüpfungen</string>
@@ -116,8 +103,7 @@ ratte"</string>
   <string name="create_shortcut">Startbildschirm-Verknüpfung erstellen</string>
   <string name="created">Erstellt</string>
   <string name="created_successfully">Erstellen erfolgreich</string>
-  <string name="crowned_hornbill">"Malabar
-hornvogel"</string>
+  <string name="crowned_hornbill">Malabarhornvogel</string>
   <string name="cu_confirm">Einstellen</string>
   <string name="dall_sheep">Dall-Schafe</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
@@ -130,16 +116,13 @@ hornvogel"</string>
   <string name="display_title">Größere Elemente</string>
   <string name="dynamic_ringtone_desc">Wir haben verschiedene Ökosysteme erforscht und ihre unterschiedlichen Klänge nachgebildet. Erforschen Sie mit uns die Klänge der Natur!</string>
   <string name="early_morning">Morgen</string>
-  <string name="eastern_grey_kangaroo">"Graues
-Riesen
-känguru"</string>
+  <string name="eastern_grey_kangaroo">Graues Riesenkänguru</string>
   <string name="eastern_grey_kangaroo_info">Kängurus haben große, kräftige Hinterbeine und große Füße, die zum Springen geeignet sind.</string>
   <string name="egyptian_goose">Nilgans</string>
   <string name="elephant_info">Elefanten sind die größten existierenden Landtiere. Der Elfenbeinhandel ist eine der größten Bedrohungen für die Elefantenpopulationen.</string>
   <string name="elk">Elch</string>
   <string name="elk_info">Elche leben in subarktischen Klimazonen. Sie sind grasende Pflanzenfresser und können viele Arten von Pflanzen oder Früchten verzehren.</string>
-  <string name="emperor_penguin">"Kaiser
-pinguin"</string>
+  <string name="emperor_penguin">Kaiserpinguin</string>
   <string name="emu">Emu</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
@@ -264,8 +247,7 @@ pinguin"</string>
   <string name="lion">Löwe</string>
   <string name="lion_info">Löwen sind wilde und starke Raubtiere. Sie leben in Gruppen und haben einen ausgeprägten Sinn für Territorien.</string>
   <string name="lock_summary">Umfassender Schutz Ihrer Privatsphäre</string>
-  <string name="long_tai1ed_iaeger">"Falken
-raubmöwe"</string>
+  <string name="long_tai1ed_iaeger">Falkenraubmöwe </string>
   <string name="low_fps_description">Niedrige Bildwiederholrate, geringerer Stromverbrauch.</string>
   <string name="low_light_preview">Vorschau bei schwachem Licht</string>
   <string name="marabou_stork">Marabu</string>
@@ -322,8 +304,7 @@ raubmöwe"</string>
   <string name="more_settings">Einstellungen</string>
   <string name="morning">Morgen</string>
   <string name="most_unlock_week_day">"Am meisten entsperrt: "</string>
-  <string name="mus_ox">"Moschus
-ochse"</string>
+  <string name="mus_ox">Moschusochse</string>
   <string name="narwhal">Narwal</string>
   <string name="narwhal_info">Narwale besitzen einen großen Stoßzahn und ernähren sich von benthischer Beute, meist Plattfischen.</string>
   <string name="native_hen_info">Die Tasmanisches Pfuhlhühner leben in der Nähe von Wasser und sind nicht gut im Fliegen.</string>
@@ -337,44 +318,33 @@ ochse"</string>
   <string name="noon">Mittag</string>
   <string name="normal_mode">Regelmäßig</string>
   <string name="normal_mode_summary">Flimmern bei schlechten Lichtverhältnissen nicht reduzieren</string>
-  <string name="north_white_rhinoceros">"Breitmaul
-nashorn"</string>
-  <string name="norway_lemmings">"Berg
-lemminge"</string>
+  <string name="north_white_rhinoceros">Breitmaulnashorn</string>
+  <string name="norway_lemmings">Berglemminge</string>
   <string name="not_set">Nicht festgelegt</string>
   <string name="notification_sound">Benachrichtigungstöne</string>
   <string name="ocelot">Ozelot</string>
   <string name="olive_baboon">Olivpavian</string>
-  <string name="orange_winged_amazon">"Venezuela
-amazone"</string>
+  <string name="orange_winged_amazon">Venezuelaamazone</string>
   <string name="orca">Orca</string>
   <string name="other_parameter">Anderer</string>
   <string name="p3_color_region_summary">Alle Bildschirminhalte im P3-Farbraum anzeigen</string>
-  <string name="parasitic_jaeger">"Schmarot-
-zerraub
-möwe</string>
+  <string name="parasitic_jaeger">Schmarotzerraubmöwe</string>
   <string name="personality_hint_ringtone">Personalisierte Töne</string>
-  <string name="petaurus_breviceps">"Kurzkopf
-gleit
-beutler"</string>
+  <string name="petaurus_breviceps">Kurzkopfgleitbeutler</string>
   <string name="pied_crow">Schildrabe</string>
   <string name="plains_zebra">Zebra</string>
   <string name="platpus_info">Das Schnabeltier ist ein wichtiger Teil in der Studie der Evolutionsbiologie. Es ist auch eine der wenigen Arten von giftigen Säugetieren.</string>
-  <string name="platypus">"Schnabel
-tier"</string>
+  <string name="platypus">Schnabeltier</string>
   <string name="polar_bear">Eisbär</string>
-  <string name="pomarine_jaeger">"Spatel
-raubmöwe"</string>
+  <string name="pomarine_jaeger">Spatelraubmöwe</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="preview">Vorschau</string>
   <string name="primary_color_region">Original</string>
   <string name="primary_color_region_chinese_only">Natürlich</string>
   <string name="primary_color_region_summary">Automatische Erkennung des Farbraums durch Farbkalibrierung</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
-  <string name="puffin">"Papageien
-taucher"</string>
-  <string name="red_billed_hornbill">Rotschna-
-beltoko</string>
+  <string name="puffin">Papageientaucher</string>
+  <string name="red_billed_hornbill">Rotschnabeltoko</string>
   <string name="reset_edit">Änderungen verwerfen</string>
   <string name="restore_default">Standardwerte wiederherstellen</string>
   <string name="retry">Wiederholen</string>
@@ -383,8 +353,7 @@ beltoko</string>
   <string name="ringtone_slot_setting_title">Dual SIM-Klingeltöne</string>
   <string name="ringtone_sound">Klingeltöne</string>
   <string name="ringtone_title">Klingeltöne</string>
-  <string name="sacred_ibis">"Heiliger
-Ibis"</string>
+  <string name="sacred_ibis">Heiliger Ibis</string>
   <string name="sanderling">Sanderling</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
@@ -414,8 +383,7 @@ Ibis"</string>
   <string name="sim_slot_2">" (SIM2)"</string>
   <string name="sms_delivered_sound_title">Nachricht empfangen</string>
   <string name="sms_received_sound_title">Eingehende Nachricht</string>
-  <string name="snowy_owl">Schnee
-Eule"</string>
+  <string name="snowy_owl">Schnee-Eule</string>
   <string name="solar_term_autumn_begins">Herbstanfang</string>
   <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
   <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -440,12 +408,10 @@ Eule"</string>
   <string name="solar_term_white_dews">Weißer Tau</string>
   <string name="solar_term_winter_begins">Winteranfang</string>
   <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-  <string name="southern_elephant_seal">"Südlicher
-See-Elefant"</string>
+  <string name="southern_elephant_seal">Südlicher See-Elefant</string>
   <string name="southern_ground_hornbill">Hornvogel</string>
   <string name="special_feature">Besondere Funktionen</string>
-  <string name="spotted_hyaena">"Tüpfel
-hyäne"</string>
+  <string name="spotted_hyaena">Tüpfelhyäne</string>
   <string name="spotted_hyaena_info">Hyänen sind nachtaktive Raubtiere mit einem äußerst komplexen Sozialverhalten.</string>
   <string name="srgb_color_region_summary">Alle Bildschirminhalte im sRGB-Farbraum anzeigen</string>
   <string name="start_easymode">Lite-Modus einschalten</string>
@@ -462,15 +428,10 @@ hyäne"</string>
   <string name="sunday">Sonntag</string>
   <string name="sunday_short">So</string>
   <string name="sunday_shortest">S</string>
-  <string name="superb_starling">"Dreifarben
-Glanzstar"</string>
-  <string name="tasmanian_devil">"Tasma-
-nischer 
-Teufel"</string>
+  <string name="superb_starling">Dreifarben-Glanzstar</string>
+  <string name="tasmanian_devil">Tasmanischer Teufel</string>
   <string name="tasmanian_devil_info">Tasmanische Teufel sind kleine fleischfressende Aasfresser mit einem mürrischen Temperament.</string>
-  <string name="tasmanian_native_hen">"Tasma-
-nisches
-Pfuhlhuhn"</string>
+  <string name="tasmanian_native_hen">Tasmanisches Pfuhlhuhn</string>
   <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
   <string name="the_anti_aggression_day">Antiaggressionstag</string>
   <string name="the_arbor_day">Tag des Baumes</string>
@@ -523,8 +484,7 @@ Pfuhlhuhn"</string>
   <string name="title_mix_match_tips">Tippen Sie auf Tiere, um Demos anzuhören. Sie können dem Mix bis zu 5 Tiere hinzufügen.</string>
   <string name="title_submit_mix_match">Auf \"Anwenden\" tippen, um einen allgemeinen Klingelton einzustellen.</string>
   <string name="to_authorize">Berechtigungen erteilen</string>
-  <string name="toco_toucan">"Riesen
-tukan"</string>
+  <string name="toco_toucan">Riesentukan</string>
   <string name="today">Heute</string>
   <string name="today_usage_title">Heute</string>
   <string name="today_use_time">Bildschirmzeit %1$s</string>
@@ -543,8 +503,7 @@ tukan"</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
   <string name="tuesday_shortest">D</string>
-  <string name="two_toed_sloths">"Zweifinger
-faultier"</string>
+  <string name="two_toed_sloths">Zweifingerfaultier</string>
   <string name="two_toed_sloths_info">Zweifingerfaultiere können sich in den Baumkronen der Regenwälder leicht von Baum zu Baum bewegen.</string>
   <string name="unlock_times_per_day">"Tagesdurchschnitt: "</string>
   <string name="unlock_times_per_hour">"Entsperrt pro Std: "</string>
@@ -808,23 +767,17 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
   <string name="usagestats_device_timeout_title">Bildschirmzeit-Alarm</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">EIN</string>
-  <string name="vervet_monkey">"Grüne
-Meerkatze"</string>
+  <string name="vervet_monkey">Grüne Meerkatze</string>
   <string name="wait_tip">Einen Moment…</string>
   <string name="walrus">Walross</string>
   <string name="walrus_info">Walrosse sind ausgezeichnete Taucher. Sie bevorzugen flache Schelfregionen und ernähren sich hauptsächlich vom Meeresboden.</string>
-  <string name="weddell_seal">"Weddell
-robbe"</string>
+  <string name="weddell_seal">Weddellrobbe</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
-  <string name="whipbird_eastern_whipbird">"Schwarz
-schopf
-Wippflöter"</string>
+  <string name="whipbird_eastern_whipbird">Schwarzschopf-Wippflöter</string>
   <string name="white_bellied_sea_eagle">Seeadler</string>
-  <string name="willow_grouse">Moor
-schnee
-huhn</string>
+  <string name="willow_grouse">Moorschneehuhn</string>
   <string name="wombat">Wombat</string>
   <string name="yesterday">Gestern</string>
 </resources>
