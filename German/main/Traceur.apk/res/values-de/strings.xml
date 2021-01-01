@@ -43,7 +43,6 @@
   <string name="adb_device_fingerprint_title_format">Gerätefingerabdruck: %1$s</string>
   <string name="adb_device_forget">Vergessen</string>
   <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
-  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_pair_method_code_summary">Neue Geräte mit 6-stelligem Code koppeln</string>
   <string name="adb_pair_method_code_title">Gerät mit Pairing-Code koppeln</string>
   <string name="adb_pair_method_qrcode_summary">Neue Geräte mit QR-Code-Scanner koppeln</string>
@@ -180,7 +179,6 @@ Auswahl: Abtastrate"</string>
 Auswahl"</string>
   <string name="bluetooth_select_a2dp_codec_type_help_info">Ausgegraut bedeutet keine Unterstützung durch Telefon oder Headset</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
-  <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP-Version auswählen</string>
   <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP-Version</string>
   <string name="bluetooth_show_devices_without_names">Bluetooth-Geräte ohne Namen anzeigen</string>
   <string name="bluetooth_show_devices_without_names_summary">Bluetooth-Geräte ohne Namen (nur MAC-Adressen) werden angezeigt</string>
