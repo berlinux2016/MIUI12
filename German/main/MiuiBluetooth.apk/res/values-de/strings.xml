@@ -483,7 +483,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="power_remaining_less_than_duration_only">Weniger als %1$s übrig</string>
   <string name="power_remaining_more_than_subtext">Mehr als %1$s übrig (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mehr als %1$s übrig</string>
-  <string name="power_suggestion_battery_run_out">Akku kann bis %1$s leer sein</string>
+  <string name="power_suggestion_battery_run_out">Akku ist voraussichtlich um %1$s leer</string>
   <string name="power_suggestion_extend_battery">Akkulaufzeit auf über %1$s verlängern</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="private_dns_broken">Private-DNS-Server ist nicht erreichbar</string>

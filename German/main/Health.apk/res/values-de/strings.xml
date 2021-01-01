@@ -1379,6 +1379,9 @@ auf Ihren persönlichen Daten beraten."</string>
   <string name="sport_step_max_frequency">Max.</string>
   <string name="sport_step_min_frequency">Min.</string>
   <string name="sport_title_step_frequency">Trittrequenz</string>
+  <string name="sport_tts_1">Eins</string>
+  <string name="sport_tts_2">Zwei</string>
+  <string name="sport_tts_3">Drei</string>
   <string name="sport_tts_begin_riding">Mit Radfahren beginnen</string>
   <string name="sport_tts_begin_running">Mit Rennen beginnen</string>
   <string name="sport_tts_begin_walking">Mit Laufen beginnen</string>

@@ -74,7 +74,7 @@
   <string name="power_remaining_less_than_duration_only">Weniger als %1$s verbleibend</string>
   <string name="power_remaining_more_than_subtext">Mehr als %1$s verbleibend (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mehr als %1$s verbleibend</string>
-  <string name="power_suggestion_battery_run_out">Der Akku ist voraussichtlich um %1$s leer</string>
+  <string name="power_suggestion_battery_run_out">Akku ist voraussichtlich um %1$s leer</string>
   <string name="private_dns_broken">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
   <string name="profile_connect_timeout_subtext">Verbindung kann nicht hergestellt werden. Schalte das Gerät aus &amp; und wieder ein.</string>
   <string name="profile_info_settings_title">Profilinformationen</string>

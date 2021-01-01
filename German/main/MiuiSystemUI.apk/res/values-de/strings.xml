@@ -859,6 +859,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="enter_special_mode_message">Nach Neustart der App wird der App-Inhalt in den oberen Bereich der Statusleiste erweitert. Wenn es Ausnahmen gibt, wie z. B. Content-Occlusion und Klickverlagerung, können Sie die Schaltfläche erneut antippen, um den Standardmodus wiederherzustellen.</string>
   <string name="enter_special_mode_title">Starten Sie die App neu und erweitern Sie den Anzeigebereich</string>
   <string name="error_disable_esim_msg">eSIM kann wegen eines Fehlers nicht deaktiviert werden.</string>
+  <string name="error_disable_esim_title">eSIM nicht deaktivierbar</string>
   <string name="exit_special_mode_message">Nach Neustart der App wird der App-Anzeigebereich wieder in den Standardmodus zurückgesetzt</string>
   <string name="exit_special_mode_title">Starten Sie die App neu und stellen Sie den Anzeigebereich wieder her</string>
   <string name="expand_button_title">Erweitert</string>
@@ -1784,6 +1785,7 @@ Screenshot zu erstellen"</string>
   <string name="power_save_ps_close_setting">Hintergrunddienste deaktivieren (Synchronisieren, GPS), um den Akku zu schonen</string>
   <string name="power_save_ps_freeze">Apps im Hintergrund einfrieren</string>
   <string name="power_save_ps_limit">Aktivität von System-Apps einschränken</string>
+  <string name="power_suggestion_battery_run_out">Akku ist voraussichtlich um %1$s leer</string>
   <string name="power_suggestion_extend_battery">Akkulaufzeit auf über %1$s verlängern</string>
   <string name="pref_show_lunar_calendar_title">Traditionellen chinesischen Kalender auf dem Sperrbildschirm anzeigen</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
