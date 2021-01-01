@@ -630,7 +630,7 @@ Abtastrate"</string>
   <string name="cell_data_off">Aus</string>
   <string name="cell_data_off_content_description">Mobile Daten aus</string>
   <string name="change_theme_reboot">Thema-Änderung erfordet einen Neustart</string>
-  <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
   <string name="charge_length_format">Vor %1$s</string>
   <string name="chip_text">Chiptext</string>

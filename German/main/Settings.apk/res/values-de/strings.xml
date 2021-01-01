@@ -1741,7 +1741,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="change_wifi_state_title">WLAN-Steuerung</string>
   <string name="channel_group_notifications_off_desc">Wunschgemäß verhindert Android, dass diese Gruppe von Benachrichtigungen auf diesem Gerät erscheint.</string>
   <string name="channel_notifications_off_desc">Android verhindert, dass diese Kategorie von Benachrichtigungen auf diesem Gerät erscheint</string>
-  <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
   <string name="charge_animation_style">Ladeanimation</string>
   <string name="charge_animation_style_summary">Wählen Sie Ihren bevorzugten Ladeanimationsstil auf dem Sperrbildschirm</string>

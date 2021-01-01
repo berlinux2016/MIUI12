@@ -94,8 +94,8 @@
   <string name="category_type_other">Andere</string>
   <string name="category_zip">Archive</string>
   <string name="change_sticker">Einen anderen Sticker wählen</string>
-  <string name="character_counter_content_description">Eingegebene Zeichen %1$d von %2$d</string>
-  <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
+  <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
   <string name="chip_text">Chiptext</string>
   <string name="choose_report_comment_reason">Warum melden Sie diesen Kommentar?</string>
   <string name="choose_report_reason">Warum melden Sie dieses Video?</string>
