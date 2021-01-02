@@ -1922,7 +1922,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="condition_work_title">Arbeitsprofil ist ausgeschaltet</string>
   <string name="condition_zen_summary_phone_muted">Telefon stummgeschaltet</string>
   <string name="condition_zen_summary_with_exceptions">Mit Ausnahmen</string>
-  <string name="condition_zen_title">Nicht-stören-Modus ist an</string>
+  <string name="condition_zen_title">Nicht stören-Modus ist an</string>
   <string name="config_charging_function_name">Lädt</string>
   <string name="config_list_label">Netzwerk konfigurieren</string>
   <string name="config_mass_storage_function_name">Massenspeicher</string>
@@ -2658,8 +2658,8 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dndm_repeated_call_summary_3min">Ruft der gleiche Teilnehmer innerhalb 3 Minuten wiederholt an, wird der Lautlosmodus aufgehoben</string>
   <string name="dndm_repeated_call_summary_none">Ruft der gleiche Teilnehmer wiederholt an, bleibt das Telefon im Lautlosmodus</string>
   <string name="dndm_special_call_setting_group">Ausnahmen</string>
-  <string name="dndm_summary">Eingehende Anrufe und Benachrichtigungen werden im Nicht-stören-Modus auf lautlos gestellt</string>
-  <string name="dndm_summary_for_pad">Benachrichtigungen werden im Nicht-Stören-Modus auf lautlos gestellt</string>
+  <string name="dndm_summary">Eingehende Anrufe und Benachrichtigungen werden im Nicht stören-Modus auf lautlos gestellt</string>
+  <string name="dndm_summary_for_pad">Benachrichtigungen werden im Nicht stören-Modus auf lautlos gestellt</string>
   <string name="dndm_vip_call_button_title">Anrufe von Ausnahmen zulassen</string>
   <string name="dndm_vip_call_setting_detal">Anrufe von Ausnahmen immer akzeptieren</string>
   <string name="dndm_vip_call_setting_title">Anrufausnahmen</string>
@@ -4477,7 +4477,7 @@ zugriff"</string>
   <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
   <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
   <string name="manage_xiaomi_router">Mi Routereinstellungen</string>
-  <string name="manage_zen_access_title">Nicht-stören-Zugriff</string>
+  <string name="manage_zen_access_title">Nicht stören-Zugriff</string>
   <string name="manageapplications_settings_summary">Installierte Apps verwalten und entfernen</string>
   <string name="manageapplications_settings_title">Apps verwalten</string>
   <string name="managed_device_admin_title">Arbeit</string>
@@ -5343,7 +5343,7 @@ Dies ermöglicht es der App auch, Nicht stören ein- und auszuschalten und die e
   <string name="notification_importance_unspecified">Ton erlauben</string>
   <string name="notification_listener_disable_warning_cancel">Abbrechen</string>
   <string name="notification_listener_disable_warning_confirm">Ausschalten</string>
-  <string name="notification_listener_disable_warning_summary">Wenn Sie den Benachrichtigungszugriff für %1$s deaktivieren, könnte auch der Nicht-Stören-Zugriff ausgeschaltet werden</string>
+  <string name="notification_listener_disable_warning_summary">Wenn Sie den Benachrichtigungszugriff für %1$s deaktivieren, könnte auch der Nicht stören-Zugriff ausgeschaltet werden</string>
   <string name="notification_listener_security_warning_summary">%1$s kann alle Benachrichtigungen lesen, inkl. persönlicher Informationen wie Kontaktnamen und empfangene Nachrichten. App kann auch Benachrichtigungen ablehnen oder enthaltene Aktionstasten auslösen.
 Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechende Einstellungen zu ändern.</string>
   <string name="notification_listener_security_warning_title">%1$s Benachrichtigungszugriff erlauben?</string>
@@ -6185,7 +6185,7 @@ UT Interface: %5$s"</string>
   <string name="remove_managed_profile_label">Arbeitsprofil entfernen</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_call">Benachrichtigen über wiederholte Anrufe</string>
-  <string name="repeat_call_info">Benachrichtigung erlauben, wenn im Nicht-stören-Modus dieselbe Person innerhalb von 15 Minuten mehrmals anruft</string>
+  <string name="repeat_call_info">Benachrichtigung erlauben, wenn im Nicht stören-Modus dieselbe Person innerhalb von 15 Minuten mehrmals anruft</string>
   <string name="repeat_days_in_week">Wiederholen</string>
   <string name="repeat_never">Nie</string>
   <string name="repeat_title">Wiederholen</string>
@@ -9669,11 +9669,11 @@ Delta Updategröße: %2$s"</string>
   <string name="yes">Ja</string>
   <string name="zen_access_detail_switch">Nicht stören zulassen</string>
   <string name="zen_access_disabled_package_warning">Muss aktiv bleiben, weil der Benachrichtigungszugriff aktiviert ist</string>
-  <string name="zen_access_empty_text">Keine Apps erfordern Nicht-stören-Zugriff</string>
+  <string name="zen_access_empty_text">Keine Apps erfordern Nicht stören-Zugriff</string>
   <string name="zen_access_revoke_warning_dialog_summary">Alle von dieser App erstellten Nicht stören-Regeln werden entfernt</string>
   <string name="zen_access_revoke_warning_dialog_title">Nicht-Zugriff für %1$s aufheben?</string>
   <string name="zen_access_warning_dialog_summary">Dieser App ist es möglich, Nicht stören ein-/auszuschalten und relevante Einstellungen zu ändern.</string>
-  <string name="zen_access_warning_dialog_title">Nicht-stören-Zugriff für %1$s erlauben?</string>
+  <string name="zen_access_warning_dialog_title">Nicht stören-Zugriff für %1$s erlauben?</string>
   <string name="zen_alarm_warning">Sie werden Ihren nächsten Wecker %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Wecker %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
   <string name="zen_calls_summary_contacts_repeat">Von Kontakten und wiederholten Anrufern</string>
