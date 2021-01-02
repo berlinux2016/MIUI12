@@ -512,7 +512,7 @@
   <string name="save_to_gallery_icon_name">In Galerie speichern</string>
   <string name="save_to_gallery_success_message">Bild erfolgreich in Galerie gespeichert</string>
   <string name="search">Notizen</string>
-  <string name="search_hint">Notizen durchsuchen</string>
+  <string name="search_hint">Notizen suchen</string>
   <string name="search_keyword_notes">Notizen;Memo</string>
   <string name="search_label">Durchsuchen…</string>
   <string name="search_menu_title">Suchen</string>
@@ -720,7 +720,7 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="todo_schedule_time_tomorrow">Morgen</string>
   <string name="todo_schedule_time_yesterday">Gestern</string>
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
-  <string name="todo_search_hint">Nach Aufgaben suchen</string>
+  <string name="todo_search_hint">Aufgaben suchen</string>
   <string name="todo_time_picker_title">Erinnerung einstellen</string>
   <string name="todo_user_guide_fw_pop">Verknüpfung zum Startbildschirm hinzufügen</string>
   <string name="todo_user_guide_tip1">Willkommen bei Aufgaben!</string>
