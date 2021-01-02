@@ -197,7 +197,7 @@ Auswahl"</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Ihr Gerät muss neu gestartet werden, damit diese Änderung wirksam wird. Jetzt neu starten oder abbrechen.</string>
   <string name="cancel">Abbrechen</string>
   <string name="categories">Kategorien</string>
-  <string name="category_personal">BeBenutzer</string>
+  <string name="category_personal">Benutzer</string>
   <string name="category_work">Geschäftlich</string>
   <string name="charge_length_format">Vor %1$s</string>
   <string name="choose_profile">Profil auswählen</string>
@@ -230,7 +230,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
   <string name="data_usage_ota">Systemaktualisierungen</string>
   <string name="data_usage_uninstalled_apps">Apps gelöscht</string>
-  <string name="data_usage_uninstalled_apps_users">Apps und BeBenutzer gelöscht</string>
+  <string name="data_usage_uninstalled_apps_users">Apps und Benutzer gelöscht</string>
   <string name="debug_app">Debugging-App festlegen</string>
   <string name="debug_app_not_set">Keine Debugging-App festgelegt</string>
   <string name="debug_app_set">Debugging-App: %1$s</string>
@@ -254,7 +254,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler gedacht. Sie können Ihr Gerät und die installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
-  <string name="development_settings_not_available">Entwickleroptionen sind für diesen BeBenutzer nicht verfügbar.</string>
+  <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="development_settings_summary">Optionen zur App-Entwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
   <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart wird diese App erst gestartet, wenn Sie Ihr Smartphone entsperren.</string>
@@ -305,7 +305,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="home">Startseite \"Einstellungen\"</string>
   <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie diese Eingabemethode verwenden?</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
-  <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der BeBenutzer diese beendet</string>
+  <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Benutzer diese beendet</string>
   <string name="ims_reg_status_not_registered">Nicht registriert</string>
   <string name="ims_reg_status_registered">Registriert</string>
   <string name="ims_reg_title">IMS-Registrierungsstatus</string>
@@ -450,12 +450,12 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="retail_demo_reset_message">Passwort eingeben, um Gerät im Demomodus auf Werkseinstellungen zurückzusetzen</string>
   <string name="retail_demo_reset_next">Weiter</string>
   <string name="retail_demo_reset_title">Passwort erforderlich</string>
-  <string name="running_process_item_user_label">BeBenutzer: %1$s</string>
+  <string name="running_process_item_user_label">Benutzer: %1$s</string>
   <string name="runningservices_settings_summary">Momentan ausgeführte Dienste anzeigen und steuern</string>
   <string name="runningservices_settings_title">Aktive Dienste</string>
   <string name="saved_network">Gespeichert von %1$s</string>
   <string name="saving_trace">Trace speichern</string>
-  <string name="screen_zoom_summary_custom">BeBenutzerdefiniert (%d)</string>
+  <string name="screen_zoom_summary_custom">Benutzerdefiniert (%d)</string>
   <string name="screen_zoom_summary_default">Standard</string>
   <string name="screen_zoom_summary_extremely_large">Am größten</string>
   <string name="screen_zoom_summary_large">Groß</string>
@@ -478,7 +478,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="share_trace">Trace teilen?</string>
   <string name="shared_data_delete_failure_text">Beim Löschen der gemeinsamen Daten gab es einen Fehler.</string>
   <string name="shared_data_no_accessors_dialog_text">Für diese geteilten Daten sind keine Mietverträge abgeschlossen. Möchten Sie sie löschen?</string>
-  <string name="shared_data_no_blobs_text">Für diesen BeBenutzer gibt es keine gemeinsamen Daten.</string>
+  <string name="shared_data_no_blobs_text">Für diesen Benutzer gibt es keine gemeinsamen Daten.</string>
   <string name="shared_data_query_failure_text">Beim Abrufen der gemeinsamen Daten ist ein Fehler aufgetreten. Erneut versuchen.</string>
   <string name="shared_data_summary">Anzeigen und Ändern von gemeinsamen Daten</string>
   <string name="shared_data_title">Gemeinsame Daten</string>
@@ -521,7 +521,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tethering_hardware_offload">Hardwarebeschleunigung für Tethering</string>
   <string name="tethering_hardware_offload_summary">Falls verfügbar, Hardwarebeschleunigung für Tethering verwenden</string>
-  <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen BeBenutzer nicht verfügbar.</string>
+  <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="thirty_minutes">30 Minuten</string>
   <string name="time_unit_just_now">Gerade eben</string>
   <string name="title_convert_fbe">Umwandlung in dateibasierte Verschlüsselung</string>
@@ -569,33 +569,33 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache verwenden</string>
   <string name="user_add_profile_item_summary">Sie können den Zugriff auf Apps und Inhalte aus Ihrem Konto beschränken</string>
   <string name="user_add_profile_item_title">Eingeschränktes Profil</string>
-  <string name="user_add_user_item_summary">BeBenutzer haben eigene Apps und Inhalte</string>
-  <string name="user_add_user_item_title">BeBenutzer</string>
-  <string name="user_add_user_menu">BeBenutzer hinzufügen</string>
-  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche BeBenutzer erstellen. Jeder BeBenutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. BeBenutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden BeBenutzer betreffen.
-Nachdem Sie einen neuen BeBenutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. Jeder BeBenutzer kann aktualisierte App-Berechtigungen für alle anderen BeBenutzer akzeptieren."</string>
-  <string name="user_add_user_message_short">Nachdem Sie einen neuen BeBenutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen.
-Jeder BeBenutzer kann aktualisierte App-Berechtigungen für alle anderen BeBenutzer akzeptieren.</string>
-  <string name="user_add_user_or_profile_menu">BeBenutzer oder Profil hinzufügen</string>
-  <string name="user_add_user_title">Neuen BeBenutzer hinzufügen?</string>
+  <string name="user_add_user_item_summary">Benutzer haben eigene Apps und Inhalte</string>
+  <string name="user_add_user_item_title">Benutzer</string>
+  <string name="user_add_user_menu">Benutzer hinzufügen</string>
+  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche Benutzer erstellen. Jeder Benutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. Benutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden Benutzer betreffen.
+Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer akzeptieren."</string>
+  <string name="user_add_user_message_short">Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen.
+Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer akzeptieren.</string>
+  <string name="user_add_user_or_profile_menu">Benutzer oder Profil hinzufügen</string>
+  <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
   <string name="user_add_user_type_title">Hinzufügen</string>
   <string name="user_guest">Gast</string>
-  <string name="user_info_settings_title">BeBenutzerinfo</string>
+  <string name="user_info_settings_title">Benutzerinfo</string>
   <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, um Ihre Apps und persönlichen Daten zu schützen</string>
   <string name="user_new_profile_name">Neues Profil</string>
-  <string name="user_new_user_name">Neuer BeBenutzer</string>
+  <string name="user_new_user_name">Neuer Benutzer</string>
   <string name="user_set_lock_button">Sperre einrichten</string>
   <string name="user_setup_button_setup_later">Nicht jetzt</string>
   <string name="user_setup_button_setup_now">Jetzt einrichten</string>
-  <string name="user_setup_dialog_message">BeBenutzer muss Zugang zum Telefon haben und seinen Speicher einrichten</string>
-  <string name="user_setup_dialog_title">BeBenutzer jetzt einrichten?</string>
+  <string name="user_setup_dialog_message">Benutzer muss Zugang zum Telefon haben und seinen Speicher einrichten</string>
+  <string name="user_setup_dialog_title">Benutzer jetzt einrichten?</string>
   <string name="user_setup_profile_dialog_message">Profil jetzt einrichten?</string>
   <string name="user_switch_to_user">Zu %s wechseln</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
   <string name="verify_apps_over_usb_summary">Über ADB/ADT installierte Apps auf Schadverhalten prüfen</string>
   <string name="verify_apps_over_usb_title">Apps über USB prüfen</string>
-  <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen BeBenutzer nicht verfügbar</string>
+  <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="wait_for_debugger">Auf Debugger warten</string>
   <string name="wait_for_debugger_summary">App wartet vor der Ausführung auf den Start des Debuggers</string>
   <string name="wapi_all_sel_mode">Wählen</string>
@@ -664,7 +664,7 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
   <string name="wifi_wapi_fail_to_init">"WAPI-Zertifikate können nicht geöffnet werden.
 Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
-  <string name="wifi_wapi_user_certificate">BeBenutzerzertifikat</string>
+  <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
   <string name="window_animation_scale_title">Fensteranimationskala</string>
   <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>

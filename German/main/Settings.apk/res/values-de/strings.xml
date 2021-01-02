@@ -141,7 +141,8 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="accessibility_no_service_selected">Kein Dienst gewählt</string>
   <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
   <string name="accessibility_no_wifi">WLAN getrennt</string>
-  <string name="accessibility_notification_vibration_title">Klingeln &amp; Benachrichtigungsvibration</string>
+  <string name="accessibility_notification_vibration_title">"Klingeln &amp; vibrieren
+bei Benachrichtigung"</string>
   <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Power-Taste beendet Anruf</string>
   <string name="accessibility_preference_magnification_summary">Bildschirm vergrößern</string>
@@ -4476,7 +4477,7 @@ zugriff"</string>
   <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
   <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
   <string name="manage_xiaomi_router">Mi Routereinstellungen</string>
-  <string name="manage_zen_access_title">Nicht stören-Zugriff</string>
+  <string name="manage_zen_access_title">Nicht-stören-Zugriff</string>
   <string name="manageapplications_settings_summary">Installierte Apps verwalten und entfernen</string>
   <string name="manageapplications_settings_title">Apps verwalten</string>
   <string name="managed_device_admin_title">Arbeit</string>
@@ -9668,11 +9669,11 @@ Delta Updategröße: %2$s"</string>
   <string name="yes">Ja</string>
   <string name="zen_access_detail_switch">Nicht stören zulassen</string>
   <string name="zen_access_disabled_package_warning">Muss aktiv bleiben, weil der Benachrichtigungszugriff aktiviert ist</string>
-  <string name="zen_access_empty_text">Keine Apps erfordern Nicht stören-Zugriff</string>
+  <string name="zen_access_empty_text">Keine Apps erfordern Nicht-stören-Zugriff</string>
   <string name="zen_access_revoke_warning_dialog_summary">Alle von dieser App erstellten Nicht stören-Regeln werden entfernt</string>
-  <string name="zen_access_revoke_warning_dialog_title">Nicht stören-Zugriff für %1$s aufheben?</string>
+  <string name="zen_access_revoke_warning_dialog_title">Nicht-Zugriff für %1$s aufheben?</string>
   <string name="zen_access_warning_dialog_summary">Dieser App ist es möglich, Nicht stören ein-/auszuschalten und relevante Einstellungen zu ändern.</string>
-  <string name="zen_access_warning_dialog_title">Nicht stören-Zugriff für %1$s erlauben?</string>
+  <string name="zen_access_warning_dialog_title">Nicht-stören-Zugriff für %1$s erlauben?</string>
   <string name="zen_alarm_warning">Sie werden Ihren nächsten Wecker %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Wecker %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
   <string name="zen_calls_summary_contacts_repeat">Von Kontakten und wiederholten Anrufern</string>

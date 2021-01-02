@@ -90,25 +90,25 @@
   <string name="user_add_profile_item_title">Eingeschränkte Profile</string>
   <string name="user_add_user_item_summary">Die Benutzer haben eigene Apps und Inhalte.</string>
   <string name="user_add_user_item_title">Benutzer</string>
-  <string name="user_add_user_message_long">"Du kannst dieses Gerät zusammen mit anderen nutzen, indem du weitere BeBenutzer erstellst. Jeder erhält einen eigenen Bereich, in dem er Apps, den Hintergrund usw. personalisieren kann. Außerdem lassen sich Geräteeinstellungen wie WLAN ändern, die sich auf alle BeBenutzer auswirken.
+  <string name="user_add_user_message_long">"Du kannst dieses Gerät zusammen mit anderen nutzen, indem du weitere Benutzer erstellst. Jeder erhält einen eigenen Bereich, in dem er Apps, den Hintergrund usw. personalisieren kann. Außerdem lassen sich Geräteeinstellungen wie WLAN ändern, die sich auf alle Benutzer auswirken.
 
-Wenn du einen neuen BeBenutzer hinzufügst, muss dieser seinen Bereich einrichten.
+Wenn du einen neuen Benutzer hinzufügst, muss dieser seinen Bereich einrichten.
 
-Jeder BeBenutzer kann Apps für alle anderen BeBenutzer aktualisieren. Bedienungshilfen-Einstellungen und -Dienste werden möglicherweise nicht auf den neuen BeBenutzer übertragen."</string>
-  <string name="user_add_user_message_short">"Wenn du einen neuen BeBenutzer hinzufügst, muss dieser seinen Bereich einrichten.
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Bedienungshilfen-Einstellungen und -Dienste werden möglicherweise nicht auf den neuen Benutzer übertragen."</string>
+  <string name="user_add_user_message_short">"Wenn du einen neuen Benutzer hinzufügst, muss dieser seinen Bereich einrichten.
 
-Jeder BeBenutzer kann Apps für alle anderen BeBenutzer aktualisieren."</string>
-  <string name="user_add_user_title">Neuen BeBenutzer hinzufügen?</string>
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
+  <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
   <string name="user_add_user_type_title">Hinzufügen</string>
-  <string name="user_info_settings_title">BeBenutzerinfo</string>
+  <string name="user_info_settings_title">Benutzerinfo</string>
   <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils musst du eine Displaysperre einrichten, um deine Apps und personenbezogenen Daten zu schützen.</string>
   <string name="user_new_profile_name">Neues Profil</string>
-  <string name="user_new_user_name">Neuer BeBenutzer</string>
+  <string name="user_new_user_name">Neuer Benutzer</string>
   <string name="user_set_lock_button">Sperre einrichten</string>
   <string name="user_setup_button_setup_later">Nicht jetzt</string>
   <string name="user_setup_button_setup_now">Jetzt einrichten</string>
   <string name="user_setup_dialog_message">Die Person muss Zugang zum Gerät haben und bereit sein, ihren Bereich einzurichten.</string>
-  <string name="user_setup_dialog_title">BeBenutzer jetzt einrichten?</string>
+  <string name="user_setup_dialog_title">Benutzer jetzt einrichten?</string>
   <string name="user_setup_profile_dialog_message">Profil jetzt einrichten?</string>
   <string name="user_switch_to_user">Zu %s wechseln</string>
   <string name="wifi_connected_no_internet">Kein Internet</string>
