@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
- <resources>
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
   <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
   <string name="accessibility_autoclick_default_title">Aus</string>
   <string name="accessibility_autoclick_description">Automatische Klicks funktionieren mit einer verbundenen Maus. Sie können festlegen, dass der Mauszeiger automatisch klickt, wenn er sich für eine bestimmte Zeit nicht bewegt.</string>
@@ -280,6 +280,9 @@ Vom oberen Displayrand nach unten wischen, um die Benachrichtigungsleiste zu öf
   <string name="doze_summary">Wenn der Bildschirm inaktiv ist, wird es bei neuen Benachrichtigungen aktiviert</string>
   <string name="doze_title">Bildschirm bei Benachrichtigungen aktivieren</string>
   <string name="dpp_qrcode_generator_summary">Diesen QR-Code mit einem Gerät scannen, das Easy Connect unterstützt</string>
+  <string name="dsu_is_running">DSU wird ausgeführt</string>
+  <string name="dsu_loader_description">Dynamisches System-Update-Image laden</string>
+  <string name="dsu_loader_loading">Laden…</string>
   <string name="enable_adb_wireless">Kabelloses Debugging</string>
   <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
   <string name="enable_blurs_on_windows_summary">Aktiviert das Weichzeichnen für Fenster auf Composition-Manager-Ebene. Erfordert einen Neustart des Geräts.</string>
