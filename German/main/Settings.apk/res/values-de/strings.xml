@@ -2735,7 +2735,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dsds_switch_string">DSDS aktivieren</string>
   <string name="dsu_is_running">DSU wird ausgeführt</string>
   <string name="dsu_loader_description">Dynamisches System-Update-Image laden</string>
-  <string name="dsu_loader_loading">Laden...</string>
+  <string name="dsu_loader_loading">Laden…</string>
   <string name="dtmf_tone_enable_title">Wähltastentöne</string>
   <string name="dual_cdma_sim_warning_notification_channel_title">SIM-Kombination</string>
   <string name="dual_cdma_sim_warning_notification_summary">Verwendung von %1$s kann die Funktionalität einschränken. Tippen, um mehr zu erfahren.</string>
