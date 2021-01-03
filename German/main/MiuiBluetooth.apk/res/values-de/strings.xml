@@ -185,7 +185,7 @@ Wiedergabequalität"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Abtastrate</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec wählen:
 Abtastrate"</string>
-  <string name="bluetooth_select_a2dp_codec_type">Bluetooth Audiocodec</string>
+  <string name="bluetooth_select_a2dp_codec_type">Bluetooth Audio Codec</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Audio Codec wählen</string>
   <string name="bluetooth_select_a2dp_codec_type_help_info">Ausgegraut bedeutet keine Unterstützung durch Telefon oder Headset</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>

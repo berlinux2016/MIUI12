@@ -8170,8 +8170,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="trans_waiting_for_sender">Auf Verbindung mit dem alten Gerät warten…</string>
   <string name="trans_wlan_tips_message">Während der Übertragung WLAN nicht ausschalten oder auf andere WLAN wechseln. Andernfalls kann Mi Mover keine Daten übertragen.</string>
   <string name="trans_wlan_tips_title"> WLAN nicht ausschalten</string>
-  <string name="transition_animation_scale_title">"Übergangsanimations-
-skala"</string>
+  <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="translation_contributors_title">Mitwirkende</string>
   <string name="trigger_carrier_provisioning">Carrier Provisioning auslösen</string>
   <string name="truetone_summary">Farben an Umgebungslicht anpassen</string>
@@ -9589,7 +9588,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifiap_title">WLAN-Hotspot</string>
   <string name="wifiap_turn_on_hint">Zur Verwendung von WLAN-AP schalten Sie es ein</string>
   <string name="wimax_settings">4G</string>
-  <string name="window_animation_scale_title">Fensteranimationskala</string>
+  <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="wireless_button">Andere Geräte kabellos laden</string>
   <string name="wireless_charging_settings">Andere Geräte kabellos laden</string>
   <string name="wireless_closed">Aus</string>
