@@ -1118,6 +1118,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="parameter_lens_w">WIDE (Weitwinkelobjektiv)</string>
   <string name="parameter_log_format_description">Dieses Format nimmt Videos mit logarithmischer Funktion auf, die auf die Belichtungskurve angewendet wird, um mehr Details in den Lichtern und Schatten zu erfassen, was Ihnen mehr Möglichkeiten in der Nachbearbeitung gibt.</string>
   <string name="parameter_log_format_title">LOG-Format</string>
+  <string name="parameter_manual_picturestyle_description">Die Sättigung kann die Tiefe und Intensität der Farben steuern. Der Kontrast hebt den Unterschied zwischen hell und dunkel hervor oder minimiert ihn, und die Schärfe stellt die Details entlang der Konturen dar.</string>
   <string name="parameter_metering_description">Die Durchschnittsmessung berücksichtigt alle Bereiche Ihres Bildes und funktioniert am besten bei gleichmäßig ausgeleuchteten Szenen. Die mittenbetonte Messung konzentriert sich hauptsächlich auf den zentralen Bereich des Bildes und berücksichtigt die Helligkeit der Umgebung, was sich für Aufnahmen von Motiven in der Bildmitte eignet. Die Spotmessung deckt nur den Bereich in einem Spot ab, so dass Sie eine präzise Kontrolle über die Belichtung haben.</string>
   <string name="parameter_metering_title">Messmethoden</string>
   <string name="parameter_peak_focus_description">Wenn Sie manuell fokussieren, verwenden Sie Fokus-Peaking, um den Schärfebereich rot zu markieren.</string>
@@ -1126,7 +1127,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="parameter_peak_raw_title">RAW-Format</string>
   <string name="parameter_wb_description">Neben den Weißabgleich-Voreinstellungen (Tageslicht, Glühlampen, Leuchtstoffröhren, wolkig) können Sie diesen auch auf einen eigenen Wert im Bereich von 2000-8000 Kelvin einstellen.</string>
   <string name="parameter_wb_title">Weißabgleich</string>
-  <string name="parameter_zoom_slider_description">Ziehen Sie den Zoom-Schieberegler nach oben und unten, um Ihre Aufnahme stufenlos von einer Totale zu einer Nahaufnahme zu ändern.</string>
+  <string name="parameter_zoom_slider_description">Ziehen Sie den Zoom-Schieberegler horizontal, um Ihre Aufnahme stufenlos von einer Totale zu einer Nahaufnahme zu ändern.</string>
   <string name="path">Pfad</string>
   <string name="path_settings">Einstellungen/System-Apps/Kamera</string>
   <string name="people">Menschen</string>
@@ -1623,7 +1624,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="refocus_type_static">Unschärfegrad</string>
   <string name="refocus_type_video">Lichtspuren</string>
   <string name="reset_manually_parameter_hint">Zurücksetzen</string>
-  <string name="reset_manual_picture_style_toast">Bildstilparameter zurückgesetzt</string>
+  <string name="reset_manual_picture_style_toast">Parameter erfolgreich zurückgesetzt</string>
   <string name="resume_playing_message">Wiedergabe ab %s fortsetzen?</string>
   <string name="resume_playing_restart">Von vorn abspielen</string>
   <string name="resume_playing_resume">Wiedergabe fortsetzen</string>

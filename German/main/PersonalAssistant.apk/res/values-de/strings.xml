@@ -493,7 +493,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_pa_setting_service_timetable">Stundenplan</string>
   <string name="app_pa_setting_service_timetable_summary">Zum Planen von Klassen tippen</string>
   <string name="app_pa_setting_title">Einstellungen</string>
-  <string name="app_screen_time_auth">Zum Öffnen des Dienstes autorisieren</string>
+  <string name="app_screen_time_auth">Bildschirmzeit</string>
   <string name="app_screen_time_no_time_title">&lt; 1 Minute</string>
   <string name="app_screen_time_support_false">Bildschirmzeit wird derzeit nicht unterstützt</string>
   <string name="app_screen_time_time">%1$d Std %2$d Min</string>

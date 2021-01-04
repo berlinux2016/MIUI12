@@ -29,6 +29,7 @@
   <string name="animal_branch">Familie</string>
   <string name="animal_class">Klasse</string>
   <string name="animal_item">Bestellung</string>
+  <string name="animal_select_alert_info">Sie können bis zu 5 Elemente auswählen</string>
   <string name="anti_flicker_mode">Anti-Flimmer</string>
   <string name="anti_flicker_mode_categroy">Modus</string>
   <string name="anti_flicker_mode_summary">Ausgedehntes Flackern verhindern und die Belastung der Augen bei schlechten Lichtverhältnissen reduzieren</string>
@@ -344,6 +345,7 @@
   <string name="primary_color_region_summary">Automatische Erkennung des Farbraums durch Farbkalibrierung</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="puffin">Papageientaucher</string>
+  <string name="random_play_sound_alert">Sie werden Tiergeräusche aus dieser Region hören, wenn Sie Benachrichtigungen erhalten</string>
   <string name="red_billed_hornbill">Rotschnabeltoko</string>
   <string name="reset_edit">Änderungen verwerfen</string>
   <string name="restore_default">Standardwerte wiederherstellen</string>
