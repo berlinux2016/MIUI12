@@ -546,7 +546,7 @@ benachrichtigungen erlauben"</string>
   <string name="angle_enabled_app">App für WINKEL aktiviert wählen</string>
   <string name="angle_enabled_app_not_set">Keine App für WINKEL aktiviert festgelegt</string>
   <string name="angle_enabled_app_set">App für WINKEL aktiviert: %1$s</string>
-  <string name="animator_duration_scale_title">Skala Animationsdauer</string>
+  <string name="animator_duration_scale_title">Animationsdauer</string>
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt</string>
   <string name="anti_spam">Sperrliste</string>
   <string name="aod_and_lock_screen_settings_title">AOD &amp; Sperrbildschirm</string>

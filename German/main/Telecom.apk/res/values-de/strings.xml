@@ -84,7 +84,7 @@
   <string name="alert_redirect_outgoing_call_timeout">Sie können nicht mit %1$s anrufen. Versuchen Sie, eine andere App zur Anrufumleitung zu verwenden oder wenden Sie sich für Hilfe an den Entwickler.</string>
   <string name="allow_mock_location">Scheinstandorte zulassen</string>
   <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
-  <string name="animator_duration_scale_title">Animationsdauerskala</string>
+  <string name="animator_duration_scale_title">Animationsdauer</string>
   <string name="answer_incoming_call">Annehmen</string>
   <string name="answering_ends_other_call">Annehmen beendet Ihren %1$s-Anruf</string>
   <string name="answering_ends_other_calls">Annehmen beendet Ihre %1$s-Anrufe</string>
@@ -605,7 +605,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="toast_make_video_call_failed">Videoanruf nicht möglich, falsches Nummernformat</string>
   <string name="toast_personal_call_msg">Persönliche Telefon-App wählen zum Anrufen</string>
   <string name="track_frame_time">Profil HWUI Rendering</string>
-  <string name="transition_animation_scale_title">Skala Übergangsanimation</string>
+  <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
   <string name="tts_default_lang_title">Sprache</string>
   <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
@@ -753,7 +753,7 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
-  <string name="window_animation_scale_title">Skala Fensteranimation</string>
+  <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
   <string name="zen_interruption_level_priority">Nur mit Vorrang</string>

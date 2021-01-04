@@ -39,7 +39,7 @@
   <string name="allergies_hint">Zum Beispiel Erdnüsse</string>
   <string name="allow_mock_location">Scheinstandorte zulassen</string>
   <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
-  <string name="animator_duration_scale_title">Animationsdauerskala</string>
+  <string name="animator_duration_scale_title">Animationsdauer</string>
   <string name="apn_settings_not_available">Zugangspunkt-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="app_label">Notfallinformationen</string>
   <string name="app_process_limit_title">Prozessbegrenzung im Hintergrund</string>

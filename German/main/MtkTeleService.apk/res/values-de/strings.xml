@@ -193,7 +193,7 @@
   <string name="anc_off">ARU aus</string>
   <string name="anc_on">ARU an</string>
   <string name="anc_title">Aktive Rauschunterdrückung</string>
-  <string name="animator_duration_scale_title">Animationsdauerskala</string>
+  <string name="animator_duration_scale_title">Animationsdauer</string>
   <string name="answer_features_setting_category">Antworten und Anrufe</string>
   <string name="answer_state_setting_summary">Zusätzliche Optionen für eingehende Anrufe</string>
   <string name="answer_state_setting_title">Einstellungen für eingehende Anrufe</string>
@@ -2251,7 +2251,7 @@ Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
   <string name="wificall_switch_summary">Verwenden Sie WLAN, um nach Möglichkeit Anrufe zu tätigen und zu empfangen</string>
   <string name="wificall_switch_title">Über WLAN telefonieren</string>
   <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
-  <string name="window_animation_scale_title">Fensteranimationsskala</string>
+  <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="wrong_password">Eingegebenes Passwort ist falsch</string>
   <string name="xdivert_summary">CFNRc-Einstellungen</string>
   <string name="xdivert_title">Rufumleitung</string>

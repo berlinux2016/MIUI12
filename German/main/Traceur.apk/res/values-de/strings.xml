@@ -530,7 +530,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="trace_saved">Trace wurde gespeichert</string>
   <string name="tracing_categories_unavailable">Einige Tracing-Kategorien sind nicht verfügbar:</string>
   <string name="track_frame_time">Profil HWUI Rendering</string>
-  <string name="transition_animation_scale_title">Maßstab Übergangsanimation</string>
+  <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
   <string name="tts_default_lang_title">Sprache</string>
   <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
@@ -665,7 +665,7 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
-  <string name="window_animation_scale_title">Fensteranimationskala</string>
+  <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
   <string name="zen_interruption_level_priority">Nur mit Vorrang</string>

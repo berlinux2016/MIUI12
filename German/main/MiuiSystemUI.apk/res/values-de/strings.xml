@@ -346,7 +346,7 @@
   <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
   <string name="always_use_accessory">Immer für dieses USB-Zubehör verwenden</string>
   <string name="always_use_device">Immer für dieses USB-Gerät verwenden</string>
-  <string name="animator_duration_scale_title">Skala Animationsdauer</string>
+  <string name="animator_duration_scale_title">Animationsdauer</string>
   <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="app_accessed_mic">%1$s hat auf Ihr Mikrofon zugegriffen</string>
   <string name="app_info">App-Info</string>
@@ -2349,7 +2349,7 @@ Ihr Telefon läuft jetzt normal. Ihr Telefon könnte zu heiß werden, wenn Sie:
   <string name="torch_opened">Lampe an</string>
   <string name="touch_filtered_warning">Da eine App eine Berechtigungsanfrage verdeckt, können die Einstellungen Ihre Antwort nicht überprüfen.</string>
   <string name="track_frame_time">Profil HWUI Rendering</string>
-  <string name="transition_animation_scale_title">Übergangsanimationsskala</string>
+  <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
   <string name="tts_default_lang_title">Sprache</string>
   <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
@@ -2643,7 +2643,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
   <string name="wifi_whitelist_roaming">SSID Bridging - Fast Handover</string>
   <string name="wifi_whitelist_roaming_summary">Roaming zwischen verschiedenen SSID-WPA/WPA2-PSK-APs mit derselben Gateway-MAC-Adresse aktivieren</string>
-  <string name="window_animation_scale_title">Fensteranimationskala</string>
+  <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="wireless_change_to_ac_charging">Auf kabelgebundenes Laden umgeschaltet</string>
   <string name="wireless_charge_current">Laden</string>
   <string name="wireless_charge_dialog_cancel">Verstanden</string>
