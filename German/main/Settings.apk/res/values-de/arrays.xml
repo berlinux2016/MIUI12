@@ -411,6 +411,13 @@
     <item>Hochgestellt</item>
     <item>Tiefgestellt</item>
   </string-array>
+  <string-array name="captioning_font_size_selector_summaries">
+    <item>Sehr kleine Textgröße</item>
+    <item>Kleine Textgröße</item>
+    <item>Standard-Textgröße</item>
+    <item>Große Textgröße</item>
+    <item>Sehr große Textgröße</item>
+  </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Sehr klein</item>
     <item>Klein</item>
@@ -552,6 +559,12 @@
     <item>Grafisch</item>
     <item>Prozent im Symbol</item>
     <item>Prozent neben Symbol</item>
+  </string-array>
+  <string-array name="eap_ocsp_type">
+    <item>Nicht validieren</item>
+    <item>Zertifikatsstatus abfragen</item>
+    <item>Zertifikatsstatus abfragen</item>
+    <item>Alle nicht vertrauenswürdigen Zertifikatsstatus abfragen</item>
   </string-array>
   <string-array name="edge_touch_volume_action">
     <item>Tippen anpassen - Doppelklick-Steuerung</item>

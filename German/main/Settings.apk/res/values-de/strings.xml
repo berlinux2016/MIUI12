@@ -4659,6 +4659,11 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_double_click_right">Den rechten Kopfhörer doppelt antippen</string>
   <string name="miheadset_enhence_high">Hohe Frequenz verbessern</string>
   <string name="miheadset_enhence_low">Niedrige Frequenz verbessern</string>
+  <string name="miheadset_fitness_check">Fitness-Check</string>
+  <string name="miheadset_fitness_check_result_not_ok">Fitness schlecht</string>
+  <string name="miheadset_fitness_check_result_ok">Fitness ok</string>
+  <string name="miheadset_fitness_check_result_unkown">Fitness unbekannt</string>
+  <string name="miheadset_fitness_check_start">Fitness-Check startet, bitte warten</string>
   <string name="miheadset_formal">Stand</string>
   <string name="miheadset_game_mode">Spielemodus</string>
   <string name="miheadset_game_mode_summary">Audioverzögerung beim Spielen reduzieren</string>
@@ -5673,6 +5678,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="platform_chooser_title">Altes Gerät wählen</string>
   <string name="platform_compat_dashboard_summary">Änderungen der App-Kompatibilität umschalten</string>
   <string name="platform_compat_dashboard_title">Änderungen der App-Kompatibilität</string>
+  <string name="platform_compat_target_sdk_title">Aktiviert für targetSdkVersion &gt; %d</string>
   <string name="play_pause_description">Play/Pause-Taste</string>
   <string name="please_select_phase2">Phase 2-Authentifizierung</string>
   <string name="please_type_passphrase">Passwort</string>

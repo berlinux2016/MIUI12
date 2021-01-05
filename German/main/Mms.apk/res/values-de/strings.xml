@@ -596,6 +596,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="no_block_button_msg">Diese Nummer nicht blockieren</string>
   <string name="no_conversations">Keine Unterhaltungen</string>
   <string name="no_delivery_report">Kein Zustellbericht</string>
+  <string name="no_dialogue_yet">Unterhaltung auswählen</string>
   <string name="no_longer_recommend">Nicht mehr anzeigen</string>
   <string name="no_network_description">Netzwerkverbindung wurde nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="no_subject">(Kein Betreff)</string>

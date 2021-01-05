@@ -454,8 +454,16 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="center_mark">Zentrale Markierung</string>
   <string name="change_bgm">Soundtracks ändern</string>
   <string name="clear_effects">Klare Effekte</string>
+  <string name="clone_adjust">Anpassen</string>
+  <string name="clone_copy_mode">Standbild</string>
   <string name="clone_do_not_move_phone">Gerät nicht bewegen</string>
   <string name="clone_don_not_move_phone">Bitte bewegen Sie Ihr Telefon nicht.</string>
+  <string name="clone_drag_to_adjust_the_posture">Wählen und ziehen zum Einstellen</string>
+  <string name="clone_guide_copy_tip3">Nehmen Sie ein Motiv auf, das sich über den ganzen Bildschirm bewegt.</string>
+  <string name="clone_guide_copy_tip5">Ihr Motiv kann Ski fahren, Basketball spielen, tanzen oder einfach nur gehen.</string>
+  <string name="clone_guide_copy_tip6">Standbilder werden während der Wiedergabe des Videos \"abgeholt\".</string>
+  <string name="clone_guide_copy_tip7">Mit Posen experimentieren</string>
+  <string name="clone_guide_copy_title2">Videos mit Standbild</string>
   <string name="clone_guide_tip1">Bitte halten Sie Ihr Telefon stabil und gut beleuchtet.</string>
   <string name="clone_guide_tip2">Vermeiden Sie bewegte Objekte und feste Hintergründe.</string>
   <string name="clone_guide_tip3">Unterstützt nur Porträtaufnahmen.</string>
@@ -1506,6 +1514,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_hdr_indicator_entry_on">An</string>
   <string name="pref_lens_dirty_detect_summary">Benachrichtigung erhalten, wenn die Linse verschmutzt ist</string>
   <string name="pref_lens_dirty_detect_title">Benachrichtigung über verschmutzte Linse</string>
+  <string name="pref_live_duration_title">Live-Dauer</string>
   <string name="pref_manual_exposure_title">Belichtung</string>
   <string name="pref_module_settings">Versuchen mit</string>
   <string name="pref_more_mode_style_title">Kameramodus</string>
