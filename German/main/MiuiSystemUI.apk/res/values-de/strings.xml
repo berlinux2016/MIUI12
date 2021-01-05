@@ -1050,6 +1050,7 @@ innerhalb des Kreises befindet"</string>
   <string name="gxzw_use_password_to_unlock">Passwort eingeben</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
+  <string name="heads_up_snooze_toast">Benachrichtigungen von dieser App werden erst angezeigt, wenn Sie Ihr Gerät wieder entsperren</string>
   <string name="help_feedback_label">Hilfe &amp; Feedback</string>
   <string name="help_label">Hilfe &amp; Feedback</string>
   <string name="hidden_notifications_cancel">Nein danke</string>
@@ -1059,7 +1060,10 @@ innerhalb des Kreises befindet"</string>
   <string name="high_temp_alarm_help_care_steps">Pflegehinweise anzeigen</string>
   <string name="high_temp_alarm_notify_message">Beim Laden dieses Geräts gibt es ein Problem. Ziehen Sie den Netzstecker, und seien Sie vorsichtig, da das Kabel warm sein kann.</string>
   <string name="high_temp_alarm_title">Ladegerät abziehen</string>
-  <string name="high_temp_dialog_message">Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.\n\nSobald Ihr Telefon abgekühlt ist, läuft es normal.</string>
+  <string name="high_temp_dialog_message">"Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.
+
+
+Sobald Ihr Telefon abgekühlt ist, läuft es normal."</string>
   <string name="high_temp_notif_message">Einige Funktionen sind eingeschränkt, während das Telefon abkühlt</string>
   <string name="high_temp_title">Telefon wird warm</string>
   <string name="home">Einstellungen Startseite</string>
@@ -1138,7 +1142,8 @@ Stille"</string>
   <string name="interruption_level_priority">Nur Dringendes</string>
   <string name="interruption_level_priority_twoline">"Nur
 Dringendes"</string>
-  <string name="invalid_charger">Laden über USB wird nicht unterstützt.\nBitte Ladegerät benutzen.</string>
+  <string name="invalid_charger">"Laden über USB wird nicht unterstützt.
+Bitte Ladegerät benutzen."</string>
   <string name="invalid_charger_text">Nur das mitgelieferte Ladegerät verwenden</string>
   <string name="invalid_charger_title">USB-Laden nicht unterstützt</string>
   <string name="invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
@@ -1242,7 +1247,8 @@ Dringendes"</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-Code</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Zur Passworteingabe berühren&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
-  <string name="keyguard_permanent_disabled_sim_instructions">Ihre SIM-Karte wurde dauerhaft deaktiviert.\nKontaktieren Sie Ihren Anbieter für eine neue SIM-Karte.</string>
+  <string name="keyguard_permanent_disabled_sim_instructions">"Ihre SIM-Karte wurde dauerhaft deaktiviert.
+Kontaktieren Sie Ihren Anbieter für eine neue SIM-Karte."</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Unbrauchbare SIM-Karte</string>
   <string name="keyguard_plugged_in">Aufladen - %s</string>
   <string name="keyguard_plugged_in_charging_fast">Schnelles Aufladen - %s</string>
@@ -1484,8 +1490,12 @@ Screenshot zu erstellen"</string>
   <string name="monitoring_button_view_policies">Richtlinien anzeigen</string>
   <string name="monitoring_description_app">Sie sind mit %1$s verbunden, wobei Ihre Netzwerkaktivitäten überwacht werden können, inkl. E-Mails, Apps und Webseiten.</string>
   <string name="monitoring_description_app_personal">Sie sind mit %1$s verbunden, wobei Ihre persönlichen Netzwerkaktivitäten überwacht werden können, inkl. E-Mails, Apps und Webseiten.</string>
-  <string name="monitoring_description_app_personal_work">Ihr Arbeitsprofil wird von %1$s verwaltet. Das Profil ist mit %2$s verbunden, wobei Ihre Netzwerkaktivität überwacht werden kann, inkl. E-Mails, Apps und Webseiten.\n\nSie sind auch mit %3$s verbunden, wodurch Ihre persönlichen Netzwerkaktivitäten überwacht werden können.</string>
-  <string name="monitoring_description_app_work">Ihr Arbeitsprofil wird von %1$s verwaltet. Das Profil ist mit %2$s verbunden, wodurch Ihre Netzwerkaktivität überwacht werden kann, inkl. E-Mails, Apps und Webseiten.\n\nFür weitere Informationen kontaktieren Sie Ihren Administrator.</string>
+  <string name="monitoring_description_app_personal_work">"Ihr Arbeitsprofil wird von %1$s verwaltet. Das Profil ist mit %2$s verbunden, wobei Ihre Netzwerkaktivität überwacht werden kann, inkl. E-Mails, Apps und Webseiten.
+  
+Sie sind auch mit %3$s verbunden, wodurch Ihre persönlichen Netzwerkaktivitäten überwacht werden können."</string>
+  <string name="monitoring_description_app_work">"Ihr Arbeitsprofil wird von %1$s verwaltet. Das Profil ist mit %2$s verbunden, wodurch Ihre Netzwerkaktivität überwacht werden kann, inkl. E-Mails, Apps und Webseiten.
+
+Für weitere Informationen kontaktieren Sie Ihren Administrator."</string>
   <string name="monitoring_description_ca_cert_settings">Vertrauenswürdige Anmeldeinformationen öffnen</string>
   <string name="monitoring_description_ca_certificate">Auf diesem Gerät ist eine Zertifizierungsstelle installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
   <string name="monitoring_description_do_body">Ihr Administrator kann Einstellungen, Firmenzugang, Apps, Daten zu Ihrem Gerät und die Standortinformationen Ihres Geräts überwachen und verwalten.</string>
@@ -1495,16 +1505,32 @@ Screenshot zu erstellen"</string>
   <string name="monitoring_description_do_learn_more">Erfahren Sie mehr</string>
   <string name="monitoring_description_managed_profile_ca_certificate">Ihre Firma hat in Ihrem Arbeitsprofil eine Zertifizierung eingerichtet. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Ihr Arbeitsprofil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, inkl. E-Mails, Apps und Webseiten.</string>
-  <string name="monitoring_description_management">Ihr Gerät wird von Ihrer Firma verwaltet.\n\nIhr Administrator kann Einstellungen, Unternehmenszugriff, Apps, mit Ihrem Telefon verknüpfte Daten und Standortinformationen überwachen und verwalten.\n\nFür weitere Informationen wenden Sie sich bitte an Ihren Administrator.</string>
+  <string name="monitoring_description_management">"Ihr Gerät wird von Ihrer Firma verwaltet.
+Ihr Administrator kann Einstellungen, Unternehmenszugriff, Apps, mit Ihrem Telefon verknüpfte Daten und Standortinformationen überwachen und verwalten.
+Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</string>
   <string name="monitoring_description_management_ca_certificate">Ihre Firma hat eine Zertifizierung auf diesem Telefon installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
   <string name="monitoring_description_management_network_logging">Ihr Administrator hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr auf Ihrem Telefon überwacht.</string>
-  <string name="monitoring_description_named_management">Ihr Gerät wird von %1$s verwaltet.\n\nIhr Administrator kann Einstellungen, Unternehmenszugriff, Apps, Daten, die mit Ihrem Gerät verknüpft sind, und die Standortinformationen überwachen und verwalten.\n\nFür weitere Informationen wenden Sie sich bitte an Ihren Administrator.</string>
+  <string name="monitoring_description_named_management">"Ihr Gerät wird von %1$s verwaltet.
+  
+Ihr Administrator kann Einstellungen, Unternehmenszugriff, Apps, Daten, die mit Ihrem Gerät verknüpft sind, und die Standortinformationen überwachen und verwalten.
+
+Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</string>
   <string name="monitoring_description_named_vpn">Sie sind mit %1$s verbunden, die Ihre Netzwerkaktivität überwachen können, inkl. E-Mails, Apps und Webseiten.</string>
-  <string name="monitoring_description_network_logging">Ihr Administrator hat die Netzwerkprotokollierung eingeschaltet, die den Datenverkehr auf Ihrem Gerät überwacht.\n\nFür weitere Informationen wenden Sie sich bitte an Ihren Administrator.</string>
+  <string name="monitoring_description_network_logging">"Ihr Administrator hat die Netzwerkprotokollierung eingeschaltet, die den Datenverkehr auf Ihrem Gerät überwacht.
+
+Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</string>
   <string name="monitoring_description_personal_profile_named_vpn">Ihr persönliches Profil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, inkl. E-Mails, Apps und Webseiten.</string>
   <string name="monitoring_description_two_named_vpns">"Sie sind mit %1$s und %2$s verbunden, die Ihre Netzwerkaktivitäten überwachen können, inkl. E-Mails, Apps und Webseiten.</string>
-  <string name="monitoring_description_vpn">Sie haben einer App die Erlaubnis gegeben, eine VPN-Verbindung aufzubauen.\n\nDiese App kann Ihre Geräte- und Netzwerkaktivitäten überwachen, inkl. E-Mails, Apps und Webseiten.</string>
-  <string name="monitoring_description_vpn_profile_owned">Ihr Arbeitsprofil wird von %1$s verwaltet.\n\nIhr Administrator ist in der Lage, Ihre Netzwerkaktivität inkl. E-Mails, Apps und Webseiten zu überwachen.\n\nFür weitere Informationen wenden Sie sich an Ihren Administrator.\n\nSie sind auch mit einem VPN verbunden, das Ihre Netzwerkaktivität überwachen kann.</string>
+  <string name="monitoring_description_vpn">"Sie haben einer App die Erlaubnis gegeben, eine VPN-Verbindung aufzubauen.
+
+Diese App kann Ihre Geräte- und Netzwerkaktivitäten überwachen, inkl. E-Mails, Apps und Webseiten."</string>
+  <string name="monitoring_description_vpn_profile_owned">"Ihr Arbeitsprofil wird von %1$s verwaltet.
+
+Ihr Administrator ist in der Lage, Ihre Netzwerkaktivität inkl. E-Mails, Apps und Webseiten zu überwachen.
+
+Für weitere Informationen wenden Sie sich an Ihren Administrator.
+
+Sie sind auch mit einem VPN verbunden, das Ihre Netzwerkaktivität überwachen kann."</string>
   <string name="monitoring_description_vpn_settings">VPN-Einstellungen öffnen</string>
   <string name="monitoring_subtitle_ca_certificate">CA-Zertifikate</string>
   <string name="monitoring_subtitle_network_logging">Netzwerk-Protokollierung</string>
@@ -2478,7 +2504,9 @@ Diese App hat keine Aufnahmeberechtigung erhalten, konnte aber über dieses USB-
 Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
 Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Eingabehilfen-Einstellungen und Dienste werden evtl. nicht auf den neuen Benutzer übertragen."</string>
-  <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihr Profil einrichten.\n\nJeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
+  <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihr Profil einrichten.
+
+  Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
   <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
   <string name="user_add_user_type_title">Hinzufügen</string>
   <string name="user_guest">Gast</string>

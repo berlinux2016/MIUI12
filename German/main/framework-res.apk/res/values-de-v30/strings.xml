@@ -28,15 +28,22 @@
   <string name="accessibility_shortcut_enabling_service">Lautstärketasten wurden gedrückt gehalten. %1$s ist aktiviert.</string>
   <string name="accessibility_shortcut_menu_item_status_off">AUS</string>
   <string name="accessibility_shortcut_menu_item_status_on">AN</string>
-  <string name="accessibility_shortcut_multiple_service_list">\u0009• %1$s\n</string>
-  <string name="accessibility_shortcut_multiple_service_warning">Wenn du beide Lautstärketasten einige Sekunden lang gedrückt hältst, aktivierst du die Bedienungshilfen. Dadurch kann sich die Funktionsweise deines Geräts ändern.\n\nAktuelle Funktionen:\n%1$s\nDu kannst ausgewählte Funktionen unter \"Einstellungen\" &gt; \"Bedienungshilfen\" ändern.</string>
+  <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
+"</string>
+  <string name="accessibility_shortcut_multiple_service_warning">"Wenn du beide Lautstärketasten einige Sekunden lang gedrückt hältst, aktivierst du die Bedienungshilfen. Dadurch kann sich die Funktionsweise deines Geräts ändern.
+Aktuelle Funktionen:
+%1$s
+Du kannst ausgewählte Funktionen unter \"Einstellungen\" &gt; \"Bedienungshilfen\" ändern."</string>
   <string name="accessibility_shortcut_multiple_service_warning_title">Bedienungshilfen aktivieren?</string>
   <string name="accessibility_shortcut_off">Nicht aktivieren</string>
   <string name="accessibility_shortcut_on">Aktivieren</string>
-  <string name="accessibility_shortcut_single_service_warning">Wenn du beide Lautstärketasten einige Sekunden lang gedrückt hältst, aktivierst du die Bedienungshilfe \"%1$s\". Dadurch kann sich die Funktionsweise deines Geräts ändern.\n\nUnter \"Einstellungen &gt; \"Bedienungshilfen\" kannst du dieser Verknüpfung eine andere Funktion zuweisen.</string>
+  <string name="accessibility_shortcut_single_service_warning">"Wenn du beide Lautstärketasten einige Sekunden lang gedrückt hältst, aktivierst du die Bedienungshilfe \"%1$s\". Dadurch kann sich die Funktionsweise deines Geräts ändern.
+
+Unter \"Einstellungen &gt; \"Bedienungshilfen\" kannst du dieser Verknüpfung eine andere Funktion zuweisen."</string>
   <string name="accessibility_shortcut_single_service_warning_title">%1$s aktivieren?</string>
   <string name="accessibility_shortcut_spoken_feedback">Halten Sie beide Lautstärketasten drei Sekunden lang gedrückt, um %1$s zu verwenden</string>
-  <string name="accessibility_shortcut_talkback_warning">Wenn du beide Lautstärketasten einige Sekunden lang gedrückt hältst, aktivierst du TalkBack. Das ist ein sogenannter Screenreader, also eine Funktion, die Menschen mit eingeschränktem Sehvermögen und Blinden den Bildschirminhalt vorliest. Mit TalkBack ändert sich die Funktionsweise deines Geräts grundlegend.\n\nUnter \"Einstellungen &gt; \"Bedienungshilfen\" kannst du dieser Verknüpfung eine andere Funktion zuweisen.</string>
+  <string name="accessibility_shortcut_talkback_warning">"Wenn du beide Lautstärketasten einige Sekunden lang gedrückt hältst, aktivierst du TalkBack. Das ist ein sogenannter Screenreader, also eine Funktion, die Menschen mit eingeschränktem Sehvermögen und Blinden den Bildschirminhalt vorliest. Mit TalkBack ändert sich die Funktionsweise deines Geräts grundlegend.
+Unter \"Einstellungen &gt; \"Bedienungshilfen\" kannst du dieser Verknüpfung eine andere Funktion zuweisen."</string>
   <string name="accessibility_shortcut_talkback_warning_title">TalkBack aktivieren?</string>
   <string name="accessibility_shortcut_toogle_warning">Wenn die Verknüpfung aktiviert ist, kannst du die beiden Lautstärketasten drei Sekunden lang gedrückt halten, um eine Bedienungshilfe zu starten.</string>
   <string name="accessibility_system_action_back_label">Zurück</string>

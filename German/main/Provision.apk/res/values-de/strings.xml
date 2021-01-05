@@ -314,7 +314,8 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
   <string name="system_navigation_mode">Tasten oder Gesten</string>
   <string name="terms_of_use">Allgemeine Geschäftsbedingungen</string>
   <string name="terms_of_use_label">"Lesen Sie unsere Nutzungsbedingungen und Datenschutzerklärung, um zu verstehen, welche Informationen wir sammeln, wie wir sie verwenden und welche Möglichkeiten Ihnen zur Verfügung stehen.
-Sie müssen unsere Nutzungsbedingungen und Datenschutzerklärung akzeptieren, bevor Sie MIUI verwenden können.\nBestandteile von %s und Mi-Konto verbinden sich mit dem Internet und erfassen Ihren Standort."</string>
+Sie müssen unsere Nutzungsbedingungen und Datenschutzerklärung akzeptieren, bevor Sie MIUI verwenden können.
+Bestandteile von %s und Mi-Konto verbinden sich mit dem Internet und erfassen Ihren Standort."</string>
   <string name="terms_of_use_lable_default_input_method_mint">"
 
 Sie müssen der Datenschutzerklärung von Mint Keyboard zustimmen, bevor Sie diese Funktion nutzen können."</string>

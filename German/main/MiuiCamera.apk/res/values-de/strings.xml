@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="makeup_effect_entry_apricot_white">Alabaster</string>
+  <string name="makeup_effect_entry_dusk_night">Dämmerung</string>
+  <string name="makeup_effect_entry_neutral">Neutral</string>
+  <string name="makeup_effect_entry_palm">Palmbaum</string>
+  <string name="makeup_effect_entry_taro">Taro</string>
+  <string name="makeup_effect_entry_vitality">Verve</string>
+
   <string name="cam_string_remote_camera_setup_wizard_button_accept">Zustimmen</string>
   <string name="cam_string_remote_camera_setup_wizard_button_back">Zurück</string>
   <string name="cam_string_remote_camera_setup_wizard_button_cancel">Abbrechen</string>

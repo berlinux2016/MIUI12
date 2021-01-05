@@ -1285,7 +1285,8 @@ Glücklich sein."</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
-  <string name="wifi_required_body" formatted="false">Mit WLAN verbinden, um diesen %s-Download abzuschließen.\n%s antippen, um den Download zu starten, sobald Sie mit WLAN verbunden sind.</string>
+  <string name="wifi_required_body" formatted="false">"Mit WLAN verbinden, um diesen %s-Download abzuschließen.
+%s antippen, um den Download zu starten, sobald Sie mit WLAN verbunden sind."</string>
   <string name="wifi_required_title">Sie sollten sich mit WLAN verbinden, um diese Datei herunterzuladen.</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Downloadmanager fehlgeschlagen, bitte prüfen Sie den Status des Downloadmanagers im App-Management.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s
