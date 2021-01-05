@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="button_height_text">A generic confirmation button (e.g. \"OK\", \"Done\")</string>
+  <string name="button_normal_text">Regular button</string>
+  <string name="checkbox_text">Switch</string>
+  <string name="customize_knock_gesture">Custom knuckle gestures</string>
+  <string name="double_knock">Knuckle double tap</string>
+  <string name="general_text">Text field</string>
+  <string name="general_time">"Time: %1$d:%2$d. Long vibrations represent hours, short vibrations represent minutes. There'll be a short pause before hours and minutes. Double tap to try."</string>
+  <string name="haptic_experience">Demo</string>
+  <string name="haptic_experience_details">Haptic feedback &amp; accessibility</string>
+  <string name="haptic_switch_summary">Receive haptic feedback specific to selected items when Screen reader is on</string>
+  <string name="haptic_switch_title">Haptic feedback</string>
+  <string name="height_light_list_text">A list of important items</string>
+  <string name="input_text">Text input bar</string>
+  <string name="intelligence_suppression_summary">Dynamically adjust the size of the area near the edges where accidental touch will be ignored based on your grip</string>
+  <string name="knock_edge_area_invalid">"This gesture doesn't work near screen edges"</string>
+  <string name="knock_guide_dialog_title">Select an action for this gesture. You can change it later in Settings > Additional settings > Button shortcuts.</string>
+  <string name="knock_guide_drive_desc">Take screenshots while driving</string>
+  <string name="knock_guide_launch_desc">Trigger Mi AI when your phone is lying on the table</string>
+  <string name="knock_guide_set_screenshot">Screenshot</string>
+  <string name="knock_guide_set_voiceassist">Mi AI</string>
+  <string name="knock_guide_sub_title">You can trigger Mi AI or take screenshots by tapping the screen with your knuckle</string>
+  <string name="knock_guide_title">Knuckle double tap</string>
+  <string name="knock_long_press_horizontal_slid">Press and swipe horizontally with a knuckle</string>
+  <string name="knock_slide_shape">Draw a circle with a knuckle</string>
+  <string name="knock_slide_v">Draw V with a knuckle</string>
+  <string name="miheadset_fitness_check">fitness check</string>
+  <string name="miheadset_fitness_check_result_not_ok">fitness bad</string>
+  <string name="miheadset_fitness_check_result_ok">fitness ok</string>
+  <string name="miheadset_fitness_check_result_unkown">fitness unkown</string>
+  <string name="miheadset_fitness_check_start">fitness check start, pls wait</string>
+  <string name="normal_list_text">List</string>
+  <string name="picker_text">Time picker</string>
+  <string name="search_title_font_settings">font size;font weight;font style</string>
+  <string name="seekbar_text">Slider</string>
+  <string name="switch_headset_anti_lost">Headphone anti-lost reminder</string>
+  <string name="switch_headset_anti_lost_summary">The phone pops up an anti-lost reminder one minute after the earphone is away from the ear and the box</string>
+  <string name="switch_headset_anti_lost_title">Anti-lost headset</string>
+  <string name="tab_text">Tab</string>
+  <string name="wallet_header_title">Wallet &amp; payments</string>
+
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>

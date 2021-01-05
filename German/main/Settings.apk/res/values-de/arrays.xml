@@ -1041,6 +1041,11 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Eine Seite</item>
     <item>Zwei Seiten</item>
   </string-array>
+  <string-array name="tabs_taptic_detail">
+    <item>Knackig</item>
+    <item>Normal</item>
+    <item>Platzen</item>
+  </string-array>
   <string-array name="time_format_entries">
     <item>12-Stunden 1:00 PM</item>
     <item>24-Stunden 13:00</item>
