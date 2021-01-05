@@ -3803,6 +3803,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="instruction_privacy_password">Dieses Passwort schützt die folgenden Inhalte</string>
   <string name="instruction_title">Wichtige Sicherheitshinweise</string>
   <string name="insufficient_storage">Nicht genügend Speicher</string>
+  <string name="intelligence_suppression_summary">Größe des Bereichs in der Nähe der Kanten dynamisch anpassen, in dem versehentliche Berührungen ignoriert werden, basierend auf Ihrer Griffstärke</string>
   <string name="intelligence_suppression_title">Automatisch (empfohlen)</string>
   <string name="intent_sender_account_label">Konto:</string>
   <string name="intent_sender_action_label">Aktion:</string>
@@ -6769,6 +6770,7 @@ App-Pinning verwenden: \u0009
   <string name="search_sync_settings">Sync;Auto;WLAN only;Synchronisation;Synchronisierung;Automatisch;nur WLAN</string>
   <string name="search_system_app_settings">System-Apps</string>
   <string name="search_theme_settings_title">Themen;Theme;Thema;Personalisierung;Personalisieren</string>
+  <string name="search_title_font_settings">Schriftgröße;Schriftgewicht;Schriftstil</string>
   <string name="search_touch_assistant">Quickball;Berührungsassistent</string>
   <string name="search_touch_sensitive_title">Handschuhmodus;Handschuhe;Handschuh</string>
   <string name="search_trusted_credentials">Vertrauenswürdige Anmeldedaten;App-Signatur;App-Signaturen;Anmeldedaten;Signatur</string>
@@ -8886,6 +8888,7 @@ Während eines Sprachanrufs können Sie das Internet nicht nutzen und einige App
   <string name="wake_suppression_title">Kleiner Bereich</string>
   <string name="wakeup_and_sleep_settings_category_name">Einstellungen Sperrbildschirm</string>
   <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirm einschalten</string>
+  <string name="wallet_header_title">Geldbörse &amp; Zahlungen</string>
   <string name="wallet_reset">Sie können Ihre Mi Pay-Bankkarten, -Transportkarten und -Schlüsselkarten nur in Mi Wallet entfernen. Mi Wallet jetzt öffnen?</string>
   <string name="wallet_reset_cancel_btn">Überspringen</string>
   <string name="wallet_reset_ok_btn">Öffnen</string>
