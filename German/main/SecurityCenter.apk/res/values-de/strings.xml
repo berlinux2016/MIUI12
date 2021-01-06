@@ -2658,7 +2658,7 @@ Stromverbrauch"</string>
   <string name="power_center_time_to_boot">Einschaltzeit</string>
   <string name="power_center_time_to_shutdown">Ausschaltzeit</string>
   <string name="power_center_title">Akku</string>
-  <string name="power_center_used_time_Introduction">Akku-Nutzungsdauer seit dem letzten Laden auf ≥%s.</string>
+  <string name="power_center_used_time_Introduction">Akkulaufzeit seit dem letzten Laden ≥%s.</string>
   <string name="power_consume_other">Andere</string>
   <string name="power_dialog_super_save_msg_5g">Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen (z. B. 5G-Verbindung) ein und reduziert die Leistung Ihres Geräts. Nur Anrufe, Nachrichten und Netzwerkverbindungen werden nicht beeinträchtigt. Ultra-Stromsparen einschalten?</string>
   <string name="power_consume_rank_title">Stromverbrauch</string>

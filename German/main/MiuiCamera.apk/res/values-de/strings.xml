@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="pref_camera_tip_doc">Dokumentmodus</string>
-  <string name="pref_camera_tip_id_card">ID-Fotokopiermodus</string>
-  <string name="pref_smart_guide_title">Intelligente Empfehlung</string>
+  <string name="pref_camera_tip_doc">Dokumentenscanner</string>
+  <string name="pref_camera_tip_id_card">ID-Scanner</string>
+  <string name="pref_smart_guide_title">Intelligente Vorschläge</string>
   <string name="remote_online_setup_wizard_button_back">Zurück</string>
   <string name="remote_online_setup_wizard_button_cancel">Abbrechen</string>
   <string name="remote_online_setup_wizard_button_confirm">Bestätigen</string>
@@ -21,8 +21,8 @@
   <string name="remote_online_setup_wizard_title_not_found">Kein Gerät zum Verbinden gefunden</string>
   <string name="remote_online_setup_wizard_title_searching">Gerät suchen</string>
   <string name="remote_online_setup_wizard_title_waiting">Auf die Verbindung des anderen Teilnehmers warten…</string>
-  <string name="settings_camera_detect_card_description">Wenn die KI-Kamera an ist und der Personalausweis erkannt wird, wird die Verknüpfung des Fotokopiermodus für den Personalausweis angezeigt</string>
-  <string name="settings_camera_detect_description_doc">Wenn die KI-Kamera an ist, wird das Dokument erkannt und die PPT zeigt die Verknüpfung des Dokumentmodus an</string>
+  <string name="settings_camera_detect_card_description">Eine Verknüpfung anzeigen, wenn die AI-Kamera eine ID-Karte erkennt</string>
+  <string name="settings_camera_detect_description_doc">Eine Verknüpfung anzeigen, wenn die AI-Kamera ein Dokument oder eine Präsentationsfolie erkennt</string>
   <string name="video_cast_dialog_button_accept">Akzeptieren</string>
   <string name="video_cast_dialog_button_cancel">Abbrechen</string>
   <string name="video_cast_dialog_button_disconnect">Trennen</string>

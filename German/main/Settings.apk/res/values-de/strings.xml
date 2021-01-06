@@ -5,7 +5,7 @@
   <string name="checkbox_text">Schalter</string>
   <string name="customize_knock_gesture">Benutzerdefinierte Knöchelgesten</string>
   <string name="general_text">Textfeld</string>
-  <string name="general_time">"Zeit: %1$d:%2$d. Lange Vibrationen stehen für Stunden, kurze Vibrationen für Minuten. Vor Stunden und Minuten wird eine kurze Pause eingelegt. Doppeltippen, um es zu versuchen."</string>
+  <string name="general_time">Zeit: %1$d:%2$d. Lange Vibrationen stehen für Stunden, kurze Vibrationen für Minuten. Zwischen Stunden und Minuten wird eine kurze Pause eingelegt. Doppeltippen, um es zu versuchen.</string>
   <string name="haptic_experience_details">Haptisches Feeback &amp; Erreichbarkeit</string>
   <string name="haptic_switch_summary">Haptisches Feedback zu ausgewählten Elementen erhalten, wenn der Bildschirmleser an ist</string>
   <string name="haptic_switch_title">Haptisches Feeback</string>
