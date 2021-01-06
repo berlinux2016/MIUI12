@@ -362,7 +362,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Eingehend: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Ausgehend: "</string>
   <string name="callrecordview_menu_add_call_note">Anrufnotiz hinzufügen</string>
-  <string name="callrecordview_menu_aiphone">AI-Anrufe</string>
+  <string name="callrecordview_menu_aiphone">KI-Anrufe</string>
   <string name="callrecordview_menu_batch_delete">Mehrere Kontakte löschen</string>
   <string name="callrecordview_menu_blocklist">Sperrliste</string>
   <string name="callrecordview_menu_conference">Telefonkonferenz</string>

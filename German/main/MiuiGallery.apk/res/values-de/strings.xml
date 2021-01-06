@@ -1507,11 +1507,11 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="photo_editor_remove_watermark">Wasserzeichen entfernen</string>
   <string name="photo_editor_remove_watermark_on">Wasserzeichen hinzufügen</string>
   <string name="photo_editor_remover">Löschen</string>
-  <string name="photo_editor_remover2_download_failed">AI Erase 2.0 herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="photo_editor_remover2_download_failed">KI Erase 2.0 herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="photo_editor_remover2_download_failed_msg">Herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-  <string name="photo_editor_remover2_download_finish">AI Erase 2.0 erfolgreich heruntergeladen</string>
-  <string name="photo_editor_remover2_download_sdk_without_wifi_msg">Sieht aus, als sind Sie nicht mit WLAN verbunden. %1$d MB an mobilen Daten verwenden, um AI Erase 2.0 herunterzuladen?</string>
-  <string name="photo_editor_remover2_download_sdk_without_wifi_title">AI Erase 2.0 herunterladen</string>
+  <string name="photo_editor_remover2_download_finish">KI Erase 2.0 erfolgreich heruntergeladen</string>
+  <string name="photo_editor_remover2_download_sdk_without_wifi_msg">Sieht aus, als sind Sie nicht mit WLAN verbunden. %1$d MB an mobilen Daten verwenden, um KI Erase 2.0 herunterzuladen?</string>
+  <string name="photo_editor_remover2_download_sdk_without_wifi_title">KI Erase 2.0 herunterladen</string>
   <string name="photo_editor_remover2_download_with_metered_network_msg">Sieht aus, als ist Ihr Gerät mit einem kostenpflichtigen Netzwerk verbunden. Herunterladen von Originaldateien kann zu zusätzlichen Kosten führen. Trotzdem herunterladen?</string>
   <string name="photo_editor_remover2_download_with_metered_network_title">Kostenpflichtiges Netzwerk</string>
   <string name="photo_editor_remover2_edit_type_free">Manuell</string>

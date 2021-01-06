@@ -36,8 +36,8 @@
   <string name="input_method_function_switch_keyboard_type_des">Tippen, um zwischen verschiedenen Tastaturen zu wechseln</string>
   <string name="input_method_function_voice">Spracheingabe</string>
   <string name="input_method_function_voice_des">Tippen, um die Spracheingabe zu verwenden</string>
-  <string name="input_method_function_xiaoai">Mi AI-Spracheingabe</string>
-  <string name="input_method_function_xiaoai_des">Tippen, um Mi AI-Spracheingabe zu verwenden</string>
+  <string name="input_method_function_xiaoai">Mi KI-Spracheingabe</string>
+  <string name="input_method_function_xiaoai_des">Tippen, um Mi KI-Spracheingabe zu verwenden</string>
   <string name="input_method_no_content_text">Hier noch keine Elemente</string>
   <string name="input_method_phrase_edit">Bearbeiten</string>
   <string name="input_method_phrase_top">Anpinnen</string>

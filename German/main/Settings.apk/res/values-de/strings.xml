@@ -12,11 +12,11 @@
   <string name="height_light_list_text">Eine Liste mit wichtigen Punkten</string>
   <string name="input_text">Texteingabeleiste</string>
   <string name="knock_edge_area_invalid">Geste funktioniert nicht in der Nähe von Bildschirmrändern</string>
-  <string name="knock_guide_dialog_title">Aktion für diese Geste auswählen. Sie können sie später unter Einstellungen > Weitere Einstellungen > Tastenkombinationen ändern.</string>
+  <string name="knock_guide_dialog_title">Aktion für diese Geste auswählen. Sie können sie später unter Einstellungen &gt; Weitere Einstellungen &gt; Tastenkombinationen ändern.</string>
   <string name="knock_guide_drive_desc">Bildschirmfotos während der Fahrt aufnehmen</string>
-  <string name="knock_guide_launch_desc">Mi AI auslösen, wenn das Telefon auf dem Tisch liegt</string>
-  <string name="knock_guide_set_voiceassist">Mi AI</string>
-  <string name="knock_guide_sub_title">Sie können Mi AI auslösen oder Screenshots aufnehmen, indem Sie mit dem Fingerknöchel auf den Bildschirm tippen</string>  
+  <string name="knock_guide_launch_desc">Mi KI auslösen, wenn das Telefon auf dem Tisch liegt</string>
+  <string name="knock_guide_set_voiceassist">Mi KI</string>
+  <string name="knock_guide_sub_title">Sie können Mi KI auslösen oder Screenshots aufnehmen, indem Sie mit dem Fingerknöchel auf den Bildschirm tippen</string>  
   <string name="knock_guide_title">Knöcheldoppeltipp</string>
   <string name="knock_long_press_horizontal_slid">Mit einem Fingerknöchel waagerecht drücken und wischen</string>
   <string name="knock_slide_shape">Kreis mit einem Fingerknöchel zeichnen</string>

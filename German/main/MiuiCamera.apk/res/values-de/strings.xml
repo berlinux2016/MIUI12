@@ -13,7 +13,7 @@
   <string name="remote_online_setup_wizard_msg_connecting">Verbindung herstellen, bitte warten…</string>
   <string name="remote_online_setup_wizard_msg_exit_or_not">Möchten Sie die gemeinsame Aufzeichnung mehrerer Geräte beenden?</string>
   <string name="remote_online_setup_wizard_msg_introduction">Die Multi-Kamera-Aufnahmefunktion unterstützt zwei Telefone, um Bilder aus verschiedenen Blickwinkeln aufzunehmen und zu einem Video zu kombinieren. Sie können die Videovorschau und das Filmen von zwei Tefonen über dieses Gerät anzeigen und nur die Tonaufnahme dieses Geräts unterstützen.</string>
-  <string name="remote_online_setup_wizard_msg_prerequisite">Der andere Teilnehmer muss den \"Multi-Level-Verzeichnis"\-Schalter in der Dropdown-Benachrichtigungsleiste aktivieren. Die Aufnahme mit mehreren Kameras unterstützt nur Xiaomi und Redmi-Mobiltelefone mit der Kamera im Modus "Duale Szenen vorne und hinten" oder "Multi-Kamera gleichzeitig".</string>
+  <string name="remote_online_setup_wizard_msg_prerequisite">Der andere Teilnehmer muss den \"Multi-Level-Verzeichnis"\-Schalter in der Dropdown-Benachrichtigungsleiste aktivieren. Die Aufnahme mit mehreren Kameras unterstützt nur Xiaomi- und Redmi-Mobiltelefone mit der Kamera im Modus \"Duale Szenen vorne und hinten\" oder \"Multi-Kamera gleichzeitig\".</string>
   <string name="remote_online_setup_wizard_subtitle">Was ist eine Mehr-Geräte-Verbindungsaufnahme?</string>
   <string name="remote_online_setup_wizard_title">Mehr-Geräte-Verbindungsaufnahme</string>
   <string name="remote_online_setup_wizard_title_connecting">Verbunden mit:</string>
@@ -22,7 +22,7 @@
   <string name="remote_online_setup_wizard_title_searching">Gerät suchen</string>
   <string name="remote_online_setup_wizard_title_waiting">Auf die Verbindung des anderen Teilnehmers warten…</string>
   <string name="settings_camera_detect_card_description">Wenn die KI-Kamera an ist und der Personalausweis erkannt wird, wird die Verknüpfung des Fotokopiermodus für den Personalausweis angezeigt</string>
-  <string name="settings_camera_detect_description_doc">Wenn die AI-Kamera an ist, wird das Dokument erkannt und die PPT zeigt die Verknüpfung des Dokumentmodus an</string>
+  <string name="settings_camera_detect_description_doc">Wenn die KI-Kamera an ist, wird das Dokument erkannt und die PPT zeigt die Verknüpfung des Dokumentmodus an</string>
   <string name="video_cast_dialog_button_accept">Akzeptieren</string>
   <string name="video_cast_dialog_button_cancel">Abbrechen</string>
   <string name="video_cast_dialog_button_disconnect">Trennen</string>
