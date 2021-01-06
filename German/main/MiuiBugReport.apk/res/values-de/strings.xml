@@ -104,7 +104,7 @@
   <string name="catch_full_log_submit_directly">Absenden</string>
   <string name="change_activate_email">E-Mail-Adresse ändern</string>
   <string name="change_password">Passwort ändern</string>
-  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich erstelle eins</string>
   <string name="clearable_edittext_clear_description">Löschen</string>

@@ -143,7 +143,7 @@
   <string name="cancel_running_download">Abbrechen</string>
   <string name="cannot_download_to_sdcard_hint">Elemente auf SD-Karte herunterladen ist aufgrund von Urheberrechtsbeschränkungen nicht möglich. Stattdessen werden sie auf den internen Speicher heruntergeladen.</string>
   <string name="change_download_quality">Downloadqualität ändern</string>
-  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="checking_new_version">Nach Updates suchen…</string>
   <string name="choose_download_quality">Downloadqualität einstellen</string>
   <string name="choose_language">Sprache auswählen</string>

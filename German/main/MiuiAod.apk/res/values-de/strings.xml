@@ -132,8 +132,8 @@ dd.MM."</string>
   <string name="large_time">Große Uhr</string>
   <string name="letter_space">Buchstabenabstand</string>
   <string name="line_space">Zeilenabstand</string>
-  <string name="material_slider_range_end">Ende Bereich,</string>
-  <string name="material_slider_range_start">Anfang Bereich,</string>
+  <string name="material_slider_range_end">Bereichsende,</string>
+  <string name="material_slider_range_start">Bereichsanfang,</string>
   <string name="midnight">Nacht</string>
   <string name="mini_time">Kleine Uhr</string>
   <string name="minimalist_clock">Einfache Uhr</string>

@@ -104,7 +104,7 @@ Ihre Konto ID: %s"</string>
   <string name="change_email_address">E-Mail-Adresse ändern</string>
   <string name="change_password">Passwort ändern</string>
   <string name="change_phone_number">Telefonnummer ändern</string>
-  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="cloud_description_closed">Belegt | Synchronisation ist aus</string>
   <string name="cloud_description_normal">Belegt</string>
   <string name="collect_diagnosis_log">Diagnoseprotokoll erstellen</string>

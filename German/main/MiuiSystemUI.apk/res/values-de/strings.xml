@@ -1050,7 +1050,7 @@ innerhalb des Kreises befindet"</string>
   <string name="gxzw_use_password_to_unlock">Passwort eingeben</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
-  <string name="heads_up_snooze_toast">Benachrichtigungen von dieser App werden erst angezeigt, wenn Sie Ihr Gerät wieder entsperren</string>
+  <string name="heads_up_snooze_toast">Benachrichtigungen dieser App werden erst angezeigt, wenn Sie Ihr Gerät wieder entsperren</string>
   <string name="help_feedback_label">Hilfe &amp; Feedback</string>
   <string name="help_label">Hilfe &amp; Feedback</string>
   <string name="hidden_notifications_cancel">Nein danke</string>
@@ -1060,10 +1060,7 @@ innerhalb des Kreises befindet"</string>
   <string name="high_temp_alarm_help_care_steps">Pflegehinweise anzeigen</string>
   <string name="high_temp_alarm_notify_message">Beim Laden dieses Geräts gibt es ein Problem. Ziehen Sie den Netzstecker, und seien Sie vorsichtig, da das Kabel warm sein kann.</string>
   <string name="high_temp_alarm_title">Ladegerät abziehen</string>
-  <string name="high_temp_dialog_message">"Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.
-
-
-Sobald Ihr Telefon abgekühlt ist, läuft es normal."</string>
+  <string name="high_temp_dialog_message">Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.\n\n\nSobald Ihr Telefon abgekühlt ist, läuft es normal.</string>
   <string name="high_temp_notif_message">Einige Funktionen sind eingeschränkt, während das Telefon abkühlt</string>
   <string name="high_temp_title">Telefon wird warm</string>
   <string name="home">Einstellungen Startseite</string>
@@ -2700,6 +2697,10 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="zen_mode_forever">Bis Sie ausschalten</string>
   <string name="zen_mode_settings_summary_off">Nie</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Nicht stören einschalten</string>
+  <string name="zen_mode_warnings_all_time_content">Benachrichtigungen und Anrufe werden stummgeschaltet</string>
+  <string name="zen_mode_warnings_keyguard_content">Benachrichtigungen und Anrufe werden stummgeschaltet, wenn das Gerät gesperrt ist</string>
+  <string name="zen_mode_warnings_quit_immediately">Einschalten</string>
+  <string name="zen_mode_warnings_title">DND ist an</string>
   <string name="zen_priority_customize_button">Anpassen</string>
   <string name="zen_priority_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme, Erinnerungen, Termine und Anrufer, die Sie angeben. Sie hören immer noch alles was Sie spielen möchten, inkl. Musik, Videos und Spiele.</string>
   <string name="zen_silence_introduction">Dies blockiert ALLE Töne und Vibrationen, inkl. von Alarmen, Musik, Videos und Spielen.</string>

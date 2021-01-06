@@ -160,7 +160,7 @@
   <string name="channel_name_download">Download-Manager</string>
   <string name="channel_name_file">Datei scannen</string>
   <string name="channel_tip_text">Mehr Radio hören</string>
-  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="check_in_complete_text">Angemeldet</string>
   <string name="check_in_label_text">Anmelden, um eine Mitgliedschaft zu erhalten</string>
   <string name="check_in_remind">Aufgaben erledigen, um Münzen zu erhalten</string>

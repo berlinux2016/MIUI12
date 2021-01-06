@@ -261,7 +261,7 @@
   <string name="channel_more_title">Mehr Kanäle</string>
   <string name="channel_network_error">Netzwerkfehler aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="channel_no_data">Das ist im Moment alles. Sehen Sie sich andere Kanäle an!</string>
-  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="check_security_tip_privacy_policy">Datenschutzerklärung</string>
   <string name="check_security_tip_user_agreement">Nutzungsbedingungen</string>
   <string name="checking_now">Prüfen…</string>

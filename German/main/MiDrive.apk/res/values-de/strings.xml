@@ -90,7 +90,7 @@
   <string name="change_activate_email">E-Mail-Adresse ändern</string>
   <string name="change_mobile_network_message">Zur Mobilen Datenverbindung gewechselt. Wenn Sie die Mobile Datenverbindung zur Übertragung verwenden, können eventuell weitere Kosten auf Sie zukommen, trotzdem übertragen?</string>
   <string name="change_password">Passwort ändern</string>
-  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+  <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich werde eins erstellen</string>
   <string name="clear_cache_success">Erfolgreich gelöscht</string>
