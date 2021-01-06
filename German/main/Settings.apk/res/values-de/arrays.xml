@@ -374,6 +374,12 @@
     <item>" | Aktiv (Medien abspielen)"</item>
     <item>" | Aktiv (Telefonieren)"</item>
   </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Standard)</item>
+    <item>AVRCP 1.3</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
   <string-array name="bluetooth_max_connected_audio_devices">
     <item>Systemauswahl verwenden: %1$d</item>
     <item>1</item>
@@ -381,6 +387,11 @@
     <item>3</item>
     <item>4</item>
     <item>5</item>
+  </string-array>
+  <string-array name="bluetooth_map_versions">
+    <item>MAP 1.2 (Standard)</item>
+    <item>MAP 1.3</item>
+    <item>MAP 1.4</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 Minuten</item>
@@ -1117,6 +1128,18 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Normal</item>
     <item>Schnell</item>
     <item>Sehr schnell</item>
+  </string-array>
+  <string-array name="uplmn_prefer_network_mode_td_choices">
+    <item>GSM</item>
+    <item>TDSCDMA</item>
+    <item>LTE</item>
+    <item>Dreifachmodus</item>
+  </string-array>
+  <string-array name="uplmn_prefer_network_mode_w_choices">
+    <item>GSM</item>
+    <item>WCDMA</item>
+    <item>LTE</item>
+    <item>Dreifachmodus</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
     <item>Nutzungszeit</item>

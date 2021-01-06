@@ -407,6 +407,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="passport_login_instead_reg_with_email">Diese E-Mail verwenden</string>
   <string name="passport_login_other_account">Anderes Konto</string>
   <string name="passport_login_other_phone">Anderes Konto verwenden</string>
+  <string name="passport_login_other_way">Andere Wege der Anmeldung</string>
   <string name="passport_login_prompt">Ein Mi-Konto. Alle Mi Services.</string>
   <string name="passport_login_recycle_account_no">Nein</string>
   <string name="passport_login_recycle_account_yes">Ja</string>

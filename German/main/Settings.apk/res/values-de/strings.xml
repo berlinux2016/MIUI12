@@ -6198,7 +6198,9 @@ UT Interface: %5$s"</string>
   <string name="recommend_item_3">Powerbank</string>
   <string name="recommend_item_4">Kopfhörer</string>
   <string name="recommend_item_title">Empfehlungen</string>
+  <string name="recommend_text_wakeup_xiaoai">Einstellungen</string>
   <string name="recommend_tip">Benötigen Sie weitere Einstellungen?</string>
+  <string name="recommend_tip_wakeup_xiaoai">Die Verwendung von Tasten zur Interaktion mit Mi KI erfordert die Deaktivierung von Vollbildgesten und die Auswahl von Tasten als Navigationsmethode.</string>
   <string name="recompute_size">Größe neu berechnen…</string>
   <string name="reconnect">Erneut verbinden</string>
   <string name="refresh">Aktualisieren</string>
@@ -9682,6 +9684,10 @@ Diese Funktion wird automatisch ausgeschaltet, wenn der Ladevorgang nicht innerh
   <string name="write_tag">Schreiben</string>
   <string name="wrong_pin_code_one">Falscher SIM-PIN-Code. Sie haben noch 1 Versuch, bevor Sie Ihren Anbieter kontaktieren müssen, um Ihr Gerät zu entsperren.</string>
   <string name="wrong_pin_code_pukked">Falscher SIM-PIN-Code. Sie müssen jetzt Ihren Telefonanbieter kontaktieren, um Ihr Gerät zu entsperren.</string>
+  <string name="xiaoai_global_shortcut">Allgemein</string>
+  <string name="xiaoai_key_shortcut">Tasten</string>
+  <string name="xiaoai_other_shortcut">Andere Methoden</string>
+  <string name="xiaoai_shortcut_settings_title">Mi KI über Tasten und Gesten auslösen</string>
   <string name="xiaomi_account">Mi-Konto</string>
   <string name="xiaomi_cloud_find_device">Gerät finden</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud synchronisiert Ihre Kontakte und Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu finden.</string>
