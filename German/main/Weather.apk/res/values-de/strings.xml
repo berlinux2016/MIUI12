@@ -55,7 +55,7 @@
   <string name="activity_find_city_dialog_message_location_service">Um aktuelle Wetterinformationen zu erhalten, lassen Sie das Wetter auf Ihren Standort zugreifen.</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
-  <string name="activity_main_clickable">></string>
+  <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_pub_time">Veröffentlicht um %1$s</string>
   <string name="activity_main_refresh_fail">Netzwerkverbindung fehlgeschlagen</string>
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
