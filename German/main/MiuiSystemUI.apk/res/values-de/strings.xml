@@ -1060,7 +1060,7 @@ innerhalb des Kreises befindet"</string>
   <string name="high_temp_alarm_help_care_steps">Pflegehinweise anzeigen</string>
   <string name="high_temp_alarm_notify_message">Beim Laden dieses Geräts gibt es ein Problem. Ziehen Sie den Netzstecker, und seien Sie vorsichtig, da das Kabel warm sein kann.</string>
   <string name="high_temp_alarm_title">Ladegerät abziehen</string>
-  <string name="high_temp_dialog_message">Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.\n\n\nSobald Ihr Telefon abgekühlt ist, läuft es normal.</string>
+  <string name="high_temp_dialog_message">Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.\n\nSobald Ihr Telefon abgekühlt ist, läuft es normal.</string>
   <string name="high_temp_notif_message">Einige Funktionen sind eingeschränkt, während das Telefon abkühlt</string>
   <string name="high_temp_title">Telefon wird warm</string>
   <string name="home">Einstellungen Startseite</string>
