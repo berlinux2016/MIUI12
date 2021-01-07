@@ -16,7 +16,7 @@
   <string name="abc_searchview_description_voice">Sprachsuche</string>
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
-  <string name="abc_toolbar_collapse_description">Einklappen</string>>
+  <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="access_change_text" formatted="false">Aktuell sind die %d und %d Tauschpositionen ausgewählt</string>
   <string name="access_deselect">%s abgewählt</string>
   <string name="access_deselected">%s abgewählt</string>

@@ -1790,7 +1790,7 @@ Es zeigt nichts an."</string>
   <string name="video_download_error_http_gone">Datei nicht gefunden</string>
   <string name="video_download_exists">Download bereits vorhanden</string>
   <string name="video_download_fail">Download fehlgeschlagen</string>
-  <string name="video_download_failed">>Download fehlgeschlagen</string>
+  <string name="video_download_failed">Download fehlgeschlagen</string>
   <string name="video_download_finding_address">Download-URL abrufen</string>
   <string name="video_download_pause">Angehalten</string>
   <string name="video_download_start">Herunterladen…</string>

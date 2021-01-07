@@ -375,7 +375,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Alle fortsetzen</string>
   <string name="operation_save">Speichern</string>
-  <string name="operation_sure_to_delete">Jetzt löschen?</string>>
+  <string name="operation_sure_to_delete">Jetzt löschen?</string>
   <string name="operation_task_manage">Transfers anschauen</string>
   <string name="operation_transport_success">Erfolgreich zu Transfers hinzugefügt</string>
   <string name="operation_upload">Hochladen</string>
