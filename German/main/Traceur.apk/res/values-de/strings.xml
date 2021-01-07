@@ -277,7 +277,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="enable_terminal_summary">Terminal-App mit Zugriff auf lokale Shell aktivieren</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_verbose_vendor_logging">Ausführliche Vendor-Protokollierung aktivieren</string>
-  <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Informationen enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>>
+  <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Informationen enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
   <string name="enabled_by_admin">Vom Administrator aktiviert</string>
   <string name="enhanced_connectivity">Erweiterte Konnektivität</string>
   <string name="enhanced_connectivity_summary">Aktiviert die Funktion Erweiterte Konnektivität</string>

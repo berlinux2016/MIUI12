@@ -1137,7 +1137,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="magic_matting_load_data_fail">Daten laden fehlgeschlagen</string>
   <string name="magic_matting_module_finish">\"Magie\"-Plugin erfolgreich heruntergeladen</string>
   <string name="magic_matting_module_loading">\"Magie\"-Plugin herunterladen…</string>
-  <string name="magic_metered_network_msg">Sieht aus, als ist Ihr Gerät mit einem kostenpflichtigen Netzwerk verbunden. Herunterladen von Originaldateien kann zu zusätzlichen Kosten führen. Trotzdem herunterladen?</string>>
+  <string name="magic_metered_network_msg">Sieht aus, als ist Ihr Gerät mit einem kostenpflichtigen Netzwerk verbunden. Herunterladen von Originaldateien kann zu zusätzlichen Kosten führen. Trotzdem herunterladen?</string>
   <string name="magic_metered_network_title">Kostenpflichtiges Netzwerk</string>
   <string name="magic_mix_px">Bild ist zu klein</string>
   <string name="magic_more_fact">Sieht aus, als wären mehrere Personen auf diesem Foto</string>
