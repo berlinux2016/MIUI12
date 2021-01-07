@@ -1603,7 +1603,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="photomovie_save">Speichern</string>
   <string name="photomovie_save_failed">Speichern nicht möglich</string>
   <string name="photomovie_save_successfully">Erfolgreich gespeichert</string>
-  <string name="photomovie_saving">>Clip erstellen…</string>
+  <string name="photomovie_saving">Clip erstellen…</string>
   <string name="photomovie_tab_edit">Bearbeiten</string>
   <string name="photomovie_tab_music">Musik</string>
   <string name="photomovie_tab_template">Vorlagen</string>

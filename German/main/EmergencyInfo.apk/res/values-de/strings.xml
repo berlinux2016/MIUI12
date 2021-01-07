@@ -288,7 +288,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren"</string>
   <string name="remove_contact">%1$s aus Notfallkontakten entfernen?</string>
   <string name="remove_contact_icon_text">Kontakt entfernen</string>
   <string name="remove_dob_icon_text">Geburtsdatum entfernen</string>
-  <string name="running_process_item_user_label">>Benutzer: %1$s</string>
+  <string name="running_process_item_user_label">Benutzer: %1$s</string>
   <string name="runningservices_settings_summary">Anzeigen und Steuern der aktuell ausgeführten Dienste</string>
   <string name="runningservices_settings_title">Laufende Dienste</string>
   <string name="saved_network">Gespeichert von %1$s</string>
