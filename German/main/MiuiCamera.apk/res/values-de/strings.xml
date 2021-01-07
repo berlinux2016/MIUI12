@@ -21,7 +21,7 @@
   <string name="remote_online_setup_wizard_title_not_found">Kein Gerät zum Verbinden gefunden</string>
   <string name="remote_online_setup_wizard_title_searching">Gerät suchen</string>
   <string name="remote_online_setup_wizard_title_waiting">Auf die Verbindung des anderen Teilnehmers warten…</string>
-  <string name="settings_camera_detect_card_description">Eine Verknüpfung anzeigen, wenn die KI-Kamera eine ID-Karte erkennt</string>
+  <string name="settings_camera_detect_card_description">Eine Verknüpfung anzeigen, wenn die KI-Kamera einen Ausweis erkennt</string>
   <string name="settings_camera_detect_description_doc">Eine Verknüpfung anzeigen, wenn die KI-Kamera ein Dokument oder eine Präsentationsfolie erkennt</string>
   <string name="video_cast_dialog_button_accept">Akzeptieren</string>
   <string name="video_cast_dialog_button_cancel">Abbrechen</string>
