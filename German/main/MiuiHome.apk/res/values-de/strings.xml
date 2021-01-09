@@ -177,6 +177,7 @@
   <string name="children_mode_tips_title">Bitte App wählen</string>
   <string name="choose_wallpaper">Hintergrund wählen</string>
   <string name="chooser_wallpaper">Hintergrund wählen</string>
+  <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="cloud_app_restore_title">Ausstehend</string>
   <string name="common_home_search_delete">Suchleiste entfernen</string>
   <string name="common_home_search_delete_cancle">Abbrechen</string>
