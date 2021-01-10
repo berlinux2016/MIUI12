@@ -964,8 +964,7 @@
   <string name="generate_story_title">Story-Alben</string>
   <string name="get_album_info_in_process">Albumdetails laden…</string>
   <string name="grant_permission_go_and_set">Einstellen</string>
-  <string name="grant_permission_text">"Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.
-Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
+  <string name="grant_permission_text">Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.\nTippen Sie auf Einstellen, um zu Berechtigungen zu gelangen.</string>
   <string name="grant_permission_title">Zugriff erlauben</string>
   <string name="grant_permission_unlock_and_set">Entsperren und einstellen</string>
   <string name="has_invalid_recipient">Ungültiger Empfänger: &lt;%1$s&gt;</string>

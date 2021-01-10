@@ -2062,8 +2062,7 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
   <string name="vice_slot_volte_data_switch_title">Nutzung mobiler Daten bei VoLTE-Anrufen mit SIM2</string>
   <string name="video_calling_settings_title">Mobilfunkanbieter Videoanruf</string>
   <string name="vilte_srvcc_tip">Aus Netzwerkgründen auf Sprachanruf umgeschaltet</string>
-  <string name="vm_change_failed">"Sprachboxnummer wurde nicht geändert.
-Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung."</string>
+  <string name="vm_change_failed">Sprachboxnummer wurde nicht geändert.\nFalls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung.</string>
   <string name="vm_change_pin_error_invalid">Neue PIN enthält ungültige Zeichen</string>
   <string name="vm_change_pin_error_mismatch">Alte PIN stimmt nicht</string>
   <string name="vm_change_pin_error_system_error">PIN kann nicht geändert werden</string>
@@ -2083,11 +2082,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voice_service_cannot_call_notification_title">Anrufe im aktuellen Netz nicht möglich</string>
   <string name="voice_service_switch_summary">Einschalten, um die VoLTE-Anruffunktionalität in VoLTE-Netzen nutzen zu können</string>
   <string name="voice_service_switch_title">VoLTE Anrufdienste nutzen</string>
-  <string name="voice_service_warning_dialog_body">"Dieses Gerät unterstützt VoLTE-Anrufe in 4G-Netzen. Stellen Sie sicher, dass die Netzwerke, an die Ihr Gerät angeschlossen ist, diese Funktionalität unterstützen. VoLTE-Dienste werden von Ihrem Mobilfunkanbieter angeboten. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um zu erfahren, ob VoLTE in Ihrer Region nicht unterstützt wird.
-  
-Wenn Sie _ in Ihrer Statusleiste sehen, sind VoLTE-Anrufe nicht verfügbar. Wenn Sie keine Anrufe tätigen oder entgegennehmen können oder Ihre Anrufe unterbrochen sind, stellen Sie sicher, dass Ihr Netzwerk mit VoLTE kompatibel ist.
-
-Dieses Gerät hat keine Hörmuschel. Sie können in den Freisprechmodus wechseln oder über Kopfhörer telefonieren."</string>
+  <string name="voice_service_warning_dialog_body">Dieses Gerät unterstützt VoLTE-Anrufe in 4G-Netzen. Stellen Sie sicher, dass die Netzwerke, an die Ihr Gerät angeschlossen ist, diese Funktionalität unterstützen. VoLTE-Dienste werden von Ihrem Mobilfunkanbieter angeboten. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um zu erfahren, ob VoLTE in Ihrer Region nicht unterstützt wird.\n\nWenn Sie _ in Ihrer Statusleiste sehen, sind VoLTE-Anrufe nicht verfügbar. Wenn Sie keine Anrufe tätigen oder entgegennehmen können oder Ihre Anrufe unterbrochen sind, stellen Sie sicher, dass Ihr Netzwerk mit VoLTE kompatibel ist.\n\nDieses Gerät hat keine Hörmuschel. Sie können in den Freisprechmodus wechseln oder über Kopfhörer telefonieren.</string>
   <string name="voice_service_warning_dialog_cancel">Abbrechen</string>
   <string name="voice_service_warning_dialog_ok">Fertig</string>
   <string name="voice_service_warning_dialog_ok_timer">Fertig (%d)</string>

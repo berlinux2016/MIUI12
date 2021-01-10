@@ -463,8 +463,7 @@
   <string name="vip_auto_speedup">Xunlei-Downloadbeschleunigung ist eingeschaltet</string>
   <string name="vip_expire_show_info">Xunlei-Mitgliedschaft abgelaufen</string>
   <string name="vip_expire_today_show_info">Xunlei-Mitgliedschaft abgelaufen</string>
-  <string name="vip_show_info">"5 Millionen Mitglieder.
-Beschleunigen Sie Downloads auf all Ihren Geräten."</string>
+  <string name="vip_show_info">5 Millionen Mitglieder.\nBeschleunigen Sie Downloads auf all Ihren Geräten.</string>
   <string name="vip_speedup">Speedboost:</string>
   <string name="web_dialog_cancel">Abbrechen</string>
   <string name="xiaomi_account_not_exist_message">Dieses Mi-Konto ist nicht vorhanden</string>
