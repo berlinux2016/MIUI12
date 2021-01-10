@@ -795,7 +795,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
   <string name="headset_press">Drücken</string>
   <string name="headset_record">Aufnahme, bitte sprechen Sie ins Headset, und die Aufnahme wird innerhalb von 3 Sekunden gestoppt.</string>
   <string name="headset_test">Dadurch werden das Einstecken des Headsets, das Herausziehen, das Headset-Mikrofon und die Headset-Taste getestet, und alle Tests werden erfolgreich sein.</string>
-  <string name="headset_test_tips">Damit werden das Einstecken und Herausziehen des Headsets, das Headset-Mik. und die Headset-Taste getestet, und alle Tests sind erfolgreich.</string>
+  <string name="headset_test_tips">Damit werden das Einstecken und Herausziehen des Headsets, das Headset-Mikro und die Headset-Taste getestet, und alle Tests sind erfolgreich.</string>
   <string name="headset_unplug_check_tip">Bitte stecken Sie das Headset ein.</string>
   <string name="headset_unplug_tip">Bitte stecken Sie das Headset ein.</string>
   <string name="hello_world">Hallo Welt!</string>

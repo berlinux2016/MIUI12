@@ -79,7 +79,9 @@
   <string name="change_to_voice_tips_when_background">Anderer Teilnehmer hat zu Sprachanruf umgeschaltet</string>
   <string name="close_camera_failed">Kamera abschalten nicht möglich…</string>
   <string name="close_camera_requesting">Kamera abschalten…</string>
+  <string name="conference_call_description" formatted="false">%s, %s etc., gesamt %s</string>
   <string name="conference_call_recorder_title">Telefonkonferenz</string>
+  <string name="conference_call_single_description" formatted="false">%s etc., gesamt %s</string>
   <string name="conference_caller_info_name">"%1$s's Telefonkonferenz"</string>
   <string name="conference_callers_exceeded">Mehr Leute hinzufügen nicht möglich</string>
   <string name="contacts_icon_label">Kontakte</string>

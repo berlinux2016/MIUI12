@@ -130,6 +130,8 @@
   <string name="delete_file_success">Erfolgreich gelöscht</string>
   <string name="delete_record_only">Elemente, auf die sich ausgewählte Aufnahmen beziehen, werden nicht gelöscht.</string>
   <string name="delete_success">Erfolgreich gelöscht</string>
+  <string name="detail_download_path">"Ort: "</string>
+  <string name="detail_download_time">"Heruntergeladen: "</string>
   <string name="diagnosis_log_send_failed">Protokolle senden nicht möglich. Erneut versuchen.</string>
   <string name="diagnosis_log_sent_format">"Protokolle erfolgreich gesendet.
 ID:%s

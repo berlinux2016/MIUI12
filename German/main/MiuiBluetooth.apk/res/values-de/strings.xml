@@ -303,8 +303,13 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="fast_connect_device_title_connecting">Verbinden…</string>
   <string name="fast_connect_device_title_find_headset">%1$s finden</string>
   <string name="fast_connect_device_title_find_headset_others">Sieht aus, als sei das nicht Ihr Gerät: %1$s</string>
+  <string name="fast_connect_new_feture_anti_lost">Anti-Verlust</string>
+  <string name="fast_connect_new_feture_same_account">Gleiches Konto ohne Kopplung</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Ton-Normalisierer</string>
+  <string name="fast_connect_new_feture_title">Neue Funktionen</string>
   <string name="fast_connect_nzbt_reset">Obere Taste für %1$s Sek gedrückt halten während des Ausschaltens</string>
   <string name="fast_connect_reset_common">Dieses Gerät zurücksetzen, um koppeln zu können</string>
+  <string name="fast_connect_same_accout_devices_title">Dies ist Ihr anderes angeschlossenes Gerät: %1$s</string>
   <string name="fast_connect_wbs_reset">Obere Taste für %1$s Sek gedrückt halten während des Ausschaltens</string>
   <string name="force_allow_on_external">Erzwingen, dass Apps auf externen Speicher schreiben</string>
   <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
@@ -681,6 +686,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
   <string name="wifi_disconnected">Getrennt</string>
   <string name="wifi_display_certification">Wireless-Display-Zertifizierung</string>
   <string name="wifi_display_certification_summary">Optionen für Wireless-Display-Zertifizierung anzeigen</string>
+  <string name="wifi_enhanced_mac_randomization">WLAN-erweiterte MAC-Randomisierung</string>
   <string name="wifi_enhanced_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es sich mit einem Netzwerk verbindet, in dem die MAC-Randomisierung aktiviert ist.</string>
   <string name="wifi_fail_to_scan">Netzwerksuche nicht möglich</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI-Zertifikat</string>
