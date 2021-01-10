@@ -1850,7 +1850,7 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="video_beauty_tip">Videos verschönern</string>
   <string name="video_beauty_tip_beautification">Filter</string>
   <string name="video_beauty_tip_filter">Filter</string>
-  <string name="video_beauty_tip_portrait_bokeh">Unschärfe</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_bokeh_blur">Unschärfe</string>
   <string name="video_bokeh_color_point">Farbflecken</string>
   <string name="video_bokeh_spin">Drehen</string>

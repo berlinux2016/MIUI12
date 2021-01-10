@@ -283,8 +283,8 @@ Halten Sie das Telefon so, als ob Sie einen Anruf entgegennehmen, sprechen Sie i
 3. Auf das Prüfen-Symbol tippen. Das System speichert das Foto automatisch.
 4. Das von Ihnen aufgenommene Foto sollte unten angezeigt werden. Tippen, um den Test abzuschließen."</string>
   <string name="cit_front_camera_check_title">Frontkameratest</string>
-  <string name="cit_front_rear_dual_camera_check_title">Doppelkameratest vorn</string>
-  <string name="cit_front_rear_sub_camera_check_title">Nebenkameratest vorn</string>
+  <string name="cit_front_rear_dual_camera_check_title">Bokeh-Kamera vorne</string>
+  <string name="cit_front_rear_sub_camera_check_title">Hilfskamera vorne</string>
   <string name="cit_get_signature_failed">Signatur erhalten FEHLGESCHLAGEN</string>
   <string name="cit_goodix_sensor_check_summary">Goodix-Sensortest, drücken Sie die Taste und warten Sie, bis die grün markierte Bestanden-Info korrekt ist.</string>
   <string name="cit_goodix_sensor_check_title">Goodix Fingerabdrucksensor</string>
@@ -399,8 +399,8 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
   <string name="cit_proximity_sensor_check_title">Näherungssensor</string>
   <string name="cit_proximity_us_sensitivity">Empfindlichkeit:</string>
   <string name="cit_proximity_us_summary">Ultraschall-Näherungssensor-Kalibrierung</string>
-  <string name="cit_rear_dual_camera_check_title">Doppelkameratest hinten (Dual-Kamera)</string>
-  <string name="cit_rear_dual_second_camera_check_title">Doppelauslösetest hinten (Dual-Nebenkamera)</string>
+  <string name="cit_rear_dual_camera_check_title">Bokeh-Kamera</string>
+  <string name="cit_rear_dual_second_camera_check_title">Bokeh2-Kamera</string>
   <string name="cit_rear_dual_third_camera_check_title">Bokeh3-Kamera</string>
   <string name="cit_rear_sub_camera_check_summary">"Testanleitung:
 
