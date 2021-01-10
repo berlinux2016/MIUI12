@@ -215,6 +215,9 @@
   <string name="got_it">Verstanden</string>
   <string name="gps">Navigieren</string>
   <string name="grant_permission">Berechtigung erteilen</string>
+  <string name="gravity_center">mittig</string>
+  <string name="gravity_left">links</string>
+  <string name="gravity_right">rechts</string>
   <string name="grayscale">Graustufen</string>
   <string name="history">Verlauf</string>
   <string name="history_empty">Noch keine Elemente hier</string>

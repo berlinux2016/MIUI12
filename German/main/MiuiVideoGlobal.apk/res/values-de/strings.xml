@@ -141,6 +141,7 @@
   <string name="cast_tracks_chooser_dialog_none">Nichts</string>
   <string name="cast_tracks_chooser_dialog_subtitles">Untertitel</string>
   <string name="cast_unmute">Stummschaltung aufheben</string>
+  <string name="catchplay_video">Fangen</string>
   <string name="change_activate_email">E-Mail-Adresse ändern</string>
   <string name="change_password">Passwort ändern</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>

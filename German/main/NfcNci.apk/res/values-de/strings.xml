@@ -43,8 +43,7 @@
   <string name="failed_to_enable_bt">Bluetooth konnte nicht aktiviert werden</string>
   <string name="inbound_me_profile_text">Tippen, um diese Person als Kontakt hinzuzufügen</string>
   <string name="inbound_me_profile_title">Kontakt über NFC erhalten</string>
-  <string name="nfc_enabled_dialog">"NFC ist derzeit deaktiviert.
-Wollen Sie es für Ihren NFC-Service aktivieren?"</string>
+  <string name="nfc_enabled_dialog">"NFC ist derzeit deaktiviert.\nWollen Sie es für Ihren NFC-Service aktivieren?"</string>
   <string name="no">NEIN</string>
   <string name="outbound_me_profile_text">Tippen, um dieser Person Ihre Kontaktinformationen zu geben</string>
   <string name="outbound_me_profile_title">NFC-Interaktion abgeschlossen</string>
