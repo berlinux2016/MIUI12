@@ -2201,6 +2201,10 @@ UT-Schnittstelle: %5$s"</string>
   <string name="smart_forwarding_settings_menu">Intelligente Weiterleitung</string>
   <string name="smart_forwarding_settings_menu_summary">Wenn eine Nummer nicht erreichbar ist, leiten Sie Anrufe immer an Ihre andere Nummer weiter</string>
   <string name="smsc_dialog_message">Achten Sie darauf, dass die von Ihnen eingegebene Nummer korrekt ist. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Mobilfunkanbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
+  <string name="softap_beacon_protection">SoftAp Beacon-Schutz aktivieren</string>
+  <string name="softap_beacon_protection_summary">SoftAp Beacon-Schutz über Hotspot aktivieren</string>
+  <string name="softap_ocv">SoftAp OCV aktivieren</string>
+  <string name="softap_ocv_summary">SoftAp OCV über Hotspot aktivieren</string>
   <string name="sp_unlock_failed">SIM-Dienstanbieterentsperranforderung erfolglos</string>
   <string name="sp_unlock_success">SIM-Diensteanbieters erfolgreich entsperren</string>
   <string name="speed_label_fast">Schnell</string>
@@ -2616,6 +2620,8 @@ Wenn Sie sich für Mobilfunknetze entscheiden, werden diese standardmäßig für
   <string name="wifi_hand_sel_wapi_cert">WAPI-Zertifikat</string>
   <string name="wifi_limited_connection">Eingeschränkte Verbindung</string>
   <string name="wifi_metered_label">Gemessen</string>
+  <string name="wifi_new_network_auto_connection">SSID Bridging ‑ Auto-Verbindung</string>
+  <string name="wifi_new_network_auto_connection_summary">Autom. Verbindungsversuche zu einer neuen WPA/WPA2‑PSK 5GHz SSID mit aktuell verbundenen WPA/WPA2‑PSK 2GHz SSID-Anmeldeinformationen bei teilweiser Übereinstimmung von SSID und BSSID aktivieren</string>
   <string name="wifi_no_internet">Kein Internetzugang</string>
   <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
@@ -2644,6 +2650,7 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
+  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
   <string name="wificall_switch_summary">Verwenden Sie WLAN, um nach Möglichkeit Anrufe zu tätigen und zu empfangen</string>
   <string name="wificall_switch_title">Über WLAN telefonieren</string>
   <string name="wild_prompt_str">Platzhalter ersetzen mit</string>

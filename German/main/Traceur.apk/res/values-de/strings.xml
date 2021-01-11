@@ -497,6 +497,10 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="show_touches">Fingertipps anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Fingertipps anzeigen</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
+  <string name="softap_beacon_protection">SoftAp Beacon-Schutz aktivieren</string>
+  <string name="softap_beacon_protection_summary">SoftAp Beacon-Schutz über Hotspot aktivieren</string>
+  <string name="softap_ocv">SoftAp OCV aktivieren</string>
+  <string name="softap_ocv_summary">SoftAp OCV über Hotspot aktivieren</string>
   <string name="speed_label_fast">Schnell</string>
   <string name="speed_label_medium">Mittel</string>
   <string name="speed_label_slow">Langsam</string>
@@ -639,6 +643,8 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="wifi_hand_sel_wapi_cert">WAPI-Zertifikat</string>
   <string name="wifi_limited_connection">Eingeschränkte Verbindung</string>
   <string name="wifi_metered_label">Gemessen</string>
+  <string name="wifi_new_network_auto_connection">SSID Bridging ‑ Auto-Verbindung</string>
+  <string name="wifi_new_network_auto_connection_summary">Autom. Verbindungsversuche zu einer neuen WPA/WPA2‑PSK 5GHz SSID mit aktuell verbundenen WPA/WPA2‑PSK 2GHz SSID-Anmeldeinformationen bei teilweiser Übereinstimmung von SSID und BSSID aktivieren</string>
   <string name="wifi_no_internet">Keine Internetverbindung</string>
   <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
@@ -665,6 +671,7 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
+  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
   <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
