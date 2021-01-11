@@ -1006,6 +1006,7 @@ innerhalb des Kreises befindet"</string>
   <string name="fs_gesture_switch_recents_summary">Von unten wischen und anhalten</string>
   <string name="fsg_demo_back">Zurück</string>
   <string name="fsg_demo_go_on">Weiter</string>
+  <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
   <string name="global_action_lock_message">Telefon entsperren für mehr Optionen</string>
   <string name="go_to_web">Zum Internet</string>
   <string name="got_it">Verstanden</string>
@@ -1431,6 +1432,7 @@ Screenshot zu erstellen"</string>
   <string name="media_transfer_wired_usb_device_name">Kabelgebundener Kopfhörer</string>
   <string name="memory_clear_result_giga">%1$s GB gelöscht</string>
   <string name="memory_clear_result_mega">%1$s MB gelöscht</string>
+  <string name="memory_leak">Speicherleck</string>
   <string name="menu_ime">Tastaturumschalter</string>
   <string name="mic_active">Microfon aktiviert</string>
   <string name="miui_guide_dialog_button_negative_text">Einstellungen</string>

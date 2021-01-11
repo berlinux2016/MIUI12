@@ -1160,6 +1160,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="ew_guide_next_text">Weiter</string>
   <string name="ew_guide_play_audio">Warnton abspielen</string>
   <string name="ew_guide_play_audio_last">Warnton abspielen (%d Sek)</string>
+  <string name="ew_guide_start_warning_range">Gegenwärtig bieten die Erdbebenfrühwarnung Dienste für das Gebiet, das vom Festland-Erdbebenfrühwarnnetz des Chengdu Institute of Hightech Disaster Reduction abgedeckt wird. Das spezifische Gebiet ist unter [City Management] zu finden.</string>
   <string name="ew_guide_statement_text">"Diese "Ausnahmeklausel" gilt für alle Benutzer, die die Erdbebenvorwarnfunktion aktiviert haben (im Folgenden als "Sie" bezeichnet). Sobald Sie mit dieser Klausel einverstanden sind, stellt sie die Beziehung zwischen Ihnen und Xiaomi Technology Co., Ltd. und ihren verbundenen Unternehmen (im Folgenden als "Xiaomi" bezeichnet) in Form eines rechtsverbindlichen Dokuments dar. Sie bestätigen, dass Sie den gesamten Inhalt dieser Ausnahmeklausel im Detail gelesen haben und dass Sie den gesamten Inhalt dieser Ausnahmeklausel vollständig verstehen und damit einverstanden sind. Wenn Sie mit dem Inhalt dieser Ausnahmeklausel nicht einverstanden sind, sollten Sie die Erdbebenwarnfunktion sofort ausschalten. Gemäß den einschlägigen Gesetzen und Vorschriften wird Xiaomi Ihnen Frühwarndienste auf der Grundlage des Umfangs des Erdbeben-Frühwarnbereichs zur Verfügung stellen, die von den zuständigen Behörden durchgeführt werden. Das heißt, wenn Sie die Erdbebenwarnfunktion einschalten, können Sie Erdbebenwarndienste in den oben genannten Gebieten erhalten. Die Gebiete, die derzeit Erdbebenfrühwarndienste anbieten, finden Sie im Modul [City Management]. Frühwarngebiete werden in Zukunft nach und nach hinzugefügt werden, also bleiben Sie dran! Zu Ihrer Sicherheit stellt Xiaomi im Sicherheitszentrum relevante Funktionsmodule zur Verfügung, um Ihnen Informationen zur Erdbebenwarnung anzuzeigen. Sie verstehen, dass die Informationen zur Erdbebenfrühwarnung vom "Chengdu High-tech Disaster Reduction Research Institute" bereitgestellt werden und Xiaomi keine Kontrolle darüber hat. Xiaomi verspricht oder garantiert weder die Genauigkeit, Gültigkeit und Pünktlichkeit seiner Frühwarninformationen, noch garantiert es, dass der Erdbebenfrühwarndienst alle Ihre Bedürfnisse erfüllen kann. Der Empfang von Informationen zur Erdbebenwarnung setzt voraus, dass Sie Ihr Mobiltelefonnetz normal funktionieren lassen. Sie haben sie nicht oder nicht rechtzeitig erhalten, was auf Dritte zurückzuführen ist, wie z.B. Ausfall der Kommunikationsleitung, technische Probleme, Netzwerk-, Endgeräte- oder Systeminstabilität und andere Gründe höherer Gewalt. Xiaomi übernimmt keine Verantwortung für alle erlittenen Verluste. Sie verstehen, dass der Erdbebenfrühwarndienst für Sie nur eine Referenz ist, um Sicherheitsrisiken einzuschätzen und Sicherheitsentscheidungen zu treffen. Die Erdbebenfrühwarnung kann nur eine Frühwarnzeit von wenigen Sekunden bis zu Dutzenden von Sekunden liefern. Die Risiken und Konsequenzen aller Maßnahmen, die Sie auf der Grundlage des Erdbebenfrühwarndienstes ergreifen, liegen bei Ihnen. Sie haben sie zu tragen."</string>
   <string name="ew_guide_statement_text_new">"Dieser Haftungsausschluss gilt für alle Benutzer (im Folgenden als "Sie" bezeichnet), die die Erdbebenwarnfunktion einschalten. Indem Sie diesem Haftungsausschluss zustimmen, gehen Sie einen rechtsverbindlichen Vertrag mit der Xiaomi Inc. und ihren verbundenen Unternehmen (im Folgenden als \"Xiaomi\" bezeichnet) ein. Sie bestätigen, dass Sie den gesamten Inhalt dieses Haftungsausschlusses gelesen haben und dass Sie alle Bedingungen dieses Haftungsausschlusses vollständig verstehen und ihnen zustimmen; andernfalls sollten Sie die Erdbebenwarnfunktion sofort ausschalten.
 In Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften stellt Xiaomi Ihnen Frühwarndienste zur Verfügung, die auf dem Umfang des Erdbebenfrühwarngebiets basieren, das von den zuständigen Behörden abgedeckt wird. Das heißt, wenn Sie die Erdbebenwarnfunktion einschalten, können Sie Erdbebenwarnungen empfangen, die für bestimmte Gebiete ausgegeben werden. Sie können bestimmte Abdeckungsbereiche in den Einstellungen finden.
@@ -1167,7 +1168,6 @@ Diese Funktion bietet Ihnen eine Erdbebenwarnfunktion. Sie müssen verstehen, da
 Xiaomi verspricht oder garantiert nicht die Genauigkeit, Gültigkeit und Aktualität der Erdbebenwarninformationen und garantiert auch nicht, dass der Erdbebenwarndienst alle Ihre Anforderungen erfüllt.
 Für den Empfang von Erdbebenwarninformationen müssen Sie Ihr Gerät mit dem Mobilfunknetz verbunden lassen. Ausfälle von Kommunikationsleitungen Dritter, technische Probleme, Netzwerk- oder Endgeräteausfälle, Systeminstabilität und andere verschiedene Ereignisse höherer Gewalt können dazu führen, dass Sie keine Erdbebenwarninformationen erhalten. Xiaomi trägt keine Verantwortung für Verluste, die durch solche Ereignisse verursacht werden.
 Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die Warnung, die Sie erhalten, kann Sekunden vor dem Ausbruch eines Erdbebens kommen. Sie tragen die alleinige Verantwortung für die Risiken und Folgen von Handlungen, die Sie auf der Grundlage der von dieser Funktion bereitgestellten Informationen durchführen."</string>
-  <string name="ew_guide_start_warning_range">Gegenwärtig bieten die Erdbebenfrühwarnung Dienste für das Gebiet, das vom Festland-Erdbebenfrühwarnnetz des Chengdu Institute of Hightech Disaster Reduction abgedeckt wird. Das spezifische Gebiet ist unter [City Management] zu finden.</string>
   <string name="ew_guide_tips_1">Sie werden über bevorstehende Erdbeben informiert und hören Warntöne</string>
   <string name="ew_guide_tips_2">Informationen und Warntöne werden während des Erdbebens aktualisiert</string>
   <string name="ew_guide_tips_3">Sie können den nächstgelegenen Schutzraum finden, Ihren Notfallkontakt anrufen und bei Bedarf Ihre Krankenversicherungskarte vorlegen</string>
@@ -1186,7 +1186,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="ew_list_receive_time">Startzeit: %s</string>
   <string name="ew_list_receive_time_title">Startzeit</string>
   <string name="ew_list_title">Warnungen</string>
-  <string name="ew_location_failed">Position nicht erhalten</string>
+  <string name="ew_location_failed">Standort unbekannt</string>
   <string name="ew_main_close_text">Sie werden keine aktuellen Informationen über dieses Erdbeben erhalten, wenn Sie den Alarm ausschalten. Trotzdem ausschalten?</string>
   <string name="ew_main_close_title">Achtung</string>
   <string name="ew_main_contact_change">Ändern</string>
@@ -1399,6 +1399,29 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="fixed_cellular_data_quota_monthly">Monatliches Datenlimit</string>
   <string name="fixed_package_tips">Einen festen monatlichen Datenverbrauch genießen. Wenn Sie diesen überschreiten, entstehen Ihnen zusätzliche Kosten.</string>
   <string name="fixed_traffic_quota">Fester Datenverbrauch (optional)</string>
+  <string name="fmt_date_day">d.</string>
+  <string name="fmt_date_long_month_day">d. MMMM</string>
+  <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
+  <string name="fmt_date_numeric_day">dd.</string>
+  <string name="fmt_date_numeric_month">MM.</string>
+  <string name="fmt_date_numeric_month_day">dd.MM.</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_short_month">MM.</string>
+  <string name="fmt_date_short_month_day">dd.MM.</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_time_timezone">D T z</string>
+  <string name="fmt_date_timezone">D z</string>
+  <string name="fmt_time_12hour">"h 'Uhr'"</string>
+  <string name="fmt_time_24hour">"H 'Uhr'"</string>
+  <string name="fmt_time_timezone">T z</string>
+  <string name="fmt_weekday_date">W, D</string>
+  <string name="fmt_weekday_date_time">W, D T</string>
+  <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+  <string name="fmt_weekday_date_timezone">W, D z</string>
+  <string name="fmt_weekday_time_timezone">W T z</string>
+  <string name="fmt_weekday_timezone">W z</string>
   <string name="fod_authentication_shift_button">Abbrechen</string>
   <string name="fod_button_finger">Fingerabdruck verwenden</string>
   <string name="fod_button_password">Passwort eingeben</string>
@@ -3176,7 +3199,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="privacy_show_password_summary">Passwörter für kurze Zeit sichtbar machen</string>
   <string name="privacy_special_permission_summary">Überwachen, wie Apps sensible Berechtigungen verwenden</string>
   <string name="privacy_special_permission_title">Besondere Berechtigungen</string>
-  <string name="privacy_summary">Mehr über den Schutz der Privatsphäre in MIUI 12 erfahren</string>
+  <string name="privacy_summary">Mehr über den Schutz der Privatsphäre in MIUI erfahren</string>
   <string name="privacy_thumbnail_blur_category_financial">Finanzen</string>
   <string name="privacy_thumbnail_blur_category_other">Weitere</string>
   <string name="privacy_thumbnail_blur_category_photography">Foto &amp; Video</string>
