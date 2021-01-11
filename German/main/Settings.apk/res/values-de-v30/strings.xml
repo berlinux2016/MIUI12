@@ -158,21 +158,21 @@ Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit d
   <string name="bluetooth_select_a2dp_codec_type_help_info">Wenn etwas ausgegraut ist, wird es nicht vom Telefon oder Headset unterstützt</string>
   <string name="bluetooth_select_map_version_dialog_title">Bluetooth MAP-Version auswählen</string>
   <string name="bluetooth_select_map_version_string">Bluetooth MAP-Version</string>
-  <string name="bubble_app_setting_all">Alle Unterhaltungen können als Bubble angezeigt werden</string>
+  <string name="bubble_app_setting_all">Alle Unterhaltungen können als Blase angezeigt werden</string>
   <string name="bubble_app_setting_bubble_conversation">Blasen für dieses Gespräch einschalten</string>
-  <string name="bubble_app_setting_excluded_conversation_title">Alle Unterhaltungen können als Bubble erscheinen, außer</string>
-  <string name="bubble_app_setting_none">Unterhaltungen können nicht als Bubble angezeigt werden</string>
-  <string name="bubble_app_setting_selected">Ausgewählte Unterhaltungen können als Bubble angezeigt werden</string>
+  <string name="bubble_app_setting_excluded_conversation_title">Alle Unterhaltungen können als Blase erscheinen, außer</string>
+  <string name="bubble_app_setting_none">Unterhaltungen können nicht als Blase angezeigt werden</string>
+  <string name="bubble_app_setting_selected">Ausgewählte Unterhaltungen können als Blase angezeigt werden</string>
   <string name="bubble_app_setting_selected_conversation_title">Unterhaltungen</string>
   <string name="bubble_app_setting_unbubble_conversation">Blasen für dieses Gespräch ausschalten</string>
-  <string name="bubbles_conversation_app_link">Alle Einstellungen für Bubbles</string>
+  <string name="bubbles_conversation_app_link">Alle Einstellungen für Blasen</string>
   <string name="bubbles_conversation_toggle_summary">Unverankertes Symbol über anderen Apps anzeigen</string>
-  <string name="bubbles_conversation_toggle_title">Diese Unterhaltung als Bubble anzeigen</string>
+  <string name="bubbles_conversation_toggle_title">Diese Unterhaltung als Blase anzeigen</string>
   <string name="bubbles_feature_disabled_button_approve">Aktivieren</string>
-  <string name="bubbles_feature_disabled_dialog_text">"Wenn Sie die Bubbles für diese App aktivieren, wird die Funktion auch auf Ihrem Gerät aktiviert.
+  <string name="bubbles_feature_disabled_dialog_text">"Wenn Sie die Blasen für diese App aktivieren, wird die Funktion auch auf Ihrem Gerät aktiviert.
 
-Dies wirkt sich auch auf andere Apps oder Unterhaltungen aus, die als Bubble erscheinen können."</string>
-  <string name="bubbles_feature_disabled_dialog_title">Bubbles für das Gerät aktivieren?</string>
+Dies wirkt sich auch auf andere Apps oder Unterhaltungen aus, die als Blase erscheinen können."</string>
+  <string name="bubbles_feature_disabled_dialog_title">Blasen für das Gerät aktivieren?</string>
   <string name="bug_report_handler_picker_footer_text">Bestimmt, welche App die Verknüpfung zum Fehlerbericht auf Ihrem Gerät verarbeitet.</string>
   <string name="bug_report_handler_title">Fehlerbericht-Handler</string>
   <string name="ca_certificate">CA-Zertifikat</string>
@@ -323,11 +323,11 @@ Vom oberen Displayrand nach unten wischen, um die Benachrichtigungsleiste zu öf
   <string name="guest_nickname">Gast</string>
   <string name="history_toggled_on_summary">Hier finden Sie aktuelle und zurückgestellte Benachrichtigungen</string>
   <string name="history_toggled_on_title">Keine aktuellen Benachrichtigungen</string>
-  <string name="important_bubble">Vorrangige Unterhaltungen als Bubble anzeigen</string>
-  <string name="important_conversation_behavior_summary">Vorrangige Unterhaltungen werden oben in der Benachrichtigungsleiste angezeigt. Sie können auch einstellen, dass sie als Bubbles angezeigt werden oder den \"Bitte nicht stören\"-Modus unterbrechen können.</string>
+  <string name="important_bubble">Vorrangige Unterhaltungen als Blase anzeigen</string>
+  <string name="important_conversation_behavior_summary">Vorrangige Unterhaltungen werden oben in der Benachrichtigungsleiste angezeigt. Sie können auch einstellen, dass sie als Blasen angezeigt werden oder den \"Bitte nicht stören\"-Modus unterbrechen können.</string>
   <string name="important_conversations">Vorrangige Unterhaltungen</string>
   <string name="important_conversations_summary">Oben im Bereich für Unterhaltungen anzeigen</string>
-  <string name="important_conversations_summary_bubbles">Oben im Bereich für Unterhaltungen und als unverankerte Bubbles anzeigen</string>
+  <string name="important_conversations_summary_bubbles">Oben im Bereich für Unterhaltungen und als unverankerte Blasen anzeigen</string>
   <string name="imsi_protection_warning">Dieses Netzwerk empfängt eine eindeutige ID, mit der der Gerätestandort erfasst werden kann. &lt;annotation id=\"url\"&gt;Weitere Informationen&lt;/annotation&gt;</string>
   <string name="interact_across_profiles_app_detail_title">Verbundene private und berufliche Apps</string>
   <string name="interact_across_profiles_consent_dialog_app_data_summary">Diese App kann auf Daten in deiner privaten App \"%1$s\" zugreifen.</string>
@@ -434,7 +434,7 @@ Dadurch wird %2$s als Ihre Standard-App für das kontaktlose Bezahlen ersetzt."<
 
 Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funktion zu aktivieren bzw. zu deaktivieren und zugehörige Einstellungen zu ändern."</string>
   <string name="notification_badging_title">Benachr.punkt auf App-Symbol</string>
-  <string name="notification_channel_summary_priority">Wird oben im Abschnitt für Unterhaltungen angezeigt und erscheint als Bubble.</string>
+  <string name="notification_channel_summary_priority">Wird oben im Abschnitt für Unterhaltungen angezeigt und erscheint als Blase.</string>
   <string name="notification_channels">Kategorien</string>
   <string name="notification_conversation_add_to_home">Zum Startbildschirm hinzufügen</string>
   <string name="notification_conversation_important">Wichtig</string>
