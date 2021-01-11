@@ -359,6 +359,8 @@
   <string name="search_app_name">Nach Apps suchen</string>
   <string name="search_empty">Keine Apps gefunden</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="search_nature_mix">Naturmuseum, Tiere</string>
+  <string name="search_notification_sound">Benachrichtigungsklingelton; Persönlichkeit; exklusiv; Naturmuseum; Tier</string>
   <string name="several_days_use_time">Bildschirmzeit: %2$s</string>
   <string name="shortcut_created">Verknüpfung wurde erstellt</string>
   <string name="silent_ringtone_hint">Ton ist jetzt stumm geschaltet. Lautstärke erhöhen und erneut versuchen.</string>

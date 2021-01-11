@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="dock_tip_floatwindow">Leiste gedrückt halten und an den Rand des Bildschirms ziehen, um die geteilte Bildschirmansicht aufzurufen.</string>
+  <string name="dock_tip_splitscreen_landscape_drag">Leiste horizontal ziehen, um die Positionen der beiden App-Fenster zu vertauschen.</string>
+  <string name="dock_tip_splitscreen_landscape_float">Gedrückt halten und nach unten ziehen, um zu einem Popup zu wechseln.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">Leiste vertikal ziehen, um die Positionen der beiden App-Fenster zu vertauschen.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Bildschirm halten und nach links oder rechts ziehen, um zu einem Popup zu wechseln.</string>
+  <string name="miui_multiwindow_not_support_split">%1$s unterstützt keine geteilte Bildschirmanzeige.</string>
   <string name="activity_package_delete_confirm_title">Wichtige Warnung</string>
   <string name="add_frequent_phrases">Häufige Sätze hinzufügen</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
