@@ -108,6 +108,7 @@
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich erstelle eins</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
+  <string name="close">Schließen</string>
   <string name="close_feedback_main">Ausblenden</string>
   <string name="collect_diagnosis_log">Protokolle sammeln</string>
   <string name="confirm_activate_email">Verifiziert</string>
@@ -123,6 +124,7 @@
   <string name="customer_service_complain">An den Kundendienst melden</string>
   <string name="customer_service_station">Servicestandorte</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="default_text_view">Textvorschau</string>
   <string name="description">Problem beschreiben</string>
   <string name="diagnosis_log_send_failed">Protokolle nicht gesendet. Erneut versuchen.</string>
@@ -412,10 +414,13 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="miuix_appcompat_cancel_description">Abbrechen</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suche</string>
+  <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
+  <string name="miuix_appcompat_select_item">Elemente wählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -746,6 +751,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="section_description">Beschreibung</string>
   <string name="section_err_type">Fehlertyp</string>
   <string name="select_system_app_tag">Problem wählen</string>
+  <string name="send">Senden</string>
   <string name="send_diagnosis_log">Protokolle senden</string>
   <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich versendet</string>
   <string name="sending">Senden…</string>
