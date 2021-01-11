@@ -2650,7 +2650,7 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
-  <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
+  <string name="wifi_whitelist_roaming_summary">Ermöglicht Roaming zwischen verschiedenen SSID WPA/WPA2-PSK APs mit gleicher Gateway MAC-Adresse</string>
   <string name="wificall_switch_summary">Verwenden Sie WLAN, um nach Möglichkeit Anrufe zu tätigen und zu empfangen</string>
   <string name="wificall_switch_title">Über WLAN telefonieren</string>
   <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
