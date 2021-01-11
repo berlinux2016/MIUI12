@@ -137,12 +137,12 @@ In %d Sekunden erneut versuchen."</string>
   <string name="bubble_overflow_empty_subtitle">Neueste und zurückgewiesenen Blasen werden hier erscheinen</string>
   <string name="bubble_overflow_empty_title">Keine neuen Blasen</string>
   <string name="bubbles_app_settings">%1$s-Einstellungen</string>
-  <string name="bubbles_dont_bubble_conversation">Keine Sprechblasen</string>
-  <string name="bubbles_user_education_description">Neue Gespräche erscheinen als schwebende Symbole oder Sprechblasen. Tippen, um die Sprechblase zu öffnen. Ziehen, um sie zu verschieben.</string>
+  <string name="bubbles_dont_bubble_conversation">Keine Blasen</string>
+  <string name="bubbles_user_education_description">Neue Gespräche erscheinen als schwebende Symbole oder Blasen. Tippen, um die Sprechblase zu öffnen. Ziehen, um sie zu verschieben.</string>
   <string name="bubbles_user_education_got_it">Verstanden</string>
   <string name="bubbles_user_education_manage">Auf Verwalten tippen, um Blasen in dieser App auszuschalten</string>
   <string name="bubbles_user_education_manage_title">Jederzeit Kontrolle über Blasen</string>
-  <string name="bubbles_user_education_title">Chat mit Sprechblasen</string>
+  <string name="bubbles_user_education_title">Chat mit Blasen</string>
   <string name="cached_apps_freezer_device_default">Gerätevoreinstellung</string>
   <string name="cached_apps_freezer_disabled">Deaktiviert</string>
   <string name="cached_apps_freezer_enabled">Aktiviert</string>

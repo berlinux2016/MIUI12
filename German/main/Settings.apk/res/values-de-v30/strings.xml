@@ -460,7 +460,7 @@ Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funkt
   <string name="notification_vibrate_title">Vibration</string>
   <string name="notifications_bubble_setting_description">Einige Unterhaltungen erscheinen als unverankerte Symbole über anderen Apps</string>
   <string name="notifications_bubble_setting_on_summary">Ein / Unterhaltungen können als unverankerte Symbole angezeigt werden</string>
-  <string name="notifications_bubble_setting_title">Zulassen, dass Apps Bubbles anzeigen</string>
+  <string name="notifications_bubble_setting_title">Zulassen, dass Apps Blasen anzeigen</string>
   <string name="open_supported_links_footer">App gibt an, die folgenden Links zu verarbeiten:</string>
   <string name="other_conversations">Andere Gespräche</string>
   <string name="other_conversations_summary">Unterhaltungen, an denen Änderungen vorgenommen wurden</string>
