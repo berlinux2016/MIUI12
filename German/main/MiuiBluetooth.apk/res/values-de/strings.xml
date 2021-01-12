@@ -348,7 +348,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="headset_fw_error_failed">Aktualisieren nicht möglich. Firmware-Info ist falsch.</string>
   <string name="headset_fw_file_position_failed">Dateizugriff nicht möglich</string>
   <string name="headset_fw_file_readfailed">Aktualisierungsinfo erhalten nicht möglich</string>
-  <string name="headset_loss_notify_summary">Ihre Köpfhörer wurden nach dem Gebrauch nicht in die Ladebox gelegt. Bitte überprüfen Sie, ob die Kopfhörer fehlen</string>
+  <string name="headset_loss_notify_summary">Sieht aus, als ob mindestens einer Ihrer Ohrhörer nicht in der Ladehülle ist. Sehen Sie nach!</string>
+  <string name="headset_loss_notify_title">Alarm bei fehlendem Ohrhörer</string>
   <string name="headset_read_fw_state">Aktualisierungsinfo erhalten nicht möglich</string>
   <string name="headset_update_failed">Aktualisieren nicht möglich</string>
   <string name="headset_update_ok">Fertig</string>

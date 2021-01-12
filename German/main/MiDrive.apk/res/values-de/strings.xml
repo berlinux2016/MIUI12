@@ -625,7 +625,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="user_avatar_update_title">Profilfoto ändern</string>
   <string name="user_avatar_uploading">Einen Moment…</string>
   <string name="user_id_hint">E-Mail/Telefon/Mi-Konto-ID</string>
-  <string name="user_protocol_and_privacy_protocol">Ich habe die Nutzervereinbarung und Datenschutzerklärung gelesen und akzeptiert.</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
   <string name="v_code_title">Verifizierungscode eingeben</string>

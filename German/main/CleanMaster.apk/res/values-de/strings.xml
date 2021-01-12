@@ -776,6 +776,8 @@
   <string name="video_clean_desktop_icon_created">Startbildschirmverknüpfung erfolgreich hinzugefügt</string>
   <string name="video_clean_garbage">Videos im Cache</string>
   <string name="video_clean_garbage_cleared">Videos im Cache erfolgreich gelöscht</string>
+  <string name="video_clean_image_clean_summary">Doppelte Fotos löschen, um Speicherplatz freizugeben</string>
+  <string name="video_clean_image_clean_title">Doppelte Fotos löschen</string>
   <string name="video_clean_notification_summary">Videos im Cache von Apps löschen</string>
   <string name="video_clean_notification_title">%s freigeben</string>
   <string name="video_clean_personal_settings_title">Weitere Einstellungen</string>
