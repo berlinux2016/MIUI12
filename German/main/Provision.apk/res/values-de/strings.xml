@@ -257,7 +257,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="protect_persoanl_info_statement">Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen schützen.</string>
   <string name="provision_back">Zurück</string>
-  <string name="provision_inputmethod_policy_description">Datenschutzerklärung ausgewählter Tastaturen anzeigen</string>
+  <string name="provision_inputmethod_policy_description"><Data>&lt;a href=%1$s>Datenschutzerklärung&lt;/a> Ihrer ausgewählten Tastatur anzeigen</Data></string>
   <string name="provision_inputmethod_policy_description1">Datenschutzerklärung</string>
   <string name="provision_next">Weiter</string>
   <string name="provision_skip_underline">Überspringen</string>

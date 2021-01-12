@@ -4,7 +4,6 @@
   <string name="wifi_unsaved_network_linking_summary">Automatische Verbindungsversuche zu einer neuen WPA/WPA2-PSK 5GHz SSID mit aktuell verbundenen WPA/WPA2-PSK 2GHz SSID-Zugangsdaten auf SSID und BSSID mit teilweiser Übereinstimmung aktivieren</string>
   <string name="wifi_whitelist_roaming">SSID Bridging - Fast Handover</string>
   <string name="wifi_whitelist_roaming_summary">Roaming zwischen verschiedenen SSID-WPA/WPA2-PSK-APs mit derselben Gateway-MAC-Adresse aktivieren</string>
-  <string name="headset_loss_notify_title">Erinnerung Kopfhörer nicht vorhanden</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
@@ -349,7 +348,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="headset_fw_file_position_failed">Dateizugriff nicht möglich</string>
   <string name="headset_fw_file_readfailed">Aktualisierungsinfo erhalten nicht möglich</string>
   <string name="headset_loss_notify_summary">Sieht aus, als ob mindestens einer Ihrer Ohrhörer nicht in der Ladehülle ist. Sehen Sie nach!</string>
-  <string name="headset_loss_notify_title">Alarm bei fehlendem Ohrhörer</string>
+  <string name="headset_loss_notify_title">Warnung bei fehlendem Ohrhörer</string>
   <string name="headset_read_fw_state">Aktualisierungsinfo erhalten nicht möglich</string>
   <string name="headset_update_failed">Aktualisieren nicht möglich</string>
   <string name="headset_update_ok">Fertig</string>

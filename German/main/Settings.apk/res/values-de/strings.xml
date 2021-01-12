@@ -24,9 +24,9 @@
   <string name="normal_list_text">Liste</string>
   <string name="picker_text">Zeitauswahl</string>
   <string name="seekbar_text">Slider</string>
-  <string name="switch_headset_anti_lost">Kopfhörer-Verlusterinnerung</string>
-  <string name="switch_headset_anti_lost_summary">Das Telefon zeigt eine Minute, nachdem der Hörer vom Ohr entfernt wurde, eine Verlusterinnerung und die Box an</string>
-  <string name="switch_headset_anti_lost_title">Gegen verlorene Kopfhörer</string>
+  <string name="switch_headset_anti_lost">Warnung bei fehlendem Ohrhörer</string>
+  <string name="switch_headset_anti_lost_summary">Warnung erhalten, wenn einer Ihrer Ohrhörer länger als eine Minute vom Ohr oder der Ladehülle entfernt ist</string>
+  <string name="switch_headset_anti_lost_title">Warnung bei fehlendem Ohrhörer</string>
 
 
   <string name="Accounts_settings_title">Konten</string>
@@ -9242,6 +9242,8 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Halten Sie Daten und WLAN eingeschaltet, um bei schlechter WLAN-Konnektivität auf Daten umzuschalten.</string>
   <string name="wifi_enable_hs2_title">Passpoint an</string>
   <string name="wifi_enable_watchdog_service_summary">Nur gute Verbindungen verwenden</string>
+  <string name="wifi_enhanced_handover">Erweiterte Übergabe</string>
+  <string name="wifi_enhanced_handover_summary">Schnelles Umschalten zwischen APs mit der gleichen Verschlüsselungsmethode</string>
   <string name="wifi_enhanced_mac_randomization">WLAN-erweiterte MAC-Randomisierung</string>
   <string name="wifi_enhanced_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es sich mit einem Netzwerk verbindet, in dem die MAC-Randomisierung aktiviert ist.</string>
   <string name="wifi_error">Fehler</string>
