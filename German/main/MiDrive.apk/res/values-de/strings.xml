@@ -90,6 +90,15 @@
   <string name="change_activate_email">E-Mail-Adresse ändern</string>
   <string name="change_mobile_network_message">Zur Mobilen Datenverbindung gewechselt. Wenn Sie die Mobile Datenverbindung zur Übertragung verwenden, können eventuell weitere Kosten auf Sie zukommen, trotzdem übertragen?</string>
   <string name="change_password">Passwort ändern</string>
+  <string name="channel_pc_edit">Auf dem Computer bearbeitet</string>
+  <string name="channel_pc_upload">Vom Computer hochgeladen</string>
+  <string name="channel_pc_view">Auf dem Computer angesehen</string>
+  <string name="channel_phone_edit">Auf dem Telefon bearbeitet</string>
+  <string name="channel_phone_upload">Vom Telefon hochgeladen</string>
+  <string name="channel_phone_view">Auf dem Telefon angesehen</string>
+  <string name="channel_web_edit">Im Browser bearbeitet</string>
+  <string name="channel_web_upload">Im Browser hochgeladen</string>
+  <string name="channel_web_view">Im Browser angesehen</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich werde eins erstellen</string>
@@ -128,6 +137,8 @@
   <string name="delete_failed_retry">Konnte nicht löschen, warten Sie %1$s und versuchen es nochmals</string>
   <string name="delete_file">Diese Datei löschen?</string>
   <string name="delete_file_success">Erfolgreich gelöscht</string>
+  <string name="delete_operation_record">Diesen Datensatz löschen?</string>
+  <string name="delete_operation_record_timeout">Datensatz wurde nicht gelöscht. Ein oder zwei Minuten warten und erneut versuchen.</string>
   <string name="delete_record_only">Elemente, auf die sich ausgewählte Aufnahmen beziehen, werden nicht gelöscht.</string>
   <string name="delete_success">Erfolgreich gelöscht</string>
   <string name="detail_download_path">"Ort: "</string>
@@ -259,6 +270,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
   <string name="input_new_pwd">Neues Passwort eingeben</string>
   <string name="isornot_your_mi_account">Ist das Ihr Mi-Konto?</string>
+  <string name="jump_to_directory">Ordner öffnen</string>
   <string name="just_a_second">Einen Moment…</string>
   <string name="just_now">Gerade eben</string>
   <string name="license_host_unreachable">Ihr Gerät ist nicht mit Cloud-Diensten verbunden. Um dieses Element anzuzeigen, besuchen Sie %s auf einem beliebigen angeschlossenen Gerät.</string>
@@ -329,6 +341,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="no_more_space">Nicht genügend Speicherplatz vorhanden</string>
   <string name="no_network">Keine Netzwerkverbindung. Prüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
   <string name="no_phone">Keine Telefonnummer</string>
+  <string name="no_recent_activity">Keine letzten Einträge hier</string>
   <string name="no_tasks">Keine Aufgaben</string>
   <string name="not_set">Nicht festgelegt</string>
   <string name="not_support_upload_file_for_overseas_users">Hochladen ist außerhalb Chinas nicht möglich</string>
@@ -360,11 +373,13 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="operation_dialog_copy_message">Kopieren…</string>
   <string name="operation_dialog_create_folder_message">Ordner erstellen…</string>
   <string name="operation_dialog_delete_message">Löschen…</string>
+  <string name="operation_dialog_jump_message">Ordner öffnen…</string>
   <string name="operation_dialog_move_message">Verschieben…</string>
   <string name="operation_dialog_rename_message">Umbenennen…</string>
   <string name="operation_download">Herunterladen</string>
   <string name="operation_move">Verschieben</string>
   <string name="operation_moving">Verschieben…</string>
+  <string name="operation_will_not_show_after_delete">Der Datensatz wird hier nicht mehr angezeigt, wenn Sie ihn löschen.</string>
   <string name="operation_moving_detail">Verschieben (%1$d/%2$d)</string>
   <string name="operation_paste">Einfügen</string>
   <string name="operation_pasting">Einfügen…</string>
@@ -501,6 +516,8 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="psw_sign_in">Mit Passwort anmelden</string>
   <string name="ptp_ai_recommend_empty_page">"Keine automatisch generierten PDF's hier"</string>
   <string name="quota_info">Mi Drive: %1$s verfügbar, %2$s insgesamt</string>
+  <string name="recent_file">Letzte</string>
+  <string name="recent_jump_to_privacy_fail_notice">Diese Datei ist privat. Zurück zur Startseite gehen und zur Ansicht nach unten ziehen.</string>
   <string name="refresh_label_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="refresh_label_refreshed">Erfolgreich aktualisiert</string>
   <string name="refresh_label_refreshing">Aktualisieren…</string>

@@ -1276,6 +1276,8 @@ Apps:
   <string name="bluetooth_enable_gabeldorsche_summary">Aktiviert den Bluetooth Gabeldorsche Funktions-Stack</string>
   <string name="bluetooth_enable_inband_ringing">In-Band-Klingeln aktivieren</string>
   <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Telefonklingeltönen über Bluetooth-Kopfhörer</string>
+  <string name="bluetooth_enable_page_scan">Bluetooth-Seiten-Scan aktivieren</string>
+  <string name="bluetooth_enable_page_scan_summary">Seiten-Scan für Bluetooth-Test deaktivieren/aktivieren</string>
   <string name="bluetooth_enter_passkey_msg">Geben Sie den Pairing-Code ein und drücken Sie Return oder Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Eventuell müssen Sie diesen Schlüssel auch auf dem anderen Gerät eingeben</string>
   <string name="bluetooth_enter_pin_other_device">Eventuell müssen Sie diese PIN auch auf dem anderen Gerät eingeben</string>
@@ -9243,7 +9245,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_enable_hs2_title">Passpoint an</string>
   <string name="wifi_enable_watchdog_service_summary">Nur gute Verbindungen verwenden</string>
   <string name="wifi_enhanced_handover">Erweiterte Übergabe</string>
-  <string name="wifi_enhanced_handover_summary">Schnelles Umschalten zwischen APs mit der gleichen Verschlüsselungsmethode</string>
+  <string name="wifi_enhanced_handover_summary">Schnelles Umschalten zwischen verschiedenen APs</string>
   <string name="wifi_enhanced_mac_randomization">WLAN-erweiterte MAC-Randomisierung</string>
   <string name="wifi_enhanced_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es sich mit einem Netzwerk verbindet, in dem die MAC-Randomisierung aktiviert ist.</string>
   <string name="wifi_error">Fehler</string>

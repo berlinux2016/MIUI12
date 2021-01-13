@@ -124,6 +124,8 @@
   <string name="bluetooth_dun_profile_summary_use_for">Für DFÜ-Verbindung verwenden</string>
   <string name="bluetooth_enable_gabeldorsche">Gabeldorsche aktivieren</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Aktiviert den Bluetooth Gabeldorsche Funktions-Stack</string>
+  <string name="bluetooth_enable_page_scan">Bluetooth-Seiten-Scan aktivieren</string>
+  <string name="bluetooth_enable_page_scan_summary">Seiten-Scan für Bluetooth-Test deaktivieren/aktivieren</string>
   <string name="bluetooth_headset_profile_summary_connected">Mit Sprachtelefonie verbunden</string>
   <string name="bluetooth_headset_profile_summary_use_for">Für Sprachtelefonie verwenden</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Mit Hörgerät verbunden</string>
