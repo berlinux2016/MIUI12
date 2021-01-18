@@ -289,6 +289,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="external_source_trusted">Zulassen</string>
   <string name="external_source_untrusted">Nicht zulassen</string>
   <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
+  <string name="fast_connect_anti_lost_content">"Richten Sie eine Warnung ein, die angezeigt wird, wenn einer Ihrer Ohrhörer fehlt.
+Prüfen Sie die Einstellungen für Details."</string>
   <string name="fast_connect_bt_speaker2_name">Mi Tragbarer BT-Lautsprecher 2</string>
   <string name="fast_connect_device_battery">Akku</string>
   <string name="fast_connect_device_connect_cancel">Abbrechen</string>
@@ -304,13 +306,17 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="fast_connect_device_title_connecting">Verbinden…</string>
   <string name="fast_connect_device_title_find_headset">%1$s finden</string>
   <string name="fast_connect_device_title_find_headset_others">Sieht aus, als sei das nicht Ihr Gerät: %1$s</string>
-  <string name="fast_connect_new_feture_anti_lost">Anti-Verlust</string>
-  <string name="fast_connect_new_feture_same_account">Gleiches Konto ohne Kopplung</string>
-  <string name="fast_connect_new_feture_sound_normalizer">Ton-Normalisierer</string>
-  <string name="fast_connect_new_feture_title">Neue Funktionen</string>
+  <string name="fast_connect_new_feture_anti_lost">Alarm fehlende Kopfhörer</string>
+  <string name="fast_connect_new_feture_same_account">Synchronisierte Geräte verbinden</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Besserer Ton</string>
+  <string name="fast_connect_new_feture_title">Was ist neu</string>
   <string name="fast_connect_nzbt_reset">Obere Taste für %1$s Sek gedrückt halten während des Ausschaltens</string>
   <string name="fast_connect_reset_common">Dieses Gerät zurücksetzen, um koppeln zu können</string>
+  <string name="fast_connect_same_account_content">Bluetooth-Geräte können mit Ihrem Mi-Konto synchronisiert und ohne Kopplung mit anderen Geräten verbunden werden.</string>
+  <string name="fast_connect_same_accout_devices_connecting">Verbinden über Xiaomi Cloud…</string>
   <string name="fast_connect_same_accout_devices_title">Dies ist Ihr anderes angeschlossenes Gerät: %1$s</string>
+  <string name="fast_connect_sound_normalizer_content">"Besserer Ton bei Sprachanrufen.
+Schnelleres Verbindungsprotokoll."</string>
   <string name="fast_connect_wbs_reset">Obere Taste für %1$s Sek gedrückt halten während des Ausschaltens</string>
   <string name="force_allow_on_external">Erzwingen, dass Apps auf externen Speicher schreiben</string>
   <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>

@@ -521,14 +521,14 @@ Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funkt
   <string name="reading_settings">Einstellungen lesen…</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_call">Benachrichtigung über wiederholte Anrufe</string>
-  <string name="repeat_call_info">Ton für die innerhalb von 15 Minuten wiederholten Anrufe im Lautlosmodus zulassen</string>
+  <string name="repeat_call_info">Klingeln oder Vibrieren bei Empfang des zweiten Anrufs von der gleichen Rufnummer innerhalb von %d Minuten</string>
   <string name="repeat_days_in_week">Wiederholen</string>
   <string name="repeat_never">Niemals</string>
   <string name="repeat_title">Wiederholen</string>
   <string name="reset_dashboard_summary_onlyApps">Apps können zurückgesetzt werden</string>
   <string name="right_edge">Rechter Rand</string>
   <string name="ring_volume_title">Lautstärke bei Klingeln und Benachrichtigungseingang</string>
-  <string name="ringer_mode_setting_summary">Eingehende Anrufe und Benachrichtigungen stumm schalten</string>
+  <string name="ringer_mode_setting_summary">Anrufe und Benachrichtigungen stumm schalten</string>
   <string name="ringer_mode_setting_title">Lautlosmodus </string>
   <string name="roaming_warning">Eventuell fallen Roaminggebühren an.</string>
   <string name="roaming_warning_multiuser">"Wenn Sie Daten-Roaming zulassen, fallen eventuell Roaminggebühren an.
@@ -803,7 +803,7 @@ Während eines Sprachanrufs können Sie das Internet nicht nutzen und manche App
   <string name="zen_mode_settings_summary_off">Keine</string>
   <string name="zen_mode_settings_title">Bitte nicht stören</string>
   <string name="zen_mode_summary">Eingehende Anrufe, Benachrichtigungen, Medien und Vibrationen ausschalten.</string>
-  <string name="zen_mode_summary2">Anrufe und Benachrichtigungen lautlos, Vibrationen ausschalten</string>
+  <string name="zen_mode_summary2">Keine Erinnerungen für eingehende Anrufe und Benachrichtigungen</string>
   <string name="zen_mode_system">Töne bei Berührung</string>
   <string name="zen_mode_system_list_first">Töne bei Berührung</string>
   <string name="zen_mode_system_summary">Töne von meiner Tastatur und sonstigen Tasten</string>

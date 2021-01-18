@@ -507,7 +507,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
   <string name="alarm_stop_info">Lautlosmodus wird deaktiviert, wenn der Wecker ausgeschaltet wird</string>
   <string name="alarm_template">um %1$s</string>
   <string name="alarm_template_far">um %1$s</string>
-  <string name="alarm_volume_option_title">Weckerlautstärke</string>
+  <string name="alarm_volume_option_title">Wecker</string>
   <string name="alarm_volume_title">Wecker</string>
   <string name="alert_button_agree_and_continue">Erlauben</string>
   <string name="alert_button_deny">Ablehnen</string>
@@ -4595,7 +4595,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="media_transfer_this_device_name">Dieses Gerät</string>
   <string name="media_transfer_wired_device_name">Kabelgebundenes Audiogerät</string>
   <string name="media_transfer_wired_usb_device_name">Kabelgebundener Kopfhörer</string>
-  <string name="media_volume_option_title">Musik, Spiele, Medien</string>
+  <string name="media_volume_option_title">Medien</string>
   <string name="media_volume_summary">Lautstärke für Musik und Videos festlegen</string>
   <string name="media_volume_title">Medien</string>
   <string name="medium_font">Mittel</string>
@@ -6226,7 +6226,7 @@ UT Interface: %5$s"</string>
   <string name="remove_managed_profile_label">Arbeitsprofil entfernen</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_call">Benachrichtigen über wiederholte Anrufe</string>
-  <string name="repeat_call_info">Benachrichtigung erlauben, wenn im Nicht stören-Modus dieselbe Person innerhalb von 15 Minuten mehrmals anruft</string>
+  <string name="repeat_call_info">Klingeln oder Vibrieren bei Empfang des zweiten Anrufs von der gleichen Rufnummer innerhalb von %d Minuten</string>
   <string name="repeat_days_in_week">Wiederholen</string>
   <string name="repeat_never">Nie</string>
   <string name="repeat_title">Wiederholen</string>
@@ -6333,9 +6333,9 @@ UT Interface: %5$s"</string>
   <string name="right_function_key">Verknüpfung rechts</string>
   <string name="ring_to_you">Benutzerdefinierter Klingelton</string>
   <string name="ring_to_you_info">Benutzerdefinierten Ton einstellen, den andere Leute hören, bevor Sie annehmen</string>
-  <string name="ring_volume_option_title">Anrufe, Erinnerungen, Benachrichtigungen</string>
+  <string name="ring_volume_option_title">Klingelton</string>
   <string name="ring_volume_title">Klingeltonlautstärke</string>
-  <string name="ringer_mode_setting_summary">Eingehende Anrufe und Benachrichtigungen stummschalten</string>
+  <string name="ringer_mode_setting_summary">Anrufe und Benachrichtigungen stummschalten</string>
   <string name="ringer_mode_setting_title">Lautlosmodus</string>
   <string name="ringtone_mute">Keiner</string>
   <string name="ringtone_slot_setting_title">Einzel-SIM-Einstellungen</string>
@@ -8753,7 +8753,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="video_tool_box_title">Video-Toolbox</string>
   <string name="view_password_description">Passwort anzeigen</string>
   <string name="view_saved_network">Zur Ansicht das gespeicherte Netzwerk wählen</string>
-  <string name="vip_list">Eingehende Anrufe erlauben</string>
+  <string name="vip_list">Über Anrufe benachrichtigen</string>
   <string name="virtual_keyboard_category">Virtuelle Tastatur</string>
   <string name="virtual_keyboards_for_work_title">Virtuelle Tastatur für die Arbeit</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
@@ -9969,7 +9969,7 @@ Beachten Sie, dass kritische Benachrichtigungen über Telefonaktivität und -sta
   <string name="zen_mode_starred_contacts_title">Markierte Kontakte</string>
   <string name="zen_mode_start_time">Startzeit</string>
   <string name="zen_mode_summary">Eingehende Anrufe, Benachrichtigungen und Medien stummschalten und Vibration ausschalten</string>
-  <string name="zen_mode_summary2">Anrufe und Benachrichtigungen stummschalten, Vibration ausschalten</string>
+  <string name="zen_mode_summary2">Keine Erinnerungen für eingehende Anrufe und Benachrichtigungen</string>
   <string name="zen_mode_summary_alarms_only_by_time">Nur Wecker bis %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Nur Wecker auf unbestimmte Zeit</string>
   <string name="zen_mode_summary_always">Wechseln zu immer stören</string>

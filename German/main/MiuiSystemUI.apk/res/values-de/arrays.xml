@@ -153,6 +153,10 @@
     <item>Nur auf DRM-Inhalte prüfen</item>
     <item>Immer prüfen</item>
   </string-array>
+  <string-array name="miui_notification_aggregate_category">
+    <item>Dies ist empfohlener Inhalt.</item>
+    <item>Dies ist Werbung.</item>
+  </string-array>
   <string-array name="miui_volume_timer_segments_title">
     <item>Aus</item>
     <item>30 Minuten</item>
@@ -171,6 +175,19 @@
     <item>Kompakt</item>
     <item>Linksbündig</item>
     <item>Rechtsbündig</item>
+  </string-array>
+  <string-array name="qs_control_independent_tiles">
+    <item>Funk</item>
+    <item>BT</item>
+    <item>WLAN</item>
+    <item>Auto-Helligkeit</item>
+  </string-array>
+  <string-array name="qs_control_independent_tiles_global">
+    <item>Funk</item>
+    <item>BT</item>
+    <item>WLAN</item>
+    <item>Blitz</item>
+    <item>Auto-Helligkeit</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Aus</item>
