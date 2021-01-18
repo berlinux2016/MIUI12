@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="live_music_author_unknown">Unbekannter Künstler</string>
+  <string name="live_music_cut_prompt">Soundtrack auswählen</string>
+  <string name="pref_camera_predictive_shutter_description">Reduziert Bewegungsunschärfe beim Aufnehmen von Motiven wie Kindern und Haustieren</string>
+  <string name="pref_camera_predictive_shutter_title">Bewegungsaufnahme</string>
+
   <string name="cam_string_remote_camera_setup_wizard_button_accept">Zustimmen</string>
   <string name="cam_string_remote_camera_setup_wizard_button_back">Zurück</string>
   <string name="cam_string_remote_camera_setup_wizard_button_cancel">Abbrechen</string>
