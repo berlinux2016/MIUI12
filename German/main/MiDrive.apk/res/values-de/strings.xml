@@ -251,7 +251,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="folder_name_empty">Ordner müssen einen Namen haben</string>
   <string name="folder_name_illegal">Ungültiger Ordnername</string>
   <string name="folder_name_invalid">Ordner dürfen folgende Zeichen nicht enthalten: /\\:*?&lt;&gt;</string>
-  <string name="for_diagnosis_usage_only">Protokolle werden nur für die Diagnose verwendet</string>
+  <string name="for_diagnosis_usage_only">Verwenden Sie diese Information nur zur Diagnose.</string>
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_ph_ticket">Code erhalten</string>
   <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi-Konten mit einer Telefonnummer verknüpfen. Sie können keine neuen Konten hinzufügen.</string>

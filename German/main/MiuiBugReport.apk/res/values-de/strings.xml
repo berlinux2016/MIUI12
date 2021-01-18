@@ -295,7 +295,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="fmt_weekday_date_timezone">W, D z</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
-  <string name="for_diagnosis_usage_only">Protokolle werden nur zur Diagnose verwendet.</string>
+  <string name="for_diagnosis_usage_only">Verwenden Sie diese Information nur zur Diagnose.</string>
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>

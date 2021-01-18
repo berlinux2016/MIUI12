@@ -522,7 +522,7 @@ Wenn es für Sie nach 30 Minuten im Bett immer noch schwierig ist, einzuschlafen
   <string name="fmt_weekday_date_timezone">W, D z</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
-  <string name="for_diagnosis_usage_only">Diese Informationen werden nur für die Diagnose verwendet.</string>
+  <string name="for_diagnosis_usage_only">Verwenden Sie diese Information nur zur Diagnose.</string>
   <string name="free_training">Freistil-Workout</string>
   <string name="freestyle">Freistil</string>
   <string name="friday">Freitag</string>

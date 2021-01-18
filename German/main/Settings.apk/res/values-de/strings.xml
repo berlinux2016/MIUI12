@@ -5022,6 +5022,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_unsupport_effect_summary">USB-Kopfhörer werden nicht unterstützt</string>
   <string name="musicfx_title">Musikeffekte</string>
   <string name="mute">Lautlosmodus</string>
+  <string name="mute_media_sound_summary">Spiele, Musik, Videos und andere Apps</string>
   <string name="mute_media_sound_title">Medien im Lautlosmodus stummschalten</string>
   <string name="mute_music_stream">Musik-Stream stumm schalten</string>
   <string name="mute_voiceassist_stream">Sprachassistent stummschalten</string>
@@ -9083,6 +9084,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_assistant_vpn_message">Zum Schutz Ihrer Daten stellt Google WLAN-Assistent eine sichere VPN-Verbindung über Google-Server bereit</string>
   <string name="wifi_auto_connect">Automatisch verbinden</string>
   <string name="wifi_auto_connect_summary">Telefon in der Nähe dieses Netzes automatisch verbinden lassen</string>
+  <string name="wifi_auto_connect_title">Auto‑Verbinden</string>
   <string name="wifi_auto_connect_type_summary">Netzwerkverbindungstyp angeben</string>
   <string name="wifi_auto_connect_type_title">Automatischer Verbindungstyp</string>
   <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>

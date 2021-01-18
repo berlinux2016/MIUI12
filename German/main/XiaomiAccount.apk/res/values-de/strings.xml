@@ -221,7 +221,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="find_device_title">Gerät finden</string>
   <string name="find_device_unknown_error">Status kann nicht geprüft werden, versuchen Sie es später noch mal</string>
   <string name="first_login_time">Erster Anmeldeversuch: %s</string>
-  <string name="for_diagnosis_usage_only">Protokolle werden nur zur Diagnose verwendet.</string>
+  <string name="for_diagnosis_usage_only">Verwenden Sie diese Information nur zur Diagnose.</string>
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_identity_auth_url_failed">ID verifizieren fehlgeschlagen</string>
