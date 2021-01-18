@@ -569,7 +569,7 @@ Sie können Ihre Berechtigung unter Bildschirmzeit &gt; Einstellungen &gt; Bilds
   <string name="usage_new_home_dashboard">Dashboard</string>
   <string name="usage_new_home_date_day_title">%s | Anwendungsdauer</string>
   <string name="usage_new_home_day_category_title">App-Kategorien</string>
-  <string name="usage_new_home_day_category_title_new">Am %s verwendete\nApp-Kategorien</string>
+  <string name="usage_new_home_day_category_title_new">%s verwendete\nApp-Kategorien</string>
   <string name="usage_new_home_day_title">Tag</string>
   <string name="usage_new_home_day_usage_title">Einzelne Apps</string>
   <string name="usage_new_home_day_usage_title_new">%s Apps verwendet</string>
