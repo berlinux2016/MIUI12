@@ -3,11 +3,11 @@
   <string name="course_consume_title">Verbrauchen</string>
   <string name="course_description">%1$s·%2$s·%3$s</string>
   <string name="course_detail_consume">%1$d kcal</string>
-  <string name="course_download_error">Netzwerkunterbrechung tippen, um es erneut zu versuchen</string>
+  <string name="course_download_error">Netzwerkunterbrechung. Tippen, um es erneut zu versuchen</string>
   <string name="course_download_text">Heruntergeladen %1$d%%</string>
   <string name="course_group_title">Gruppenanzahl</string>
   <string name="course_group_unit">Gruppe</string>
-  <string name="course_history_train">Historisches Training %1$d mal</string>
+  <string name="course_history_train">Früheres Training: %1$d mal</string>
   <string name="course_level_title">Schwierigkeit</string>
   <string name="course_list_search_no_data">Sie haben den gewünschten Kurs nicht gefunden</string>
   <string name="course_play_error">Bei Wiedergabe auf ein Problem gestoßen, bitte später erneut versuchen</string>
@@ -28,6 +28,11 @@
   <string name="course_start_course_num">Training %1$d starten</string>
   <string name="course_time_title">Zeit</string>
   <string name="course_train_count">%1$d-mal</string>
+  <string name="dialog_new_version_title">Aktualisierung verfügbar</string>
+  <string name="discard_update">Nein danke</string>
+  <string name="find_new_verision">Version %s ist jetzt verfügbar</string>
+  <string name="immediately_experience">Aktualisierung</string>
+  <string name="location_perm_description">Zur Verfolgung von Outdoor-Training und Aufzeichnung von Routen</string>
   <string name="personal_recommend">Persönliche Empfehlung</string>
   <string name="recent_train">Letztes Training</string>
   <string name="recent_train_course_count">%1$d Kurse insgesamt</string>
@@ -38,11 +43,6 @@
   <string name="search_key_null_description">Suchname darf nicht leer sein</string>
   <string name="search_train_course_hint">Trainingskurse finden</string>
   <string name="tb_clear_history">Suchverlauf löschen</string>
-  <string name="dialog_new_version_title">Aktualisierung verfügbar</string>
-  <string name="discard_update">Nein danke</string>
-  <string name="find_new_verision">Version %s ist jetzt verfügbar</string>
-  <string name="immediately_experience">Aktualisierung</string>
-  <string name="location_perm_description">Zur Verfolgung von Outdoor-Training und Aufzeichnung von Routen</string>
 
   <string name="MediaControlView_ad_remaining_time">Werbung · %1$s verbleiben</string>
   <string name="MediaControlView_ad_skip_wait_time">Sie können die Werbung in %1$d Sek überspringen</string>

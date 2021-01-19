@@ -89,7 +89,7 @@
     <item>Niedrig</item>
     <item>Normal</item>
     <item>Hoch</item>
-    <item>Höhste</item>
+    <item>Höchste</item>
   </string-array>
   <string-array name="lock_mode">
     <item>wenn das Gerät gesperrt wird</item>
