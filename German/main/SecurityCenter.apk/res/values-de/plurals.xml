@@ -247,6 +247,16 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="other">Kostenlose %d-Tage-Testversion erhalten</item>
     <item quantity="one">Kostenlose %d-Tag-Testversion erhalten</item>
   </plurals>
+  <plurals name="gtb_spring_festival_colored_egg">
+    <item quantity="other">Herzlichen Glückwunsch! Sie haben %s Ostereier freigeschaltet.</item>
+    <item quantity="one">Herzlichen Glückwunsch! Sie haben %s Osterei freigeschaltet.</item>
+  </plurals>
+  <plurals name="videobox_settings_timing_bubble">
+    <item quantity="other">"Sie sehen sich bereits seit %d Stunden Videos an.
+Machen Sie eine Pause!"</item>
+    <item quantity="one">"Sie sehen sich bereits seit %d Stunde Videos an.
+Machen Sie eine Pause!!"</item>
+  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Vor einer halben Stunde</item>
   </plurals>

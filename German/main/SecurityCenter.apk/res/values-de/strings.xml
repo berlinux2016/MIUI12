@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="gb_adv_touch_adv_title">Klassischer Modus (Standard)</string>
+  <string name="gb_adv_touch_custom1">Wischantwort</string>
+  <string name="gb_adv_touch_custom2">Empfindlichkeit gegenüber kontinuierlichen Antippen</string>
+  <string name="gb_adv_touch_custom3">Zielgenauigkeit</string>
+  <string name="gb_adv_touch_custom4">Tippstabilität</string>
+  <string name="gb_adv_touch_custom_tip1">Eine höhere Wischreaktion erhöht die Geschwindigkeit der Reaktion auf diese Geste, während eine niedrigere Wischreaktion die Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip2">Eine höhere Empfindlichkeit für kontinuierliches Antippen erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine geringere Empfindlichkeit die Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip3">Eine höhere Zielgenauigkeit macht kleinere Wischbewegungen präziser, während eine niedrigere Zielgenauigkeit diese Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip4">Eine höhere Tippstabilität macht das Tippen stabiler, während eine niedrigere Tippstabilität die Genauigkeit kleinerew Wischens erhöht.</string>
+  <string name="gb_adv_touch_custom_title">Anpassen</string>
+  <string name="gb_adv_touch_mode_pro_tips">*Dieser Modus ist für professionelle Spieler gedacht. Regelmäßige Spieler könnten diesen Modus unbequem finden.</string>
+  <string name="gb_adv_touch_mode_select_title">Gesten</string>
+  <string name="gb_adv_touch_pro_title">Pro-Modus</string>
+  <string name="gtb_spring_festival_back_game">Zurück zum Spiel</string>
+  <string name="gtb_spring_festival_goto_gameturbo">Ansicht</string>
+  <string name="summary_password_manager">Mit dem Passwortmanager können Sie Ihre Passwörter verschlüsseln und in der Cloud speichern</string>
+  <string name="title_password_manager">Passwortmanager einschalten</string>
+  <string name="vb_video_super_division">Skalieren</string>
+  <string name="vb_video_super_division_desc">"Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.
+
+Die Verwendung dieser Funktion erhöht den Stromverbrauch.
+
+Diese Funktion funktioniert nicht mit der Bewegungsglättung.
+Wenn Sie eine der Funktionen einschalten, schalten Sie die andere aus."</string>
+  <string name="vb_video_super_division_tips">"Nicht klar genug?
+Versuchen Sie, die Auflösung hochzuskalieren!"</string>
+  <string name="videobox_settings_timing">Alarmton</string>
+  <string name="videobox_settings_timing_desc">Stündlich einen Alarmton erhalten, der Sie an eine Pause erinnert</string>
+
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ein- und Ausschalten von Bluetooth</string>
