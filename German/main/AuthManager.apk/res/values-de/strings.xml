@@ -159,6 +159,7 @@
   <string name="clipboard_read_deny_dialog_title">"• %1$s
 Zwischenablage lesen verweigert"</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
   <string name="default_permission_description">unbekannte Aktionen ausführen</string>
   <string name="early_morning">Morgen</string>
   <string name="eras_ad">n. Chr.</string>
