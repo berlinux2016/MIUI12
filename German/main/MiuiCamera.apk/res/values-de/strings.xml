@@ -1398,7 +1398,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_heic_image_format_title">HEIF-Format</string>
   <string name="pref_camera_hfr_entry_off">aus</string>
   <string name="pref_camera_hfr_title">Hohe Bildrate (Zeitlupe)</string>
-  <string name="pref_camera_high_quality_preferred_description">Verbessern Sie den Abbildungseffekt durch Algorithmen und die Fotoaufnahmezeit wird länger. Wenn eine dunkle Umgebung erkannt wird, wird eine Nachtszenenaufnahme ausgelöst.</string>
+  <string name="pref_camera_high_quality_preferred_description">Verbessern Sie die Bildqualität mithilfe des intelligenten Algorithmus. Die Bildaufnahmegeschwindigkeit kann sich verringern, wenn diese Funktion an ist. Der Nachtmodus wird automatisch eingeschaltet, wenn schlechte Lichtverhältnisse erkannt werden.</string>
   <string name="pref_camera_high_quality_preferred_title">Bildqualität verbessern</string>
   <string name="pref_camera_histogram_entry_disable">Ausschalten</string>
   <string name="pref_camera_histogram_entry_enable">Einschalten</string>
@@ -1643,8 +1643,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_skin_beautify_eye_title">Augen</string>
   <string name="pref_skin_beautify_slim_title">Schmal</string>
   <string name="pref_skin_beautify_smooth_title">Weich</string>
-  <string name="pref_super_night_se_summary">Die Erkennung einer dunklen Umgebung löst automatisch Nachtaufnahmen aus und verbessert den Abbildungseffekt durch Algorithmen</string>
-  <string name="pref_super_night_se_title">Automatische Nachtsicht</string>
+  <string name="pref_super_night_se_summary">Erkennen von schlechten Lichtverhältnissen und automatische Verbesserung der Bildqualität</string>
+  <string name="pref_super_night_se_title">Automatischer Nachtmodus</string>
   <string name="pref_userdefine_watermark_title">Benutzerdefiniertes Wasserzeichen</string>
   <string name="pref_video_captrue_ability_title">Fotos während der Aufnahme machen (mehr Akkuverbrauch!)</string>
   <string name="pref_video_denoise_off">Aus</string>
