@@ -6,7 +6,6 @@
   <string name="bh_business_style_old">Neu</string>
   <string name="bh_system_recommend">Systemempfehlungen</string>
   <string name="bh_system_recommend_des">Erlauben Sie uns, Ihren Datenverkehr zu analysieren und basierend auf den Ergebnissen digitale Produkte zu empfehlen</string>
-  <string name="cancel">Abbrechen</string>
   <string name="contacts_trash_activity_hint">Kontakte zum Wiederherstellen auswählen</string>
   <string name="contacts_trash_activity_title">Kürzlich gelöschte Kontakte</string>
   <string name="contacts_trash_delete">Löschen</string>
