@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="miheadet_up_music">Vorherige Titel</string>
-  <string name="miheadset_active">Energetisch</string>
-  <string name="miheadset_bright">Hell</string>
-  <string name="miheadset_call_assist">Mi AI</string>
-  <string name="miheadset_define_self">Benutzerdefiniert</string>
-  <string name="miheadset_enhence_high">Erweiterte Höhen</string>
-  <string name="miheadset_enhence_low">Erweiterte Bass</string>
-  <string name="miheadset_formal">Standard</string>
-  <string name="miheadset_local_ota">Aktualisieren</string>
-  <string name="miheadset_next">Nächster Titel</string>
+
   <string name="miheadset_play_pause">Abspielen/Pause</string>
   <string name="miheadset_soft">Soft</string>
 
-  <string name="miheadset_fitness_check">Fitness erkennen</string>
   <string name="miheadset_fitness_check_checking">Erkennung</string>
   <string name="miheadset_fitness_check_continue">weiter</string>
   <string name="miheadset_fitness_check_done">Fertig</string>
@@ -21,11 +11,8 @@
   <string name="miheadset_fitness_check_result_dialog1">Bitte die Ohrhörer in beide Ohren setzen und dann den Sitz überprüfen.</string>
   <string name="miheadset_fitness_check_result_dialog2">Bitte zuerst das Gespräch beenden und dann die Passformprüfung durchführen.</string>
   <string name="miheadset_fitness_check_result_dialog_title">Tipps</string>
-  <string name="miheadset_fitness_check_result_not_ok">Passt schlecht</string>
-  <string name="miheadset_fitness_check_result_ok">Passt gut</string>
   <string name="miheadset_fitness_check_result_summary1">Die Ohrstöpsel, die Sie derzeit tragen, passen gut</string>
   <string name="miheadset_fitness_check_result_summary2">Bitte die Position der Ohrstöpsel neu einstellen oder die Ohrstöpsel vor dem Test gegen andere Größen austauschen</string>
-  <string name="miheadset_fitness_check_start">Starterkennung</string>
   <string name="miheadset_fitness_check_summary1">Erkennen, welche Größe von Ohrstöpseln ein angenehmes Tragegefühl und die beste Akustik bietet</string>
   <string name="miheadset_fitness_check_summary2">Bitte die Ohrhörer in beide Ohren einsetzen und auf Starterkennung tippen</string>
   <string name="miheadset_fitness_check_summary3">Kopfhörer nicht abnehmen</string>
