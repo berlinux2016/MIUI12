@@ -5,10 +5,10 @@
   <string name="gb_adv_touch_custom2">Empfindlichkeit gegenüber kontinuierlichen Antippen</string>
   <string name="gb_adv_touch_custom3">Zielgenauigkeit</string>
   <string name="gb_adv_touch_custom4">Tippstabilität</string>
-  <string name="gb_adv_touch_custom_tip1">Eine höhere Wischreaktion erhöht die Geschwindigkeit der Reaktion auf diese Geste, während eine niedrigere Wischreaktion die Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip1">Eine höhere Wischreaktion erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine niedrigere Wischreaktion die Geste stabiler macht.</string>
   <string name="gb_adv_touch_custom_tip2">Eine höhere Empfindlichkeit für kontinuierliches Antippen erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine geringere Empfindlichkeit die Geste stabiler macht.</string>
   <string name="gb_adv_touch_custom_tip3">Eine höhere Zielgenauigkeit macht kleinere Wischbewegungen präziser, während eine niedrigere Zielgenauigkeit diese Geste stabiler macht.</string>
-  <string name="gb_adv_touch_custom_tip4">Eine höhere Tippstabilität macht das Tippen stabiler, während eine niedrigere Tippstabilität die Genauigkeit kleinerew Wischens erhöht.</string>
+  <string name="gb_adv_touch_custom_tip4">Eine höhere Tippstabilität macht das Tippen stabiler, während eine niedrigere Tippstabilität die Genauigkeit kleineren Wischens erhöht.</string>
   <string name="gb_adv_touch_custom_title">Anpassen</string>
   <string name="gb_adv_touch_mode_pro_tips">*Dieser Modus ist für professionelle Spieler gedacht. Regelmäßige Spieler könnten diesen Modus unbequem finden.</string>
   <string name="gb_adv_touch_mode_select_title">Gesten</string>
@@ -2925,7 +2925,7 @@ Stromverbrauch"</string>
   <string name="pp_icon_layout_status_bg_content_enable">Geschützt</string>
   <string name="pp_icon_layout_status_bg_content_unable">Aus</string>
   <string name="pp_interception_net_visit_content_manager">Schützen von Galerie- und Social Media-App-Dateien</string>
-  <string name="pp_interception_net_visit_content_manager_detail">Auswählen, welche Apps auf die Galerie und die Dateien aus Ihren Social-Media-Apps zugreifen dürfen</string>
+  <string name="pp_interception_net_visit_content_manager_detail">Auswählen, welche Apps auf die Galerie und die Dateien aus Ihren Social Media-Apps zugreifen dürfen</string>
   <string name="pp_local_msg">Standortinfo</string>
   <string name="pp_manage_apps_location_information">Apps den Zugriff auf Ihren Standort erlauben</string>
   <string name="pp_one_app_two_use">Zwei Konten verwenden, ohne sich abzumelden</string>
