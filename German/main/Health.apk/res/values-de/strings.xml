@@ -1126,7 +1126,7 @@ mit einem Finger"</string>
   <string name="share_card_title_elliptical_trainer">Crosstrainer</string>
   <string name="share_card_title_free_training">Freestyle-Training</string>
   <string name="share_card_title_indoor_rinding">Heimtrainer %s</string>
-  <string name="share_card_title_indoor_running">Drinnen Laufen %s</string>
+  <string name="share_card_title_indoor_running">Indoor-Laufen %s</string>
   <string name="share_card_title_open_swimming">Freiwasserschwimmen %s</string>
   <string name="share_card_title_outdoor_hiking">Wandern %s</string>
   <string name="share_card_title_outdoor_riding">Radfahren %s</string>
@@ -1788,6 +1788,8 @@ Delta-Update-Größe: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte SD-Karte prüfen</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
   <string name="year">Jahr</string>
   <string name="yesterday">Gestern</string>
   <string name="yoga">Yoga</string>
