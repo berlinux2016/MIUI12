@@ -2,7 +2,7 @@
 <resources>
 
   <string name="miheadset_play_pause">Abspielen/Pause</string>
-  <string name="miheadset_soft">Soft</string>
+  <string name="miheadset_soft">Weich</string>
 
   <string name="miheadset_fitness_check_checking">Erkennung</string>
   <string name="miheadset_fitness_check_continue">weiter</string>
