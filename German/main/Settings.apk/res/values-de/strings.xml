@@ -1,35 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="miheadet_up_music">Previous track</string>
-  <string name="miheadset_active">Energetic</string>
-  <string name="miheadset_bright">Bright</string>
+  <string name="miheadet_up_music">Vorherige Titel</string>
+  <string name="miheadset_active">Energetisch</string>
+  <string name="miheadset_bright">Hell</string>
   <string name="miheadset_call_assist">Mi AI</string>
-  <string name="miheadset_define_self">Custom</string>
-  <string name="miheadset_enhence_high">Enhanced treble</string>
-  <string name="miheadset_enhence_low">Enhanced bass</string>
+  <string name="miheadset_define_self">Benutzerdefiniert</string>
+  <string name="miheadset_enhence_high">Erweiterte Höhen</string>
+  <string name="miheadset_enhence_low">Erweiterte Bass</string>
   <string name="miheadset_formal">Standard</string>
-  <string name="miheadset_local_ota">Update</string>
-  <string name="miheadset_next">Next track</string>
-  <string name="miheadset_play_pause">Play/Pause</string>
+  <string name="miheadset_local_ota">Aktualisieren</string>
+  <string name="miheadset_next">Nächster Titel</string>
+  <string name="miheadset_play_pause">Abspielen/Pause</string>
   <string name="miheadset_soft">Soft</string>
 
-…well, for certain strings still chinese english:
-    <string name="miheadset_fitness_check">fitness detect</string>
-    <string name="miheadset_fitness_check_checking">detecting</string>
-    <string name="miheadset_fitness_check_continue">continue</string>
-    <string name="miheadset_fitness_check_done">Done</string>
-    <string name="miheadset_fitness_check_restart">Re-detect</string>
-    <string name="miheadset_fitness_check_result_dialog1">Please put the earphones in both ears, and then check the fit.</string>
-    <string name="miheadset_fitness_check_result_dialog2">Please end the call first, and then perform the fit test.</string>
-    <string name="miheadset_fitness_check_result_dialog_title">tips</string>
-    <string name="miheadset_fitness_check_result_not_ok">Poor fit</string>
-    <string name="miheadset_fitness_check_result_ok">fit well</string>
-    <string name="miheadset_fitness_check_result_summary1">The earplugs you are currently wearing fit well</string>
-    <string name="miheadset_fitness_check_result_summary2">Please re-adjust the position of the earplugs or replace the earplugs with other sizes before testing</string>
-    <string name="miheadset_fitness_check_start">start detect</string>
-    <string name="miheadset_fitness_check_summary1">Detect which size earplugs provide a comfortable wearing experience and the best acoustics</string>
-    <string name="miheadset_fitness_check_summary2">Please put the earphones in both ears and click start detect</string>
-    <string name="miheadset_fitness_check_summary3">Do not take off the headset</string>
+  <string name="miheadset_fitness_check">Fitness erkennen</string>
+  <string name="miheadset_fitness_check_checking">Erkennung</string>
+  <string name="miheadset_fitness_check_continue">weiter</string>
+  <string name="miheadset_fitness_check_done">Fertig</string>
+  <string name="miheadset_fitness_check_restart">Erneute erkennen</string>
+  <string name="miheadset_fitness_check_result_dialog1">Bitte die Ohrhörer in beide Ohren setzen und dann den Sitz überprüfen.</string>
+  <string name="miheadset_fitness_check_result_dialog2">Bitte zuerst das Gespräch beenden und dann die Passformprüfung durchführen.</string>
+  <string name="miheadset_fitness_check_result_dialog_title">Tipps</string>
+  <string name="miheadset_fitness_check_result_not_ok">Passt schlecht</string>
+  <string name="miheadset_fitness_check_result_ok">Passt gut</string>
+  <string name="miheadset_fitness_check_result_summary1">Die Ohrstöpsel, die Sie derzeit tragen, passen gut</string>
+  <string name="miheadset_fitness_check_result_summary2">Bitte die Position der Ohrstöpsel neu einstellen oder die Ohrstöpsel vor dem Test gegen andere Größen austauschen</string>
+  <string name="miheadset_fitness_check_start">Starterkennung</string>
+  <string name="miheadset_fitness_check_summary1">Erkennen, welche Größe von Ohrstöpseln ein angenehmes Tragegefühl und die beste Akustik bietet</string>
+  <string name="miheadset_fitness_check_summary2">Bitte die Ohrhörer in beide Ohren einsetzen und auf Starterkennung tippen</string>
+  <string name="miheadset_fitness_check_summary3">Kopfhörer nicht abnehmen</string>
 
   <string name="button_height_text">Allgemeine Bestätigungstaste (z. B. \"OK\", \"Fertig\")</string>
   <string name="button_normal_text">Normale Taste</string>
