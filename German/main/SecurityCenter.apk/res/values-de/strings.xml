@@ -223,8 +223,8 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="app_behavior_about_positive">Verstanden</string>
   <string name="app_behavior_access_gallery">%1s-Zugriff auf Galerie</string>
   <string name="app_behavior_access_gallery_single">Diese App greift auf die Galerie zu</string>
-  <string name="app_behavior_access_sociality">%1s-Zugriff auf Nachrichten in Social Media-Apps</string>
-  <string name="app_behavior_access_sociality_single">Diese App griff auf Nachrichten in Social Media-Apps zu</string>
+  <string name="app_behavior_access_sociality">%1s-Zugriff auf Social Media-Apps</string>
+  <string name="app_behavior_access_sociality_single">Diese App griff auf Social Media-Apps zu</string>
   <string name="app_behavior_allowed">Erlauben</string>
   <string name="app_behavior_audio">%1s-Audioaufnahmen</string>
   <string name="app_behavior_audio_bg">%1s-Audioaufnahmen im Hintergrund</string>
@@ -2106,7 +2106,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="menu_summary_power_manager_4">%sbis voll geladen</string>
   <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Virenscanner</string>
-  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s belegt</string>
+  <string name="menu_text_deepclean_summary">%1$s/%2$s belegt</string>
   <string name="menu_text_garbage_cleanup">Müllbeseitigung</string>
   <string name="menu_text_garbage_cleanup_danger">%s Müll</string>
   <string name="menu_text_license_manager">Rechte</string>
@@ -2924,8 +2924,8 @@ Stromverbrauch"</string>
   <string name="pp_hide_app_form_desktop">App-Symbole vom Startbildschirm entfernen</string>
   <string name="pp_icon_layout_status_bg_content_enable">Geschützt</string>
   <string name="pp_icon_layout_status_bg_content_unable">Aus</string>
-  <string name="pp_interception_net_visit_content_manager">Schützen von Galerie- und Social Media-Apps</string>
-  <string name="pp_interception_net_visit_content_manager_detail">Auswählen, welche Apps auf Ihre Fotos, Videos und den Chat-Verlauf zugreifen dürfen</string>
+  <string name="pp_interception_net_visit_content_manager">Schützen von Galerie- und Social Media-App-Dateien</string>
+  <string name="pp_interception_net_visit_content_manager_detail">Auswählen, welche Apps auf die Galerie und die Dateien aus Ihren Social-Media-Apps zugreifen dürfen</string>
   <string name="pp_local_msg">Standortinfo</string>
   <string name="pp_manage_apps_location_information">Apps den Zugriff auf Ihren Standort erlauben</string>
   <string name="pp_one_app_two_use">Zwei Konten verwenden, ohne sich abzumelden</string>
@@ -2948,7 +2948,7 @@ Stromverbrauch"</string>
   <string name="pp_prohibit_use_camera_in_background_detail">Apps können die Kamera im Hintergrund standardmäßig nicht verwenden</string>
   <string name="pp_record_msg">Audioaufzeichnung</string>
   <string name="pp_safe_box">Privates Profil</string>
-  <string name="pp_safe_box_detail">Um Ihre Privatsphäre zu schützen, können Sie mit MIUI steuern, wie Apps auf Ihre Fotos und den Chat-Verlauf in Social Media zugreifen.</string>
+  <string name="pp_safe_box_detail">Private Elemente werden verschlüsselt und nur auf diesem Gerät gespeichert. Andere Nutzer können nicht auf sie zugreifen, während sie dieses Gerät verwenden und das Gerät selbst kann nicht auf verschlüsselte Elemente zugreifen und sie in irgendeiner Weise verwenden.</string>
   <string name="pp_safe_box_summary">Schutz der Privatsphäre</string>
   <string name="pp_safe_input_pwd">Ihre Passwörter</string>
   <string name="pp_safe_keyboard">Sichere Tastatur</string>
