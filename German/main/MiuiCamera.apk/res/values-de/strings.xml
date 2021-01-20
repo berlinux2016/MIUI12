@@ -2,8 +2,6 @@
 <resources>
   <string name="live_music_author_unknown">Unbekannter Künstler</string>
   <string name="live_music_cut_prompt">Soundtrack auswählen</string>
-  <string name="pref_camera_predictive_shutter_description">Reduziert Bewegungsunschärfe beim Aufnehmen von Motiven wie Kindern und Haustieren</string>
-  <string name="pref_camera_predictive_shutter_title">Bewegungsaufnahme</string>
 
   <string name="cam_string_remote_camera_setup_wizard_button_accept">Zustimmen</string>
   <string name="cam_string_remote_camera_setup_wizard_button_back">Zurück</string>
@@ -1346,7 +1344,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_device_watermark_title">Wasserzeichen</string>
   <string name="pref_camera_dual_enable_title">Dualkamera einschalten</string>
   <string name="pref_camera_dual_sat_enable_title">Dual-SAT-Kamera einschalten</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Bildfrequenz bei schlechten Lichtverhältnissen von %1$d auf %2$d FPS verringern, um die Videoqualität zu verbessern</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Bildrate wird bei schlechten Lichtverhältnissen automatisch gesenkt, um die Videoqualität zu verbessern</string>
   <string name="pref_camera_dynamic_frame_rate_title">Bildfrequenz an schwaches Licht anpassen</string>
   <string name="pref_camera_eis_entry_normal">Videostabilisierung</string>
   <string name="pref_camera_eis_entry_off">AUS</string>
@@ -1455,6 +1453,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_portrait_mode_entry_on">Porträtmodus an</string>
   <string name="pref_camera_portrait_mode_title">Porträt</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Verschönern im Porträtmodus</string>
+  <string name="pref_camera_predictive_shutter_description">Bewegung verfolgen, um Unschärfe auf Fotos von Kindern, Haustieren und anderen aktiven Motiven zu minimieren</string>
+  <string name="pref_camera_predictive_shutter_title">Bewegung verfolgen</string>
   <string name="pref_camera_proximity_lock_summary">Berührungsgesten sperren, wenn es in die Tasche gesteckt wird</string>
   <string name="pref_camera_proximity_lock_title">Taschenmodus</string>
   <string name="pref_camera_quick_settings">Schnelleinstellungen</string>

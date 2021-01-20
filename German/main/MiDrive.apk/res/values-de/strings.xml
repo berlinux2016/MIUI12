@@ -258,6 +258,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="get_phone_verifycode_exceed_limit">An diese Nummer wurden zu viele Verifizierungscodes gesendet. 24 Stunden warten und erneut versuchen.</string>
   <string name="goto_sign_up">Konto erstellen</string>
   <string name="h5_ppt_to_pdf_introduce_title">Über die Konvertierung von PPT in PDF</string>
+  <string name="home_action_up">Zurück</string>
   <string name="i_know">Verstanden</string>
   <string name="identity">Identifikation</string>
   <string name="image_loading_error">Bild konnte nicht geladen werden</string>

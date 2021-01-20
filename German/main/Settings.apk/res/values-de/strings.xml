@@ -9579,8 +9579,8 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN herzustell
   <string name="wifi_type_approval_title">Genehmigungstyp</string>
   <string name="wifi_unchanged">(Nicht geändert)</string>
   <string name="wifi_unmetered_label">Nicht gemessen</string>
-  <string name="wifi_unsaved_network_linking">SSID Bridging - Auto Connection</string>
-  <string name="wifi_unsaved_network_linking_summary">Automatische Verbindungsversuche zu einer neuen WPA/WPA2-PSK 5GHz SSID mit aktuell verbundenen WPA/WPA2-PSK 2GHz SSID-Zugangsdaten auf SSID und BSSID mit teilweiser Übereinstimmung aktivieren</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging - Auto-Verbindung</string>
+  <string name="wifi_unsaved_network_linking_summary">Autom. Verbindungsversuche zu einer neuen WPA/WPA2-PSK 5GHz SSID mit aktuell verbundenen WPA/WPA2-PSK 2GHz SSID-Zugangsdaten auf SSID und BSSID mit teilweiser Übereinstimmung aktivieren</string>
   <string name="wifi_unspecified">Bitte wählen</string>
   <string name="wifi_update">Statistik aktualisieren</string>
   <string name="wifi_use_system_certs">Systemzertifikate verwenden</string>
