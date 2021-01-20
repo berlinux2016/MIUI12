@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
   <string name="miheadset_play_pause">Abspielen/Pause</string>
   <string name="miheadset_soft">Weich</string>
 
@@ -119,12 +118,14 @@
   <string name="accessibility_autoclick_short_summary">0.2 Sekunden</string>
   <string name="accessibility_autoclick_short_title">Kurz</string>
   <string name="accessibility_autoclick_shorter_desc">Kürzer</string>
+  <string name="accessibility_back">Zurück</string>
   <string name="accessibility_caption_master_switch_summary">Nur für unterstützte Apps</string>
   <string name="accessibility_caption_master_switch_title">Untertitel verwenden</string>
   <string name="accessibility_caption_preference_summary">Nicht alle Apps unterstützen diese Untertiteleinstellungen</string>
   <string name="accessibility_captioning_title">Untertitel</string>
   <string name="accessibility_category_personal">Persönliche Profilkonten</string>
   <string name="accessibility_category_work">Arbeitsprofilkonten - %s</string>
+  <string name="accessibility_clear">Löschen</string>
   <string name="accessibility_close_tab">Aktuellen Tab schließen</string>
   <string name="accessibility_control_timeout_preference_summary">"Wählen Sie, wie lange Nachrichten angezeigt werden sollen, die Sie auffordern, Maßnahmen zu ergreifen, aber nur vorübergehend sichtbar sind.
 

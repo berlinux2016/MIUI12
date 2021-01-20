@@ -1908,7 +1908,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mob
   <string name="list_empty_text">Leer</string>
   <string name="load_only_under_wlan">Nur über WLAN laden</string>
   <string name="loading">Einen Moment…</string>
-  <string name="loading_text_format" formatted="false">Private Informationen aus Fotos entfernen (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Infos enthalten (%d/%d)…</string>
   <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler an MIUI zu senden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät aus.</string>
   <string name="lock_all_title">Alle Apps sperren</string>
   <string name="lock_mode_title">Apps geschützt</string>
@@ -2709,6 +2709,8 @@ Stromverbrauch"</string>
   <string name="power_center_battery_charge_times">Heute geladen</string>
   <string name="power_center_battery_chargefull_time">Bis voll geladen</string>
   <string name="power_center_battery_duration">Verbleibende Zeit</string>
+  <string name="power_center_battery_health_poor_tip">Sieht aus, als ob der Akkuzustand schlecht ist. Lassen Sie Ihren Akku in einem autorisierten Service-Center prüfen.</string>
+  <string name="power_center_battery_health_summary">Laden und entladen Sie Ihr Gerät %1$d-%2$d-mal vollständig, um die Genauigkeit der Akkustatistik zu verbessern</string>
   <string name="power_center_battery_last">%s bleiben</string>
   <string name="power_center_battery_level">%s geladen</string>
   <string name="power_center_battery_status">Akkuverbrauch</string>
