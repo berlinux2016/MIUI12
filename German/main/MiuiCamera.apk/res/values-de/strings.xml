@@ -1924,6 +1924,7 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="video_bokeh_zoom_in">Vergrößern</string>
   <string name="video_bokeh_zoom_out">Verkleinern</string>
   <string name="video_camera_label">Videokamera</string>
+  <string name="video_cast_connecting">Verbindung wird hergestellt, bitte warten…</string>
   <string name="video_effect_entry_blackwhite">Schwarz-Weiß</string>
   <string name="video_effect_entry_bygone">Vergangen</string>
   <string name="video_effect_entry_central">Zentral</string>
