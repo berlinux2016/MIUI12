@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="can_not_apply_error">"This video format isn't supported"</string>
+  <string name="can_not_apply_size_invalid">This video is too big</string>
+  <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
+  <string name="font_compat_dialog_buy_confirm">Buy</string>
+  <string name="font_compat_dialog_buy_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Buy this font anyway?</string>
+  <string name="font_compat_dialog_cancel">Cancel</string>
+  <string name="font_compat_dialog_download_confirm">Download</string>
+  <string name="font_compat_dialog_download_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Download this font anyway?</string>
+  <string name="font_compat_dialog_title">Compatibility issues</string>
+  <string name="font_compat_dialog_trial_confirm">Try</string>
+  <string name="font_compat_dialog_trial_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Try this font anyway?</string>
+  <string name="hide_retract_button">Hide</string>
+  <string name="scrollable_wallpaper_close">Turned off scrolling</string>
+  <string name="scrollable_wallpaper_open">Turned on scrolling</string>
+  <string name="set_as_colorring">Set as custom ringing tone</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -277,14 +293,14 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
   <string name="exo_controls_fullscreen_enter_description">Vollbild festlegen</string>
   <string name="exo_controls_fullscreen_exit_description">Vollbild beenden</string>
   <string name="exo_controls_hide">Spielersteuerung ausblenden</string>
-  <string name="exo_controls_next_description">Nächster</string>
+  <string name="exo_controls_next_description">Nächster Titel</string>
   <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
   <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen anzeigen</string>
   <string name="exo_controls_pause_description">Pausieren</string>
   <string name="exo_controls_play_description">Abspielen</string>
   <string name="exo_controls_playback_speed">Geschw.</string>
   <string name="exo_controls_playback_speed_normal">Normal</string>
-  <string name="exo_controls_previous_description">Vorheriger</string>
+  <string name="exo_controls_previous_description">Vorheriger Titel</string>
   <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
   <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
   <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
