@@ -9,7 +9,7 @@
   <string name="app_health_setting_music_name_ocean">Strand</string>
   <string name="app_health_setting_music_name_rain">Nieselregen</string>
   <string name="app_health_setting_text_default_duration">Dauer</string>
-  <string name="app_health_setting_text_download_alert_message">Sieht so aus, als wären Sie nicht mit dem WLAN verbunden. Verwenden Sie %1$s an mobilen Daten, um Elemente herunterzuladen?</string>
+  <string name="app_health_setting_text_download_alert_message">Sieht aus, als sind Sie nicht mit WLAN verbunden. %1$s an mobilen Daten verwenden, um Elemente herunterzuladen?</string>
   <string name="app_health_setting_text_sleep_aid_settings">Schlafen</string>
   <string name="app_health_setting_text_title">Gesundheit</string>
   <string name="app_travel_card_none">Keine Daten</string>
