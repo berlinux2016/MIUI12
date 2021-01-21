@@ -9102,7 +9102,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_assistant_vpn_message">Zum Schutz Ihrer Daten stellt Google WLAN-Assistent eine sichere VPN-Verbindung über Google-Server bereit</string>
   <string name="wifi_auto_connect">Automatisch verbinden</string>
   <string name="wifi_auto_connect_summary">Telefon in der Nähe dieses Netzes automatisch verbinden lassen</string>
-  <string name="wifi_auto_connect_title">Auto‑Verbinden</string>
+  <string name="wifi_auto_connect_title">Auto-Verbinden</string>
   <string name="wifi_auto_connect_type_summary">Netzwerkverbindungstyp angeben</string>
   <string name="wifi_auto_connect_type_title">Automatischer Verbindungstyp</string>
   <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
