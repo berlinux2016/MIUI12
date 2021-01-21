@@ -2,7 +2,6 @@
 <resources>
   <string name="can_not_apply_error">"This video format isn't supported"</string>
   <string name="can_not_apply_size_invalid">This video is too big</string>
-  <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
   <string name="font_compat_dialog_buy_confirm">Buy</string>
   <string name="font_compat_dialog_buy_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Buy this font anyway?</string>
   <string name="font_compat_dialog_cancel">Cancel</string>
