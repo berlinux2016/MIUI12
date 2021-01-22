@@ -713,6 +713,7 @@ benachrichtigungen erlauben"</string>
   <string name="app_special_disable_dlg_title">Daten löschen und App deaktivieren?</string>
   <string name="app_switch_key">Zuletzt verwendet</string>
   <string name="app_usage_cycle">Datennutzungszyklus der App</string>
+  <string name="app_wifi">WLAN</string>
   <string name="app_usage_preference">App-Nutzungseinstellungen</string>
   <string name="application_forbid_auto_startup">%s das Starten im Hintergrund verweigern</string>
   <string name="application_info_label">App-Info</string>
@@ -1103,6 +1104,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
   <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
   <string name="battery_stats_screen_on_label">Bildschirm an</string>
   <string name="battery_stats_wake_lock_label">Aktiv</string>
+  <string name="battery_stats_wifi_running_label">WLAN</string>
   <string name="battery_status_title">Akkustatus</string>
   <string name="battery_sugg_apps_gps">GPS manuell steuern, damit die App es nicht verwenden kann</string>
   <string name="battery_sugg_apps_info">App anhalten oder entfernen</string>
@@ -2352,6 +2354,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="data_usage_sweep_warning">&lt;font size="18">^1&lt;/font> &lt;font size="9">^2&lt;/font>"
 "&lt;font size="12">Warnung&lt;/font></string>
   <string name="data_usage_tab_mobile">Mobil</string>
+  <string name="data_usage_tab_wifi">WLAN</string>
   <string name="data_usage_template">%1$s verwendet zwischen %2$s</string>
   <string name="data_usage_title">Primärdaten</string>
   <string name="data_usage_total_during_range">%2$s: über %1$s verwendet</string>
@@ -3275,6 +3278,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="firewall_set_bg_firewall_default_dialog_summary">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Apps nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Eventuell können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen. Trotzdem einschränken?</string>
   <string name="firewall_set_bg_firewall_default_dialog_title">Hintergrundverbindung für neue Apps einschränken</string>
   <string name="firewall_temp_rule_reason">%2$s eingeschränkte Internetverbindung für %1$s</string>
+  <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter aus ist.</string>
   <string name="firmware_version">Androidversion</string>
   <string name="fiveg_switch_title">5G Netzwerk</string>
@@ -3443,6 +3447,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_title">Stromsteuerung</string>
   <string name="gadget_toggle_bluetooth">Bluetooth-Einstellung aktualisieren</string>
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
+  <string name="gadget_wifi">WLAN</string>
   <string name="gallery_privacy_password_role_instruction">Ihre privaten Fotos werden hier gespeichert</string>
   <string name="game_booster">Spiel;Spiele;Turbo;Spielen;Spielemodus</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
@@ -6281,6 +6286,7 @@ UT Interface: %5$s"</string>
   <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Dies kann einige Sekunden dauern. Sie können diese Aktion nicht rückgängig machen.</string>
   <string name="reset_network_final_desc_esim">Alle Netzwerkeinstellungen zurücksetzen und heruntergeladene SIMs löschen? Sie können diese Aktion nicht rückgängig machen.</string>
   <string name="reset_network_title">WLAN, mobile Netzwerke &amp; Bluetooth zurücksetzen</string>
+  <string name="reset_network_wifi">WLAN</string>
   <string name="reset_remove_data_hint">Alle oben aufgeführten Punkte werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer oder in der Xiaomi-Cloud, bevor Sie fortfahren.</string>
   <string name="reset_second_space_passwd">Zweitprofilpasswort zurücksetzen</string>
   <string name="reset_second_space_passwd_cancel">Abbrechen</string>
@@ -7870,6 +7876,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
 Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakte, Termine und mehr von überall her zu ermöglichen."</string>
   <string name="sync_settings">Konten &amp; Synchronisation</string>
   <string name="sync_success">Erfolgreich synchronisiert</string>
+  <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur WLAN</string>
   <string name="system_alert_window_access_title">Apps überlagern</string>
   <string name="system_alert_window_off">Nein</string>
@@ -9026,6 +9033,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="whetstone_level_reboot_OK">Neustarten</string>
   <string name="whetstone_level_title">Speicheroptimierung</string>
   <string name="widget_picker_title">Widget auswählen</string>
+  <string name="wifi">WLAN</string>
   <string name="wifi_access_points">WLAN</string>
   <string name="wifi_add_app_network_save_failed_summary">Speichern nicht möglich. Erneut versuchen.</string>
   <string name="wifi_add_app_networks_saved_summary">Netzwerke gespeichert</string>
@@ -9066,6 +9074,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_ap_ssid_off">Aus</string>
   <string name="wifi_ap_ssid_on">An</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt zeitweise voll</string>
+  <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_ask_disable">%s will WLAN ausschalten</string>
   <string name="wifi_ask_enable">%s will WLAN anschalten</string>
   <string name="wifi_assist">WLAN-Assistent</string>
@@ -9260,6 +9269,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_empty_list_user_restricted">Sie haben keine Berechtigung, das WLAN zu wechseln</string>
   <string name="wifi_empty_list_wifi_off">WLAN einschalten, um verfügbare Netze anzuzeigen</string>
   <string name="wifi_empty_list_wifi_on">WLAN suchen…</string>
+  <string name="wifi_enable">WLAN</string>
   <string name="wifi_enable_data_and_wifi_roam">WLAN Assistent</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Halten Sie Daten und WLAN eingeschaltet, um bei schlechter WLAN-Konnektivität auf Daten umzuschalten.</string>
   <string name="wifi_enable_hs2_title">Passpoint an</string>
@@ -9341,6 +9351,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_menu_forget">Netzwerk entfernen</string>
   <string name="wifi_menu_modify">Passwort ändern</string>
   <string name="wifi_menu_more_options">Weitere Optionen</string>
+  <string name="wifi_menu_p2p">WLAN Direct</string>
   <string name="wifi_menu_remember">Netzwerk merken</string>
   <string name="wifi_menu_scan">Suchen</string>
   <string name="wifi_menu_wfd">WLAN-Anzeige</string>
@@ -9387,6 +9398,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_p2p_peer_devices">Verbundene Geräte</string>
   <string name="wifi_p2p_persist_network">Diese Verbindung speichern</string>
   <string name="wifi_p2p_remembered_groups">Gespeicherte Gruppen</string>
+  <string name="wifi_p2p_settings_title">WLAN Direct</string>
   <string name="wifi_p2p_wps_setup">WPS-Einrichtung</string>
   <string name="wifi_passpoint_expired">Abgelaufen</string>
   <string name="wifi_password">Passwort</string>
@@ -9406,6 +9418,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_protection_settings_title">Schutz vor WLAN-Sondierungsanfragen</string>
   <string name="wifi_protection_tip">MIUI schützt Ihre persönlichen Daten vor WLAN-Sondierungsanfragen von zufälligen MAC-Adressen und WLAN-Sondierungsschnüffeln, wenn Ihr Gerät nach WLAN sucht.</string>
   <string name="wifi_quick_toggle_summary">WLAN einschalten</string>
+  <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Gespeichert</string>
   <string name="wifi_remembered_disabled_auto_connect">Gespeichert, automatisch verbinden ist aus</string>
   <string name="wifi_required_info_text">Ihr Telefon muss WLAN-Verbindung haben, damit die Einrichtung abgeschlossen wird. Nach Einrichtung können Sie zwischen WLAN und Mobilfunk wechseln.</string>
@@ -9446,6 +9459,7 @@ Für alle Apps, die scannen möchten, erlauben?"</string>
   <string name="wifi_setting_on_during_sleep_title">WLAN im Standby an</string>
   <string name="wifi_setting_sleep_policy_error">Beim Ändern der Einstellung ist ein Problem aufgetreten</string>
   <string name="wifi_setting_sleep_policy_title">WLAN im Standby eingeschaltet lassen</string>
+  <string name="wifi_settings">WLAN</string>
   <string name="wifi_settings_category">WLAN-Einstellungen</string>
   <string name="wifi_settings_master_switch_title">WLAN nutzen</string>
   <string name="wifi_settings_scanning_required_enabled">WLAN-Scannen eingeschaltet</string>
@@ -9454,6 +9468,7 @@ Für alle Apps, die scannen möchten, erlauben?"</string>
   <string name="wifi_settings_scanning_required_title">WLAN-Scannen einschalten?</string>
   <string name="wifi_settings_scanning_required_turn_on">Einschalten</string>
   <string name="wifi_settings_summary">WLAN-Zugangspunkte festlegen und verwalten</string>
+  <string name="wifi_settings_title">WLAN</string>
   <string name="wifi_setup_add_network">Netzwerk hinzufügen</string>
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
