@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="can_not_apply_error">"This video format isn't supported"</string>
-  <string name="can_not_apply_size_invalid">This video is too big</string>
-  <string name="font_compat_dialog_buy_confirm">Buy</string>
-  <string name="font_compat_dialog_buy_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Buy this font anyway?</string>
-  <string name="font_compat_dialog_cancel">Cancel</string>
-  <string name="font_compat_dialog_download_confirm">Download</string>
-  <string name="font_compat_dialog_download_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Download this font anyway?</string>
-  <string name="font_compat_dialog_title">Compatibility issues</string>
-  <string name="font_compat_dialog_trial_confirm">Try</string>
-  <string name="font_compat_dialog_trial_content">Third party fonts might not be supported by some apps. This compatibility issue will be fixed by an upcoming system update. Try this font anyway?</string>
-  <string name="hide_retract_button">Hide</string>
-  <string name="scrollable_wallpaper_close">Turned off scrolling</string>
-  <string name="scrollable_wallpaper_open">Turned on scrolling</string>
-  <string name="set_as_colorring">Set as custom ringing tone</string>
+  <string name="can_not_apply_error">Dieses Videoformat wird nicht unterstützt</string>
+  <string name="can_not_apply_size_invalid">Dieses Video ist zu groß</string>
+  <string name="font_compat_dialog_buy_confirm">Kaufen</string>
+  <string name="font_compat_dialog_buy_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben werden. Diese Schriftart trotzdem kaufen?</string>
+  <string name="font_compat_dialog_cancel">Abbrechen</string>
+  <string name="font_compat_dialog_download_confirm">Herunterladen</string>
+  <string name="font_compat_dialog_download_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben werden. Diese Schriftart trotzdem herunterladen?</string>
+  <string name="font_compat_dialog_title">Kompatibilitätsprobleme</string>
+  <string name="font_compat_dialog_trial_confirm">Versuchen</string>
+  <string name="font_compat_dialog_trial_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben. Diese Schriftart trotzdem ausprobieren?</string>
+  <string name="hide_retract_button">Ausblenden</string>
+  <string name="scrollable_wallpaper_close">Scrollen ausgeschaltet</string>
+  <string name="scrollable_wallpaper_open">Scrollen eingeschaltet</string>
+  <string name="set_as_colorring">Als eigenen Rufton einstellen</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
