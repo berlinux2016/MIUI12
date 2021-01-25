@@ -7552,6 +7552,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="stop_upload_audio_log">Audio-Protokollierung benden</string>
   <string name="stop_upload_gps_log">GPS-Protokollierung beenden</string>
   <string name="stop_upload_modem_log">Modem-Protokollierung beenden</string>
+  <string name="storage_category">Speicher</string>
   <string name="storage_detail_cached">Daten im Cache</string>
   <string name="storage_detail_dialog_other">"Andere beinhaltet von Apps gespeicherte Dateien, Downloads, Androiddateien etc.
 Um den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden."</string>
@@ -7784,10 +7785,11 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="suggested_fingerprint_lock_settings_summary">Entsperren Sie mit Ihrem Fingerabdruck</string>
   <string name="suggested_fingerprint_lock_settings_title">Fingerabdruck verwenden</string>
   <string name="suggested_lock_settings_summary">Bildschirmsperre setzen zum Schützen Ihres Geräts</string>
-  <string name="suggested_lock_settings_title">Schütze Sie Ihr Gerät</string>
-  <string name="suggestion_additional_fingerprints">Einen weiteren Fingerabdruck hinzufügen</string>
-  <string name="suggestion_additional_fingerprints_summary">Mit einem anderen Finger entsperren</string>
-  <string name="suggestion_for_phone_recycled">Hinzufügen einer anderen Telefonnummer</string>
+  <string name="suggested_lock_settings_title">Schützen Sie Ihr Gerät</string>
+  <string name="suggestion_additional_fingerprints">Weiteren Fingerabdruck hinzufügen</string>
+  <string name="suggestion_additional_fingerprints_summary">Mit anderem Finger entsperren</string>
+  <string name="suggestion_button_close">Schließen</string>
+  <string name="suggestion_for_phone_recycled">Andere Telefonnummer hinzufügen</string>
   <string name="suggestion_remove">Entfernen</string>
   <string name="suggestions_more_title">+%1$d mehr</string>
   <string name="suggestions_title">Vorschläge</string>
