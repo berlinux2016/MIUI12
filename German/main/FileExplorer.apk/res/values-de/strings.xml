@@ -18,6 +18,8 @@
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
+  <string name="access_limit">Zugriffsbeschränkungen</string>
+  <string name="access_tips">Kein Zugriff. Verwenden Sie stattdessen Android Storage Access Framework.</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
   <string name="actionbar_button_up_description">Zurück</string>
@@ -111,6 +113,7 @@
   <string name="clockin_failed">Anmeldung fehlgeschlagen, erneut versuchen</string>
   <string name="clockin_success">Erfolgreich angemeldet</string>
   <string name="clockin_use">Preis erhalten</string>
+  <string name="close">Schließen</string>
   <string name="comment_delete_message">Kommentar wird dauerhaft gelöscht.</string>
   <string name="comment_delete_title">Kommentar löschen</string>
   <string name="comment_fail">Kommentar konnte nicht veröffentlicht werden, erneut versuchen</string>
@@ -422,6 +425,9 @@
   <string name="mirror_can_not_drag_mask">Ziehen, um Mi Share zu verwenden</string>
   <string name="mirror_new_name">Ordner erstellen (%s)</string>
   <string name="mirror_new_name_first">Ordner erstellen</string>
+  <string name="mirror_no_recommended_app">Keine empfohlenen Apps</string>
+  <string name="mirror_open_mode_error">Elemente wurden nicht geladen</string>
+  <string name="mirror_open_mode_loading">Einen Momen…</string>
   <string name="mirror_paste_no_file">Diese Datei existiert nicht</string>
   <string name="mirror_progress_copy">Kopieren…</string>
   <string name="mirror_side_bar_tab_phone_name">Speicher Mobiltelefon</string>
@@ -601,6 +607,7 @@
   <string name="operation_moving">Verschieben…</string>
   <string name="operation_new_folder">Ordner erstellen</string>
   <string name="operation_open">Öffnen</string>
+  <string name="operation_open_mode">Öffnen mit</string>
   <string name="operation_other_apps">Mit anderer App öffnen</string>
   <string name="operation_paste">Einfügen</string>
   <string name="operation_paste_to_folder">In Ordner einfügen</string>
@@ -695,7 +702,9 @@
   <string name="prize_result_tip2">Edelsteine gehen in Ihre Schatzkammer</string>
   <string name="promot_enctypt_password">Um das Gerät zu entsperren, geben Sie das Passwort ein oder schalten Sie die Kindersicherung aus</string>
   <string name="pull_to_enter_private">Herunterziehen zum Öffnen privater Ordner</string>
+  <string name="qq_msg">Wegen Android 11-Einschränkungen kann der Dateimanager nicht auf QQ-Dokumente zugreifen und diese anzeigen.</string>
   <string name="qq_not_installed">QQ ist nicht installiert</string>
+  <string name="qq_title">Kein Zugriff auf WeChat-Dokumente</string>
   <string name="recent_show">Zuletzt</string>
   <string name="recommend">Empfohlen</string>
   <string name="recommend_popup_title">Vorschläge</string>
@@ -778,6 +787,7 @@
   <string name="select_music">Musik auswählen</string>
   <string name="select_video">Videos auswählen</string>
   <string name="select_volume">Bitte Speicherort wählen</string>
+  <string name="send">Senden</string>
   <string name="send_comment">Senden</string>
   <string name="send_sticker">Sticker senden</string>
   <string name="send_to_qq">An QQ senden</string>
@@ -1101,6 +1111,8 @@
   <string name="view_more_sticker">Weitere Sticker anzeigen</string>
   <string name="view_top_rank">Ranking anzeigen</string>
   <string name="view_type">Anzeigen</string>
+  <string name="wechat_msg">Wegen Android 11-Einschränkungen kann der Dateimanager nicht auf WeChat-Dokumente zugreifen und diese anzeigen. Öffnen und speichern Sie Dokumente in WeChat, damit sie hier angezeigt werden.</string>
+  <string name="wechat_title">Kein Zugriff auf WeChat-Dokumente</string>
   <string name="wechat_video">Video auf %s</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>
