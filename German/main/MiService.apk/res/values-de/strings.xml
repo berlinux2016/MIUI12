@@ -1,4 +1,26 @@
 <resources>
+  <string name="copy">Kopieren</string>
+  <string name="date_time_picker_dialog_title">Datum Uhrzeit einstellen</string>
+  <string name="expand_button_title">Erweitert</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+  <string name="miuix_appcompat_action_mode_select_all">Alle usählen</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
+  <string name="miuix_appcompat_cancel_description">Abbrechen</string>
+  <string name="miuix_appcompat_confirm_description">Bestätigen</string>
+  <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
+  <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
+  <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all">Alle auswählen</string>
+  <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
+  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
+  <string name="not_set">Nichts festgelegt</string>
+  <string name="preference_copied">\"%1$s\" in Zwischenspeicher kopiert.</string>
+  <string name="v7_preference_off">AUS</string>
+  <string name="v7_preference_on">EIN</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
