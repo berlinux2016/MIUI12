@@ -80,7 +80,7 @@
   <string name="framework_introduction">Mi Services Framework ermöglicht Ihnen, Mi Account, Mi Push, Mi Stats und MIUI BI zu verwenden.</string>
   <string name="framwork_base_service">Um Ihnen diese Dienste anbieten zu können, muss sich Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) mit dem Internet verbinden, auf Ihre Telefonnummer, IMEI und IMSI zugreifen und Ihrem Gerät ermöglichen, Push-Benachrichtigungen zu erhalten</string>
   <string name="game_introduction">Das Spiele-Plugin ermöglicht Ihnen, sich anzumelden, Bestellungen zu erstellen, Zahlungen abzuschließen, Coupons zu verwenden und an Werbeveranstaltungen teilzunehmen.</string>
-  <string name="google_service_introduction">Um normal arbeiten zu können, muss Google Play eine Verbindung zum Internet herstellen, auf Ihren Standort zugreifen, SMS and MMS senden, Audio aufzeichnen, Anrufe tätigen und auf Kalendertermine, Anrufliste, Sensoren, Speicher, Kamera, Geräteinformationen und Konten zugreifen.</string>
+  <string name="google_service_introduction">Um normal arbeiten zu können, muss Google Play eine Verbindung zum Internet herstellen, auf Ihren Standort zugreifen, SMS und MMS senden, Audio aufzeichnen, Anrufe tätigen und auf Kalendertermine, Anrufliste, Sensoren, Speicher, Kamera, Geräteinformationen und Konten zugreifen.</string>
   <string name="home_settings_miui_home">Klassisch</string>
   <string name="home_settings_poco_launcher">App Drawer</string>
   <string name="home_settings_title">Standard-Launcher auswählen</string>
