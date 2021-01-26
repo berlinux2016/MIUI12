@@ -4706,6 +4706,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_closeAnc">Aus</string>
   <string name="miheadset_connectHeadsetForFw">Kopfhörer anschließen, um die Firmware-Version anzuzeigen</string>
   <string name="miheadset_connect_play_music">Wiedergabe automatisch starten, wenn Kopfhörer angeschlossen sind</string>
+  <string name="miheadset_connect_toast_tips">Zuerst Kopfhörer verbinden</string>
   <string name="miheadset_define_self">Selbst definieren</string>
   <string name="miheadset_disconnect">Trennen</string>
   <string name="miheadset_disconnect_device">Dieses Gerät trennen?</string>
@@ -4739,7 +4740,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_triple_click_key_mode">Dreifachklick-Tastenmodus</string>
   <string name="miheadset_triple_click_key_mode_summary">Dreifachklick-Tastenbelegung ändern</string>
   <string name="miheadset_unpair_device">Koppeln abbrechen?</string>
-  <string name="miheadset_unpair_device_text">Alle mit diesem Xiaomi-Konto verbundenen Geräte werden entfernt</string>
+  <string name="miheadset_unpair_device_text">%1$s wird von allen Geräten, die mit diesem Mi-Konto verbunden sind, entkoppelt.</string>
   <string name="miliao_account_guide">Melden Sie sich mit Ihrem Mi-Konto von überall bei Xiaomi Cloud, MIUI Theme Store und anderen Mi Diensten an.</string>
   <string name="miliao_account_login">Mit Mi Talk anmelden</string>
   <string name="misc_files">Sonstige Dateien</string>

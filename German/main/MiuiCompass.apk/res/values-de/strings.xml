@@ -51,6 +51,7 @@
   <string name="error_camera_unavailable">Prüfen Sie, ob eine andere App die Kamera verwendet</string>
   <string name="error_camera_unavailable_title">Kamera nicht verfügbar</string>
   <string name="expand_button_title">Erweitert</string>
+  <string name="excerpt">Ausschnitte</string>
   <string name="first_using_dialog_message">Kompass benötigt eine Netzwerkverbindung, die Kamera und den Standortservice, um ordnungsgemäß zu funktionieren</string>
   <string name="first_using_dialog_title">Zugriffsberechtigung</string>
   <string name="guide_toast">Zum Kalibrieren bewegen Sie Ihr Gerät wie unten gezeigt.</string>

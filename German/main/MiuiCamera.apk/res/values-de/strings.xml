@@ -2,6 +2,12 @@
 <resources>
   <string name="live_music_author_unknown">Unbekannter Künstler</string>
   <string name="live_music_cut_prompt">Soundtrack auswählen</string>
+  <string name="pref_video_capture_repeating_title">Während der Videoaufnahme regelmäßig Bilder aufnehmen</string>
+  <string name="remote_online_exit_connecting">Möchten Sie die Aufzeichnung mehrerer Multi-Kameras trennen und beenden?</string>
+  <string name="remote_online_introduction_i">Multi-Kamera-Aufnahmefunktion unterstützt zwei Mobiltelefone, um Bilder aus verschiedenen Blickwinkeln aufzunehmen und zu einem Video zu kombinieren. Sie können die Videovorschau und das Filmen von zwei Telefonen über dieses Gerät anzeigen und nur die Tonaufnahme dieses Geräts unterstützen.</string>
+  <string name="remote_online_introduction_ii">Der andere Teilnehmer muss den \"Multi-Kamera-Aufnahme\"-Schalter in der Dropdown-Benachrichtigungsleiste aktivieren. Es werden nur Telefone mit der Kamerafunktion \"Multi-Kamera-Aufnahme\" unterstützt.</string>
+  <string name="video_cast_service_error">Fehler beim Starten des Hintergrunddienstes für die Aufzeichnung mehrerer Geräte</string>
+  <string name="video_cast_state_exited">Abgemeldet</string>
 
   <string name="cam_string_remote_camera_setup_wizard_button_accept">Zustimmen</string>
   <string name="cam_string_remote_camera_setup_wizard_button_back">Zurück</string>
