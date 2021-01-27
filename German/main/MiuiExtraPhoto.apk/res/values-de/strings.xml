@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="doc_photo_enhance_bin_desc">Black-and-white copy</string>
+  <string name="doc_photo_enhance_color_desc">Enhanced color scan</string>
+  <string name="doc_photo_enhance_moer">Remove moiré</string>
+  <string name="doc_photo_enhance_moer_desc">Remove moiré screen patterns</string>
+  <string name="doc_photo_enhance_moer_toast">Remove moiré screen patterns</string>
+  <string name="doc_photo_enhance_undistortion">Anti-distortion</string>
+  <string name="doc_photo_enhance_undistortion_desc">Correct image distortion</string>
+  <string name="doc_photo_toast_undistortion_close">Anti-distortion is off</string>
+  <string name="doc_photo_toast_undistortion_open">Anti-distortion is on</string>
+
   <string name="cancel">Abbrechen</string>  
   <string name="doc_photo_adjust_section_title">Zum Anpassen ziehen</string>
   <string name="doc_photo_cancel">Abbrechen</string>
