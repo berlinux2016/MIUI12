@@ -8,6 +8,7 @@
   <string name="remote_online_introduction_ii">Der andere Teilnehmer muss den \"Multi-Kamera-Aufnahme\"-Schalter in der Dropdown-Benachrichtigungsleiste aktivieren. Es werden nur Telefone mit der Kamerafunktion \"Multi-Kamera-Aufnahme\" unterstützt.</string>
   <string name="video_cast_service_error">Fehler beim Starten des Hintergrunddienstes für die Aufzeichnung mehrerer Geräte</string>
   <string name="video_cast_state_exited">Abgemeldet</string>
+  <string name="network_connection_ongoing">Verbinden</string>
 
   <string name="cam_string_remote_camera_setup_wizard_button_accept">Zustimmen</string>
   <string name="cam_string_remote_camera_setup_wizard_button_back">Zurück</string>
