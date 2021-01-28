@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>#
   <string name="error_permission_denied">Um diese Funktion nutzen zu können, Mi Share alle erforderlichen Berechtigungen in den Einstellungen erlauben.</string>
-  <string name="nearby_share">In Nähe Teilen</string
-
+  <string name="nearby_share">In Nähe Teilen</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
