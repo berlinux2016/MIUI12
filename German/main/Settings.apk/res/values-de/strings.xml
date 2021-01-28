@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="miheadset_play_pause">Abspielen/Pause</string>
-  <string name="miheadset_soft">Weich</string>
-
-  <string name="miheadset_fitness_check_checking">Erkennung</string>
-  <string name="miheadset_fitness_check_continue">weiter</string>
-  <string name="miheadset_fitness_check_done">Fertig</string>
-  <string name="miheadset_fitness_check_restart">Erneut starten</string>
-  <string name="miheadset_fitness_check_result_dialog1">Vor Beginn des Kopfhörertestes in beide Ohren setzen.</string>
-  <string name="miheadset_fitness_check_result_dialog2">Aktuelle Gespräch  beenden, bevor Sie den Test starten.</string>
-  <string name="miheadset_fitness_check_result_dialog_title">Achtung</string>
-  <string name="miheadset_fitness_check_result_summary1">Diese Passform passt hervorragend zu Ihnen!</string>
-  <string name="miheadset_fitness_check_result_summary2">Einstellung anpassen oder mit einem anderen Ohrstöpsel versuchen und erneut testen.</string>
-  <string name="miheadset_fitness_check_summary1">Erfahren Sie, welche Ohrstöpsel den besten Tragekomfort und die beste akustische Leistung bieten.</string>
-  <string name="miheadset_fitness_check_summary2">Ohrhörer in beide Ohren setzen und auf \"Start"\ tippen.</string>
-  <string name="miheadset_fitness_check_summary3">Ohrhörer in den Ohren lassen.</string>
-
-  <string name="button_height_text">Allgemeine Bestätigungstaste (z. B. \"OK\", \"Fertig\")</string>
-  <string name="button_normal_text">Normale Taste</string>
-  <string name="checkbox_text">Schalter</string>
-  <string name="customize_knock_gesture">Benutzerdefinierte Knöchelgesten</string>
-  <string name="general_text">Textfeld</string>
-  <string name="general_time">Zeit: %1$d:%2$d. Lange Vibrationen stehen für Stunden, kurze Vibrationen für Minuten. Zwischen Stunden und Minuten wird eine kurze Pause eingelegt. Doppeltippen, um es zu versuchen.</string>
-  <string name="haptic_experience_details">Haptisches Feeback &amp; Erreichbarkeit</string>
-  <string name="haptic_switch_summary">Haptisches Feedback zu ausgewählten Elementen erhalten, wenn der Bildschirmleser an ist</string>
-  <string name="haptic_switch_title">Haptisches Feeback</string>
-  <string name="height_light_list_text">Eine Liste mit wichtigen Punkten</string>
-  <string name="input_text">Texteingabeleiste</string>
-  <string name="knock_edge_area_invalid">Geste funktioniert nicht in der Nähe von Bildschirmrändern</string>
-  <string name="knock_guide_dialog_title">Aktion für diese Geste auswählen. Sie können sie später unter Einstellungen &gt; Weitere Einstellungen &gt; Tastenkombinationen ändern.</string>
-  <string name="knock_guide_drive_desc">Bildschirmfotos während der Fahrt aufnehmen</string>
-  <string name="knock_guide_launch_desc">Mi KI auslösen, wenn das Telefon auf dem Tisch liegt</string>
-  <string name="knock_guide_set_voiceassist">Mi KI</string>
-  <string name="knock_guide_sub_title">Sie können Mi KI auslösen oder Screenshots aufnehmen, indem Sie mit dem Fingerknöchel auf den Bildschirm tippen</string>  
-  <string name="knock_guide_title">Knöcheldoppeltipp</string>
-  <string name="knock_long_press_horizontal_slid">Mit einem Fingerknöchel waagerecht drücken und wischen</string>
-  <string name="knock_slide_shape">Kreis mit einem Fingerknöchel zeichnen</string>
-  <string name="knock_slide_v">Mit Fingerknöchel V zeichnen</string>
-  <string name="normal_list_text">Liste</string>
-  <string name="picker_text">Zeitauswahl</string>
-  <string name="seekbar_text">Slider</string>
-  <string name="switch_headset_anti_lost">Warnung bei fehlendem Ohrhörer</string>
-  <string name="switch_headset_anti_lost_summary">Warnung erhalten, wenn einer Ihrer Ohrhörer länger als eine Minute vom Ohr oder der Ladehülle entfernt ist</string>
-  <string name="switch_headset_anti_lost_title">Warnung bei fehlendem Ohrhörer</string>
-
-
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
@@ -1640,9 +1595,11 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="button_convert_fbe">Löschen und konvertieren…</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
   <string name="button_finish">Beenden</string>
+  <string name="button_height_text">Allgemeine Bestätigungstaste (z. B. \"OK\", \"Fertig\")</string>
   <string name="button_import">Importieren</string>
   <string name="button_light_timeout">Tastenbeleuchtung aktiv lassen</string>
   <string name="button_next">Weiter</string>
+  <string name="button_normal_text">Normale Taste</string>
   <string name="button_quit">Beenden</string>
   <string name="button_return">Zurück</string>
   <string name="button_send">Senden</string>
@@ -1655,9 +1612,9 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="button_text_reject">Ablehnen</string>
   <string name="ca_certificate">CA-Zertifikat</string>
-  <string name="ca_certificate_warning_description">"CA-Zertifikate werden von Websites, Apps und VPNs zur Verschlüsselung verwendet. Installieren Sie nur CA-Zertifikate von Organisationen, denen Sie vertrauen. 
+  <string name="ca_certificate_warning_description">"CA-Zertifikate werden von Websites, Apps und VPNs zur Verschlüsselung verwendet. Installieren Sie nur CA-Zertifikate von Organisationen, denen Sie vertrauen.
 
- Wenn Sie ein CA-Zertifikat installieren, könnte der Zertifikatsinhaber von Websites, die Sie besuchen, oder von Apps, die Sie verwenden, auf Ihre Daten, wie z. B. Passwörter oder Kreditkartendaten, zugreifen - selbst wenn Ihre Daten verschlüsselt sind"</string>
+ Wenn Sie ein CA-Zertifikat installieren, könnte der Zertifikatsinhaber von Websites, die Sie besuchen, oder von Apps, die Sie verwenden, auf Ihre Daten, wie z. B. Passwörter oder Kreditkartendaten, zugreifen - selbst wenn Ihre Daten verschlüsselt sind."</string>
   <string name="ca_certificate_warning_title">Ihre Daten werden nicht privat sein</string>
   <string name="cached">Hintergrundprozess im Cache</string>
   <string name="cached_apps_freezer">Ausführung für Apps im Cache aussetzen</string>
@@ -1804,6 +1761,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="check_importance_dialog_cancel">Abbrechen</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden</string>
+  <string name="checkbox_text">Umschalten</string>
   <string name="checking_decryption">Prüfen…</string>
   <string name="checking_find_device_status">Status Gerät finden prüfen…</string>
   <string name="checking_for_updates">Auf Updates prüfen…</string>
@@ -2081,9 +2039,9 @@ Diese Info gibt an, ob Ihre Kontakte bestimmte Funktionen nutzen können, wie z.
   <string name="controls_subtitle">Stromverbrauch anpassen</string>
   <string name="convenience_key_category_title">Systemsteuerung</string>
   <string name="conversation_category_title">Unterhaltung</string>
-  <string name="conversation_onboarding_summary">"Sobald Sie eine Unterhaltung als vorrangig markieren oder andere Änderungen an Unterhaltungen vornehmen, werden diese hier angezeigt. 
+  <string name="conversation_onboarding_summary">"Sobald Sie eine Unterhaltung als vorrangig markieren oder andere Änderungen an Unterhaltungen vornehmen, werden diese hier angezeigt.
 
-Gesprächseinstellungen ändern: 
+Gesprächseinstellungen ändern:
 Vom oberen Bildschirmrand runterwischen, um die Pulldown-Leiste zu öffnen, dann eine Unterhaltung berühren &amp; halten."</string>
   <string name="conversation_onboarding_title">Vorrangige und geänderte Unterhaltungen werden hier angezeigt</string>
   <string name="conversation_section_switch_summary">Der App die Verwendung des Unterhaltungsbereichs erlauben</string>
@@ -2192,6 +2150,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="custom_gesture_title">Benutzerdefinierte Gesten</string>
   <string name="custom_wifi_name_title">WLAN-Name bearbeiten</string>
   <string name="customize_function">Verfügbare Muster</string>
+  <string name="customize_knock_gesture">Benutzerdefinierte Knöchelgesten</string>
   <string name="cutout_mode_always">Notch immer anzeigen</string>
   <string name="cutout_mode_default">Automatisch</string>
   <string name="cutout_mode_settings_title">Einige Apps werden eventuell falsch angezeigt, wenn Sie die Notch-Anzeige anpassen.</string>
@@ -3466,6 +3425,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="game_mode_settings">Spielemodus</string>
   <string name="game_mode_summary">Leistung für Spiele verbessern und gleichzeitig die Synchronisation und Netzwerkverbindung im Hintergrund für andere Apps einschränken</string>
   <string name="game_storage_settings">Spiele</string>
+  <string name="general_text">Textfeld</string>
+  <string name="general_time">Zeit: %1$d:%2$d. Lange Vibrationen stehen für Stunden, kurze Vibrationen für Minuten. Zwischen Stunden und Minuten wird eine kurze Pause eingelegt. Doppeltippen, um es zu versuchen.</string>
   <string name="gentle_notifications_also_display">Auch anzeigen in/auf</string>
   <string name="gentle_notifications_display_lock">Sperrbildschirm</string>
   <string name="gentle_notifications_display_status">Statusleiste</string>
@@ -3576,6 +3537,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Schaltflächen anstelle von Vollbildgesten umschalten.</string>
   <string name="haptic_agent_completion_01_content_description">Erledigte Aufgabe</string>
   <string name="haptic_cursor_movement_07_content_description">Helligkeit einstellen</string>
+  <string name="haptic_experience_details">Haptisches Feeback &amp; Erreichbarkeit</string>
   <string name="haptic_feedback_enable_title">Bei Berührung vibrieren</string>
   <string name="haptic_feedback_progress">Level haptisches Feedback</string>
   <string name="haptic_feedback_summary">Haptische Reaktion auf Gesten und Systemsteuerungen erhalten</string>
@@ -3592,6 +3554,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="haptic_return_gesture_05_content_description">Zurückgehen</string>
   <string name="haptic_shutdown_menu_06_content_description">Power-Menü</string>
   <string name="haptic_single_selection_02_content_description">Ausgewähltes Element</string>
+  <string name="haptic_switch_summary">Haptisches Feedback zu ausgewählten Elementen erhalten, wenn der Bildschirmleser an ist</string>
+  <string name="haptic_switch_title">Haptisches Feeback</string>
   <string name="haptic_text_edit_popup_13_content_description">Popup-Menü</string>
   <string name="haptic_upper_right_menu_15_content_description">Aufklappbares Menü</string>
   <string name="haptic_volume_adjustment_14_content_description">Lautstärke einstellen</string>
@@ -3627,6 +3591,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="headset_unsaved_devices">Nicht gespeichert, verbinden Sie sich in Ihrem Konto mit einem anderen Telefon</string>
   <string name="hearing_aids_category">Hörunterstützende Tools</string>
   <string name="heavy_weight_stop_description">App kann nicht sicher beendet werden, es könnten dabei aktuelle Daten verloren gehen.</string>
+  <string name="height_light_list_text">Eine Liste mit wichtigen Punkten</string>
   <string name="help_and_feedback_title">Hilfe &amp; Feedback</string>
   <string name="help_feedback_label">Hilfe &amp; Feedback</string>
   <string name="help_label">Hilfe &amp; Feedback</string>
@@ -3838,6 +3803,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="input_password_hint_text">Passwort eingeben</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
   <string name="input_settings">Eingabeeinstellungen</string>
+  <string name="input_text">Texteingabeleiste</string>
   <string name="install_all_warning">Apps aus unbekannten Quellen können gefährlich für Ihr Telefon und Ihre persönlichen Daten sein. Sie stimmen zu, dass Sie die Verantwortung für alle Schäden an Ihrem Telefon und jegliche Datenverluste tragen, die aus der Verwendung dieser Apps entstehen können.</string>
   <string name="install_applications">Unbekannte Herkunft</string>
   <string name="install_applications_title">Alle App-Quellen zulassen</string>
@@ -4063,6 +4029,16 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="keywords_write_settings">schreiben;modifizieren;System;Einstellungen</string>
   <string name="keywords_zen_mode_settings">dnd;zeitplan;benachrichtigungen;blocken;stille;vibrieren;schlafen;arbeit;focus;ton;stumm;tag;wochentag;wochenende;wochenabend;eintrag</string>
   <string name="kid_space_settings">Kinderprofil</string>
+  <string name="knock_edge_area_invalid">Geste funktioniert nicht nahe den Bildschirmrändern</string>
+  <string name="knock_guide_dialog_title">Aktion für diese Geste auswählen. Sie können sie später unter Einstellungen &gt; Weitere Einstellungen &gt; Tastenkombinationen ändern.</string>
+  <string name="knock_guide_drive_desc">Bildschirmfotos während der Fahrt aufnehmen</string>
+  <string name="knock_guide_launch_desc">Mi KI auslösen, wenn das Telefon auf dem Tisch liegt</string>
+  <string name="knock_guide_set_voiceassist">Mi KI</string>
+  <string name="knock_guide_sub_title">Sie können Mi KI auslösen oder Screenshots aufnehmen, indem Sie mit dem Fingerknöchel auf den Bildschirm tippen</string>
+  <string name="knock_guide_title">Knöchel-Doppeltipp</string>
+  <string name="knock_long_press_horizontal_slid">Mit einem Fingerknöchel waagerecht drücken und wischen</string>
+  <string name="knock_slide_shape">Kreis mit einem Fingerknöchel zeichnen</string>
+  <string name="knock_slide_v">V mit einem Fingerknöchel zeichnen</string>
   <string name="label_available">verfügbare Netzwerke, verfügbare Netze</string>
   <string name="label_global_roaming_settings">Roaming-Einstellungen</string>
   <string name="label_mi_stats">Mi Analyse</string>
@@ -4716,28 +4692,39 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_double_click_right">Den rechten Kopfhörer doppelt antippen</string>
   <string name="miheadset_enhence_high">Hohe Frequenz verbessern</string>
   <string name="miheadset_enhence_low">Niedrige Frequenz verbessern</string>
-  <string name="miheadset_fitness_check">Ohrstöpsel-Sitztest</string>
-  <string name="miheadset_fitness_check_checking">Testen…</string>
+  <string name="miheadset_fitness_check">Passform erkennen</string>
+  <string name="miheadset_fitness_check_checking">Erkennen…</string>
+  <string name="miheadset_fitness_check_continue">Weiter</string>
+  <string name="miheadset_fitness_check_done">Fertig</string>
+  <string name="miheadset_fitness_check_restart">Erneut starten</string>
+  <string name="miheadset_fitness_check_result_dialog1">Ohrhörer bitte in beide Ohren stecken und dann die Passform prüfen.</string>
+  <string name="miheadset_fitness_check_result_dialog2">Bitte erst den Anruf beenden und dann die Passformprüfung durchführen.</string>
+  <string name="miheadset_fitness_check_result_dialog_title">Tipps</string>
   <string name="miheadset_fitness_check_result_not_ok">Schlechte Passform</string>
   <string name="miheadset_fitness_check_result_ok">Gute Passform</string>
-  <string name="miheadset_fitness_check_result_unkown">Fitness unbekannt</string>
+  <string name="miheadset_fitness_check_result_summary1">Die Ohrstöpsel, die Sie derzeit tragen, passen gut.</string>
+  <string name="miheadset_fitness_check_result_summary2">Bitte justieren Sie die Position der Ohrstöpsel neu oder tauschen Sie die Ohrstöpsel vor dem Test gegen andere Größen aus.</string>
+  <string name="miheadset_fitness_check_result_unkown">Passform unbekannt</string>
+  <string name="miheadset_fitness_check_start">Erkennung starten</string>
   <string name="miheadset_fitness_check_start">Starten</string>
-  <string name="miheadset_fitness_check_continue">Weiter</string>
-  <string name="miheadset_formal">Stand</string>
+  <string name="miheadset_fitness_check_summary1">Erkennen, welche Ohrstöpselgröße ein angenehmes Tragegefühl und die beste Akustik bietet</string>
+  <string name="miheadset_fitness_check_summary2">Ohrstöpsel in beide Ohren setzen und auf \"Erkennung starten"\ tippen.</string>
+  <string name="miheadset_fitness_check_summary3">Headset nicht entfernen</string>
   <string name="miheadset_game_mode">Spielemodus</string>
   <string name="miheadset_game_mode_summary">Audioverzögerung beim Spielen reduzieren</string>
   <string name="miheadset_ignore">Entkoppeln</string>
   <string name="miheadset_in_ear_check">Ohr erkennen</string>
   <string name="miheadset_in_ear_check_summary">Wiedergabe automatisch anhalten und fortsetzen, wenn Sie Kopfhörer abnehmen oder tragen</string>
   <string name="miheadset_last_version">Firmware ist aktuell</string>
-  <string name="miheadset_local_ota">OTA lokal</string>
   <string name="miheadset_moreSettingsInAi">Weitere Einstellungen</string>
-  <string name="miheadset_multi_connect_mode">Multi-Connect-Modus</string>
+  <string name="miheadset_multi_connect_mode">Multi-Anschluss-Modus</string>
   <string name="miheadset_multi_connect_mode_summary">Mehr als ein Gerät gleichzeitig anschließen</string>
   <string name="miheadset_next">Weiter</string>
   <string name="miheadset_openAnc">Rauschunterdrückung</string>
+  <string name="miheadset_play_pause">Abspielen/Pause</string>
   <string name="miheadset_rename">Umbenennen</string>
   <string name="miheadset_rename_device">Umbenennen</string>
+  <string name="miheadset_soft">Weich</string>
   <string name="miheadset_transparent">Transparenz</string>
   <string name="miheadset_triple_click_key_mode">Dreifachklick-Tastenmodus</string>
   <string name="miheadset_triple_click_key_mode_summary">Dreifachklick-Tastenbelegung ändern</string>
@@ -5284,6 +5271,7 @@ Betriebssystem auswählen:"</string>
   <string name="normal">Normal</string>
   <string name="normal_bottom_height_of_keyboard">Regulär</string>
   <string name="normal_info">Alle Töne funktionieren normal</string>
+  <string name="normal_list_text">Liste</string>
   <string name="normal_smartcover_title">Blickdichte Frontabdeckung</string>
   <string name="not_allowed">Ihre SIM-Karte erlaubt keine Verbindung zu diesem Netzwerk</string>
   <string name="not_battery_optimizing">Nicht mit Akku-Optimierung</string>
@@ -5715,6 +5703,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="photo_data">Fotos und Videos</string>
   <string name="physical_keyboard_title">Hardwaretastatur</string>
   <string name="pick_up_gesture_wakeup_title">Gerät zum Aufwecken anheben</string>
+  <string name="picker_text">Zeitauswahl</string>
   <string name="pico_installed">Installiert</string>
   <string name="pico_languages_and_voices">Sprachen &amp; Stimmen</string>
   <string name="pico_not_installed">Nicht installiert</string>
@@ -6548,16 +6537,16 @@ Mindestens %s freigeben."</string>
 2. Bildschirm öffnen, der angeheftet werden soll
 3. Übersicht öffnen
 4. Hochwischen und dann das Pinsymbol antippen"</string>
-  <string name="screen_pinning_dialog_message">"Wenn die App angeheftet ist: 
+  <string name="screen_pinning_dialog_message">"Wenn die App angeheftet ist:
 
-•\u0009\u0009Personenbezogene Daten können zugänglich sein 
-\u0009\u0009(wie z. B. Kontakte und E-Mail-Inhalte) 
-•\u0009\u0009Angeheftete App kann andere Apps öffnen 
+•\u0009\u0009Personenbezogene Daten können zugänglich sein
+\u0009\u0009(wie z. B. Kontakte und E-Mail-Inhalte)
+•\u0009\u0009Angeheftete App kann andere Apps öffnen
 
 Verwenden Sie App-Pinning nur bei Personen, denen Sie vertrauen."</string>
-  <string name="screen_pinning_guest_user_description">"App-Pinning ermöglicht Ihnen, die aktuelle App in der Ansicht zu halten, bis Sie die Anheftung aufheben. Diese Funktion kann z. B. verwendet werden, um einen vertrauenswürdigen Freund ein bestimmtes Spiel spielen zu lassen. 
+  <string name="screen_pinning_guest_user_description">"App-Pinning ermöglicht Ihnen, die aktuelle App in der Ansicht zu halten, bis Sie die Anheftung aufheben. Diese Funktion kann z. B. verwendet werden, um einen vertrauenswürdigen Freund ein bestimmtes Spiel spielen zu lassen.
 
-Wenn eine App angeheftet ist, kann sie andere Apps öffnen und persönliche Daten können zugänglich sein. 
+Wenn eine App angeheftet ist, kann sie andere Apps öffnen und persönliche Daten können zugänglich sein.
 
 Wenn Sie Ihr Gerät sicher mit jemandem teilen möchten, versuchen Sie stattdessen, einen Gastbenutzer zu verwenden
 
@@ -7855,6 +7844,9 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="switchNetworkToast">Verbindung zu Mobilfunknetzen kann zusätzliche Kosten verursachen</string>
   <string name="switch_access_service_on">Zugriff umschalten</string>
   <string name="switch_bootup_sound">Bootsound</string>
+  <string name="switch_headset_anti_lost">Warnung bei fehlendem Ohrhörer</string>
+  <string name="switch_headset_anti_lost_summary">Warnung erhalten, wenn einer Ihrer Ohrhörer länger als eine Minute vom Ohr oder der Ladehülle entfernt ist</string>
+  <string name="switch_headset_anti_lost_title">Warnung bei fehlendem Ohrhörer</string>
   <string name="switch_off_text">Aus</string>
   <string name="switch_on_text">An</string>
   <string name="switch_screen_button_order">Tasten spiegeln</string>
