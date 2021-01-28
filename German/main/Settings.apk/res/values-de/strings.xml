@@ -1256,6 +1256,8 @@ Apps:
   <string name="bluetooth_enter_passkey_msg">Geben Sie den Pairing-Code ein und drücken Sie Return oder Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Eventuell müssen Sie diesen Schlüssel auch auf dem anderen Gerät eingeben</string>
   <string name="bluetooth_enter_pin_other_device">Eventuell müssen Sie diese PIN auch auf dem anderen Gerät eingeben</string>
+  <string name="bluetooth_fastConnect_key_device_id">Device-ID</string>
+  <string name="bluetooth_fastConnect_resource_load">Bluetooth fastConnect Ressourcenauslastung</string>
   <string name="bluetooth_filter_device_display">Alle anzeigen</string>
   <string name="bluetooth_filter_device_filter">Empfehlungen anzeigen</string>
   <string name="bluetooth_footer_mac_message">Bluetooth-Telefonadresse: %1$s</string>
@@ -4668,6 +4670,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_LeftEar">Links</string>
   <string name="miheadset_RightEar">Rechts</string>
   <string name="miheadset_active">Kraftvoll</string>
+  <string name="miheadset_anc_indicate">Kopfhörer anschließen und koppeln</string>
   <string name="miheadset_audio_mode">Audio-Modus</string>
   <string name="miheadset_audio_mode_high">Hohe Qualität</string>
   <string name="miheadset_audio_mode_listen">Anhören</string>
@@ -4706,7 +4709,6 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_fitness_check_result_summary2">Bitte justieren Sie die Position der Ohrstöpsel neu oder tauschen Sie die Ohrstöpsel vor dem Test gegen andere Größen aus.</string>
   <string name="miheadset_fitness_check_result_unkown">Passform unbekannt</string>
   <string name="miheadset_fitness_check_start">Erkennung starten</string>
-  <string name="miheadset_fitness_check_start">Starten</string>
   <string name="miheadset_fitness_check_summary1">Erkennen, welche Ohrstöpselgröße ein angenehmes Tragegefühl und die beste Akustik bietet</string>
   <string name="miheadset_fitness_check_summary2">Ohrstöpsel in beide Ohren setzen und auf \"Erkennung starten"\ tippen.</string>
   <string name="miheadset_fitness_check_summary3">Headset nicht entfernen</string>
@@ -4716,12 +4718,14 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_in_ear_check">Ohr erkennen</string>
   <string name="miheadset_in_ear_check_summary">Wiedergabe automatisch anhalten und fortsetzen, wenn Sie Kopfhörer abnehmen oder tragen</string>
   <string name="miheadset_last_version">Firmware ist aktuell</string>
+  <string name="miheadset_minus">Lautstärke +</string>
   <string name="miheadset_moreSettingsInAi">Weitere Einstellungen</string>
   <string name="miheadset_multi_connect_mode">Multi-Anschluss-Modus</string>
   <string name="miheadset_multi_connect_mode_summary">Mehr als ein Gerät gleichzeitig anschließen</string>
   <string name="miheadset_next">Weiter</string>
   <string name="miheadset_openAnc">Rauschunterdrückung</string>
   <string name="miheadset_play_pause">Abspielen/Pause</string>
+  <string name="miheadset_plus">Lautstärke -</string>
   <string name="miheadset_rename">Umbenennen</string>
   <string name="miheadset_rename_device">Umbenennen</string>
   <string name="miheadset_soft">Weich</string>
@@ -5842,6 +5846,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="power_usage_summary_title">Akku &amp; Leistung</string>
   <string name="power_usage_summary_title_new">Akku</string>
   <string name="power_user">Benutzer</string>
+  <string name="power_wifi">WLAN</string>
   <string name="pre_installed_application">Vorinstallierte Apps</string>
   <string name="pref_bg_network_title">Hintergrundverbindung</string>
   <string name="pref_button_light">Tastenbeleuchtung</string>
@@ -6844,6 +6849,7 @@ App-Pinning verwenden: \u0009
   <string name="search_wifi_advanced_mac_address_title">WLAN-MAC-Adresse;WLAN MAC Adresse;WLAN MAC address</string>
   <string name="search_wifi_enable">WLAN;WLAN aktivieren</string>
   <string name="search_wifi_install_credentials">Zertifikate installieren;Zertifikate</string>
+  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN-Eingabe;WPS;WPS PIN</string>
   <string name="search_wifi_scan_always_available">Scannen immer verfügbar;Netzwerke scannen;WLAN scannen</string>
   <string name="search_wifi_setting_frequency_band_title">WLAN-Frequenzband;WLAN Frequenzband;WLAN Frequenz;Frequenzband</string>

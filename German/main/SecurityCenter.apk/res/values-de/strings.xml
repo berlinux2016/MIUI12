@@ -1,34 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="gb_adv_touch_adv_title">Klassischer Modus (Standard)</string>
-  <string name="gb_adv_touch_custom1">Wischantwort</string>
-  <string name="gb_adv_touch_custom2">Empfindlichkeit gegenüber kontinuierlichen Antippen</string>
-  <string name="gb_adv_touch_custom3">Zielgenauigkeit</string>
-  <string name="gb_adv_touch_custom4">Tippstabilität</string>
-  <string name="gb_adv_touch_custom_tip1">Eine höhere Wischreaktion erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine niedrigere Wischreaktion die Geste stabiler macht.</string>
-  <string name="gb_adv_touch_custom_tip2">Eine höhere Empfindlichkeit für kontinuierliches Antippen erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine geringere Empfindlichkeit die Geste stabiler macht.</string>
-  <string name="gb_adv_touch_custom_tip3">Eine höhere Zielgenauigkeit macht kleinere Wischbewegungen präziser, während eine niedrigere Zielgenauigkeit diese Geste stabiler macht.</string>
-  <string name="gb_adv_touch_custom_tip4">Eine höhere Tippstabilität macht das Tippen stabiler, während eine niedrigere Tippstabilität die Genauigkeit kleineren Wischens erhöht.</string>
-  <string name="gb_adv_touch_custom_title">Anpassen</string>
-  <string name="gb_adv_touch_mode_pro_tips">*Dieser Modus ist für professionelle Spieler gedacht. Regelmäßige Spieler könnten diesen Modus unbequem finden.</string>
-  <string name="gb_adv_touch_mode_select_title">Gesten</string>
-  <string name="gb_adv_touch_pro_title">Pro-Modus</string>
-  <string name="gtb_spring_festival_back_game">Zurück zum Spiel</string>
-  <string name="gtb_spring_festival_goto_gameturbo">Ansicht</string>
-  <string name="summary_password_manager">Mit dem Passwortmanager können Sie Ihre Passwörter verschlüsseln und in der Cloud speichern</string>
-  <string name="title_password_manager">Passwortmanager einschalten</string>
-  <string name="vb_video_super_division">Skalieren</string>
-  <string name="vb_video_super_division_desc">"Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.
-
-Die Verwendung dieser Funktion erhöht den Stromverbrauch.
-
-Diese Funktion funktioniert nicht mit der Bewegungsglättung.
-Wenn Sie eine der Funktionen einschalten, schalten Sie die andere aus."</string>
-  <string name="vb_video_super_division_tips">"Nicht klar genug?
-Versuchen Sie, die Auflösung hochzuskalieren!"</string>
-  <string name="videobox_settings_timing">Alarmton</string>
-  <string name="videobox_settings_timing_desc">Stündlich einen Alarmton erhalten, der Sie an eine Pause erinnert</string>
-
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ein- und Ausschalten von Bluetooth</string>
@@ -970,6 +941,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile 
   <string name="databooster_tips_message">Einschalten, um alle SIM-Karten außer der Datenkarte einzuschränken. Deaktivieren Sie diese Funktion, wenn bei Ihren Spielen Fehler auftreten.</string>
   <string name="databooster_tips_title">Achtung</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="day_overflow_tips">Der tägliche Datenverbrauch überschreitet das Limit</string>
   <string name="debug_open_final_tip">USB-Debugging einschalten?</string>
   <string name="debug_open_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Benutzer möglicherweise nicht geeignet. Einschalten von USB-Debugging könnte die folgenden Änderungen mit sich bringen:</string>
@@ -1565,6 +1537,19 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gateway_exception_title">Routertest</string>
   <string name="gb_add_game_hint">Elemente aus der App-Liste hinzufügen</string>
   <string name="gb_add_game_loading_tips">Einen Moment…</string>
+  <string name="gb_adv_touch_adv_title">Klassischer Modus (Standard)</string>
+  <string name="gb_adv_touch_custom1">Wischantwort</string>
+  <string name="gb_adv_touch_custom2">Empfindlichkeit gegenüber kontinuierlichen Antippen</string>
+  <string name="gb_adv_touch_custom3">Zielgenauigkeit</string>
+  <string name="gb_adv_touch_custom4">Tippstabilität</string>
+  <string name="gb_adv_touch_custom_tip1">Eine höhere Wischreaktion erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine niedrigere Wischreaktion die Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip2">Eine höhere Empfindlichkeit für kontinuierliches Antippen erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine geringere Empfindlichkeit die Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip3">Eine höhere Zielgenauigkeit macht kleinere Wischbewegungen präziser, während eine niedrigere Zielgenauigkeit diese Geste stabiler macht.</string>
+  <string name="gb_adv_touch_custom_tip4">Eine höhere Tippstabilität macht das Tippen stabiler, während eine niedrigere Tippstabilität die Genauigkeit kleineren Wischens erhöht.</string>
+  <string name="gb_adv_touch_custom_title">Anpassen</string>
+  <string name="gb_adv_touch_mode_pro_tips">*Dieser Modus ist für professionelle Spieler gedacht. Regelmäßige Spieler könnten diesen Modus unbequem finden.</string>
+  <string name="gb_adv_touch_mode_select_title">Gesten</string>
+  <string name="gb_adv_touch_pro_title">Pro-Modus</string>
   <string name="gb_advance_settings_edge_gear1">Nichts</string>
   <string name="gb_advance_settings_edge_gear2">Klein</string>
   <string name="gb_advance_settings_edge_gear3">Mittel</string>
@@ -1777,6 +1762,20 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gtb_setting_item_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren.</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Verbindungsgeschwindigkeit um 10%%-20%% bei Verbindung mit Mi-/Redmi-Routern erhöhen</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WLAN Speed Boost</string>
+  <string name="gtb_spring_festival_back_game">Zurück zum Spiel</string>
+  <string name="gtb_spring_festival_egg_obtain_fail">Netzwerkverbindung nicht möglich</string>
+  <string name="gtb_spring_festival_goto_gameturbo">Ansicht</string>
+  <string name="gtb_spring_festival_guide">"Wechseln Sie ins Querformat,
+um an unserer Eiersuche teilzunehmen!"</string>
+  <string name="gtb_spring_festival_guide_know">Verstanden</string>
+  <string name="gtb_spring_festival_push_active_desc">Gewinnen Sie Telefone, Smart-Geräte und Gutscheine</string>
+  <string name="gtb_spring_festival_push_active_title">Die Ostereiersuche ist eröffnet!</string>
+  <string name="gtb_spring_festival_push_desc">Nehmen Sie an unserer Eiersuche teil und gewinnen Sie Preise</string>
+  <string name="gtb_spring_festival_push_egg_title">Sie haben ein Osterei erhalten!</string>
+  <string name="gtb_spring_festival_push_gift_title">Die Preise für die Eiersuche kommen!</string>
+  <string name="gtb_spring_festival_push_join">Teilnehmen</string>
+  <string name="gtb_spring_festival_push_see">Anzeigen</string>
+  <string name="gtb_spring_festival_shortcut_create">Startbildschirm-Verknüpfung erstellen</string>
   <string name="gtb_wlan_speed_tips">Mi WLAN verwenden…</string>
   <string name="gtb_setting_item_title_smart_5g">5G-Netz-Optimierung</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;u>Falscher Mobilfunkanbieter?&lt;/u>&lt;/font>"</string>
@@ -3847,6 +3846,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="summary_mms">Spam-SMS automatisch blockieren</string>
   <string name="summary_network_switch">Sicherheits-App den Internetzugriff erlauben</string>
   <string name="summary_never_flow_verify">Diese Nummer wurde von Ihrem Mobilfunkanbieter nicht verifiziert</string>
+  <string name="summary_password_manager">Mit dem Passwortmanager können Sie Ihre Passwörter verschlüsseln und in der Cloud speichern</string>
   <string name="summary_payment_risk">Anscheinend ist die Zahlungsumgebung nicht sicher</string>
   <string name="summary_permission">Unerwünschte Zahlungen vermeiden und personenbezogene Daten schützen</string>
   <string name="summary_permission_root">Anscheinend hat dieses Gerät Root-Zugriff. Dies kann die Sicherheit Ihres Geräts beeinträchtigen.</string>
@@ -4127,6 +4127,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="title_mms_yes">Nachrichtenfilter an</string>
   <string name="title_more_setting">Weitere Einstellungen</string>
   <string name="title_network_switch">Internetverbindung erlauben</string>
+  <string name="title_password_manager">Passwortmanager einschalten</string>
   <string name="title_payment_protection">Zahlungen sind sicher</string>
   <string name="title_payment_risk">Zahlungsrisiken gefunden</string>
   <string name="title_permission_no">Rechteverwaltung aus</string>
@@ -4325,6 +4326,15 @@ Wollen Sie es übernehmen?"</string>
   <string name="vb_video_effects_settings_liquid">Klarheit</string>
   <string name="vb_video_effects_settings_stereo">Lautstärke</string>
   <string name="vb_video_effects_srs_premium_sound">Ton</string>
+  <string name="vb_video_super_division">Skalieren</string>
+  <string name="vb_video_super_division_desc">"Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.
+
+Die Verwendung dieser Funktion erhöht den Stromverbrauch.
+
+Diese Funktion funktioniert nicht mit der Bewegungsglättung.
+Wenn Sie eine der Funktionen einschalten, schalten Sie die andere aus."</string>
+  <string name="vb_video_super_division_tips">"Nicht klar genug?
+Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="video_repeat">Nochmals abspielen</string>
   <string name="videobox_hangup_tips_content">Ihr Bildschirm wird gesperrt, aber die App läuft weiterhin im Hintergrund, wenn diese Funktion eingeschaltet ist. Drücken Sie die Ein/Aus-Taste, um den Bildschirm wieder einzuschalten. Diese Funktion jetzt einschalten?</string>
   <string name="videobox_hangup_tips_title">Vorsicht</string>
@@ -4336,6 +4346,8 @@ Wollen Sie es übernehmen?"</string>
   <string name="videobox_settings_manager_apps">Video-Apps verwalten</string>
   <string name="videobox_settings_switch_desc">Spezialeffekte und Funktionen für die Videowiedergabe</string>
   <string name="videobox_settings_switch_title">Video-Toolbox</string>
+  <string name="videobox_settings_timing">Alarmton</string>
+  <string name="videobox_settings_timing_desc">Stündlich einen Alarmton erhalten, der Sie an eine Pause erinnert</string>
   <string name="videobox_settings_title">Video-Toolbox</string>
   <string name="virus_ad_icon_text">Adware</string>
   <string name="virus_auto_update_engine">Automatische Updates: %s</string>
