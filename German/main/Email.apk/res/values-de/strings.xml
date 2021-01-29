@@ -403,6 +403,7 @@
   <string name="conversation_quick_button_disapprove">Abbrechen</string>
   <string name="conversation_quick_button_received">Empfangen</string>
   <string name="conversation_report_spam">Spam melden</string>
+  <string name="conversation_report_un_spam">Kein Spam</string>
   <string name="conversation_spam_dig_msg">Diese Nachricht als Spam markieren? Die Nachricht wird in den Ordner \"Spam\" verschoben und ihr Absender wird zur Sperrliste hinzugefügt.</string>
   <string name="conversation_spam_tips">Diese Nachricht als Spam markieren?</string>
   <string name="conversation_view">Unterhaltungsansicht</string>
@@ -491,6 +492,7 @@
   <string name="edit_signature">Signatur bearbeiten</string>
   <string name="editor_max_length_limit_hint">Die von Ihnen eingegebene Nachricht ist zu lang</string>
   <string name="email_address">E-Mail-Adresse</string>
+  <string name="email_no_snippet">[Diese Nachricht hat keinen Text]</string>
   <string name="email_setting">E-Mail</string>
   <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mailkonto;E-Mailkonto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-Mailkonversation;Mail Akku;Feedback senden</string>
   <string name="email_sync_failed">E-Mail synchronisieren fehlgeschlagen</string>
@@ -597,6 +599,8 @@
   <string name="general_preference_text_zoom_large">Groß</string>
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Sehr klein</string>
+  <string name="general_preference_trash_contact">Spam-Prüfung</string>
+  <string name="general_preference_trash_contact_sum">Behandlung von Briefen von Absendern, die in großer Zahl gemeldet wurden</string>
   <string name="generic_attachment_problem">Datei wurde nicht hinzugefügt</string>
   <string name="get_database_exception">Zum Löschen der App-Daten gehen Sie zu Einstellungen &gt; System-Apps und versuchen Sie es erneut</string>
   <string name="get_oauth_code">Code abrufen</string>
@@ -1368,6 +1372,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="wait_for_sync_title">Auf Synchronisation warten</string>
   <string name="wait_help_context">warten</string>
   <string name="wait_while_update_db">Datenbank aktualisieren…</string>
+  <string name="web_view_load_error_tip">Einige Probleme sind aufgetreten, und der Text dieser E-Mail kann nicht richtig angezeigt werden. Wenn Sie auf dieses Problem stoßen, fügen Sie es bitte der QQ-Gruppe 952315061 hinzu, um uns Feedback zu geben.</string>
   <string name="webview_logout">Sie können versuchen, sich erneut anzumelden</string>
   <string name="webview_logout_cancel">Jetzt nicht</string>
   <string name="webview_logout_sure">Erneut versuchen</string>

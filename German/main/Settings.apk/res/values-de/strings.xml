@@ -3025,9 +3025,10 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="estimated_charging_time_left">Bis vollgeladen</string>
   <string name="estimated_time_description">Schätzung kann sich je nach Nutzung ändern</string>
   <string name="estimated_time_left">Geschätzte Restdauer</string>
-  <string name="ethernet_data_template">^1 Ethernetdaten</string>
-  <string name="ethernet_data_usage">Ethernetdatennutzung</string>
-  <string name="ethernet_tethering_subtext">Share phone’s internet connection via USB Ethernet</string>
+  <string name="ethernet_data_template">^1 Ethernet-Daten</string>
+  <string name="ethernet_data_usage">Ethernet-Datennutzung</string>
+<string name="ethernet_tether_checkbox_text">Ethernet Tethering</string>
+  <string name="ethernet_tethering_subtext">Internetverbindung des Telefons über USB-Ethernet freigeben</string>
   <string name="every_day">Täglich</string>
   <string name="exceptional_case">Ausnahmen</string>
   <string name="exchange_account">Konto wechseln</string>
