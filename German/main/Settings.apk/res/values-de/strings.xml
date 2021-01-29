@@ -8764,6 +8764,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="users_summary">Angemeldet als %1$s</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
+  <string name="var_font_switch_title">Systemweite variable Schriftart</string>
   <string name="verify_apps_over_usb_summary">Über ADB/ADT installierte Apps auf Schadverhalten prüfen</string>
   <string name="verify_apps_over_usb_title">Apps über USB prüfen</string>
   <string name="version_text">Version %1$s</string>
