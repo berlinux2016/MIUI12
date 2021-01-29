@@ -78,6 +78,8 @@
   <string name="copy">Kopieren</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="disabled">Deaktiviert</string>
+  <string name="dnd_popup_close_message">Verstanden</string>
+  <string name="dnd_popup_message">Sie können den DND-Modus einschalten, um Anrufe und Benachrichtigungen stumm zu schalten, ohne die Medientöne abzuschalten.</string>
   <string name="early_morning">Morgen</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
@@ -342,6 +344,7 @@ Lange Lärmeinwirkung kann zu Hörproblemen führen."</string>
   <string name="wireless_charging_saver_ok">Halten</string>
   <string name="wireless_charging_tips_disable">Nicht mehr anzeigen</string>
   <string name="wireless_charging_tips_message">Platzieren Sie Geräte, die kabelloses Qi-Laden unterstützen (Telefone, Zubehör usw.), auf der Rückseite dieses Geräts.</string>
+  <string name="wireless_charging_tips_sub_message">Das andere Gerät muss kabelloses Qi-Laden unterstützen.</string>
   <string name="wireless_charging_tips_title">Kabelloses Umkehrladen</string>
   <string name="yesterday">Gestern</string>
 </resources>
