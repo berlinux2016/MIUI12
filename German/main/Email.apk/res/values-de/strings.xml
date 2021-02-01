@@ -741,7 +741,7 @@ Bitte bestätigen Sie, ob das App-Kennwort an ist. Falls es an ist, gehen Sie bi
   <string name="meeting_allday_recurring">"
   Wann:
   %s
-  (ganztägig, wiederholend)"</string>
+  (ganztägig, wiederkehrend)"</string>
   <string name="meeting_canceled">"
   Abgebrochen:
   %s
