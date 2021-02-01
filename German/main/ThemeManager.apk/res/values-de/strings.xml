@@ -1112,7 +1112,7 @@ Sie werden jede Stunde ein neues Bild sehen."</string>
   <string name="theme_component_title_alarm">Alarmton</string>
   <string name="theme_component_title_alarmstyle">Alarmstil</string>
   <string name="theme_component_title_all">Themen</string>
-  <string name="theme_component_title_aod">Always-On-Display</string>
+  <string name="theme_component_title_aod">AOD</string>
   <string name="theme_component_title_audio_effect">Töne</string>
   <string name="theme_component_title_boot_animation">Bootanimation</string>
   <string name="theme_component_title_boot_audio">Bootsound</string>
