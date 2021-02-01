@@ -729,17 +729,48 @@ Bitte bestätigen Sie, ob das App-Kennwort an ist. Falls es an ist, gehen Sie bi
   <string name="mark_unread">Als ungelesen markieren</string>
   <string name="me_object_pronun">ich</string>
   <string name="me_subject_pronun">ich</string>
-  <string name="meeting_accepted">Akzeptiert: %s</string>
-  <string name="meeting_allday">Wann: %s (ganztägig)</string>
-  <string name="meeting_allday_recurring">Wann: %s (ganztägig, wiederholend)</string>
-  <string name="meeting_canceled">Abgebrochen: %s</string>
-  <string name="meeting_declined">Abgelehnt: %s</string>
-  <string name="meeting_recurring">Wann: %s (wiederkehrend)</string>
+  <string name="meeting_accepted">"
+  Akzeptiert:
+  %s
+"</string>
+  <string name="meeting_allday">"
+  Wann: 
+  %s
+  (ganztägig)
+"</string>
+  <string name="meeting_allday_recurring">"
+  Wann:
+  %s
+  (ganztägig, wiederholend)"</string>
+  <string name="meeting_canceled">"
+  Abgebrochen:
+  %s
+"</string>
+  <string name="meeting_declined">"
+  Abgelehnt:
+  %s
+"</string>
+  <string name="meeting_recurring">"
+  Wann:
+  %s
+  (wiederkehrend)
+"</string>
   <string name="meeting_responded_failed">Keine Antwort</string>
-  <string name="meeting_tentative">Vorläufig: %s</string>
-  <string name="meeting_updated">Aktualisiert: %s</string>
-  <string name="meeting_when">Wann: %s</string>
-  <string name="meeting_where">Wo: %s</string>
+  <string name="meeting_tentative">"
+  Vorläufig:
+  %s
+"</string>
+  <string name="meeting_updated">"
+  Aktualisiert:
+  %s
+"</string>
+  <string name="meeting_when">"
+  Wann:
+  %s
+"</string>
+  <string name="meeting_where">"Wo:
+  %s
+"</string>
   <string name="menu_att_mgr">Anhänge</string>
   <string name="menu_att_mgr_order_default">Zuletzt angesehen</string>
   <string name="menu_att_mgr_order_rev_date">Datum</string>
@@ -845,6 +876,7 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="ntes_do_not_sms_uplink">Senden Sie eine SMS von der zugehörigen Telefonnummer und tippen Sie dann auf \"Nachricht gesendet\".</string>
   <string name="ntes_had_send">Nachricht gesendet</string>
   <string name="ntes_had_send_to_content">Wenn Sie bereits eine SMS von der zugehörigen Telefonnummer gesendet haben, tippen Sie auf \"Nachricht gesendet\", um fortzufahren.</string>
+  <string name="ntes_login_auth_too_much">Die Anzahl Ihrer Bestätigungscodes hat die Obergrenze von 5 erreicht. Auf der Webseite bei Ihrer NetEase-Mailbox anmelden, um nicht verwendete Bestätigungscodes zu löschen</string>
   <string name="ntes_login_error_message" formatted="false">Keine Kontoinformation erhalten (Fehler %s). %s.</string>
   <string name="ntes_password_error_hint">Wenn bei der Eingabe Ihres Passworts Fehler auftreten, schließen Sie diese Seite und öffnen Sie sie erneut.</string>
   <string name="ntes_phone_send">Textnachricht von der zugehörigen Telefonnummer senden</string>
@@ -1078,9 +1110,21 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="quick_search_add_account">Konto hinzufügen</string>
   <string name="quick_search_conversation_list">Hauptschnittstelle</string>
   <string name="quick_search_email_setting">E-Maileinstellungen</string>
+  <string name="quote_divider_1">---- Ursprüngliche Nachricht ----</string>
+  <string name="quote_divider_11">---- Originalnachricht ----</string>
+  <string name="quote_divider_12">---- Ursprüngliche Nachricht ----</string>
+  <string name="quote_divider_2">---- Ursprüngliche Nachricht ----</string>
+  <string name="quote_divider_3">---- Originalnachricht ----</string>
+  <string name="quote_divider_4">---- Originale E-Mail ----</string>
+  <string name="quote_divider_5">---- Trennlinie als Referenz ----</string>
+  <string name="quote_divider_6">--- Original ---</string>
   <string name="quote_divider_7">Originalnachricht</string>
+  <string name="quote_divider_huawei_zh">Vom Huawei-Telefon</string>
+  <string name="quote_divider_ipad_zh">Mein iPad</string>
   <string name="quote_divider_iphone_en">Von meinem iPhone gesendet</string>
   <string name="quote_divider_iphone_fwd_en">Anfang weitergeleitete Nachricht:</string>
+  <string name="quote_divider_iphone_fwd_zh">Folgendes ist eine weitergeleitete E-Mail:</string>
+  <string name="quote_divider_qq_en">---- Original ----</string>
   <string name="quoted_text">Zitierten Text einfügen</string>
   <string name="quoted_text_label">Zitierter Text</string>
   <string name="re_download_message_button">Tippen, um erneut runterzuladen</string>
@@ -1216,7 +1260,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="server_cet_issuer_no_trust">Aussteller des Zertifikats ist keine vertrauenswürdige Organisation.</string>
   <string name="server_cet_subject_cn">"Unterstützte Domain: "</string>
   <string name="server_cet_title">Zertifikatsdetails</string>
-  <string name="server_log">Dienstvereinbarung</string>
+  <string name="server_log">Servicevertrag</string>
   <string name="service_protocol_discribe">&lt;u&gt;Ich habe den WPS Mail-Servicevertrag gelesen und bin damit einverstanden&lt;/u&gt;</string>
   <string name="service_protocol_title">Servicevertrag</string>
   <string name="set_network">Netzwerk konfigurieren</string>
@@ -1239,6 +1283,10 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="sms_tip">Authentifizierung fehlgeschlagen. Prüfen Sie, ob die Antiviren-Software Ihre SMS abfängt.</string>
   <string name="smtp_password_error">Passwort des Postausgangsservers ist ungültig</string>
   <string name="sort_attachment">Sortiere nach</string>
+  <string name="special_text_1">schrieb:</string>
+  <string name="special_text_2">schrieb：</string>
+  <string name="special_text_3">schrieb:</string>
+  <string name="special_text_4">schrieb：</string>
   <string name="special_text_5">schrieb:</string>
   <string name="special_text_sender_en">Absender</string>
   <string name="storage">Speicher</string>
@@ -1393,7 +1441,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="xiaomi_email">E-Mail</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">%s neue Version</string>
   <string name="xiaomi_under_certification">Autorisieren…</string>
   <string name="yes">Ja</string>
   <string name="you_are_in_mobile_network">Protokoll über mobile Daten senden?</string>
