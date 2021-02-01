@@ -177,6 +177,7 @@
   <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>Diese Funktion verwendet Antiviren-Definitionen von Avast und AVL. Lesen Sie die zugehörigen &lt;a href=\"%1$s\">Lizenzvereinbarungen&lt;/a>, um mehr zu erfahren.&lt;/Data></string>
   <string name="antivirus_privacy_dialog_title">Datenschutzerklärung</string>
   <string name="antivirus_sec_network_unavailable">Sicherheits-App kann nicht aktualisiert werden, da Sie die Internetverbindung eingeschränkt haben. Erlauben Sie Sicherheit die Internetverbindung?</string>
+  <string name="antivirus_third_privacy_title">Datenschutzerklärung von Drittanbietern</string>
   <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
   <string name="antivirus_toast_network_unavailable">Keine Netzwerkverbindung</string>
   <string name="antivirus_toast_update_failed">Aktualisieren fehlgeschlagen</string>
@@ -1519,6 +1520,9 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_immersion_tips_content">Immersive Mode schränkt die Funktionalität der SIM-Karte bis auf die mobile Datenverbindung ein. Sie werden weder durch Anrufe unterbrochen noch erhalten Sie Benachrichtigungen über verpasste Anrufe. Alle Funktionen der SIM-Karte werden wiederhergestellt, wenn der Immersive Mode ausgeschaltet ist. Immersive Mode einschalten?</string>
   <string name="gamebox_immersion_tips_title">Achtung</string>
   <string name="gamebox_immerson_open">Immersive Mode einschalten, Netzwerk nicht wechseln…</string>
+  <string name="gamebox_macro">Kombinationen</string>
+  <string name="gb_game_macro_bubble_tips">Kombinationen ausprobieren</string>
+  <string name="gb_game_macro_toast_tips">Kombinationen ausprobieren!\nSequenzen aufnehmen und sie jederzeit verwenden!</string>
   <string name="gamebox_manual_record">Aufnahme</string>
   <string name="gamebox_milink">Übertragen</string>
   <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
