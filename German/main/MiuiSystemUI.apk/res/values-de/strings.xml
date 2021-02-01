@@ -681,6 +681,7 @@ Abtastrate"</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
   <string name="content_description_menu_button">Menü</string>
+  <string name="control_center_notification_switch_guide">Wischen, um zwischen Kontrollzentrum und Benachrichtigungsleiste zu wechseln</string>
   <string name="controls_added_tooltip">Einschalttaste gedrückt halten, um neue Steuerungen zu sehen</string>
   <string name="controls_confirmation_confirming">Bestätigen…</string>
   <string name="controls_confirmation_message">Änderung für %s bestätigen</string>

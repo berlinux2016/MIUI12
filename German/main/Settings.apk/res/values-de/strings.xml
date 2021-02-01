@@ -9689,6 +9689,7 @@ Diese Funktion wird automatisch ausgeschaltet, wenn der Ladevorgang nicht innerh
   <string name="wizard_finish">Fertig</string>
   <string name="wizard_next">Weiter</string>
   <string name="wlan_to_cellular_hint_title">WLAN-&gt;Mobilfunktipp</string>
+  <string name="wlan_scanner_unresizeble">WLAN-Einstellungen können im Geteilter Bildschirm-Modus nicht angezeigt werden</string>
   <string name="work_alarm_ringtone_title">Standard-Arbeitsalarmton</string>
   <string name="work_mode_label">Arbeitsprofil</string>
   <string name="work_mode_off_summary">Apps und Benachrichtigungen sind aus</string>

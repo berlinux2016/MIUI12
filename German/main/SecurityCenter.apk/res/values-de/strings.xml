@@ -29,6 +29,7 @@
   <string name="Setting_lock">Einstellungen</string>
   <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
   <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
+  <string name="Settings_title_anti_virus_kddi">Einstellungen Sicherheitsscan</string>
   <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
   <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
   <string name="Settings_title_power_center">Einstellungen Akku-Optimierung</string>
@@ -88,6 +89,7 @@
   <string name="actionbar_button_up_description">Zurück</string>
   <string name="activity_title_antispam">Sperrliste</string>
   <string name="activity_title_antivirus">Virenscanner</string>
+  <string name="activity_title_antivirus_kddi">Sicherheitsscan</string>
   <string name="activity_title_create_shortcut">Verknüpfungen verwalten</string>
   <string name="activity_title_garbage_cleanup">Bereinigung</string>
   <string name="activity_title_license_manager">Rechte</string>
@@ -171,11 +173,13 @@
   <string name="antivirus_privacy_dialog_cloudscan">App-Namen und Details hochladen</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Um Viren effektiver zu erkennen und zu neutralisieren, werden wir die Paketnamen und Eigenschaften der Apps hochladen, um sie mit einer Cloud-Engine zu scannen.</string>
   <string name="antivirus_privacy_dialog_summary">&lt;Data>Diese Funktion wird von einer Antiviren-Engine eines Drittanbieters unterstützt. Lesen Sie die &lt;a href=\"%1$s\">Lizenzvereinbarung&lt;/a> des Drittanbieters, um mehr zu erfahren.&lt;/Data></string>
+  <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Wenn Sie einen Sicherheitsscan durchführen, werden Ihr Gerätemodell und die Scan-Ergebnisse auf %1$s-Server hochgeladen und in Übereinstimmung mit den entsprechenden &lt;a href=\"%2$s\">allgemeinen Geschäftsbedingungen&lt;/a> verwendet.&lt;br/>&lt;br/>Lesen und akzeptieren Sie die allgemeinen Geschäftsbedingungen von %3$s, bevor Sie Sicherheitsscans durchführen.&lt;br/>&lt;br/>Wenn Sie dem Hochladen von Daten auf %4$s-Server nicht zustimmen, können Sie trotzdem die lokal auf Ihrem Gerät gespeicherten Virendefinitionen verwenden."</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Datenschutzerklärung</string>
   <string name="antivirus_privacy_dialog_summary_new">&lt;Data>Diese Funktion verwendet Antiviren-Definitionen von Avast, AVL und Tencent. Lesen Sie die zugehörigen &lt;a href=\"%1$s\">Lizenzvereinbarungen&lt;/a>, um mehr zu erfahren.&lt;/Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>Diese Funktion verwendet Antiviren-Definitionen von AVL und Tencent. Lesen Sie die zugehörigen &lt;a href=\"%1$s\">Lizenzvereinbarungen&lt;/a>, um mehr zu erfahren.&lt;/Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>Diese Funktion verwendet Antiviren-Definitionen von Avast und AVL. Lesen Sie die zugehörigen &lt;a href=\"%1$s\">Lizenzvereinbarungen&lt;/a>, um mehr zu erfahren.&lt;/Data></string>
   <string name="antivirus_privacy_dialog_title">Datenschutzerklärung</string>
+  <string name="antivirus_privacy_dialog_title_kddi">Allgemeine Geschäftsbedingungen</string>
   <string name="antivirus_sec_network_unavailable">Sicherheits-App kann nicht aktualisiert werden, da Sie die Internetverbindung eingeschränkt haben. Erlauben Sie Sicherheit die Internetverbindung?</string>
   <string name="antivirus_third_privacy_title">Datenschutzerklärung von Drittanbietern</string>
   <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
@@ -2109,6 +2113,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="menu_summary_power_manager_4">%sbis voll geladen</string>
   <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Virenscanner</string>
+  <string name="menu_text_antivirus_kddi">Sicherheitsscan</string>
   <string name="menu_text_deepclean_summary">%1$s/%2$s belegt</string>
   <string name="menu_text_garbage_cleanup">Müllbeseitigung</string>
   <string name="menu_text_garbage_cleanup_danger">%s Müll</string>
@@ -3415,6 +3420,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="see_all_app_behavior_record">Alle App-Verhaltensweisen anzeigen</string>
   <string name="see_more_content">Spiele für weitere Highlights aktualisieren</string>
   <string name="select_province_and_city">Bitte eine Stadt auswählen</string>
+  <string name="send">Senden</string>
   <string name="send_msg_to_query">Hilfe beim kostenlosen SMS-Versand zur Überprüfung</string>
   <string name="set_applock_password">Passwort setzen</string>
   <string name="set_complete">Einstellen</string>

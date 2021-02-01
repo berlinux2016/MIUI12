@@ -95,6 +95,8 @@
   <string name="category_type_meida">Medien</string>
   <string name="category_type_other">Andere</string>
   <string name="category_zip">Archive</string>
+  <string name="cdd_message">Wegen Android 11-Einschränkungen können Sie einige der Dateien, die in den Apps von Drittanbietern erzeugt werden, nicht im Dateimanager anzeigen.</string>
+  <string name="cdd_title">Achtung</string>
   <string name="change_sticker">Einen anderen Sticker wählen</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
@@ -321,6 +323,7 @@
   <string name="gender_choose_tip">Geben Sie Ihr Geschlecht an</string>
   <string name="get_user_info_err">Keine Informationen zu dieser Person erhalten</string>
   <string name="get_verification_code_fail">Keinen Verifikationscode erhalten</string>
+  <string name="go_ahead">Öffnen</string>
   <string name="grid_mode">Rasteransicht</string>
   <string name="group_title">%2$s von %1$s</string>
   <string name="group_title_extra_backup">Sicherungen</string>
@@ -423,6 +426,7 @@
   <string name="midrop_msg_2">Wenn Mi Drop eingeschaltet ist, können Sie nach Geräten in der Nähe suchen und Dateien senden</string>
   <string name="midrop_send_files">Dateien zum Senden auswählen</string>
   <string name="mirror_can_not_drag_mask">Ziehen, um Mi Share zu verwenden</string>
+  <string name="mirror_can_not_drag_mask_new">Elemente in %s ziehen</string>
   <string name="mirror_new_name">Ordner erstellen (%s)</string>
   <string name="mirror_new_name_first">Ordner erstellen</string>
   <string name="mirror_no_recommended_app">Keine empfohlenen Apps</string>
@@ -432,6 +436,7 @@
   <string name="mirror_progress_copy">Kopieren…</string>
   <string name="mirror_side_bar_tab_phone_name">Speicher Mobiltelefon</string>
   <string name="mirror_side_bar_tab_recent_name">Kürzlich</string>
+  <string name="mirror_side_bar_tab_tranfer_name">Übertragungen &amp; Downloads</string>
   <string name="mirror_side_bar_tab_type_name">Dateien</string>
   <string name="mirror_storage_internal_desc">Speicher Mobiltelefon</string>
   <string name="mirror_tip_add_file">Ordner erstellen</string>
@@ -963,8 +968,10 @@
   <string name="topic_followed">Ich folge</string>
   <string name="topic_title">Themen</string>
   <string name="topic_winners">Die letzten Gewinner</string>
+  <string name="transfer">Übertragungen &amp; Downloads</string>
   <string name="transfer_done">Dateien erfolgreich verschoben</string>
   <string name="transfer_private_data">Private Dateien von der SD-Karte verschieben…</string>
+  <string name="transfer_summary">Downloads und über Mi Share übertragene Elemente</string>
   <string name="transition_image">Übergangsbild</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
