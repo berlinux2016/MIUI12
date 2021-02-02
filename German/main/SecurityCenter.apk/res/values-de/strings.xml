@@ -691,6 +691,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
   <string name="battery_stats_screen_on_label">Bildschirm</string>
   <string name="battery_stats_wake_lock_label">Aktiv</string>
+  <string name="battery_stats_wifi_running_label">WLAN</string>
   <string name="battery_status_good">Arbeitet normal</string>
   <string name="battery_status_level_excellent">Ausgezeichnet</string>
   <string name="battery_status_level_good">Gut</string>
