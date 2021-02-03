@@ -7371,6 +7371,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="sms_received_sound_title">Nachricht empfangen</string>
   <string name="sms_title">Nachrichten</string>
   <string name="snooze_options_title">Benachrichtigung beim Schlummern zulassen</string>
+  <string name="softbank_apn_lock_toast">APN ist gesperrt. Nicht editierbar.</string>
   <string name="software_backup_info">App-Daten</string>
   <string name="software_version">Software-Version</string>
   <string name="sometimes_running">Läuft manchmal (%s)</string>

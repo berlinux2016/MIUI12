@@ -685,10 +685,10 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="todo_edit_btn_today">Heute</string>
   <string name="todo_edit_btn_tomorrow">Morgen</string>
   <string name="todo_edit_text_hint">Aufgabenbeschreibung eingeben</string>
-  <string name="todo_event_description_a_week_ago">Vor 1 Woche</string>
-  <string name="todo_event_description_a_week_later">In 1 Woche</string>
-  <string name="todo_event_description_day_after_tomorrow">In 2 Tagen</string>
-  <string name="todo_event_description_day_before_yesterday">Vor 2 Tagen</string>
+  <string name="todo_event_description_a_week_ago">Vor %1$d Woche</string>
+  <string name="todo_event_description_a_week_later">In %1$d Woche</string>
+  <string name="todo_event_description_day_after_tomorrow">In %1$d Tagen</string>
+  <string name="todo_event_description_day_before_yesterday">Vor %1$d Tagen</string>
   <string name="todo_event_description_today">Heute</string>
   <string name="todo_event_description_tomorrow">Morgen</string>
   <string name="todo_event_description_yesterday">Gestern</string>
@@ -745,7 +745,7 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="toolbar_undo_description">Rückgängig</string>
   <string name="toolbar_voice_description">Stimme</string>
   <string name="trash_folder_name">Papierkorb</string>
-  <string name="trash_folder_reminder">Gelöschte Notizen werden in 30 Tagen dauerhaft gelöscht.</string>
+  <string name="trash_folder_reminder">Gelöschte Notizen werden nach 30 Tagen dauerhaft gelöscht.</string>
   <string name="trash_folder_reminder_new">Notizen werden %d Tage lang im Papierkorb aufbewahrt, bevor sie endgültig gelöscht werden</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
