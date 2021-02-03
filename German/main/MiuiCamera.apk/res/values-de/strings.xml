@@ -383,7 +383,6 @@ und optimiert Ihre Fotos anhand dieser Informationen."</string>
   <string name="beauty_skincolor_white">Elfenbein</string>
   <string name="beauty_tab_name_live_beauty">Verschönern</string>
   <string name="beauty_tab_name_live_filter">Filter</string>
-  <string name="film_video_e_tip">Unterstützt nur Landschafts-/Querformat-Aufnahmen</string>
   <string name="bg_replacement_message">"Stellen Sie Ihr Gerät auf eine stabile Oberfläche
 und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="bokeh_use_hint">Tiefeneffekt</string>
@@ -765,6 +764,7 @@ ausrichten und verbessern"</string>
   <string name="film_video_c">Zeitraffer</string>
   <string name="film_video_d">Nacht-Zeitraffer</string>
   <string name="film_video_e">Parallelwelt</string>
+  <string name="film_video_e_tip">Unterstützt nur Landschafts-/Querformat-Aufnahmen</string>
   <string name="film_video_tip">Bitte zum Fotografieren ein Stativ verwenden</string>
   <string name="find_cloud_album">Cloudalbum QR-Code suchen</string>
   <string name="find_market_qrcode">Market QR-Code suchen</string>
