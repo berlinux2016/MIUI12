@@ -55,7 +55,7 @@
     <string name="gb_game_macro_button_small">Klein</string>
     <string name="gb_game_macro_config_prefix">%d Kombination</string>
     <string name="gb_game_macro_create_button">Kombination erstellen</string>
-    <string name="gb_game_macro_create_macro">Erstlellen</string>
+    <string name="gb_game_macro_create_macro">Erstellen</string>
     <string name="gb_game_macro_create_message">Auf die Taste unten tippen, um die Aufnahme einer Kombination zu starten.</string>
     <string name="gb_game_macro_delete">Löschen</string>
     <string name="gb_game_macro_enable">Aus</string>
