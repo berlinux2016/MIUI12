@@ -37,6 +37,7 @@
   <string name="gb_game_macro_action_speed_desc">Geschwindigkeit der Aktion anpassen</string>
   <string name="gb_game_macro_action_track">Gesten visualisieren</string>
   <string name="gb_game_macro_action_track_desc">Tippen und wischen visualisieren</string>
+  <string name="gb_game_macro_action_unit_times">%sx</string>
   <string name="gb_game_macro_apply">Anwenden</string>
   <string name="gb_game_macro_button_alpha">Tastentransparenz</string>
   <string name="gb_game_macro_button_big">Groß</string>
@@ -69,7 +70,7 @@
   <string name="number_times">Anzahl, wie oft die Aktion ausgeführt wird</string>
   <string name="one_guide_introduce">Auf \"Neu\" tippen, um ein Makro zu erstellen</string>
   <string name="operation_track">Bedienerspur</string>
-  <string name="operation_track_explain">Ob die Punktschiebeoperation sichtbar ist</string>
+  <string name="operation_track_explain">Gibt an, ob die Punktschiebeoperation sichtbar ist</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
   <string name="play_delay">Spielverzögerung</string>
   <string name="play_delay_explain">Mit der Funktion zum Aushängen des Bildschirms verwenden</string>
