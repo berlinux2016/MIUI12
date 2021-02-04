@@ -745,7 +745,7 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="toolbar_undo_description">Rückgängig</string>
   <string name="toolbar_voice_description">Stimme</string>
   <string name="trash_folder_name">Papierkorb</string>
-  <string name="trash_folder_reminder">Gelöschte Notizen werden nach 30 Tagen dauerhaft gelöscht.</string>
+  <string name="trash_folder_reminder">Gelöschte Notizen werden nach %1$d Tagen dauerhaft gelöscht.</string>
   <string name="trash_folder_reminder_new">Notizen werden %d Tage lang im Papierkorb aufbewahrt, bevor sie endgültig gelöscht werden</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>

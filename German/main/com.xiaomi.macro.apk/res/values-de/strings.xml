@@ -20,7 +20,7 @@
   <string name="app_name">MiMacro</string>
   <string name="brvah_app_name">Bibliothek</string>
   <string name="brvah_load_end">Keine Daten vorhanden</string>
-  <string name="brvah_load_failed">Laden fehlgeschlagen, bitte tippen Sie, um es erneut zu versuchen</string>
+  <string name="brvah_load_failed">Laden fehlgeschlagen, bitte tippen, um es erneut zu versuchen</string>
   <string name="brvah_loading">Laden…</string>
   <string name="cancel">Abbrechen</string>
   <string name="character_counter_content_description">Zeichenbegrenzung überschritten: %1$d von %2$d</string>
@@ -49,7 +49,7 @@
   <string name="gb_game_macro_create_message">Auf die Taste unten tippen, um die Aufnahme einer Kombination zu starten.</string>
   <string name="gb_game_macro_delete">Löschen</string>
   <string name="gb_game_macro_enable">Aus</string>
-  <string name="gb_game_macro_guide_tips">Nach dem Start mehrere Aktionen ausführen, um sie in einer Kombination zu kombinieren.</string>
+  <string name="gb_game_macro_guide_tips">Nach dem Start mehrere Aktionen ausführen, um sie in einer Kombination zu vereinen.</string>
   <string name="gb_game_macro_guide_tips_two">Hier tippen, um eine Taste zuzuweisen</string>
   <string name="gb_game_macro_play_count">Anzahl der Wiederholungen</string>
   <string name="gb_game_macro_preview">Vorschau</string>
@@ -68,11 +68,11 @@
   <string name="notification_title">Makro</string>
   <string name="number_times">Anzahl, wie oft die Aktion ausgeführt wird</string>
   <string name="one_guide_introduce">Auf \"Neu\" tippen, um ein Makro zu erstellen</string>
-  <string name="operation_track">operation track</string>
-  <string name="operation_track_explain">Whether the point slide operation is visible</string>
+  <string name="operation_track">Bedienerspur</string>
+  <string name="operation_track_explain">Ob die Punktschiebeoperation sichtbar ist</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
   <string name="play_delay">Spielverzögerung</string>
-  <string name="play_delay_explain">Use with the function of hanging off the screen</string>
+  <string name="play_delay_explain">Mit der Funktion zum Aushängen des Bildschirms verwenden</string>
   <string name="play_delay_not_null_tips">Verzögerung einstellen</string>
   <string name="play_speed">Wiedergabegeschwindigkeit</string>
   <string name="play_speed_explain">Multiplikator für die Wiedergabegeschwindigkeit einstellen</string>

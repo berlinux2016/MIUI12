@@ -599,6 +599,14 @@ auswahl"</string>
   <string name="description">Beschreibung</string>
   <string name="details">Details</string>
   <string name="details_title">%1$d von %2$d Elementen:</string>
+  <string name="dialog_button_accept">Akzeptieren</string>
+  <string name="dialog_button_back">Zurück</string>
+  <string name="dialog_button_cancel">Abbrechen</string>
+  <string name="dialog_button_connect">Verbinden</string>
+  <string name="dialog_button_disconnect">Beenden</string>
+  <string name="dialog_button_exit">Ausschalten</string>
+  <string name="dialog_button_reject">Ablehnen</string>
+  <string name="dialog_button_scan">Nach Geräten suchen</string>
   <string name="dialog_google_lens_option_0">Google Lens (empfohlen)</string>
   <string name="dirty_tip_toast">Linse ist verschmutzt. Reinigen Sie sie.</string>
   <string name="disable_video_snapshot_hint">Videoschnappschuss ist aus, wenn Spezialeffekte aktiviert sind</string>
@@ -1118,7 +1126,12 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="network_access_user_notice_message_sticker">&lt;Data>"Kamera benötigt eine Internetverbindung, um Sticker für diese Funktion zu erhalten.&lt;br/>&lt;br/> Wenn Sie unten auf \"Zustimmen\" tippen, akzeptieren Sie unsere &lt;a href ="%1$s">Nutzervereinbarung&lt;/a> und &lt;a href ="%2$s">Datenschutzerklärung&lt;/a>, und erlauben Kamera die Internetverbindung."&lt;/Data></string>
   <string name="network_access_user_notice_message_voice_caption">&lt;Data>"Kamera benötigt eine Internetverbindung, um die Sprache-zu-Text-Ausgabe zu ermöglichen.&lt;br/>&lt;br/> Wenn Sie unten auf \"Zustimmen\" tippen, akzeptieren Sie unsere &lt;a href ="%1$s">Nutzervereinbarung&lt;/a> und &lt;a href ="%2$s">Datenschutzerklärung&lt;/a>, und erlauben Kamera die Internetverbindung."&lt;/Data></string>
   <string name="network_access_user_notice_title">Internetverbindung herstellen</string>
+  <string name="network_connection_failed">Verbinden nicht möglich</string>
   <string name="network_connection_ongoing">Verbinden</string>
+  <string name="network_connection_prerequisites">Schalten Sie Bluetooth und Wi-Fi ein, um die Duale Telefonaufnahme nutzen zu können.</string>
+  <string name="network_connection_prerequisites_china">Schalten Sie Bluetooth und WLAN ein, um die Duale Telefonaufnahme nutzen zu können.</string>
+  <string name="network_connection_rejected">Abgelehnt</string>
+  <string name="network_connection_timed_out">Zeitüberschreitung Verbindung</string>
   <string name="no_item_selected_label">Nichts ausgewählt</string>
   <string name="no_save">Nicht speichern</string>
   <string name="no_storage">Vor Benutzung der Kamera SD-Karte einlegen</string>
@@ -1627,6 +1640,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_userdefine_watermark_title">Benutzerdefiniertes Wasserzeichen</string>
   <string name="pref_video_captrue_ability_title">Fotos während der Aufnahme machen (mehr Akkuverbrauch!)</string>
   <string name="pref_video_capture_repeating_title">Während der Videoaufnahme regelmäßig Bilder aufnehmen</string>
+  <string name="pref_video_cast_setting_summary">Einschalten, um ein Video mit mehreren Geräten aufnehmen zu können</string>
+  <string name="pref_video_cast_setting_title">Duale Telefonaufnahme</string>
   <string name="pref_video_denoise_off">Aus</string>
   <string name="pref_video_denoise_on">Ein</string>
   <string name="pref_video_denoise_title">Rauschfilter</string>
@@ -1709,9 +1724,16 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="refocus_type_relighting_small_face">Studiobeleuchtung arbeitet mit Fotos, bei denen Gesichter mehr Platz einnehmen als hier.</string>
   <string name="refocus_type_static">Unschärfegrad</string>
   <string name="refocus_type_video">Lichtspuren</string>
+  <string name="remote_online_connecting">Verfügbare Geräte</string>
+  <string name="remote_online_disconnect_confirmation">Verbindung zu %1$s abbrechen?</string>
+  <string name="remote_online_exit_confirmation">Verbindung zu %1$s abbrechen?</string>
   <string name="remote_online_exit_connecting">Möchten Sie die Aufzeichnung mehrerer Multi-Kameras trennen und beenden?</string>
+  <string name="remote_online_guide">Schalten Sie die Duale Telefonaufnahme auf dem anderen Gerät über die Benachrichtigungsleiste ein.</string>
+  <string name="remote_online_interrupted">Getrennt. Erneut verbinden, um fortzufahren.</string>
   <string name="remote_online_introduction_i">Multi-Kamera-Aufnahmefunktion unterstützt zwei Mobiltelefone, um Bilder aus verschiedenen Blickwinkeln aufzunehmen und zu einem Video zu kombinieren. Sie können die Videovorschau und das Filmen von zwei Telefonen über dieses Gerät anzeigen und nur die Tonaufnahme dieses Geräts unterstützen.</string>
   <string name="remote_online_introduction_ii">Der andere Teilnehmer muss den \"Multi-Kamera-Aufnahme\"-Schalter in der Dropdown-Benachrichtigungsleiste aktivieren. Es werden nur Telefone mit der Kamerafunktion \"Multi-Kamera-Aufnahme\" unterstützt.</string>
+  <string name="remote_online_searching">Nach Geräten suchen…</string>
+  <string name="remote_online_service_name">Duale Telefonaufnahme</string>
   <string name="remote_online_setup_wizard_button_back">Zurück</string>
   <string name="remote_online_setup_wizard_button_cancel">Abbrechen</string>
   <string name="remote_online_setup_wizard_button_confirm">Bestätigen</string>
@@ -1730,8 +1752,11 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="remote_online_setup_wizard_title_not_found">Kein Gerät zum Verbinden gefunden</string>
   <string name="remote_online_setup_wizard_title_searching">Gerät suchen</string>
   <string name="remote_online_setup_wizard_title_waiting">Auf die Verbindung des anderen Teilnehmers warten…</string>
-  <string name="reset_manually_parameter_hint">Zurücksetzen</string>
+  <string name="remote_online_unavailable">Keine Geräte in der Nähe gefunden</string>
+  <string name="remote_online_waiting">Warten auf die Verbindung des anderen Geräts…</string>
+  <string name="remote_online_whats">Wie funktioniert die Duale Telefonaufnahme?</string>
   <string name="reset_manual_picture_style_toast">Parameter erfolgreich zurückgesetzt</string>
+  <string name="reset_manually_parameter_hint">Zurücksetzen</string>
   <string name="resume_playing_message">Wiedergabe ab %s fortsetzen?</string>
   <string name="resume_playing_restart">Von vorn abspielen</string>
   <string name="resume_playing_resume">Wiedergabe fortsetzen</string>
@@ -1935,6 +1960,7 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="video_bokeh_zoom_in">Vergrößern</string>
   <string name="video_bokeh_zoom_out">Verkleinern</string>
   <string name="video_camera_label">Videokamera</string>
+  <string name="video_cast_connecting">Verbindung wird hergestellt, bitte warten…</string>
   <string name="video_cast_dialog_button_accept">Akzeptieren</string>
   <string name="video_cast_dialog_button_cancel">Abbrechen</string>
   <string name="video_cast_dialog_button_disconnect">Trennen</string>
@@ -1942,13 +1968,16 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="video_cast_dialog_msg_disconnect">Sind sie nicht verbunden?</string>
   <string name="video_cast_dialog_msg_invitation">%s lädt Sie zur Online-Aufnahme ein</string>
   <string name="video_cast_dialog_title">Sind Sie nicht verbunden?</string>
+  <string name="video_cast_exit_warning">Ihr Feed wird für das andere Gerät nicht verfügbar sein.</string>
+  <string name="video_cast_inviting">%1$s möchte die Duale Telefonaufnahme mit diesem Gerät verwenden.</string>
+  <string name="video_cast_notification_content">Zum Anhalten tippen</string>
+  <string name="video_cast_notification_title">Mehrere Kameras im Hintergrund verwenden…</string>
   <string name="video_cast_service_error">Fehler beim Starten des Hintergrunddienstes für die Aufzeichnung mehrerer Geräte</string>
   <string name="video_cast_service_name">Mehr-Geräte-Verbindungsaufnahme</string>
   <string name="video_cast_state_advertising">Hintergrundservice für die gemeinsame Aufzeichnung mehrerer Geräte</string>
   <string name="video_cast_state_exited">Abgemeldet</string>
   <string name="video_cast_state_paused">Pause</string>
   <string name="video_cast_tap_to_stop_advertising">Tippen, um anzuhalten</string>
-  <string name="video_cast_connecting">Verbindung wird hergestellt, bitte warten…</string>
   <string name="video_effect_entry_blackwhite">Schwarz-Weiß</string>
   <string name="video_effect_entry_bygone">Vergangen</string>
   <string name="video_effect_entry_central">Zentral</string>
