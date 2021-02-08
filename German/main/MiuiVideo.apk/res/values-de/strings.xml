@@ -129,7 +129,7 @@
   <string name="day">Tag</string>
   <string name="debug_mode">Debug-Modus</string>
   <string name="debug_mode_desc">Einschalten, um die ID auf dem Symbol anzuzeigen</string>
-  <string name="declare_get_accounts">Für IMEI-Zugriff IMEI, um Ihr Gerät zu identifizieren und den Netzwerkstatuszugriff, um Dienste bereitzustellen</string>
+  <string name="declare_get_accounts">Für IMEI-Zugriff, um Ihr Gerät zu identifizieren und den Netzwerkstatuszugriff, um Dienste bereitzustellen</string>
   <string name="declare_read_phone_state">Zum Anmelden im Mi-Konto</string>
   <string name="declare_storage">Für den Zugriff auf, die Wiedergabe und die Verwaltung lokale/r Videos</string>
   <string name="delete">Löschen</string>
