@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_store_clip_data_array">
+        <item>炒鸡棒的软件，想看的小说都找得到。</item>
+        <item>找了很久的免费阅读软件就是TA了！</item>
+        <item>书库齐全，免费不花钱，一般人我不告诉他！</item>
+        <item>新一代追书神器！</item>
+        <item>赞赞赞！果断抛弃掉其他APP就留这一个了~~</item>
+        <item>别人推荐下载的，几万本目测能看一辈子。</item>
+        <item>一个字，爽，免费小说看到爽！</item>
+        <item>哇！好多小姐姐在这里看书。</item>
+        <item>良心软件，而且不要钱，目测会火。</item>
+        <item>超级免费爽文应有尽有👍</item>
+    </string-array>
+    <string-array name="baidu">
+        <item>百度</item>
+        <item>Baidu.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="baidu_in_list">
+        <item>search_baidu</item>
+        <item>ic_search_engine_baidu</item>
+        <item>baidu</item>
+    </string-array>
+    <string-array name="bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
+    </string-array>
+    <string-array name="bookmarks_zh">
+        <item>小米论坛</item>
+        <item>http://bbs.xiaomi.cn/</item>
+        <item>百度</item>
+        <item>http://m.baidu.com/?from=1269a</item>
+        <item>谷歌</item>
+        <item>http://www.google.com.hk/</item>
+        <item>新浪</item>
+        <item>http://3g.sina.com.cn/</item>
+        <item>QQ</item>
+        <item>http://3g.qq.com/</item>
+        <item>凤凰网</item>
+        <item>http://i.ifeng.com/?ch=rj_mr</item>
+        <item>网易</item>
+        <item>http://3g.163.com/</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Bücherregal</item>
+        <item>Bücherregal</item>
+        <item>Bücherregal</item>
+    </string-array>
+    <string-array name="dianping">
+        <item>团购</item>
+        <item>dianping.com</item>
+        <item>http://developer.dianping.com/favicon.ico</item>
+        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="dianping_in_list">
+        <item>search_dianping</item>
+        <item>ic_search_engine_dianping</item>
+        <item>dianping</item>
+    </string-array>
+    <string-array name="easou">
+        <item>宜搜</item>
+        <item>easou.com:8080</item>
+        <item>http://ad3.easou.com:8080/favicon.ico</item>
+        <item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="easou_in_list">
+        <item>search_easou</item>
+        <item>ic_search_engine_easou</item>
+        <item>easou</item>
+    </string-array>
+    <string-array name="general__notification_toolbar_book_tips_array">
+        <item>{\"title\": \"异界逍遥天尊\", \"summary\": \"天级密典，凌驾万物之上！\", \"fiction_id\":\"25731\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
+        <item>{\"title\": \"武逆乾坤\", \"summary\": \"废物到绝世强者的传说\", \"fiction_id\":\"18838\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01NBCjISbV5/wEPQHF3Lij92EQ.jpg\"}</item>
+        <item>{\"title\": \"上古强身术\", \"summary\": 废柴小子，却硬生生的要搅动这乾坤风云……, \"fiction_id\":\"356681\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01pg098DZ6D/zDM8GUENKgDB1u.jpg\"}</item>
+        <item>{\"title\": \"道心种魔\", \"summary\": \"七情六欲十三魔头修炼精神，战天斗地之术锤炼身体！\", \"fiction_id\":\"12446\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/s010/p01BXC9l3TXE/HVg5dOHIdti3HV.jpg\"}</item>
+        <item>{\"title\": \"盖世刀神\", \"summary\": \"一朝踏上武道路，叫那血染半边天。\", \"fiction_id\":\"265311\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01SeZGWfKFk/ndQzJYLRkuzPJ1.jpg\"}</item>
+        <item>{\"title\": \"绝世邪神\", \"summary\": \"踏破苍穹，撼动诸天，世人仰望！\", \"fiction_id\":\"265387\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01kpIvnU9pz/KhPZFXcyuHAhhx.jpg\"}</item>
+        <item>{\"title\": \"异界逍遥天尊\", \"summary\": \"天级密典，凌驾万物之上！\", \"fiction_id\":\"25731\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
+    </string-array>
+    <string-array name="general__notification_toolbar_default_tips_array">
+        <item>正在为你刷新好看小说</item>
+        <item>闹书荒必备免费小说合集</item>
+        <item>小说更新啦，点击查看</item>
+        <item>主人，再忙别忘了看看书</item>
+        <item>只有3%的男人知道这些小说</item>
+        <item>浏览器小说，全都有，你懂的</item>
+        <item>一大波好书来袭，点击查看</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google</item>
+        <item>google</item>
+    </string-array>
+    <array name="mw_config_keySystemUuidMapping" />
+    <string-array name="pref_debug_address">
+        <item>正式环境</item>
+        <item>预发环境</item>
+        <item>测试环境</item>
+        <item>自定义环境</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Seite zurück/vor</item>
+        <item>Tabs umschlaten</item>
+        <item>Keine</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_values">
+        <item>back_forward</item>
+        <item>switch_tabs</item>
+        <item>Keine</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Standard</item>
+        <item>Benutzerdefinerte URL</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>miui_home</item>
+        <item>Andere</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablett</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Kachelansicht</item>
+        <item>Vertikale Ansicht</item>
+        <item>Horizontale Ansicht</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Immer fragen</item>
+        <item>Öffnen</item>
+        <item>Schließen</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Sehr klein</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Sehr groß</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Verweigern</item>
+        <item>Fragen</item>
+        <item>Erlauben</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Verweigern</item>
+        <item>Erlauben</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Verweigern</item>
+        <item>Erlauben</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Lesezeichen</item>
+        <item>Verlauf</item>
+    </string-array>
+    <string-array name="readmode_theme_background_color">
+        <item>Weiß</item>
+        <item>Beige</item>
+        <item>Braun</item>
+        <item>Grün</item>
+        <item>Grau</item>
+        <item>Schwarz</item>
+    </string-array>
+    <string-array name="s139">
+        <item>百度</item>
+        <item>139.com</item>
+        <item>http://s.139.com/favicon.ico</item>
+        <item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="s139_in_list">
+        <item>search_s139</item>
+        <item>ic_search_engine_s139</item>
+        <item>s139</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_default">
+        <item>Google</item>
+        <item>Bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>Baidu</item>
+        <item>Sogou</item>
+        <item>sm</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>Google</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="search_engines_cmcc">
+        <item>s139</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>sm</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="shipin">
+        <item>视频</item>
+        <item>youku.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Delete</item>
+        <item>No thanks</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Folgen</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Nachricht vom Browser</item>
+        <item>Olympischen Spielen mit Mi folgen</item>
+    </string-array>
+    <string-array name="sm">
+        <item>神马</item>
+        <item>sm.cn</item>
+        <item>http://stlogo.sm.cn/wap/sm/img/favicon.ico</item>
+        <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy204461</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Fokus beobachten</item>
+        <item>Zentrales Thema</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>阵雨</item>
+        <item>雷阵雨</item>
+        <item>冰雹</item>
+        <item>雨夹雪</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>雾</item>
+        <item>冻雨</item>
+        <item>沙尘暴</item>
+        <item>小到中雨</item>
+        <item>中到大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨到大暴雨</item>
+        <item>大暴雨到特大暴雨</item>
+        <item>小到中雪</item>
+        <item>中到大雪</item>
+        <item>大到暴雪</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>浓雾</item>
+        <item>强浓雾</item>
+        <item>霾</item>
+        <item>中度霾</item>
+        <item>重度霾</item>
+        <item>严重霾</item>
+        <item>大雾</item>
+        <item>特强浓雾</item>
+        <item>无</item>
+        <item>雨</item>
+        <item>雪</item>
+    </string-array>
+    <string-array name="taobao">
+        <item>淘宝</item>
+        <item>taobao.com</item>
+        <item>http://r.m.taobao.com/favicon.ico</item>
+        <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="taobao_in_list">
+        <item>search_taobao</item>
+        <item>ic_search_engine_taobao</item>
+        <item>taobao</item>
+    </string-array>
+    <string-array name="tupian">
+        <item>图片</item>
+        <item>baidu.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="tupian_in_list">
+        <item>search_tupian</item>
+        <item>ic_search_engine_tupian</item>
+        <item>tupian</item>
+    </string-array>
+    <string-array name="yahoo">
+        <item>Yahoo!</item>
+        <item>yahoo.com</item>
+        <item>http://search.yahoo.com/favicon.ico</item>
+        <item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+        <item>UTF-8</item>
+        <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo</item>
+        <item>Yahoo</item>
+    </string-array>
+    <string-array name="yicha">
+        <item>易查</item>
+        <item>yicha.cn</item>
+        <item>http://yicha.cn/favicon.ico</item>
+        <item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+</resources>
