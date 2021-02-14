@@ -13,7 +13,7 @@
         <item>超级免费爽文应有尽有👍</item>
     </string-array>
     <string-array name="baidu">
-        <item>百度</item>
+        <item>Baidu</item>
         <item>baidu.com</item>
         <item>http://m.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
@@ -94,13 +94,13 @@
         <item>{\"title\": \"异界逍遥天尊\", \"summary\": \"天级密典，凌驾万物之上！\", \"fiction_id\":\"25731\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
     </string-array>
     <string-array name="general__notification_toolbar_default_tips_array">
-        <item>正在为你刷新好看小说</item>
-        <item>闹书荒必备免费小说合集</item>
-        <item>小说更新啦，点击查看</item>
-        <item>主人，再忙别忘了看看书</item>
-        <item>只有3%的男人知道这些小说</item>
-        <item>浏览器小说，全都有，你懂的</item>
-        <item>一大波好书来袭，点击查看</item>
+        <item>Erfrischende gute Romane für Sie</item>
+        <item>Eine Sammlung kostenloser Romane</item>
+        <item>Der Roman wird aktualisiert. Klicken Sie hier, um ihn anzuzeigen</item>
+        <item>Meister, vergessen Sie nicht, das Buch zu lesen</item>
+        <item>Nur 3% der Männer kennen diese Romane</item>
+        <item>Browser-Romane, alles da, wissen Sie</item>
+        <item>Eine große Welle guter Bücher kommt, klicken Sie hier, um sie anzusehen</item>
     </string-array>
     <string-array name="google">
         <item>Google</item>
@@ -339,7 +339,7 @@
         <item>taobao</item>
     </string-array>
     <string-array name="tupian">
-        <item>图片</item>
+        <item>Tupian</item>
         <item>baidu.com</item>
         <item>http://image.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}&amp;tn=bdwis</item>

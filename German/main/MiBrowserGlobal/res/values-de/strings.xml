@@ -47,7 +47,7 @@
     <string name="account__close_account_twice__title">Erneut bestätigen, ob Sie sich abmelden möchten</string>
     <string name="account__error_network">Aktuelles Netzwerk ist nicht verfügbar</string>
     <string name="account__get_alipay_auth__fail">Alipay-Autorisierung fehlgeschlagen</string>
-    <string name="account__merge__title_auto_login">系统当前已有小米帐号%s登录，是否继续在浏览器小说使用本帐号</string>
+    <string name="account__merge__title_auto_login">Das System hat derzeit das Xiaomi-Konto %s angemeldet, um dieses Konto im Browser-Roman weiterhin zu verwenden</string>
     <string name="account__mi_login_view__title">登录小米帐号</string>
     <string name="account__shared__duokan_logging_in">登录中，请稍候…</string>
     <string name="account__shared__exchange_username">正在获取用户名…</string>
@@ -60,7 +60,7 @@
     <string name="account_empty_nickname">昵称不能为空</string>
     <string name="account_failed">Autorisierung erhalten fehlgeschlagen</string>
     <string name="account_get_name_failed">获取授权成功，但是获取用户名失败。</string>
-    <string name="account_nickname_too_long">昵称不能超过20个字符</string>
+    <string name="account_nickname_too_long">Der Spitzname darf 20 Zeichen nicht überschreiten</string>
     <string name="account_prifix">Konto:</string>
     <string name="action">Anmelden</string>
     <string name="action_diagnostics">Test</string>
@@ -737,7 +737,7 @@ um unsere Arbeit zu unterstützen"</string>
     <string name="dialog_scroll_up_to_more_site">Scroll up to view more</string>
     <string name="dialog_title_not_available">"Couldn't download"</string>
     <string name="dialog_title_queued_body">File not yet available</string>
-    <string name="discovery__edit_feed_item_view__desc_default">《%s》</string>
+    <string name="discovery__edit_feed_item_view__desc_default">(%s)</string>
     <string name="discovery__edit_feed_item_view__desc_hint">+ 添加介绍</string>
     <string name="discovery__edit_feed_search_view__header">添加书</string>
     <string name="discovery__edit_feed_search_view__hint">请输入要添加的书名</string>
@@ -748,7 +748,6 @@ um unsere Arbeit zu unterstützen"</string>
     <string name="discovery__edit_feed_view__remove_this_book">删除这本书和它的介绍？</string>
     <string name="discovery__edit_feed_view__send">发布</string>
     <string name="discovery__edit_feed_view__title_hint">标题</string>
-    <string name="dk_dist_channel" />
     <string name="dkcommon__back">返回</string>
     <string name="dkcommon__ok">确定</string>
     <string name="dkcommon__web_pull_refresh_view__pull_down_tip">下拉刷新</string>
@@ -1612,7 +1611,7 @@ Ihre Interessen auswählen, um relevante Empfehlungen zu erhalten"</string>
     <string name="miuishare_account_activate_ok">Activate</string>
     <string name="miuishare_account_login_cancel">Cancel</string>
     <string name="miuishare_account_login_confirmation">Sign in first</string>
-    <string name="miuishare_account_login_ok">Sign in</string>
+    <string name="miuishare_account_login_ok">Anmelden</string>
     <string name="miuishare_account_need_activate">Weibo account should be paired with your Mi Account. Sign in with your Mi Account?</string>
     <string name="miuishare_account_need_login">Weibo account should be paired with your current Mi Account. Sign in to share now?</string>
     <string name="miuishare_app_name">MiuiShare</string>
@@ -1648,7 +1647,7 @@ Ihre Interessen auswählen, um relevante Empfehlungen zu erhalten"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="modify">Ändern</string>
-    <string name="modify_channel">编辑频道</string>
+    <string name="modify_channel">Kanal bearbeiten</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">SD card is required to modify this path.</string>
     <string name="monday">Montag</string>
     <string name="monday_short">Mo</string>
@@ -1811,32 +1810,31 @@ Ihre Interessen auswählen, um relevante Empfehlungen zu erhalten"</string>
     <string name="mw_common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
     <string name="mw_common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
     <string name="mw_common_open_on_phone">Open on phone</string>
-    <string name="mw_common_signin_button_text">Sign in</string>
+    <string name="mw_common_signin_button_text">Anmelden</string>
     <string name="mw_common_signin_button_text_long">Sign in with Google</string>
-    <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
-    <string name="mw_crash_label">Crash (%1$s) - [%2$s]</string>
+    <string name="mw_crash_label">Absturz (%1$s) - [%2$s]</string>
     <string name="mw_crash_report_button_text">Provide more info</string>
     <string name="mw_crash_report_template">"IMPORTANT: Your crash has already been automatically reported to our crash system. You only need to fill this out if you can share more information like steps to reproduce the crash.
 
-Device name:
-Android OS version:
+Gerätename:
+Android OS-Version:
 WebView version (On Android L-M, this is the version of the \"Android System WebView\" app. On Android N-P, it's most likely Chrome's version. You can find the version of any app under Settings > Apps > the 3 dots in the upper right > Show system.):
 Application: (Please link to its Play Store page if possible. You can get the link from inside the Play Store app by tapping the 3 dots in the upper right > Share > Copy to clipboard. Or you can find the app on the Play Store website: https://play.google.com/store/apps .)
 Application version:
 
 
-Steps to reproduce:
+Reproduzierschritte:
 (1)
 (2)
 (3)
 
 
-Expected result:
-(What should have happened?)
+Erwartetes Ergebnis:
+(Was hätte passieren sollen?)
 
 
-****DO NOT CHANGE BELOW THIS LINE****
+****NICHT UNTER DIESER LINIE ÄNDERN****
 Crash ID: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">WebView Crashes</string>
     <string name="mw_crashes_num">Crashes (%1$d)</string>
@@ -2389,26 +2387,26 @@ Your router might not be connected to the internet. Check whether the network ca
     <string name="pref_extras_title_version">Version info</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">"Save files to Browser's default location"</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Restore default location</string>
-    <string name="pref_file_download_default_path_prefix">Default location: %s</string>
-    <string name="pref_file_download_save_modify_default_path">Downloads location</string>
+    <string name="pref_file_download_default_path_prefix">Standardspeicherort: %s</string>
+    <string name="pref_file_download_save_modify_default_path">Download-Speicherort</string>
     <string name="pref_fling_gesture">Wischgesten</string>
     <string name="pref_font_size_category">Webpage text size</string>
     <string name="pref_force_userscalable">Zoom erzwingen</string>
     <string name="pref_force_userscalable_summary">Turn on to zoom in and out using gestures</string>
-    <string name="pref_frequently_visit">Häufige Websites anzeigen</string>
-    <string name="pref_general_title">General</string>
-    <string name="pref_homepage_default">Default</string>
+    <string name="pref_frequently_visit">Häufige Webseiten anzeigen</string>
+    <string name="pref_general_title">Allgemeines</string>
+    <string name="pref_homepage_default">Standard</string>
     <string name="pref_homepage_settings_title">Startseite</string>
-    <string name="pref_info_folow_refresh_icon">Show the \"Refresh\" button in the News feed</string>
-    <string name="pref_label_advert_manager">Manage labelled ads</string>
+    <string name="pref_info_folow_refresh_icon">\"Aktualisieren\"-Taste im News-Feed anzeigen</string>
+    <string name="pref_label_advert_manager">Beschriftete Anzeigen verwaltens</string>
     <string name="pref_nav_mode_summary_pad">Pad</string>
-    <string name="pref_nav_mode_summary_phone">Phone</string>
+    <string name="pref_nav_mode_summary_phone">Telefon</string>
     <string name="pref_nav_mode_title">Browser-Modus</string>
-    <string name="pref_navscreen_layoutstate_title">Multi-window management</string>
+    <string name="pref_navscreen_layoutstate_title">Multi-Fensterverwaltung</string>
     <string name="pref_notifications_hint">Notifications</string>
     <string name="pref_notifications_receive">Notifications</string>
     <string name="pref_notifications_title">Receive notifications</string>
-    <string name="pref_other_title">Other</string>
+    <string name="pref_other_title">Andere</string>
     <string name="pref_paper_mode_title">Lesemodus</string>
     <string name="pref_personalized_customization">Personalized recommendations</string>
     <string name="pref_privacy_clear_all_video_history">Sicher, dass Sie den gesamten Anzeigeverlauf löschen möchten?</string>
@@ -2437,7 +2435,7 @@ Your router might not be connected to the internet. Check whether the network ca
     <string name="pref_privacy_policy">Datenschutzerklärung</string>
     <string name="pref_privacy_security_title">Privatsphäre &amp; Sicherheit</string>
     <string name="pref_save_bandwidth_mode_title">Daten speichern</string>
-    <string name="pref_search_homepage_settings">Search Home Settings</string>
+    <string name="pref_search_homepage_settings">Startbilschirmeinstellungen Suchen</string>
     <string name="pref_search_result_rs_title">Show related search results</string>
     <string name="pref_search_settings_title">Sucheinstellungen</string>
     <string name="pref_security_accept_cookies">Accept cookies</string>
@@ -2448,20 +2446,20 @@ Your router might not be connected to the internet. Check whether the network ca
     <string name="pref_security_save_form_data_summary">Remember data I type in forms for later use</string>
     <string name="pref_security_show_security_warning">Show security warnings</string>
     <string name="pref_security_show_security_warning_summary">"Show warning if there's a problem with a site's certificate"</string>
-    <string name="pref_set_homepage_to">Einstellen</string>
+    <string name="pref_set_homepage_to">Startseite festlegen</string>
     <string name="pref_set_wallpaper">Hintergrund festlegen</string>
     <string name="pref_show_bookmark_module">Lesezeichen anzeigen</string>
     <string name="pref_show_search_history_module">Suchverlauf anzeigen</string>
     <string name="pref_switch_search_engine">Suchmaschine</string>
     <string name="pref_tab_restore">Zuletzt geöffnete Seite beim Start wieder herstellen</string>
     <string name="pref_tab_restore_summary">Um Ihre Privatsphäre zu schützen, werden im Inkognito-Modus keine Webseiten wiederhergestellt</string>
-    <string name="pref_ua_string">User agent string</string>
+    <string name="pref_ua_string">Benutzeragentenzeichenfolge</string>
     <string name="pref_ua_string_summary">Switching between user-agent strings may cause errors in displaying web pages and arranging downloads</string>
-    <string name="pref_version_info">Version info</string>
+    <string name="pref_version_info">Versionsinfo</string>
     <string name="pref_web_browsering_title">Surfen im Internet</string>
-    <string name="pref_web_protection">隐私防护</string>
+    <string name="pref_web_protection">Datenschutz</string>
     <string name="pref_web_translation">Übersetzungsverknüpfung</string>
-    <string name="pref_web_translation_summary">Show the translation shortcut when browsing web pages in English</string>
+    <string name="pref_web_translation_summary">Anzeigen der Übersetzungsabkürzung beim Durchsuchen von Webseiten auf Englisch</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
     <string name="privacy_rights_title">Privatsphäre</string>
     <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
@@ -3095,7 +3093,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="simple_home_guide_item_title_forbid">禁止自动下载</string>
     <string name="simple_home_guide_item_title_permisson">权限管理</string>
     <string name="simple_home_guide_item_title_simple_home">简洁主页</string>
-    <string name="simple_homepage">Simple</string>
+    <string name="simple_homepage">Einfach</string>
     <string name="sina_gen_bitmap_fail">分享图片大小超过限制</string>
     <string name="sina_send_failed">分享失败！请尝试重新绑定微博账号</string>
     <string name="sina_send_sucess">分享成功！</string>
@@ -3351,8 +3349,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="store__fiction_detail_invert_order">倒序</string>
     <string name="store__fiction_detail_more">展开全部内容</string>
     <string name="store__fiction_detail_num_tips">万人</string>
-    <string name="store__fiction_detail_num_tips_thousand">人</string>
-    <string name="store__fiction_detail_popular_format">%.1f万人气</string>
+    <string name="store__fiction_detail_num_tips_thousand">Leute</string>
+    <string name="store__fiction_detail_popular_format">%.1f Mill. Popularität</string>
     <string name="store__fiction_detail_positive_order">正序</string>
     <string name="store__fiction_detail_price_format">%d书币/千字</string>
     <string name="store__fiction_detail_read_format">%d人在读</string>
@@ -3872,12 +3870,12 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="tt_video_without_wifi_tips">播放将消耗</string>
     <string name="tt_web_title_default">广告</string>
     <string name="tt_will_play">即将播放</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="tuesday_short">Tue</string>
-    <string name="tuesday_shortest">Tue</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="tuesday_short">Di</string>
+    <string name="tuesday_shortest">Di</string>
     <string name="umeng_channel_name">Community</string>
-    <string name="undo">Undo</string>
-    <string name="unknown_title">Unknown</string>
+    <string name="undo">Rückgängig</string>
+    <string name="unknown_title">Unbekannt</string>
     <string name="unsecurity_url_toast">"This website isn't secure"</string>
     <string name="update_no_network_toast">"Can't connect to the network"</string>
     <string name="uploads_disabled">File uploads are disabled</string>
