@@ -2,7 +2,7 @@
 <resources>
     <string name="MediaControlView_ad_remaining_time">Werbung · %1$s verbleibende</string>
     <string name="MediaControlView_ad_skip_wait_time">Sie können die Werbung in %1$d Sek überspringen</string>
-    <string name="MediaControlView_ad_text">Visit Advertiser</string>
+    <string name="MediaControlView_ad_text">Anzeigenkunden besuchen</string>
     <string name="MediaControlView_audio_track_none_text">Keine</string>
     <string name="MediaControlView_audio_track_number_text">Track %1$d</string>
     <string name="MediaControlView_audio_track_text">Audio track</string>
@@ -46,7 +46,7 @@
     <string name="account__close_account_twice__ok">Immer noch abmelden</string>
     <string name="account__close_account_twice__title">Erneut bestätigen, ob Sie sich abmelden möchten</string>
     <string name="account__error_network">Aktuelles Netzwerk ist nicht verfügbar</string>
-    <string name="account__get_alipay_auth__fail">支付宝授权失败</string>
+    <string name="account__get_alipay_auth__fail">Alipay-Autorisierung fehlgeschlagen</string>
     <string name="account__merge__title_auto_login">系统当前已有小米帐号%s登录，是否继续在浏览器小说使用本帐号</string>
     <string name="account__mi_login_view__title">登录小米帐号</string>
     <string name="account__shared__duokan_logging_in">登录中，请稍候…</string>
@@ -289,29 +289,29 @@
     <string name="bookcity_store__shared__invalid_order_status">订单状态异常，请联系客服人员</string>
     <string name="bookcity_store__shared__notify_repeat_update">提交支付完成信息失败, 是否重新提交?</string>
     <string name="bookcity_store__shared__payment_ok">订单支付成功！</string>
-    <string name="bookcity_store__shared__reverify_order_cancel">取消</string>
-    <string name="bookcity_store__shared__reverify_order_confirm">重试</string>
+    <string name="bookcity_store__shared__reverify_order_cancel">Abbrechen</string>
+    <string name="bookcity_store__shared__reverify_order_confirm">Zustimmen</string>
     <string name="bookmark">Lesezeichen</string>
     <string name="bookmark_cannot_save_url">"This URL can't be bookmarked."</string>
     <string name="bookmark_copylink">复制链接</string>
-    <string name="bookmark_delete_bookmark">Delete bookmark</string>
+    <string name="bookmark_delete_bookmark">Lesezeichen löschen</string>
     <string name="bookmark_delete_hint">同时删除书签列表中的此书签</string>
-    <string name="bookmark_deleted">Delete bookmark</string>
-    <string name="bookmark_edit_bookmark">Edit bookmark</string>
+    <string name="bookmark_deleted">Lesezeichen löschen</string>
+    <string name="bookmark_edit_bookmark">Lesezeichen bearbeiten</string>
     <string name="bookmark_error_page_title">An error occurred</string>
-    <string name="bookmark_folder_needs_title">Enter a group name</string>
-    <string name="bookmark_group_lable">Group</string>
-    <string name="bookmark_import_course">View tutorial</string>
+    <string name="bookmark_folder_needs_title">Gruppenname eingeben</string>
+    <string name="bookmark_group_lable">Gruppe</string>
+    <string name="bookmark_import_course">Tutorial anzeigen</string>
     <string name="bookmark_import_file_explorer">Dateimanager</string>
-    <string name="bookmark_import_hint_content">"Here's how you can import bookmarks from other browsers:"</string>
-    <string name="bookmark_import_hint_list">"1. Export your bookmarks from another browser as an HTML file.
-2. Copy the file to this device.
-3. Open the file with Mi Browser."</string>
+    <string name="bookmark_import_hint_content">"So können Sie Lesezeichen aus anderen Browsern importieren:"</string>
+    <string name="bookmark_import_hint_list">"1. Lesezeichen aus einem anderen Browser als HTML-Datei expitieren.
+2. Datei auf dieses Gerät kopieren.
+3. Datei mit Mi Browser öffnen."</string>
     <string name="bookmark_import_not_found">"Can't find your bookmarks here? Try importing them from %s."</string>
     <string name="bookmark_import_open_system_file_explorer">"Can't find your bookmarks here? Try importing them from %s."</string>
-    <string name="bookmark_import_parsing">Unpacking bookmarks…</string>
-    <string name="bookmark_import_scaning">Searching for bookmarks…</string>
-    <string name="bookmark_import_sucess">Imported successfully</string>
+    <string name="bookmark_import_parsing">Lesezeichen entpacken…</string>
+    <string name="bookmark_import_scaning">Nach Lesezeichen suchen…</string>
+    <string name="bookmark_import_sucess">Erfolgreich importiert</string>
     <string name="bookmark_move_to">Verschieben nach</string>
     <string name="bookmark_needs_title">Lesezeichen benötigt einen Namen</string>
     <string name="bookmark_needs_url">Lesezeichen müssen eine Adresse beinhalten</string>
@@ -330,12 +330,11 @@
     <string name="bookmark_url_not_exisit">"You've already deleted this URL"</string>
     <string name="bookmark_url_not_valid">"This URL isn't valid"</string>
     <string name="bookmarks_management">Lesezeichen</string>
-    <string name="bookmarks_root_folder">Rootordner</string>
-    <string name="bookmarks_search">Browser</string>
+    <string name="bookmarks_root_folder">Rootverzeichnis</string>
     <string name="bookroom__clear_invalid_book_view__done">清理完毕</string>
     <string name="bookroom__clear_invalid_book_view__found">发现无效书籍&lt;font color=#ed6c00> %1$d &lt;/font>本</string>
     <string name="bookroom__clear_invalid_book_view__scanning">已扫描&lt;font color=#ed6c00> %1$d / %2$d &lt;/font>本书籍…</string>
-    <string name="bookroom__shared__invalid_book_clear">清理其他无效书籍</string>
+    <string name="bookroom__shared__invalid_book_clear">Bereinigt</string>
     <string name="bookroom__shared__invalid_book_title">书籍不存在，确认从书架删除</string>
     <string name="bookshelf__add_book_menu_view__add_book_to_launcher">加到桌面</string>
     <string name="bookshelf__add_book_menu_view__show_local">仅显示本地书</string>
@@ -469,12 +468,10 @@
     <string name="booktag__shared__my_download">我的下载</string>
     <string name="booktag__shared__unarrangement">未分类</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dies ist der letzte Tab</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z. B. Suchen oder Einkäufe).</string>
     <string name="browser_default_setting_cancel">Abbrechen</string>
     <string name="browser_default_setting_confirm">OK</string>
-    <string name="browser_default_setting_content">Schnelles und sicheres Surfen im Internet</string>
+    <string name="browser_default_setting_content">Schnelles und sicheres Internetsurfen</string>
     <string name="browser_default_setting_title">Als Standardbrowser einstellen</string>
     <string name="bubble_guide_bottom_message_text">Sie haben %d ungelesene Nachrichten erhalten</string>
     <string name="bubble_guide_logined_text">Anmeldung zur Verlosung</string>
@@ -492,7 +489,7 @@
     <string name="category__list_few_days_ago">vor %d Tagen</string>
     <string name="category__list_today">Heute %s</string>
     <string name="category__list_yesterday">Gestern</string>
-    <string name="category__rank_popular_format">%d人</string>
+    <string name="category__rank_popular_format">%d Leute</string>
     <string name="category__rank_popular_format_ten_thousand">%.1f Million</string>
     <string name="category__read_this_week">Diese Woche gelesen</string>
     <string name="category__search_this_week">Diese Woche gesucht</string>
@@ -520,8 +517,8 @@
     <string name="chip_text">Chip text</string>
     <string name="choose">Auswählen</string>
     <string name="clear_clipboard">Leer</string>
-    <string name="clear_clipboard_confirm">确认要删除剪贴板全部内容吗？</string>
-    <string name="clear_history">Clear history</string>
+    <string name="clear_clipboard_confirm">Möchten Sie wirklich den gesamten Inhalt der Zwischenablage löschen?</string>
+    <string name="clear_history">Verlauf löschen</string>
     <string name="clear_input_history_confirm">确认要删除历史记录全部内容吗？</string>
     <string name="clear_input_history_confirm_bt_text">确认</string>
     <string name="clear_snapshot">Clear Snapshot</string>
