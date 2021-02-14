@@ -124,7 +124,7 @@
     </string-array>
     <string-array name="pref_fling_gesture_entries">
         <item>Seite zurück/vor</item>
-        <item>Tabs umschlaten</item>
+        <item>Tabs umschalten</item>
         <item>Keine</item>
     </string-array>
     <string-array name="pref_fling_gesture_values">
