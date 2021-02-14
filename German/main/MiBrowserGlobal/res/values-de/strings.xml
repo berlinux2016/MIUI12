@@ -1002,31 +1002,30 @@ um offene Tabs von anderen Geräten anzuzeigen."</string>
     <string name="free_account__user_profile__wechat">微信</string>
     <string name="free_account_exchange_vip_success"><Data>成功兑换&lt;br>&lt;font color=#ff942b>%1$s&lt;/font>VIP免广告权益</Data></string>
     <string name="free_exit_recommend_defvalue">{\"rank\":[{\"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01bJxnID2qE/k6hzX8qLDK2C7C.jpg\",\"date\":20200206,\"duration\":7,\"channel\":3,\"fictionId\":345700,\"rank\":1,\"title\":\"极品透视保镖\",\"popular\":1220244}],\"remark\":[\"神作\",\"文笔不错\",\"五星推荐\",\"情节吸引\",\"好文\",\"不看后悔\",\"停不下来\",\"好看\",\"百读不厌\",\"精彩\",\"过瘾\",\"引人入胜\"]}</string>
-    <string name="free_personal__check_update">检查更新</string>
-    <string name="free_personal__choose_gender_female">女生小说\u0009\u0009</string>
-    <string name="free_personal__choose_gender_female_category">言情/爱情/浪漫…</string>
-    <string name="free_personal__choose_gender_jump_over">随便看看</string>
-    <string name="free_personal__choose_gender_loading">正在为您加载书城，请稍后…</string>
-    <string name="free_personal__choose_gender_male">男生小说\u0009\u0009</string>
-    <string name="free_personal__choose_gender_male_category">玄幻/悬疑/奇幻…</string>
-    <string name="free_personal__choose_gender_title">选择偏好，开始阅读</string>
-    <string name="free_personal__click_login">点击登录</string>
-    <string name="free_personal__dot">·</string>
-    <string name="free_personal__exchange">立即兑换</string>
-    <string name="free_personal__feedback">意见反馈</string>
-    <string name="free_personal__hello">Hello!</string>
-    <string name="free_personal__login_desc">海量小说永久免费</string>
-    <string name="free_personal__my_coin">我的金币</string>
-    <string name="free_personal__not_vip">暂未开通</string>
-    <string name="free_personal__read_flavor">阅读口味</string>
-    <string name="free_personal__read_record">阅读记录</string>
-    <string name="free_personal__read_time">今日阅读</string>
-    <string name="free_personal__read_time_minute">分钟</string>
-    <string name="free_personal__rest_vip_time">%s后过期</string>
-    <string name="free_personal__setting">设置</string>
-    <string name="free_personal__sign_in">签到</string>
+    <string name="free_personal__check_update">Auf Aktualisierungen prüfen</string>
+    <string name="free_personal__choose_gender_female">Mädchen Roman\u0009\u0009</string>
+    <string name="free_personal__choose_gender_female_category">Romantik/Liebe/Romantik…</string>
+    <string name="free_personal__choose_gender_jump_over">Nur umschauen</string>
+    <string name="free_personal__choose_gender_loading">Book City für Sie laden, bitte warten…</string>
+    <string name="free_personal__choose_gender_male">Boys Fiction\u0009\u0009</string>
+    <string name="free_personal__choose_gender_male_category">Fantasie/Spannung/Fantasie…</string>
+    <string name="free_personal__choose_gender_title">Präferenz auswählen und beginnen Sie zu lesen</string>
+    <string name="free_personal__click_login">Tippen, um sich anzumelden</string>
+    <string name="free_personal__exchange">Jetzt einlösen</string>
+    <string name="free_personal__feedback">Feedback</string>
+    <string name="free_personal__hello">Hallo!</string>
+    <string name="free_personal__login_desc">Massive Romane sind immer kostenlos</string>
+    <string name="free_personal__my_coin">Meine Goldmünzen</string>
+    <string name="free_personal__not_vip">Noch nicht geöffnet</string>
+    <string name="free_personal__read_flavor">Read taste</string>
+    <string name="free_personal__read_record">Reading record</string>
+    <string name="free_personal__read_time">Read today</string>
+    <string name="free_personal__read_time_minute">Minute</string>
+    <string name="free_personal__rest_vip_time">Läuft in %s ab</string>
+    <string name="free_personal__setting">Einstellen</string>
+    <string name="free_personal__sign_in">Anmelden</string>
     <string name="free_personal__task_get_vip">做任务领VIP</string>
-    <string name="free_personal__vip_no_ad">VIP免广告</string>
+    <string name="free_personal__vip_no_ad">VIP kostenlose Werbung</string>
     <string name="free_personal__welcome">欢迎使用全民小说</string>
     <string name="free_reading__recommend_read_count">本周%s人在读</string>
     <string name="free_reading__recommend_title">免费好书推荐</string>
@@ -1059,16 +1058,16 @@ um offene Tabs von anderen Geräten anzuzeigen."</string>
     <string name="gateway_exception_message2">"Can't use shared connection. Check whether your computer is connected to the internet."</string>
     <string name="gen_bitmap_fail">生成分享图片失败</string>
     <string name="general__ad_cloud_config_defValue">{\"insert_interval_page_count\":\"4\",\"bookshelf_order\":\"[\\\"yimi\\\", \\\"together\\\", \\\"toutiao\\\"]\",\"splash_tt_style\":\"express\",\"insert_freeze_threshold\":\"0\",\"splash_restart_duration\":\"45\",\"bottom_interval_style\":\"page\",\"bottom_freeze_threshold\":\"0\",\"bookshelf_freeze_duration\":\"0\",\"insert_order\":\"[\\\"yimi\\\", \\\"together\\\", \\\"toutiao\\\"]\",\"ad_first_chapter\":\"0\",\"bottom_interval_duration\":\"60\",\"bottom_order\":\"[\\\"yimi\\\", \\\"toutiao\\\"]\",\"insert_freeze_duration\":\"0\",\"bottom_freeze_duration\":\"0\",\"bookshelf_freeze_threshold\":\"0\",\"splash_order\":\"[\\\"together\\\",\\\"toutiao\\\"]\",\"insert_together_style\":\"express\",\"bottom_tt_style\":\"express\",\"insert_tt_style\":\"express\",\"splash_timeout\":\"3\",\"bottom_interval_page_count\":\"3\"}</string>
-    <string name="general__add_book_to_launcher__success">添加成功</string>
-    <string name="general__bottom_no_data">我是有底线的</string>
-    <string name="general__camera_permission__desc">"授予权限管理 - 相机
-才能上传或更换头像"</string>
-    <string name="general__camera_permission_guide_dialog__action">知道了</string>
-    <string name="general__camera_permission_guide_dialog__desc">"在使用过程中，本应用需要访问相机权限，用于上传或修改头像。
+    <string name="general__add_book_to_launcher__success">Erfolgreich hinzugefügt</string>
+    <string name="general__bottom_no_data">Ich habe ein Endergebnis</string>
+    <string name="general__camera_permission__desc">"Grant permission management-camera
+To upload or change the avatar"</string>
+    <string name="general__camera_permission_guide_dialog__action">Verstanden</string>
+    <string name="general__camera_permission_guide_dialog__desc">"Während der Verwendung muss diese App auf die Kameraberechtigung zugreifen, um den Avatar hochladen oder ändern zu können.
 
-如果您不同意调用以上权限，将导致该功能无法正常使用，但不影响您使用本应用的基本功能。
+Wenn Sie nicht damit einverstanden sind, die oben genannten Berechtigungen aufzurufen, kann die Funktion nicht normal verwendet werden, hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser Anwendung.
 
-您可随时前往\"设置\">\"权限管理\"，选择关闭以上权限调用以撤回您的同意。"</string>
+Sie können jederzeit zu \"Einstellungen\"> \"Berechtigungsverwaltung\" gehen und den obigen Berechtigungsaufruf schließen, um Ihre Einwilligung zu widerrufen."</string>
     <string name="general__camera_permission_guide_dialog__title">权限说明</string>
     <string name="general__coin_not_enough">金币不足</string>
     <string name="general__download_canceled">已取消</string>
