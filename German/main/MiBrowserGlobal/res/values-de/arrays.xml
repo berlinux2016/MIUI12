@@ -14,7 +14,7 @@
     </string-array>
     <string-array name="baidu">
         <item>百度</item>
-        <item>Baidu.com</item>
+        <item>baidu.com</item>
         <item>http://m.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
         <item>UTF-8</item>
@@ -54,9 +54,9 @@
         <item>http://3g.163.com/</item>
     </string-array>
     <string-array name="bookshelf__general_shared__main_categories">
-        <item>Bücherregal</item>
-        <item>Bücherregal</item>
-        <item>Bücherregal</item>
+        <item>Lesezeichen</item>
+        <item>Lesezeichen</item>
+        <item>Lesezeichen</item>
     </string-array>
     <string-array name="dianping">
         <item>Gruppenkauf</item>
@@ -113,7 +113,7 @@
     <string-array name="google_in_list">
         <item>search_google</item>
         <item>ic_search_engine_google</item>
-        <item>Google</item>
+        <item>google</item>
     </string-array>
     <array name="mw_config_keySystemUuidMapping" />
     <string-array name="pref_debug_address">
@@ -195,37 +195,37 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="search_bar_search_engines_default">
-        <item>Google</item>
-        <item>Bing</item>
+        <item>google</item>
+        <item>bing</item>
     </string-array>
     <string-array name="search_bar_search_engines_rCN">
-        <item>Baidu</item>
-        <item>Sogou</item>
-        <item>SM</item>
-        <item>Google</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>sm</item>
+        <item>google</item>
     </string-array>
     <string-array name="search_engines">
         <item>baidu</item>
         <item>sogou</item>
-        <item>Google</item>
+        <item>google</item>
         <item>bing_zh_CN</item>
     </string-array>
     <string-array name="search_engines_cmcc">
         <item>s139</item>
-        <item>Baidu</item>
-        <item>Sogou</item>
-        <item>Google</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>google</item>
     </string-array>
     <string-array name="search_engines_default">
-        <item>Google</item>
-        <item>Yahoo</item>
-        <item>Bing</item>
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
     </string-array>
     <string-array name="search_engines_rCN">
-        <item>Baidu</item>
-        <item>Sogou</item>
-        <item>SM</item>
-        <item>Google</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>sm</item>
+        <item>google</item>
     </string-array>
     <string-array name="shipin">
         <item>Video</item>
@@ -255,6 +255,14 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
+    <string-array name="sm_in_list">
+        <item>search_sm</item>
+        <item>ic_search_engine_sm</item>
+        <item>sm</item>
+    </string-array>
+    <array name="small_video_refresh_layout_colors">
+        <item>@color/small_video_refresh_progress_color</item>
+    </array>
     <string-array name="sogou">
         <item>Sogou</item>
         <item>sogou.com</item>
@@ -262,6 +270,11 @@
         <item>http://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="sogou_in_list">
+        <item>search_sogou</item>
+        <item>ic_search_engine_sogou</item>
+        <item>sogou</item>
     </string-array>
     <string-array name="suggestion_topic_tips">
         <item>Fokus beobachten</item>
@@ -349,7 +362,7 @@
     <string-array name="yahoo_in_list">
         <item>search_yahoo</item>
         <item>ic_search_engine_yahoo</item>
-        <item>Yahoo</item>
+        <item>yahoo</item>
     </string-array>
     <string-array name="yicha">
         <item>易查</item>
