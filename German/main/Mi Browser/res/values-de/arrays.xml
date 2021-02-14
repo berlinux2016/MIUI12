@@ -38,19 +38,19 @@
         <item>http://www.wo.com.cn</item>
     </string-array>
     <string-array name="bookmarks_zh">
-        <item>小米论坛</item>
+        <item>Xiaomi Forum</item>
         <item>http://bbs.xiaomi.cn/</item>
-        <item>百度</item>
+        <item>Baidu</item>
         <item>http://m.baidu.com/?from=1269a</item>
-        <item>谷歌</item>
+        <item>Google</item>
         <item>http://www.google.com.hk/</item>
-        <item>新浪</item>
+        <item>Sina</item>
         <item>http://3g.sina.com.cn/</item>
         <item>QQ</item>
         <item>http://3g.qq.com/</item>
-        <item>凤凰网</item>
+        <item>Phoenix Net</item>
         <item>http://i.ifeng.com/?ch=rj_mr</item>
-        <item>网易</item>
+        <item>NetEase</item>
         <item>http://3g.163.com/</item>
     </string-array>
     <string-array name="bookshelf__general_shared__main_categories">
@@ -59,7 +59,7 @@
         <item>Bücherregal</item>
     </string-array>
     <string-array name="dianping">
-        <item>团购</item>
+        <item>Gruppenkauf</item>
         <item>dianping.com</item>
         <item>http://developer.dianping.com/favicon.ico</item>
         <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
@@ -72,7 +72,7 @@
         <item>dianping</item>
     </string-array>
     <string-array name="easou">
-        <item>宜搜</item>
+        <item>Esou</item>
         <item>easou.com:8080</item>
         <item>http://ad3.easou.com:8080/favicon.ico</item>
         <item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
@@ -82,7 +82,7 @@
     <string-array name="easou_in_list">
         <item>search_easou</item>
         <item>ic_search_engine_easou</item>
-        <item>easou</item>
+        <item>Easou</item>
     </string-array>
     <string-array name="general__notification_toolbar_book_tips_array">
         <item>{\"title\": \"异界逍遥天尊\", \"summary\": \"天级密典，凌驾万物之上！\", \"fiction_id\":\"25731\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
@@ -113,14 +113,14 @@
     <string-array name="google_in_list">
         <item>search_google</item>
         <item>ic_search_engine_google</item>
-        <item>google</item>
+        <item>Google</item>
     </string-array>
     <array name="mw_config_keySystemUuidMapping" />
     <string-array name="pref_debug_address">
-        <item>正式环境</item>
-        <item>预发环境</item>
-        <item>测试环境</item>
-        <item>自定义环境</item>
+        <item>Formale Umgebung</item>
+        <item>Pre-Release-Umgebung</item>
+        <item>Test-Umgebung</item>
+        <item>Benutzerdefinierte Umgebung</item>
     </string-array>
     <string-array name="pref_fling_gesture_entries">
         <item>Seite zurück/vor</item>
@@ -187,17 +187,12 @@
         <item>Schwarz</item>
     </string-array>
     <string-array name="s139">
-        <item>百度</item>
+        <item>Baidu</item>
         <item>139.com</item>
         <item>http://s.139.com/favicon.ico</item>
         <item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="s139_in_list">
-        <item>search_s139</item>
-        <item>ic_search_engine_s139</item>
-        <item>s139</item>
     </string-array>
     <string-array name="search_bar_search_engines_default">
         <item>Google</item>
@@ -206,7 +201,7 @@
     <string-array name="search_bar_search_engines_rCN">
         <item>Baidu</item>
         <item>Sogou</item>
-        <item>sm</item>
+        <item>SM</item>
         <item>Google</item>
     </string-array>
     <string-array name="search_engines">
@@ -217,24 +212,23 @@
     </string-array>
     <string-array name="search_engines_cmcc">
         <item>s139</item>
-        <item>baidu</item>
-        <item>sogou</item>
+        <item>Baidu</item>
+        <item>Sogou</item>
         <item>Google</item>
     </string-array>
     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
         <item>Google</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
     </string-array>
     <string-array name="search_engines_rCN">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>sm</item>
+        <item>Baidu</item>
+        <item>Sogou</item>
+        <item>SM</item>
         <item>Google</item>
     </string-array>
     <string-array name="shipin">
-        <item>视频</item>
+        <item>Video</item>
         <item>youku.com</item>
         <item>http://m.baidu.com/favicon.ico</item>
         <item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
@@ -242,8 +236,8 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
-        <item>Delete</item>
-        <item>No thanks</item>
+        <item>Löschen</item>
+        <item>Nein danke</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
@@ -254,7 +248,7 @@
         <item>Olympischen Spielen mit Mi folgen</item>
     </string-array>
     <string-array name="sm">
-        <item>神马</item>
+        <item>SM</item>
         <item>sm.cn</item>
         <item>http://stlogo.sm.cn/wap/sm/img/favicon.ico</item>
         <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy204461</item>
@@ -262,7 +256,7 @@
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="sogou">
-        <item>搜狗</item>
+        <item>Sogou</item>
         <item>sogou.com</item>
         <item>http://wap.sogou.com/favicon.ico</item>
         <item>http://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
@@ -274,52 +268,52 @@
         <item>Zentrales Thema</item>
     </string-array>
     <string-array name="suggestion_weather_condition_message">
-        <item>晴</item>
-        <item>多云</item>
-        <item>阴</item>
-        <item>阵雨</item>
-        <item>雷阵雨</item>
-        <item>冰雹</item>
-        <item>雨夹雪</item>
-        <item>小雨</item>
-        <item>中雨</item>
-        <item>大雨</item>
-        <item>暴雨</item>
-        <item>大暴雨</item>
-        <item>特大暴雨</item>
-        <item>阵雪</item>
-        <item>小雪</item>
-        <item>中雪</item>
-        <item>大雪</item>
-        <item>暴雪</item>
-        <item>雾</item>
-        <item>冻雨</item>
-        <item>沙尘暴</item>
-        <item>小到中雨</item>
-        <item>中到大雨</item>
-        <item>大到暴雨</item>
-        <item>暴雨到大暴雨</item>
-        <item>大暴雨到特大暴雨</item>
-        <item>小到中雪</item>
-        <item>中到大雪</item>
-        <item>大到暴雪</item>
-        <item>浮尘</item>
-        <item>扬沙</item>
-        <item>强沙尘暴</item>
-        <item>浓雾</item>
-        <item>强浓雾</item>
-        <item>霾</item>
-        <item>中度霾</item>
-        <item>重度霾</item>
-        <item>严重霾</item>
-        <item>大雾</item>
-        <item>特强浓雾</item>
-        <item>无</item>
-        <item>雨</item>
-        <item>雪</item>
+        <item>Klar</item>
+        <item>Teilweise bewölkt</item>
+        <item>Bewölkt</item>
+        <item>Schauer</item>
+        <item>Gewitter</item>
+        <item>Hagel</item>
+        <item>Schneeregen</item>
+        <item>Leichter Regen</item>
+        <item>Mäßiger Regen</item>
+        <item>Starker Regen</item>
+        <item>Gewitterschauer</item>
+        <item>Starker Regen</item>
+        <item>Heftiger Regen</item>
+        <item>Schneeschauer</item>
+        <item>Schneefall</item>
+        <item>Mittlerer Schneefall</item>
+        <item>Starker Schneefall</item>
+        <item>Schneesturm</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
+        <item>Sandsturm</item>
+        <item>Leichter - mäßiger Regen</item>
+        <item>Mäßiger - starker Regen</item>
+        <item>Starkregen</item>
+        <item>Regen - starker Regen</item>
+        <item>Starker - extremer Regen</item>
+        <item>Wenig - mittlerer Schneefall</item>
+        <item>Mäßiger - starker Schneefall</item>
+        <item>Starker Schneestrum</item>
+        <item>Herumfliegender Staub</item>
+        <item>Sandsturm</item>
+        <item>Starker Sandsturm</item>
+        <item>Dichter Nebel</item>
+        <item>Starker Nebel</item>
+        <item>Dunst</item>
+        <item>Mäßiger Dunst</item>
+        <item>Starker Dunst</item>
+        <item>Sehr starker Dunst</item>
+        <item>Dichter Nebel</item>
+        <item>Starker Nebel</item>
+        <item>Nichts</item>
+        <item>Regen</item>
+        <item>Schneefall</item>
     </string-array>
     <string-array name="taobao">
-        <item>淘宝</item>
+        <item>Taobao</item>
         <item>taobao.com</item>
         <item>http://r.m.taobao.com/favicon.ico</item>
         <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
