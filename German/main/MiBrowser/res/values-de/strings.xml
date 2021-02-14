@@ -624,46 +624,43 @@
     <string name="copy">Kopieren</string>
     <string name="current_network_state_air_mode">Airplane mode is on</string>
     <string name="current_network_state_not_need_diagnose">Current network connection works well</string>
-    <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
-    <string name="custom_head_weather">Weather</string>
-    <string name="custom_wallpaper_cancel">返回</string>
-    <string name="custom_wallpaper_choose_image_btn">Select image</string>
-    <string name="custom_wallpaper_confirm">确认</string>
-    <string name="custom_wallpaper_dark_logo_btn">Black logo</string>
-    <string name="custom_wallpaper_hide_logo_btn">Hide logo</string>
-    <string name="custom_wallpaper_light_logo_btn">White logo</string>
-    <string name="custom_wallpaper_popup">Press and hold to set wallpaper</string>
-    <string name="custom_wallpaper_reset_btn">Reset</string>
-    <string name="custom_wallpaper_setting_dialog">Setting wallpaper…</string>
-    <string name="custom_wallpaper_setting_title">Set wallpaper</string>
-    <string name="custom_wallpaper_show_logo_btn">Show logo</string>
-    <string name="custom_wallpaper_tip">Pinch to zoom in and out</string>
+    <string name="custom_head_card_text">Immer glauben, dass etwas Wunderbares passieren wird</string>
+    <string name="custom_head_weather">Wetter</string>
+    <string name="custom_wallpaper_cancel">Abbrechen</string>
+    <string name="custom_wallpaper_choose_image_btn">Bild auswählen</string>
+    <string name="custom_wallpaper_confirm">Bestätigen</string>
+    <string name="custom_wallpaper_dark_logo_btn">Schwarzes Logo</string>
+    <string name="custom_wallpaper_hide_logo_btn">Logo ausblenden</string>
+    <string name="custom_wallpaper_light_logo_btn">Weißes Logo</string>
+    <string name="custom_wallpaper_popup">Gedrückt halten, um Hintergrund festzulegen</string>
+    <string name="custom_wallpaper_reset_btn">Zurücksetzen</string>
+    <string name="custom_wallpaper_setting_dialog">Hintergrund festlegen…</string>
+    <string name="custom_wallpaper_setting_title">Hintergrund festlegen</string>
+    <string name="custom_wallpaper_show_logo_btn">Logo anzeigen</string>
+    <string name="custom_wallpaper_tip">Drücken zum Vergrößern und Verkleinern</string>
     <string name="customize">Benutzerdefiniert</string>
-    <string name="customize_hint">"自定义搜索引擎地址获取方法：
+    <string name="customize_hint">"Benutzerdefinierte Suchmaschinen-Adresserfassungsmethode：
 
-1.在浏览器输入需要自定义的搜索引擎网址，例如：baidu.com
-2.在搜索引擎网页中输入\"test\"并搜索
-3.复制该网址，粘贴至添加弹窗中，保存
+1. Beispielsweise die Suchmaschinen-URL eingeben, die im Browser angepasst werden muss： baidu.com
+2. \"Test\" auf der Suchmaschinenseite eingeben
+3. URL kopieren, in Popup einfügen und speichern
 
-浏览器不保证自定义搜索引擎的安全，请您自行阅读其相关搜索引擎隐私政策，使用中请遵守当地法律法规。"</string>
+Browser garantiert nicht die Sicherheit der benutzerdefinierten Suchmaschine. Bitte lesen Sie die entsprechenden Datenschutzrichtlinien für Suchmaschinen selbst und beachten Sie bei der Verwendung die örtlichen Gesetze und Vorschriften."</string>
     <string name="customize_module_dialog_btn">Verstanden</string>
-    <string name="customize_module_dialog_content">You can choose which items to display on the search page in Settings > Sucheinstellungen.</string>
+    <string name="customize_module_dialog_content">Sie können unter Einstellungen auswählen, welche Elemente auf der Suchseite angezeigt werden sollen > Sucheinstellungen.</string>
     <string name="customize_module_dialog_title">Elemente anzeigen</string>
-    <string name="customize_operation">自定义（长按可编辑）</string>
+    <string name="customize_operation">Benutzerdefiniert (zum Bearbeiten lange gerück halten)</string>
     <string name="dark_mode_setting_dark">Nacht (dunkle Farben)</string>
     <string name="dark_mode_setting_follow">Systemabhängig</string>
     <string name="dark_mode_setting_light">Tag (helle Farben)</string>
     <string name="dark_mode_setting_title">Nachtmodus</string>
-    <string name="data_monitor">Traffic monitoring reminder</string>
-    <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
-    <string name="data_traffic_continue">Continue</string>
+    <string name="data_monitor">Erinnerung an Verbrauchsüberwachung</string>
+    <string name="data_monitor_dialog_message">Sieht so aus, als würde etwas Ihre mobilen Daten verbrauchen. Startseite öffnen, um dies zu beenden.</string>
+    <string name="data_traffic_continue">Weiter</string>
     <string name="data_traffic_download_toast_msg">Currently using data traffic to cache video</string>
     <string name="data_traffic_prompt_message">Nutzung der mobilen Datenverbindung zum Durchsuchen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
     <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
-    <string name="data_traffic_stop">Stop</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
+    <string name="data_traffic_stop">Anhalten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="debug_address_title">超级地址切换模式</string>
     <string name="debug_browser_hint">来改我呀～</string>
@@ -681,11 +678,11 @@
     <string name="debug_info_flow_title">详细信息</string>
     <string name="debug_jump_title">页面跳转大全</string>
     <string name="debug_mediation_title">聚合sdk测试</string>
-    <string name="debug_mode_toast">Debug mode is enabled</string>
+    <string name="debug_mode_toast">Debug-Modus ist aktiviert</string>
     <string name="debug_sug_switch">切换sug测试环境</string>
     <string name="deeplink_intrercept_hint">该弹窗将引导您打开应用</string>
     <string name="deeplink_intrercept_second_hint">网站将打开应用，已为您暂停</string>
-    <string name="default_notification_channel_name">Now playing</string>
+    <string name="default_notification_channel_name">Nicht abspielen</string>
     <string name="delete">Löschen</string>
     <string name="delete_bookmark">Löschen</string>
     <string name="delete_bookmark_action_warning">Lesezeichen löschen?</string>
@@ -696,24 +693,24 @@
     <string name="delete_select_book_ask">同时删除本机上的文件</string>
     <string name="dev_pref_debug_login">Debug-Anmeldung simulieren</string>
     <string name="dev_pref_title_jump">页面跳转</string>
-    <string name="diagnostic_detail_cellular_state">数据网状况</string>
-    <string name="diagnostic_detail_check_network">检查网络</string>
-    <string name="diagnostic_detail_dns_count">解析到IP地址数量</string>
-    <string name="diagnostic_detail_dns_ip">解析到IP地址</string>
-    <string name="diagnostic_detail_gateway">使用网关</string>
-    <string name="diagnostic_detail_network_abnormal">网络可能有问题，建议检查网络设置</string>
-    <string name="diagnostic_detail_network_normal">网络连接正常</string>
-    <string name="diagnostic_detail_no_set">未设置</string>
-    <string name="diagnostic_detail_report">上报错误日志</string>
-    <string name="diagnostic_detail_report_suc">上报成功</string>
-    <string name="diagnostic_detail_title_cause">失败原因</string>
-    <string name="diagnostic_detail_title_dns">DNS解析信息</string>
-    <string name="diagnostic_detail_title_enviroment">网络环境</string>
-    <string name="diagnostic_detail_title_url">失败网址</string>
-    <string name="diagnostic_detail_turned_off">未开启</string>
-    <string name="diagnostic_detail_turned_on">已开启</string>
-    <string name="diagnostic_detail_wifi_name">接入点名称</string>
-    <string name="diagnostic_detail_wifi_state">WIFI状况</string>
+    <string name="diagnostic_detail_cellular_state">Datennetzwerkstatus</string>
+    <string name="diagnostic_detail_check_network">Netzwerk überprüfen</string>
+    <string name="diagnostic_detail_dns_count">Aufgelöste IP-Adressenanzahl</string>
+    <string name="diagnostic_detail_dns_ip">IP-Adresse auflösen</string>
+    <string name="diagnostic_detail_gateway">Gateway verwenden</string>
+    <string name="diagnostic_detail_network_abnormal">Möglicherweise liegt ein Netzwerkproblem vor. Es wird empfohlen, die Netzwerkeinstellungen zu überprüfen</string>
+    <string name="diagnostic_detail_network_normal">Netzwerkverbindung normal</string>
+    <string name="diagnostic_detail_no_set">Nicht festgelegt</string>
+    <string name="diagnostic_detail_report">Fehlerprotokoll melden</string>
+    <string name="diagnostic_detail_report_suc">Erfolgreich gemeldet</string>
+    <string name="diagnostic_detail_title_cause">Scheiterungsgrund</string>
+    <string name="diagnostic_detail_title_dns">DNS-Auflösungsinfo</string>
+    <string name="diagnostic_detail_title_enviroment">Webumgebung</string>
+    <string name="diagnostic_detail_title_url">URL fehlgeschlagen</string>
+    <string name="diagnostic_detail_turned_off">Ausgeschaltet</string>
+    <string name="diagnostic_detail_turned_on">Eingeschaltet</string>
+    <string name="diagnostic_detail_wifi_name">Zugangspunktsname</string>
+    <string name="diagnostic_detail_wifi_state">WLAN-Status</string>
     <string name="diagnostic_finish">Done</string>
     <string name="dialog_ad_exit_exit_app">Später</string>
     <string name="dialog_ad_exit_open_app">Öffnen</string>
@@ -3887,7 +3884,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="update_no_network_toast">"Can't connect to the network"</string>
     <string name="uploads_disabled">File uploads are disabled</string>
     <string name="url_copy_done">URL copied to clipboard</string>
-    <string name="url_hint">Enter a URL or search the web</string>
+    <string name="url_hint">URL eingeben oder im Web suchen</string>
     <string name="url_hint_from_search">Enter the keyword</string>
     <string name="url_opened_in_background">Open in background tab</string>
     <string name="use_cellular_network_alert_message">"Wi-Fi isn't available. Use your mobile data connection instead?"</string>
