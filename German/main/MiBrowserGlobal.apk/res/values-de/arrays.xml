@@ -24,18 +24,9 @@
         <item>Registerkarten wechseln</item>
         <item>Keine</item>
     </string-array>
-    <string-array name="pref_fling_on_border_gesture_values">
-        <item>back_forward</item>
-        <item>switch_tabs</item>
-        <item>Keine</item>
-    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Standard</item>
         <item>Anpasste</item>
-    </string-array>
-    <string-array name="pref_homepage_values">
-        <item>miui_home</item>
-        <item>Andere</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefon</item>
@@ -63,9 +54,14 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="protection_name">
+        <item>Automatisch</item>
+        <item>Keiner</item>
+        <item>Neuer Benutzer</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Löschen</item>
-        <item>Nein, danke</item>
+        <item>Nein danke</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
@@ -73,23 +69,23 @@
     </string-array>
     <string-array name="shortcut_dialog_title">
         <item>Browsernachricht</item>
-        <item>Folge den Olympischen Spiele mit Mi</item>
+        <item>Den Olympischen Spiele mit Mi folgen</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>Die aktuelle Netzwerkverbindung ist sehr langsam. Es scheint, dass du dich in einem Gebiet mit schlechter Netzabdeckung befindest.</item>
-        <item>Die aktuelle Netzwerkverbindung ist langsam.</item>
+        <item>Aktuelle Netzwerkverbindung ist sehr langsam. Es scheint, dass Sie sich in einem Gebiet mit schlechter Netzabdeckung befinden.</item>
+        <item>Aktuelle Netzwerkverbindung ist langsam.</item>
         <item>Keine Probleme mit der Netzwerkverbindung gefunden.</item>
-        <item>Die aktuelle Netzwerkverbindung ist schnell. Sie ist ausreichend für das Streamen von Filmen!</item>
-        <item>Die aktuelle Netzwerkverbindung ist sehr schnell! Sie ist gut genug für dein Spiel.</item>
+        <item>Aktuelle Netzwerkverbindung ist schnell. Sie ist ausreichend für das Streamen von Filmen!</item>
+        <item>Aktuelle Netzwerkverbindung ist sehr schnell! Sie ist gut genug für Ihr Spiel.</item>
     </string-array>
     <string-array name="user_guide_info_array">
-        <item>Videos und Fotos von sozialen Medien herunterladen</item>
+        <item>Videos und Fotos von Social Media herunterladen</item>
         <item>Bilder und Videos von WhatsApp-Status speichern</item>
         <item>Dateien auf Ihrem Gerät verwalten und sie privat machen</item>
     </string-array>
     <string-array name="user_guide_title_array">
         <item>Videos herunterladen</item>
-        <item>WhatsApp-Status-Saver</item>
+        <item>WhatsApp-Status-Speicher</item>
         <item>Private Dateien</item>
     </string-array>
 </resources>
