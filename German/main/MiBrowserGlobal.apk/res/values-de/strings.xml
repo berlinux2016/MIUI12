@@ -2023,6 +2023,7 @@ Du kannst dich jederzeit wieder abmelden und zwar unter Einstellungen > Datensch
     <string name="video_download_wait_for_wifi">Warte auf Wlan</string>
     <string name="video_downloaded_group">Heruntergeladen</string>
     <string name="video_downloader_edit_hint">"Füge einen Link ein, um ein Video herunterzuladen. Zum Beispiel:
+https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">Elemente konnte nicht heruntergeladen werden</string>
     <string name="video_downloader_retry">Erneut versuchen</string>
     <string name="video_downloading_group">Herunterladen</string>
