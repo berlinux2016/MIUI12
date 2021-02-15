@@ -10,13 +10,13 @@
         <item>Lesezeichen</item>
     </string-array>
     <string-array name="general__notification_toolbar_default_tips_array">
-        <item>Erfrischende gute Romane für Sie</item>
+        <item>Erfrischend gute Romane für Sie</item>
         <item>Eine Sammlung kostenloser Romane</item>
         <item>Der Roman wird aktualisiert. Klicken Sie hier, um ihn anzuzeigen</item>
         <item>Meister, vergessen Sie nicht, das Buch zu lesen</item>
         <item>Nur 3% der Männer kennen diese Romane</item>
-        <item>Browser-Romane, alles da, wissen Sie</item>
-        <item>Eine große Welle guter Bücher kommt, klicken Sie hier, um sie anzusehen</item>
+        <item>Browser-Romane, alles da</item>
+        <item>Eine große Welle guter Bücher kommt. Klicken Sie hier, um sie anzusehen</item>
     </string-array>
     <string-array name="nf_feedback_reason">
         <item>Expliziter Inhalt</item>
@@ -45,7 +45,6 @@
         <item>Tablet</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Kachelansicht</item>
         <item>Vertikale Ansicht</item>
         <item>Horizontale Ansicht</item>
     </string-array>
