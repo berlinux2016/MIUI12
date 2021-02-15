@@ -105,7 +105,7 @@
     <string name="adblock_rules_not_updated_toast">Aktualisierung fehlgeschlagen</string>
     <string name="adblock_rules_restore">Blockierung aufheben</string>
     <string name="adblock_rules_updated_toast">Aktualisierung erfolgreich</string>
-    <string name="adblock_websites_settings_empyt_hint">Du hast keine Seiten blockiert.</string>
+    <string name="adblock_websites_settings_empyt_hint">Sie haben keine Seiten blockiert.</string>
     <string name="adblock_websites_settings_title">Blockierte Seiten</string>
     <string name="add_bookmark_group">Gruppe hinzufügen</string>
     <string name="add_bookmarks">Lesezeichen</string>
@@ -162,7 +162,7 @@
     <string name="block">Blockieren</string>
     <string name="block_ads_choice_block">Blockieren</string>
     <string name="block_ads_choice_continue">Weiter</string>
-    <string name="block_ads_message">Möchtest du Benachrichtigungen dieser Internetseite blockieren?</string>
+    <string name="block_ads_message">Möchten Sie Benachrichtigungen dieser Internetseite blockieren?</string>
     <string name="block_ads_title">Inhalt kann Werbung enthalten</string>
     <string name="block_cookies">Cookies von Drittanbietern blockieren</string>
     <string name="block_cookies_tips">Erlaube Websites nicht, auf Cookies zuzugreifen und diese zu speichern. Funktionen auf einigen Websites funktionieren möglicherweise nicht ordnungsgemäß,</string>
@@ -180,7 +180,7 @@
     <string name="bookmark_saved">Zu Lesezeichen hinzugefügt</string>
     <string name="bookmark_sync_alert_ok">Synchr.</string>
     <string name="bookmark_sync_alert_title">Zu synchronisierende Elemente auswählen</string>
-    <string name="bookmark_sync_tip_in_login_activity">Durch das Tippen auf „Anmelden\" erklärst du dich damit einverstanden, Lesezeichen und Browserverlauf automatisch zu synchronisieren. Du kannst die Synchronisierung später unter „Mein Konto\" deaktivieren.</string>
+    <string name="bookmark_sync_tip_in_login_activity">Durch Tippen auf \"Anmelden\" erklären Sie sich damit einverstanden, Lesezeichen und Browserverlauf automatisch zu synchronisieren. Sie können die Synchronisierung später unter \"Mein Konto\" deaktivieren.</string>
     <string name="bookmark_sync_tip_in_profile_page">"Zu synchr. Elemente auswählen.
 Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="bookmark_sync_tip_logined">Lesezeichen und Browserverlauf synchronisieren</string>
@@ -237,8 +237,8 @@ Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="channel_reset">Zurücksetzen</string>
     <string name="channels_edit">Bearbeiten</string>
     <string name="channels_finish">Fertig</string>
-    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
-    <string name="check_google_play_login">Überprüfe, ob du im Play Store angemeldet bist</string>
+    <string name="character_counter_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
+    <string name="check_google_play_login">Überprüfen, ob Sie im Play Store angemeldet sind</string>
     <string name="choose_to_signin">Ja</string>
     <string name="choose_to_signup">Nein, ich werde eins erstellen</string>
     <string name="choosertitle_sharevia">Teilen über</string>
@@ -259,7 +259,7 @@ Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="close_ads_title">Inhalt blockieren?</string>
     <string name="close_all_tab_alert_message">Alle zur Zeit geöffneten Registerkartes im Browser schließen?</string>
     <string name="close_all_tab_alert_title">Alle Registerkartes schließen</string>
-    <string name="close_cant_recommand">Du wirst keine personalisierten Inhaltsdienste erhalten, wenn du diese Funktion ausschaltest.</string>
+    <string name="close_cant_recommand">Sie werden keine personalisierten Inhaltsdienste erhalten, wenn Sie diese Funktion ausschalten.</string>
     <string name="close_cloud_tab_tip">Cloud-Registerkarten auf %s schließen?</string>
     <string name="cloud_loading_tips">Zum Synchronisieren nach unten ziehen</string>
     <string name="cloud_no_new_data_toast">Alles aktuell</string>
@@ -273,18 +273,18 @@ Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="collection_articles">Artikel</string>
     <string name="collection_videos">Videos</string>
     <string name="columbus_player_close_desc">You will lose your reward</string>
-    <string name="columbus_player_close_resume">RESUME VIDEO</string>
-    <string name="columbus_player_close_title">Close Video?</string>
-    <string name="columbus_player_close_video">CLOSE VIDEO</string>
-    <string name="columbus_player_install_now">INSTALL NOW</string>
-    <string name="columbus_player_learn_more">Learn More</string>
+    <string name="columbus_player_close_resume">FORTSETZUNG VIDEO</string>
+    <string name="columbus_player_close_title">Video schließen?</string>
+    <string name="columbus_player_close_video">VIDEO SCHLIESSEN</string>
+    <string name="columbus_player_install_now">JETZT INSTALLIEREN</string>
+    <string name="columbus_player_learn_more">Mehr erfahren</string>
     <string name="com_facebook_device_auth_instructions">Gehe zu &lt;b>facebook.com/device&lt;/b> und gib den oben angezeigten Code ein.</string>
     <string name="com_facebook_image_download_unknown_error">Unerwarteter Fehler beim Herunterladen eines Bildes.</string>
     <string name="com_facebook_internet_permission_error_message">WebView-Anmeldung erfordert INTERNET-Berechtigung</string>
     <string name="com_facebook_internet_permission_error_title">AndroidOffensichtlicher Fehler</string>
     <string name="com_facebook_like_button_liked">Gefällt dir</string>
     <string name="com_facebook_like_button_not_liked">Gefällt mir</string>
-    <string name="com_facebook_loading">Wird geladen ...</string>
+    <string name="com_facebook_loading">Wird geladen…</string>
     <string name="com_facebook_loginview_cancel_action">Abbrechen</string>
     <string name="com_facebook_loginview_log_in_button">Melde dich an</string>
     <string name="com_facebook_loginview_log_in_button_continue">Weiter mit Facebook</string>
@@ -297,7 +297,7 @@ Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="com_facebook_share_button_text">Teilen</string>
     <string name="com_facebook_smart_device_instructions">Öffne die Facebook-App auf deinem Mobilgerät, um dich mit deinem Konto zu verbinden und nach Benachrichtigungen zu suchen.</string>
     <string name="com_facebook_smart_device_instructions_or">- ODER -</string>
-    <string name="com_facebook_smart_login_confirmation_cancel">Das bist du nicht?</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Das sind Sie nicht?</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">Weiter als %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Anmeldung bestätigen</string>
     <string name="com_facebook_tooltip_default">Du bestimmst, welche Informationen du mit Apps teilen möchtest.</string>
@@ -717,8 +717,8 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="hint">Hinweis</string>
     <string name="history">Verlauf</string>
     <string name="home_description">Start</string>
-    <string name="home_feed_channel">„News“ in der Navigationsleiste anzeigen</string>
-    <string name="home_game_channel">„Spiele“ in der Navigationsleiste anzeigen</string>
+    <string name="home_feed_channel">\"Nachrichten\" in der Navigationsleiste anzeigen</string>
+    <string name="home_game_channel">\"Spiele\" in der Navigationsleiste anzeigen</string>
     <string name="home_nf">Inhaltsfeed</string>
     <string name="home_nf_recommend_on">Für dich empfohlen</string>
     <string name="homepage_delete_card_menu">Löschen</string>
@@ -765,7 +765,7 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="isornot_your_mi_account">Ist das dein Mi Konto?</string>
     <string name="js_disable_confirm_message">Eine Deaktivierung von JavaScript kann dazu führen, dass einige Internetseiten nicht korrekt angezeigt werden.</string>
     <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
-    <string name="just_a_second">Moment ...…</string>
+    <string name="just_a_second">Einen Moment…</string>
     <string name="just_now">Jetzt gerade</string>
     <string name="le_download_failed_server_error">Herunterladen aufgrund eines Server-Fehlers fehlgeschlagen.</string>
     <string name="le_network_chagne_to_none">Vom Netzwerk getrennt. Alle Downloads wurden angehalten.</string>
@@ -777,7 +777,7 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="list_menu_rename_result_fail">Umbenennen fehlgeschlagen</string>
     <string name="list_menu_rename_result_repeat">Es gibt bereits eine Datei mit diesem Namen</string>
     <string name="load_more">Mehr anzeigen</string>
-    <string name="loading">Moment ...…</string>
+    <string name="loading">Einen Moment…</string>
     <string name="loading_tips">Zum Aktualisieren nach unten ziehen</string>
     <string name="local_apps">Lokale Apps</string>
     <string name="lockpattern_continue_button_text">Weiter</string>
@@ -855,7 +855,7 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Das war's fürs Erste"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Das war's fürs Erste"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Moment...…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Einen Moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Laden von Elementen fehlgeschlagen</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">SD-Karte wird benötigt, um dieses Verzeichnis zu ändern.</string>
     <string name="monday">Montag</string>
@@ -1249,7 +1249,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="passport_error_user_name">Der eingegebene Benutzername ist ungültig</string>
     <string name="passport_forget_password"><u>Passwort vergessen</u></string>
     <string name="passport_get_verify_code">Code bekommen</string>
-    <string name="passport_getting_verify_code">Moment ...…</string>
+    <string name="passport_getting_verify_code">Einen Moment…</string>
     <string name="passport_identification_expired">Bestätigungscode abgelaufen, neu beginnen.</string>
     <string name="passport_input_captcha_hint">Code eingeben</string>
     <string name="passport_input_password_hint">Passwort eingeben</string>
@@ -1795,8 +1795,8 @@ Einige Websites verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung
     <string name="speed_test_upload">Hochladen</string>
     <string name="ssl_bad_clock_date_settings">Datum festlegen</string>
     <string name="ssl_bad_clock_warning" formatted="false">Eine private Verbindung zu %s1 kann nicht hergestellt werden, da das Datum und die Uhrzeit deines Gerätes (%s2) falsch sind.</string>
-    <string name="ssl_bad_expired_warning">Dieser Kanal wird von %1$s bereitgestellt. Das auf Ihrem Gerät eingestellte Datum und die Uhrzeit (%2$s) erlauben jedoch nicht, eine sichere Verbindung mit %1$s herzustellen. Du kannst das korrekte Datum und die korrekte Uhrzeit einstellen oder auf „Weiter“ tippen, wenn du diesen Kanal trotzdem benutzen möchtest.</string>
-    <string name="ssl_bad_warning">Dieser Kanal wird von %1$s bereitgestellt. Mi Browser kann jedoch nicht überprüfen, ob dieser Server zu %1$s gehört, da sein Zertifikat ungültig ist oder widerrufen wurde. Dieses Problem kann durch falsche Konfigurationen oder eine blockierte Verbindung verursacht werden. Tippe auf „Weiter“, wenn du diesen Kanal trotzdem verwenden möchtest.</string>
+    <string name="ssl_bad_expired_warning">Dieser Kanal wird von %1$s bereitgestellt. Das auf Ihrem Gerät eingestellte Datum und die Uhrzeit (%2$s) erlauben jedoch nicht, eine sichere Verbindung mit %1$s herzustellen. Sie können das korrekte Datum und die korrekte Uhrzeit einstellen oder auf \"Weiter\" tippen, wenn Sie diesen Kanal trotzdem benutzen möchten.</string>
+    <string name="ssl_bad_warning">Dieser Kanal wird von %1$s bereitgestellt. Mi Browser kann jedoch nicht überprüfen, ob dieser Server zu %1$s gehört, da sein Zertifikat ungültig ist oder widerrufen wurde. Dieses Problem kann durch falsche Konfigurationen oder eine blockierte Verbindung verursacht werden. Auf \"Weiter\" tippen, wenn Sie diesen Kanal trotzdem verwenden möchten.</string>
     <string name="ssl_certificate">Sicherheitszertifikat</string>
     <string name="ssl_certificate_is_valid">Dieses Zertifikat ist gültig.</string>
     <string name="ssl_continue">Fortfahren</string>
@@ -1907,7 +1907,7 @@ Einige Websites verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung
     <string name="tip_drag">Lange drücken zum Bearbeiten und Ziehen zum sortieren.</string>
     <string name="tip_not_support_external_sdcard_modify">Auf der SD-Karte gespeicherte Dateien können nicht bearbeitet werden</string>
     <string name="tip_sync_disabled_by_incognito">Elemente können im Unsichtbar-Modus nicht synchronisiert werden.</string>
-    <string name="tip_sync_switch_off">Synchronisierung ist deaktiviert. Du kannst sie unter „Mein Konto\" aktivieren.</string>
+    <string name="tip_sync_switch_off">Synchronisierung ist deaktiviert. Sie können sie unter \"Mein Konto\" aktivieren.</string>
     <string name="title_app_tags">Apps</string>
     <string name="title_bar_loading">Laden…</string>
     <string name="title_command_mode">Befehlsmodus</string>
@@ -1964,11 +1964,11 @@ Einige Websites verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung
     <string name="use_cellular_network_alert_message">WLAN ist nicht verfügbar. Willst du stattdessen deine mobile Daten verwenden?</string>
     <string name="use_cellular_network_alert_title">Datenverbrauch</string>
     <string name="user_avatar_update_title">Profilfoto ändern</string>
-    <string name="user_avatar_uploading">Moment ...…</string>
+    <string name="user_avatar_uploading">Einen Moment…</string>
     <string name="user_defined_webpage">Zur Startseite hinzufügen</string>
     <string name="user_defined_webpage_title">Zur Startseite hinzufügen</string>
     <string name="user_experience_agree">Anmelden</string>
-    <string name="user_experience_content">"Das Benutzererfahrungsprogramm unterstützt uns dabei, unsere Produkte und Dienste auf gezielte Weise zu verbessern sowie neue für dich hilfreiche Funktionen und Dienste einzuführen. Nach deiner Anmeldung bei dem Programm beginnen wir damit, relevante Informationen (z. B. Daten der Produktnutzung) zu erheben und zu analysieren. Indem du im Folgenden auf „Anmelden“ tippst erklärst du dich einverstanden mit den für das &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Benutzererfahrungsprogramm&lt;/a>&lt;/font> geltenden Geschäftsbedingungen.
+    <string name="user_experience_content">"Das Benutzererfahrungsprogramm unterstützt uns dabei, unsere Produkte und Dienste auf gezielte Weise zu verbessern sowie neue für dich hilfreiche Funktionen und Dienste einzuführen. Nach deiner Anmeldung bei dem Programm beginnen wir damit, relevante Informationen (z. B. Daten der Produktnutzung) zu erheben und zu analysieren. Indem Sie im Folgenden auf \"Anmelden\" tippen, erklären Sie sich einverstanden mit den für das &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Benutzererfahrungsprogramm&lt;/a>&lt;/font> geltenden Geschäftsbedingungen.
 Du kannst dich jederzeit wieder abmelden und zwar unter Einstellungen > Datenschutz &amp; Sicherheit."</string>
     <string name="user_experience_disagree">Nicht anmelden</string>
     <string name="user_experience_title">Benutzererfahrungsprogramm</string>
@@ -2103,7 +2103,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_no_status_tips">Noch keine Bilder oder Videos vorhanden. Sieh dir deine WhatsApp-Status-Updates an und komme wieder hierher zurück.</string>
     <string name="whatsapp_principle_page_message">WhatsApp speichert Fotos und Videos, die du durchsuchst, in einem ausgeblendeten Ordner. Diese Elemente verschwinden nach 24 Stunden. Jetzt kannst du den Mi Browser verwenden, um diese zu speichern.</string>
     <string name="whatsapp_principle_page_title">Du kannst Bilder und Videos von WhatsApp-Status mit dem Mi Browser speichern</string>
-    <string name="whatsapp_principle_step_1">Durchsuche Bilder und Videos über den „Status\"-Tab in WhatsApp.</string>
+    <string name="whatsapp_principle_step_1">Bilder und Videos über den \"Status\"-Tab in WhatsApp durchsuchen.</string>
     <string name="whatsapp_principle_step_2">Kehre hierher zurück, um sie zu speichern.</string>
     <string name="whatsapp_status_saver">WhatsApp-Status-Saver</string>
     <string name="whatsapp_webpage_btn">Anzeigen</string>
