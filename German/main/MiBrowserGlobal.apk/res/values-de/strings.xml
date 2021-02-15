@@ -150,7 +150,7 @@
     <string name="aqi_quality_index_unhealthy">Ungesund</string>
     <string name="articles_collection_empty">Hier gibt es noch keine Artikel</string>
     <string name="auth_fail_warning">Sitzung abgelaufen. Melde dich erneut an.</string>
-    <string name="autoSwithcingSearchEngineTips">Zur häufig verwendete Suchmaschine gewechselt</string>
+    <string name="autoSwithcingSearchEngineTips">Zur häufig verwendeten Suchmaschine gewechselt</string>
     <string name="autologin_bar_error">Anmeldung fehlgeschlagen</string>
     <string name="autologin_bar_hide_text">Ausblenden</string>
     <string name="autologin_bar_login_text">Anmelden</string>
@@ -2092,7 +2092,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="welcome_to_mi_browser">Willkommen bei Mi Browser!</string>
     <string name="what_is_new">Die App aktualisieren, um auf neue Funktionen zuzugreifen</string>
-    <string name="whatsapp_downloadpage_tips">WhatsApp-Status-Saver</string>
+    <string name="whatsapp_downloadpage_tips">WhatsApp-Status-Retter</string>
     <string name="whatsapp_file_saved_success">Erfolgreich gespeichert</string>
     <string name="whatsapp_how_it_works">So funktioniert es</string>
     <string name="whatsapp_intro_dialog_title">Neue Funktion</string>
