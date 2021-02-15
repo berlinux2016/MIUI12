@@ -942,7 +942,6 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="mw_common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
     <string name="mw_common_google_play_services_enable_title">Enable Google Play services</string>
     <string name="mw_common_google_play_services_install_button">Install</string>
-    <string name="mw_common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
     <string name="mw_common_google_play_services_install_title">Get Google Play services</string>
     <string name="mw_common_google_play_services_notification_channel_name">Google Play services availability</string>
     <string name="mw_common_google_play_services_notification_ticker">Google Play services error</string>
@@ -1307,8 +1306,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="passport_wrong_vcode">Der eingegebene Code ist falsch</string>
     <string name="passport_wrong_voice">Der eingegebene Code ist falsch</string>
     <string name="password">Passwort</string>
-    <string name="pay_failed_toast">Bezahlung konnte nicht abgeschlossen werden</string>
-    <string name="pay_failed_toast">"Couldn't complete payment"</string>
+    <string name="pay_failed_toast">Bezahlung abschließen nicht möglich</string>
     <string name="pay_success_toast">Zahlung erfolgreich</string>
     <string name="per_month">Pro Monat</string>
     <string name="permission_agree_service">Ich habe die folgenden Nutzungsbedingungen gelesen und stimme ihnen zu.</string>
