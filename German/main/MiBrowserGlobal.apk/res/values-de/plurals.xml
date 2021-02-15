@@ -4,16 +4,16 @@
     <item quantity="other">Vor 1 Stunde</item>
   </plurals>
   <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">Vor 1 Stunde</item>
+    <item quantity="other">Vor 1 Std</item>
   </plurals>
   <plurals name="abbrev_half_hour_ago">
-    <item quantity="other">Vor einer halben Stunde</item>
+    <item quantity="other">Vor einer halben Std</item>
   </plurals>
   <plurals name="abbrev_in_a_hour">
-    <item quantity="other">In 1 Stunde</item>
+    <item quantity="other">In 1 Std</item>
   </plurals>
   <plurals name="abbrev_in_half_hour">
-    <item quantity="other">In einer halben Stunde</item>
+    <item quantity="other">In einer halben Std</item>
   </plurals>
   <plurals name="abbrev_in_less_than_one_minute">
     <item quantity="other">Sofort</item>
@@ -82,8 +82,12 @@
     <item quantity="one">%d Follower</item>
   </plurals>
   <plurals name="hours_ago">
-    <item quantity="other">Vor %1$d Stunden</item>
-    <item quantity="one">Vor %1$d Stunde</item>
+    <item quantity="other">vor %1$d Stunden</item>
+    <item quantity="zero">vor %1$d Stunden</item>
+    <item quantity="one">vor %1$d Stunde</item>
+    <item quantity="two">vor %1$d Stunden</item>
+    <item quantity="few">vor %1$d Stunden</item>
+    <item quantity="many">vor %1$d Stunden</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">In 1 Stunde</item>

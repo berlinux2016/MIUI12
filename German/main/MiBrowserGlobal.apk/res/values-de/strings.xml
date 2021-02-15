@@ -387,7 +387,8 @@
     <string name="detail_guide_tips">Hochwischen für weitere verwandte Elemente</string>
     <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen</string>
     <string name="diagnosis_log_sent_format">"Diagnoseprotokoll wurde gesendet.
-ID:%s"</string>
+ID:%s"
+Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="dialog_channel_cancel">Abbrechen</string>
     <string name="dialog_channel_remove_content">Das Entfernen aller Kanäle entfernt auch den Inhaltsfeed.</string>
     <string name="dialog_game_banner">Sehen Sie sich beliebte Spiele an!</string>
