@@ -12,7 +12,6 @@
     <string name="MediaControlView_subtitle_off_text">Aus</string>
     <string name="MediaControlView_subtitle_track_number_and_lang_text">Track %1$d - %2$s</string>
     <string name="MediaControlView_subtitle_track_number_text">Track %1$d</string>
-    <string name="MediaControlView_time_placeholder">00:00:00</string>
     <string name="MediaControlView_video_quality_auto_text">Automatisch</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -1252,9 +1251,11 @@ Sie können jederzeit zu \"Einstellungen\"> \"Berechtigungsverwaltung\" gehen un
     <string name="gold_medals">Gold medals</string>
     <string name="green_kid_block_request">Access to this website is restricted.</string>
     <string name="guide_chosen_type_main_title">Sagen Sie uns, was Sie mögen</string>
-    <string name="guide_chosen_type_main_title_behind">was Sie mögen</string>
+    <string name="guide_chosen_type_main_title_behind">"
+was Sie mögen"</string>
     <string name="guide_chosen_type_main_title_front">Informieren Sie uns</string>
     <string name="guide_chosen_type_subtitle">"
+
 Ihre Interessen auswählen, um relevante Empfehlungen zu erhalten"</string>
     <string name="guide_entertainment_text">Unterhaltung</string>
     <string name="guide_fashion_text">Mode</string>
