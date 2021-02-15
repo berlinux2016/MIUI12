@@ -694,6 +694,7 @@ ID:%s"</string>
     <string name="if_cancel">Diesen Vorgang abbrechen?</string>
     <string name="ignore_add_game_center_dialog_this_week">Diese Woche nicht anzeigen</string>
     <string name="ignore_add_pwa_dialog_today">Heute nicht anzeigen</string>
+<<<<<<< Updated upstream
     <string name="improve_mi_browser_pe">Helfen Sie uns, Mi Browser zu verbessern</string>
     <string name="in_secureaccess">Browser ist im sicheren Modus</string>
     <string name="incognito_message">Jetzt können Sie privat surfen, und andere Personen, die dieses Gerät verwenden, sehen Ihre Aktivitäten nicht. Downloads und Lesezeichen werden jedoch weiterhin gespeichert.</string>
@@ -710,6 +711,24 @@ ID:%s"</string>
     <string name="incognito_title">Sie sind inkognito</string>
     <string name="inconsistent_pwd">Passwörter stimmen nicht überein</string>
     <string name="input_email_address_notice">Wir verwenden diese E-Mail, um Ihr Konto zu verifizieren</string>
+=======
+    <string name="improve_mi_browser_pe">Hilf uns, Mi Browser zu verbessern</string>
+    <string name="in_secureaccess">Browser ist zum sicheren Modus gewechselt</string>
+    <string name="incognito_message">Jetzt kannst du privat surfen, und andere Personen, die dieses Gerät verwenden, sehen deine Aktivität nicht. Downloads und Lesezeichen werden jedoch weiterhin gespeichert.</string>
+    <string name="incognito_off">Inkognito-Modus ist aus.</string>
+    <string name="incognito_on">Du bist inkognito!</string>
+    <string name="incognito_tips1">"Mi Browser speichert die folgenden Informationen nicht:
+ • Deinen Browserverlauf
+ • Cookies und Webseitendaten
+ • In Formulare eingegebene Informationen"</string>
+    <string name="incognito_tips2">"Deine Aktivitäten sind möglicherweise weiterhin sichtbar für:
+ • Webseiten, die du besuchst
+ • Deinen Arbeitgeber oder deine Schule
+ • Deinen Internetdienstanbieter"</string>
+    <string name="incognito_title">Du bist inkognito gegangen</string>
+    <string name="inconsistent_pwd">Die Passwörter stimmen nicht überein</string>
+    <string name="input_email_address_notice">Wir werden diese E-Mail-Adresse verwenden um dein Konto zu bestätigen</string>
+>>>>>>> Stashed changes
     <string name="input_new_pwd">Neues Passwort eingeben</string>
     <string name="ins_login_tips">Anmelden, um Videos von Instagram herunterzuladen</string>
     <string name="ins_register_btn">Konto mit E-Mail oder Rufnummer erstellen</string>
@@ -1381,10 +1400,17 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_notifications_title">Benachrichtigungen</string>
     <string name="pref_other_title">Sonstige</string>
     <string name="pref_paper_mode_title">Lesemodus</string>
+<<<<<<< Updated upstream
     <string name="pref_privacy_clear_cache_dlg">Alle Elemente löschen, die während des Browsens zwischengespeichert wurden?</string>
     <string name="pref_privacy_clear_cache_summary">Mi Browser speichert einige Webseiten im Cache, um sie beim nächsten Besuch schneller zu laden. Wenn Sie den Cache löschen, werden die von den Seiten während des Surfens gespeicherten Elemente gelöscht.</string>
     <string name="pref_privacy_clear_cookies_dlg">Alle Cookies jetzt löschen?</string>
     <string name="pref_privacy_clear_cookies_summary">Alle auf dem Gerät gespeicherten Cookies löschen. Cookies werden von den besuchten Webseiten erstellt und dann auf Ihrem Gerät gespeichert, um Ihnen das Surfen zu erleichtern.</string>
+=======
+    <string name="pref_privacy_clear_cache_dlg">Alle beim Surfen zwischengespeicherten Elemente löschen?</string>
+    <string name="pref_privacy_clear_cache_summary">Mi Browser speichert einige Webseiten zwischen, um sie beim nächsten Besuch schneller zu laden. Durch das Löschen des Cache werden die Elemente gelöscht, die von Webseiten beim Surfen gespeichert wurden.</string>
+    <string name="pref_privacy_clear_cookies_dlg">Jetzt alle Cookies löschen?</string>
+    <string name="pref_privacy_clear_cookies_summary">Löschen Sie alle auf Ihrem Gerät gespeicherten Cookies. Cookies werden von den von Ihnen besuchten Webseiten erstellt und dann auf Ihrem Gerät gespeichert, damit Sie bequemer surfen können.</string>
+>>>>>>> Stashed changes
     <string name="pref_privacy_clear_form_data">Formulardaten</string>
     <string name="pref_privacy_clear_form_data_dlg">Alle Formulardaten jetzt löschen?</string>
     <string name="pref_privacy_clear_form_data_summary">Alle zum Ausfüllen von Formularen verwendeten Daten automatisch löschen</string>
@@ -1393,11 +1419,19 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_privacy_clear_history_dlg">Kompletten Browserverlauf jetzt löschen?</string>
     <string name="pref_privacy_clear_history_summary">Browserverlauf löschen</string>
     <string name="pref_privacy_clear_passwords">Gespeicherte Passwörter</string>
+<<<<<<< Updated upstream
     <string name="pref_privacy_clear_passwords_dlg">Alle gespeicherten Passwörter jetzt löschen?</string>
     <string name="pref_privacy_clear_passwords_summary">Alle gespeicherten Passwörter löschen</string>
     <string name="pref_privacy_clear_site_settings">Seiteneinstellungen</string>
     <string name="pref_privacy_clear_site_settings_dlg">Alle Seiteneinstellungen jetzt löschen?</string>
     <string name="pref_privacy_clear_site_settings_summary">Alle Seiteneinstellungen löschen. Seiten werden beim nächsten Aufruf nach Berechtigungen fragen.</string>
+=======
+    <string name="pref_privacy_clear_passwords_dlg">Jetzt alle gespeicherten Passwörter löschen?</string>
+    <string name="pref_privacy_clear_passwords_summary">Lösche alle gespeicherten Passwörter</string>
+    <string name="pref_privacy_clear_site_settings">Einstellungen Webseiten</string>
+    <string name="pref_privacy_clear_site_settings_dlg">Jetzt alle Webseiteneinstellungen löschen?</string>
+    <string name="pref_privacy_clear_site_settings_summary">Löschen Sie alle Webseiteneinstellungen. Webseiten werden beim nächsten Besuch nach Berechtigungen fragen.</string>
+>>>>>>> Stashed changes
     <string name="pref_privacy_enable_geolocation">Standort</string>
     <string name="pref_privacy_enable_geolocation_summary">Browser erlauben, auf Ihren Standort zuzugreifen</string>
     <string name="pref_privacy_formdata_title">Formulardaten</string>
@@ -1410,6 +1444,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_rate_app">Bewerten</string>
     <string name="pref_save_bandwidth_mode_title">Datenverbrauch reduzieren</string>
     <string name="pref_security_accept_cookies">Cookies akzeptieren</string>
+<<<<<<< Updated upstream
     <string name="pref_security_accept_cookies_summary">Seiten erlauben, Cookies zu speichern, zu lesen und zu verwenden, um sich Ihre Einstellungen zu merken, auch wenn Sie diese Webseiten nicht besuchen</string>
     <string name="pref_security_do_not_track">Nicht verfolgen</string>
     <string name="pref_security_do_not_track_summary">Wählen Sie diese Option, um Webseiten mitzuteilen, dass Sie nicht möchten, dass diese Ihre Browsing-Daten sammeln oder verfolgen. Verschiedene Webseiten reagieren auf solche Anfragen unterschiedlich.
@@ -1423,6 +1458,21 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="pref_security_save_form_data_summary">Daten, die Sie in Formulare eingeben, werden gespeichert und automatisch ausgefüllt. Gespeicherte Elemente werden verschlüsselt und nur auf diesem Gerät gespeichert.</string>
     <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
     <string name="pref_security_show_security_warning_summary">Warnung bei Zertifikatsproblemen von Webseiten anzeigen</string>
+=======
+    <string name="pref_security_accept_cookies_summary">Ermöglichen Sie Webseiten das Speichern, Lesen und Verwenden von Cookies, um sich Ihre Einstellungen zu merken, auch wenn Sie diese Webseiten nicht besuchen.</string>
+    <string name="pref_security_do_not_track">Nicht verfolgen</string>
+    <string name="pref_security_do_not_track_summary">"Wählen Sie diese Option aus, um Webseiten darüber zu informieren, dass sie Ihre Browserdaten nicht erfassen oder verfolgen sollen. Verschiedene Webseiten reagieren unterschiedlich auf solche Anfragen.
+Einige Webseiten verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung für Sie zu personalisieren, während andere Ihren Browserverlauf möglicherweise weiterhin für verschiedene Zwecke erfassen und verwenden (Gewährleistung der Sicherheit, Bereitstellung von Inhalten, Anzeige relevanter Werbung). und mehr)."</string>
+    <string name="pref_security_passwords_title">Passwörter</string>
+    <string name="pref_security_remember_passwords">Passwörter merken</string>
+    <string name="pref_security_remember_passwords_summary">Benutzernamen und Passwörter für Webseiten speichern und automatisch ausfüllen. Gespeicherte Elemente werden verschlüsselt und nur auf diesem Gerät gespeichert.</string>
+    <string name="pref_security_report_url">Verbessern Sie die Such- und Browser-Erfahrung</string>
+    <string name="pref_security_report_url_summary">URLs der Webseite teilen, die Sie mit Xiaomi besuchen</string>
+    <string name="pref_security_save_form_data">Formulardaten speichern</string>
+    <string name="pref_security_save_form_data_summary">In Formulare eingegebene Daten speichern und Formulare automatisch ausfüllen. Gespeicherte Elemente werden verschlüsselt und nur auf diesem Gerät gespeichert.</string>
+    <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
+    <string name="pref_security_show_security_warning_summary">Zeigen Sie eine Sicherheitswarnung an, wenn ein Problem mit dem Zertifikat der Webseite vorliegt.</string>
+>>>>>>> Stashed changes
     <string name="pref_set_default_browser">Als Standardbrowser festlegen</string>
     <string name="pref_set_default_browser_don_ask">Nicht mehr fragen</string>
     <string name="pref_set_default_browser_msg">Mi Browser macht das Surfen im Internet schnell, bequem und sicher. Mi Browser als Standardbrowser festlegen?</string>
@@ -1436,16 +1486,25 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="pref_set_default_browser_toast">Standardbrowser erfolgreich festgelegt</string>
     <string name="pref_set_homepage_to">Festlegen auf</string>
     <string name="pref_setting_title">Seiteneinstellungen</string>
+<<<<<<< Updated upstream
     <string name="pref_show_ads">Werbung anzeigen</string>
     <string name="pref_site_settings_all_sites">Alle Seiten</string>
     <string name="pref_site_settings_camera">Kamera</string>
     <string name="pref_site_settings_camera_ask">Seiten müssen Ihre Erlaubnis für den Kamerazugriff einholen (empfohlen)</string>
     <string name="pref_site_settings_camera_ask_permission">Kameraberechtigungen in &lt;font color=#247BFF>Android-Einstellungen&lt;/font> aktivieren</string>
+=======
+    <string name="pref_show_ads">Werbung zeigen</string>
+    <string name="pref_site_settings_all_sites">Alle Webseiten</string>
+    <string name="pref_site_settings_camera">Kamera</string>
+    <string name="pref_site_settings_camera_ask">Webseiten müssen Ihre Erlaubnis zur Verwendung Ihrer Kamera einholen (empfohlen).</string>
+    <string name="pref_site_settings_camera_ask_permission">Schalten Sie Kameraberechtigung in &lt;font color=\"#247BFF\">Android-Einstellungen&lt;/font> ein.</string>
+>>>>>>> Stashed changes
     <string name="pref_site_settings_category_allow">Erlauben</string>
     <string name="pref_site_settings_category_allow_except_third_party">Zulassen (außer für Drittanbieter)</string>
     <string name="pref_site_settings_category_ask">Immer fragen</string>
     <string name="pref_site_settings_category_block">Blockieren</string>
     <string name="pref_site_settings_category_blocked">Blockiert</string>
+<<<<<<< Updated upstream
     <string name="pref_site_settings_cookie_allow_summary">Seiten werden normal funktionieren</string>
     <string name="pref_site_settings_cookie_allow_title">Verwendung von Cookies zulassen</string>
     <string name="pref_site_settings_cookie_block_summary">Die meisten Funktionen der Seite funktionieren evtl. nicht richtig</string>
@@ -1479,6 +1538,43 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preference_des_autocomplete_search">Automatisch Suchanfragen vervollständigen, basierend auf dem Browserverlauf, Suchmaschinenvorschlägen und beliebten Webseiten</string>
     <string name="preference_title_autocomplete_search">Automatisch Suchen und URLs vervollständigen</string>
+=======
+    <string name="pref_site_settings_cookie_allow_summary">Webseiten werden normal funktionieren</string>
+    <string name="pref_site_settings_cookie_allow_title">Nutzung von Cookies erlauben</string>
+    <string name="pref_site_settings_cookie_block_summary">Die meisten Webseitenfunktionen funktionieren möglicherweise nicht richtig</string>
+    <string name="pref_site_settings_cookie_block_third_party_incognito_title">Cookies von Drittanbietern im Inkognito-Modus blockieren</string>
+    <string name="pref_site_settings_cookie_block_third_party_summary">Einige Webseitenunktionen funktionieren möglicherweise nicht richtig</string>
+    <string name="pref_site_settings_cookie_block_third_party_title">Cookies von Drittanbietern blockieren</string>
+    <string name="pref_site_settings_cookie_block_title">Alle Cookies blockieren (nicht empfohlen)</string>
+    <string name="pref_site_settings_cookie_summary">Cookies sind Dateien, die von Webseiten erstellt wurden, die Sie besucht haben, um sich an Ihre Einstellungen zu erinnern. Cookies von Drittanbietern werden von anderen Webseiten erstellt, die Eigentümer der Inhalte (z. B. Werbung oder Bilder) sind, die Sie auf den von Ihnen besuchten Seiten sehen.</string>
+    <string name="pref_site_settings_location">Standort</string>
+    <string name="pref_site_settings_location_ask">Webseiten müssen nach Ihrer Erlaubnis fragen und sie erhalten, um auf Ihre Standortinformationen zugreifen zu können (empfohlen).</string>
+    <string name="pref_site_settings_location_permission">Schalten Sie Standortberechtigungen in &lt;font color=\"#247BFF\">Android-Einstellungen&lt;/font> ein.</string>
+    <string name="pref_site_settings_mic">Mikrofon</string>
+    <string name="pref_site_settings_mic_ask">Webseiten müssen fragen und Ihre Erlaubnis einholen, um Ihr Mikrofon verwenden zu können (empfohlen).</string>
+    <string name="pref_site_settings_mic_ask_permission">Schalten Sie Mikrofonberechtigungen in &lt;font color=\"#247BFF\">Android-Einstellungen&lt;/font> ein.</string>
+    <string name="pref_site_settings_midi_sysex_permission">MIDI-Gerät vollständig steuern</string>
+    <string name="pref_site_settings_notificaion">Benachrichtigungen</string>
+    <string name="pref_site_settings_notificaion_ask">Webseiten können fragen, ob Sie Benachrichtigungen erhalten möchten.</string>
+    <string name="pref_site_settings_permissions">Berechtigungen</string>
+    <string name="pref_site_settings_protected_content">Geschützter Inhalt</string>
+    <string name="pref_site_settings_protected_content_allow_summary">Webseiten erlauben, geschützten Inhalt abzuspielen (empfohlen).</string>
+    <string name="pref_site_settings_protected_content_ask_summary">Webseiten müssen um Ihre Erlaubnis bitten, um geschützte Inhalte abspielen zu können.</string>
+    <string name="pref_site_settings_protected_content_block_summary">Erlauben Sie Webseiten nicht, geschützte Inhalte abzuspielen.</string>
+    <string name="pref_site_settings_reset">Löschen und zurücksetzen</string>
+    <string name="pref_site_settings_reset_confirmation">Die Daten dieser Webseite (einschließlich Cookies) löschen und jetzt ihre Berechtigungen zurücksetzen?</string>
+    <string name="pref_site_settings_site">Webseite</string>
+    <string name="pref_site_settings_title">Einstellungen Webseiten</string>
+    <string name="pref_title_dns_prefetch">DNS-Vorabfrage</string>
+    <string name="pref_ua_string">User-Agent-String</string>
+    <string name="pref_version_info">Version Information</string>
+    <string name="pref_video_preload_value_always">IMMER</string>
+    <string name="pref_video_preload_value_never">NIEMALS</string>
+    <string name="pref_volume_key_action">Lautstärketasten zum Scrollen verwenden</string>
+    <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
+    <string name="preference_des_autocomplete_search">Automatische Vervollständigung von Suchanfragen auf der Grundlage von Browserverlauf, Suchmaschinenvorschlägen und beliebten Webseiten</string>
+    <string name="preference_title_autocomplete_search">Automatische Vervollständigung von Suchanfragen und URLs</string>
+>>>>>>> Stashed changes
     <string name="privacy_accept">Zustimmen &amp; fortfahren</string>
     <string name="privacy_agreement">Nutzervereinbarung</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">Diese Aktion erfordert das Hochladen Ihrer Leistungs-ID, was im Inkognito-Modus nicht möglich ist. Inkognito-Modus verlassen und erneut versuchen.</string>
