@@ -1789,7 +1789,7 @@ Einige Websites verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung
     <string name="speed_test_download">Download</string>
     <string name="speed_test_no_network">Es konnte keine Verbindung zum Netzwerk hergestellt werden. Überprüfe deine Netzwerkeinstellungen und versuche es erneut.</string>
     <string name="speed_test_ping">Verzögerung</string>
-    <string name="speed_test_upload">Hochladen</string>
+    <string name="speed_test_upload">Upload</string>
     <string name="ssl_bad_clock_date_settings">Datum festlegen</string>
     <string name="ssl_bad_clock_warning" formatted="false">Eine private Verbindung zu %s1 kann nicht hergestellt werden, da das Datum und die Uhrzeit deines Gerätes (%s2) falsch sind.</string>
     <string name="ssl_bad_expired_warning">Dieser Kanal wird von %1$s bereitgestellt. Das auf Ihrem Gerät eingestellte Datum und die Uhrzeit (%2$s) erlauben jedoch nicht, eine sichere Verbindung mit %1$s herzustellen. Sie können das korrekte Datum und die korrekte Uhrzeit einstellen oder auf \"Weiter\" tippen, wenn Sie diesen Kanal trotzdem benutzen möchten.</string>
@@ -1981,7 +1981,7 @@ Du kannst dich jederzeit wieder abmelden und zwar unter Einstellungen > Datensch
     <string name="v_code_title">Bestätigungscode eingeben</string>
     <string name="verify_subscription">Abonnement wird aktualisiert…</string>
     <string name="version_check_button_checking">Überprüfen…</string>
-    <string name="version_check_button_default">Nach Aktualisierungen suchen</string>
+    <string name="version_check_button_default">Nach Aktualisierungen suchen…</string>
     <string name="version_check_button_download_failed">Download fortfahren</string>
     <string name="version_check_button_downloading">Herunterladen…</string>
     <string name="version_check_button_install">Installieren</string>
