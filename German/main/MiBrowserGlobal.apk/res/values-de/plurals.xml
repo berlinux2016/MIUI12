@@ -50,30 +50,6 @@
     <item quantity="other">Nächstes Video wird in %d Sek. abgespielt</item>
     <item quantity="one">Nächstes Video wird in %d Sek. abgespielt</item>
   </plurals>
-  <plurals name="bookmark_import_repeat">
-    <item quantity="other">%d doppelte Lesezeichen automatisch gelöscht</item>
-    <item quantity="one">%d doppeltes Lesezeichen automatisch gelöscht</item>
-  </plurals>
-  <plurals name="comment_detail_title">
-    <item quantity="other">%d Antworten</item>
-    <item quantity="one">%d Antwort</item>
-  </plurals>
-  <plurals name="comment_hour_ago">
-    <item quantity="other">vor %d Stunden</item>
-    <item quantity="one">vor %d Stunde</item>
-  </plurals>
-  <plurals name="comment_look_all">
-    <item quantity="other">%d Kommentare anzeigen</item>
-    <item quantity="one">%d Kommentar anzeigen</item>
-  </plurals>
-  <plurals name="comment_minute_ago">
-    <item quantity="other">vor %d Minuten</item>
-    <item quantity="one">vor %d Minute</item>
-  </plurals>
-  <plurals name="comment_selected">
-    <item quantity="other">%d ausgewählte Gründe</item>
-    <item quantity="one">%d ausgewählten Grund</item>
-  </plurals>
   <plurals name="days_ago">
     <item quantity="other">vor %1$d Tagen</item>
     <item quantity="one">vor %1$d Tag</item>
@@ -98,20 +74,12 @@
     <item quantity="other">%1$d neue Dateien gefunden</item>
     <item quantity="one">%1$d neue Datei gefunden</item>
   </plurals>
-  <plurals name="gallery_selected_count">
-    <item quantity="other">%d ausgewählte Elemente</item>
-    <item quantity="one">%d ausgewähltes Element</item>
-  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Vor einer halben Stunde</item>
   </plurals>
   <plurals name="hashtag_followers">
     <item quantity="other">%d Follower</item>
     <item quantity="one">%d Follower</item>
-  </plurals>
-  <plurals name="hot_word_hot_count">
-    <item quantity="other">%d angesehen</item>
-    <item quantity="one">%d angesehen</item>
   </plurals>
   <plurals name="hours_ago">
     <item quantity="other">Vor %1$d Std</item>
@@ -130,18 +98,6 @@
     <item quantity="other">In %d Minuten</item>
     <item quantity="one">In 1 Minute</item>
   </plurals>
-  <plurals name="info_flow_tips">
-    <item quantity="other">%d neue Elemente für Sie gefunden</item>
-    <item quantity="one">%d neues Element für Sie gefunden</item>
-  </plurals>
-  <plurals name="intercept_panel_img_text">
-    <item quantity="other">%d-mal</item>
-    <item quantity="one">%d-mal</item>
-  </plurals>
-  <plurals name="intercept_panel_protection_total">
-    <item quantity="other">Diese Verwendung wurde %d-mal geschützt</item>
-    <item quantity="one">Diese Verwendung wurde %d-mal geschützt</item>
-  </plurals>
   <plurals name="le_notification_download_completed">
     <item quantity="other">%d Elemente erfolgreich heruntergeladen</item>
     <item quantity="one">%d Element erfolgreich heruntergeladen</item>
@@ -156,10 +112,6 @@
   <plurals name="miuix_appcompat_items_selected">
     <item quantity="other">%d Elemente gewählt</item>
     <item quantity="one">%d Element gewählt</item>
-  </plurals>
-  <plurals name="mtrl_badge_content_description">
-    <item quantity="other">%d neue Benachrichtigungen</item>
-    <item quantity="one">%d neue Benachrichtigung</item>
   </plurals>
   <plurals name="mw_last_num_days">
     <item quantity="other">Letzte %d Tage</item>
@@ -192,10 +144,6 @@
   <plurals name="pref_adblock_counts">
     <item quantity="other">%d Anzeigen blockiert</item>
     <item quantity="one">%d Anzeige blockiert</item>
-  </plurals>
-  <plurals name="pref_privacy_clear_video_history">
-    <item quantity="other">Wollen Sie wirklich den ausgewählten %d-Überwachungsverlauf löschen?</item>
-    <item quantity="one">Wollen Sie wirklich den ausgewählten %d-Überwachungsverlauf löschen?</item>
   </plurals>
   <plurals name="search_trending_views">
     <item quantity="other">%s Suchanfragen</item>
@@ -245,12 +193,6 @@
     <item quantity="other">%1$d Elemente aus dem Verlauf löschen?</item>
     <item quantity="one">%1$d Element aus dem Verlauf löschen?</item>
   </plurals>
-  <plurals name="video_playback_error">
-    <item quantity="other">"Video laden nicht möglich.
-Nächste in %d Sek. abspielen…"</item>
-    <item quantity="one">"Video laden nicht möglich.
-Nächstes in %d Sek. abspielen…"</item>
-  </plurals>
   <plurals name="video_push_multi_message">
     <item quantity="other">%1$d Updates verfügbar</item>
     <item quantity="one">%1$d Update verfügbar</item>
@@ -268,60 +210,12 @@ Nächstes in %d Sek. abspielen…"</item>
     <item quantity="one">%1$d Aufruf</item>
   </plurals>
   <plurals name="views">
-    <item quantity="other">%dk Aufrufe</item>
-    <item quantity="one">%dk Aufruf</item>
-  </plurals>
-  <plurals name="vo_comment">
-    <item quantity="other">%s Komentare</item>
-    <item quantity="one">%s Kommentar</item>
-  </plurals>
-  <plurals name="vo_image_mark">
     <item quantity="other">%d Bilder</item>
     <item quantity="one">%d Bild</item>
   </plurals>
-  <plurals name="vo_source_comment">
-    <item quantity="other">%1$s | %2$s Kommentare</item>
-    <item quantity="one">%1$s | %2$s Kommentar</item>
-  </plurals>
-  <plurals name="vo_vote_num">
-    <item quantity="other">%d Leute haben bereits abgestimmt</item>
-    <item quantity="one">%d hat bereits abgestimmt</item>
-  </plurals>
-  <plurals name="vo_wei_bo_publish_time_hour">
-    <item quantity="other">"·vor %s Std"</item>
-    <item quantity="one">"·vor %s Std"</item>
-  </plurals>
-  <plurals name="vo_wei_bo_publish_time_minute">
-    <item quantity="other">"·vor %s Min"</item>
-    <item quantity="one">"·vor %s Min"</item>
-  </plurals>
   <plurals name="vote_all_people">
-    <item quantity="other">%d Leute haben abgestimmt</item>
-    <item quantity="one">%d Person hat abgestimmt</item>
-    <item quantity="few">%d Leute haben abgestimmt</item>
-  </plurals>
-  <plurals name="web_intercept_record_behavior_hint_ad">
-    <item quantity="other">Insgesamt %d Anzeigen filtern</item>
-    <item quantity="one">Insgesamt %d Anzeige filtern</item>
-  </plurals>
-  <plurals name="web_intercept_record_behavior_hint_allow_times">
-    <item quantity="other">%d-mal erlaubt</item>
-    <item quantity="one">%d-mal erlaubt</item>
-  </plurals>
-  <plurals name="web_intercept_record_behavior_hint_disallow_times">
     <item quantity="other">%d-mal abgelehnt</item>
-    <item quantity="one">%d-mal abgelehnt</item>
-  </plurals>
-  <plurals name="web_intercept_record_behavior_hint_privacy">
-    <item quantity="other">Insgesamt %d-mal gesperrt</item>
-    <item quantity="one">Insgesamt %d-mal gesperrt</item>
-  </plurals>
-  <plurals name="web_permission_protect_subtitle_day">
     <item quantity="other">%s Tage</item>
-    <item quantity="one">%s Tag</item>
-  </plurals>
-  <plurals name="web_permission_protect_subtitle_time">
     <item quantity="other">%s-mal</item>
-    <item quantity="one">%s-mal</item>
   </plurals>
 </resources>
