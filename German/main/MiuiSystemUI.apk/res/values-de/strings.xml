@@ -1004,7 +1004,7 @@ innerhalb des Kreises befindet"</string>
   <string name="force_resizable_activities_summary">Größenänderung von Aktivitäten für Multifenster unabhängig von vorgeschriebenen Werten erzwingen</string>
   <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
   <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
-  <string name="forced_resizable_secondary_display">App funktioniert eventuell nicht auf einem sekundären Display</string>
+  <string name="forced_resizable_secondary_display">App funktioniert eventuell nicht auf einem sekundären Bildschirm</string>
   <string name="forget_password_string">Passwort vergessen</string>
   <string name="fs_gesture_back_home_summary">Schnell von unten wischen</string>
   <string name="fs_gesture_back_ready_title">Zurückgehen</string>

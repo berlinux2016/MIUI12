@@ -6541,7 +6541,7 @@ Mindestens %s freigeben."</string>
   <string name="screen_paper_mode_off_apps_title">Lesemodus nicht verwenden</string>
   <string name="screen_paper_mode_range_title">Einstellungen</string>
   <string name="screen_paper_mode_set_apps_title">Lesemodus-Apps</string>
-  <string name="screen_paper_mode_summary">Im Lesemodus werden Display-Farben wärmer, sodass Ihre Augen sich entspannen können.</string>
+  <string name="screen_paper_mode_summary">Im Lesemodus werden Bildschirmfarben wärmer angezeigt, sodass Ihre Augen sich entspannen können.</string>
   <string name="screen_paper_mode_time_summary">Lesemodus zu einer geplanten Zeit</string>
   <string name="screen_paper_mode_time_title">Geplant</string>
   <string name="screen_paper_mode_title">Lesemodus</string>
