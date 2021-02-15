@@ -89,7 +89,7 @@
     <item quantity="one">Vor %1$d Stunde</item>
   </plurals>
   <plurals name="in_a_hour">
-    <item quantity="other">In 1 Stunde</item>
+    <item quantity="other">In 1 Stunden</item>
     <item quantity="one">In 1 Stunde</item>
   </plurals>
   <plurals name="in_half_hour">
@@ -134,8 +134,8 @@
     <item quantity="one">%s Gefällt mir</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other">%d Elemente gewählt</item>
-    <item quantity="one">%d Element gewählt</item>
+    <item quantity="other">%1$d Elemente ausgewählt</item>
+    <item quantity="one">%1$d Element ausgewählt</item>
   </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">Vor %d Minuten</item>
@@ -206,8 +206,8 @@
     <item quantity="one">%d Minute übrig</item>
   </plurals>
   <plurals name="videos_updated_amount">
-    <item quantity="other">Schauen Sie sich %1$d neue Videos an</item>
-    <item quantity="one">Schauen Sie sich %1$d neues Video an</item>
+    <item quantity="other">%1$d neue Videos anschauen</item>
+    <item quantity="one">%1$d neues Video anschauen</item>
   </plurals>
   <plurals name="view_count">
     <item quantity="other">%1$d Aufrufe</item>
