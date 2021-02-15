@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Männlich</item>
+        <item>Weiblich</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Lesezeichen</item>
+        <item>Lesezeichen</item>
+        <item>Lesezeichen</item>
+    </string-array>
+    <string-array name="general__notification_toolbar_default_tips_array">
+        <item>Erfrischende gute Romane für Sie</item>
+        <item>Eine Sammlung kostenloser Romane</item>
+        <item>Der Roman wird aktualisiert. Klicken Sie hier, um ihn anzuzeigen</item>
+        <item>Meister, vergessen Sie nicht, das Buch zu lesen</item>
+        <item>Nur 3% der Männer kennen diese Romane</item>
+        <item>Browser-Romane, alles da, wissen Sie</item>
+        <item>Eine große Welle guter Bücher kommt, klicken Sie hier, um sie anzusehen</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Expliziter Inhalt</item>
+        <item>Unwahrheit</item>
+        <item>Alte Nachrichten</item>
+        <item>Extremistische Ansichten</item>
+        <item>Unterschwellige Werbung</item>
+    </string-array>
+    <string-array name="pref_debug_address">
+        <item>Formale Umgebung</item>
+        <item>Pre-Release-Umgebung</item>
+        <item>Test-Umgebung</item>
+        <item>Benutzerdefinierte Umgebung</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Seite zurück/vor</item>
+        <item>Tabs umschalten</item>
+        <item>Keine</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Standard Startseite</item>
+        <item>Benutzerdefinert</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablet</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Kachelansicht</item>
+        <item>Vertikale Ansicht</item>
+        <item>Horizontale Ansicht</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>An</item>
+        <item>Nur im Inkognito-Modus</item>
+        <item>Aus</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Immer fragen</item>
+        <item>Öffnen</item>
+        <item>Schließen</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Sehr klein</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Sehr groß</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Verweigern</item>
+        <item>Fragen</item>
+        <item>Erlauben</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Verweigern</item>
+        <item>Erlauben</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Verweigern</item>
+        <item>Erlauben</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Automatisch</item>
+        <item>Keiner</item>
+        <item>Neuer Benutzer</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Lesezeichen</item>
+        <item>Verlauf</item>
+    </string-array>
+    <string-array name="readmode_theme_background_color">
+        <item>Weiß</item>
+        <item>Beige</item>
+        <item>Braun</item>
+        <item>Grün</item>
+        <item>Grau</item>
+        <item>Schwarz</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Löschen</item>
+        <item>Nein danke</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Folgen</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Nachricht vom Browser</item>
+        <item>Olympischen Spielen mit Mi folgen</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>Aktuelle Netzwerkverbindung ist sehr langsam. Sieht aus, als befänden Sie sich in einem Gebiet mit schlechter Netzabdeckung.</item>
+        <item>Aktuelle Netzwerkverbindung ist langsam.</item>
+        <item>Keine Probleme mit der Netzwerkverbindung</item>
+        <item>Aktuelle Netzwerkverbindung ist schnell. Sie ist ausreichend für das Streaming von Filmen!</item>
+        <item>Aktuelle Netzwerkverbindung ist sehr schnell! Sie sind an der Spitze des Spiels.</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Fokus beobachten</item>
+        <item>Zentrales Thema</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Klar</item>
+        <item>Teilweise bewölkt</item>
+        <item>Bewölkt</item>
+        <item>Schauer</item>
+        <item>Gewitter</item>
+        <item>Hagel</item>
+        <item>Schneeregen</item>
+        <item>Leichter Regen</item>
+        <item>Mäßiger Regen</item>
+        <item>Starker Regen</item>
+        <item>Gewitterschauer</item>
+        <item>Starker Regen</item>
+        <item>Heftiger Regen</item>
+        <item>Schneeschauer</item>
+        <item>Schneefall</item>
+        <item>Mittlerer Schneefall</item>
+        <item>Starker Schneefall</item>
+        <item>Schneesturm</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
+        <item>Sandsturm</item>
+        <item>Leichter - mäßiger Regen</item>
+        <item>Mäßiger - starker Regen</item>
+        <item>Starkregen</item>
+        <item>Regen - starker Regen</item>
+        <item>Starker - extremer Regen</item>
+        <item>Wenig - mittlerer Schneefall</item>
+        <item>Mäßiger - starker Schneefall</item>
+        <item>Starker Schneestrum</item>
+        <item>Herumfliegender Staub</item>
+        <item>Sandsturm</item>
+        <item>Starker Sandsturm</item>
+        <item>Dichter Nebel</item>
+        <item>Starker Nebel</item>
+        <item>Dunst</item>
+        <item>Mäßiger Dunst</item>
+        <item>Starker Dunst</item>
+        <item>Sehr starker Dunst</item>
+        <item>Dichter Nebel</item>
+        <item>Starker Nebel</item>
+        <item>Nichts</item>
+        <item>Regen</item>
+        <item>Schneefall</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Videos und Fotos aus sozialen Medien herunterladen</item>
+        <item>Speichern von Bildern und Videos aus WhatsApp-Status</item>
+        <item>Dateien auf Ihrem Gerät verwalten und privat machen</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Videos herunterladen</item>
+        <item>WhatsApp-Status speichern</item>
+        <item>Private Dateien</item>
+    </string-array>
+</resources>
