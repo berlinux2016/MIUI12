@@ -21,7 +21,7 @@
     <string name="abc_search_hint">Suchen…</string>
     <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
     <string name="abc_searchview_description_query">Suchanfrage</string>
-    <string name="abc_searchview_description_search">Suche</string>
+    <string name="abc_searchview_description_search">Suchen</string>
     <string name="abc_searchview_description_submit">Anfrage senden</string>
     <string name="abc_searchview_description_voice">Sprachsuche</string>
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
@@ -150,7 +150,7 @@
     <string name="aqi_quality_index_unhealthy">Ungesund</string>
     <string name="articles_collection_empty">Hier gibt es noch keine Artikel</string>
     <string name="auth_fail_warning">Sitzung abgelaufen. Melde dich erneut an.</string>
-    <string name="autoSwithcingSearchEngineTips">Gewechselt auf die häufig verwendete Suchmaschine</string>
+    <string name="autoSwithcingSearchEngineTips">Zur häufig verwendete Suchmaschine gewechselt</string>
     <string name="autologin_bar_error">Anmeldung fehlgeschlagen</string>
     <string name="autologin_bar_hide_text">Ausblenden</string>
     <string name="autologin_bar_login_text">Anmelden</string>
@@ -184,7 +184,7 @@
     <string name="bookmark_sync_tip_in_profile_page">"Zu synchr. Elemente auswählen.
 Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="bookmark_sync_tip_logined">Lesezeichen und Browserverlauf synchronisieren</string>
-    <string name="bookmark_sync_tip_not_logined">Einloggen, um Lesezeichen und Browserverlauf zu synchronisieren</string>
+    <string name="bookmark_sync_tip_not_logined">Anmelden, um Lesezeichen und Browserverlauf zu synchr.</string>
     <string name="bookmark_title">Lesezeichenname</string>
     <string name="bookmark_title_lable">Titel</string>
     <string name="bookmark_url_already_exisit">Internetseite bereits als Lesezeichen vorhanden</string>
@@ -300,7 +300,7 @@ Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="com_facebook_smart_login_confirmation_cancel">Das sind Sie nicht?</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">Weiter als %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Anmeldung bestätigen</string>
-    <string name="com_facebook_tooltip_default">Sie bestimmen, welche Informationen Sie mit Apps teilen möchten.</string>
+    <string name="com_facebook_tooltip_default">Bestimmen, welche Informationen Sie mit Apps teilen möchten.</string>
     <string name="comment_app_menu">Kommentar</string>
     <string name="comment_description">Kommentar</string>
     <string name="comment_hint">Kommentar</string>
@@ -372,7 +372,7 @@ Toggle deaktivieren, um das Synchronisieren anzuhalten"</string>
     <string name="custom_head_card_text_incognito">"Du bist inkognito!
 Von dir besuchte Seiten werden nicht im Verlauf angezeigt."</string>
     <string name="custom_page_guide_content">Lesezeichen, Einstellungen und Tools sind hier!</string>
-    <string name="dark_mode">Dunkelmodus</string>
+    <string name="dark_mode">Dark Mode</string>
     <string name="data_error">Datenfehler</string>
     <string name="data_format_ymd">dd.MM.yyyy</string>
     <string name="data_traffic_continue">Trotzdem abspielen</string>
@@ -668,7 +668,7 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="follow_detail_page_empty_tip">Diese Person hat noch nichts veröffentlicht.</string>
     <string name="for_diagnosis_usage_only">Protokolle werden nur zur Diagnose verwendet.</string>
     <string name="force_quick_search_title">Suchen</string>
-    <string name="force_touch_bookmark_history_title">Lesezeichen und Verlauf</string>
+    <string name="force_touch_bookmark_history_title">Lesezeichen &amp; Verlauf</string>
     <string name="force_touch_infoflow_title">Nachrichten</string>
     <string name="forward_description">Vorwärts</string>
     <string name="friday">Freitag</string>
@@ -948,39 +948,39 @@ Sende diesen Code an den Vorgesetzten."</string>
     <string name="mw_common_google_play_services_unknown_issue">%1$s hat Probleme mit den Google Play-Diensten. Bitte erneut versuchen.</string>
     <string name="mw_common_google_play_services_unsupported_text">%1$s wird nicht ohne Google Play-Dienste ausgeführt, die von Ihrem Gerät nicht unterstützt werden.</string>
     <string name="mw_common_google_play_services_update_button">Aktualisieren</string>
-    <string name="mw_common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
-    <string name="mw_common_google_play_services_update_title">Update Google Play services</string>
-    <string name="mw_common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="mw_common_google_play_services_update_text">%1$s ausführen nicht möglich, wenn Sie die Google Play-Dienste nicht aktualisieren.</string>
+    <string name="mw_common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
+    <string name="mw_common_google_play_services_updating_text">%1$s läuft nicht ohne Google Play-Dienste, die gerade aktualisiert werden.</string>
     <string name="mw_common_google_play_services_install_text">%1$s wird nicht ohne Google Play-Dienste, die auf deinem Gerät fehlen, laufen.</string>
     <string name="mw_common_open_on_phone">Am Telefon öffnen</string>
     <string name="mw_common_signin_button_text">Anmelden</string>
     <string name="mw_common_signin_button_text_long">Mit Google anmelden</string>
     <string name="mw_copy_to_clipboard_failure_message">In Zwischenablage kopieren fehlgeschlagen</string>
-    <string name="mw_crash_report_button_text">Provide more info</string>
-    <string name="mw_crash_report_template">"IMPORTANT: Your crash has already been automatically reported to our crash system. You only need to fill this out if you can share more information like steps to reproduce the crash.
+    <string name="mw_crash_report_button_text">Mehr Infos bereitstellen</string>
+    <string name="mw_crash_report_template">"WICHTIG: Ihr Absturz wurde bereits automatisch an unser Absturzsystem gemeldet. Sie müssen dies nur ausfüllen, wenn Sie weitere Informationen wie Schritte zur Reproduktion des Absturzes mitteilen können.
 
-Device name:
-Android OS version:
-WebView version (On Android L-M, this is the version of the \"Android System WebView\" app. On Android N-P, it's most likely Chrome's version. You can find the version of any app under Settings > Apps > the 3 dots in the upper right > Show system.):
-Application: (Please link to its Play Store page if possible. You can get the link from inside the Play Store app by tapping the 3 dots in the upper right > Share > Copy to clipboard. Or you can find the app on the Play Store website: https://play.google.com/store/apps .)
-Application version:
+Gerätename:
+Android OS-Version:
+WebView-Version (Bei Android L-M ist dies die Version der \"Android System WebView\"-App. Unter Android N-P ist es höchstwahrscheinlich die Version von Chrome. Sie können die Version einer beliebigen App finden unter Einstellungen > Apps > 3 Punkte in der oberen rechten Ecke > System anzeigen.):
+App: (Bitte verlinken Sie, wenn möglich, auf die entsprechende Play Store-Seite. Sie können den Link aus der Play Store-App heraus erhalten, indem Sie auf die 3 Punkte oben rechts tippen > Teilen > In Zwischenablage kopieren. Oder Sie finden die App auf der Webseite des Play Store: https://play.google.com/store/apps .)
+App-Version:
 
 
-Steps to reproduce:
+Schritte zum Reproduzieren:
 (1)
 (2)
 (3)
 
 
-Expected result:
-(What should have happened?)
+Erwartetes Ergebnis:
+(Was hätte passieren sollen?)
 
 
-****DO NOT CHANGE BELOW THIS LINE****
-Crash ID: http://crash/%1$s"</string>
-    <string name="mw_crashes_list_activity_title">WebView Crashes</string>
-    <string name="mw_crashes_num">Crashes (%1$d)</string>
-    <string name="mw_data_traffic_prompt_change">Die Verwendung Ihere mobilen Datenverbindung zum Streamen von Videos erhöht Ihre Datennutzung. Wenn sie das Limit für die Datennutzung Ihres Tarifes überschreiten, berechnet Ihen Ihr Netzbetreiber zusätzliche Gebühren.</string>
+****UNTERHALB DIESER ZEILE NICHT ÄNDERN****
+Crash-ID: http://crash/%1$s"</string>
+    <string name="mw_crashes_list_activity_title">WebView-Abstürze</string>
+    <string name="mw_crashes_num">Abstürze (%1$d)</string>
+    <string name="mw_data_traffic_prompt_change">Die Verwendung Ihre mobilen Datenverbindung zum Streamen von Videos erhöht Ihre Datennutzung. Wenn sie das Limit für die Datennutzung Ihres Tarifes überschreiten, berechnet Ihen Ihr Netzbetreiber zusätzliche Gebühren.</string>
     <string name="mw_data_traffic_prompt_message">Die Verwendung deiner mobilen Datenverbindung zum Streamen von Videos erhöht deine Datennutzung. Wenn du das Limit für die Datennutzung deines tarifs überschreitest, berechnet dir dein Netzbetreiber zusätzliche Gebühren.</string>
     <string name="mw_data_traffic_prompt_message_short">Die Verwendung mobiler Daten zum Streamen von Videos kann dazu führen, dass du die Grenzen der Datennutzung deines Tarifs überschreitest.</string>
     <string name="mw_data_traffic_prompt_title">Datennutzungswarnung</string>
@@ -1277,7 +1277,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="passport_set_password">Passwort festlegen</string>
     <string name="passport_set_password_no_phone_msg">Füge zum Schutz deines Kontos deine Telefonnummer hinzu.</string>
     <string name="passport_sign_in">Anmelden</string>
-    <string name="passport_sign_in_or_sign_up">Einloggen/Konto erstellen</string>
+    <string name="passport_sign_in_or_sign_up">Anmelden/Konto erstellen</string>
     <string name="passport_sms_phone_intro">Code an %1$s gesendet</string>
     <string name="passport_talkback_image_captcha">Bildbestätigungscode</string>
     <string name="passport_talkback_switch_image_captcha">Zu Bildbestätigungscode wechseln</string>
@@ -1407,7 +1407,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_extras_send_feedback">Feedback senden</string>
     <string name="pref_extras_title">Erweitert</string>
     <string name="pref_extras_title_version">Version Information</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">Dateien speichern im Browser Standardort</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">Dateien im Browser-Standardort speichern</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Standardspeicherort wiederherstellen</string>
     <string name="pref_file_download_default_path_prefix">Standardspeicherort: %s</string>
     <string name="pref_file_download_save_modify_default_path">Download Ordner</string>
@@ -1902,7 +1902,7 @@ Einige Websites verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung
     <string name="time_picker_label_minute">Min</string>
     <string name="tip_drag">Lange drücken zum Bearbeiten und Ziehen zum sortieren.</string>
     <string name="tip_not_support_external_sdcard_modify">Auf der SD-Karte gespeicherte Dateien können nicht bearbeitet werden</string>
-    <string name="tip_sync_disabled_by_incognito">Elemente können im Unsichtbar-Modus nicht synchronisiert werden.</string>
+    <string name="tip_sync_disabled_by_incognito">Elemente können im Inkognito-Modus nicht synchronisiert werden.</string>
     <string name="tip_sync_switch_off">Synchronisierung ist deaktiviert. Sie können sie unter \"Mein Konto\" aktivieren.</string>
     <string name="title_app_tags">Apps</string>
     <string name="title_bar_loading">Laden…</string>
@@ -1946,7 +1946,7 @@ Einige Websites verwenden Ihren vorherigen Browserverlauf nicht, um ihre Werbung
     <string name="update_now">JETZT AKTUALISIEREN</string>
     <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>
     <string name="upload_error_log">Protokoll hochladen</string>
-    <string name="upload_usage_statistics">Aktivieren, um Nutzungsstatistiken mit uns zu teilen, wenn der Unsichtbar-Modus eingeschaltet ist</string>
+    <string name="upload_usage_statistics">Aktivieren, um Nutzungsstatistiken mit uns zu teilen, wenn der Inkognito-Modus eingeschaltet ist</string>
     <string name="uploads_disabled">Dateien hochladen eingeschränkt</string>
     <string name="url_copy_done">URL in Zwischenablage kopiert</string>
     <string name="url_find_on_page_result">Im Browser anzeigen</string>

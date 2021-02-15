@@ -30,8 +30,8 @@
         <item>Keine</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Standardstartseite</item>
-        <item>Anpassen</item>
+        <item>Standard</item>
+        <item>Anpasste</item>
     </string-array>
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
