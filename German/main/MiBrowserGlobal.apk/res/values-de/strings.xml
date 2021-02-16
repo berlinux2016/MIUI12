@@ -1448,7 +1448,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="pref_set_default_browser_switch">Wechseln</string>
     <string name="pref_set_default_browser_tab">Auf \"Browser\" tippen</string>
     <string name="pref_set_default_browser_toast">Standardbrowser erfolgreich festgelegt</string>
-    <string name="pref_set_homepage_to">Festlegen auf</string>
+    <string name="pref_set_homepage_to">Adresse eingeben</string>
     <string name="pref_setting_title">Seiteneinstellungen</string>
     <string name="pref_show_ads">Werbung anzeigen</string>
     <string name="pref_site_settings_all_sites">Alle Seiten</string>
