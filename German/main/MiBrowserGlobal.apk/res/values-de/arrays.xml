@@ -16,7 +16,7 @@
         <item>Eindeutiger Inhalt</item>
         <item>Fälschungen</item>
         <item>Alte Nachrichten</item>
-        <item>Extrimistische Ansichten</item>
+        <item>Extremistische Ansichten</item>
         <item>Unterschwellige Werbung</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
@@ -50,7 +50,7 @@
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Startbildschirm</item>
+        <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
@@ -80,7 +80,7 @@
     </string-array>
     <string-array name="user_guide_info_array">
         <item>Videos und Fotos von Social Media herunterladen</item>
-        <item>Bilder und Videos von WhatsApp-Status speichern</item>
+        <item>Bilder und Videos aus WhatsApp-Status speichern</item>
         <item>Dateien auf Ihrem Gerät verwalten und sie privat machen</item>
     </string-array>
     <string-array name="user_guide_title_array">
