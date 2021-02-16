@@ -925,7 +925,6 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="mw_common_google_play_services_update_text">%1$s wird nur ausgeführt, wenn Sie Google Play-Dienste aktualisieren.</string>
     <string name="mw_common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
     <string name="mw_common_google_play_services_updating_text">%1$s läuft nicht ohne Google Play-Dienste, die derzeit aktualisiert werden.</string>
-    <string name="mw_common_google_play_services_wear_update_text">Neue Version der Google Play-Dienste erforderlich. Sie wird sich in Kürze selbst aktualisieren.</string>
     <string name="mw_common_open_on_phone">Im Telefon öffnen</string>
     <string name="mw_common_signin_button_text">Anmelden</string>
     <string name="mw_common_signin_button_text_long">Anmelden mit Google</string>
