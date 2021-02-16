@@ -1105,7 +1105,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="new_version_name">Neue Version %s</string>
     <string name="news_flow_more_recommend">Weitere empfohlene Elemente</string>
     <string name="news_load_failed">Tippen, um es erneut zu versuchen</string>
-    <string name="news_loading">aden…</string>
+    <string name="news_loading">Laden…</string>
     <string name="news_native_see_all">Kompletter Artikel</string>
     <string name="next">Weiter</string>
     <string name="nf_choose_reason">Beschreiben Sie das Problem</string>
@@ -1149,7 +1149,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="not_show_again">Nicht mehr anzeigen</string>
     <string name="noti_dialog_agree">Einschränken</string>
     <string name="noti_dialog_cancel">Abbrechen</string>
-    <string name="noti_dialog_content">Benachrichtigungen für diese Website einschränken?</string>
+    <string name="noti_dialog_content">Benachrichtigungen für diese Webseite einschränken?</string>
     <string name="noti_dialog_title">Benachrichtigungen einschränken</string>
     <string name="noti_no_permission_record">Keine Elemente hier.</string>
     <string name="noti_web_allow">Erlaubt</string>
@@ -1180,7 +1180,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="passport_account_label">Mi-Konto</string>
     <string name="passport_account_name">"Konto: %1$s "</string>
     <string name="passport_activate_token_expired">Verifizierungscode abgelaufen. Erneut versuchen.</string>
-    <string name="passport_area_code_title">Postleitzahl</string>
+    <string name="passport_area_code_title">Vorwahl wählen</string>
     <string name="passport_bad_authentication">Benutzername oder Passwort ungültig</string>
     <string name="passport_barcode_add_account_prompt">Um ein Konto hinzuzufügen, scannen Sie den QR-Code erneut, wenn Sie sich angemeldet haben.</string>
     <string name="passport_can_not_receive_verification_code">Verifizierungscode nicht erhalten?</string>
@@ -1342,6 +1342,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_clear_adblock_statistics">Werbeblockerverlauf löschen</string>
     <string name="pref_clear_adblock_statistics_dlg">Zähler für blockierte Werbung löschen?</string>
     <string name="pref_clear_all_data_dlg">Wirklich alle Browserdaten löschen?</string>
+    <string name="pref_clear_all_data_switch_title">Browser-Daten nach dem Beenden löschen</string>
     <string name="pref_clear_all_data_title">Alle Browserdaten löschen</string>
     <string name="pref_clear_data_title">Browserdaten löschen</string>
     <string name="pref_clear_history_when_exit">Verlauf beim Beenden löschen</string>
@@ -1355,6 +1356,8 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_content_night_read_mode">Nachtmodus</string>
     <string name="pref_content_search_engine">Suchanbieter in Adressleiste</string>
     <string name="pref_content_search_engine_summary">Suchmaschine wählen</string>
+    <string name="pref_data_preload_value_always">IMMER</string>
+    <string name="pref_data_preload_value_never">NIEMALS</string>
     <string name="pref_default_browser_str">Standarbrowser</string>
     <string name="pref_desc_dns_prefetch">Dem Browser erlauben, Domainnamen aufzulösen, bevor Ressourcen (z. B. Dateien oder Links) angefordert werden</string>
     <string name="pref_develop_mode">Entwicklermodus</string>
@@ -1381,6 +1384,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="pref_nav_mode_summary_phone">Telefon</string>
+    <string name="pref_nav_mode_title">Startbildschirm</string>
     <string name="pref_navscreen_layoutstate_title">Verwaltung mehrerer Fenster</string>
     <string name="pref_notifications_title">Benachrichtigungen</string>
     <string name="pref_other_title">Sonstige</string>
@@ -1408,7 +1412,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="pref_privacy_location_title">Standortzugriff</string>
     <string name="pref_privacy_performance_id_instead_by_random_id">Wir werden Ihre aktuelle Leistungs-ID durch eine zufällig generierte neue ersetzen.</string>
     <string name="pref_privacy_performance_id_is">"Aktuelle Leistungs-ID: "</string>
-    <string name="pref_privacy_performance_id_reset">Setzen Sie Ihre Leistungs-ID zurück</string>
+    <string name="pref_privacy_performance_id_reset">Ihre Leistungs-ID zurücksetzen</string>
     <string name="pref_privacy_performance_id_will_reset">Leistungs-ID wird zurückgesetzt</string>
     <string name="pref_privacy_security_title">Datenschutz &amp; Sicherheit</string>
     <string name="pref_rate_app">Bewerten</string>
@@ -1479,6 +1483,8 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="pref_title_dns_prefetch">DNS-Prefetching</string>
     <string name="pref_ua_string">Benutzeragent</string>
     <string name="pref_version_info">Versionsinfo</string>
+    <string name="pref_video_preload_value_always">IMMER</string>
+    <string name="pref_video_preload_value_never">NIEMALS</string>
     <string name="pref_volume_key_action">Blättern mit Lautstärketasten</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preference_des_autocomplete_search">Automatisch Suchanfragen vervollständigen, basierend auf dem Browserverlauf, Suchmaschinenvorschlägen und beliebten Webseiten</string>
@@ -1555,6 +1561,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="refresh_guide">Zurück nach oben</string>
     <string name="refreshing">Aktualisieren…</string>
     <string name="refuse_permissions_request">Einschränken</string>
+    <string name="regid">RegId (Tippen ZUM EXPORTIEREN)</string>
     <string name="release_to_refresh">Zum Aktualisieren loslassen</string>
     <string name="remember_passwords_confirm_message">Nutzung kann durch Deaktivieren beeinflusst werden</string>
     <string name="remove_bookmark">Lesezeichen löschen</string>
@@ -1566,12 +1573,35 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="removed_from_bookmarks">Aus Lesezeichen entfernt</string>
     <string name="rename_alert">Wenn Sie die Dateierweiterung ändern, können Sie die Datei evtl. nicht mehr öffnen.</string>
     <string name="rename_alert2">Die Datei wird ausgeblendet, sobald Sie ihre Erweiterung ändern.</string>
-    <string name="rename_failed">%1$s ubenennen nicht möglich</string>
+    <string name="rename_failed">%1$s umbenennen nicht möglich</string>
     <string name="renew_sub_now">Erneuern</string>
     <string name="replace">Ersetzen</string>
     <string name="replay">Erneut abspielen</string>
-    <string name="request_camera_permission_message">Dieser Dienst muss Sie wie folgt um Ihre Erlaubnis bitten, wir halten uns strikt an die entsprechenden Gesetze, um Ihre persönlichen Daten zu schützen: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufzeichnungsdienste zum Einstellen des Avatars. &lt;/b>&lt;br>&lt;br> Wenn Sie dem Aufruf der oben genannten Berechtigungen nicht zustimmen, wird diese Funktion nicht richtig funktionieren, aber es beeinträchtigt nicht die Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Zustimmung zurückzuziehen.</string>
-    <string name="request_profile_error">Kontoinfos wurden nicht abgerufen</string>
+    <string name="reply_comment_title">AW: %s</string>
+    <string name="report_action_change_language">Sprachen wechseln</string>
+    <string name="report_action_channel_click">Aauf den Kanal tippen</string>
+    <string name="report_action_channel_page_slide_expose">Wischen, um den Kanal zu wählen</string>
+    <string name="report_action_channel_title_slide_expose">Sliding exposure                                                      ???</string>
+    <string name="report_action_click_empty_page">Inhalt leeren</string>
+    <string name="report_action_click_history_notify">An Verlauf erinnern</string>
+    <string name="report_action_click_refresh_button">Taste \"Aktualisieren\"</string>
+    <string name="report_action_click_tab">Auf Kanal tippen</string>
+    <string name="report_action_intent_jump_in">Third party jump into                                                      ???</string>
+    <string name="report_action_manual_pull_refresh">Zum Aktualisieren nach unten ziehen</string>
+    <string name="report_action_refresh_guide">Refresh boot/Boot aktualisieren                                           ???</string>
+    <string name="report_action_scroll_tab">Kanal wischen</string>
+    <string name="report_action_select_language_confirm">Zum Auszuwählen tippen</string>
+    <string name="report_action_slide_up_load_more">Nach oben schieben, um mehr zu laden</string>
+    <string name="report_action_timed_refresh">Zeitgesteuerte Aktualisierung</string>
+    <string name="report_action_try_again">Wiederholungstaste</string>
+    <string name="report_event_channel">Kanalbetrieb</string>
+    <string name="report_event_enter_news_flow">Informationsfluss eingeben</string>
+    <string name="report_event_load_more">Mehr laden</string>
+    <string name="report_event_refresh">Aktualisieren</string>
+    <string name="report_event_select_language">Sprachauswahl</string>
+    <string name="report_path_extra">Nicht beigetreten</string>
+    <string name="request_camera_permission_message">Dieser Dienst muss Ihre Erlaubnis einholen, wir werden uns strikt an die einschlägigen Gesetze halten, um Ihre persönlichen Daten zu schützen:: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufzeichnungsdienste zum Einstellen von Avatar &lt;/b>&lt;br>&lt;br> Wenn Sie dem Aufrufen der oben genannten Berechtigungen nicht zustimmen, funktioniert diese Funktion nicht ordnungsgemäß, hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Einwilligung zu widerrufen.</string>
+    <string name="request_profile_error">Abrufen von Kontoinformationen fehlgeschlagen</string>
     <string name="resend_active_email">Erneut senden</string>
     <string name="resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Stellen Sie sicher, dass sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
     <string name="resend_email_reach_limit_title">Zu viele Versuche</string>
@@ -1598,7 +1628,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="s6">Werbung erlauben, einen Kalendereintrag zu erstellen?</string>
     <string name="s7">Werbung testen</string>
     <string name="same_bookmarks_warning">Sie haben diese Seite bereits zu Ihren Lesezeichen hinzugefügt</string>
-    <string name="same_folder_name_warning">Eine Gruppe mit demselben Namen existiert bereits</string>
+    <string name="same_folder_name_warning">Ein Ordner mit dem selben Namen existiert bereits</string>
     <string name="same_new_and_old_pwd">Darf nicht mit dem aktuellen Passwort übereinstimmen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -1636,6 +1666,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="search_hint">Suchen</string>
     <string name="search_menu_title">Suchen</string>
     <string name="search_settings_description">Lesezeichen und Verlauf</string>
+    <string name="search_title_hint">Suchen</string>
     <string name="search_trending_new">Neu</string>
     <string name="search_trending_title">Trendig</string>
     <string name="search_tupian">Bild</string>
@@ -1668,6 +1699,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="setting_app_language">Browser-Sprache</string>
     <string name="setting_feed_language">Sprache Inhaltsfeed</string>
     <string name="setting_privacy_password">Entsperrmuster einstellen</string>
+    <string name="share_by_yidianzixun">(wenig Informationen)</string>
     <string name="share_image_text">Schauen Sie, was ich geteilt habe! @MIUI</string>
     <string name="share_page_text">Schauen Sie, was ich geteilt habe: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Schauen Sie, was ich geteilt habe: %1$s</string>
@@ -1720,7 +1752,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="speed_test_download">Herunterladen</string>
     <string name="speed_test_no_network">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="speed_test_ping">Verzögerung</string>
-    <string name="speed_test_upload">Hochladen</string>
+    <string name="speed_test_upload">Upload</string>
     <string name="ssl_bad_clock_date_settings">Datum einstellen</string>
     <string name="ssl_bad_clock_warning" formatted="false">Private Verbindung zu %s1 kann nicht hergestellt werden, da Ihre Datums- und Zeiteinstellungen (%s2) falsch sind</string>
     <string name="ssl_bad_expired_warning">Dieser Kanal wird von %1$s bereitgestellt. Das auf Ihrem Gerät eingestellte Datum und die Uhrzeit (%2$s) erlauben es jedoch nicht, eine sichere Verbindung mit %1$s herzustellen. Sie können das richtige Datum und die richtige Uhrzeit einstellen oder auf \"Fortfahren\" tippen, wenn Sie diesen Kanal dennoch verwenden möchten.</string>
@@ -1732,7 +1764,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="ssl_expired">Dieses Zertifikat ist abgelaufen</string>
     <string name="ssl_go_back">Zurück</string>
     <string name="ssl_invalid">Dieses Zertifikat ist ungültig</string>
-    <string name="ssl_mismatch">Name dieser Seite passt nicht zum Namen im Zertifikat</string>
+    <string name="ssl_mismatch">Seitename passt nicht zum Namen im Zertifikat</string>
     <string name="ssl_not_yet_valid">Dieses Zertifikat ist noch nicht gültig</string>
     <string name="ssl_unknown">Unbekannter Zertifikatsfehler</string>
     <string name="ssl_untrusted">Dieses Zertifikat ist nicht von einer vertrauenswürdigen Stelle</string>
@@ -1838,7 +1870,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="title_command_mode">Befehlsmodus</string>
     <string name="title_expire_video">Bald ablaufend</string>
     <string name="title_recent">Letzte</string>
-    <string name="title_select_volume">Ordenr wählen</string>
+    <string name="title_select_volume">Ordner wählen</string>
     <string name="title_use_sandbox_domain">Sandbox-Domäne verwenden</string>
     <string name="toast_exit_browser">Erneut tippen, um Browser zu beenden</string>
     <string name="today">Heute</string>
