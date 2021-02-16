@@ -2053,7 +2053,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday_shortest">M</string>
     <string name="welcome_to_mi_browser">Willkommen bei Mi Browser!</string>
     <string name="what_is_new">App aktualisieren, um auf neue Funktionen zuzugreifen</string>
-    <string name="whatsapp_downloadpage_tips">WhatsApp-Status-Speicher</string>
+    <string name="whatsapp_downloadpage_tips">WhatsApp-Status sichern</string>
     <string name="whatsapp_file_saved_success">Erfolgreich gespeichert</string>
     <string name="whatsapp_how_it_works">So funktioniert es</string>
     <string name="whatsapp_intro_dialog_title">Neue Funktion</string>
@@ -2062,9 +2062,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_principle_page_title">Sie können Bilder und Videos aus WhatsApp-Statusmeldungen mit Mi Browser speichern</string>
     <string name="whatsapp_principle_step_1">Stöbern Sie in Bildern und Videos auf dem Tab \"Status\" in WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Kommen Sie hierher zurück, um sie zu speichern.</string>
-    <string name="whatsapp_status_saver">WhatsApp-Status-Speicher</string>
+    <string name="whatsapp_status_saver">WhatsApp-Status sichern</string>
     <string name="whatsapp_webpage_btn">Anzeigen</string>
-    <string name="whatsapp_webpage_tips">WhatsApp-Status-Speicher</string>
+    <string name="whatsapp_webpage_tips">WhatsApp-Status sichern</string>
     <string name="xiaomi_sign_in_btn_txt">Anmelden oder Konto erstellen</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Download-Manager-Verbindung fehlgeschlagen, bitte prüfen Sie den Status des Download-Managers in der App-Verwaltung.</string>
