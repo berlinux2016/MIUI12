@@ -78,7 +78,7 @@
     <string name="action_menu_text_setting">Einstellungen</string>
     <string name="action_menu_text_share">Teilen</string>
     <string name="action_menu_text_snapshot">Seite speichern</string>
-    <string name="action_menu_text_speed_test">Netwerk testen</string>
+    <string name="action_menu_text_speed_test">Netzwerk testen</string>
     <string name="action_menu_text_video_download">Videos herunterladen</string>
     <string name="action_menu_text_web_mode">Desktopmodus</string>
     <string name="action_menu_useful_page">Verknüpfung hinzufügen</string>

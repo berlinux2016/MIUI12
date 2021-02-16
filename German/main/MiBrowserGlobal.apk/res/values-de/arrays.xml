@@ -21,11 +21,11 @@
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Zurück/Vorwärts</item>
-        <item>Registerkarten wechseln</item>
+        <item>Tabs wechseln</item>
         <item>Keine</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Standard</item>
+        <item>Startseite (Standard)</item>
         <item>Anpasste</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
@@ -69,7 +69,7 @@
     </string-array>
     <string-array name="shortcut_dialog_title">
         <item>Browsernachricht</item>
-        <item>Den Olympischen Spiele mit Mi folgen</item>
+        <item>Den Olympischen Spielen mit Mi folgen</item>
     </string-array>
     <string-array name="speed_result_tips">
         <item>Aktuelle Netzwerkverbindung ist sehr langsam. Es scheint, dass Sie sich in einem Gebiet mit schlechter Netzabdeckung befinden.</item>
