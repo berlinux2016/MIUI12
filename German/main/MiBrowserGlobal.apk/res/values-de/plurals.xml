@@ -83,11 +83,7 @@
   </plurals>
   <plurals name="hours_ago">
     <item quantity="other">vor %1$d Stunden</item>
-    <item quantity="zero">vor %1$d Stunden</item>
     <item quantity="one">vor %1$d Stunde</item>
-    <item quantity="two">vor %1$d Stunden</item>
-    <item quantity="few">vor %1$d Stunden</item>
-    <item quantity="many">vor %1$d Stunden</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">In 1 Stunde</item>
