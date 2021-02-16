@@ -271,6 +271,7 @@
     <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> aufrufen und den oben angezeigten Code eingeben</string>
     <string name="com_facebook_image_download_unknown_error">Unerwarteter Fehler beim Herunterladen eines Bildes</string>
     <string name="com_facebook_internet_permission_error_message">WebView-Anmeldung erfordert INTERNET-Berechtigung</string>
+    <string name="com_facebook_internet_permission_error_title">Android-Manifest Fehler</string>
     <string name="com_facebook_like_button_liked">Gefällt mir</string>
     <string name="com_facebook_like_button_not_liked">Gefällt mir</string>
     <string name="com_facebook_loading">Laden…</string>
@@ -535,7 +536,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="error_unauthorized">Synchronisation wurde wegen zu vieler Anmeldeversuche deaktiviert.</string>
     <string name="error_unsupport_url_tips">Dieses Video kann nicht heruntergeladen werden. Wir unterstützen derzeit das Herunterladen von Videos von Facebook, Twitter und Instagram.</string>
     <string name="evening">Nachmittag</string>
-    <string name="exceed_binded_phone_times_notice">Diese Rufnummer ist bereits mit einem anderen Mi-Account verbunden.</string>
+    <string name="exceed_binded_phone_times_notice">Diese Rufnummer ist bereits mit einem anderen Mi-Konto verbunden.</string>
     <string name="exit">Beenden</string>
     <string name="exit_browser_warning">Browser jetzt beenden?</string>
     <string name="exit_clear_dialog_always">Meine Auswahl merken</string>
@@ -547,6 +548,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="exo_controls_fastforward_description">Schnellvorlauf</string>
     <string name="exo_controls_fullscreen_description">Vollbildmodus</string>
     <string name="exo_controls_next_description">Nächster Titel</string>
+    <string name="exo_controls_pause_description">Pausieren</string>
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_previous_description">Vorheriger Titel</string>
     <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
@@ -554,11 +556,16 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
     <string name="exo_controls_rewind_description">Rücklauf</string>
     <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
+    <string name="exo_controls_stop_description">Beenden</string>
     <string name="exo_download_completed">Download vollständig</string>
     <string name="exo_download_description">Herunterladen</string>
     <string name="exo_download_downloading">Herunterladen</string>
     <string name="exo_download_failed">Download fehlgeschlagen</string>
     <string name="exo_download_removing">Downloads löschen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Automatisch</string>
+    <string name="exo_track_selection_none">Ohne</string>
     <string name="exo_track_surround">Surround Sound</string>
     <string name="exo_track_surround_5_point_1">5.1 Surround Sound</string>
     <string name="exo_track_surround_7_point_1">7.1 Surround Sound</string>
@@ -642,7 +649,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="gaid">GAID (Zum Exportieren klicken)</string>
+    <string name="gaid">GAID (Zum Exportieren tippen)</string>
     <string name="game_news_flow_download_bar_download">Herunterladen</string>
     <string name="game_news_flow_download_bar_play">Spielen</string>
     <string name="game_played">Zuletzt</string>
@@ -680,6 +687,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="hashtag_no_more_item">Das ist vorerst alles</string>
     <string name="hashtag_title_follow">Folgen</string>
     <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm platziert</string>
+    <string name="highly_recommend">"Mint's Auswahl"</string>
     <string name="hint">Hinweis</string>
     <string name="history">Verlauf</string>
     <string name="home_description">Startseite</string>
@@ -761,7 +769,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="low_memory_toast">Browser kann wegen zu wenig RAM nicht verwendet werden</string>
     <string name="make_private">Ausblenden</string>
     <string name="make_private_msg_1">Diese Datei ausblenden?</string>
-    <string name="make_private_msg_2">Diese Dateienausblenden?</string>
+    <string name="make_private_msg_2">Diese Dateien ausblenden?</string>
     <string name="max_tabs_warning">Weitere Tabs können nicht geöffnet werden</string>
     <string name="maximum_input_alert">Maximal 2048 Zeichen möglich</string>
     <string name="media_error_action_refresh">Neu laden</string>
@@ -883,6 +891,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="mw_accessibility_datetime_picker_time">Zeit</string>
     <string name="mw_accessibility_time_picker_hour">Stunde</string>
     <string name="mw_accessibility_time_picker_milli">Millisekunde</string>
+    <string name="mw_accessibility_time_picker_minute">Minute</string>
     <string name="mw_accessibility_time_picker_second">Sekunde</string>
     <string name="mw_actionbar_share">Teilen</string>
     <string name="mw_actionbar_textselection_title">Textauswahl</string>
@@ -901,6 +910,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="mw_color_picker_dialog_title">Farbe auswählen</string>
     <string name="mw_color_picker_hue">Farbton</string>
     <string name="mw_color_picker_saturation">Sättigung</string>
+    <string name="mw_color_picker_value">Wert</string>
     <string name="mw_common_google_play_services_enable_button">Aktivieren</string>
     <string name="mw_common_google_play_services_enable_text">%1$s funktioniert nur, wenn Sie Google-Play-Dienste aktivieren.</string>
     <string name="mw_common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
@@ -985,7 +995,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">Netzwerkverbindung wegen eines schwachen Signals oder einer falschen Netzwerkkonfiguration nicht möglich. Prüfen Sie Ihre %s1-Netzwerkeinstellungen %s2 und versuchen Sie es erneut.</string>
     <string name="mw_miuichromium_error_page_diagnose">Netzwerkdiagnose</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Netzwerkdiagnose</string>
-    <string name="mw_miuichromium_error_page_diagnose_certificate">Netzwerkprotolkoll wurde nicht verifiziert</string>
+    <string name="mw_miuichromium_error_page_diagnose_certificate">Netzwerkprotokoll wurde nicht verifiziert</string>
     <string name="mw_miuichromium_error_page_diagnose_connection">Netzwerkverbindung nicht möglich</string>
     <string name="mw_miuichromium_error_page_diagnose_dns">URL inkorrekt</string>
     <string name="mw_miuichromium_error_page_diagnose_protocol">Netzwerkprotokollfehler</string>
@@ -993,7 +1003,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="mw_miuichromium_error_page_diagnose_success">Schwaches Netzwerksignal</string>
     <string name="mw_miuichromium_error_page_diagnose_timeout">Timeout der Verbindung</string>
     <string name="mw_miuichromium_error_page_diagnose_website">Webseite ist nicht erreichbar</string>
-    <string name="mw_miuichromium_error_page_diagnosing">Prüfe Netzwerk</string>
+    <string name="mw_miuichromium_error_page_diagnosing">Netzwerk prüfen</string>
     <string name="mw_miuichromium_error_page_homepage">Startseite</string>
     <string name="mw_miuichromium_error_page_mobile">Mobile Daten</string>
     <string name="mw_miuichromium_error_page_network_hijack">Aktuelles Netzwerk ist nicht sicher</string>
