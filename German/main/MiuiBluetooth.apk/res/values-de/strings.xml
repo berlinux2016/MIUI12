@@ -131,6 +131,8 @@
   <string name="bluetooth_hearingaid_right_pairing_message">Rechtes Hörgerät koppeln…</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Verbunden mit LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Für LE_AUDIO verwenden</string>
   <string name="bluetooth_map_profile_summary_connected">Mit Karte verbunden</string>
   <string name="bluetooth_map_profile_summary_use_for">Für Karte verwenden</string>
   <string name="bluetooth_opp_profile_summary_connected">Mit Dateiserver verbunden</string>

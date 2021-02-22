@@ -513,6 +513,8 @@ In %d Sekunden erneut versuchen."</string>
   <string name="bluetooth_hearingaid_right_pairing_message">Rechtes Hörgerät koppeln…</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Verbunden mit LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Für LE_AUDIO verwenden</string>
   <string name="bluetooth_map_profile_summary_connected">Mit Karte verbunden</string>
   <string name="bluetooth_map_profile_summary_use_for">Für Karte verwenden</string>
   <string name="bluetooth_opp_profile_summary_connected">Mit Dateiserver verbunden</string>
@@ -1702,6 +1704,7 @@ Screenshot zu erstellen"</string>
   <string name="output_none_found">Keine Geräte gefunden</string>
   <string name="output_none_found_service_off">Keine Geräte gefunden. Versuchen Sie, %1$s einzuschalten</string>
   <string name="output_service_bt_wifi">Bluetooth und WLAN</string>
+  <string name="output_service_wifi">WLAN</string>
   <string name="output_title">Medienausgabe</string>
   <string name="overlay_display_devices_title">Sekundärdsplay simulieren</string>
   <string name="overview">Übersicht</string>

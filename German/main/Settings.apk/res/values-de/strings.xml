@@ -1282,6 +1282,8 @@ Das hier könnte schief gelaufen sein:
   <string name="bluetooth_is_discoverable">Sichtbar für alle Bluetooth-Geräte in der Nähe (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Dieses Gerät für Bluetooth-Geräte in der Nähe sichtbar machen</string>
   <string name="bluetooth_is_visible_message">%1$s ist für Geräte in der Umgebung sichtbar, wenn die Bluetooth-Einstellungen geöffnet sind</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Verbunden mit LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Für LE_AUDIO verwenden</string>
   <string name="bluetooth_left_name">Links</string>
   <string name="bluetooth_lock_voice_dialing">Sprachwahl sperren</string>
   <string name="bluetooth_lock_voice_dialing_summary">Verwendung der Sprachwahl über Bluetooth bei gesperrtem Bildschirm verhindern</string>
@@ -1499,7 +1501,7 @@ Abtastrate"</string>
   <string name="bootloader_status_locked">Gesperrt</string>
   <string name="bootloader_status_locked_info">Dieses Gerät ist gesperrt.</string>
   <string name="bootloader_status_locked_summary">Telefon ist sicher.</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock benötigt Zugang zu Ihrem Mi-Konto, CPU ID, IMSI, um normal zu arbeiten. Wir erheben, nutzen und verarbeiten Ihre Daten gemäß unseren %s. Einverstanden?</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock benötigt Zugang zu Ihrem Mi-Konto, CPU ID, IMSI, um normal zu arbeiten. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Zustimmen?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Abbrechen</string>
   <string name="bootloader_status_privacy_dialog_title">Erforderliche Berechtigungen</string>
   <string name="bootloader_status_privacy_dialog_url_text">Datenschutzerklärung</string>
@@ -1852,19 +1854,18 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="color_calibration_none">Nativ</string>
   <string name="color_cyan">Blaugrün</string>
   <string name="color_game_led_applications_title">Apps wählen</string>
-  <string name="color_game_led_applications_title_summary">Sie können die Nutzung des LED-Lichts für einzelne Apps einschränken</string>
+  <string name="color_game_led_applications_title_summary">Einzelne Apps auswählen, die mit LED-Licht arbeiten</string>
   <string name="color_game_led_battery_title">Während des Ladens eingeschaltet lassen</string>
-  <string name="color_game_led_charging_summary">Wird ausgeschaltet, wenn der Akku geladen ist</string>
-  <string name="color_game_led_end_time">Endzeit</string>
+  <string name="color_game_led_charging_summary">LED-Licht wird ausgeschaltet, wenn der Akku geladen wird</string>
+  <string name="color_game_led_end_time">Ende</string>
   <string name="color_game_led_game_mode_summary">Effekte für Spiele anzeigen, wenn Game Turbo eingeschaltet ist</string>
   <string name="color_game_led_game_mode_title">Für Game Turbo verwenden</string>
   <string name="color_game_led_incall_pulse_title">Für eingehende Anrufe verwenden</string>
-  <string name="color_game_led_notification_pulse_title">Pulsieren bei Benachrichtigungen, wenn der Bildschirm aus ist</string>
-  <string name="color_game_led_remind_title">Erinnerungseffekte</string>
+  <string name="color_game_led_notification_pulse_title">Pulsieren bei Benachrichtigungen am AOD</string>
+  <string name="color_game_led_remind_title">Effekte</string>
   <string name="color_game_led_special_scene_title">Spezialeffekte</string>
-  <string name="color_game_led_start_time">Startzeit</string>
   <string name="color_game_led_summary">Funktioniert nicht im DND-Modus</string>
-  <string name="color_game_led_time_title">LED-Licht einschalten</string>
+  <string name="color_game_led_time_title">Pünktlich einplanen</string>
   <string name="color_game_led_title">LED-Licht</string>
   <string name="color_gray">Grau</string>
   <string name="color_green">Grün</string>
@@ -2532,8 +2533,8 @@ Um dieses Problem zu beheben, stoppen Sie %1$s und verhindern die Hintergrundakt
   <string name="dialog_check_button_negative">Erneut versuchen</string>
   <string name="dialog_check_button_positive">Mit WLAN verbinden</string>
   <string name="dialog_check_context">"Ihr Gerät kann jetzt keine Internetverbindung herstellen.
-1. Auf \"Mit WLAN verbinden\" tippen, um eines der verfügbaren Netzwerke auszuwählen.
-2. Wenn Sie mobile Daten verwenden möchten, auf \"Erneut versuchen\" tippen oder Ihre SIM-Karte entfernen und wieder einlegen."</string>
+· Auf \"Mit WLAN verbinden\" tippen, um eines der verfügbaren Netzwerke auszuwählen.
+· Wenn Sie mobile Daten verwenden möchten, auf \"Erneut versuchen\" tippen oder SIM-Karte entfernen und wieder einlegen."</string>
   <string name="dialog_check_title">Internetverbindung herstellen nicht möglich</string>
   <string name="dialog_chose_item">Wählen Sie ein Element aus, das angezeigt werden soll</string>
   <string name="dialog_content_login">Für das Update mit Ihrem Mi-Konto anmelden?</string>
@@ -2750,7 +2751,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dpp_cannot_connect_target">Verbindung zum Zielnetzwerk herstellen nicht möglich</string>
   <string name="dpp_connect_success">Verbindung erfolgreich hergestellt</string>
   <string name="dpp_not_support">Netzwerk teilen nicht möglich</string>
-  <string name="dpp_qr_code_summary">Mit WLAN verbinden, indem Sie diesen QR-Code scannen.</string>
+  <string name="dpp_qr_code_summary">Andere Personen bitten, diesen QR-Code mit dem Scanner in ihren WLAN-Einstellungen zu scannen</string>
   <string name="dpp_scanner_summary">QR-Code innerhalb des Rahmens platzieren</string>
   <string name="dpp_shared_fail">WLAN teilen nicht möglich</string>
   <string name="dpp_shared_success">WLAN erfolgreich geteilt</string>
@@ -3042,7 +3043,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="estimated_time_left">Geschätzte Restdauer</string>
   <string name="ethernet_data_template">^1 Ethernet-Daten</string>
   <string name="ethernet_data_usage">Ethernet-Datennutzung</string>
-<string name="ethernet_tether_checkbox_text">Ethernet Tethering</string>
+  <string name="ethernet_tether_checkbox_text">Ethernet Tethering</string>
   <string name="ethernet_tethering_subtext">Internetverbindung des Telefons über USB-Ethernet freigeben</string>
   <string name="every_day">Täglich</string>
   <string name="exceptional_case">Ausnahmen</string>
@@ -3051,6 +3052,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="expandable_under_keyguard_title">Am Sperrbildschirm anzeigen</string>
   <string name="experimental_category_title">Experimentell</string>
   <string name="experimental_preference">(Experimentell)</string>
+  <string name="expert_detail_content_description">Details anzeigen</string>
   <string name="extended_power_menu">Erweitertes Power-Menü</string>
   <string name="exterior">Farbschema</string>
   <string name="external_code_size_label">USB-Speicher-App</string>
@@ -4075,6 +4077,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="later">SPÄTER</string>
   <string name="lattice_smartcover_title">Gitterfrontabdeckung</string>
   <string name="launch_ai_shortcut">Mi KI-Verknüpfung</string>
+  <string name="launch_alipay_health_code">Alipay-Gesundheitscode</string>
+  <string name="launch_alipay_health_code_auto_close">Verknüpfung zum Alipay-Gesundheitscode ist nicht mehr verfügbar. Sie können zu einer anderen Verknüpfung wechseln.</string>
   <string name="launch_alipay_payment_code">Alipay-Zahlungscode</string>
   <string name="launch_alipay_scanner">Alipay-Scanner</string>
   <string name="launch_by_default">Standardmäßig öffnen</string>
@@ -4092,6 +4096,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="launch_notification_center">Benachrichtigungsleiste</string>
   <string name="launch_recents">Zuletzt verwendet</string>
   <string name="launch_voice_assistant">Sprachassistenten starten</string>
+  <string name="launch_wechat_health_code">WeChat-Gesundheitscode</string>
+  <string name="launch_wechat_health_code_auto_close">Verknüpfung zum WeChat-Gesundheitscode ist nicht mehr verfügbar. Sie können zu einer anderen Verknüpfung wechseln.</string>
   <string name="launch_wechat_payment_code">WeChat-Zahlungscode</string>
   <string name="launch_wechat_scanner">WeChat-Scanner</string>
   <string name="launch_wifi_text">Details anzeigen</string>
