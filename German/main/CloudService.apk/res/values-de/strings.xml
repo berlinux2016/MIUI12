@@ -426,6 +426,7 @@ Nutzen Sie ein anderes Konto."</string>
   <string name="micloud_request_sync_too_frequent">Zu viele Anfragen. Einen Moment warten und erneut versuchen.</string>
   <string name="micloud_sec_dspt">" und teile Dinge mit Freunden"</string>
   <string name="micloud_setting_antispam_summary">Ausnahmen und geblockte Telefonnummern</string>
+  <string name="micloud_setting_bluetooth_summary">Infos über Ihre gekoppelten Geräte mit der Cloud synchronisieren</string>
   <string name="micloud_setting_browser_summary">Lesezeichen, Verlauf und Registerkarten</string>
   <string name="micloud_setting_calendar_summary">Termine</string>
   <string name="micloud_setting_calllog_summary">Anrufliste</string>
