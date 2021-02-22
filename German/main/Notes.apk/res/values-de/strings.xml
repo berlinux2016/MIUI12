@@ -574,6 +574,10 @@
   <string name="sunday_short">So</string>
   <string name="sunday_shortest">S</string>
   <string name="sync_all_terms">%1$s, %2$s und %3$s</string>
+  <string name="sync_desc_state_complete">Mit der Cloud synchronisiert</string>
+  <string name="sync_desc_state_complete_china">Alle %1$s wurden synchronisiert</string>
+  <string name="sync_desc_state_disable">Synchronisation mit der Cloud einschalten</string>
+  <string name="sync_desc_state_running">Synchronisieren mit der Cloud</string>
   <string name="sync_folder_todo">%1$s und %2$s</string>
   <string name="sync_note_folder">%1$s und %2$s</string>
   <string name="sync_note_todo">%1$s und %2$s</string>
