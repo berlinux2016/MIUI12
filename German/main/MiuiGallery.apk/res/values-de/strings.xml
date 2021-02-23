@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="auto_download_title">Bildqualität auswählen</string>
+  <string name="backup_settings">Mit der Cloud synchronisieren</string>
+  <string name="backup_settings_more">Zusätzliche Einstellungen</string>
+  <string name="cloud_backup_enable_title">Synchronisieren</string>
+  <string name="cloud_backup_open_button">Einschalten</string>
+  <string name="cloud_backup_space">Cloud-Speicher</string>
+  <string name="cloud_backup_status_disable">Aus</string>
+  <string name="cloud_backup_status_eneble">Ein</string>
+  <string name="cloud_backup_title">Mit der Cloud synchronisieren</string>
+  <string name="cloud_bacup_disable_button">Synchronisieren ausschalten</string>
+  <string name="cloud_bacup_disable_processing">Bearbeiten läuft…</string>
+  <string name="cloud_login_ok">Verstanden</string>
+  <string name="cloud_login_settings_title">Synchronisationseinstellungen</string>
+  <string name="mi_mover_working_desc">Mi Mover überträgt Elemente…</string>
+  <string name="photo_size_not_support">Diese Bildauflösung wird nicht unterstützt</string>
+  <string name="see_more_settings">Zusätzliche Einstellungen</string>
+  <string name="sync_backup_disable_confirm_message_downloading">Wenn Sie die Synchronisierung jetzt ausschalten, werden die laufenden Downloads der in der Cloud gespeicherten Originaldateien unterbrochen. Auch die auf diesem Gerät gespeicherten Bilder in hoher Qualität werden nicht mehr verfügbar sein. Trotzdem ausschalten?</string>
+  <string name="sync_backup_disable_confirm_message_wait">Hochwertige Bilder, die auf diesem Gerät gespeichert sind, sind nicht mehr verfügbar, nachdem Sie die Synchronisation ausgeschaltet haben. Sie können die Originaldateien aus der Cloud herunterladen und die Synchronisation danach ausschalten.</string>
+  <string name="sync_backup_disable_confirm_title">Synchronisieren ausschalten</string>
+  <string name="sync_backup_enable_confirm_message">Wenn die Synchronisation mit der Cloud aktiviert ist, werden Elemente von diesem Gerät hochgeladen und mit den in der Cloud gespeicherten Elementen zusammengeführt.</string>
+  <string name="sync_backup_enable_confirm_title">Synchronisierte Elemente zusammenführen</string>
+  <string name="vlog_filter_master_close">Videoeffekte entfernt</string>
+  <string name="vlog_filter_master_open">Angewandte Videoeffekte</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -151,7 +175,7 @@
   <string name="album_share_subtitle_requesting">Albuminfos werden geladen…</string>
   <string name="album_share_title_new_album">Neues Album teilen</string>
   <string name="album_show_local_only">Nur lokale Alben anzeigen</string>
-  <string name="album_show_local_only_summary">Einschalten, wenn Sie Ihre Fotos nur auf Ihrem Gerät anzeigen und löschen möchten.</string>
+  <string name="album_show_local_only_summary">Eine Löschoption von nur lokalen Alben wird verfügbar, wenn diese Funktion aktiviert ist</string>
   <string name="album_sort_type">Sortierreihenfolge</string>
   <string name="album_sort_type_create_time_asc">Von alt nach neu</string>
   <string name="album_sort_type_create_time_desc">Von neu nach alt</string>
@@ -203,7 +227,7 @@
   <string name="authorize_to_device_failed">Autorisieren nicht möglich</string>
   <string name="authorize_watch_on_tv_failed">Autorisieren der Anzeige auf TV nicht möglich</string>
   <string name="auto_backup_introduce">Fotos und Videos automatisch synchronisieren (Mi-Konto erforderlich)</string>
-  <string name="auto_download_media_title">Fotos von Xiaomi Cloud automatisch herunterladen</string>
+  <string name="auto_download_media_title">Automatisch herunterladen</string>
   <string name="auto_update_face">Fotos automatisch hinzufügen</string>
   <string name="auto_update_face_summary">Automatisch abgleichen und Foto zum Kinderalbum hinzufügen</string>
   <string name="auto_update_off">Aus</string>
@@ -444,8 +468,8 @@
   <string name="cloud_guide_auto_backup_title">Alben zur Synchronisation auswählen</string>
   <string name="cloud_guide_login_title">Fotos und Videos automatisch sichern</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
-  <string name="cloud_privacy_with_ai_album">Datenschutzerklärung zur automatischen Synchronisation und Bildverarbeitung</string>
-  <string name="cloud_privacy_with_face">Datenschutzerklärung zur automatischen Synchronisation und Gesichtserkennung</string>
+  <string name="cloud_privacy_with_ai_album">Funktionen und Datenschutz</string>
+  <string name="cloud_privacy_with_face">Funktionen und Datenschutz</string>
   <string name="cloud_settings">Synchronisation</string>
   <string name="cloud_storage_extend">Cloud-Speicher erweitern</string>
   <string name="cloud_storage_ok_append_desc">Verfügbar %s</string>
@@ -1902,7 +1926,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="share_public_url_text">Ich habe das Album %1$s mit Ihnen geteilt. Betrachten Sie es unter %2$s.</string>
   <string name="share_with_family">Mit Ihrer Familie teilen</string>
   <string name="sharer_quota_fulfiled">Sie haben dieses Album bereits mit der maximalen Anzahl an Benutzern geteilt</string>
-  <string name="show_cloud_albumlist_summary">Alben verwalten, die Sie mit der Cloud synchronisieren</string>
+  <string name="show_cloud_albumlist_summary">Neue Elemente aus ausgewählten Alben werden nicht in die Cloud hochgeladen, nachdem Sie die Synchronisation deaktiviert haben.</string>
   <string name="show_hidden_album_summary">Anzeigen und Verwalten versteckter Alben</string>
   <string name="show_hidden_album_title">Versteckte Alben anzeigen</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Erfolgreich verschoben, navigieren Sie zu anderen Alben</string>
