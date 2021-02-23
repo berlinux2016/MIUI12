@@ -1864,7 +1864,6 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="color_game_led_notification_pulse_title">Impuls bei Benachrichtigungen auf dem Always-On-Display</string>
   <string name="color_game_led_remind_title">Effekte</string>
   <string name="color_game_led_special_scene_title">Spezialeffekte</string>
-  <string name="color_game_led_start_time">Start</string>
   <string name="color_game_led_summary">Funktioniert nicht im DND-Modus</string>
   <string name="color_game_led_time_title">Pünktlich einplanen</string>
   <string name="color_game_led_title">LED-Licht</string>
