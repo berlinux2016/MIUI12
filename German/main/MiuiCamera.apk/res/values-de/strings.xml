@@ -532,6 +532,7 @@ auswahl"</string>
   <string name="config_name_straighten">Gerade halten</string>
   <string name="config_name_super_resolution">Superauflösung</string>
   <string name="config_name_tilt">Unschärfe</string>
+  <string name="confirm">Bestätigen</string>
   <string name="confirm_change_mode_title">Modus wechseln</string>
   <string name="confirm_change_to_expert_mode_message">In den erweiterten Modus wechseln?</string>
   <string name="confirm_change_to_simple_mode_message">In den Standardmodus wechseln?</string>
@@ -1689,6 +1690,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pro_color_mode">Farbe Pro</string>
   <string name="professional_shortcut_long">Pro</string>
   <string name="professional_shortcut_short">Pro</string>
+  <string name="prompt_desc">Bei Verwendung dieser Funktion werden Ihre Daten ca. zu %s MB verbraucht. Möchten Sie das Herunterladen fortsetzen?</string>
+  <string name="warm_prompt">Tipps</string>
   <string name="qr_code_details">QR-Code Details:</string>
   <string name="qr_of_unsupported_text">Inhalt: \"%s\"</string>
   <string name="qr_of_unsupported_type">QR-Code</string>
