@@ -339,6 +339,7 @@ und optimiert Ihre Fotos anhand dieser Informationen."</string>
   <string name="app_details">"App-Details: "</string>
   <string name="app_name">Einstellung</string>
   <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
+  <string name="audio_map_summary_tip">Lautstärke des linken und rechten Kanals in Echtzeit überwachen und mit dem Schieberegler einstellen</string>
   <string name="auto">Auto</string>
   <string name="auto_hibernation_enter_tip">Bildschirm wird gerade ausgeschaltet…</string>
   <string name="autozoom_click_hint">Tippen Sie auf ein Objekt, um es während der Bewegung scharf zu halten. Bleiben Sie mindestens 3 Meter entfernt, um den besten Effekt zu erzielen.</string>
@@ -839,6 +840,7 @@ und erstellt dann eine Aufnahme, bei der jeder am besten aussieht"</string>
   <string name="hint_slow_motion">Aufgenommenes Video langsamer abspielen</string>
   <string name="hint_subtitle">Untertitel diktieren, während Sie Videos aufnehmen</string>
   <string name="hint_subtitle_prompt">Sie können jetzt Untertitel diktieren</string>
+  <string name="histogram_summary_tip">Feedback zur Echtzeit-Belichtung anzeigen</string>
   <string name="hint_url">Webseite</string>
   <string name="hot_music">Heiße Titel</string>
   <string name="how_to_use_app_quick">Wie zwischen Apps gewechselt wird</string>
@@ -1604,6 +1606,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_more_mode_style_title">Kameramodus</string>
   <string name="pref_multi_camera_dual_video_front">Vordere Kamera</string>
   <string name="pref_multi_camera_dual_video_remote">Duale Telefonaufnahme</string>
+  <string name="pref_n_s_a">Audioeinstellungen</string>
   <string name="pref_n_s_o_l">Einschalten</string>
   <string name="pref_n_s_o_m">Ausschalten</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Sie können nur 720p-Videos mit 240fps aufnehmen.</string>

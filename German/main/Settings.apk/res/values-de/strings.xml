@@ -1845,7 +1845,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="cloud_restore_window_title">Xiaomi Cloud Wiederherstellung</string>
   <string name="cloud_search">Suchen…</string>
   <string name="cmcc_hardware_version">Hardwareversion</string>
-  <string name="codec_low_latency_summary">Minimierung der Wartezeit bei der Audio- und Videosynchronisierung von Spielen</string>
+  <string name="codec_low_latency_summary">Minimierung der Wartezeit bei der Audio- und Videosynchronisation von Spielen</string>
   <string name="codec_low_latency_title">Niedrige Wartezeit</string>
   <string name="collect_diagnostics_summary">Diagnosedaten für die Fehlersuche sammeln</string>
   <string name="collect_diagnostics_title">Diagnosedaten sammeln</string>
@@ -4692,6 +4692,9 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_LeftEar">Links</string>
   <string name="miheadset_RightEar">Rechts</string>
   <string name="miheadset_active">Kraftvoll</string>
+  <string name="miheadset_ancClosed">Aus</string>
+  <string name="miheadset_ancDecrease">Niedrig</string>
+  <string name="miheadset_ancIncrease">Hoch</string>
   <string name="miheadset_anc_indicate">Kopfhörer anschließen und koppeln</string>
   <string name="miheadset_audio_mode">Audio-Modus</string>
   <string name="miheadset_audio_mode_high">Hohe Qualität</string>
@@ -4767,10 +4770,12 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_rename_device">Umbenennen</string>
   <string name="miheadset_soft">Weich</string>
   <string name="miheadset_transparent">Transparenz</string>
+  <string name="miheadset_transparentMode">Transparenz</string>
   <string name="miheadset_triple_click_key_mode">Dreifachklick-Tastenmodus</string>
   <string name="miheadset_triple_click_key_mode_summary">Dreifachklick-Tastenbelegung ändern</string>
   <string name="miheadset_unpair_device">Koppeln abbrechen?</string>
   <string name="miheadset_unpair_device_text">%1$s wird von allen Geräten, die mit diesem Mi-Konto verbunden sind, entkoppelt.</string>
+  <string name="miheadset_voiceIncrease">Stimme verbessern</string>
   <string name="miliao_account_guide">Melden Sie sich mit Ihrem Mi-Konto von überall bei Xiaomi Cloud, MIUI Theme Store und anderen Mi Diensten an.</string>
   <string name="miliao_account_login">Mit Mi Talk anmelden</string>
   <string name="misc_files">Sonstige Dateien</string>

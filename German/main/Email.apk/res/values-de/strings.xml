@@ -76,7 +76,7 @@
   <string name="account_settings_preference_att_save_path">Standardspeicherort für Anhänge</string>
   <string name="account_settings_preference_head_icon">Profilfotos</string>
   <string name="account_settings_preference_notify">Benachrichtigen</string>
-  <string name="account_settings_retry_label">Versuchen zu Synchronisieren</string>
+  <string name="account_settings_retry_label">Synchronisieren versuchen</string>
   <string name="account_settings_retry_summary">Tippen, um Konto zu synchronisieren</string>
   <string name="account_settings_ringtone">Benachrichtigungston</string>
   <string name="account_settings_servers">Servereinstellungen</string>
@@ -714,8 +714,8 @@ Bitte bestätigen Sie, ob das App-Kennwort an ist. Falls es an ist, gehen Sie bi
   <string name="mailbox_name_display_starred">Favoriten</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
-  <string name="mailbox_setting_preference_sync_summary_close">Synchronisierung: Aus</string>
-  <string name="mailbox_setting_preference_sync_summary_open">Synchronisierung: Ein</string>
+  <string name="mailbox_setting_preference_sync_summary_close">Synchronisation: Aus</string>
+  <string name="mailbox_setting_preference_sync_summary_open">Synchronisation: Ein</string>
   <string name="mailbox_settings_activity_title">Synchronisationseinstellungen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisationseinstellungen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synchronisiere E-Mail von</string>
