@@ -144,6 +144,7 @@
   <string name="other_settings_user_experience">Programm zur Benutzererfahrung</string>
   <string name="other_settings_user_experience_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken mitteilen. Details anzeigen.</string>
   <string name="other_settings_user_experience_summary_index">Details anzeigen</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon ermöglicht Ihnen, Daten von Ihrem Gerät zu übertragen, wenn dessen Bildschirm beschädigt ist.</string>
   <string name="permission_account">Kontenzugriff auf Ihrem Gerät:</string>
   <string name="permission_account_introduction">Für Anmelden mit Mi-Konto</string>
   <string name="permission_application_package_introduction">Für den Speicherzugriff, um Installationspakete zu analysieren und zu scannen</string>
@@ -176,6 +177,10 @@
   <string name="permission_picture_introduction">Zum Speichern, Bearbeiten und Synchronisieren von Fotos und Videos</string>
   <string name="permission_read_call_records">Anrufliste bearbeiten:</string>
   <string name="permission_read_call_records_introduction">Zum Hinzufügen von Elementen zur Anrufliste und zum Löschen gesperrter Anrufe</string>
+  <string name="permission_read_contacts">Kontaktezugriff</string>
+  <string name="permission_read_contacts_introduction">Zur Identitätsprüfung</string>
+  <string name="permission_read_message">Zugriff auf Textnachrichten</string>
+  <string name="permission_read_message_introduction">Zur Eigentumsprüfung Ihres Geräts</string>
   <string name="permission_read_note_introduction">Für den Zugriff auf Notizen und Anhänge</string>
   <string name="permission_read_write_file">Auf Dateien und Fotos zugreifen und auf Ihrem Gerät speichern:</string>
   <string name="permission_read_write_file_introduction">Zum Zugriff, Speichern und Zwischenspeichern von Elementen auf Ihrem Gerät</string>
