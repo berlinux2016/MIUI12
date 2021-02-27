@@ -199,7 +199,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="miuix_sbl_tracking_progress_labe_up_none">Das ist im Moment alles</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Einen Moment…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
-  <string name="msg_alert_cancel_restore">Wiederherstellen von Elementen, jetzt anhalten?</string>
+  <string name="msg_alert_cancel_restore">Elemente werden aus der Xiaomi Cloud wiederhergestellt. Jetzt abbrechen?</string>
   <string name="msg_alert_restore_error">Elemente wiederherstellen aus Xiaomi Cloud nicht möglich, erneut versuchen.</string>
   <string name="msg_restore_start_with_metered_network">"Ihr Startbildschirm wird neu gestartet. Gesicherte Apps werden automatisch heruntergeladen. &lt;br />&lt;b>&lt;font color='red'>%s Dateien werden heruntergeladen.&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Wenn Sie mit der Wiederherstellung dieser Elemente fortfahren, werden mobile Daten für den Download verwendet.</string>
@@ -263,7 +263,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="restore_home_failed">Wiederherstellen des Startbildschirms fehlgeschlagen</string>
   <string name="restore_home_screen_apps">Wiederherstellen aus Cloud-Sicherung</string>
   <string name="restore_init_description">Wiederherstellung starten</string>
-  <string name="restore_network_pause">%s (zum Fortfahren tippen)</string>
+  <string name="restore_network_pause">Angehalten, um mobile Daten zu sparen. Tippen, um fortzufahren.</string>
   <string name="restore_network_unconnect">%s (auf Verbindung warten)</string>
   <string name="restore_task_cancelling">Abbrechen…</string>
   <string name="restore_task_in_process">Wiederherstellen…</string>
@@ -271,7 +271,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="restore_unfinished">Wiederherstellen später erneut versuchen</string>
   <string name="restoring_app_data_title_no_progress">WeChat-Daten wiederherstellen…</string>
   <string name="restoring_data">Daten wiederherstellen…</string>
-  <string name="restoring_file_title_no_progress">Dateien wiederherstellen…</string>
+  <string name="restoring_file_title_no_progress">Apps wiederherstellen…</string>
   <string name="restoring_home_screen_apps">Aus Xiaomi Cloud wiederherstellen…</string>
   <string name="restoring_settings">Einstellungen wiederherstellen…</string>
   <string name="retry">Wiederholen</string>
