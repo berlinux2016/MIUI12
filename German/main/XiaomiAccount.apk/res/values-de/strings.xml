@@ -647,4 +647,5 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="verify_phone_title">Telefonnummer verifizieren</string>
   <string name="vip_account_settings">VIP-Einstellungen</string>
   <string name="vip_settings_info">VIP-Einstellungen</string>
+  <string name="weixin_login">Mit WeChat anmelden</string>
 </resources>
