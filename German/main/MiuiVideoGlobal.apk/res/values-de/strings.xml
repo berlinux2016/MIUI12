@@ -90,6 +90,8 @@
   <string name="alert_dialog_download_progress">"App herunterladen: "</string>
   <string name="all">Alles anzeigen</string>
   <string name="and">" und "</string>
+  <string name="app_description_content">Mi Video ist eine System-App, die einen lokalen Videoplayer enthält. Sie können weiterhin Videodateien abspielen, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
+  <string name="app_description_title">\"Mi Video\" vom Startbildschirm entfernen?</string>
   <string name="audio_changed">Neuer Audiotitel</string>
   <string name="audio_title">Audiotitel</string>
   <string name="audio_track">Audiotitel</string>
@@ -252,6 +254,13 @@ ID:%s
 Senden Sie diesen Code an den Supervisor."</string>
   <string name="dialog_privacy_info_new2">"Um die Dienste nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten erfasst, verarbeitet und nutzt. Unsere &lt;a href=%2$s>Datenschutzerklärung&lt;/a> gilt als gelesen und akzeptiert, wenn Sie unten auf \"Zustimmen\" tippen."</string>
   <string name="dialog_privacy_info_new3">"Um die Dienste nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten in Übereinstimmung mit der Datenschutzerklärung erfasst, verarbeitet und nutzt. Wenn Sie unten auf \"Zustimmen\" tippen, akzeptieren Sie Xiaomi's &lt;a href=%2$s>Datenschutzerklärung&lt;/a> und &lt;a href=%3$s>Nutzervereinbarung&lt;/a>. &lt;br/>&lt;br/>Tippen auf \"Zustimmen\" erlaubt Mi Video auch den Zugriff auf die Liste der auf Ihrem Gerät installierten Apps. Mit dieser Berechtigung ist Mi Video in der Lage, Elemente zu teilen, zu verstehen, ob eine App auf Ihrem Gerät installiert ist, welche Version einer App installiert ist und ob eine App sicher ist."</string>
+  <string name="dialog_privacy_revoke_cancel">Abbrechen</string>
+  <string name="dialog_privacy_revoke_count_down">Widerrufen (%1$ds)</string>
+  <string name="dialog_privacy_revoke_description">Indem Sie den Schalter umlegen, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Video. Wir werden aufhören, personenbezogene Daten zu sammeln. Die bereits gesammelten und aufbewahrten personenbezogenen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Verweigerung der Annahme von Online-Diensten, die auf gesammelten personenbezogenen Daten basieren, betrachtet.</string>
+  <string name="dialog_privacy_revoke_fail">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung widerrufen zu können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="dialog_privacy_revoke_ok">Widerrufen</string>
+  <string name="dialog_privacy_revoke_success">Erfolgreich widerrufen</string>
+  <string name="dialog_privacy_revoking">Zustimmung widerrufen…</string>
   <string name="dialog_privacy_title">Genehmigung</string>
   <string name="dialog_revoke_privacy_info_new2">Wenn Sie die Genehmigung widerrufen, stoppt die App die Datenerfassung, und alle damit verbundenen Daten werden von unseren Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Genehmigung trotzdem widerrufen?</string>
   <string name="dialog_revoke_privacy_title">Genehmigung widerrufen</string>
@@ -665,6 +674,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="next_step">Weiter</string>
   <string name="nick_name">Spitzname</string>
   <string name="no_account">Nicht angemeldet</string>
+  <string name="no_history">Keine Elemente hier</string>
   <string name="no_longer_prompt">Nicht mehr anzeigen</string>
   <string name="no_more_content">Das ist alles für den Moment</string>
   <string name="no_network_tips">Diese Funktion kann jetzt nicht verwendet werden. Netzwerkzugriff ist eingeschränkt.</string>
@@ -1015,6 +1025,8 @@ Sicherheit Ihres Kontos erhöhen."</string>
   <string name="plus_sort_type_time">Zeit</string>
   <string name="plus_tab_gallery">Ordner</string>
   <string name="plus_tab_time">Zeitleiste</string>
+  <string name="privacy_revoke_setting">Indem Sie den Schalter umlegen, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Video.</string>
+  <string name="privacy_revoke_title">Widerruf Zustimmung</string>
   <string name="progressbar_title">Auf Sicherheitsprobleme prüfen…</string>
   <string name="psw_hint">Passwort</string>
   <string name="psw_sign_in">Mit Passwort anmelden</string>
@@ -1131,6 +1143,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="screenshot_8k_saving">8K-Screenshot speichern…</string>
   <string name="screenshot_8k_share">Datei senden an</string>
   <string name="search">Suchen</string>
+  <string name="search_bar_hint">Videos suchen</string>
   <string name="search_choose_language">Sprache wählen</string>
   <string name="search_choose_voice_language">Sprache für die Sprachsuche auswählen</string>
   <string name="search_hot_words">Beliebt</string>
@@ -1383,4 +1396,11 @@ Delta-Update-Größe: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte prüfen Sie die SD-Karte.</string>
   <string name="year">Jahr</string>
   <string name="yesterday">Gestern</string>
+  <string name="ytb_account">Konten</string>
+  <string name="ytb_login">Anmelden</string>
+  <string name="ytb_login_btn">Anmelden</string>
+  <string name="ytb_login_hint">Anmelden, um Ihre YouTube-Abos anzuzeigen</string>
+  <string name="ytb_logout">Abmelden</string>
+  <string name="ytb_play_next">Weiter</string>
+  <string name="ytb_subscribed">Abos</string>
 </resources>

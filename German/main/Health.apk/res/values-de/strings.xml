@@ -293,6 +293,7 @@ Wenn Sie sich entscheiden, Ihre Gesundheitsdaten zu löschen, nachdem Sie sich e
   <string name="date_format_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
   <string name="date_format_yyyy_m_d_h_m">dd.MM.yyyy HH:mm</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="date_week_index">"'KW' ww/yyyy"</string>
   <string name="day">Tag</string>
   <string name="deep_light_detection_open_prompt">Ihr Schlafzyklus wird analysiert, wenn Sie das nächste Mal zu Bett gehen</string>
@@ -850,10 +851,13 @@ mit einem Finger"</string>
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
+  <string name="miuix_appcompat_select_item">Elemente wählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
