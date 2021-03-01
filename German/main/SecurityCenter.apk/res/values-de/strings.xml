@@ -447,17 +447,23 @@ Sie verlieren keine App-Daten."</string>
   <string name="app_manager_show_detail_infos">Alle zeigen</string>
   <string name="app_manager_start_by">Gestartet durch %s</string>
   <string name="app_manager_system_mobile_disable">Daten deaktivieren</string>
+  <string name="app_manager_tab_manager">Verwalten</string>
   <string name="app_manager_thumbnail_blur_summary">Zuletzt geöffnete Apps verwischen</string>
   <string name="app_manager_thumbnail_blur_title">App-Vorschau verwischen</string>
   <string name="app_manager_title">Apps verwalten</string>
+  <string name="app_manager_to_appstore">Mehr Apps entdecken</string>
   <string name="app_manager_total_size">Gesamt</string>
   <string name="app_manager_uninstall">Deinstallieren</string>
+  <string name="app_manager_uninstall_button_text">Deinstallieren</string>
+  <string name="app_manager_uninstall_notify_title">Selten verwendete Apps deinstallieren</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Deinstallation von System-Apps kann dazu führen, dass einige MIUI-Komponenten nicht ordnungsgemäß funktionieren. Trotzdem deinstallieren?</string>
   <string name="app_manager_uninstall_protected_dlg_title">System-Apps deinstallieren</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Entsprechende Dual Apps werden zusammen mit den App-Daten gelöscht</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Durch die Deinstallation der Dual Apps werden alle App-Daten entfernt</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dual App deinstallieren?</string>
   <string name="app_manager_unstall_application">Deinstallieren</string>
+  <string name="app_manager_update">Aktualisieren</string>
+  <string name="app_manager_updater_notify_message">Apps aktualisieren, um auf neue Funktionen zuzugreifen</string>
   <string name="app_managere_not_have_app">Leer</string>
   <string name="app_mobile">Mobile Daten</string>
   <string name="app_name">App-Sperre</string>
@@ -601,6 +607,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="auto_task_edit_choose_new_operation">Aktion hinzufügen</string>
   <string name="auto_task_edit_choose_operation_title">Aktion wählen</string>
   <string name="auto_task_edit_condition_summary">Zum Beispiel \"Um 23:00\"</string>
+  <string name="auto_task_edit_condition_summary_new">Zum Beispiel: \"Bei %s\"</string>
   <string name="auto_task_edit_condition_title">Bedingung hinzufügen</string>
   <string name="auto_task_edit_my_custom_task">Aufgabenname eingeben</string>
   <string name="auto_task_edit_operation_summary">Zum Beispiel \"Flugmodus einschalten\"</string>
@@ -612,6 +619,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="auto_task_notify_do_task_title">Automatisierte Aufgabe gestartet</string>
   <string name="auto_task_notify_exit_task_title">Automatisierte Aufgabe beendet</string>
   <string name="auto_task_notify_task_cancel_count_down">Automatisierte Aktion wird in 5 Sekunden abgebrochen</string>
+  <string name="auto_task_notify_task_cancel_count_down_new">Automatisierte Aktion wird in %d Sekunden abgebrochen</string>
   <string name="auto_task_notify_task_cancel_do">Aktion abbrechen</string>
   <string name="auto_task_notify_task_canceled_summary">Sie können Anrufe tätigen und entgegennehmen</string>
   <string name="auto_task_notify_task_canceled_summary2">Sieht so aus, als ob Sie jetzt ein Spiel spielen</string>
@@ -620,6 +628,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="auto_task_notify_task_canceled_title">Aktion abgebrochen</string>
   <string name="auto_task_notify_task_continue_do">Aktion starten</string>
   <string name="auto_task_notify_task_count_down">Automatisierte Aktion wird in 5 Sekunden gestartet</string>
+  <string name="auto_task_notify_task_count_down_new">Automatische Aktion wird in %d Sekunden gestartet</string>
   <string name="auto_task_notify_task_exit_task">Task beenden</string>
   <string name="auto_task_operation_airplane_mode">Flugmodus</string>
   <string name="auto_task_operation_auto_brightness">Automatische Helligkeit</string>
@@ -828,6 +837,9 @@ Sie verlieren keine App-Daten."</string>
 3. Ihr Mobilfunkanbieter unterstützt evtl. nicht das Senden von Textnachrichten mit den verbleibenden Daten und dem Telefonguthaben. Wenden Sie sich an Ihren Mobilfunkanbieter, um mehr zu erfahren.
 4. Ein Fehler in den Mobilfunkanbieterdaten kann vorkommen. Versuchen Sie die Mobilfunkanbieterdiagnose, um das Problem zu lösen.
 5. Nichts scheint zu helfen? Tippen Sie auf \"Bericht per SMS\", um Ihr Feedback an Xiaomi per Textnachricht zu senden."</string>
+  <string name="card_uninstall_button_text">Verwalten</string>
+  <string name="card_uninstall_summary">Selten verwendete Apps deinstallieren, um Speicherplatz freizugeben</string>
+  <string name="card_uninstall_title_1">Selten verwendete Apps deinstallieren</string>
   <string name="cellular_data_auto_check">Automatisch prüfen</string>
   <string name="cellular_package_daily_input">Eingeben</string>
   <string name="charging_text_battery_full_time">"Akkuladezeit "</string>
@@ -1641,6 +1653,18 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_new_feature">Neue Funktion</string>
   <string name="gb_operat_frequently">Nicht so schnell!</string>
   <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
+  <string name="gb_shoulder_key">Schultertasten</string>
+  <string name="gb_shoulder_key_add_show_btn">Virtuelle Tasten während Spielen anzeigen</string>
+  <string name="gb_shoulder_key_add_tips">Tasten [L] und [R] in eine beliebige Funktionsposition bringen und über die Schultertasten bedienen</string>
+  <string name="gb_shoulder_key_btn_cancel">Abbrechen</string>
+  <string name="gb_shoulder_key_btn_save_exit">Speichern</string>
+  <string name="gb_shoulder_key_dialog_txt">Sie können Game Turbo mit den Schultertasten einschalten.</string>
+  <string name="gb_shoulder_key_guide_btn_done">Verstanden</string>
+  <string name="gb_shoulder_key_guide_btn_next">Weiter</string>
+  <string name="gb_shoulder_key_guide_tips">Konfigurieren Sie die Schultertasten, um wie ein Profi zu spielen!</string>
+  <string name="gb_shoulder_key_guide_tips1">Toolbox öffnen und Schultertasten konfigurieren</string>
+  <string name="gb_shoulder_key_settings_guide_tips1">Tasten [L] und [R] in eine beliebige Funktionsposition bringen, um die Konfiguration zu beenden</string>
+  <string name="gb_shoulder_key_settings_guide_tips2">Schultertasten für die Funktionen verwenden, die Sie ihnen während des Spiels zugewiesen haben</string>
   <string name="gb_sign_gift">Melden Sie sich an, um Belohnungen zu erhalten.</string>
   <string name="gb_sign_gift_button_text">Erhalten</string>
   <string name="gb_sign_notification_summary">Spiele ohne Netzwerkverzögerung spielen</string>
@@ -2272,6 +2296,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Erneut testen.</string>
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
   <string name="never">Einmal</string>
+  <string name="never_new">%d-mal</string>
   <string name="news_change">Ändern</string>
   <string name="nickname">Spitzname</string>
   <string name="night">Abend</string>
@@ -2744,6 +2769,7 @@ Stromverbrauch"</string>
   <string name="power_center_list_item_haptic_feedback_summary">Gesten und Systemsteuerungen werden nicht von haptischem Feedback begleitet</string>
   <string name="power_center_list_item_set_lockscreen_time">Bildschirm nach 30 Sek Inaktiviät auschalten</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Gerät nach %d Sekunden Inaktivität sperren</string>
+  <string name="power_center_list_item_set_lockscreen_time_new">Bildschirm nach %d Sekunden Inaktivität in Ruhezustand versetzen</string>
   <string name="power_center_list_item_set_lockscreen_time_summary">Schnelleres Sperren Ihres Geräts schont den Akku</string>
   <string name="power_center_list_item_wake_notification">Bildschirm für Benachrichtigungen nicht aufwecken</string>
   <string name="power_center_list_item_wake_notification_summary">Eingehende Benachrichtigungen werden nur bei eingeschaltetem Bildschirm angezeigt</string>
@@ -2843,6 +2869,7 @@ Stromverbrauch"</string>
   <string name="power_phone">Anrufe</string>
   <string name="power_save_mode">Stromsparen</string>
   <string name="power_save_mode_auto_exit_summary">Ausschalten, wenn Akku über 60 % oder voll aufgeladen ist</string>
+  <string name="power_save_mode_auto_exit_summary_new">Ausschalten, wenn der Akku %s oder vollständig geladen ist</string>
   <string name="power_save_mode_auto_exit_title">Beim Laden deaktivieren</string>
   <string name="power_save_mode_close_aod_display_summary">Always-On-Display einschalten, wenn der Stromsparmodus an ist</string>
   <string name="power_save_mode_close_aod_display_title">Always-On-Display einschalten</string>
@@ -3827,6 +3854,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="suggest_app_tolock_unmasked">Sichtbare Benachrichtigungen</string>
   <string name="suggest_scan_again">Scan abschließen, um Sicherheitsrisiken zu vermeiden</string>
   <string name="summary_app_lock_disable">Schützen Sie Ihre Daten mit App-Sperren</string>
+  <string name="summary_app_update_new">Apps aktualisieren, um auf neue Funktionen zuzugreifen</string>
   <string name="summary_auto_update">MIUI wird die am besten geeignete Zeit wählen, um Updates herunterzuladen und zu installieren</string>
   <string name="summary_background_connection">Sie haben die Hintergrundverbindung für diese App eingeschränkt.</string>
   <string name="summary_block_calls_from_cantacts">Anrufe von Kontakten werden blockiert</string>
@@ -3884,6 +3912,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="superpower_notification_time_12">EEEE, d. MMMM </string>
   <string name="superpower_notification_time_24">EEEE, d. MMMM</string>
   <string name="superpower_notification_title">Weniger als 10% Akku übrig</string>
+  <string name="superpower_notification_title_new">Weniger als %s Akku übrig</string>
   <string name="superpower_progress_content">Ultra-Stromsparen einschalten…</string>
   <string name="superpower_progress_left_time">%1$d Std %2$d Min</string>
   <string name="superpower_progress_switch_home">Zu dunklem Thema wechseln</string>
@@ -3898,8 +3927,10 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="superpower_savemode_limit4">Bestimmte Apps normal arbeiten lassen</string>
   <string name="superpower_settings">Ultra-Stromsparen</string>
   <string name="superpower_settins_autoenter_summary">Ultra-Stromsparen automatisch einschalten, wenn der Akku auf 10% gesunken ist</string>
+  <string name="superpower_settins_autoenter_summary_new">Ultra-Stromsparen automatisch einschalten bei nur noch %s Akku</string>
   <string name="superpower_settins_autoenter_title">Automatisch einschalten</string>
   <string name="superpower_settins_autoleave_summary">Ultra-Stromsparen automatisch ausschalten, wenn der Akku zu 50% geladen ist</string>
+  <string name="superpower_settins_autoleave_summary_new">Ultra-Stromsparen automatisch ausschalten bei %s Akku</string>
   <string name="superpower_settins_autoleave_title">Automatisch ausschalten</string>
   <string name="superpower_settins_other">Weitere Einstellungen</string>
   <string name="superpower_settins_switch_summary">Beschränkt die meisten stromfressenden Funktionen, um Grundfunktionen (z. B. Anrufe, SMS und bestimmte Apps) so lange wie möglich verfügbar zu halten</string>
@@ -4004,6 +4035,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="tc_sms_report_get_success_notify_title">Datennutzungsreport-SMS erhalten</string>
   <string name="tc_sms_report_geting_sms">SMS-Infos abrufen…</string>
   <string name="tc_sms_report_notify_correction_body">Zur Datennutzungs-App im Sicherheitscenter gehen und erneut manuell versuchen</string>
+  <string name="tc_sms_report_notify_correction_business_hall">Neu kalibrieren in Anbieter-Services</string>
   <string name="tc_sms_report_notify_correction_failure_title">Datennutzungsinfo wurde nicht aktualisiert</string>
   <string name="tc_sms_report_notify_get_failure_body">Datennutzungsreport wurde nicht übermittelt. Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind.</string>
   <string name="tc_sms_report_notify_get_failure_title">Datennutzungs-SMS anfordern fehlgeschlagen</string>
@@ -4240,6 +4272,7 @@ Wollen Sie es übernehmen?"</string>
   <string name="traffic_setting_fragment_sms_content_tips">Tippen Sie hier Ihre Nachricht ein</string>
   <string name="traffic_setting_fragment_title">Datennutzungsabfrage</string>
   <string name="traffic_setting_fragment_title_guide">Mobilfunkanbieter und Datentarife</string>
+  <string name="traffic_to_limit_warning">Sie haben %s Ihres Datenlimits verbraucht</string>
   <string name="traffic_usage_warning_body">Sie haben diesen Monat bereits %s der mobilen Daten genutzt.</string>
   <string name="traffic_usage_warning_limit">Datennutzungslimit</string>
   <string name="traffic_usage_warning_title">Datennutzungswarnung</string>
@@ -4322,6 +4355,10 @@ Wollen Sie es übernehmen?"</string>
   <string name="vb_ve_settings_pic_border_stronger">Verbesserte Konturen</string>
   <string name="vb_ve_settings_picture_stronger">Verbesserte Animationen</string>
   <string name="vb_video_effects_display_style">Stil</string>
+  <string name="vb_video_effects_dolby_dialog_enhancer">Verbesserter Dialog</string>
+  <string name="vb_video_effects_dolby_headset">" (Nur Kopfhörer)"</string>
+  <string name="vb_video_effects_dolby_open">Dolby Atmos ist an</string>
+  <string name="vb_video_effects_dolby_stereo_expansion">Erweitertes Stereo</string>
   <string name="vb_video_effects_setting_black_white">SW</string>
   <string name="vb_video_effects_setting_cinema">Kino</string>
   <string name="vb_video_effects_setting_girl">Erröten</string>
@@ -4360,6 +4397,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="videobox_settings_timing">Alarmton</string>
   <string name="videobox_settings_timing_desc">Stündlich einen Alarmton erhalten, der Sie an eine Pause erinnert</string>
   <string name="videobox_settings_title">Video-Toolbox</string>
+  <string name="view_traffic_details">Datennutzungsstatistik anzeigen</string>
   <string name="virus_ad_icon_text">Adware</string>
   <string name="virus_auto_update_engine">Automatische Updates: %s</string>
   <string name="virus_update_tips_title">Warnung</string>
@@ -4452,6 +4490,22 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="warningcenter_mijia_page_title">Warnungen</string>
   <string name="warningcenter_mijia_search_keywords">Mi Home-Alarme</string>
   <string name="warningcenter_mijia_title">Warnungen von Smart Home-Geräten</string>
+  <string name="warningcenter_policeassist_charge_tips">*Für ausgehende Textnachrichten fallen evtl. Gebühren an. Wenden Sie sich an Ihren Anbieter, um die Tarife zu erfahren.</string>
+  <string name="warningcenter_policeassist_close_btn">Ausschalten</string>
+  <string name="warningcenter_policeassist_flow_locating">Info abrufen…</string>
+  <string name="warningcenter_policeassist_flow_locfailed">Standort wurde nicht geteilt</string>
+  <string name="warningcenter_policeassist_flow_privacy">Privacy Policy</string>
+  <string name="warningcenter_policeassist_flow_send">Standort mit der Polizei geteilt</string>
+  <string name="warningcenter_policeassist_flow_tips">Standort teilen</string>
+  <string name="warningcenter_policeassist_noti_content">Automatisch eine Textnachricht mit Ihrem Standort senden</string>
+  <string name="warningcenter_policeassist_noti_privacy">Tippen, um die Datenschutzerklärung zu prüfen</string>
+  <string name="warningcenter_policeassist_noti_send">Standort mit der Polizei geteilt</string>
+  <string name="warningcenter_policeassist_noti_title">Standort bei Notrufen teilen</string>
+  <string name="warningcenter_policeassist_open_btn">Einschalten</string>
+  <string name="warningcenter_policeassist_open_content">Ihre Standortinformationen über SMS oder mobile Daten automatisch an die Polizei senden, während Sie 110, 120, 119, 122 oder 12122 anrufen.</string>
+  <string name="warningcenter_policeassist_open_title">Standort bei Notrufen mit der Polizei teilen</string>
+  <string name="warningcenter_policeassist_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
+  <string name="warningcenter_policeassist_title">Notfallstandort</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">MIUI-Warnzentrale</string>
   <string name="website">Webseite</string>
