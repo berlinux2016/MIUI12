@@ -4752,7 +4752,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_key_config_noise_control_summary">Drücken und halten, um zwischen zwei ausgewählten aktiven Rauschunterdrückungsmodi zu wechseln</string>
   <string name="miheadset_key_config_noise_summary">Externe Geräusche blockieren</string>
   <string name="miheadset_key_config_press_left">Linken Ohrhörer drücken und halten</string>
-  <string name="miheadset_key_config_press_right">Rechten Ohrhörer drücken und halten</string>>
+  <string name="miheadset_key_config_press_right">Rechten Ohrhörer drücken und halten</string>
   <string name="miheadset_key_config_trans_summary">Externe Geräusche zulassen</string>
   <string name="miheadset_key_config_triple_left">Linken Ohrhörer dreifach antippen</string>
   <string name="miheadset_key_config_triple_right">Rechten Ohrhörer dreifach antippen</string>
