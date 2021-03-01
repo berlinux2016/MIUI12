@@ -969,7 +969,7 @@ innerhalb des Kreises befindet"</string>
   <string name="face_unlock_rotated_right">Kopf nach links drehen</string>
   <string name="face_unlock_sc_status">Drücken Sie den Bildschirm nach unten, um die Kamera zu öffnen.</string>
   <string name="face_unlock_stay_away_screen">25 bis 40 cm vom Bildschirm entfernt bleiben</string>
-  <string name="face_unlock_success">Gesichtsdaten erfolgreich geprüft</string>
+  <string name="face_unlock_success">Erfolgreich entsperrt</string>
   <string name="face_unlock_success_show_message_dialog_msg">Benachrichtigungen auf Sperrbildschirm erlauben</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Nein danke</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Erlauben</string>

@@ -97,6 +97,14 @@
     <item quantity="other">%d-mal</item>
     <item quantity="one">Einmal</item>
   </plurals>
+  <plurals name="app_manager_uninstall_notify_summary">
+    <item quantity="other">%d Apps deinstallieren</item>
+    <item quantity="one">%d App deinstallieren</item>
+  </plurals>
+  <plurals name="app_manager_updater_notify_title">
+    <item quantity="other">Updates für %d Apps sind verfügbar</item>
+    <item quantity="one">Updates für %d App sind verfügbar</item>
+  </plurals>
   <plurals name="app_usage_day">
     <item quantity="other">Vor %d Tagen verwendet</item>
     <item quantity="one">Gestern verwendet</item>
@@ -132,6 +140,10 @@
   <plurals name="cache_check_content">
     <item quantity="other">%d Apps schützen</item>
     <item quantity="one">%d App schützen</item>
+  </plurals>
+  <plurals name="card_uninstall_title">
+    <item quantity="other">&lt;Data>Sie können &lt;font color=#F22424>%d&lt;/font> Apps deinstallieren&lt;/Data></item>
+    <item quantity="one">&lt;Data>Sie können &lt;font color=#F22424>%d&lt;/font> App deinstallieren&lt;/Data></item>
   </plurals>
   <plurals name="daily_sim_over_limit_dialog_message">
     <item quantity="other">"Sie haben bereits %s tägliches Datenlimit verwendet.
@@ -815,6 +827,10 @@ um den Akku zu schonen"</item>
   <plurals name="system_check_content">
     <item quantity="other">%1$d sicher</item>
     <item quantity="one">%d sicher</item>
+  </plurals>
+  <plurals name="title_app_update_cn">
+    <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> Apps aktualisieren&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;font color=#F22424>%d&lt;/font> App aktualisieren&lt;/Data></item>
   </plurals>
   <plurals name="title_virus_clean">
     <item quantity="other">%d Viren gelöscht</item>
