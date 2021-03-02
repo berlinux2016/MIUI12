@@ -51,6 +51,11 @@
   <string name="customization_continue">Fortfahren</string>
   <string name="customization_pause_tip">Den Test jetzt stoppen? Kopfhörer anschließen, um fortzufahren.</string>
   <string name="customization_quit">Beenden</string>
+  <string name="dolby_dax_geq_select_title">Voreinstellungen</string>
+  <string name="dolby_dax_geq_title">Grafik-Equalizer</string>
+  <string name="dolby_dax_profile_dynamic">Dynamisch</string>
+  <string name="dolby_dax_setting">Dolby-Effekte</string>
+  <string name="dolby_dax_title">Surround-Sound</string>
   <string name="end_wireless_transmission">Stop</string>
   <string name="eq_auto">Benutzerdefiniert</string>
   <string name="eq_cancel">Abbrechen</string>

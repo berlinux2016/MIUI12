@@ -4863,6 +4863,9 @@ Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
   <string name="miui_sos_menu_add">Hinzufügen</string>
   <string name="miui_sos_menu_edit">Bearbeiten</string>
   <string name="miui_sos_msg_call_log_prefix">"Hier ist meine Anrufliste der letzten Stunde: "</string>
+  <string name="miui_sos_pa_title">Notfallstandort</string>
+  <string name="miui_sos_pa_turn_off">Aus</string>
+  <string name="miui_sos_pa_turn_on">An</string>
   <string name="miui_sos_play_voice">SOS-Nachricht abspielen</string>
   <string name="miui_sos_remind_add">Hinzufügen</string>
   <string name="miui_sos_remind_close">Notfall-SOS-Modus ist an. Mit allen damit verbundenen Funktionen ausschalten?</string>
@@ -5163,6 +5166,7 @@ Betriebssystem auswählen:"</string>
   <string name="network_detail">%s Netzwerkdetails</string>
   <string name="network_disconnected">Getrennt</string>
   <string name="network_error">Netzwerkfehler</string>
+  <string name="network_id">Netzwerk-ID</string>
   <string name="network_lte">LTE (empfohlen)</string>
   <string name="network_name_displayed_summary">Netzwerkname in der Statusleiste anzeigen</string>
   <string name="network_name_input_error">SSID konnte nicht gespeichert werden. Erneut versuchen.</string>

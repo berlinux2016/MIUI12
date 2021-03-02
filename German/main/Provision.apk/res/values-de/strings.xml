@@ -89,9 +89,12 @@
   <string name="input_method_category">Standardtastatur wählen, die Sie zum Schreiben von Nachrichten, Notizen und fast allem anderen verwenden. Beachten Sie, dass Sie später auch andere Drittanbieter-Tastaturen  installieren können.</string>
   <string name="input_method_setting">Tastatur wählen</string>
   <string name="install_preinstall_app">Apps laden…</string>
+  <string name="item_contents_wwarning">Wenn Ihr Gerät verloren geht, können Sie nicht verhindern, dass andere Personen es benutzen und auf Ihre Daten zugreifen, es sei denn, Sie setzen eine Bildschirmsperre. Trotzdem überspringen?</string>
   <string name="item_fingerprint">Fingerabdruck</string>
   <string name="item_lock_screen_password">Nur Bildschirmsperre</string>
   <string name="item_lock_screen_password_only">Bildschirmsperre</string>
+  <string name="item_return">Festlegen</string>
+  <string name="item_skip">Überspringen</string>
   <string name="ktposition_header">Weitergabe von Standortinfos an Notfallrettungsorganisationen</string>
   <string name="language_picker_other_languages_title">Andere Sprachen</string>
   <string name="language_settings">Sprache wählen</string>
@@ -341,7 +344,8 @@ Sie müssen die Kika Datenschutzerklärung akzeptieren, bevor Sie diese Funktion
   <string name="terms_of_use_lable_smart_cards">, Chipkarten</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Datenschutzerklärung</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Datenschutzerklärung</string>
-  <string name="title_fingerprint">Fingerabdruck hinzufügen</string>
+  <string name="title_fingerprint">Passwort festlegen</string>
+  <string name="title_set_fingerprint">Bildschirmsperre</string>
   <string name="user_agreement">Nutzervereinbarung</string>
   <string name="user_agreement_declare">Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Während Ihr Gerät aktiviert wird, verbinden sich Mi SIM-Aktivierungsservice, Xiaomi Cloud, Sicherungsdienst, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet-Kommunikationsdienst, Übersetzungsdienst, MIUI Daemon, HTML-Betrachter, MIUI SDK, Secure Element Application, KI-Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI-Einstellung und Updater mit dem Netzwerk. Smart Cards, Berechtigungsmanager und Smart Services verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu.</string>
   <string name="voice_assist_advice">Mi KI ermöglicht die Verwendung von Sprachsteuerung, verbraucht aber mehr Strom (+1% pro Stunde).</string>

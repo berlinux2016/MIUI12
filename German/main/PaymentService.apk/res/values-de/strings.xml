@@ -55,6 +55,7 @@
   <string name="bind_sign_in_title">Mi-Konto hinzufügen</string>
   <string name="change_activate_email">E-Mail-Adresse ändern</string>
   <string name="change_password">Passwort ändern</string>
+  <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich werde eins erstellen</string>
   <string name="collect_diagnosis_log">Protokolle sammeln</string>
@@ -385,6 +386,7 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="mibi_web_login_description">Anmelden</string>
   <string name="mibi_web_login_waiting">Bitte warten…</string>
   <string name="mibi_web_sso_login_fail">Sie müssen sich erneut anmelden</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
   <string name="nick_name">Spitzname</string>
   <string name="no_account">Nicht angemeldet</string>
   <string name="no_network">Keine Netzwerkverbindung</string>

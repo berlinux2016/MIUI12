@@ -184,7 +184,7 @@
   <string name="antivirus_third_privacy_title">Datenschutzerklärung von Drittanbietern</string>
   <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
   <string name="antivirus_toast_network_unavailable">Keine Netzwerkverbindung</string>
-  <string name="antivirus_toast_update_failed">Aktualisieren fehlgeschlagen</string>
+  <string name="antivirus_toast_update_failed">Unsere Server sind ausgelastet. Einen Moment warten und erneut versuchen.</string>
   <string name="antivirus_toast_update_success">Aktualisieren erfolgreich</string>
   <string name="antivirus_toast_updating">Aktualisieren…</string>
   <string name="antivirus_update_btn_contiue">Fortsetzen</string>
@@ -606,8 +606,8 @@ Sie verlieren keine App-Daten."</string>
   <string name="auto_task_edit_choose_condition_title">Bedingung wählen</string>
   <string name="auto_task_edit_choose_new_operation">Aktion hinzufügen</string>
   <string name="auto_task_edit_choose_operation_title">Aktion wählen</string>
-  <string name="auto_task_edit_condition_summary">Zum Beispiel \"Um 23:00\"</string>
-  <string name="auto_task_edit_condition_summary_new">Zum Beispiel: \"Bei %s\"</string>
+  <string name="auto_task_edit_condition_summary">Zum Beispiel: \"Um 23:00\"</string>
+  <string name="auto_task_edit_condition_summary_new">Zum Beispiel: \"Um %s\"</string>
   <string name="auto_task_edit_condition_title">Bedingung hinzufügen</string>
   <string name="auto_task_edit_my_custom_task">Aufgabenname eingeben</string>
   <string name="auto_task_edit_operation_summary">Zum Beispiel \"Flugmodus einschalten\"</string>
@@ -970,10 +970,11 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile 
   <string name="deep_power_save_item_summary_auto_brightness">Automatische Anpassung der Bildschirmhelligkeit zur Schonung des Akkus</string>
   <string name="deep_power_save_item_summary_bluetooth">Bluetooth ausschalten, um den Akku zu schonen</string>
   <string name="deep_power_save_item_summary_lock_screen_time">Bildschirm nach 15 Sekunden Inaktivität in den Ruhezustand versetzen, um den Akku zu schonen</string>
+  <string name="deep_power_save_item_summary_lock_screen_time_new">Bildschirm nach %d Sekunden Inaktivität in den Ruhezustand versetzen, um den Akku zu schonen</string>
   <string name="deep_power_save_item_title_auto_brightness">Automatische Helligkeit einschalten</string>
   <string name="deep_power_save_item_title_bluetooth">Bluetooth ausschalten</string>
   <string name="deep_power_save_item_title_lock_screen_time">Bildschirm in den Ruhezustand versetzen</string>
-  <string name="deep_save_memory_clean_summary">Nach Gerätesperre Cache löschen, damit Apps keinen Akku verbrauchen können</string>
+  <string name="deep_save_memory_clean_summary">Nach Gerätesperre Cache löschen, damit Apps keinen Akku verbrauchen</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Zeitplan erstellen, wann das Gerät ein- und ausgeschaltet wird</string>
   <string name="delete">Löschen</string>
   <string name="delete_all_sms">Alle löschen</string>
@@ -1940,7 +1941,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mob
   <string name="list_empty_text">Leer</string>
   <string name="load_only_under_wlan">Nur über WLAN laden</string>
   <string name="loading">Einen Moment…</string>
-  <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Infos enthalten (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Infos enthalten %d/%d</string>
   <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler an MIUI zu senden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät aus.</string>
   <string name="lock_all_title">Alle Apps sperren</string>
   <string name="lock_mode_title">Apps geschützt</string>
