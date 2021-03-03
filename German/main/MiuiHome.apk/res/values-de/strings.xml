@@ -142,6 +142,8 @@
   <string name="aqi_quality_index_light_pollution">Leichte Verschmutzung</string>
   <string name="aqi_quality_index_moderate">Mäßig</string>
   <string name="aqi_quality_index_unhealthy">Gesundheitsschädlich</string>
+  <string name="assistant_edge_gesture_summary">Von der linken oder rechten unteren Ecke nach oben wischen, um Google Assistant aufzuwecken</string>
+  <string name="assistant_edge_gesture_title">Von der Ecke nach oben wischen für Google Assistant</string>
   <string name="auto_add_app_shortcut">Neue Apps zum Startbildschirm hinzufügen</string>
   <string name="auto_delete_category_dialog_content">Aktuelle Apps werden aus dieser Kategorie entfernt und die Kategorie wird gelöscht. Kategorie jetzt löschen?</string>
   <string name="auto_delete_category_dialog_title">Kategorie löschen</string>

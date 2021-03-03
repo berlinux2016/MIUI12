@@ -2464,6 +2464,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="development_settings_summary">Optionen für App-Entwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
   <string name="device_actionbar_title">Alle Spezifikationen</string>
+  <string name="device_activation_info">Geräteaktivierung</string>
   <string name="device_admin_add_title">Geräteverwaltung</string>
   <string name="device_admin_settings_title">Einstellungen Geräteverwaltung</string>
   <string name="device_admin_status">Diese Verwaltungs-App ist aktiv und ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>

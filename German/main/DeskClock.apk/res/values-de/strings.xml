@@ -99,6 +99,7 @@
   <string name="check_theme_app_install">Stellen Sie sicher, dass die Themen-App auf Ihrem Gerät installiert ist.</string>
   <string name="check_voice_assist_app_version">Aktualisieren Sie Mi KI auf die neueste Version.</string>
   <string name="city_time_contrast_desc">Tippen, um die Zeit in verschiedenen Städten zu vergleichen</string>
+  <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="click_listen_news_container">Auf die Morgennachrichtenkarte tippen</string>
   <string name="clock_bg_button_setting_summary_common">Hintergrundfarbe für die Uhr auswählen</string>
   <string name="clock_bg_button_setting_summary_follow_sys">Schwarz wird als Hintergrundfarbe verwendet, wenn Sie in den Dark Mode wechseln.</string>
@@ -117,6 +118,7 @@
   <string name="copy">Kopieren</string>
   <string name="current_stopwatch_time">Aktueller Zeitpunkt</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="day">1 Tag</string>
   <string name="days">%d Tage</string>
   <string name="default_alarm_alert">Standardweckton</string>
@@ -264,10 +266,13 @@
   <string name="miuix_appcompat_cancel_description">Abbrechen</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suche</string>
+  <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
+  <string name="miuix_appcompat_select_item">Elemente wählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -394,6 +399,7 @@
   <string name="search_stopwatch_keywords">Stoppuhr</string>
   <string name="search_timer_keywords">Timer</string>
   <string name="search_worldclock_keywords">Zeit;Weltzeit;Uhr</string>
+  <string name="send">Senden</string>
   <string name="set_alarm">Wecker einstellen</string>
   <string name="set_alarm_choose_ringtone">Klingelton wählen</string>
   <string name="set_alarm_done">Fertig</string>
