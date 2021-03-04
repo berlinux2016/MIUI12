@@ -1042,6 +1042,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="mimoji_eyebrow_shape">Augenbraue</string>
   <string name="mimoji_eyeglass">Brille</string>
   <string name="mimoji_eyelash">Wimpern</string>
+  <string name="mimoji_eyelid">Augenlider</string>
   <string name="mimoji_featured_face">Gesichtstyp</string>
   <string name="mimoji_fragment_tab_name">Avatar-Sticker</string>
   <string name="mimoji_freckle">Sommersprossen</string>
@@ -1564,6 +1565,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_custom_feature_layout_title">Funktionslayout</string>
   <string name="pref_custom_shutter_sound_title">Ton</string>
   <string name="pref_custom_tint_title">Farben</string>
+  <string name="pref_customization_style">Eigener Stil</string>
   <string name="pref_customization_title">Anpassen</string>
   <string name="pref_document_mode">Dokumente</string>
   <string name="pref_dual_camera_video">Dualvideo</string>
