@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="dialog_button_goto">Zu den Einstellungen gehen</string>
+  <string name="dual_video_record_remote">Multi-Kamera-Aufnahme</string>
+  <string name="dual_video_user_guide_remote_content">Die Multi-Kamera-Aufnahmefunktion unterstützt zwei Telefone, um Bilder aus verschiedenen Blickwinkeln aufzunehmen und zu einem Video zu kombinieren. Sie können die Videovorschau und das Filmen von zwei Telefonen über dieses Gerät anzeigen und nur die Tonaufnahme dieses Geräts unterstützen.</string>
+  <string name="dual_video_user_guide_remote_p1">Telefon 1</string>
+  <string name="dual_video_user_guide_remote_p2">Telefon 2</string>
+  <string name="remote_device_type_phone">Xiaomi Telefon</string>
+    <string name="remote_online_permission">Sie müssen die Berechtigung \"Positionieren\" der Kamera auf \"Nur bei Verwendung zulässig\" setzen, um die Aufnahmefunktion für mehrere Kameras verwenden zu können.</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
