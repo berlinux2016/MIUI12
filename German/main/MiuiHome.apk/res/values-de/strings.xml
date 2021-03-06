@@ -441,6 +441,7 @@
   <string name="navigation_type_title_synonyms_3">Vollbildgesten</string>
   <string name="navigation_type_title_synonyms_4">Navigationstaste</string>
   <string name="navigation_type_virtual_key">Tasten</string>
+  <string name="network_error">Netzwerkverbindung nicht möglich, erneut versuchen.</string>
   <string name="no_detail_page">Keine Detailseite</string>
   <string name="no_space_toast">Nicht genug Platz</string>
   <string name="no_space_toast_when_click_widget">Nicht genug Platz auf dieser Seite. Versuchen, dieses Element auf eine andere Seite zu ziehen.</string>
@@ -551,6 +552,7 @@
   <string name="resource_canary_leak_tip">Es gibt einen Leak!</string>
   <string name="resource_canary_wait_for_heapdump_message">Dumping Heap-Schnappschuss…</string>
   <string name="restore_icon_successful">Erfolgreich hinzugefügt</string>
+  <string name="russia_preinstall_folder_name">Russisch</string>
   <string name="screen_cells_config_title">Startbildschirmlayout</string>
   <string name="screen_locked_toast">Startbildschirmlayout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
@@ -564,6 +566,7 @@
   <string name="setting_wallpaper_tip">Verschieben oder skalieren</string>
   <string name="settings">Einstellungen</string>
   <string name="settings_shortcut">Einstellungen</string>
+  <string name="server_error">Serverfehler aufgetreten. Etwas warten und erneut versuchen.</string>
   <string name="shake_to_align_icons">Gerät schütteln, um leere Felder mit Symbolen zu füllen</string>
   <string name="shake_to_align_icons_summary">Gerät im Bearbeitungsmodus schütteln, um leere Felder automatisch mit Symbolen zu füllen</string>
   <string name="shake_to_align_icons_title">Schütteln, um leere Felder zu füllen</string>
