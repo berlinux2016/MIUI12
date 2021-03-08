@@ -1367,6 +1367,9 @@ Immer diese Nummer verwenden"</string>
   <string name="message_decode_error">Fehler beim Decodieren der Nachricht</string>
   <string name="mhh_disable">Medizin, Gesundheit und Krankenhaus ausgeschaltet</string>
   <string name="mhh_enable">Medizin, Gesundheit und Krankenhaus eingeschaltet</string>
+  <string name="mi_mobile_sim_activate_message">SIM %d aktivieren, um Mi Mobile verwenden zu können. Dies kann bis zu 5 Min dauern.</string>
+  <string name="mi_mobile_sim_activate_ok">Aktivieren</string>
+  <string name="mi_mobile_sim_activate_title">Wilkommen bei Mi Mobile!</string>
   <string name="mi_sim_settings_summary">Verwenden Sie die mobile Datenverbindung ohne SIM-Karte</string>
   <string name="mismatchPin">Eingegebene PINs stimmen nicht überein. Erneut versuchen.</string>
   <string name="mismatchPin2">PIN2 stimmen nicht überein. Erneut versuchen.</string>
@@ -2577,6 +2580,7 @@ Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
   <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
   <string name="wifi_call_accept">Überspringen</string>
   <string name="wifi_call_available_message">Sie können jetzt über WLAN anrufen. Wenn Sie mit WLAN verbunden sind, können Sie auch dann sprechen, wenn Sie sich in Gebieten ohne Mobilfunkabdeckung befinden.</string>
+  <string name="wifi_call_available_message_for_ATT_MX">Sie sind dabei, sich mit einem WLAN zu verbinden. Die Gesprächsqualität kann je nach Netzwerk variieren.</string>
   <string name="wifi_call_available_title">WLAN-Anrufe einschalten</string>
   <string name="wifi_call_cancel">Mehr Info</string>
   <string name="wifi_call_help">Hilfe</string>
