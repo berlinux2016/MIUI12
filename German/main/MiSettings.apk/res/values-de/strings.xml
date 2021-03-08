@@ -375,7 +375,7 @@
   <string name="random_play_sound_alert">Sie werden Tiergeräusche aus dieser Region hören, wenn Sie Benachrichtigungen erhalten</string>
   <string name="red_billed_hornbill">Rotschnabeltoko</string>
   <string name="red_billed_tropicbird">Rotschnabel-Tropikvogel</string>
-  <string name="red_fox">Roter Fuchs</string>
+  <string name="red_fox">Rotfuchs</string>
   <string name="red_panda">Roter Panda</string>
   <string name="reset_edit">Änderungen verwerfen</string>
   <string name="restore_default">Standardwerte wiederherstellen</string>
@@ -809,7 +809,7 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
   <string name="usagestats_device_timeout_title">Bildschirmzeit-Alarm</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">EIN</string>
-  <string name="vampire_finch">Vampir-Grundfink</string>
+  <string name="vampire_finch">Vampirgrundfink</string>
   <string name="vervet_monkey">Grüne Meerkatze</string>
   <string name="wait_tip">Einen Moment…</string>
   <string name="walrus">Walross</string>
@@ -825,7 +825,7 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
   <string name="willow_grouse">Moorschneehuhn</string>
   <string name="willow_grouse_info">Das Moorschneehuhn ist die meiste Zeit seines Lebens Pflanzenfresser und bewohnt hauptsächlich subalpine und subarktische Lebensräume.</string>
   <string name="wolf">Wolf</string>
-  <string name="yellow_necked_spurfowl">Gelbhalsige Francolin</string>
+  <string name="yellow_necked_spurfowl">Gelbkehlfrankolin</string>
   <string name="yellow_throated_marten">Buntmarder</string>
   <string name="yesterday">Gestern</string>
   <string name="yunnan_snub_nosed_monkey">Schwarze Stumpfnase</string>
