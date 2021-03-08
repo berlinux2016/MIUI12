@@ -657,8 +657,9 @@ ausrichten und verbessern"</string>
   <string name="dual_video_record_merged">Kombiniert</string>
   <string name="dual_video_record_standalone">Separat</string>
   <string name="dual_video_user_guide_main_content">Um Multikamera-Videos zu erstellen, wählen Sie zwei Kameras auf Ihrem Gerät aus und nehmen Sie gleichzeitig auf. Die Aufzeichnungen können separat oder kombiniert in einer geteilten Ansicht oder als Bild-in-Bild-Video gespeichert werden.</string>
-  <string name="dual_video_record_remote">Multi-Kamera-Aufnahme</string>
-  <string name="dual_video_user_guide_remote_content">Die Multi-Kamera-Aufnahmefunktion unterstützt zwei Telefone, um Bilder aus verschiedenen Blickwinkeln aufzunehmen und zu einem Video zu kombinieren. Sie können die Videovorschau und das Filmen von zwei Telefonen über dieses Gerät anzeigen und nur die Tonaufnahme dieses Geräts unterstützen.</string>
+  <string name="dual_video_record_remote">Duale Telefonaufzeichnung</string>
+  <string name="dual_video_user_guide_remote_content">Dual-Telefonaufnahme ermöglicht das Kombinieren von Feeds von zwei verschiedenen Geräten in einem Video. Sie können beide Feeds und das endgültige Video auf diesem Gerät in der Vorschau anzeigen lassen. Beachten Sie, dass der Ton nur von diesem Gerät aufgenommen wird.</string>
+  <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="dual_video_user_guide_remote_p1">Telefon 1</string>
   <string name="dual_video_user_guide_remote_p2">Telefon 2</string>
   <string name="dual_video_user_guide_main_title">Multikamera-Video</string>
