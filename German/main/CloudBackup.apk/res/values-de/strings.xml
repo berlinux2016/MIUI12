@@ -66,6 +66,7 @@ erneut versuchen"</string>
   <string name="btn_retry">Erneut prüfen</string>
   <string name="btn_skip">Diesen Schritt überspringen</string>
   <string name="button_cancel">Abbrechen</string>
+  <string name="button_confirm">Verstanden</string>
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
   <string name="can_not_backup_in_lite_mode">Im Lite Modus kann kein Backup durchgeführt werden</string>
@@ -215,6 +216,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="open_wifi_setting">WLAN-Einstellungen</string>
   <string name="other_device_main_space">Hauptprofil</string>
   <string name="other_device_second_space">Zweitprofil</string>
+  <string name="pc_mode_not_support_restore_warning">Elemente im PC-Modus wiederhergestellen nicht möglich. PC-Modus ausschalten und erneut versuchen.</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="process_whole_recovery">Wiederherstellen \"%s\"</string>
   <string name="provision_back">Zurück</string>
