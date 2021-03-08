@@ -490,6 +490,10 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="other">%1$d Vorschläge</item>
     <item quantity="one">%1$d Vorschlag</item>
   </plurals>
+  <plurals name="switch_headset_anti_lost_summary">
+    <item quantity="other">Eine Warnung erhalten, wenn einer Ihrer Ohrhörer länger als %d Minuten vom Ohr oder der Ladehülle entfernt ist.</item>
+    <item quantity="one">Eine Warnung erhalten, wenn einer Ihrer Ohrhörer länger als %d Minute vom Ohr oder der Ladehülle entfernt ist.</item>
+  </plurals>
   <plurals name="total_num">
     <item quantity="other">%d Elemente,</item>
     <item quantity="one">%d Element,</item>
