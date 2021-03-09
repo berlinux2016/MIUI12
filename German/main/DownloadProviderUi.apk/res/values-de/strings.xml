@@ -601,7 +601,7 @@
   <string name="time_picker_label_hour">Std</string>
   <string name="time_picker_label_minute">Min</string>
   <string name="tip_download_icon_restore">Desktopsymbol für die Downloadverwaltung wird entfernt. Tippen zum Wiederherstellen.</string>
-  <string name="tip_download_icon_retry">Fehler beim Wiederherstellen des Desktopsymbols für Downloadverwaltung. Auf wiederholen tippen.</string>
+  <string name="tip_download_icon_retry">Fehler beim Wiederherstellen des Desktopsymbols für Downloadverwaltung. Auf \"Wiederholen\" tippen.</string>
   <string name="title_homepage_infoflow">Kürzliche Aktualisierungen</string>
   <string name="title_tips">Achtung</string>
   <string name="title_unbind_xunlei">Xunlei-Konto entfernen</string>
