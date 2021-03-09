@@ -1649,6 +1649,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_super_night_se_summary">Erkennen von schlechten Lichtverhältnissen und automatische Verbesserung der Bildqualität</string>
   <string name="pref_super_night_se_title">Automatischer Nachtmodus</string>
   <string name="pref_userdefine_watermark_title">Benutzerdefiniertes Wasserzeichen</string>
+  <string name="pref_video_ai_audio_single">Frontaler Klang</string>
   <string name="pref_video_captrue_ability_title">Fotos während der Aufnahme machen (mehr Akkuverbrauch!)</string>
   <string name="pref_video_capture_repeating_title">Während der Videoaufnahme regelmäßig Bilder aufnehmen</string>
   <string name="pref_video_cast_setting_summary">Einschalten, um ein Video mit mehreren Geräten aufnehmen zu können</string>
@@ -1696,6 +1697,11 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_wind_denoise_default">Ein</string>
   <string name="pref_wind_denoise_title">Windfilter</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
+  <string name="prek_b_j_o">Stereo-Surround-Effekt erzeugen</string>
+  <string name="prek_b_j_p">Einfluss von Wind auf die Tonaufnahme reduzieren</string>
+  <string name="prep_video_ai_audio_new_desc_tip">Ton des Objekts im Fokus wird verstärkt</string>
+  <string name="prep_video_ai_audio_single_desc_tip">Ton hinter dem Bildschirm wird gefiltert</string>
+  <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Audio-Zoom funktioniert nicht mit Live-In-Ear-Monitor und externem Mikrofon</string>
   <string name="preparing_sd">Speicher prüfen…</string>
   <string name="preview_back_pressed_hint">Erneut drücken, um zur Vorschau zurückzukehren</string>
   <string name="pro_color_mode">Farbe Pro</string>
