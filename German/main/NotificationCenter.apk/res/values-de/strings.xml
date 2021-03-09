@@ -200,6 +200,9 @@ schirm"</string>
   <string name="notification_display_setting">"Benachrichtigungs-
 leiste"</string>
   <string name="notification_display_style">Benachrichtigungsstil</string>
+  <string name="notification_fold_description1">Benachrichtigungsordner wurde in MIUI 9 eingeführt. Diese Funktion filtert unwichtige Benachrichtigungen und legt sie in einem separaten Ordner ab.</string>
+  <string name="notification_fold_description2">MIUI merkt sich, welche Benachrichtigungen Sie antippen, und verwendet dann mehrere Kriterien, um festzustellen, ob sie wichtig sind.</string>
+  <string name="notification_fold_description3">Wenn Benachrichtigungen, die Sie für wichtig halten, immer noch in den Benachrichtigungsordner gelangen, melden Sie solche Probleme an uns. Wir freuen uns über Ihr Feedback.</string>
   <string name="notification_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt</string>
   <string name="notification_fold_title">Benachrichtigungsordner</string>
   <string name="notification_keyguard_hide_content">Benachrichtigungen anzeigen, aber Inhalte ausblenden</string>

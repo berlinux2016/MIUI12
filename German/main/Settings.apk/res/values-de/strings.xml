@@ -519,6 +519,7 @@ benachrichtigungen erlauben"</string>
   <string name="allow_sound">Ton erlauben</string>
   <string name="allow_sound_title">Ton abspielen erlauben</string>
   <string name="allow_vibrate_title">Vibration erlauben</string>
+  <string name="already_delete_system_app">Deinstallierte System-Apps</string>
   <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
   <string name="always">Immer</string>
   <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf deren Daten erlaubt</string>
@@ -1850,6 +1851,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="cmcc_hardware_version">Hardwareversion</string>
   <string name="codec_low_latency_summary">Minimierung der Wartezeit bei der Audio- und Videosynchronisation von Spielen</string>
   <string name="codec_low_latency_title">Niedrige Wartezeit</string>
+  <string name="codec_low_latency_video_summary">Bietet ein Audioerlebnis mit niedriger Latenz für Spiele und Videos, wodurch die Synchronisation von Ton und Bild natürlicher wird.</string>
   <string name="collect_diagnostics_summary">Diagnosedaten für die Fehlersuche sammeln</string>
   <string name="collect_diagnostics_title">Diagnosedaten sammeln</string>
   <string name="color_black">Schwarz</string>
@@ -3088,7 +3090,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="face_data_manage_unlock_title">Mit Gesichtsdaten entsperren</string>
   <string name="face_data_siggesstion_next">Weiter</string>
   <string name="face_data_siggesstion_next_time">Weiter (%ds)</string>
-  <string name="face_data_suggesstion_first">Sicherheit: Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto entsperrt werden, aber auch durch Personen oder Gegenstände mit ähnlichem Aussehen.</string>
+  <string name="face_data_suggesstion_first">Die Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto sowie von Personen oder Gegenstände mit ähnlichem Aussehen entsperrt werden.</string>
   <string name="face_data_suggesstion_second">Achten Sie darauf, dass Teile Ihres Gesichts nicht von Objekten verdeckt werden und deutlich sichtbar sind. Ihr Gesicht sollte auch gut ausgeleuchtet sein.</string>
   <string name="face_intro_error_max">Sie haben die Maximalzahl an Gesichtern hinzugefügt</string>
   <string name="face_intro_error_unknown">Weitere Gesichter hinzufügen nicht möglich</string>
@@ -3588,6 +3590,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="hardware_revision">Hardwareversion</string>
   <string name="hardware_version">Hardwareversion</string>
   <string name="has_screenshot_sound">Screenshot-Auslöseton</string>
+  <string name="headset_notification_switch_summary">Status im Benachrichtigungsleisten-Widget anzeigen, wenn Kopfhörer angeschlossen sind</string>
+  <string name="headset_notification_switch_title">Benachrichtigungsleisten-Widget</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
   <string name="hdmi_3d_display_enable_summary">3D-Spieleunterstützung aktivieren</string>
@@ -3928,6 +3932,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="keyboard_settings_title">Androidtastatur</string>
   <string name="keyboard_shortcuts_helper">Tastaturverknüpfungshilfe</string>
   <string name="keyboard_shortcuts_helper_summary">Verfügbare Verknüpfungen anzeigen</string>
+  <string name="keyboard_skin_follow_system_enable">Zusammen mit dem System in den Dark Mode wechseln</string>
   <string name="keyguard_advance_setting_title">Weitere Einstellungen</string>
   <string name="keyguard_double_tap_to_sleep_title">2x tippen für Standby</string>
   <string name="keyguard_notification_status_title">Benachrichtigung bei Bildschirm aus</string>
@@ -4798,6 +4803,8 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
   <string name="miui_enable_service_title">Dienst führt folgende Aktionen durch:</string>
   <string name="miui_experience_optimization">MIUI-Optimierung einschalten</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">Abbrechen</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Achtung</string>
   <string name="miui_face_enroll_success">Sie können dieses Gerät jetzt mit Ihren Gesichtsdaten entsperren.
 Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
   <string name="miui_ime_xiaoai_voice_hint">Schnellere und komfortablere Texteingabe</string>
