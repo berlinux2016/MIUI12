@@ -3090,7 +3090,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="face_data_manage_unlock_title">Mit Gesichtsdaten entsperren</string>
   <string name="face_data_siggesstion_next">Weiter</string>
   <string name="face_data_siggesstion_next_time">Weiter (%ds)</string>
-  <string name="face_data_suggesstion_first">Die Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto sowie von Personen oder Gegenstände mit ähnlichem Aussehen entsperrt werden.</string>
+  <string name="face_data_suggesstion_first">Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto sowie von Personen oder Objekten mit ähnlichem Aussehen entsperrt werden.</string>
   <string name="face_data_suggesstion_second">Achten Sie darauf, dass Teile Ihres Gesichts nicht von Objekten verdeckt werden und deutlich sichtbar sind. Ihr Gesicht sollte auch gut ausgeleuchtet sein.</string>
   <string name="face_intro_error_max">Sie haben die Maximalzahl an Gesichtern hinzugefügt</string>
   <string name="face_intro_error_unknown">Weitere Gesichter hinzufügen nicht möglich</string>
