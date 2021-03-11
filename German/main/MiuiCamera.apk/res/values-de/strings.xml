@@ -1752,7 +1752,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="remote_online_interrupted">Getrennt. Erneut verbinden, um fortzufahren.</string>
   <string name="remote_online_introduction_i">Duale Telefonaufnahme ermöglicht es, Feeds von zwei verschiedenen Geräten in einem Video zu kombinieren. Sie können beide Feeds und das endgültige Video auf diesem Gerät in der Vorschau anzeigen. Beachten Sie, dass Audio nur von diesem Gerät aufgenommen wird.</string>
   <string name="remote_online_introduction_ii">Damit diese Funktion funktioniert, muss das andere Mi- oder Redmi-Gerät die duale Telefonaufnahme unterstützen. Sie kann über das Kontrollzentrum eingeschaltet werden.</string>
-  <string name="remote_online_permission">Standortberechtigung der Kamera auf \"Nur bei App-Anwendung zulassen\" ändern, um die Dual-Telefon-Aufnahme nutzen zu können</string>
+  <string name="remote_online_permission">Standortberechtigung der Kamera auf \"Nur während App-Nutzung\" ändern, um die Dual-Telefon-Aufnahme nutzen zu können</string>
   <string name="remote_online_searching">Nach Geräten suchen…</string>
   <string name="remote_online_service_name">Duale Telefonaufnahme</string>
   <string name="remote_online_setup_wizard_button_back">Zurück</string>

@@ -1898,7 +1898,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
   <string name="intl_perm_privacy_control_microphone">App kann nur Audio aufnehmen, während Sie sie verwenden.</string>
   <string name="intl_perm_privacy_control_notification_message">Kontrollieren Sie, welche privaten Daten die Apps verwenden dürfen.</string>
   <string name="intl_perm_privacy_control_notification_title">Schützen Sie Ihre Privatsphäre</string>
-  <string name="intl_perm_privacy_control_storage">App kann nur während der Benutzung auf Elemente im internen Speicher zugreifen oder diese bearbeiten.</string>
+  <string name="intl_perm_privacy_control_storage">App kann nur während der Nutzung auf Elemente im internen Speicher zugreifen oder diese bearbeiten.</string>
   <string name="intl_perm_privacy_control_title">Datenschutz kontrollieren</string>
   <string name="invalid_charger">Über USB aufladen nicht möglich. Mitgeliefertes Ladegerät verwenden.</string>
   <string name="ip_address_exception_summary">IP-Adresse wurde nicht abgerufen. Wenn der Fehler wieder auftritt, versuchen Sie eine statische IP-Adresse.</string>
@@ -2630,7 +2630,7 @@ Stromverbrauch"</string>
   <string name="permission_action_always">Immer erlauben</string>
   <string name="permission_action_desc">Berechtigungen erteilen, aber leere Nachrichten an die App zurücksenden, um die Privatsphäre zu schützen</string>
   <string name="permission_action_desc_always">Diese Berechtigung kann jederzeit verwendet werden</string>
-  <string name="permission_action_desc_foreground">Diese Berechtigung kann nur während der App-Verwendung erlaubt werden</string>
+  <string name="permission_action_desc_foreground">Diese Berechtigung kann nur während der App-Nutzung erlaubt werden</string>
   <string name="permission_action_desc_prompt">Diese Berechtigung kann nur verwendet werden, wenn Sie sie erlauben</string>
   <string name="permission_action_desc_reject">Diese Berechtigung kann nicht verwendet werden</string>
   <string name="permission_action_foreground">Bei App-Nutzung</string>
