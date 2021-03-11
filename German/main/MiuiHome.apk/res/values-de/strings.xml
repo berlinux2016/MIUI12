@@ -212,6 +212,7 @@
   <string name="delete_screen">Bildschirm löschen</string>
   <string name="delete_wallpaper_message">%1$d ausgewählten Hintergrund entfernen?</string>
   <string name="delete_wallpapers_message">%1$d ausgewählte Hintergründe entfernen?</string>
+  <string name="deleted_system_applications">Deinstallierte System-Apps</string>
   <string name="deselect_all">Alle abwählen</string>
   <string name="diagnosis_detail_btn_title">Details&gt;&gt;</string>
   <string name="diagnosis_ext_info_title">Verwandte Stapelinformationen: \10%s</string>
@@ -542,6 +543,8 @@
   <string name="remove_dialog_message">Ausgewählte Apps enthalten wesentliche Systemfunktionen. Sie können nur ihre Verknüfungen auf dem Startbildschirm entfernen.</string>
   <string name="remove_dialog_title_format">\"%s\" vom Startbildschirm entfernen?</string>
   <string name="remove_invalidate_gadget_tips">Eins der von Ihnen verwendeten Widgets ist nicht mehr verfügbar. Sie können ein anderes hinzufügen.</string>
+  <string name="remove_sys_app_content">Sie können die Startbildschirmverknüpfung unter Einstellungen &gt; Apps &gt; Startbildschirmverknüpfungen verwalten wieder hinzufügen. Jetzt entfernen?</string>
+  <string name="remove_sys_app_title">Verknüpfung auf dem Startbildschirm entfernen?</string>
   <string name="reset_cate_tip_content">Wenn Sie fortfahren, werden die Standard-App-Gruppen wiederhergestellt. Trotzdem fortfahren?</string>
   <string name="reset_cate_tip_title">Standardgruppen wiederherstellen</string>
   <string name="reset_description_first_time">Sie können das %1$s-Layout innerhalb von 2 Stunden wiederherstellen</string>

@@ -270,6 +270,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="idbct_desc">Hintergrundkarussell nach Netzwerktypen anpassen</string>
   <string name="idbct_opt_auto_select_desc_text">Download von Standardbildern mit mobilen Daten und HD-Bildern über WLAN</string>
   <string name="idbct_opt_high_def_desc_text">HD-Bilder immer herunterladen</string>
+  <string name="idbct_opt_low_dev_desc_text">Bilder immer in Standardqualität herunterladen</string>
   <string name="idbct_title">Netzwerktypen</string>
   <string name="identity">Identifikation</string>
   <string name="inconsistent_pwd">Passwörter stimmen nicht überein</string>
@@ -725,7 +726,7 @@ dd.MM."</string>
   <string name="service_error">Serverfehler</string>
   <string name="set_success">Erfolgreich geändert</string>
   <string name="setting_about_item_title">Über Hintergrundkarussell</string>
-  <string name="setting_des">Sie können Ihre Diashow unter Einstellungen &gt; Sperrbildschirm &amp; Passwort &gt; Hintergrundkarussell einrichten</string>
+  <string name="setting_des">Diashowdienste werden von Hintergrundkarussell bereitgestellt. In den App-Einstellungen nach \"Hintergrundkarussell\" suchen, um alle verfügbaren Optionen anzuzeigen.</string>
   <string name="setting_head">Einstellungen</string>
   <string name="setting_ok">Einstellungen</string>
   <string name="setting_tip">Nicht mehr anzeigen</string>
@@ -863,6 +864,8 @@ dd.MM."</string>
   <string name="ticket_invalid">Eingegebener Code ist falsch</string>
   <string name="ticket_sign_in">Anmelden per SMS</string>
   <string name="time_current">Gerade eben</string>
+  <string name="time_interval_dialog_content1">Mit Wallpaper Carousel können Sie jedes Mal, wenn Sie das Gerät entsperren, ein neues Bild sehen.</string>
+  <string name="time_interval_dialog_content2">Sie können die Häufigkeit der Hintergrundaktualisierung in \"Diashow-Einstellungen\" ändern.</string>
   <string name="toast_ad_down_tip">App herunterladen…</string>
   <string name="toast_ad_down_tip2">%s herunterladen</string>
   <string name="toast_connect_failed_tip">Verbindung nicht möglich. Einen Moment warten und es erneut versuchen.</string>
