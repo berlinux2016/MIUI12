@@ -864,7 +864,7 @@ dd.MM."</string>
   <string name="ticket_invalid">Eingegebener Code ist falsch</string>
   <string name="ticket_sign_in">Anmelden per SMS</string>
   <string name="time_current">Gerade eben</string>
-  <string name="time_interval_dialog_content1">Mit Wallpaper Carousel können Sie jedes Mal, wenn Sie das Gerät entsperren, ein neues Bild sehen.</string>
+  <string name="time_interval_dialog_content1">Mit Hintergrundkarussell können Sie jedes Mal, wenn Sie das Gerät entsperren, ein neues Bild sehen.</string>
   <string name="time_interval_dialog_content2">Sie können die Häufigkeit der Hintergrundaktualisierung in \"Diashow-Einstellungen\" ändern.</string>
   <string name="toast_ad_down_tip">App herunterladen…</string>
   <string name="toast_ad_down_tip2">%s herunterladen</string>
