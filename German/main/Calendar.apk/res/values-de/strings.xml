@@ -99,6 +99,7 @@
   <string name="birthday_event_description_a_week_later">In einer Woche ist</string>
   <string name="birthday_event_description_day_after_tomorrow">Übermorgen ist</string>
   <string name="birthday_event_description_day_before_yesterday">Vorgestern war</string>
+  <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s%5$s"</string>
   <string name="birthday_event_description_today">Heute ist</string>
   <string name="birthday_event_description_tomorrow">Morgen ist</string>
   <string name="birthday_event_description_yesterday">Gestern war</string>
