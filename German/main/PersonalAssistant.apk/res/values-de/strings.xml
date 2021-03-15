@@ -22,7 +22,6 @@
   <string name="app_assist_sleep_redownload_dialog_confirm">Einstellungen</string>
   <string name="app_assist_sleep_redownload_dialog_content">Sie können die für diese Funktion erforderlichen Audiodateien in den Einstellungen herunterladen.</string>
   <string name="app_assist_sleep_redownload_dialog_title">Audio herunterladen</string>
-  <string name="app_cancel">Abbrechen</string>
   <string name="app_download_failure">Download fehlgeschlagen</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
