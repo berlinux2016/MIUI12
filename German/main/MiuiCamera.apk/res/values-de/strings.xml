@@ -1604,7 +1604,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_hdr_indicator_entry_on">An</string>
   <string name="pref_i_n_r_b">Intelligente Rauschunterdrückung</string>
   <string name="pref_k_h">Live-In-Ear-Monitor</string>
-  <string name="pref_k_s_i">Aufgenommenen Ton über den Kopfhörer abspielen, wenn dieser angeschlossen ist</string>
+  <string name="pref_k_s_i">Aufgenommenen Ton über die angeschlossenen Kopfhörer anhören</string>
   <string name="pref_lens_dirty_detect_summary">Benachrichtigung erhalten, wenn die Linse verschmutzt ist</string>
   <string name="pref_lens_dirty_detect_title">Benachrichtigung über verschmutzte Linse</string>
   <string name="pref_live_duration_title">Live-Dauer</string>

@@ -4756,6 +4756,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_ignore">Entkoppeln</string>
   <string name="miheadset_in_ear_check">Ohr erkennen</string>
   <string name="miheadset_in_ear_check_summary">Wiedergabe automatisch anhalten und fortsetzen, wenn Sie Kopfhörer abnehmen oder tragen</string>
+  <string name="miheadset_key_config_ANC_list_title">Geräuschpegelkontrolle</string>
   <string name="miheadset_key_config_call_ai">Sprachassistent</string>
   <string name="miheadset_key_config_close">Aus</string>
   <string name="miheadset_key_config_close_summary">Rauschunterdrückung und Transparenz ausschalten</string>

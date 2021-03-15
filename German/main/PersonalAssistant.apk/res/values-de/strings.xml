@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_travel_card_flight_info_tip">This info is provided for your reference only. Check with the airline for more details.</string>
+  <string name="app_travel_card_train_info_tip">This info is provided for your reference only. Check with the railway company for more details.</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+  <string name="miuix_appcompat_action_mode_select_all">Select all</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
+  <string name="miuix_appcompat_cancel_description">Cancel</string>
+  <string name="miuix_appcompat_confirm_description">Confirm</string>
+  <string name="miuix_appcompat_delete_description">Delete</string>
+  <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
+  <string name="miuix_appcompat_search_input_description">Search</string>
+  <string name="miuix_appcompat_select_all_description">Select all</string>
+
+  <string name="app_assist_sleep_notifycation_content">App vault is playing %s…</string>
+  <string name="app_assist_sleep_notifycation_description">Notifications during bedtime playback</string>
+  <string name="app_assist_sleep_notifycation_name">Healthy sleep</string>
+  <string name="app_assist_sleep_notifycation_title">App vault</string>
+  <string name="app_assist_sleep_redownload_dialog_cancel">Cancel</string>
+  <string name="app_assist_sleep_redownload_dialog_confirm">Settings</string>
+  <string name="app_assist_sleep_redownload_dialog_content">You can download the audio files required for this feature in the Settings.</string>
+  <string name="app_assist_sleep_redownload_dialog_title">Download audio</string>
+  <string name="app_cancel">Cancel</string>
+  <string name="app_download_failure">Download failed</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -423,8 +448,9 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_express_shunfeng_verify_failed">Kontaktinfo nicht verifizierbar. Prüfen Sie, ob die letzten vier Ziffern der eingegebenen Telefonnummer korrekt sind, und versuchen Sie es erneut.</string>
   <string name="app_express_tail_number">Bestellung: %1$s</string>
   <string name="app_footer_switcher">Zur alten Version wechseln</string>
-  <string name="app_health_card_completion">Ziel</string>
-  <string name="app_health_card_step">Schritte heute:</string>
+  <string name="app_health_card_completion">Fortschritt</string>
+  <string name="app_health_card_energy">Kalorien</string>
+  <string name="app_health_card_step">Schritte</string>
   <string name="app_health_setting_music_name_fire">Feuer</string>
   <string name="app_health_setting_music_name_forest">Wald</string>
   <string name="app_health_setting_music_name_night">Sommernacht</string>
@@ -521,11 +547,11 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_pa_setting_service_timetable_summary">Zum Planen von Klassen tippen</string>
   <string name="app_pa_setting_title">Einstellungen</string>
   <string name="app_screen_time_auth">Bildschirmzeit</string>
-  <string name="app_screen_time_no_time_title">&lt; 1 Minute</string>
-  <string name="app_screen_time_support_false">Bildschirmzeit wird derzeit nicht unterstützt</string>
+  <string name="app_screen_time_no_time_title">Weniger als 1 min</string>
+  <string name="app_screen_time_support_false">Dieser Dienst wird nicht unterstützt</string>
   <string name="app_screen_time_time">%1$d Std %2$d Min</string>
   <string name="app_screen_time_time_minute">%1$d Min</string>
-  <string name="app_screen_time_title">Bildschirmzeit</string>
+  <string name="app_screen_time_title">"Bildschirmzeit "</string>
   <string name="app_setting">Infoassistent-Einstellungen</string>
   <string name="app_setting_account">Konten</string>
   <string name="app_setting_account_binding">Hinzufügen</string>

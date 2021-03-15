@@ -227,6 +227,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="notification_playback">Abspielen…</string>
   <string name="notification_recording">Aufnahme läuft…</string>
   <string name="notification_recording_ticker">Telefon stumm. Aufnahme…</string>
+  <string name="notification_save_as_complete">Erfolgreich gespeichert</string>
   <string name="notification_stopped">Aufnahme wurde beendet</string>
   <string name="notification_title_all_paused">Download angehalten</string>
   <string name="notification_warning">Geringer Speicherplatz (weniger als %d Minuten)…</string>
@@ -395,6 +396,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
+  <string name="save_as">Speichern als</string>
   <string name="save_record_dialog_title">Aufzeichnung speichern</string>
   <string name="search_app">Rekorder</string>
   <string name="search_empty">Keine Ergebnisse gefunden</string>
