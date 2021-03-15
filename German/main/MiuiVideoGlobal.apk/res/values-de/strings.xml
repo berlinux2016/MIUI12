@@ -252,8 +252,13 @@
   <string name="diagnosis_log_sent_format">"Protokolle erfolgreich gesendet.
 ID:%s
 Senden Sie diesen Code an den Supervisor."</string>
+  <string name="dialog_disagree_privacychange_info">Sie können die Online-Streaming-Dienste von Mi Video nicht nutzen, wenn Sie unserer Datenschutzerklärung nicht zustimmen. Tippen Sie auf \"Abbrechen\", um zurückzugehen, oder auf \"Ablehnen\", um fortzufahren und Mi Video nur als lokalen Player zu verwenden.</string>
+  <string name="dialog_disagree_privacychange_title">"Ablehnen?"</string>
+  <string name="dialog_privacy_change_info">Wir haben die Mi Video Datenschutzerklärung wegen der Anpassungen der von uns angebotenen Dienste aktualisiert. Um Ihre Rechte als Benutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, bevor Sie die App verwenden.</string>
+  <string name="dialog_privacy_change_title">Aktualisierung Datenschutzerklärung</string>
   <string name="dialog_privacy_info_new2">"Um die Dienste nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten erfasst, verarbeitet und nutzt. Unsere &lt;a href=%2$s>Datenschutzerklärung&lt;/a> gilt als gelesen und akzeptiert, wenn Sie unten auf \"Zustimmen\" tippen."</string>
   <string name="dialog_privacy_info_new3">"Um die Dienste nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten in Übereinstimmung mit der Datenschutzerklärung erfasst, verarbeitet und nutzt. Wenn Sie unten auf \"Zustimmen\" tippen, akzeptieren Sie Xiaomi's &lt;a href=%2$s>Datenschutzerklärung&lt;/a> und &lt;a href=%3$s>Nutzervereinbarung&lt;/a>. &lt;br/>&lt;br/>Tippen auf \"Zustimmen\" erlaubt Mi Video auch den Zugriff auf die Liste der auf Ihrem Gerät installierten Apps. Mit dieser Berechtigung ist Mi Video in der Lage, Elemente zu teilen, zu verstehen, ob eine App auf Ihrem Gerät installiert ist, welche Version einer App installiert ist und ob eine App sicher ist."</string>
+  <string name="dialog_privacy_info_new4">Willkommen bei Mi Video! Diese App bietet folgende Dienste:&lt;br>&lt;/br> - Online-Streaming-Dienste&lt;br>&lt;/br>- Ein lokaler Video-Player&lt;br>&lt;/br>Mi Video muss notwendige personenbezogene Daten erfassen, um Ihnen die grundlegenden Dienste zur Verfügung zu stellen. Wie wir mit den gesammelten Infos umgehen, erfahren Sie in unserer Datenschutzerklärung. Sie können die entsprechenden Einstellungen unter Einstellungen > Passwörter &amp; Sicherheit ändern.&lt;br>&lt;/br>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, bevor Sie Mi Video verwenden.</string>
   <string name="dialog_privacy_revoke_cancel">Abbrechen</string>
   <string name="dialog_privacy_revoke_count_down">Widerrufen (%1$ds)</string>
   <string name="dialog_privacy_revoke_description">Indem Sie den Schalter umlegen, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Video. Wir werden aufhören, personenbezogene Daten zu sammeln. Die bereits gesammelten und aufbewahrten personenbezogenen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Verweigerung der Annahme von Online-Diensten, die auf gesammelten personenbezogenen Daten basieren, betrachtet.</string>
@@ -264,6 +269,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="dialog_privacy_title">Genehmigung</string>
   <string name="dialog_revoke_privacy_info_new2">Wenn Sie die Genehmigung widerrufen, stoppt die App die Datenerfassung, und alle damit verbundenen Daten werden von unseren Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Genehmigung trotzdem widerrufen?</string>
   <string name="dialog_revoke_privacy_title">Genehmigung widerrufen</string>
+  <string name="disagree">Ablehnen</string>
   <string name="diy_channels_tips">Sie können die Liste Ihrer Kanäle jetzt anpassen.</string>
   <string name="do_not_show_again">Nicht mehr anzeigen</string>
   <string name="do_not_show_this_again">Nicht wieder anzeigen</string>
