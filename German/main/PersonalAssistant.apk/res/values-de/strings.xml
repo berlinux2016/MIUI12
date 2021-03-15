@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_travel_card_flight_info_tip">This info is provided for your reference only. Check with the airline for more details.</string>
-  <string name="app_travel_card_train_info_tip">This info is provided for your reference only. Check with the railway company for more details.</string>
-  <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
-  <string name="miuix_appcompat_action_mode_select_all">Select all</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
-  <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
-  <string name="miuix_appcompat_cancel_description">Cancel</string>
-  <string name="miuix_appcompat_confirm_description">Confirm</string>
-  <string name="miuix_appcompat_delete_description">Delete</string>
-  <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
-  <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
-  <string name="miuix_appcompat_search_input_description">Search</string>
-  <string name="miuix_appcompat_select_all_description">Select all</string>
-
-  <string name="app_assist_sleep_notifycation_content">App vault is playing %s…</string>
-  <string name="app_assist_sleep_notifycation_description">Notifications during bedtime playback</string>
-  <string name="app_assist_sleep_notifycation_name">Healthy sleep</string>
-  <string name="app_assist_sleep_notifycation_title">App vault</string>
-  <string name="app_assist_sleep_redownload_dialog_cancel">Cancel</string>
-  <string name="app_assist_sleep_redownload_dialog_confirm">Settings</string>
-  <string name="app_assist_sleep_redownload_dialog_content">You can download the audio files required for this feature in the Settings.</string>
-  <string name="app_assist_sleep_redownload_dialog_title">Download audio</string>
-  <string name="app_cancel">Cancel</string>
-  <string name="app_download_failure">Download failed</string>
+  <string name="app_travel_card_flight_info_tip">Diese Informationen dienen nur als Referenz. Erkundigen Sie sich bei der Fluggesellschaft nach weiteren Details.</string>
+  <string name="app_travel_card_train_info_tip">Diese Informationen dienen nur als Referenz. Erkundigen Sie sich bei der Bahngesellschaft nach weiteren Details.</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+  <string name="miuix_appcompat_action_mode_select_all">Alle auswählen</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
+  <string name="miuix_appcompat_cancel_description">Abbrechen</string>
+  <string name="miuix_appcompat_confirm_description">Bestätigen</string>
+  <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
+  <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
+<!-- chin -->
+  <string name="app_assist_sleep_notifycation_content">Infoasisstent spielt ab %s…</string>
+  <string name="app_assist_sleep_notifycation_description">Benachrichtigungen während der Wiedergabe vor dem Schlafengehen</string>
+  <string name="app_assist_sleep_notifycation_name">Gesunder Schlaf</string>
+  <string name="app_assist_sleep_notifycation_title">Infoasisstent</string>
+  <string name="app_assist_sleep_redownload_dialog_cancel">Abbrechen</string>
+  <string name="app_assist_sleep_redownload_dialog_confirm">Einstellungen</string>
+  <string name="app_assist_sleep_redownload_dialog_content">Sie können die für diese Funktion erforderlichen Audiodateien in den Einstellungen herunterladen.</string>
+  <string name="app_assist_sleep_redownload_dialog_title">Audio herunterladen</string>
+  <string name="app_cancel">Abbrechen</string>
+  <string name="app_download_failure">Download fehlgeschlagen</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
