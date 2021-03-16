@@ -1309,7 +1309,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="exo_download_failed">Download fehlgeschlagen</string>
   <string name="exo_download_removing">Downloads löschen</string>
   <string name="exo_track_selection_none">Nichts</string>
-  <string name="exo_track_role_alternate">Alternative</string>
+  <string name="exo_track_role_alternate">Abwechselnd</string>
   <string name="exo_track_role_closed_captions">Mit Untertitel</string>
   <string name="exo_track_role_commentary">Kommentar</string>
   <string name="exo_track_role_supplementary">Ergänzung</string>

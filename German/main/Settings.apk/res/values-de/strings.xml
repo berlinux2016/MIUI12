@@ -4704,10 +4704,10 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_ancBalance">Mittel</string>
   <string name="miheadset_ancClosed">Aus</string>
   <string name="miheadset_ancDecrease">Niedrig</string>
-  <string name="miheadset_ancHigh">Hoch</string>
+  <string name="miheadset_ancHigh">Flugzeug</string>
   <string name="miheadset_ancIncrease">Hoch</string>
-  <string name="miheadset_ancLow">Niedrig</string>
-  <string name="miheadset_ancMedium">Mittel</string>
+  <string name="miheadset_ancLow">Büro</string>
+  <string name="miheadset_ancMedium">Täglich</string>
   <string name="miheadset_anc_indicate">Kopfhörer anschließen und koppeln</string>
   <string name="miheadset_audio_mode">Audio-Modus</string>
   <string name="miheadset_audio_mode_high">Hohe Qualität</string>

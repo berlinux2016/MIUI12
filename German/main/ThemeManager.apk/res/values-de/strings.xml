@@ -922,6 +922,8 @@ Auf Bildschirm tippen, um neu zu laden."</string>
   <string name="resource_wallpaper_download">Hintergrund herunterladen</string>
   <string name="restore_home_icon_text">Startbildschirm-Verknüpfung hinzufügen</string>
   <string name="restore_icon_later">Sie können die Startbildschirm-Verknüpfung in den Einstellungen wieder hinzufügen</string>
+  <string name="ringtone_confirm_dialog_message">Dieser Klingelton ist relativ lang. Trotzdem verwenden?</string>
+  <string name="ringtone_confirm_dialog_title">Vorsicht</string>
   <string name="ringtone_set_success">Erfolgreich festgelegt</string>
   <string name="s1">Bild speichern</string>
   <string name="s2">Erlauben Sie Werbung, Bilder in der Galerie zu speichern?</string>
@@ -953,8 +955,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
   <string name="service_btn_text_try">Ausprobieren</string>
   <string name="set_color_ring_back_tone">Benutzerdefinierten Klingelton einstellen</string>
   <string name="set_home_wallpaper_failed">%s. Startbildschirmhintergrund wurde nicht angewendet.</string>
-  <string name="set_wallpaper_group_success">"%1$s wurde angewendet.
-Sie werden jede Stunde ein neues Bild sehen."</string>
+  <string name="set_wallpaper_group_success">Hintergrundbild \"%1$s\" erfolgreich angewendet</string>
   <string name="setting_font_online">Online-Fonts</string>
   <string name="settings">Einstellungen</string>
   <string name="settings_search_keyword_font_free">Kostenlose Schriften</string>
