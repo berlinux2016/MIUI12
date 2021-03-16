@@ -173,6 +173,14 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
     <item quantity="other">&lt;Data>&lt;font color=#0099ff>%d&lt;/font> Apps zur Gerätebeschleunigung schließen?&lt;/Data></item>
     <item quantity="one">&lt;Data>&lt;font color=#0099ff>%d&lt;/font> App zur Gerätebeschleunigung schließen?&lt;/Data></item>
   </plurals>
+  <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="other">%d Sekunden vorspulen</item>
+    <item quantity="one">%d Sekunde vorspulen</item>
+  </plurals>
+  <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="other">%d Sekunden zurückspulen</item>
+    <item quantity="one">%d Sekunde zurückspulen</item>
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">%d Apps durchsuchen</item>
     <item quantity="one">%d App durchsuchen</item>
@@ -587,6 +595,10 @@ Machen Sie eine Pause!!"</item>
   <plurals name="people_million">
     <item quantity="other">Von %1$d Benutzern heruntergeladen</item>
     <item quantity="one">Von %1$d Benutzer heruntergeladen</item>
+  </plurals>
+  <plurals name="power_20s_shutdown">
+    <item quantity="other">Ihr Gerät wird in %d Sek ausgeschaltet</item>
+    <item quantity="one">Ihr Gerät wird in %d Sek ausgeschaltet</item>
   </plurals>
   <plurals name="power_center_battery_charge_number">
     <item quantity="other">-mal</item>
