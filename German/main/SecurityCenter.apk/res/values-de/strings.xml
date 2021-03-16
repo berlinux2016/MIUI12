@@ -2353,7 +2353,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="notification_exit_power_save_mode">Stromsparmodus ausgeschaltet</string>
   <string name="notification_exit_power_save_mode_full_subtitle">Ihr Gerät ist vollständig geladen</string>
   <string name="notification_exit_power_save_mode_now">Ausschalten</string>
-  <string name="notification_exit_power_save_mode_subtitle" formatted=false>Ihr Gerät ist jetzt zu %s geladen</string>
+  <string name="notification_exit_power_save_mode_subtitle" formatted="false">Ihr Gerät ist jetzt zu %s geladen</string>
   <string name="notification_garbage_clean_botton_text">Löschen</string>
   <string name="notification_garbage_clean_botton_text_new">Bereinigen</string>
   <string name="notification_garbage_clean_hint">Speicherplatz freigeben</string>
