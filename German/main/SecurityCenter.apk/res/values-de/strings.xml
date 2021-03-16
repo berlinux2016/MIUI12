@@ -1279,7 +1279,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="exit_dialog_scan_positive_button">Optimieren</string>
   <string name="exit_dialog_scan_title">Leistung optimieren</string>
   <string name="exo_controls_cc_disabled_description">Untertitel einschalten</string>
-  <string name="exo_controls_cc_enabled_description">Untertitel auschalten</string>
+  <string name="exo_controls_cc_enabled_description">Untertitel ausschalten</string>
   <string name="exo_controls_fastforward_description">Schnellvorlauf</string>
   <string name="exo_controls_fullscreen_description">Vollbildmodus</string>
   <string name="exo_controls_fullscreen_enter_description">Vollbildmodus</string>
@@ -1287,7 +1287,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="exo_controls_hide">Player-Steuerung verbergen</string>
   <string name="exo_controls_next_description">Nächster</string>
   <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen verbergen</string>
-  <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen anzueigen</string>
+  <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen anzeigen</string>
   <string name="exo_controls_play_description">Abspielen</string>
   <string name="exo_controls_playback_speed">Geschwindigkeit</string>
   <string name="exo_controls_playback_speed_normal">Normal</string>
@@ -1297,8 +1297,8 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
   <string name="exo_controls_rewind_description">Rücklauf</string>
   <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
-  <string name="exo_controls_seek_bar_description">Playback progress</string>
-  <string name="exo_controls_settings_description">Winstellungen</string>
+  <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
+  <string name="exo_controls_settings_description">Einstellungen</string>
   <string name="exo_controls_show">Player-Steuerung anzeigen</string>
   <string name="exo_controls_shuffle_off_description">Zufallswiedergabe aus</string>
   <string name="exo_controls_shuffle_on_description">Zufallswiedergabe ein</string>
@@ -2971,7 +2971,7 @@ Stromverbrauch"</string>
   <string name="pp_privacy_lab_blur_location">Ungefährer Standort</string>
   <string name="pp_privacy_lab_blur_location_summary">Standortinfo entpersonalisieren, damit Apps den ungefähren Standort lesen dürfen</string>
   <string name="pp_privacy_lab_clipboard">Zwischenablage schützen</string>
-  <string name="pp_privacy_lab_clipboard_summary">MIUI erlauben, zu entscheiden, ob eine App auf die Zwischenablage darf und ob Benachrichtigungen empfangen werden dürfen, falls ja.</string>
+  <string name="pp_privacy_lab_clipboard_summary">MIUI erlauben zu entscheiden, ob eine App auf die Zwischenablage zugreifen darf und ob Benachrichtigungen empfangen werden dürfen, falls ja.</string>
   <string name="pp_app_reads_clipboard_smart_reminder">Zwischenablage schützen</string>
   <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI wird entscheiden, ob Apps auf Ihre Zwischenablage zugreifen dürfen. Wenn dies der Fall ist, erhalten Sie eine Benachrichtigung.</string>
   <string name="pp_app_warning_permission_tips">Benachrichtigungen über App-Verhalten erhalten</string>
