@@ -178,6 +178,7 @@
   <string name="gb_gpu_tips_graph">Grafik optimieren, um die GPU-Leistung zu steigern und Strom zu sparen. Diese Funktion wird von ausgewählten Spielen unterstützt.</string>
   <string name="gb_gpu_tips_resolution">Standardauflösung wird durch das spezifische Spiel definiert. Bei einigen Spielen ist es nicht möglich, die Auflösung anzupassen.</string>
   <string name="gb_gpu_tips_texture">Leistung oder Bildqualität priorisieren</string>
+  <string name="gb_not_support_on_device">Diese App kann nicht auf dem äußeren Bildschirm verwendet werden</string>
   <string name="gb_pannel_control_mode_balance">Ausgewogen</string>
   <string name="gb_pannel_control_mode_custom">Individuell</string>
   <string name="gb_pannel_control_mode_high_quality">Hohe Qualität</string>

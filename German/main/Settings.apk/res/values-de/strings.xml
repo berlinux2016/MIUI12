@@ -1852,6 +1852,8 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="codec_low_latency_summary">Minimierung der Wartezeit bei der Audio- und Videosynchronisation von Spielen</string>
   <string name="codec_low_latency_title">Niedrige Wartezeit</string>
   <string name="codec_low_latency_video_summary">Bietet ein Audioerlebnis mit niedriger Latenz für Spiele und Videos, wodurch die Synchronisation von Ton und Bild natürlicher wird.</string>
+  <string name="codec_low_latency_zmi_summary">Audioverzögerung reduzieren und Soundeffekte für Spiele automatisch verbessern</string>
+  <string name="codec_low_latency_zmi_title">Niedrige Latenzzeit für Spiele</string>
   <string name="collect_diagnostics_summary">Diagnosedaten für die Fehlersuche sammeln</string>
   <string name="collect_diagnostics_title">Diagnosedaten sammeln</string>
   <string name="color_black">Schwarz</string>
