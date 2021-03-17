@@ -923,7 +923,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
   <string name="restore_home_icon_text">Startbildschirm-Verknüpfung hinzufügen</string>
   <string name="restore_icon_later">Sie können die Startbildschirm-Verknüpfung in den Einstellungen wieder hinzufügen</string>
   <string name="ringtone_confirm_dialog_message">Dieser Klingelton ist relativ lang. Trotzdem verwenden?</string>
-  <string name="ringtone_confirm_dialog_title">Vorsicht</string>
+  <string name="ringtone_confirm_dialog_title">Achtung</string>
   <string name="ringtone_set_success">Erfolgreich festgelegt</string>
   <string name="s1">Bild speichern</string>
   <string name="s2">Erlauben Sie Werbung, Bilder in der Galerie zu speichern?</string>
