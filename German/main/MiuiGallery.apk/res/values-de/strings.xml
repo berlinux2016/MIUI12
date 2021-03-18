@@ -17,7 +17,7 @@
   <string name="photo_size_not_support">Diese Bildauflösung wird nicht unterstützt</string>
   <string name="see_more_settings">Zusätzliche Einstellungen</string>
   <string name="sync_backup_disable_confirm_message_downloading">Wenn Sie die Synchronisation jetzt ausschalten, werden die laufenden Downloads der in der Cloud gespeicherten Originaldateien unterbrochen. Auch die auf diesem Gerät gespeicherten Bilder in hoher Qualität werden nicht mehr verfügbar sein. Trotzdem ausschalten?</string>
-  <string name="sync_backup_disable_confirm_message_wait">Hochwertige Bilder, die auf diesem Gerät gespeichert sind, sind nicht mehr verfügbar, nachdem Sie die Synchronisation ausgeschaltet haben. Sie können die Originaldateien aus der Cloud herunterladen und die Synchronisation danach ausschalten.</string>
+  <string name="sync_backup_disable_confirm_message_wait">Hochwertige Bilder, die auf diesem Gerät gespeichert sind, sind nicht mehr verfügbar, wenn Sie die Synchronisation ausschalten. Sie können die Originaldateien aus der Cloud herunterladen und die Synchronisation danach ausschalten.</string>
   <string name="sync_backup_disable_confirm_title">Synchronisieren ausschalten</string>
   <string name="sync_backup_enable_confirm_message">Wenn die Synchronisation mit der Cloud aktiviert ist, werden Elemente von diesem Gerät hochgeladen und mit den in der Cloud gespeicherten Elementen zusammengeführt.</string>
   <string name="sync_backup_enable_confirm_title">Synchronisierte Elemente zusammenführen</string>
@@ -37,7 +37,7 @@
   <string name="magic_matting_error_px">Bildgröße wird nicht unterstützt</string>
   <string name="magic_video_cut_frame">Verarbeitung läuft…</string>
   <string name="magic_video_cut_frame_back">Zum Abbrechen erneut antippen</string>
-  <string name="network_message">Diese Funktion muss mit dem Netzwerk verbunden sein, um normal zu funktionieren. Sieht so aus, als wäre dieses Gerät nicht mit dem WLAN verbunden. Mbile Daten verwenden, um fortzufahren? Die Verwendung mobiler Daten kann zusätzliche Kosten des Anbieters verursachen.</string>
+  <string name="network_message">Diese Funktion muss mit dem Netzwerk verbunden sein, um normal zu funktionieren. Sieht aus, als wäre dieses Gerät nicht mit WLAN verbunden. Mobile Daten verwenden, um fortzufahren? Die Verwendung mobiler Daten kann zusätzliche Kosten beim Anbieter verursachen.</string>
   <string name="network_title">Netzwerkverbindung herstellen</string>
   <string name="operation_google_lens">Google Lens</string>
 
@@ -486,7 +486,7 @@
   <string name="cloud_guide_login_title">Fotos und Videos automatisch sichern</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
   <string name="cloud_privacy_with_ai_album">Datenschutzerklärung zur automatischen Synchronisation und Bildverarbeitung</string>
-  <string name="cloud_privacy_with_face">Datenschutzerklärung zur automatischen Synchronisierung und Gesichtserkennung</string>
+  <string name="cloud_privacy_with_face">Datenschutzerklärung zur automatischen Synchronisation und Gesichtserkennung</string>
   <string name="cloud_settings">Synchronisation</string>
   <string name="cloud_storage_extend">Cloud-Speicher erweitern</string>
   <string name="cloud_storage_ok_append_desc">Verfügbar %s</string>
