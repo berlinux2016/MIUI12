@@ -207,7 +207,7 @@
   <string name="always_bcc_myself">Bcc immer an mich</string>
   <string name="always_show_images">Immer Bilder dieses Absenders anzeigen</string>
   <string name="app_name">E-Mail</string>
-  <string name="app_uninstall_content">E-Mail ist eine MIUI-System-App. Sie können Ihre E-Mail-Konten nicht mehr verwalten, E-Mails nicht mehr senden und empfangen oder Ereignisse synchronisieren, nachdem Sie die App deinstalliert haben.</string>
+  <string name="app_uninstall_content">E-Mail ist eine MIUI-System-App. Sie können Ihre E-Mail-Konten nicht mehr verwalten, E-Mails nicht mehr senden und empfangen oder Ereignisse synchronisieren, wenn Sie die App deinstallieren.</string>
   <string name="app_uninstall_title">\"E-Mail\" deinstallieren?</string>
   <string name="appraise_des">Mögen Sie unsere App?</string>
   <string name="appraise_good">Ja</string>

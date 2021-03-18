@@ -2721,7 +2721,7 @@ Stromverbrauch"</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
   <string name="permission_upgrade_more">Weitere Datenschutzfunktionen anzeigen</string>
   <string name="permission_upgrade_privacy_title">Berechtigungen für Audioaufnahme und Kontaktezugriff haben jetzt eine Option, die es Ihnen erlaubt, solche Berechtigungen nur zu erteilen, während Sie die entsprechenden App verwenden. Um die Privatsphäre Ihrer persönlichen Daten zu schützen, führen die Apps diese Aktionen nicht im Hintergrund aus.</string>
-  <string name="permission_upgrade_runtime">Berechtigungen auf Ihren Standortzugriff oder zum Fotografieren haben jetzt eine Option, die es Ihnen erlaubt, solche Berechtigungen nur einmal zu erteilen. Um die Privatsphäre Ihrer persönlichen Daten zu schützen, werden diese Aktionen nicht mehr ausgeführt, nachdem Sie die App verlassen haben. Sie werden erneut nach den Berechtigungen gefragt, wenn Sie die entsprechenden Funktionen das nächste Mal verwenden.</string>
+  <string name="permission_upgrade_runtime">Berechtigungen auf Ihren Standortzugriff oder zum Fotografieren haben jetzt eine Option, die es Ihnen erlaubt, solche Berechtigungen nur einmal zu erteilen. Um die Privatsphäre Ihrer persönlichen Daten zu schützen, werden diese Aktionen nicht mehr ausgeführt, wenn Sie die App verlassen. Sie werden erneut nach den Berechtigungen gefragt, wenn Sie die entsprechenden Funktionen das nächste Mal verwenden.</string>
   <string name="permission_upgrade_title">Aktualisierte Berechtigungen</string>
   <string name="permission_upgrade_virtual">Wenn Sie Apps nicht erlauben wollen, auf Ihre Kontakte oder die Anrufliste zuzugreifen, können Sie \"Leere Nachrichten zurücksenden\" auswählen, wenn Sie die entsprechenden Berechtigungen erteilen.</string>
   <string name="permission_with_SMS_and_MMS">SMS-/MMS-Berechtigungen</string>
@@ -3032,7 +3032,7 @@ Stromverbrauch"</string>
   <string name="pp_virtual_identity_manager">Virtuelle ID</string>
   <string name="pref_about_traffic_title">Datennutzungseinstellungen</string>
   <string name="pref_adjust_data_usage">Mobilfunkanbieter-Nachrichtenvorlage</string>
-  <string name="pref_adjust_data_usage_summary">Nachdem dem ändern der Kalibrierungsvorlage, verwendet MIUI diese, um die Datennutzungsstatistik von Ihrem Mobilfunkanbieter zu erhalten</string>
+  <string name="pref_adjust_data_usage_summary">Nach dem Ändern der Kalibrierungsvorlage verwendet MIUI diese, um die Datennutzungsstatistik von Ihrem Mobilfunkanbieter zu erhalten</string>
   <string name="pref_adjust_data_usage_value">Geändert</string>
   <string name="pref_adjust_traffic_data">Datennutzung einstellen</string>
   <string name="pref_allow_connect_network_title">Datenroaming</string>

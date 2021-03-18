@@ -1308,7 +1308,7 @@ Diese Seite jetzt verlassen?"</string>
     <string name="personalized_content_services">Personalisierte Inhaltsdienste</string>
     <string name="personalized_services">Personalisierte Dienste</string>
     <string name="personalized_services_desc">Personalisierte Inhaltsempfehlungen und Werbung erhalten</string>
-    <string name="pf_add_dialog_content">Aufgezeichneter Download-Verlauf wird gelöscht, nachdem zugehörige Elemente in den privaten Ordner verschoben wurden.</string>
+    <string name="pf_add_dialog_content">Aufgezeichneter Download-Verlauf wird gelöscht, wenn zugehörige Elemente in den privaten Ordner verschoben wurden.</string>
     <string name="pf_add_dialog_title">In privaten Ordner verschieben</string>
     <string name="pf_check_dialog_btn_check">Anzeigen</string>
     <string name="pf_check_dialog_msg">Oben auf das Symbol tippen, um Ihren privaten Ordner anzuzeigen</string>

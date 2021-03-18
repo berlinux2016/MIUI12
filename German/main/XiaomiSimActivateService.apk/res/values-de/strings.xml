@@ -158,7 +158,7 @@ Geben Sie die zugehörige Telefonnummer ein, um %s zu reaktivieren."</string>
   <string name="phone_verify_title">%1$s akzeptieren, um die Telefonnummer zu verifizieren</string>
   <string name="privacy_revoke_failed_msg">Aktivierung erfordert die Erteilung einer Berechtigung, damit Messaging Ihre Telefonnummer erhalten kann.</string>
   <string name="privacy_revoke_failed_msg_tip">Erlauben Sie diesem Dienst zunächst den Zugriff auf Ihre Telefonnummer.</string>
-  <string name="privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, wird Messaging Ihre Daten nicht mehr sammeln und alle Ihre Daten von seinen Servern löschen. Die Synchronisation mit Xiaomi Cloud, Mi Message und anderen Messaging-Funktionen ist nicht mehr möglich. Autorisierung trotzdem widerrufen?</string>
+  <string name="privacy_revoke_tips">Wenn Sie die Autorisierung widerrufen, wird Messaging Ihre Daten nicht mehr sammeln und alle Ihre Daten von seinen Servern löschen. Die Synchronisation mit Xiaomi Cloud, Mi Message und anderen Messaging-Funktionen ist nicht mehr möglich. Autorisierung trotzdem widerrufen?</string>
   <string name="sim_activated_failed_msg">Dienst wurde nicht aktiviert. Tippen, um es erneut zu versuchen.</string>
   <string name="sim_unactivated_feature_title">%s wurde nicht aktiviert</string>
   <string name="sim_unactivated_msg">Dieser Dienst ist nicht aktiviert. Tippen, um es erneut zu versuchen.</string>

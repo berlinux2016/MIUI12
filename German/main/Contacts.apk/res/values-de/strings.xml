@@ -328,7 +328,7 @@
   <string name="call_record_user_notice_permission_desc_storage">Zur Aufnahmenspeicherung</string>
   <string name="call_record_user_notice_title">Sprachanrufe suchen</string>
   <string name="call_record_whitelist_custom">Ausgewählte Anrufe</string>
-  <string name="call_recording_notification_summary">Benachrichtigung erhalten, nachdem ein Anruf aufgezeichnet wurde</string>
+  <string name="call_recording_notification_summary">Benachrichtigung erhalten, wenn ein Anruf aufgezeichnet wurde</string>
   <string name="call_recording_notification_title">Benachrichtigung über aufgezeichnete Anrufe</string>
   <string name="call_recording_notification_title_error">Aufzeichnen nicht möglich</string>
   <string name="call_recording_setting">Gesprächsaufzeichnungen</string>
@@ -828,7 +828,7 @@ Grund: \"%s\""</string>
   <string name="group_sms_progress_msg">Gruppieren…</string>
   <string name="groupsLabel">Gruppen</string>
   <string name="groups_list_empty">Keine Gruppen</string>
-  <string name="hide_app_description_content">Kontakte ist eine System-App. Sie können sie weiterhin über die Telefon-App verwenden, nachdem Sie die Verknüpfung vom Startbildschirm entfernt haben.</string>
+  <string name="hide_app_description_content">Kontakte ist eine System-App. Sie können sie weiterhin über die Telefon-App verwenden, wenn Sie die Verknüpfung vom Startbildschirm entfernt haben.</string>
   <string name="hide_app_description_title">\"Kontakte\" vom Startbildschirm entfernen?</string>
   <string name="hint_findContacts">Kontakte suchen</string>
   <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
@@ -1012,7 +1012,7 @@ Grund: \"%s\""</string>
   <string name="miprofile_request_agree">Annehmen</string>
   <string name="miprofile_request_agree_exchange_profile">Kontaktkarten ausgetauscht</string>
   <string name="miprofile_request_agreed">%1$s hat dem Austausch der Kontaktkarten zugestimmt</string>
-  <string name="miprofile_request_alertdialog_message">Ihre Karte wird automatisch versandt, nachdem diese Person akzeptiert hat</string>
+  <string name="miprofile_request_alertdialog_message">Ihre Karte wird automatisch versandt, wenn diese Person akzeptiert hat</string>
   <string name="miprofile_request_alertdialog_title">Kontaktkarten austauschen</string>
   <string name="miprofile_request_deleted_or_not_added">Karte gelöscht oder nicht hinzugefügt</string>
   <string name="miprofile_request_empty_request">Keine Austauschanfragen</string>

@@ -243,7 +243,7 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_msg_picker_hint_1_2">Aufladen per Text kann teurer sein: &lt;font color=red&gt;￥%1$d = %2$d Mi Coin&lt;/font&gt;</string>
   <string name="mibi_msg_picker_hint_2_2">Mobilfunkanbieter berechnen eine Servcegebühr von ￥%1$s pro Aufladung</string>
   <string name="mibi_msg_picker_hint_2_a">Mobilfunkanbieter berechnen eine Servicegebühr von ￥%1$s pro Aufladung</string>
-  <string name="mibi_msg_picker_hint_2_b">Eine SMS wird an Ihren Mobilfunkanbieter gesendet, nachdem Sie auf \"Aufladen\" getippt haben. Der Mobilfunkanbieter wird Ihnen eine reguläre SMS berechnen.</string>
+  <string name="mibi_msg_picker_hint_2_b">Eine SMS wird an Ihren Mobilfunkanbieter gesendet, wenn Sie auf \"Aufladen\" getippt haben. Der Mobilfunkanbieter wird Ihnen eine reguläre SMS berechnen.</string>
   <string name="mibi_msg_picker_hint_3_2">Maximale monatliche Aufladung: ￥%1$s</string>
   <string name="mibi_msg_send_no_net_error">Nachricht senden fehlgeschlagen: Verbindung mit Mobilfunkanbieter nicht möglich.</string>
   <string name="mibi_msg_send_no_sim_error">Nachricht senden fehlgeschlagen: Versuchen Sie, Ihre SIM-Karte neu einzulegen.</string>
@@ -302,7 +302,7 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_prepaid_picker_title_selected">Betrag</string>
   <string name="mibi_privacy_license_name">Datenschutzerklärung</string>
   <string name="mibi_privacy_policy">Datenschutzerklärung</string>
-  <string name="mibi_privacy_tip_message">Sie können Mi Coins nicht nutzen, nachdem die Genehmigung widerrufen wurde.</string>
+  <string name="mibi_privacy_tip_message">Sie können Mi Coins nicht nutzen, wenn die Genehmigung widerrufen.</string>
   <string name="mibi_privacy_tip_title">Zuerst die Genehmigung erteilen</string>
   <string name="mibi_process_expired">Wo waren Sie? Diese Operation ist abgelaufen.</string>
   <string name="mibi_progress_creating">Auftragsinformationen abrufen…</string>

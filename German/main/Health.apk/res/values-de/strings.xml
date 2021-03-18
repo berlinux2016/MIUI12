@@ -266,7 +266,7 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
   <string name="data_empty">Keine Daten</string>
   <string name="data_safety_tip_details">Ihre Gesundheitsdaten werden auf diesem Gerät gespeichert, wenn Sie sich abmelden. Sie können Ihre Gesundheitsdaten unter Health &gt; Datenquellen löschen.</string>
   <string name="data_safety_tip_details2">"Einige Ihrer Gesundheitsdaten wurden in die Cloud hochgeladen. Sie können wählen, ob Sie Ihre Gesundheitsdaten auf diesem Gerät behalten oder löschen möchten. Wenn Sie unten \" Löschen\" auswählen, werden nur die Daten von diesem Gerät gelöscht, synchronisierte Elemente werden weiterhin in der Cloud gespeichert.
-Wenn Sie sich entscheiden, Ihre Gesundheitsdaten zu löschen, nachdem Sie sich entschieden haben, sie zu behalten, können Sie dies in Health &gt; Datenquellen tun."</string>
+Wenn Sie sich entscheiden, Ihre Gesundheitsdaten zu löschen, wenn Sie vorher entschieden hatten, sie zu behalten, können Sie dies in Health &gt; Datenquellen tun."</string>
   <string name="data_safety_tip_title">Gesundheitsdaten löschen</string>
   <string name="data_source">Datenquellen</string>
   <string name="data_source_cannot_be_synchronized">Daten synchronisieren nicht möglich</string>

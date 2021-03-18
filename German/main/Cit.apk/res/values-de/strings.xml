@@ -467,8 +467,8 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
   <string name="cit_sd_fail">Ein Fehler ist aufgetreten</string>
   <string name="cit_sd_mount">SD-Karte einhängen</string>
   <string name="cit_sd_mount_sucess">SD-Karte eingehängt</string>
-  <string name="cit_sd_mp3_not_existed">"Es gibt auf der SD-Karte keine Datei namens \"music.mp3\".
-Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, zum Abspielen auf den Bildschirm tippen."</string>
+  <string name="cit_sd_mp3_not_existed">"Auf der SD-Karte gibt es keine Datei namens \"music.mp3\".
+Wenn Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, zum Abspielen auf den Bildschirm tippen."</string>
   <string name="cit_sd_plugged_in">SD-Karte erkannt, SD-Karte jetzt entfernen</string>
   <string name="cit_sd_plugged_out">SD-Karte wurde entfernt, SD-Karte jetzt einlegen</string>
   <string name="cit_sd_plugin_check_summary">Text \"SD-Karte erkannt, SD-Karte jetzt entfernen\" sollte unten angezeigt werden.</string>
@@ -757,7 +757,7 @@ Test fehlgeschlagen!"</string>
   <string name="failed_to_test">TEST FEHLGESCHLAGEN</string>
   <string name="fingerprint">Fingerabdruck:</string>
   <string name="fingerprint_input_title">Fingerabdruck-Eingabetest</string>
-  <string name="firstplug_mic_check_record_tip">Aufnahme stoppen. Nachdem Sie das Headset eingesteckt haben, bestätigen Sie das Ergebnis.</string>
+  <string name="firstplug_mic_check_record_tip">Aufnahme stoppen. Wenn Sie das Headset eingesteckt haben, bestätigen Sie das Ergebnis.</string>
   <string name="fod_check_start_error">"Sensorprüfprogramm kann nicht gestartet werden.
 Test fehlgeschlagen!"</string>
   <string name="fod_check_summary">"Testanleitung:
@@ -822,9 +822,9 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
   <string name="ir_camera_test_description">IR-Kameratest</string>
   <string name="ir_camera_test_summary_capture">"Testanleitung:
 1. Auf die Kamerataste tippen, um die IR-Kameras aufzurufen.
-2. Tippen, um Fotos aufzunehmen
+2. Tippen, um Fotos aufzunehmen.
 3. Das System speichert das Foto automatisch nach der Aufnahme.
-4. Nachdem auf aktuellen Bildschirm angezeigtes Bild gesehen wurde, weiter klicken."</string>
+4. Wenn das auf dem aktuellen Bildschirm angezeigte Foto angesehen wurde, weiter klicken."</string>
   <string name="ir_camera_test_summary_preview">"Testanleitung:
 1. Auf die Vorschautaste tippen, um die Kamera aufzurufen.
 2. Warten, bis die Vorschau beendet ist und automatisch zurückkehren."</string>
@@ -843,7 +843,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
   <string name="mic1_spk_loop">Mikrofon-Lautsprecher-Loop</string>
   <string name="mic1test">MIK1</string>
   <string name="mic_check_rm_headset_tip">Nehmen Sie zunächst das Headset ab und nehmen Sie Ton auf.</string>
-  <string name="mic_tip">Bitte machen Sie ein Geräusch ins Mikrofon. Nachdem Sie das Headset eingesteckt haben, hören Sie sich den Ton auf dem Headset an.</string>
+  <string name="mic_tip">Bitte machen Sie ein Geräusch ins Mikrofon. Wenn Sie das Headset eingesteckt haben, hören Sie sich den Ton auf dem Headset an.</string>
   <string name="mic_volume_height_tip">MIKRO-Lautstärketest BESTANDEN</string>
   <string name="mic_volume_low_tip">MIKRO-Lautstärketest nicht bestanden. Bitte machen Sie bei der Aufnahme einen lauteren Ton.</string>
   <string name="micphone_test">Mikrofon &amp; Lautsprecher</string>

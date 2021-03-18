@@ -77,7 +77,7 @@
   <string name="action_text_readmode_theme_head">Hintergrund setzen</string>
   <string name="action_text_theme_and_textsize_change">Anpassung von Schriftgröße und Design</string>
   <string name="actionbar_button_up_description">Zurück</string>
-  <string name="ad_app_download_notification_content">Nachdem die Installation abgeschlossen ist, öffnen Sie jetzt die Demo</string>
+  <string name="ad_app_download_notification_content">Wenn die Installation abgeschlossen ist, öffnen Sie jetzt die Demo</string>
   <string name="ad_app_download_site_new">NEU</string>
   <string name="ad_click">Tippen</string>
   <string name="ad_download_click_install">Tippen zum Installieren</string>
@@ -153,8 +153,8 @@
   <string name="appdownloader_label_cancel">Abbrechen</string>
   <string name="appdownloader_label_ok">Verstanden</string>
   <string name="appdownloader_notification_download">Herunterladen</string>
-  <string name="appdownloader_notification_download_complete_open">Nachdem der Download abgeschlossen ist, auf Öffnen tippen.</string>
-  <string name="appdownloader_notification_download_complete_with_install">Nachdem der Download abgeschlossen ist, auf Installieren tippen.</string>
+  <string name="appdownloader_notification_download_complete_open">Wenn der Download abgeschlossen ist, auf Öffnen tippen.</string>
+  <string name="appdownloader_notification_download_complete_with_install">Wenn der Download abgeschlossen ist, auf Installieren tippen.</string>
   <string name="appdownloader_notification_download_complete_without_install">Download abgeschlossen</string>
   <string name="appdownloader_notification_download_delete">Sind Sie sicher, dass Sie den Download von %1$s löschen wollen?</string>
   <string name="appdownloader_notification_download_failed">Download fehlgeschlagen.</string>

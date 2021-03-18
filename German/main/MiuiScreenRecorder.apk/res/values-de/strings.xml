@@ -97,7 +97,7 @@
   <string name="home_title_none">Inhalte auswählen</string>
   <string name="is_checked">Ausgewählt</string>
   <string name="is_go_home">Zurück zur Bildschirmaufnahme</string>
-  <string name="is_go_home_summary">Öffnen Sie die Startseite des Bildschirmrekorders, nachdem Sie die Aufnahme beendet haben.</string>
+  <string name="is_go_home_summary">Öffnen Sie die Startseite des Bildschirmrekorders, wenn die Aufnahme beendet iat.</string>
   <string name="loopback_sound">Loopback-Ton</string>
   <string name="low_battery">Laden Sie Ihr Telefon auf, bevor Sie eine Aufnahme starten</string>
   <string name="low_battery_title">Niedriger Akkustand</string>

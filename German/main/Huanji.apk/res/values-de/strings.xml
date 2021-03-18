@@ -133,7 +133,7 @@
   <string name="close">Schließen</string>
   <string name="close_twice_auth_btn">Zwei-Faktor-Authentifizierung ausschalten</string>
   <string name="close_twice_auth_note">"Hinweis:
-Nachdem Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt haben, wird Ihre Apple-ID Zwei-Faktor-Authentifizierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentifizierung auf der Apple-ID Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
+Wenn Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt haben, wird Ihre Apple-ID Zwei-Faktor-Authentifizierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentifizierung auf der Apple-ID Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
   <string name="close_twice_auth_operation">"URL:
 Zum Ausschalten https://appleid.apple.com/#!&amp;page=signin besuchen"</string>
   <string name="close_twice_auth_step_1">1. Einen beliebigen Webbrowser auf einem beliebigen Computer öffnen und zu appleid.apple.com gehen.</string>
@@ -704,7 +704,7 @@ Mi Mover herunterlden und installieren."</string>
   <string name="trans_time_spent">Zeit: %s</string>
   <string name="transfer_bottom_tip">Während der Übertragung können Sie weder WLAN noch Bluetooth verwenden. Verlassen Sie diese Seite nicht.</string>
   <string name="transfer_connect_fail_summary">Auf die Taste unten tippen, um eine manuelle Verbindung herzustellen</string>
-  <string name="transfer_finish_bottom_tip">Wenn Sie Ihr altes Gerät nicht mehr verwenden, können Sie alle Daten auf dem Gerät löschen, nachdem Sie bestätigt haben, dass alle wichtigen Elemente erfolgreich übertragen wurden.</string>
+  <string name="transfer_finish_bottom_tip">Wenn Sie Ihr altes Gerät nicht mehr verwenden, können Sie alle Daten auf dem Gerät löschen, wenn Sie bestätigt haben, dass alle wichtigen Elemente erfolgreich übertragen wurden.</string>
   <string name="transfer_finish_summary">Übertragen %1$s (%2$s)</string>
   <string name="transfer_lose_connect_summary">Sieht aus, als wäre die Verbindung unterbrochen worden. Verbindung wieder herstellen.</string>
   <string name="transfer_lose_connect_title">Verbindung wurde unterbrochen</string>

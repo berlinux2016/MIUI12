@@ -416,7 +416,7 @@
   <string name="shut_down_keep_screen">Bildschirm bleibt nicht eingeschaltet</string>
   <string name="shutdown_alarm_alert_enable_summary">Standby-Wecker werden mindestens 10 Minuten nach dem Ausschalten des Geräts ausgelöst</string>
   <string name="shutdown_alarm_alert_title">Standby-Wecker</string>
-  <string name="shutdown_alarm_disable_summary">Wecker wird nicht ausgelöst, nachdem das Gerät ausgeschaltet wurde</string>
+  <string name="shutdown_alarm_disable_summary">Wecker wird nicht ausgelöst, wenn das Gerät ausgeschaltet wurde</string>
   <string name="shutdown_alarm_enable_summary">Wecker wird ausgelöst, wenn er für mindestens 10 Minuten nach dem Ausschalten des Geräts eingestellt ist</string>
   <string name="shutdown_alarm_title">Standby-Wecker</string>
   <string name="silent_alarm_summary">Lautlosmodus</string>

@@ -2029,7 +2029,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="setting_disable">Aus</string>
   <string name="setting_fav_authorize">Zugriff auf alle Favoriten auf Ihrem Gerät erlauben</string>
   <string name="setting_fav_notification">Benachrichtigen, wenn etwas zu den Favoriten hinzugefügt wird</string>
-  <string name="setting_fav_remove_content">Karte wird gelöscht, nachdem Sie den Zugriff auf Favoriten eingeschränkt haben. Trotzdem einschränken?</string>
+  <string name="setting_fav_remove_content">Karte wird gelöscht, wenn Sie den Zugriff auf Favoriten einschränken. Trotzdem einschränken?</string>
   <string name="setting_fav_remove_neg">Abbrechen</string>
   <string name="setting_fav_remove_posi">Einschränken</string>
   <string name="setting_fav_remove_title">Einschränken</string>

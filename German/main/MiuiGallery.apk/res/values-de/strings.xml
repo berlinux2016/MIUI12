@@ -463,7 +463,7 @@
   <string name="clear_dup_medias">Doppelte Fotos bereinigen</string>
   <string name="clear_dup_success">Erfolgreich bereinigt</string>
   <string name="clear_dup_tip">Löschen doppelter Fotos</string>
-  <string name="clear_local_photo_direction">Nachdem Sie die Fotos lokal gelöscht haben，sind die Originale noch immer in der Xiaomi Cloud gesichert</string>
+  <string name="clear_local_photo_direction">Wenn Sie die Fotos lokal gelöscht haben，sind die Originale noch immer in der Xiaomi Cloud gesichert</string>
   <string name="clear_thumbnail_cache">Vorschau-Cache leeren</string>
   <string name="clear_thumbnail_cache_confirm">Alle Vorschaubilder im Browsercache werden gelöscht</string>
   <string name="clear_thumbnail_cache_summary">Vorschaubilder im Browserscache werden gelöscht</string>

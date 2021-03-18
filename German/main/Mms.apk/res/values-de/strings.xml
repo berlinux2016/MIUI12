@@ -905,8 +905,8 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="rcs_setting">5G Messaging-Einstellungen</string>
   <string name="rcs_setting_tips">Sie können alternative Zustellmethoden in den Nachrichteneinstellungen ändern.</string>
   <string name="rcs_silence_message">Benachrichtigungen über stumme Nachrichten</string>
-  <string name="rcs_summary_auto_resend_mms">5G-Multimedianachrichten in MMS umwandeln, nachdem die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
-  <string name="rcs_summary_auto_resend_sms">5G-Textnachrichten in SMS umwandeln, nachdem die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
+  <string name="rcs_summary_auto_resend_mms">5G-Multimedianachrichten in MMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
+  <string name="rcs_summary_auto_resend_sms">5G-Textnachrichten in SMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
   <string name="rcs_summary_silence_message">Benachrichtigungen über stumme Nachrichten, wenn der Desktop-Client arbeitet</string>
   <string name="rcs_unavailable">5G Messaging jetzt nicht möglich. Die China Mobile SIM-Karte ist nicht Ihre Standard-Datenkarte.</string>
   <string name="rcs_up_not_online">5G Messaging ist offline. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

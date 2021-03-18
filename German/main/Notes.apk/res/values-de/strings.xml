@@ -132,7 +132,7 @@
   <string name="dialog_button_confirm_delete">Löschen</string>
   <string name="dialog_button_continue_work">Fortfahren</string>
   <string name="dialog_button_move">Verschieben</string>
-  <string name="dialog_privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, stoppt die App die Datenerfassung und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Autorisierung trotzdem widerrufen? Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, bevor Sie die Autorisierung für Cloud-Dienste widerrufen.</string>
+  <string name="dialog_privacy_revoke_tips">Wenn Sie die Autorisierung widerrufen, stoppt die App die Datenerfassung und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Autorisierung trotzdem widerrufen? Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, bevor Sie die Autorisierung für Cloud-Dienste widerrufen.</string>
   <string name="dialog_share_as_pic">Notiz als Bild teilen</string>
   <string name="dialog_share_as_text">Notiz als Text teilen</string>
   <string name="dlg_btn_set_password">Passwort festlegen</string>

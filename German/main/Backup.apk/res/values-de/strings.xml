@@ -562,7 +562,7 @@ Mindestens %s freigeben."</string>
   <string name="trans_install_guide_scan_install_tip">Diesen QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
   <string name="trans_install_guide_step1_content">QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
   <string name="trans_install_guide_step1_title">Schritt 1</string>
-  <string name="trans_install_guide_step2_content">Nachdem die Installation abgeschlossen ist, tippen Sie unten auf \"Start\".</string>
+  <string name="trans_install_guide_step2_content">Wenn die Installation abgeschlossen ist, tippen Sie unten auf \"Start\".</string>
   <string name="trans_install_guide_step2_title">Schritt 2</string>
   <string name="trans_intro_desc_1">Auf einem Mi Telefon mit WLAN verbinden und auf \"Ich bin der Empfänger\" tippen. Wählen Sie Ihr iOS-Gerät, melden Sie sich bei der iCloud an und importieren Sie Daten.</string>
   <string name="trans_intro_desc_3">Übertragung abbrechen, Mi Mover beenden und neu beginnen. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>

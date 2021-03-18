@@ -733,7 +733,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
   <string name="resource_comment_footer">Leere Kommentare werden nicht angezeigt</string>
   <string name="resource_comment_good_comments">Positiv</string>
   <string name="resource_comment_invalid">Zur Bewertung bitte Sterne berühren</string>
-  <string name="resource_comment_limit">Nicht so schnell! Kommen Sie wieder, nachdem Sie dieses Thema etwas länger verwendet haben.</string>
+  <string name="resource_comment_limit">Nicht so schnell! Kommen Sie wieder, wenn Sie dieses Thema etwas länger verwendet haben.</string>
   <string name="resource_comment_loading_list">Laden…</string>
   <string name="resource_comment_name_default">Spitzname</string>
   <string name="resource_comment_no_average_score">n/a</string>
