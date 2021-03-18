@@ -626,7 +626,7 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
   <string name="cit_tool_no_repeat">Keine Wiederholung!</string>
   <string name="cit_tool_not_support">Nicht unterstützt</string>
   <string name="cit_tool_opt_fail_info_notify">Opt fehlgeschlagen, bitte Telefon neustarten, um es erneut zu versuchen.</string>
-  <string name="cit_tool_opt_standby">Option Standby ...</string>
+  <string name="cit_tool_opt_standby">Option Standby…</string>
   <string name="cit_tool_prx_drx_select_mode">Modus wählen:</string>
   <string name="cit_tool_prx_drx_select_rat">RAT wählen:</string>
   <string name="cit_tool_prx_drx_start_test">Test starten</string>
