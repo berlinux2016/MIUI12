@@ -700,7 +700,7 @@ Hallo, bitte überprüfen Sie, ob das App-Kennwort an ist. Wenn es an ist, gehen
   <string name="mail_login_help_title">Beschreibung E-Mail-Passwort oder Client-Verifizierungscode:</string>
   <string name="mail_outlook_login_tips">Gemäß den Microsoft-Anforderungen müssen Sie das Passwort auf der Microsoft Autorisierungsseite eingeben.</string>
   <string name="mail_outlook_oauth_login">"Sicherere Oauth-Anmeldung verwenden
-    (Persönliche Outlook-Benutzer können ihre Kalender nicht synchronisieren, wenn sie sich mit OAuth anmelden)".</string>
+(Persönliche Outlook-Benutzer können ihre Kalender nicht synchronisieren, wenn sie sich mit OAuth anmelden)".</string>
   <string name="mail_outlook_psw_login">Mit Passwort anmelden</string>
   <string name="mail_search_lab">Suchbegriff</string>
   <string name="mailbox_list_account_selector_combined_view">Kombiniertes Konto</string>

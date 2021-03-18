@@ -37,7 +37,8 @@
   <string name="agenda">Erinnerungen</string>
   <string name="agenda_add_event">Eintrag hinzufügen</string>
   <string name="agenda_add_text">+ Zeitplan hinzufügen</string>
-  <string name="agenda_all_day">Ganztägig</string>
+  <string name="agenda_all_day">"Ganz
+tägig"</string>
   <string name="agenda_anniversary_subtitle">| %1$s</string>
   <string name="agenda_assistant">Termin</string>
   <string name="agenda_assistant_account_num">Konto</string>
