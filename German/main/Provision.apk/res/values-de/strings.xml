@@ -82,7 +82,7 @@
   <string name="game_introduction">Das Spiele-Plugin ermöglicht Ihnen, sich anzumelden, Bestellungen zu erstellen, Zahlungen abzuschließen, Coupons zu verwenden und an Werbeveranstaltungen teilzunehmen.</string>
   <string name="google_service_introduction">Um normal arbeiten zu können, muss Google Play eine Internetverbindung herstellen, auf Ihren Standort zugreifen, SMS und MMS senden, Audio aufzeichnen, Anrufe tätigen und auf Kalendertermine, Anrufliste, Sensoren, Speicher, Kamera, Geräteinformationen und Konten zugreifen.</string>
   <string name="home_settings_miui_home">Klassisch</string>
-  <string name="home_settings_poco_launcher">App Drawer</string>
+  <string name="home_settings_poco_launcher">App-Übersicht</string>
   <string name="home_settings_title">Standard-Launcher auswählen</string>
   <string name="ime_privacy_policy">Datenschutzerklärung der ausgewählten Tastatur</string>
   <string name="ime_privacy_policy_no_network">Keine Netzwerkverbindung. Sehen Sie sich die Datenschutzerklärung für die Tastatur auf %s an</string>
