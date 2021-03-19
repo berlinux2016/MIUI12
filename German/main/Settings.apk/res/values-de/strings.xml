@@ -95,7 +95,7 @@ Nicht alle Apps unterstützen diese Einstellung."</string>
   <string name="accessibility_disable_animations">Animationen entfernen</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
-  <string name="accessibility_display_inversion_preference_subtitle">Kann die Leistung beeinträchtigen</string>
+  <string name="accessibility_display_inversion_preference_subtitle">Wenn \"Farbumkehr\" aktiviert ist, werden helle Bildschirme dunkel angezeigt.&lt;br/>&lt;br/> Hinweis: &lt;ol> &lt;li> Dunkle Farben werden hell.&lt;/li> &lt;li> Das führt zu einer veränderten Wiedergabe der Farben in Medien und Bildern.&lt;/li> &lt;li> Im Modus \"Dunkles Design\" wird lediglich der Hintergrund dunkel angezeigt. \"Dunkles Design\" funktioniert nur in unterstützten Apps. \"Farbumkehr\" hingegen funktioniert in allen Apps.&lt;/li> &lt;/ol></string>
   <string name="accessibility_display_inversion_preference_title">Farbumkehrung</string>
   <string name="accessibility_display_inversion_switch_title">Farbumkehr verwenden</string>
   <string name="accessibility_display_title">Bildschirm</string>
@@ -222,14 +222,14 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
   <string name="accessibility_shortcut_service_on_lock_screen_title">Am Sperrbildschirm erlauben</string>
   <string name="accessibility_shortcut_service_title">Verknüpfungsdienst</string>
   <string name="accessibility_shortcut_settings">Kurzbefehl-Einstellungen</string>
-  <string name="accessibility_shortcut_title">%1$s-Kurzbefehl</string>
+  <string name="accessibility_shortcut_title">%1$s-Verknüpfung</string>
   <string name="accessibility_shortcut_triple_tap_keyword">Bildschirm dreifach antippen</string>
-  <string name="accessibility_shortcut_type_hardware">Lautstärketasten halten</string>
+  <string name="accessibility_shortcut_type_hardware">Lautstärketasten gedrückt halten</string>
   <string name="accessibility_shortcut_type_software">Eingabehilfentaste</string>
   <string name="accessibility_shortcut_type_software_gesture">2-Finger-Hochwischen von unten</string>
   <string name="accessibility_shortcut_type_triple_tap">Bildschirm dreifach antippen</string>
   <string name="accessibility_summary_shortcut_disabled">Aus</string>
-  <string name="accessibility_summary_shortcut_enabled">Kurzbefehl an</string>
+  <string name="accessibility_summary_shortcut_enabled">Verknüpfung an</string>
   <string name="accessibility_summary_source">Zur Verfügung gestellt von %s</string>
   <string name="accessibility_summary_state_disabled">AUS</string>
   <string name="accessibility_summary_state_enabled">AN</string>
@@ -257,7 +257,7 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
   <string name="accessibility_touch_vibration_title">Vibration bei Berührung</string>
   <string name="accessibility_tutorial_dialog_button">Verstanden</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Um diesen Dienst ein- oder auszuschalten, tippen Sie auf die Eingabehilfetaste %s unten auf Ihrem Bildschirm.
+  <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Rand Ihres Bildschirms..
 
 Um zwischen Diensten zu wechseln, halten Sie die Eingabehilfentaste gedrückt."</string>
   <string name="accessibility_tutorial_dialog_message_gesture">"Um diese Funktion zu verwenden, wischen Sie vom unteren Bildschirmrand mit 2 Fingern hoch.
