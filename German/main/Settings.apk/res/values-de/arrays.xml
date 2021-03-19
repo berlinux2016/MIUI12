@@ -1272,7 +1272,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Ims bevorzugt</item>
     <item>WLAN</item>
     <item>Mobile</item>
-    <item>Nur WLAN</item>
+    <item>WLAN bevorzugt</item>
     </string-array>
   <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
     <item>WLAN</item>
