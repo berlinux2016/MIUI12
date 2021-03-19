@@ -7099,7 +7099,9 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="security_settings_fingerprint_enroll_onboard_title">Fingerabdruck einrichten</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Heben Sie Ihren Finger ständig an, um die verschiedenen Teile Ihres Fingerabdrucks hinzuzufügen</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">Anheben, dann wieder berühren</string><?xml version='1.0' encoding='UTF-8'?>
-<resources>
+
+<!-- strings-de-v29 -->
+
   <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
   <string name="accessibility_autoclick_default_title">Aus</string>
   <string name="accessibility_autoclick_description">Automatische Klicks funktionieren mit einer verbundenen Maus. Sie können festlegen, dass der Mauszeiger automatisch klickt, wenn er sich für eine bestimmte Zeit nicht bewegt.</string>
