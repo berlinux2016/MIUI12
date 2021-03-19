@@ -182,7 +182,7 @@
   <string name="settings_feature">Besondere Funktionen</string>
   <string name="settings_feature_characteristics">Besondere Funktionen</string>
   <string name="settings_feature_characteristics_summary_1">Text auf dem Telefon kopieren und ihn auf dem Computer einfügen, Bilder hinzufügen und Dokumente synchronisieren und bearbeiten.</string>
-  <string name="settings_feature_characteristics_summary_2">Elemente ziehen und ablegen, um sie auf Ihr Gerät zu übertragen.</string>
+  <string name="settings_feature_characteristics_summary_2">Elemente per Drag &amp; Drop auf Ihr Gerät übertragen.</string>
   <string name="settings_feature_characteristics_summary_3">Ihr Telefon einfach in die Nähe eines zuvor verbundenen Computers bringen, um die Verbindung automatisch wieder herzustellen.</string>
   <string name="settings_feature_characteristics_title_1">Nahtlose Synchronisation und Übergabe</string>
   <string name="settings_feature_characteristics_title_2">Dateien übertragen</string>

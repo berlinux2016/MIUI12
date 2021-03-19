@@ -4968,7 +4968,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden."</string>
   <string name="model_hardware_summary">Modell: %1$s; Hardware: %2$s</string>
   <string name="model_info">Modell</string>
   <string name="model_name">Modell</string>
-  <string name="model_number">Geräteausführung</string>
+  <string name="model_number">Modell</string>
   <string name="model_summary">Modell: %1$s</string>
   <string name="modern_control_center_desc">Statusleiste links herunterziehen, um Benachrichtigungen anzuzeigen. Statusleiste rechts herunterziehen, um das Kontrollzentrum zu öffnen.</string>
   <string name="modern_control_center_title">Neue Version</string>

@@ -310,7 +310,7 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="international_details_humidity">LUFTFEUCHTIGKEIT</string>
   <string name="international_details_humidity_title">LUFTFEUCHTIGKEIT</string>
   <string name="international_details_pressure_title">LUFTDRUCK</string>
-  <string name="international_details_real_feel_title">REAL FEAL®</string>
+  <string name="international_details_real_feel_title">REAL FEEL®</string>
   <string name="international_details_uv_index_title">UV-INDEX</string>
   <string name="international_details_wind_title">WIND</string>
   <string name="international_version_first_start_network_msg">"Durch die Nutzung dieses Produkts stimmen Sie Xiaomi's %1$s zu. Diese App muss sich mit dem Netzwerk verbinden und die von Ihnen genannten Ortsinformationen hochladen, um die entsprechenden Ortswetterdaten zu erhalten. Tippen Sie \"Zustimmen\", um fortzufahren."</string>
