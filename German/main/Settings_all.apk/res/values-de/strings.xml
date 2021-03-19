@@ -10195,10 +10195,6 @@ Einstellungen aktualisieren auf:
   
   
   
-  <string name="notification_people_strip_title">Leiste mit den neuesten Unterhaltungen anzeigen</string>
-  <string name="notification_priority_title">Priorität</string>
-  <string name="notification_switch_label">Alle Benachrichtigungen von \"%1$s\"</string>
-  <string name="notification_vibrate_title">Vibration</string>
   <string name="notifications_bubble_setting_description">Einige Unterhaltungen erscheinen als unverankerte Symbole über anderen Apps</string>
   <string name="notifications_bubble_setting_on_summary">Ein / Unterhaltungen können als unverankerte Symbole angezeigt werden</string>
   <string name="notifications_bubble_setting_title">Zulassen, dass Apps Blasen anzeigen</string>
@@ -10359,41 +10355,13 @@ Ihr Telefon kann eventuell auch von jemandem entsperrt werden, der Ihnen sehr ä
   <string name="sound_mode">Lautlosmodus &amp; DND</string>
   <string name="sound_settings_example_summary">Lautstärke bei Klingeln und Benachrichtigungseingang auf 80 % eingestellt</string>
   <string name="sound_settings_summary">Lautstärke bei Klingeln und Benachrichtigungseingang auf %1$s %% eingestellt</string>
-  <string name="storage_category">Speicher</string>
-  <string name="storage_type_external">externer Speicher</string>
-  <string name="storage_type_internal">interner Speicher</string>
-  <string name="style_suggestion_summary">Verschiedene Designs und Hintergründe ausprobieren</string>
-  <string name="style_suggestion_title">Telefon personalisieren</string>
-  <string name="suggestion_button_close">Schließen</string>
+
+  
+
+
   <string name="system_default_app_subtext">Systemstandardeinstellung</string>
-  <string name="tap_to_renew_subscription_and_connect">Tippen, um das Abo zu verlängern und eine Verbindung herzustellen</string>
-  <string name="tether_settings_summary_all">Hotspot, USB, Bluetooth, Ethernet</string>
-  <string name="tether_settings_summary_bluetooth_and_ethernet">Bluetooth, Ethernet</string>
-  <string name="tether_settings_summary_bluetooth_tethering_only">Nur Bluetooth</string>
-  <string name="tether_settings_summary_ethernet_tethering_only">Nur Ethernet</string>
-  <string name="tether_settings_summary_hotspot_and_bluetooth">Hotspot, Bluetooth</string>
-  <string name="tether_settings_summary_hotspot_and_bluetooth_and_ethernet">Hotspot, Bluetooth, Ethernet</string>
-  <string name="tether_settings_summary_hotspot_and_ethernet">Hotspot, Ethernet</string>
-  <string name="tether_settings_summary_hotspot_and_usb">Hotspot, USB</string>
-  <string name="tether_settings_summary_hotspot_and_usb_and_bluetooth">Hotspot, USB, Bluetooth</string>
-  <string name="tether_settings_summary_hotspot_and_usb_and_ethernet">Hotspot, USB, Ethernet</string>
-  <string name="tether_settings_summary_hotspot_only">Nur Hotspot</string>
-  <string name="tether_settings_summary_off">Internetverbindung wird nicht für andere Geräte freigegeben</string>
-  <string name="tether_settings_summary_usb_and_bluetooth">USB, Bluetooth</string>
-  <string name="tether_settings_summary_usb_and_bluetooth_and_ethernet">USB, Bluetooth, Ethernet</string>
-  <string name="tether_settings_summary_usb_and_ethernet">USB, Ethernet</string>
-  <string name="tether_settings_summary_usb_tethering_only">Nur USB</string>
   <string name="tethering_footer_info_sta_ap_concurrency">Mithilfe der Hotspot- und Tethering-Funktion können Sie anderen Geräten erlauben, deine Internetverbindung (WLAN oder mobile Daten) mitzunutzen. Es gibt auch Apps für das Erstellen eines Hotspots, damit Inhalte mit Geräten in der Nähe geteilt werden können.</string>
-  <string name="tethering_interface_options">Tethering</string>
-  <string name="time_zen_mode_turn_off">Zeit ausschalten</string>
   <string name="time_zen_mode_turn_on">Zeit einschalten</string>
-  <string name="twilight_mode_launch_location">Location settings</string>
-  <string name="twilight_mode_location_off_dialog_message">Der Standort des Geräts wird benötigt, um Ihre Sonnenuntergangs- und Sonnenaufgangszeiten zu bestimmen.</string>
-  <string name="unlock_set_unlock_pin_summary">%1$d-%2$d Zahlen eingeben, um das Gerät zu entsperren</string>
-  <string name="updating_settings">Einstellungen aktualisieren…</string>
-  <string name="uplmn_list_setting_add_plmn">Neues PLMN</string>
-  <string name="uplmn_settings_summary">Definieren Sie die bevorzugten PLMNs in Prioritätsreihenfolge</string>
-  <string name="uplmn_settings_title">Benutzergesteuertes PLMN</string>
   <string name="usage_state_app_usage_tip_title">Bildschirmzeit zwischen %1$d:00 und %2$d:00</string>
   <string name="usage_state_device_noti_today_tip_title">Benachrichtigungen zwischen %1$d:00 und %2$d:00</string>
   <string name="usage_state_device_unlock_today_tip_title">Gerät entsperrt zwischen %1$d:00 und %2$d:00</string>
@@ -10402,18 +10370,6 @@ Ihr Telefon kann eventuell auch von jemandem entsperrt werden, der Ihnen sehr ä
   <string name="usage_state_work_day_hour_minute">Wochentags: %1$d Std %2$d min</string>
   <string name="usagestats_device_notification_des_reset">Heutiges Limit: %1$s | %2$s übrig</string>
   <string name="usagestats_device_timeout_des">Sie haben Ihr Gerät heute für %1$d Sdt %2$d Min verwendet. Ruhen Sie sich etwas aus!</string>
-  <string name="use_open_wifi_automatically_title">Mit öffentlichen Netzwerken verbinden</string>
-  <string name="user_certificate">VPN- &amp; App-Nutzerzertifikat</string>
-  <string name="vibrate_when_ringing_option_always_vibrate">Immer vibrieren</string>
-  <string name="vibrate_when_ringing_option_never_vibrate">Nie vibrieren</string>
-  <string name="vibrate_when_ringing_option_ramping_ringer">Erst vibrieren, dann immer lauter klingeln</string>
-  <string name="view_saved_network">Wähle zum Ansehen ein gespeichertes Netzwerk aus</string>
-  <string name="virtual_keyboard_category">Bildschirmtastatur</string>
-  <string name="voicemail_number_not_set">&lt;Nicht festgelegt></string>
-  <string name="volte_5G_limited_text">"Dadurch wird auch deine 5G-Verbindung deaktiviert.
-Während eines Sprachanrufs können Sie das Internet nicht nutzen und manche Apps funktionieren möglicherweise nicht."</string>
-  <string name="volte_5G_limited_title">VoLTE deaktivieren?</string>
-  <string name="volume_adjustment">Lautstärke einstellen</string>
   <string name="wifi_band_60ghz">60 GHz</string>
   <string name="wifi_priority_changed">Alter Wert %1$s | Neuer Wert %2$s</string>
 </resources>
