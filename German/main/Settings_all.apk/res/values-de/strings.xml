@@ -257,7 +257,7 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
   <string name="accessibility_touch_vibration_title">Vibration bei Berührung</string>
   <string name="accessibility_tutorial_dialog_button">Verstanden</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Rand Ihres Bildschirms..
+  <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Bildschirmrand.
 
 Um zwischen Diensten zu wechseln, halten Sie die Eingabehilfentaste gedrückt."</string>
   <string name="accessibility_tutorial_dialog_message_gesture">"Um diese Funktion zu verwenden, wischen Sie vom unteren Bildschirmrand mit 2 Fingern hoch.
@@ -1042,7 +1042,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
   <string name="battery_saver_seekbar_title">Bei %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Einschalten</string>
   <string name="battery_saver_sticky_description_new">Stromsparen schaltet sich aus, wenn Ihr Telefon bei %1$s ist</string>
-  <string name="battery_saver_sticky_title_new">Ausschalten, wenn aufgeladen</string>
+  <string name="battery_saver_sticky_title_new">Bei voller Ladung ausschalten</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
   <string name="battery_saver_turn_on_automatically_pct">Bei %1$s Akku</string>
   <string name="battery_saver_turn_on_automatically_title">Automatisch aktivieren</string>
@@ -1629,7 +1629,6 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="cached_apps_freezer">Ausführung für Apps im Cache aussetzen</string>
   <string name="cached_apps_freezer_disabled">Deaktiviert</string>
   <string name="cached_apps_freezer_enabled">Aktiviert</string>
-  <string name="cached_apps_freezer_device_default">Gerätestandard</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Ihr Gerät muss neu gestartet werden, damit diese Änderung wirksam wird. Jetzt neu starten oder abbrechen.</string>
   <string name="calendar_remind">Termine</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
@@ -6646,7 +6645,7 @@ Wenn Sie Ihr Gerät sicher mit jemandem teilen möchten, versuchen Sie stattdess
 App-Pinning verwenden: \u0009
 1.\u0009App-Pinning einschalten \u0009
 2.\u0009Übersicht öffnen \u0009
-3.\u0009Auf das App-Symbol am oberen Rand des Bildschirms tippen, dann auf Anheften"</string>
+3.\u0009Auf das App-Symbol am oberen Bildschirmrand tippen, dann auf Anheften"</string>
   <string name="screen_pinning_title">Bildschirm ist angepinnt</string>
   <string name="screen_pinning_unlock_none">Gerät beim Unpinning sperren</string>
   <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>
@@ -9883,8 +9882,8 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_add_time_rule">Zeitregel hinzufügen</string>
   <string name="zen_mode_alarm_use">Töne</string>
   <string name="zen_mode_alarms">Wecker</string>
-  <string name="zen_mode_alarms_list">Wecker</string>
-  <string name="zen_mode_alarms_list_first">Wecker</string>
+  <string name="zen_mode_alarms_list">Alarme</string>
+  <string name="zen_mode_alarms_list_first">Alarme</string>
   <string name="zen_mode_alarms_summary">Von Timern, Alarmen, Sicherheitssystemen und anderen Apps</string>
   <string name="zen_mode_all_callers">Jeder</string>
   <string name="zen_mode_all_calls_summary">Alle Anrufe können Sie erreichen</string>
@@ -10173,6 +10172,7 @@ Einstellungen aktualisieren auf:
   <string name="zone_menu_by_region">Nach Region wählen</string>
   <string name="zone_time_type_dst">Sommerzeit</string>
   <string name="zone_time_type_standard">Standardzeit</string>
+
   
   
 <!-- v30 -->
