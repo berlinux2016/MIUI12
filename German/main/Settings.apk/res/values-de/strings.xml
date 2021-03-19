@@ -257,7 +257,7 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
   <string name="accessibility_touch_vibration_title">Vibration bei Berührung</string>
   <string name="accessibility_tutorial_dialog_button">Verstanden</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Rand Ihres Bildschirms..
+  <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Bildschirmrand.
 
 Um zwischen Diensten zu wechseln, halten Sie die Eingabehilfentaste gedrückt."</string>
   <string name="accessibility_tutorial_dialog_message_gesture">"Um diese Funktion zu verwenden, wischen Sie vom unteren Bildschirmrand mit 2 Fingern hoch.
@@ -6645,7 +6645,7 @@ Wenn Sie Ihr Gerät sicher mit jemandem teilen möchten, versuchen Sie stattdess
 App-Pinning verwenden: \u0009
 1.\u0009App-Pinning einschalten \u0009
 2.\u0009Übersicht öffnen \u0009
-3.\u0009Auf das App-Symbol am oberen Rand des Bildschirms tippen, dann auf Anheften"</string>
+3.\u0009Auf das App-Symbol am oberen Bildschirmrand tippen, dann auf Anheften"</string>
   <string name="screen_pinning_title">Bildschirm ist angepinnt</string>
   <string name="screen_pinning_unlock_none">Gerät beim Unpinning sperren</string>
   <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>

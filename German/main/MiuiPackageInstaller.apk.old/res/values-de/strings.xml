@@ -391,7 +391,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_message_staging_0">"Richte App aus   "</string>
   <string name="miui_message_staging_1">"Richte App aus.  "</string>
   <string name="miui_message_staging_2">"Richte App aus.. "</string>
-  <string name="miui_message_staging_3">Richte App aus...</string>
+  <string name="miui_message_staging_3">Richte App aus…</string>
   <string name="miui_no_perms">Keine Berechtigungen erforderlich</string>
   <string name="miui_not_uninstall_system_app">Kann System-Apps nicht deinstallieren</string>
   <string name="miui_other_relative">Andere</string>
@@ -412,7 +412,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_virus_scanning_0">"Scannen   "</string>
   <string name="miui_virus_scanning_1">"Scannen.  "</string>
   <string name="miui_virus_scanning_2">"Scannen.. "</string>
-  <string name="miui_virus_scanning_3">Scannen...</string>
+  <string name="miui_virus_scanning_3">Scannen…</string>
   <string name="miui_virus_title">Hohes Risiko</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Halten Sie mobile Daten immer aktiv, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung)</string>

@@ -219,7 +219,7 @@
   <string name="float_note_empty">Keine Notizen hier</string>
   <string name="float_note_title">Notizen</string>
   <string name="float_todo_guide_cancel">Abbrechen</string>
-  <string name="float_todo_guide_message">Mit einer Startbildschirm-Verknüpfung können Sie vom Rand des Bildschirms wischen, um Aufgaben anzuzeigen und zu erstellen. Verknüpfung jetzt erstellen?</string>
+  <string name="float_todo_guide_message">Mit einer Startbildschirm-Verknüpfung können Sie vom Bildschirmrand wischen, um Aufgaben anzuzeigen und zu erstellen. Verknüpfung jetzt erstellen?</string>
   <string name="float_todo_guide_message_v2">Mit Gesten können Sie Aufgaben anzeigen und erstellen, indem Sie vom Bildschirmrand wischen. Sie können diese Funktion in den Einstellungen ein- und ausschalten.</string>
   <string name="float_todo_guide_ok">Erstellen</string>
   <string name="float_todo_guide_ok_v2">Einschalten</string>
