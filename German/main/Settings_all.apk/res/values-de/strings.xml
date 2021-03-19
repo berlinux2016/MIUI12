@@ -10195,64 +10195,13 @@ Einstellungen aktualisieren auf:
   
   
   
-  <string name="notifications_bubble_setting_description">Einige Unterhaltungen erscheinen als unverankerte Symbole über anderen Apps</string>
-  <string name="notifications_bubble_setting_on_summary">Ein / Unterhaltungen können als unverankerte Symbole angezeigt werden</string>
-  <string name="notifications_bubble_setting_title">Zulassen, dass Apps Blasen anzeigen</string>
-  <string name="open_supported_links_footer">App gibt an, die folgenden Links zu verarbeiten:</string>
-  <string name="other_conversations">Andere Gespräche</string>
-  <string name="other_conversations_summary">Unterhaltungen, an denen Änderungen vorgenommen wurden</string>
-  <string name="overlay_settings_summary">Apps, die über anderen Apps angezeigt werden können, erlauben, Einstellungsmenüs zu überlagern</string>
-  <string name="overlay_settings_title">Bildschirmüberlagerungen unter Einstellungen zulassen</string>
-  <string name="peak_refresh_rate_summary">Erhöht die Aktualisierungsrate für einige Inhalte automatisch von 60 auf 90 Hz. Erhöht den Akkuverbrauch.</string>
-  <string name="peak_refresh_rate_title">Reibungslose Anzeige</string>
-  <string name="permit_manage_external_storage">Zugriff zum Verwalten aller Dateien zulassen</string>
-  <string name="personal_profile_app_subtext">Persönlich</string>
-  <string name="platform_compat_dashboard_summary">Änderungen bei der Kompatibilität von Apps festlegen</string>
-  <string name="platform_compat_dashboard_title">Änderungen der Kompatibilität von Apps</string>
+
+
+
   <string name="platform_compat_default_disabled_title">Standardmäßig deaktivierte Änderungen</string>
   <string name="platform_compat_default_enabled_title">Standardmäßig aktivierte Änderungen</string>
-  <string name="plmn_failure_radio_off">Auswahl eines Netzwerkfehlers aufgrund von Funkausfall oder Nichtverfügbarkeit</string>
-  <string name="power_charging_duration">%1$s – %2$s bis zur Aufladung</string>
-  <string name="power_menu_cards_passes">Karten und Tickets anzeigen</string>
-  <string name="power_menu_cards_passes_device_controls">Karten, Tickets und Gerätesteuerung anzeigen</string>
-  <string name="power_menu_device_controls">Gerätesteuerung anzeigen</string>
-  <string name="power_menu_lock_screen_category">Sperrbildschirm</string>
-  <string name="power_menu_none">Keine Inhalte anzeigen</string>
-  <string name="power_menu_privacy">Sensible Inhalte</string>
-  <string name="power_menu_privacy_hide">Karten und Steuerelemente bei aktiviertem Sperrbildschirm ausblenden</string>
-  <string name="power_menu_privacy_not_secure">Leg zuerst eine Bildschirmsperre fest</string>
-  <string name="power_menu_privacy_show">Karten und Steuerelemente bei aktiviertem Sperrbildschirm anzeigen</string>
-  <string name="power_menu_privacy_show_cards">Karten anzeigen, wenn gesperrt</string>
-  <string name="power_menu_privacy_show_controls">Auf dem Sperrbildschirm werden Steuerelemente angezeigt</string>
-  <string name="power_menu_setting_name">Ein-/Aus-Menü</string>
-  <string name="power_menu_setting_title">Ein-/Aus-Menü</string>
-  <string name="power_remaining_charging_duration_only">Noch %1$s bis zur Aufladung</string>
-  <string name="power_remaining_duration_only_shutdown_imminent">Telefon wird eventuell bald ausgeschaltet</string>
-  <string name="power_remaining_duration_shutdown_imminent">Telefon wird eventuell bald ausgeschaltet (%1$s)</string>
-  <string name="power_remaining_less_than_duration">Weniger als %1$s verbleibend (%2$s)</string>
-  <string name="power_remaining_less_than_duration_only">Weniger als %1$s verbleibend</string>
-  <string name="power_remaining_more_than_subtext">Mehr als %1$s verbleibend (%2$s)</string>
-  <string name="power_remaining_only_more_than_subtext">Mehr als %1$s verbleibend</string>
-  <string name="power_suggestion_battery_run_out">Akku ist voraussichtlich um %1$s leer</string>
-  <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">Bevorzugter Netzmodus: LTE/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_cdma_evdo_gsm_wcdma_summary">Bevorzugter Netzmodus: NR/LTE/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_cdma_evdo_summary">Bevorzugter Netzmodus: NR/LTE/CDMA/EvDo</string>
-  <string name="preferred_network_mode_nr_lte_gsm_wcdma_summary">Bevorzugter Netzmodus: NR/LTE/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_summary">Bevorzugter Netzmodus: NR/LTE</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Bevorzugter Netzmodus: NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_gsm_summary">Bevorzugter Netzmodus: NR/LTE/TDSCDMA/GSM</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_gsm_wcdma_summary">Bevorzugter Netzmodus: NR/LTE/TDSCDMA/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_summary">Bevorzugter Netzmodus: NR/LTE/TDSCDMA</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_wcdma_summary">Bevorzugter Netzmodus: NR/LTE/TDSCDMA/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_wcdma_summary">Bevorzugter Netzmodus: NR/LTE/WCDMA</string>
-  <string name="preferred_network_mode_nr_only_summary">Bevorzugter Netzmodus: nur NR</string>
-  <string name="priority_conversation_count_zero">Gespräche ohne Priorität</string>
-  <string name="private_dns_broken">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
-  <string name="private_dns_mode_on">An</string>
-  <string name="profile_connect_timeout_subtext">Verbindung kann nicht hergestellt werden. Schalte das Gerät aus &amp; und wieder ein.</string>
-  <string name="promote_conversation_summary">Dem Bereich für Unterhaltungen hinzufügen</string>
-  <string name="promote_conversation_title">Dies ist eine Unterhaltung</string>
-  <string name="quick_controls_lower">Gerätesteuerung</string>
+
+
   <string name="quick_settings_media_player">Medienwiederaufnahme</string>
   <string name="quick_settings_media_player_summary">Zeigt den Mediaplayer in den Schnelleinstellungen an und hält ihn an. Erfordert einen Neustart.</string>
 
