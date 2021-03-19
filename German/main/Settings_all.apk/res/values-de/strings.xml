@@ -10180,51 +10180,21 @@ Einstellungen aktualisieren auf:
   <string name="miui_wifi_wakeup_summary">WLAN wird automatisch eingeschaltet, wenn Ihr Gerät gespeicherte Netzwerke in der Nähe erkennt und nach 15 Minuten abgeschaltet, wenn keine Verbindung hergestellt wird.</string>
   <string name="network_2G_only">Nur 2G</string>
   <string name="network_3G_only">Nur 3G</string>
-  
-  
-  <string name="nfc_and_payment_settings_no_payment_installed_summary">Erst eine Zahlungs-App installieren, um die Option verwenden zu können</string>
-  <string name="nfc_and_payment_settings_payment_off_nfc_off_summary">Nicht verfügbar, weil NFC deaktiviert ist</string>
-  <string name="nfc_payment_btn_text_set_deault">Standard festlegen</string>
-  <string name="nfc_payment_btn_text_update">Aktualisieren</string>
-  <string name="nfc_payment_pay_with">An einem Terminal für kontaktloses Bezahlen folgende App nutzen:</string>
-  <string name="nfc_payment_set_default">An einem Terminal für kontaktloses Bezahlen %1$s nutzen</string>
-  <string name="nfc_payment_set_default_instead_of">"An einem Terminal für kontaktloses Bezahlen %1$s nutzen.
-
-Dadurch wird %2$s als Ihre Standard-App für das kontaktlose Bezahlen ersetzt."</string>
-  <string name="nfc_payment_set_default_label">Standard-App für kontaktloses Bezahlen festlegen</string>
-  <string name="nfc_payment_settings_title">Kontaktloses Bezahlen</string>
   <string name="nfc_payment_update_default_label">Standard-App für kontaktloses Bezahlen aktualisieren</string>
+
+
   <string name="nfc_repair_confirm_desc">"Haben Sie mit einem dieser Probleme zu tun?
 %1$d. Sie konnten keine NFC-Karte hinzufügen oder aufladen.
 %2$d. Ihre NFC-Karte hat nicht funktioniert.
 %3$d. Andere NFC-Funktionen werden nicht geladen."</string>
-  <string name="nfc_secure_settings_title">Für NFC muss das Gerät entsperrt werden</string>
-  <string name="no_5g_in_dsds_text">Wenn Sie zwei SIM-Karten verwenden, kann sich dieses Telefon nur mit 4G verbinden. &lt;annotation id=\"url\">Weitere Informationen.&lt;/annotation></string>
-  <string name="notification_access_detail_switch">Benachrichtigungszugriff erlauben</string>
-  <string name="notification_assistant_security_warning_summary">"%1$s kann alle Benachrichtigungen lesen, darunter auch personenbezogene Daten wie Kontaktnamen und eingehende Nachrichten. Außerdem kann die App Benachrichtigungen schließen oder Schaltflächen in Benachrichtigungen verwenden und so z. B. Anrufe entgegennehmen. 
-
-Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funktion zu aktivieren bzw. zu deaktivieren und zugehörige Einstellungen zu ändern."</string>
-  <string name="notification_badging_title">Benachr.punkt auf App-Symbol</string>
-  <string name="notification_channel_summary_priority">Wird oben im Abschnitt für Unterhaltungen angezeigt und erscheint als Blase.</string>
-  <string name="notification_channels">Kategorien</string>
-  <string name="notification_conversation_add_to_home">Zum Startbildschirm hinzufügen</string>
-  <string name="notification_conversation_important">Wichtig</string>
-  <string name="notification_conversation_summary_low">Ohne Ton oder Vibration und erscheint im Gesprächsteil weiter unten</string>
-  <string name="notification_history">Benachrichtigungsverlauf</string>
-  <string name="notification_history_dismiss">Kürzlich geschlossen</string>
-  <string name="notification_history_off_summary">Benachrichtigungsverlauf aktivieren, um neue und zurückgestellte Benachrichtigungen zu sehen</string>
-  <string name="notification_history_off_title_extended">Benachrichtigungsverlauf ist deaktiviert</string>
-  <string name="notification_history_open_notification">Benachrichtigung öffnen</string>
-  <string name="notification_history_snooze">Im Schlummermodus</string>
-  <string name="notification_history_summary">Neue und zurückgestellte Benachrichtigungen anzeigen</string>
-  <string name="notification_history_title">Benachrichtigungsverlauf</string>
-  <string name="notification_history_today">Letzte 24 Stunden</string>
-  <string name="notification_history_toggle">Benachrichtigungsverlauf verwenden</string>
-  <string name="notification_history_view_settings">Benachrichtigungseinstellungen anzeigen</string>
-  <string name="notification_listener_security_warning_summary">"%1$s kann alle Benachrichtigungen lesen, darunter auch personenbezogene Daten wie Kontaktnamen und eingehende Nachrichten. Außerdem kann die App Benachrichtigungen schließen oder Schaltflächen in Benachrichtigungen verwenden und so z. B. Anrufe entgegennehmen. 
-
-Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funktion zu aktivieren bzw. zu deaktivieren und zugehörige Einstellungen zu ändern."</string>
+  
+  
+  
+  
   <string name="notification_log_channel">Kanal</string>
+  
+  
+  
   <string name="notification_people_strip_title">Leiste mit den neuesten Unterhaltungen anzeigen</string>
   <string name="notification_priority_title">Priorität</string>
   <string name="notification_switch_label">Alle Benachrichtigungen von \"%1$s\"</string>
