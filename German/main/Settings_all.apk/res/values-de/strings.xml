@@ -7098,23 +7098,10 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="security_settings_fingerprint_enroll_onboard_message_2">Fingerabdruck hinzufügen</string>
   <string name="security_settings_fingerprint_enroll_onboard_title">Fingerabdruck einrichten</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Heben Sie Ihren Finger ständig an, um die verschiedenen Teile Ihres Fingerabdrucks hinzuzufügen</string>
-  <string name="security_settings_fingerprint_enroll_repeat_title">Anheben, dann wieder berühren</string><?xml version='1.0' encoding='UTF-8'?>
+  <string name="security_settings_fingerprint_enroll_repeat_title">Anheben, dann wieder berühren</string>
 
 <!-- strings-de-v29 -->
 
-  <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
-  <string name="accessibility_autoclick_default_title">Aus</string>
-  <string name="accessibility_autoclick_description">Automatische Klicks funktionieren mit einer verbundenen Maus. Sie können festlegen, dass der Mauszeiger automatisch klickt, wenn er sich für eine bestimmte Zeit nicht bewegt.</string>
-  <string name="accessibility_autoclick_long_summary">1 Sekunde</string>
-  <string name="accessibility_autoclick_long_title">Lang</string>
-  <string name="accessibility_autoclick_longer_desc">Länger</string>
-  <string name="accessibility_autoclick_medium_summary">0,6 Sekunden</string>
-  <string name="accessibility_autoclick_medium_title">Mittel</string>
-  <string name="accessibility_autoclick_preference_title">Automatischer Klick (Verweildauer)</string>
-  <string name="accessibility_autoclick_seekbar_desc">Zeit vor automatischem Klick</string>
-  <string name="accessibility_autoclick_short_summary">0,2 Sekunden</string>
-  <string name="accessibility_autoclick_short_title">Kurz</string>
-  <string name="accessibility_autoclick_shorter_desc">Kürzer</string>
   <string name="accessibility_caption_master_switch_summary">Nur für unterstützte Apps</string>
   <string name="accessibility_caption_master_switch_title">Untertitel anzeigen</string>
   <string name="accessibility_caption_preference_summary">Diese Einstellungen für Untertitel werden nicht von allen Apps unterstützt.</string>
@@ -10994,9 +10981,7 @@ Einstellungen aktualisieren auf:
   <string name="zone_time_type_standard">Standardzeit</string>
   
 values-de-v29
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
+
   <string name="accessibility_autoclick_default_title">Aus</string>
   <string name="accessibility_autoclick_description">Automatische Klicks funktionieren mit einer verbundenen Maus. Sie können festlegen, dass der Mauszeiger automatisch klickt, wenn er sich für eine bestimmte Zeit nicht bewegt.</string>
   <string name="accessibility_autoclick_long_summary">1 Sekunde</string>
@@ -11008,7 +10993,6 @@ values-de-v29
   <string name="accessibility_autoclick_seekbar_desc">Zeit vor automatischem Klick</string>
   <string name="accessibility_autoclick_short_summary">0,2 Sekunden</string>
   <string name="accessibility_autoclick_short_title">Kurz</string>
-  <string name="accessibility_autoclick_shorter_desc">Kürzer</string>
   <string name="accessibility_caption_master_switch_summary">Nur für unterstützte Apps</string>
   <string name="accessibility_caption_master_switch_title">Untertitel anzeigen</string>
   <string name="accessibility_caption_preference_summary">Diese Einstellungen für Untertitel werden nicht von allen Apps unterstützt.</string>
