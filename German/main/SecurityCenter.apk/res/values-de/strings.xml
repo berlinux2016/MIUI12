@@ -1796,7 +1796,7 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gs_game_record_intro_tips">*Spielstandaufzeichnung ist nur für ausgewählte kompatible Spiele verfügbar</string>
   <string name="gs_game_shortcut">Verbessern Sie Ihr Spielerlebnis</string>
   <string name="gs_gamebox">In-Game Verknüpfungen</string>
-  <string name="gs_gamebox_detail">Wischen Sie vom oberen Seitenrand des Bildschirms zum Anzeigen</string>
+  <string name="gs_gamebox_detail">Zum Anzeigen vom oberen Bildschirmseitenrand wischen</string>
   <string name="gs_gamebox_slip">Bildschirm nach unten schieben zum Öffnen</string>
   <string name="gs_only_self_start_for_list">Hintergrundprozesse einschränken, um beim Spielen Akku zu sparen</string>
   <string name="gs_open_game_booster">Geschwindigkeit erhöhen</string>
