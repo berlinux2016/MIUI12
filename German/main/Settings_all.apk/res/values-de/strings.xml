@@ -1629,6 +1629,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="cached_apps_freezer">Ausführung für Apps im Cache aussetzen</string>
   <string name="cached_apps_freezer_disabled">Deaktiviert</string>
   <string name="cached_apps_freezer_enabled">Aktiviert</string>
+  <string name="cached_apps_freezer_device_default">Gerätestandard</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Ihr Gerät muss neu gestartet werden, damit diese Änderung wirksam wird. Jetzt neu starten oder abbrechen.</string>
   <string name="calendar_remind">Termine</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
@@ -10176,63 +10177,6 @@ Einstellungen aktualisieren auf:
   
 <!-- v30 -->
 
-  <string name="bubbles_conversation_app_link">Alle Einstellungen für Blasen</string>
-  <string name="bubbles_conversation_toggle_summary">Unverankertes Symbol über anderen Apps anzeigen</string>
-  <string name="bubbles_conversation_toggle_title">Diese Unterhaltung als Blase anzeigen</string>
-  <string name="bubbles_feature_disabled_button_approve">Aktivieren</string>
-  <string name="bubbles_feature_disabled_dialog_text">"Wenn Sie die Blasen für diese App aktivieren, wird die Funktion auch auf Ihrem Gerät aktiviert.
-
-Dies wirkt sich auch auf andere Apps oder Unterhaltungen aus, die als Blase erscheinen können."</string>
-  <string name="bubbles_feature_disabled_dialog_title">Blasen für das Gerät aktivieren?</string>
-  <string name="bug_report_handler_picker_footer_text">Bestimmt, welche App die Verknüpfung zum Fehlerbericht auf Ihrem Gerät verarbeitet.</string>
-  <string name="bug_report_handler_title">Fehlerbericht-Handler</string>
-  <string name="ca_certificate">CA-Zertifikat</string>
-  <string name="ca_certificate_warning_description">"CA-Zertifikate werden von Websites, Apps und VPNs zur Verschlüsselung verwendet. Sie sollten nur CA-Zertifikate von Organisationen installieren, denen Sie vertrauen. 
-
- Wenn Sie ein CA-Zertifikat installieren, hat dessen Inhaber Zugriff auf Ihre Daten, z. B. auf Passwörter oder Kreditkartendetails von Websites, die Sie besuchen, oder von Apps, die Sie verwenden. Das ist auch dann der Fall, wenn diese Daten verschlüsselt sind."</string>
-  <string name="ca_certificate_warning_title">Ihre Daten werden nicht geschützt</string>
-  <string name="cached_apps_freezer">Ausführung für zwischengespeicherte Apps aussetzen</string>
-  <string name="cached_apps_freezer_device_default">Gerätestandard</string>
-  <string name="cached_apps_freezer_disabled">Deaktiviert</string>
-  <string name="cached_apps_freezer_enabled">Aktiviert</string>
-  <string name="cached_apps_freezer_reboot_dialog_text">Ihr Gerät muss neu gestartet werden, damit diese Änderung wirksam wird. Starten Sie jetzt neu oder brechen Sie den Vorgang ab.</string>
-  <string name="call_connected_tones_title">Anrufverbindungstöne</string>
-  <string name="captioning_caption_appearance_summary">Textgröße: %1$s</string>
-  <string name="captioning_caption_appearance_title">Untertitelgröße und -stil</string>
-  <string name="captioning_more_options_title">Weitere Optionen</string>
-  <string name="cards_passes_lower">Karten und Tickets</string>
-  <string name="cards_passes_sentence">Karten und Tickets</string>
-  <string name="cards_passes_setting_subtitle">Wenn Sie die Ein/Aus-Taste gedrückt halten, werden Ihre Zahlungsmethoden, Bordkarten usw. angezeigt.</string>
-  <string name="cards_passes_setting_toggle">Karten und Tickets anzeigen</string>
-  <string name="cert_not_installed">Zertifikat nicht installiert</string>
-  <string name="certificate_warning_dont_install">Nicht installieren</string>
-  <string name="certificate_warning_install_anyway">Trotzdem installieren</string>
-  <string name="confirm_sim_deletion_description">Identität bestätigen, um eine heruntergeladene SIM zu löschen</string>
-  <string name="confirm_sim_deletion_title">Löschen der SIM bestätigen</string>
-  <string name="confirmation_turn_on">Aktivieren</string>
-  <string name="connected_device_call_device_title">Anrufgeräte</string>
-  <string name="connected_device_media_device_title">Mediengeräte</string>
-  <string name="connected_device_other_device_title">Andere Geräte</string>
-  <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, Fahrmodus</string>
-  <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, Fahrmodus, NFC</string>
-  <string name="contact_discovery_opt_in_dialog_message">"Die Telefonnummern Ihrer Kontakte werden regelmäßig an %1$s gesendet.
-Anhand dieser Informationen kann festgestellt werden, ob Ihre Kontakte bestimmte Funktionen wie Videoanrufe oder einzelne Chatfunktionen verwenden können."</string>
-  <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Die Telefonnummern Ihrer Kontakte werden regelmäßig an Ihren Mobilfunkanbieter gesendet.
-
-Anhand dieser Informationen kann festgestellt werden, ob Ihre Kontakte bestimmte Funktionen wie Videoanrufe oder einzelne Chatfunktionen verwenden können."</string>
-  <string name="contact_discovery_opt_in_dialog_title">Kontakte an %1$s senden?</string>
-  <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Kontakte an Ihren Mobilfunkanbieter senden?</string>
-  <string name="contact_discovery_opt_in_summary">Telefonnummern meiner Kontakte senden, um erweiterte Funktionen bereitzustellen</string>
-  <string name="contact_discovery_opt_in_title">Kontakte an Mobilfunkanbieter senden</string>
-  <string name="conversation_category_title">Unterhaltung</string>
-  <string name="conversation_onboarding_summary">"Wenn Sie einer Unterhaltung Priorität geben oder andere Änderungen daran vornehmen, wird sie hier angezeigt. 
-
-So ändern Sie die Einstellungen für eine Unterhaltung:
-Vom oberen Displayrand nach unten wischen, um die Benachrichtigungsleiste zu öffnen, und die entsprechende Unterhaltung gedrückt halten."</string>
-  <string name="conversation_onboarding_title">Hier werden vorrangige und geänderte Unterhaltungen angezeigt</string>
-  <string name="conversation_section_switch_summary">App die Verwendung des Gesprächsteil erlauben</string>
-  <string name="conversation_section_switch_title">Gesprächsteil</string>
-  <string name="conversations_category_title">Unterhaltungen</string>
   <string name="convo_not_supported_summary">%1$s unterstützt die meisten Konversationsfunktionen nicht. Sie können eine Konversation nicht als Priorität festlegen und Konversationen werden nicht als schwebende Blasen angezeigt.</string>
   <string name="credentials_install">Ein Zertifikat installieren</string>
   <string name="daltonizer_mode_deuteranomaly_summary">Rot-Grün-Sehschwäche</string>
@@ -10683,60 +10627,6 @@ Ihr Telefon kann eventuell auch von jemandem entsperrt werden, der Ihnen sehr ä
 Während eines Sprachanrufs können Sie das Internet nicht nutzen und manche Apps funktionieren möglicherweise nicht."</string>
   <string name="volte_5G_limited_title">VoLTE deaktivieren?</string>
   <string name="volume_adjustment">Lautstärke einstellen</string>
-  <string name="wifi_add_app_network_save_failed_summary">Speichern nicht möglich. Noch einmal versuchen.</string>
-  <string name="wifi_add_app_networks_saved_summary">Netzwerke gespeichert</string>
-  <string name="wifi_add_app_networks_summary">%1$s möchte diese Netzwerke auf deinem Telefon speichern</string>
-  <string name="wifi_add_app_networks_title">Netzwerke speichern?</string>
-  <string name="wifi_add_app_single_network_saved_summary">Gespeichert</string>
-  <string name="wifi_add_app_single_network_saving_summary">Wird gespeichert…</string>
-  <string name="wifi_add_app_single_network_summary">%1$s möchte ein Netzwerk auf deinem Telefon speichern</string>
-  <string name="wifi_add_app_single_network_title">Dieses Netzwerk speichern?</string>
-  <string name="wifi_advanced_device_mac_address_title">MAC-Adresse des Geräts</string>
-  <string name="wifi_advanced_randomized_mac_address_title">Zufällige MAC-Adresse</string>
-  <string name="wifi_advanced_toggle_description">Drop-down-Liste \"Erweiterte Optionen\"</string>
-  <string name="wifi_advanced_toggle_description_collapsed">maximieren</string>
-  <string name="wifi_ap_hidden_ssid">Eigene SSID ausblenden</string>
-  <string name="wifi_ap_ssid_off">Aus</string>
-  <string name="wifi_ap_ssid_on">Ein</string> 
-  <string name="wifi_auto_connect_summary">Zulassen, dass das Telefon automatisch eine Verbindung herstellt, wenn es in der Nähe dieses Netzwerks ist</string>
-  <string name="wifi_auto_connect_title">Automatische Verbindung</string>
   <string name="wifi_band_60ghz">60 GHz</string>
-  <string name="wifi_calling_mode_ims_preferred_summary">If LTE and WLAN are unavailabe, use 2G/3G</string>
-  <string name="wifi_connected_no_internet">Kein Internet</string>
-  <string name="wifi_connected_to_message">Verbunden mit %1$s</string>
-  <string name="wifi_disconnected_from">Verbindung zu %1$s getrennt</string>
-  <string name="wifi_dpp_failure_cannot_find_network">Versuche, die Entfernung zwischen dem Gerät und deinem WLAN-Zugangspunkt oder Router zu verringern</string>
-  <string name="wifi_dpp_failure_enrollee_authentication">Prüfe das Passwort und versuch es noch einmal</string>
-  <string name="wifi_dpp_failure_enrollee_rejected_configuration">Wenden Sie sich an den Hersteller des Geräts</string>
-  <string name="wifi_dpp_lockscreen_title">Deine Identität bestätigen</string>
-  <string name="wifi_dpp_qr_code_is_not_valid_format">QR-Code ist kein gültiges Format</string>
-  <string name="wifi_eap_ocsp">Online-Zertifikatstatus</string>
-  <string name="wifi_enhanced_mac_randomization">WLAN-erweiterte MAC-Adressrandomisierung</string>
-  <string name="wifi_enhanced_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es mit einem Netzwerk verbunden wird, in dem MAC-Randomisierung aktiviert ist.</string>
-  <string name="wifi_expiry_time">Läuft am %1$s ab</string>
-  <string name="wifi_hotspot_auto_off_summary">Wenn keine Geräte verbunden sind</string>
-  <string name="wifi_no_internet">Internetverbindung herstellen nicht möglich</string>
-  <string name="wifi_no_internet_no_reconnect">Internetverbindung herstellen nicht möglich</string>
-  <string name="wifi_no_user_cert_warning">Zertifikat erforderlich.</string>
-  <string name="wifi_notify_open_networks">Über öffentliche Netzwerke informieren</string>
-  <string name="wifi_passpoint_expired">Abgelaufen</string>
   <string name="wifi_priority_changed">Alter Wert %1$s | Neuer Wert %2$s</string>
-  <string name="wifi_subscription">Abo</string>
-  <string name="wifi_subscription_summary">Einstellungen für das OpenRoaming-Abo ansehen oder ändern</string>
-  <string name="wifi_time_remaining">Noch %1$s</string>
-  <string name="wifi_venue_website_button_text">Website öffnen</string>
-  <string name="wifi_wakeup_location_summary">Standortdienste einschalten, um diese Funktion nutzen zu können</string>
-  <string name="wifi_wakeup_negative_button">Abbrechen</string>
-  <string name="wifi_wakeup_positive_button">Einschalten</string>
-  <string name="wifi_wakeup_scan_summary">Apps und Diensten erlauben, nach WLAN zu suchen, um es automatisch einschalten zu können. Wenn Sie diese Funktion einschalten, kann Ihr Gerät automatisch eine Verbindung zu gespeicherten Netzwerken in der Nähe herstellen.</string>
-  <string name="wifi_wakeup_title">Zusätzliche Funktionen einschalten</string> 
-  <string name="work_profile_app_subtext">Arbeit</string>
-  <string name="wrong_pin_code_one">Falscher PIN-Code der SIM-Karte. Sie haben noch einen Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</string>
-  <string name="zen_category_apps">Apps</string>
-  <string name="zen_category_behavior">Was den \"Bitte nicht stören\"-Modus unterbrechen kann</string>
-  <string name="zen_category_duration">Dauer für die Schnelleinstellungen</string>
-  <string name="zen_category_exceptions">Alarme &amp; sonstige Unterbrechungen</string>
-  <string name="zen_category_people">Personen</string>
-  <string name="zen_category_schedule">Zeitpläne</string>
-  <string name="zen_mode_alarms">Weckrufe</string>
 </resources>
