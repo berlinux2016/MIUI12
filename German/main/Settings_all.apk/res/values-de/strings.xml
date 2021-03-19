@@ -95,7 +95,7 @@ Nicht alle Apps unterstützen diese Einstellung."</string>
   <string name="accessibility_disable_animations">Animationen entfernen</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
-  <string name="accessibility_display_inversion_preference_subtitle">Kann die Leistung beeinträchtigen</string>
+  <string name="accessibility_display_inversion_preference_subtitle">Wenn \"Farbumkehr\" aktiviert ist, werden helle Bildschirme dunkel angezeigt.&lt;br/>&lt;br/> Hinweis: &lt;ol> &lt;li> Dunkle Farben werden hell.&lt;/li> &lt;li> Das führt zu einer veränderten Wiedergabe der Farben in Medien und Bildern.&lt;/li> &lt;li> Im Modus \"Dunkles Design\" wird lediglich der Hintergrund dunkel angezeigt. \"Dunkles Design\" funktioniert nur in unterstützten Apps. \"Farbumkehr\" hingegen funktioniert in allen Apps.&lt;/li> &lt;/ol></string>
   <string name="accessibility_display_inversion_preference_title">Farbumkehrung</string>
   <string name="accessibility_display_inversion_switch_title">Farbumkehr verwenden</string>
   <string name="accessibility_display_title">Bildschirm</string>
@@ -222,14 +222,14 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
   <string name="accessibility_shortcut_service_on_lock_screen_title">Am Sperrbildschirm erlauben</string>
   <string name="accessibility_shortcut_service_title">Verknüpfungsdienst</string>
   <string name="accessibility_shortcut_settings">Kurzbefehl-Einstellungen</string>
-  <string name="accessibility_shortcut_title">%1$s-Kurzbefehl</string>
+  <string name="accessibility_shortcut_title">%1$s-Verknüpfung</string>
   <string name="accessibility_shortcut_triple_tap_keyword">Bildschirm dreifach antippen</string>
-  <string name="accessibility_shortcut_type_hardware">Lautstärketasten halten</string>
+  <string name="accessibility_shortcut_type_hardware">Lautstärketasten gedrückt halten</string>
   <string name="accessibility_shortcut_type_software">Eingabehilfentaste</string>
   <string name="accessibility_shortcut_type_software_gesture">2-Finger-Hochwischen von unten</string>
   <string name="accessibility_shortcut_type_triple_tap">Bildschirm dreifach antippen</string>
   <string name="accessibility_summary_shortcut_disabled">Aus</string>
-  <string name="accessibility_summary_shortcut_enabled">Kurzbefehl an</string>
+  <string name="accessibility_summary_shortcut_enabled">Verknüpfung an</string>
   <string name="accessibility_summary_source">Zur Verfügung gestellt von %s</string>
   <string name="accessibility_summary_state_disabled">AUS</string>
   <string name="accessibility_summary_state_enabled">AN</string>
@@ -257,7 +257,7 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
   <string name="accessibility_touch_vibration_title">Vibration bei Berührung</string>
   <string name="accessibility_tutorial_dialog_button">Verstanden</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Um diesen Dienst ein- oder auszuschalten, tippen Sie auf die Eingabehilfetaste %s unten auf Ihrem Bildschirm.
+  <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Rand Ihres Bildschirms..
 
 Um zwischen Diensten zu wechseln, halten Sie die Eingabehilfentaste gedrückt."</string>
   <string name="accessibility_tutorial_dialog_message_gesture">"Um diese Funktion zu verwenden, wischen Sie vom unteren Bildschirmrand mit 2 Fingern hoch.
@@ -4968,7 +4968,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden."</string>
   <string name="model_hardware_summary">Modell: %1$s; Hardware: %2$s</string>
   <string name="model_info">Modell</string>
   <string name="model_name">Modell</string>
-  <string name="model_number">Geräteausführung</string>
+  <string name="model_number">Modell</string>
   <string name="model_summary">Modell: %1$s</string>
   <string name="modern_control_center_desc">Statusleiste links herunterziehen, um Benachrichtigungen anzuzeigen. Statusleiste rechts herunterziehen, um das Kontrollzentrum zu öffnen.</string>
   <string name="modern_control_center_title">Neue Version</string>
@@ -10176,139 +10176,6 @@ Einstellungen aktualisieren auf:
   
 <!-- v30 -->
 
-  <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
-  <string name="accessibility_autoclick_default_title">Aus</string>
-  <string name="accessibility_autoclick_description">Automatische Klicks funktionieren mit einer verbundenen Maus. Sie können festlegen, dass der Mauszeiger automatisch klickt, wenn er sich für eine bestimmte Zeit nicht bewegt.</string>
-  <string name="accessibility_autoclick_long_summary">1 Sekunde</string>
-  <string name="accessibility_autoclick_long_title">Lang</string>
-  <string name="accessibility_autoclick_longer_desc">Länger</string>
-  <string name="accessibility_autoclick_medium_summary">0,6 Sekunden</string>
-  <string name="accessibility_autoclick_medium_title">Mittel</string>
-  <string name="accessibility_autoclick_preference_title">Automatischer Klick (Verweildauer)</string>
-  <string name="accessibility_autoclick_seekbar_desc">Zeit vor automatischem Klick</string>
-  <string name="accessibility_autoclick_short_summary">0,2 Sekunden</string>
-  <string name="accessibility_autoclick_short_title">Kurz</string>
-  <string name="accessibility_autoclick_shorter_desc">Kürzer</string>
-  <string name="accessibility_caption_master_switch_summary">Nur für unterstützte Apps</string>
-  <string name="accessibility_caption_master_switch_title">Untertitel anzeigen</string>
-  <string name="accessibility_caption_preference_summary">Diese Einstellungen für Untertitel werden nicht von allen Apps unterstützt.</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Mit der Farbkorrektur können Sie anpassen, wie Farben auf Ihrem Bildschirm angezeigt werden</string>
-  <string name="accessibility_display_inversion_preference_subtitle">Wenn \"Farbumkehr\" aktiviert ist, werden helle Bildschirme dunkel angezeigt.&lt;br/>&lt;br/> Hinweis: &lt;ol> &lt;li> Dunkle Farben werden hell.&lt;/li> &lt;li> Das führt zu einer veränderten Wiedergabe der Farben in Medien und Bildern.&lt;/li> &lt;li> Im Modus \"Dunkles Design\" wird lediglich der Hintergrund dunkel angezeigt. \"Dunkles Design\" funktioniert nur in unterstützten Apps. \"Farbumkehr\" hingegen funktioniert in allen Apps.&lt;/li> &lt;/ol></string>
-  <string name="accessibility_display_inversion_switch_title">Farbumkehr aktivieren</string>
-  <string name="accessibility_hearingaid_pair_instructions_message">Wenn Sie Ihre Hörhilfen koppeln möchtest, tippen Sie auf dem nächsten Bildschirm auf Ihr Gerät. Ihre Hörhilfen müssen im Kopplungsmodus sein.</string>
-  <string name="accessibility_introkönnen Siection_title">Über %1$s</string>
-  <string name="accessibility_magnification_area_settings_all_summary">Ganzer Bildschirm und Teil des Bildschirms</string>
-  <string name="accessibility_magnification_area_settings_full_screen">Ganzen Bildschirm vergrößern</string>
-  <string name="accessibility_magnification_area_settings_full_screen_summary">Ganzer Bildschirm</string>
-  <string name="accessibility_magnification_area_settings_message">Wähle die Bereiche aus, die bei der Bildschirmvergrößerung verwendet werden sollen</string>
-  <string name="accessibility_magnification_area_settings_window_screen">Teil des Bildschirms vergrößern</string>
-  <string name="accessibility_magnification_area_settings_window_screen_summary">Teil des Bildschirms</string>
-  <string name="accessibility_magnification_enable_mode_title">Vergrößerung aktivieren</string>
-  <string name="accessibility_magnification_mode_title">Vergrößerungsbereich</string>
-  <string name="accessibility_magnification_service_settings_title">Vergrößerungseinstellungen</string>
-  <string name="accessibility_screen_magnification_gesture_navigation_warning">Die Touch-Geste für die Bedienungshilfen ist auf den Dienst \"%1$s\" eingestellt. Wenn Sie die Vergrößerung verwenden möchten, wischen Sie mit zwei Fingern vom unteren Bildschirmrand nach oben und halten Sie den Bildschirm gedrückt. Dann \"Vergrößerung\" auswählen.</string>
-  <string name="accessibility_screen_magnification_navbar_summary">"Wenn die Vergrößerung aktiviert ist, können Sie Elemente auf dem Bildschirm heranzoomen.
-
-\"&lt;b>Wenn Sie zoomen möchten&lt;/b>\", starten Sie die Vergrößerung und tippen Sie dann auf eine beliebige Stelle auf dem Bildschirm.
-\"&lt;ul>&lt;li>Zum Scrollen ziehen Sie mit zwei oder mehr Fingern&lt;/li>\"
-\"&lt;li>Zum Anpassen des Zooms ziehen Sie zwei oder mehr Finger zusammen bzw. auseinander&lt;/li>&lt;/ul>\"
-
-\"&lt;b>Wenn Sie vorübergehend heranzoomen möchten&lt;/b>\", starten Sie die Vergrößerung und tippen Sie dann auf eine beliebige Stelle auf dem Bildschirm und halten sie gedrückt.
-\"&lt;ul>&lt;li>Wenn Sie sich auf dem Bildschirm bewegen möchten, ziehen Sie den Bildschirm&lt;/li>\"
-\"&lt;li>Zum Herauszoomen heben Sie den Finger&lt;/li>&lt;/ul>\"
-
-In die Tastatur oder Navigationsleiste kann nicht hineingezoomt werden."</string>
-  <string name="accessibility_screen_magnification_summary">Sie können auf dem Bildschirm schnell heranzoomen, um Inhalte besser zu sehen.&lt;br/>&lt;br/>&lt;b>So zoomen Sie heran:&lt;/b>&lt;br/> 1. Vergrößerung über die Verknüpfung starten&lt;br/> 2. Auf den Bildschirm tippen&lt;br/> 3. Zwei Finger entlang des Bildschirms ziehen, um sich darauf zu bewegen&lt;br/> 4. Zwei Finger auseinander oder zusammen ziehen, um den Zoom anzupassen&lt;br/> 5. Vergrößerung über die Verknüpfung beenden&lt;br/>&lt;br/>&lt;b>So zoomen Sie vorübergehend heran:&lt;/b>&lt;br/> 1. Vergrößerung über die Verknüpfung starten&lt;br/> 2. Beliebige Stelle auf dem Bildschirm gedrückt halten&lt;br/> 3. Finger entlang des Bildschirms ziehen, um sich darauf zu bewegen&lt;br/> 4. Finger heben, um die Vergrößerung zu beenden</string>
-  <string name="accessibility_screen_option">Optionen</string>
-  <string name="accessibility_service_master_open_title">%1$s öffnen</string>
-  <string name="accessibility_service_master_switch_title">%1$s verwenden</string>
-  <string name="accessibility_shortcut_description">Sie können zulassen, dass die Bedienungshilfenverknüpfung auch vom Sperrbildschirm aus funktioniert. Halten Sie dazu beide Lautstärketasten für einige Sekunden gedrückt.</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_hardware">Halten Sie beide Lautstärketasten gedrückt</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software">"Tippen Sie unten am Bildschirm auf die Schaltfläche \"Bedienungshilfen\" %s.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, halten Sie diese Schaltfläche gedrückt."</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Wischen Sie vom unteren Bildschirmrand mit zwei Fingern nach oben.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit zwei Fingern über den Bildschirm nach oben."</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Wischen Sie vom unteren Bildschirmrand mit drei Fingern nach oben.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit drei Fingern über den Bildschirm nach oben."</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Tippen Sie schnell dreimal hintereinander auf den Bildschirm. Durch diese Verknüpfung kann Ihr Gerät langsamer werden.</string>
-  <string name="accessibility_shortcut_edit_dialog_title_advance">Erweitert</string>
-  <string name="accessibility_shortcut_edit_dialog_title_hardware">Lautstärketasten gedrückt halten</string>
-  <string name="accessibility_shortcut_edit_dialog_title_software">Tippen Sie auf die Schaltfläche \"Bedienungshilfen\"</string>
-  <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Mit zwei Fingern nach oben wischen</string>
-  <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Mit drei Fingern nach oben wischen</string>
-  <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Dreimal auf den Bildschirm tippen</string>
-  <string name="accessibility_shortcut_edit_summary_software">Schaltfläche \"Bedienungshilfe\"</string>
-  <string name="accessibility_shortcut_service_on_lock_screen_title">Verknüpfung vom Sperrbildschirm aus</string>
-  <string name="accessibility_shortcut_settings">Einstellungen für Verknüpfungen</string>
-  <string name="accessibility_shortcut_title">\"%1$s\"-Verknüpfung</string>
-  <string name="accessibility_shortcut_type_hardware">Lautstärketasten gedrückt halten</string>
-  <string name="accessibility_shortcut_type_software">Schaltfläche \"Bedienungshilfen\"</string>
-  <string name="accessibility_shortcut_type_software_gesture">Mit zwei Fingern nach oben wischen</string>
-  <string name="accessibility_shortcut_type_triple_tap">Dreimal auf den Bildschirm tippen</string>
-  <string name="accessibility_summary_shortcut_disabled">Aus</string>
-  <string name="accessibility_summary_shortcut_enabled">Verknüpfung aktiviert</string>
-  <string name="accessibility_tutorial_dialog_message_button">"Sie können diese Funktion aktivieren oder deaktivieren, indem Sie unten auf dem Bildschirm auf die Schaltfläche \"Bedienungshilfen\" %s tippen.
-
-Wenn Sie zwischen den Funktionen wechseln möchtest, halten Sie diese Schaltfläche gedrückt."</string>
-  <string name="accessibility_tutorial_dialog_message_gesture">"Sie können diese Funktion aktivieren und deaktivieren, indem Sie vom unteren Bildschirmrand mit zwei Fingern nach oben wischen.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit zwei Fingern über den Bildschirm nach oben."</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_settings">"Sie können eine Bedienungshilfe aktivieren und deaktivieren, indem Sie vom unteren Bildschirmrand mit zwei Fingern nach oben wischen.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit zwei Fingern über den Bildschirm nach oben."</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Sie können eine Bedienungshilfe aktivieren und deaktivieren, indem Sie vom unteren Bildschirmrand mit drei Fingern nach oben wischen.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit drei Fingern über den Bildschirm nach oben."</string>
-  <string name="accessibility_tutorial_dialog_message_gesture_talkback">"Sie können diese Funktion aktivieren und deaktivieren, indem Sie vom unteren Bildschirmrand mit drei Fingern nach oben wischen.
-
-Wenn Sie zwischen den Funktionen wechseln möchten, wischen und halten Sie mit drei Fingern über den Bildschirm nach oben."</string>
-  <string name="accessibility_tutorial_dialog_message_triple">Tippen Sie dreimal auf den Bildschirm, um die Vergrößerung zu starten oder zu beenden.</string>
-  <string name="accessibility_tutorial_dialog_message_volume">Wenn Sie diese Funktion aktivieren oder deaktivieren möchten, halten Sie beide Lautstärketasten gedrückt.</string>
-  <string name="accessibility_tutorial_pager">Seite %1$d von %2$d</string>
-  <string name="accessibility_work_profile_app_description">Arbeit %s</string>
-  <string name="accessor_expires_text">Freigabe läuft am %s ab</string>
-  <string name="accessor_info_title">Apps, die Daten teilen</string>
-  <string name="accessor_no_description_text">Keine von der App bereitgestellte Beschreibung verfügbar.</string>
-  <string name="adaptive_sleep_contextual_slice_summary">Bildschirm aktiviert lassen, solange Sie ihn ansehen</string>
-  <string name="adaptive_sleep_contextual_slice_title">Aufmerksamkeitserkennung aktivieren</string>
-  <string name="adaptive_sleep_description">Verhindert, dass der Bildschirm ausgeschaltet wird, wenn Sie auf ihn schauen</string>
-  <string name="adaptive_sleep_summary_no_permission">Tippen, um Berechtigungen für Dienste zur Gerätepersonalisierung zu verwalten</string>
-  <string name="adaptive_sleep_title_no_permission">Zugriff auf Kamera erforderlich</string>
-  <string name="adb_authorization_timeout_summary">Automatische Aufhebung von ADB-Autorisierungen für Systeme deaktivieren, die sich nicht innerhalb der Standardzeit (7 Tage) oder der vom Benutzer festgelegten Zeit (mindestens 1 Tag) wieder verbunden haben.</string>
-  <string name="adb_authorization_timeout_title">Zeitlimit für ADB-Autorisierung deaktivieren</string>
-  <string name="adb_device_fingerprint_title_format">Fingerabdruck des Geräts: %1$s</string>
-  <string name="adb_device_forget">Entfernen</string>
-  <string name="adb_pair_method_code_summary">Neue Geräte mit sechsstelligem Code koppeln</string>
-  <string name="adb_pair_method_code_title">Gerät über einen Kopplungscode koppeln</string>
-  <string name="adb_pair_method_qrcode_summary">Neue Geräte über QR-Codescanner koppeln</string>
-  <string name="adb_pair_method_qrcode_title">Gerät über einen QR-Code koppeln</string>
-  <string name="adb_paired_devices_title">Gekoppelte Geräte</string>
-  <string name="adb_pairing_device_dialog_failed_msg">Prüfe, ob das Gerät mit demselben Netzwerk verbunden ist.</string>
-  <string name="adb_pairing_device_dialog_failed_title">Kopplung fehlgeschlagen</string>
-  <string name="adb_pairing_device_dialog_pairing_code_label">WLAN-Kopplungscode</string>
-  <string name="adb_pairing_device_dialog_title">Mit einem Gerät koppeln</string>
-  <string name="adb_qrcode_pairing_device_failed_msg">Das Gerät konnte nicht gekoppelt werden. Der QR-Code war nicht korrekt oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>
-  <string name="adb_wireless_connection_failed_message">Prüfe, ob %1$s mit dem richtigen Netzwerk verbunden ist</string>
-  <string name="adb_wireless_connection_failed_title">Verbindung fehlgeschlagen</string>
-  <string name="adb_wireless_device_connected_summary">Derzeit verbunden</string>
-  <string name="adb_wireless_device_details_title">Gerätedetails</string>
-  <string name="adb_wireless_error">Fehler</string>
-  <string name="adb_wireless_ip_addr_preference_title">IP-Adresse &amp; Port</string>
-  <string name="adb_wireless_list_empty_off">Aktiviere \"Debugging über WLAN\", um verfügbare Geräte zu sehen und zu verwenden</string>
-  <string name="adb_wireless_no_network_msg">Bitte stell eine WLAN-Verbindung her</string>
-  <string name="adb_wireless_qrcode_pairing_description">Scanne einen QR-Code, um ein Gerät über WLAN zu koppeln</string>
-  <string name="adb_wireless_qrcode_pairing_title">QR-Code scannen</string>
-  <string name="adb_wireless_qrcode_summary">Scanne einen QR-Code, um ein Gerät über WLAN zu koppeln</string>
-  <string name="adb_wireless_settings">Debugging über WLAN</string>
-  <string name="adb_wireless_verifying_qrcode_text">Gerät wird gekoppelt…</string>
-  <string name="adbwifi_warning_message">\"Debugging über WLAN\" ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen deinem Computer und deinem Gerät kopieren, Apps auf deinem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
-  <string name="adbwifi_warning_title">\"Debugging über WLAN\" zulassen?</string>
-  <string name="add_virtual_keyboard">Bildschirmtastaturen verwalten</string>
-  <string name="allow_manage_external_storage_description">Sie können dieser App erlauben, alle Dateien auf diesem Gerät bzw. allen verknüpften Speicherlaufwerken zu lesen, zu ändern und zu löschen. Sie kann dann ohne deine explizite Zustimmung auf Dateien zugreifen.</string>
-  <string name="allow_overlay_description">Erlauben, dass diese App über anderen Apps, die Sie gerade verwenden, eingeblendet wird. Diese App erkennt, wo Sie tippen oder welche Elemente auf dem Bildschirm Sie ändern.</string>
   <string name="app_name">Kopfhörer</string>
   <string name="app_permissions_summary_more">Apps, die %1$s verwenden, und mehr</string>
   <string name="asst_capability_ranking_summary">Benachrichtigungen automatisch nach Relevanz sortieren</string>
