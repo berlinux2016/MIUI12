@@ -1042,7 +1042,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
   <string name="battery_saver_seekbar_title">Bei %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Einschalten</string>
   <string name="battery_saver_sticky_description_new">Stromsparen schaltet sich aus, wenn Ihr Telefon bei %1$s ist</string>
-  <string name="battery_saver_sticky_title_new">Bei voller Ladung ausschalten</string>
+  <string name="battery_saver_sticky_title_new">Ausschalten, wenn aufgeladen</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
   <string name="battery_saver_turn_on_automatically_pct">Bei %1$s Akku</string>
   <string name="battery_saver_turn_on_automatically_title">Automatisch aktivieren</string>
@@ -10176,33 +10176,6 @@ Einstellungen aktualisieren auf:
   
 <!-- v30 -->
 
-  <string name="app_name">Kopfhörer</string>
-  <string name="app_permissions_summary_more">Apps, die %1$s verwenden, und mehr</string>
-  <string name="asst_capability_ranking_summary">Benachrichtigungen automatisch nach Relevanz sortieren</string>
-  <string name="asst_capability_ranking_title">Adaptive Sortierung der Benachrichtigungen</string>
-  <string name="auto_connect_disable">Automatische Verbindung ist deaktiviert</string>
-  <string name="auto_sync_account_title">App-Daten automatisch synchronisieren</string>
-  <string name="available_via_app">Über %1$s verfügbar</string>
-  <string name="back_sensitivity_dialog_message">Wenn Sie die Empfindlichkeit erhöhen, werden eventuell App-spezifische Touch-Gesten am Bildschirmrand beeinträchtigt.</string>
-  <string name="battery_info_status_charging_fast">Schnelles Aufladen</string>
-  <string name="battery_info_status_charging_slow">Langsames Aufladen</string>
-  <string name="battery_saver_sticky_title_new">Bei vollem Akku ausschalten</string>
-  <string name="blob_expires_text">Läuft am %s ab</string>
-  <string name="blob_id_text">ID für geteilte Daten: %d</string>
-  <string name="bluetooth_connected">Mit %1$s verbunden</string>
-  <string name="bluetooth_connected_battery_level">Mit %2$s verbunden, Akkustand bei %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Mit %2$s verbunden (kein Medien-Audio), Akkustand bei %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Mit %2$s verbunden (kein Telefon-Audio), Akkustand bei %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Mit %2$s verbunden (weder Telefon- noch Medien-Audio), Akkustand bei %1$s</string>
-  <string name="bluetooth_devices_card_off_summary">Tippen zum Einschalten</string>
-  <string name="bluetooth_devices_card_off_title">Bluetooth ist aus</string>
-  <string name="bluetooth_enable_gabeldorsche">Bluetooth-Gabeldorsche aktivieren</string>
-  <string name="bluetooth_enable_gabeldorsche_summary">Aktiviert das Bluetooth-Gabeldorsche-Funktionspaket.</string>
-  <string name="bluetooth_select_a2dp_codec_type_help_info">Wenn etwas ausgegraut ist, wird es nicht vom Telefon oder Headset unterstützt</string>
-  <string name="bluetooth_select_map_version_dialog_title">Bluetooth MAP-Version auswählen</string>
-  <string name="bluetooth_select_map_version_string">Bluetooth MAP-Version</string>
-  <string name="bubble_app_setting_all">Alle Unterhaltungen können als Blase angezeigt werden</string>
-  <string name="bubble_app_setting_bubble_conversation">Blasen für dieses Gespräch einschalten</string>
   <string name="bubble_app_setting_excluded_conversation_title">Alle Unterhaltungen können als Blase erscheinen, außer</string>
   <string name="bubble_app_setting_none">Unterhaltungen können nicht als Blase angezeigt werden</string>
   <string name="bubble_app_setting_selected">Ausgewählte Unterhaltungen können als Blase angezeigt werden</string>
@@ -10437,7 +10410,6 @@ Vom oberen Displayrand nach unten wischen, um die Benachrichtigungsleiste zu öf
   <string name="media_output_group_panel_multiple_devices_summary">%1$d Geräte ausgewählt</string>
   <string name="media_output_group_panel_single_device_summary">Ein Gerät ausgewählt</string>
   <string name="media_output_group_panel_title">Ausgabegeräte hinzufügen</string>
-  <string name="media_output_label_title">Auf \"%s\" abspielen</string>
   <string name="media_output_panel_stop_casting_button">Streamen beenden</string>
   <string name="media_output_switch_error_text">Wechseln nicht möglich. Tippe, um es nochmals zu versuchen.</string>
   <string name="media_output_switching">Wird gewechselt…</string>
@@ -10564,7 +10536,6 @@ Zusätzlich wird die App in die Lage versetzt, die \"Bitte nicht stören\"-Funkt
   <string name="reading_settings">Einstellungen lesen…</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_call">Benachrichtigung über wiederholte Anrufe</string>
-  <string name="repeat_call_info">Klingeln oder Vibrieren bei Empfang des zweiten Anrufs von der gleichen Rufnummer innerhalb von %d Minuten</string>
   <string name="repeat_days_in_week">Wiederholen</string>
   <string name="repeat_never">Niemals</string>
   <string name="repeat_title">Wiederholen</string>
@@ -10707,8 +10678,6 @@ Ihr Telefon kann eventuell auch von jemandem entsperrt werden, der Ihnen sehr ä
   <string name="usagestats_device_timeout_des">Sie haben Ihr Gerät heute für %1$d Sdt %2$d Min verwendet. Ruhen Sie sich etwas aus!</string>
   <string name="use_open_wifi_automatically_title">Mit öffentlichen Netzwerken verbinden</string>
   <string name="user_certificate">VPN- &amp; App-Nutzerzertifikat</string>
-  <string name="user_switch_to_user">Zu %s wechseln</string>
-  <string name="user_you">Ich (%s)</string>
   <string name="vibrate_when_ringing_option_always_vibrate">Immer vibrieren</string>
   <string name="vibrate_when_ringing_option_never_vibrate">Nie vibrieren</string>
   <string name="vibrate_when_ringing_option_ramping_ringer">Erst vibrieren, dann immer lauter klingeln</string>
@@ -10721,7 +10690,6 @@ Während eines Sprachanrufs können Sie das Internet nicht nutzen und manche App
   <string name="volume_adjustment">Lautstärke einstellen</string>
   <string name="wifi_add_app_network_save_failed_summary">Speichern nicht möglich. Noch einmal versuchen.</string>
   <string name="wifi_add_app_networks_saved_summary">Netzwerke gespeichert</string>
-  <string name="wifi_add_app_networks_saving_summary">%d Netzwerke werden gespeichert…</string>
   <string name="wifi_add_app_networks_summary">%1$s möchte diese Netzwerke auf deinem Telefon speichern</string>
   <string name="wifi_add_app_networks_title">Netzwerke speichern?</string>
   <string name="wifi_add_app_single_network_saved_summary">Gespeichert</string>
@@ -10781,7 +10749,6 @@ Während eines Sprachanrufs können Sie das Internet nicht nutzen und manche App
   <string name="zen_mode_all_calls_summary">Alle Anrufe können Sie erreichen</string>
   <string name="zen_mode_all_messages_summary">Alle Nachrichten können Sie erreichen</string>
   <string name="zen_mode_always">Immer</string>
-  <string name="zen_mode_apps_bypassing_list_count">%d weitere</string>
   <string name="zen_mode_auto_rule">DND-Sitzungen planen</string>
   <string name="zen_mode_automatic_rule_settings_page_title">Zeitplan</string>
   <string name="zen_mode_behavior_alarms_only">Wecker und Medientöne können ihn unterbrechen</string>
@@ -10829,7 +10796,6 @@ Während eines Sprachanrufs können Sie das Internet nicht nutzen und manche App
   <string name="zen_mode_more_actions">Mehr DND-Optionen</string>
   <string name="zen_mode_none_calls">Keine</string>
   <string name="zen_mode_none_messages">Keine</string>
-  <string name="zen_mode_other_sounds_list_count">%d weitere</string>
   <string name="zen_mode_other_sounds_none">Nichts kann ihn unterbrechen</string>
   <string name="zen_mode_people_all">Alle Personen können ihn unterbrechen</string>
   <string name="zen_mode_people_calls_messages_section_title">Wer unterbrechen darf</string>
