@@ -4303,7 +4303,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="lock_screen_notifications_summary_hide_profile">Vertrauliche Arbeitsinhalte ausblenden</string>
   <string name="lock_screen_notifications_summary_show">Benachrichtigungen mit Inhalt anzeigen</string>
   <string name="lock_screen_notifications_summary_show_profile">Benachrichtigungsinhalte anzeigen</string>
-  <string name="lock_screen_notifications_title">Sperrbildschirm</string>
+  <string name="lock_screen_notifications_title">Benachr. auf Sperrbildschirm</string>
   <string name="lock_screen_notifs_redact">Vertrauliche Benachrichtigungen</string>
   <string name="lock_screen_notifs_redact_summary">Vertrauliche Inhalte anzeigen, wenn gesperrt</string>
   <string name="lock_screen_notifs_redact_work">Vertrauliche Arbeitsprofilmeldungen</string>
@@ -10176,40 +10176,20 @@ Einstellungen aktualisieren auf:
 <!-- v30 -->
 
   <string name="default_digital_assistant_title">Standardapp für digitalen Assistenten</string>
-  <string name="lock_screen_notifications_title">Benachr. auf Sperrbildschirm</string>
   <string name="miui_wifi_wakeup_summary">WLAN wird automatisch eingeschaltet, wenn Ihr Gerät gespeicherte Netzwerke in der Nähe erkennt und nach 15 Minuten abgeschaltet, wenn keine Verbindung hergestellt wird.</string>
   <string name="network_2G_only">Nur 2G</string>
   <string name="network_3G_only">Nur 3G</string>
   <string name="nfc_payment_update_default_label">Standard-App für kontaktloses Bezahlen aktualisieren</string>
-
-
   <string name="nfc_repair_confirm_desc">"Haben Sie mit einem dieser Probleme zu tun?
 %1$d. Sie konnten keine NFC-Karte hinzufügen oder aufladen.
 %2$d. Ihre NFC-Karte hat nicht funktioniert.
 %3$d. Andere NFC-Funktionen werden nicht geladen."</string>
-  
-  
-  
-  
   <string name="notification_log_channel">Kanal</string>
-  
-  
-  
-
-
-
   <string name="platform_compat_default_disabled_title">Standardmäßig deaktivierte Änderungen</string>
   <string name="platform_compat_default_enabled_title">Standardmäßig aktivierte Änderungen</string>
-
-
   <string name="quick_settings_media_player">Medienwiederaufnahme</string>
   <string name="quick_settings_media_player_summary">Zeigt den Mediaplayer in den Schnelleinstellungen an und hält ihn an. Erfordert einen Neustart.</string>
-
-
-
-
   <string name="system_default_app_subtext">Systemstandardeinstellung</string>
-  <string name="tethering_footer_info_sta_ap_concurrency">Mithilfe der Hotspot- und Tethering-Funktion können Sie anderen Geräten erlauben, deine Internetverbindung (WLAN oder mobile Daten) mitzunutzen. Es gibt auch Apps für das Erstellen eines Hotspots, damit Inhalte mit Geräten in der Nähe geteilt werden können.</string>
   <string name="time_zen_mode_turn_on">Zeit einschalten</string>
   <string name="usage_state_app_usage_tip_title">Bildschirmzeit zwischen %1$d:00 und %2$d:00</string>
   <string name="usage_state_device_noti_today_tip_title">Benachrichtigungen zwischen %1$d:00 und %2$d:00</string>
