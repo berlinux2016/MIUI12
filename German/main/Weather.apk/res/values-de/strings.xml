@@ -8,7 +8,7 @@
   <string name="privacy_policy_msg_for_gp"><Data>Diese App enthält folgende Funktionen: &lt;br/>• Wetterspezifische Informationen für Ihren Standort&lt;br/>• Wettervorhersagen&lt;br/>• Wetterwarnungen&lt;br/>&lt;br/>Wetter muss die notwendigen persönlichen Informationen, einschl. Standortdaten, sammeln, um diese Funktionen verfügbar zu machen, auch wenn die App geschlossen oder nicht in Gebrauch ist. Wie wir mit den Informationen umgehen, die wir gemäß unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> sammeln, erfahren Sie hier. Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung f&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Wetter verwenden. Sie können Ihre Zustimmung zu den Datenschutzvereinbarungen von Wetter jederzeit in den Einstellungen zurückziehen.</Data></string>
   <string name="revoke_fail">Netzwerkverbindung herstellen nicht möglich</string>
   <string name="revoke_privacy_policy_title">Zustimmung zurücknehmen</string>
-  <string name="weather_aqi_full_air_quality_forcast">Vollständige Luftqualitätprognose</string>
+  <string name="weather_aqi_full_air_quality_forcast">Vollständige Luftqualitätsprognose</string>
   <string name="weather_more_air_quality">Mehr zur Luftqualität</string>
   <string name="welcome_app_title">Willkommen bei Wetter!</string>
 
