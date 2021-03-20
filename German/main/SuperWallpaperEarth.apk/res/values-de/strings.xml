@@ -19,22 +19,32 @@
   <string name="abc_toolbar_collapse_description">Minimieren</string>
   <string name="actionbar_button_up_description">Zurück</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
+  <string name="am">morgens</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="copy">Kopieren</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="early_morning">Morgen</string>
   <string name="earth_position_content_0">Der Naturpark Kap Kamenjak in Kroatien beherbergt die wohl atemberaubendsten Aussichten entlang der Mittelmeerküste. Beeindruckende geologische Formationen verwandeln diesen Ort hier in ein Taucherparadies. Jeden Sommer ziehen die strahlende Sonne und das warme Wasser des Mittelmeers unzählige Outdoor-Enthusiasten an.</string>
   <string name="earth_position_content_1">"Terrassenfelder sind das Ergebnis menschlicher Aktivitäten, aber sie dienen auch als herausragender Naturschauplatz.
 In China liegen Reisterrassen hauptsächlich südlich des Jangtse-Flusses, wo es häufig regnet und Gebirgsketten reichlich vorhanden sind. Longji-Terrassen gibt es seit mehr als 700 Jahren, und in den nahe gelegenen Dörfern gibt es eine ganze Reihe historischer Denkmäler."</string>
   <string name="earth_position_content_2">Ilulissat liegt in Westgrönland, 200 Kilometer nördlich des Polarkreises. Der wunderschöne, 56 Kilometer lange Ilulissat-Eisfjord liegt direkt neben dem Gletscher Jakobshavn Isbræ. Er ist der größte Gletscher der nördlichen Hemisphäre und produziert jährlich 2 Milliarden Tonnen Eisberge. Nach einem kurzen Abstecher nach Norden biegen sie nach Süden ab und münden in den Atlantik.</string>
+  <string name="earth_position_content_3">Navagio ist einer der schönsten Strände an der Küste von Zakynthos, einer der Ionischen Inseln von Griechenland. Es soll hier ein berühmtes Schiffwrack geben, weswegen der Strand auch \"Schmugglerbucht\" genannt wird.</string>
+  <string name="earth_position_content_4">Die Dolomiten sind ein Gebirge im Nordosten von Italien. Der Berg Seceda ist wahrhaft einer der pittoresken Orte dort.</string>
   <string name="earth_position_title_0">"Kroatien
 Kap Kamenjak"</string>
   <string name="earth_position_title_1">"Guangxi, China
 Longji-Terrassenfelder"</string>
   <string name="earth_position_title_2">"Grönland
 Ilulissat"</string>
-  <string name="earth_summary">ErdeErdeErdeErdeErdeErdeErde</string>
+  <string name="earth_position_title_3">"Griechenland
+Strand von Navagio"</string>
+  <string name="earth_position_title_4">"Italien
+Dolomiten"</string>
+  <string name="earth_summary">Die Erde ist die Wiege der menschlichen Zivilisation</string>
   <string name="earth_super_wallpaper_title">Superhintergrund Erde</string>
-  <string name="earth_title">Erde</string>
+  <string name="eras_ad">n. Chr.</string>
+  <string name="eras_bc">v. Chr.</string>
+  <string name="evening">Nachmittag</string>
   <string name="expand_button_title">Erweitert</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -62,7 +72,18 @@ Ilulissat"</string>
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
-  <string name="game_view_content_description">Spieleansicht</string>
+  <string name="midnight">Nacht</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+  <string name="miuix_appcompat_action_mode_select_all">Alles auswählen</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
+  <string name="miuix_appcompat_cancel_description">Abbruch</string>
+  <string name="miuix_appcompat_confirm_description">Bestätigen</string>
+  <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
+  <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all_description">Alles auswählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
