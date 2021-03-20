@@ -946,7 +946,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
   <string name="battery_action_app_settings">App-Einstellungen</string>
   <string name="battery_action_bluetooth">Bluetooth-Einstellungen</string>
   <string name="battery_action_display">Bildschirmeinstellung</string>
-  <string name="battery_action_stop">Stop erzwingen</string>
+  <string name="battery_action_stop">Beenden erzwingen</string>
   <string name="battery_action_wifi">WLAN-Einstellungen</string>
   <string name="battery_active_for">Aktiv für ^1</string>
   <string name="battery_auto_restriction_summary">Erkennen, wenn Apps Akku entleeren</string>
