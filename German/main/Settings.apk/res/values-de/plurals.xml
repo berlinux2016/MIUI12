@@ -594,6 +594,14 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="other">%d Risiken gefunden</item>
     <item quantity="one">%d Risiko gefunden</item>
   </plurals>
+  <string-array name="wifi_link_turbo_mode_entries">
+    <item>Auxiliary</item>
+    <item>Voll</item>
+  </string-array>
+  <string-array name="wifi_link_turbo_mode_summary_entries">
+    <item>Geschwindigkeitserhöhung durch mobile Daten nur bei schlechtem WLAN-Signal</item>
+    <item>WLAN und mobile Daten kombinieren, um die Verbindungsgeschwindigkeit zu erhöhen</item>
+  </string-array>
   <plurals name="wifi_saved_access_points_summary">
     <item quantity="other">%d Netzwerke</item>
     <item quantity="one">%d Netzwerk</item>

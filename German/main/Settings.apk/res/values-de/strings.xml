@@ -9179,7 +9179,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_assistant_card_message">Automatisch mit verfügbaren Netzwerken über den WLAN-Assistenten verbinden</string>
   <string name="wifi_assistant_confirm_always">Nicht mehr fragen</string>
   <string name="wifi_assistant_confirm_connection_title">Internetverbindung nicht möglich</string>
-  <string name="wifi_assistant_data_prompt">Eingabeaufforderung aktivieren</string>
+  <string name="wifi_assistant_data_prompt">Warnung zur Datennutzung anzeigen</string>
   <string name="wifi_assistant_data_prompt_summary">Warnung zur Datennutzung beim Wechsel zu mobilen Daten anzeigen</string>
   <string name="wifi_assistant_description">"Nach Einschaltung der Funktion:
 1. Wenn die WLAN-Verbindung schlecht ist, probiert das System automatisch ein anderes verfügbares WLAN aus.
@@ -9438,12 +9438,13 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_link_turbo_app_settings_title">Apps auswählen</string>
   <string name="wifi_link_turbo_customize">Benutzerdefinierte Apps</string>
   <string name="wifi_link_turbo_customize_summary">Apps wählen, die mit dem WLAN-Assistenten funktionieren, entsprechend Ihren Präferenzen</string>
+  <string name="wifi_link_turbo_mode">Beschleunigungsmodus</string>
   <string name="wifi_link_turbo_no_app">Noch keine Apps vorhanden.</string>
   <string name="wifi_link_turbo_off">Aus</string>
   <string name="wifi_link_turbo_on">Ein</string>
   <string name="wifi_link_turbo_recommendation">Empfohlene Apps</string>
   <string name="wifi_link_turbo_recommendation_summary">Empfehlungen auf der Grundlage der Datennutzungsstatistik erhalten</string>
-  <string name="wifi_link_turbo_summary">Verbindungsgeschwindigkeit bei der Auswahl von Apps mit mobilen Daten erhöhen, wenn die WLAN-Verbindung schlecht ist</string>
+  <string name="wifi_link_turbo_summary">Mobile Daten, um die Verbindungsgeschwindigkeit zu erhöhen. Bei Verwendung dieser Funktion können zusätzliche Kosten des Anbieters anfallen.</string>
   <string name="wifi_menu_advanced">Erweitert</string>
   <string name="wifi_menu_configure">Konfigurieren</string>
   <string name="wifi_menu_connect">Mit Netzwerk verbinden</string>

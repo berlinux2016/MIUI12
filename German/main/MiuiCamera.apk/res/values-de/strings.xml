@@ -71,6 +71,7 @@
   <string name="accessibility_document_blackwhite_button">Dokumente scannen. Schwarz-Weiß.</string>
   <string name="accessibility_document_origin_button">Dokumente scannen. Original.</string>
   <string name="accessibility_document_strengthen_button">Dokumente scannen. Verbessert.</string>
+  <string name="accessibility_double_click_to_exit">Doppeltippen zum Beenden</string>
   <string name="accessibility_dual_preview_change">Änderungen anzeigen</string>
   <string name="accessibility_dual_preview_change_finish">Änderungen erfolgreich angesehen</string>
   <string name="accessibility_dual_video_merged">Kombinierte Videos</string>
@@ -122,6 +123,7 @@
   <string name="accessibility_live_preview_button">Vorheriges Element anzeigen</string>
   <string name="accessibility_live_reverse_button">Voherigen Clip löschen</string>
   <string name="accessibility_live_speed_panel_on">Panel Geschwindigkeits</string>
+  <string name="accessibility_lock_focus_success">Fokus erfolgreich gesperrt</string>
   <string name="accessibility_manually_custom_panel_on">Panel Anpassung</string>
   <string name="accessibility_mimoji_background_panel_on">Panel Hintergründe</string>
   <string name="accessibility_mimoji_gif_off">GIF-Modus ist aus</string>
@@ -196,6 +198,8 @@
   <string name="accessibility_timer_burst_image_off">Selbstauslöser-Timer ist aus</string>
   <string name="accessibility_timer_burst_image_on">Selbstauslöser-Timer ist an</string>
   <string name="accessibility_timer_burst_text">Einstellpanel Selbstauslöser-Timer</string>
+  <string name="accessibility_touch_focus_fail">Fokussieren nicht möglich</string>
+  <string name="accessibility_touch_focus_success">Erfolgreich fokussiert</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32 MP aus</string>
   <string name="accessibility_ultra_pixel_photography_32mp_on">32 MP an</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48 MP aus</string>

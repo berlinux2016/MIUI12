@@ -997,6 +997,7 @@ innerhalb des Kreises befindet"</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
   <string name="float_incall_ignore">Ignorieren</string>
   <string name="float_incall_message">Nachricht</string>
+  <string name="float_notification_snooze_strategy">Schwebende Popups vorübergehend ausblenden</string>
   <string name="force_allow_on_external">Erzwingen, dass Apps auf externen Speicher schreiben</string>
   <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
   <string name="force_hw_ui">GPU-Rendering erzwingen</string>
@@ -1488,6 +1489,15 @@ Screenshot zu erstellen"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Das ist im Moment alles</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Einen Moment…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
+  <string name="miui_snooze_always_float">Nicht ausblenden</string>
+  <string name="miui_snooze_cancel">Abbrechen</string>
+  <string name="miui_snooze_default_time">Für %d Minute</string>
+  <string name="miui_snooze_to_settings">Einstellungen</string>
+  <string name="miui_snooze_toast_hint_default">"Anstehende Benachrichtigungen werden für %d Minute ausgeblendet. "</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"Anstehende Benachrichtigungen werden ausgeblendet, bis das Gerät gesperrt wird. "</string>
+  <string name="miui_snooze_until_unlock_screen">Bis zum Sperren</string>
+  <string name="miui_snooze_user_set_fail">Für mehr Optionen zu Einstellungen > Benachrichtigungen &amp; Kontrollzentrum gehen</string>
+  <string name="miui_snooze_user_set_success">Erfolgreich angewendet. Für mehr Optionen zu Einstellungen > Benachrichtigungen &amp; Kontrollzentrum gehen</string>
   <string name="mobile_data">Mobile Daten</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Daten immer aktiv lassen, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung)</string>

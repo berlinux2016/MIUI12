@@ -179,7 +179,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="feedback_choose_third_app_name">App-Name wählen</string>
   <string name="feedback_collect_log_failed">Protokolle nicht möglich</string>
   <string name="feedback_contact_info_hint">Telefonnummer/E-Mail</string>
-  <string name="feedback_continue">Weiter mit Feedback</string>
+  <string name="feedback_continue">Feedback senden</string>
   <string name="feedback_delete_images">Bilder löschen</string>
   <string name="feedback_description">Beschreibung</string>
   <string name="feedback_description_bugreport_hint">In manchen Fällen (…) verhält sich mein Telefon abnormal (…)</string>
@@ -797,7 +797,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="stop_full_log_dialog_title">Protokolle erstellen…</string>
   <string name="submit_dialog_cancel">Nicht zustimmen</string>
   <string name="submit_dialog_confirm">Zustimmen</string>
-  <string name="submit_dialog_content"><Data>Ihr Feedback wird zusammen mit Anhängen und Protokollen an MIUI Server gesendet. Es kann persönliche Informationen und Ihre Standortdaten enthalten. \"Zustimmen"\ bedeutet, dass Sie unsere &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert haben.</Data></string>
+  <string name="submit_dialog_content"><Data>"Lesen Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und stimmen Sie zu, bevor Sie Feedback einreichen. Die von Ihnen gemeldeten Probleme werden zusammen mit den von Ihnen angehängten Elementen (einschließlich der Protokolle, die persönliche Informationen enthalten können, sowie der Informationen über Ihr Gerät und Netzwerk) auf die Server von MIUI hochgeladen. Dies wird uns helfen, die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen. Wenn Sie Probleme im Zusammenhang mit mehreren Geräten melden, werden auch die Protokolle von anderen Geräten, auf denen Ihr Mi-Konto verwendet wird, hochgeladen.</Data></string>
   <string name="submit_dialog_content_global"><Data>Ihr Feedback wird zusammen mit Anhängen (falls vorhanden) und Protokollen (Sie können die Kästchen für die Elemente, die Sie nicht hochladen möchten, deaktivieren) an die MIUI Server gesendet. Informationen über Ihre Threads und Forenaktivitäten werden ebenfalls zur Analyse und weiteren Kommunikation gesammelt. Protokolle können persönliche Informationen und Ihre Standortdaten enthalten. \"Zustimmen"\ bedeutet, dass Sie unsere &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert haben.</Data></string>
   <string name="submit_dialog_not_show_again">Nicht mehr anzeigen</string>
   <string name="submit_dialog_title">Bericht senden</string>
