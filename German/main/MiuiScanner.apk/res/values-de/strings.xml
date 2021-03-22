@@ -720,6 +720,7 @@
   <string name="weixin_qrcode_process_type_tip">Wählen Sie, wie Sie diesen WeChat-Code verarbeiten möchten</string>
   <string name="weixinqrcode_process_fail_tip">WeChat-Code wurde nicht verarbeitet</string>
   <string name="welcome_to_thesweepversion">Willkommen bei Scanner Beta!</string>
+  <string name="wifi">WLAN</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_exist_fail">Hotspot \"%1$s\" existiert bereits. Löschen und erneut scannen, um eine Verbindung herzustellen.</string>
   <string name="wifi_low_version_prompt">WLAN-Eingabeaufforderung</string>
