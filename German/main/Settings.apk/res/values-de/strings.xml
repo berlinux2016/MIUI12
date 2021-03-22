@@ -10189,6 +10189,5 @@ Einstellungen aktualisieren auf:
   <string name="quick_settings_media_player_summary">Zeigt den Mediaplayer in den Schnelleinstellungen an und hält ihn an. Erfordert einen Neustart.</string>
   <string name="system_default_app_subtext">Systemstandardeinstellung</string>
   <string name="time_zen_mode_turn_on">Zeit einschalten</string>
-  <string name="usage_state_app_usage_tip_title">Bildschirmzeit zwischen %1$d:00 und %2$d:00</string>
   <string name="wifi_band_60ghz">60 GHz</string>
 </resources>
