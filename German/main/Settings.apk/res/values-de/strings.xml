@@ -4701,6 +4701,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="micloud_service_summary">App-Liste synchronisieren, Systemeinstellungen und Startbildschirm-Layout sichern</string>
   <string name="middle_function_key">Zentraler Bereich</string>
   <string name="miheadet_up_music">Oben</string>
+  <string name="miheadset_Box">Box</string>
   <string name="miheadset_LeftEar">Links</string>
   <string name="miheadset_RightEar">Rechts</string>
   <string name="miheadset_active">Kraftvoll</string>
@@ -9444,7 +9445,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_link_turbo_on">Ein</string>
   <string name="wifi_link_turbo_recommendation">Empfohlene Apps</string>
   <string name="wifi_link_turbo_recommendation_summary">Empfehlungen auf der Grundlage der Datennutzungsstatistik erhalten</string>
-  <string name="wifi_link_turbo_summary">Mobile Daten, um die Verbindungsgeschwindigkeit zu erhöhen. Bei Verwendung dieser Funktion können zusätzliche Kosten des Anbieters anfallen.</string>
+  <string name="wifi_link_turbo_summary">Mobile Daten nutzen, um die Verbindungsgeschwindigkeit zu erhöhen. Bei Verwendung dieser Funktion können zusätzliche Anbieterkosten anfallen.</string>
   <string name="wifi_menu_advanced">Erweitert</string>
   <string name="wifi_menu_configure">Konfigurieren</string>
   <string name="wifi_menu_connect">Mit Netzwerk verbinden</string>

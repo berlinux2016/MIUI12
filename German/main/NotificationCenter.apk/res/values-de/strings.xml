@@ -58,6 +58,8 @@
   <string name="feedback_tip_cancel">Benachrichtigungsdaten werden nicht gesammelt.</string>
   <string name="feedback_tip_msg">Um Benachrichtigungen genauer zu gruppieren, müssen wir den App-Namen, den Titel und Beschreibung sowie den Versandszeitpunkt der Benachrichtigung erfassen. Feedback senden?</string>
   <string name="feedback_tip_title">Feedback zu den Benachrichtigungskategorien</string>
+  <string name="float_notification_snooze_strategy">Temporär ausblenden</string>
+  <string name="float_notification_snooze_summary">Auf einem Popup hochwischen, um kommende Benachrichtigungen vorübergehend auszublenden</string>
   <string name="float_notifications">Popup</string>
   <string name="float_notifications_short">Popup</string>
   <string name="fmt_date_day">d.</string>
@@ -121,6 +123,10 @@ schirm"</string>
   <string name="menu_setting_unfold">Wichtig</string>
   <string name="mune_setting_prefix_category">"Gruppe mit "</string>
   <string name="midnight">Nacht</string>
+  <string name="miui_snooze_always_float">Nicht ausblenden</string>
+  <string name="miui_snooze_cancel">Abrrechen</string>
+  <string name="miui_snooze_default_time">Für %d Min</string>
+  <string name="miui_snooze_until_unlock_screen">Bis zum Entsperren</string>
   <string name="miuix_appcompat_cloud_state_disabled">Synchronisation mit der Cloud ist aus</string>
   <string name="miuix_appcompat_cloud_state_finished">Erfolgreich mit der Cloud synchronisiert</string>
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
@@ -203,6 +209,8 @@ leiste"</string>
   <string name="notification_fold_description1">Benachrichtigungsordner wurde in MIUI 9 eingeführt. Diese Funktion filtert unwichtige Benachrichtigungen und legt sie in einem separaten Ordner ab.</string>
   <string name="notification_fold_description2">MIUI merkt sich, welche Benachrichtigungen Sie antippen, und verwendet dann mehrere Kriterien, um festzustellen, ob sie wichtig sind.</string>
   <string name="notification_fold_description3">Wenn Benachrichtigungen, die Sie für wichtig halten, immer noch in den Benachrichtigungsordner gelangen, melden Sie solche Probleme an uns. Wir freuen uns über Ihr Feedback.</string>
+  <string name="notification_fold_footer_icon_summary">App-Symbole anzeigen, wenn unwichtige Benachrichtigungen gruppiert werden</string>
+  <string name="notification_fold_footer_icon_title">App-Symbole anzeigen</string>
   <string name="notification_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt</string>
   <string name="notification_fold_title">Benachrichtigungsordner</string>
   <string name="notification_keyguard_hide_content">Benachrichtigungen anzeigen, aber Inhalte ausblenden</string>
