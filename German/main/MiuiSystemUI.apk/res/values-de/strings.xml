@@ -1491,9 +1491,9 @@ Screenshot zu erstellen"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
   <string name="miui_snooze_always_float">Nicht ausblenden</string>
   <string name="miui_snooze_cancel">Abbrechen</string>
-  <string name="miui_snooze_default_time">Für %d Minute</string>
+  <string name="miui_snooze_default_time">Für %d Min</string>
   <string name="miui_snooze_to_settings">Einstellungen</string>
-  <string name="miui_snooze_toast_hint_default">"Anstehende Benachrichtigungen werden für %d Minute ausgeblendet. "</string>
+  <string name="miui_snooze_toast_hint_default">"Anstehende Benachrichtigungen werden für %d Min ausgeblendet. "</string>
   <string name="miui_snooze_toast_hint_until_unlock_screen">"Anstehende Benachrichtigungen werden ausgeblendet, bis das Gerät gesperrt wird. "</string>
   <string name="miui_snooze_until_unlock_screen">Bis zum Sperren</string>
   <string name="miui_snooze_user_set_fail">Für mehr Optionen zu Einstellungen > Benachrichtigungen &amp; Kontrollzentrum gehen</string>
