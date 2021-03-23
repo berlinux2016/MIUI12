@@ -1680,7 +1680,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_msg_transparent_dispaly">Benachrichtigungen mit transparentem Hintergrund</string>
   <string name="gb_network_status_bad">Ein Verbindungsfehler ist aufgetreten.</string>
   <string name="gb_new_feature">Neue Funktion</string>
-  <string name="gb_not_support_on_device">App kann auf dem außeren Bildschirm nicht verwendet werden</string>
+  <string name="gb_not_support_on_device">App kann auf dem äußeren Bildschirm nicht verwendet werden</string>
   <string name="gb_operat_frequently">Nicht so schnell!</string>
   <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
   <string name="gb_shoulder_key">Schultertasten</string>
