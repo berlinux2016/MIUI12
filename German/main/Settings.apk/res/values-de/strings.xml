@@ -7985,7 +7985,7 @@ Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakt
   <string name="system_app_settings">System-App-Einstellungen</string>
   <string name="system_apps_updater">Updater für System-Apps</string>
   <string name="system_backup">Sicherung</string>
-  <string name="system_backup_info">Systemeinstellungen und Startbildschirmlayout</string>
+  <string name="system_backup_info">Systemeinstellungen und Startbildschirm-Layout</string>
   <string name="system_backup_section_title">Sicherung</string>
   <string name="system_backup_section_title_new">Lokal</string>
   <string name="system_dashboard_summary">Sprachen, Zeit, Sicherung, Updates</string>

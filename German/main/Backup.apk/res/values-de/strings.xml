@@ -473,7 +473,7 @@ Mindestens %s freigeben."</string>
   <string name="summary_err_restore_encrypting">Wiederherstellung fehlgeschlagen. Stellen Sie sicher, dass diese Sicherung mit Ihrem Mi-Konto erstellt wurde.</string>
   <string name="summary_err_restore_no_network">Netzwerkverbindung fehlgeschlagen</string>
   <string name="system_backup">Sicherung</string>
-  <string name="system_backup_info">Systemeinstellungen und Startbildschirmlayout</string>
+  <string name="system_backup_info">Systemeinstellungen und Startbildschirm-Layout</string>
   <string name="task_backup_cancel_progress">Anhalten…</string>
   <string name="task_backup_finished_local">"Gesichert: "</string>
   <string name="task_canceled">Sicherung abgebrochen</string>

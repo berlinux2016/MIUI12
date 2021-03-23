@@ -558,8 +558,8 @@
   <string name="resource_canary_wait_for_heapdump_message">Dumping Heap-Schnappschuss…</string>
   <string name="restore_icon_successful">Erfolgreich hinzugefügt</string>
   <string name="russia_preinstall_folder_name">Russisch</string>
-  <string name="screen_cells_config_title">Startbildschirmlayout</string>
-  <string name="screen_locked_toast">Startbildschirmlayout ist gesperrt</string>
+  <string name="screen_cells_config_title">Startbildschirm-Layout</string>
+  <string name="screen_locked_toast">Startbildschirm-Layout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
   <string name="scroll_tip_format_when_announce_accessibility">Auf Seite %1$d %2$d Apps</string>
   <string name="search_in_apps_store">Nach \"%1$s\" in %2$s suchen</string>

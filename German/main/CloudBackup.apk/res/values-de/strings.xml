@@ -174,7 +174,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="doing_calc_backup_data_size">Größe berechnen…</string>
   <string name="doing_restore_home">Startbildschirm und Einstellungen wiederherstellen…</string>
   <string name="done_remove">Erfolgreich entfernt</string>
-  <string name="download_home_data">Startbildschirmlayout herunterladen…</string>
+  <string name="download_home_data">Startbildschirm-Layout herunterladen…</string>
   <string name="download_meta_again">Sicherung wurde nicht geladen, erneut versuchen</string>
   <string name="download_meta_failed">Daten laden fehlgeschlagen</string>
   <string name="download_settings">Startbildschirmeinstellungen herunterladen %s%%</string>
