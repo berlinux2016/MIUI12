@@ -1680,7 +1680,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_msg_transparent_dispaly">Benachrichtigungen mit transparentem Hintergrund</string>
   <string name="gb_network_status_bad">Ein Verbindungsfehler ist aufgetreten.</string>
   <string name="gb_new_feature">Neue Funktion</string>
-  <string name="gb_not_support_on_device">Diese App kann auf dem aäßeren Bildschirm nicht verwendet werden</string>
+  <string name="gb_not_support_on_device">App kann auf dem außeren Bildschirm nicht verwendet werden</string>
   <string name="gb_operat_frequently">Nicht so schnell!</string>
   <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
   <string name="gb_shoulder_key">Schultertasten</string>
@@ -1868,7 +1868,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
   <string name="hints_scan_result_no_finish">Scan abgebrochen, erneut versuchen!</string>
   <string name="hints_scan_result_phone_safe">Sieht gut aus</string>
   <string name="hints_scan_result_safe">Prüfen &amp; scannen</string>
-  <string name="hints_scanning">"Scannen… "</string>
+  <string name="hints_scanning">"Gescannt wird » "</string>
   <string name="hints_scanning_text">Scannen…</string>
   <string name="hints_virus_apk_summary">%s (APK)</string>
   <string name="hints_virus_app_summary">%s (App)</string>
@@ -4446,7 +4446,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="vtb_other_milink_connect">Video übertragen jetzt nicht möglich. Im Begriff, andere Elemente zu übertragen…</string>
   <string name="vtb_stop_milink_connect">Videoübertragung gestoppt</string>
   <string name="vtb_func_desc">Über diese Funktion</string>
-  <string name="vtb_func_display_style_desc0">AI kann Personen, Tiere, Pflanzen, Himmel, Gebäude und andere Objekte in Videos erkennen und dynamisch verbessern.</string>
+  <string name="vtb_func_display_style_desc0">KI kann Personen, Tiere, Pflanzen, Himmel, Gebäude und andere Objekte in Videos erkennen und dynamisch verbessern.</string>
   <string name="vtb_func_display_style_desc1">Ausgewählte Effekte werden nicht auf HDR-Videos auf ausgewählten Geräten angewendet.</string>
   <string name="vtb_func_display_style_desc2">Diese Effekte können nicht auf Screenshots angewendet werden bei.</string>
   <string name="vtb_func_frc_desc0">Bewegungsglättung reduziert die Unschärfe und fügt den sich bewegenden Objekten Details hinzu. Die Verwendung dieser Funktion erhöht den Stromverbrauch.</string>

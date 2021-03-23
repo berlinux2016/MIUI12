@@ -723,7 +723,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
   <string name="pref_title_alarm_remind">Alarmerinnerungen</string>
   <string name="pref_title_no_remind">Keine</string>
   <string name="pref_title_notification_remind">Benachrichtigung</string>
-  <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
+  <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
   <string name="preferences_alarm_default_event_title">Einstellen einer Alarmerinnerung</string>
   <string name="preferences_alarms_category_title">Alarmerinnerungen</string>
   <string name="preferences_alarms_default_event">Termin auswählen</string>
