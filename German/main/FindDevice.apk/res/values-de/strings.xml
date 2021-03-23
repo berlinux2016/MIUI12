@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="find_device_notice_sms_alert_with_common_charge_hint">"In order to update SIM status and make sure that all services work normally, one &lt;font color=#0097FF>&lt;b>paid text message&lt;/b>&lt;/font> will be sent after you switch SIM cards. You'll be charged for this message by your carrier."</string>
+  <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"In order to update SIM status and make sure that all services work normally, one &lt;font color=#0097FF>&lt;b>domestic paid text message&lt;/b>&lt;/font> will be sent after you switch SIM cards. You'll be charged for this message by your carrier."</string>
+  <string name="find_device_notice_sms_alert_with_internal_charge_hint">"In order to update SIM status and make sure that all services work normally, one &lt;font color=#0097FF>&lt;b>international paid text message&lt;/b>&lt;/font> will be sent after you switch SIM cards. You'll be charged for this message by your carrier."</string>
+
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

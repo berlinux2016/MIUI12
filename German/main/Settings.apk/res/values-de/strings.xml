@@ -4709,6 +4709,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_LeftEar">Links</string>
   <string name="miheadset_RightEar">Rechts</string>
   <string name="miheadset_active">Kraftvoll</string>
+  <string name="miheadset_adaptive">Anpassbar</string>
   <string name="miheadset_ancBalance">Mittel</string>
   <string name="miheadset_ancClosed">Aus</string>
   <string name="miheadset_ancDecrease">Niedrig</string>

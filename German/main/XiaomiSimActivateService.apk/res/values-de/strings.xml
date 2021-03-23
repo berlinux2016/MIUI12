@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
+  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
+  <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b>will be sent. Your carrier will charge you for this message.</string>
+  <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">To activate %3$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b> and &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
+  <string name="activate_popup_desc_sim_card_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>paid SMS&lt;/font> will be sent. Your carrier will charge you for this message.</string>
+
+
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS gesendet, um \"Gerät finden\" zu aktivieren</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS von SIM-Karte %s gesendet, um \"Gerät finden\" zu aktivieren</string>

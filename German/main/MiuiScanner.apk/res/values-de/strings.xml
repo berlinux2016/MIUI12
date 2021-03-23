@@ -452,6 +452,7 @@
   <string name="phone_can_not_be_empty">Rufnummer darf nicht leer sein</string>
   <string name="phone_number">Rufnummer</string>
   <string name="phone_storage">Interner Speicher</string>
+  <string name="picture">Galerie</string>
   <string name="picker_lable">Foto</string>
   <string name="picture_is_being_saved">Bild wird gespeichert</string>
   <string name="place_barcode_into_rectangle">Code innerhalb des Rahmens platzieren</string>
@@ -661,6 +662,7 @@
   <string name="translate_dest_lang">Zielsprache</string>
   <string name="translate_fail">Übersetzung nicht möglich</string>
   <string name="translate_loading">Übersetzen…</string>
+  <string name="translate_overtime">Dienst-Zeitüberschreitung</string>
   <string name="translate_parallel_2_lines">Achten Sie darauf, dass der Text parallel zu den Linien auf dem Bildschirm ist</string>
   <string name="translate_save_fail">Notiz nicht gespeichert</string>
   <string name="translate_src_lang">Ausgangssprache</string>
