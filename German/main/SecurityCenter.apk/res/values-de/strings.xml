@@ -211,8 +211,8 @@
   <string name="app_behavior_autostart_single">Diese App startete automatisch</string>#
   <string name="app_behavior_calendar">%1s-Zugriff auf Ihren Terminkalender</string>
   <string name="app_behavior_calendar_bg">%1s-Zugriff auf Ihren Terminkalender im Hintergrund</string>
-  <string name="app_behavior_calendar_bg_single">Diese App griff im Hintergrund auf Ihre Kalendertermine zu</string>
-  <string name="app_behavior_calendar_single">Diese App greift auf Ihre Kalendertermine zu</string>
+  <string name="app_behavior_calendar_bg_single">Diese App griff im Hintergrund auf Ihre Kalenderteinträge zu</string>
+  <string name="app_behavior_calendar_single">Diese App greift auf Ihre Kalenderteinträge zu</string>
   <string name="app_behavior_calllog">%1s-Zugriff auf Anrufliste</string>
   <string name="app_behavior_calllog_bg">%1s-Zugriff auf Anrufliste im Hintergrund</string>
   <string name="app_behavior_calllog_bg_single">Diese App griff im Hintergrund auf die Anrufliste zu</string>

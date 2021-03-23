@@ -282,11 +282,11 @@ Zwischenablage lesen verweigert"</string>
   <string name="permdesc_location_background">Standortzugriff im Hintergrund</string>
   <string name="permdesc_microphone">Aufnehmen von Anrufen und Audio</string>
   <string name="permdesc_out_calls">Ausgehende Anrufe überwachen</string>
-  <string name="permdesc_read_calendar">Zugriff auf Kalendertermine</string>
+  <string name="permdesc_read_calendar">Zugriff auf Kalenderteinträge</string>
   <string name="permdesc_read_storage">Zugriff auf Fotos und Dateien, die auf dem Gerät gespeichert sind</string>
   <string name="permdesc_recognition">Zugriff auf Gesundheits- &amp; Aktivitätsdaten</string>
   <string name="permdesc_sensors">Zugriff auf Körpersensordaten</string>
-  <string name="permdesc_write_calendar">Zugriff auf und Hinzufügen von Kalenderterminen</string>
+  <string name="permdesc_write_calendar">Zugriff auf und Hinzufügen von Kalenderteinträgen</string>
   <string name="permdesc_write_storage">Zugriff auf und Speicherung von Fotos und Dateien auf dem Gerät</string>
   <string name="permgroupdesc_calendar">Auf Kalendereinträge zugreifen</string>
   <string name="permgroupdesc_calllog">Anrufliste lesen und schreiben</string>
