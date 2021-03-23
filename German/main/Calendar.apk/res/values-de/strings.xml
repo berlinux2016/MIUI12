@@ -461,6 +461,7 @@
   <string name="import_action">Importieren</string>
   <string name="import_birthday">Geburtstage importieren</string>
   <string name="import_help">Hilfe</string>
+  <string name="import_lark_failed">Dienstausnahme, Import fehlgeschlagen</string>
   <string name="import_text">Importieren</string>
   <string name="imported">Wurden importiert</string>
   <string name="insert_event_dialog_btn_negative">Nein</string>

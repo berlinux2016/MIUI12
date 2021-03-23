@@ -200,11 +200,13 @@
   <string name="current_wallpaper">Aktuell</string>
   <string name="custom_wallpaper_picker">Durchstöbern</string>
   <string name="defalut_launcher_title">Standard-Launcher</string>
+  <string name="default_folder_title_hot">Beliebte Apps</string>
   <string name="default_folder_title_game">Spiele</string>
   <string name="default_folder_title_meitu">Meitu Apps</string>
   <string name="default_folder_title_other_apps">Andere Apps</string>
   <string name="default_folder_title_recommend">Mehr Apps</string>
   <string name="default_folder_title_services">Dienste</string>
+  <string name="default_launcher_title">Standard-Launcher</string>
   <string name="default_screen_preview_title">Als Standardbildschirm festlegen</string>
   <string name="delete">Löschen</string>
   <string name="delete_category_dialog_content">Diese Kategorie kann nicht wiederhergestellt werden, wenn Sie sie löschen. Trotzdem löschen?</string>
