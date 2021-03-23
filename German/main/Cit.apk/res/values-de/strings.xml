@@ -368,6 +368,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_hide_menu">Menü verbergen</string>
   <string name="cit_hvdcp_charger_in">Laden über (USB_HVDCP)</string>
   <string name="cit_init_fp_fod_test_tip">Init-Fingerabdruck-Testumgebung</string>
+  <string name="cit_keyboard_auto_test_summary">Die getesteten Tastenereignisse werden unten angezeigt. Grün bedeutet, dass das entsprechende Event normal funktioniert. Drücken Sie die Power-Taste, um den Automatikmodus zu beenden.</string>
   <string name="cit_kayboard_home_down">Taste: HOME</string>
   <string name="cit_kayboard_power_down">Taste: POWER</string>
   <string name="cit_kayboard_volume_down">Taste: LAUTSTÄRKE RUNTER</string>
@@ -853,6 +854,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
   <string name="next">Nächste</string>
   <string name="next_step">Nächster Schritt</string>
   <string name="nfc_disable_tip">Bitte NFC-Funktion einschalten</string>
+  <string name="nfc_not_available">NFC nicht verfügbar</string>
   <string name="no">Nein</string>
   <string name="no_vibrator">Keine Vibration</string>
   <string name="noise">Geräusch:</string>

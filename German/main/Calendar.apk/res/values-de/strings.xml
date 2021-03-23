@@ -119,8 +119,10 @@
   <string name="calendar_account_settings">Kontoeinstellungen</string>
   <string name="calendar_import_source">Quelle</string>
   <string name="calendar_network_error">Netzwerkfehler</string>
+  <string name="calendar_privacy_policy">Datenschutzerklärung</string>
   <string name="calendar_refresh">Aktualisieren</string>
   <string name="calendar_subscription_group_title">Kalender-Abos</string>
+  <string name="calendar_user_agreement">Nutzervereinbarung</string>
   <string name="can_not_create_long_event">Eintrag ist zu lang</string>
   <string name="can_not_modify_allday_event">Ganztägige Einträge können nicht verändert werden</string>
   <string name="can_not_modify_event">Eintrag kann nicht verändert werden</string>
@@ -157,6 +159,7 @@
   <string name="click_paste">Tippen zum Einfügen</string>
   <string name="close_alarm">Ausschalten</string>
   <string name="content_confirm_close_chinese_calendar">Alle Ihre Termine, die auf dem traditionellen chinesischen Kalender basieren, werden in den gregorianischen Kalender umgewandelt, wenn Sie diese Funktion deaktivieren. Bei wiederkehrenden Terminen werden Jahre und Monate des gregorianischen Kalenders verwendet.</string>
+  <string name="copy">Kopieren</string>
   <string name="copy_email">E-Mail-Adresse kopieren</string>
   <string name="copy_number">Telefonnummer kopieren</string>
   <string name="countdown_event_title">[Countdown] %1$s</string>
@@ -309,6 +312,7 @@
   <string name="event_title">Titel</string>
   <string name="event_view">Termin anzeigen</string>
   <string name="every_weekday">Montag - Freitag</string>
+  <string name="expand_button_title">Erweitert</string>
   <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
   <string name="fb_birthday_failure">Geburtstage konnten von Facebook nicht importiert werden. Erneut versuchen.</string>
   <string name="fb_birthday_import_pref_desc">Geburtstage von Facebook-Freunden importieren</string>
@@ -564,9 +568,12 @@ einstellungen"</string>
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+  <string name="miuix_appcompat_select_item">Elemente wählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
@@ -685,6 +692,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
   <string name="no_visiable_calendar_select_account">Konto auswählen</string>
   <string name="no_visiable_calendar_title">Kalenderkonto auswählen</string>
   <string name="noon">Mittag</string>
+  <string name="not_set">Nicht festgelegt</string>
   <string name="not_synced">Nicht synchronisiert</string>
   <string name="notification_channel_name">Kalendererinnerungen</string>
   <string name="notification_channel_name_no_sound">Ausgeblendete Erinnerungen</string>
@@ -715,6 +723,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
   <string name="pref_title_alarm_remind">Alarmerinnerungen</string>
   <string name="pref_title_no_remind">Keine</string>
   <string name="pref_title_notification_remind">Benachrichtigung</string>
+  <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
   <string name="preferences_alarm_default_event_title">Einstellen einer Alarmerinnerung</string>
   <string name="preferences_alarms_category_title">Alarmerinnerungen</string>
   <string name="preferences_alarms_default_event">Termin auswählen</string>
@@ -745,6 +754,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
   <string name="preferences_use_home_tz_title">Heimatzeit beibehalten</string>
   <string name="preferences_week_start_day_dialog">Die Woche beginnt am</string>
   <string name="preferences_week_start_day_title">Wochenbeginn</string>
+  <string name="prefsx_notify_sound_none">Stumm</string>
   <string name="premission_description_agree">Dieser App die Internetverbindung erlauben und die oben aufgeführten erforderlichen Genehmigungen erteilen.</string>
   <string name="premission_description_calendar">Zum Hinzufügen und Anzeigen Ihrer Termine</string>
   <string name="premission_description_contact">Zur Anzeige der Geburtstage Ihrer Kontakte</string>
@@ -937,6 +947,7 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="subscription_service_unsupported">Abo-Dienst nicht möglich, ohne den Netzwerkberechtigungen zuzustimmen</string>
   <string name="summary_import_by_caldav">Wir unterstützen CalDAV-Konten von Feishu und iCloud</string>
   <string name="summary_import_by_email">Wir unterstützen Exchange-Unternehmenskonten, QQ Mail und Outlook</string>
+  <string name="summary_import_by_feishu">Wir unterstützen Feishu-Konten</string>
   <string name="summary_import_by_local">Wir unterstützen ICS-Dateien</string>
   <string name="summary_import_by_url">URL-Abonnement hinzufügen</string>
   <string name="summer_begins">Sommeranfang</string>
@@ -1030,6 +1041,7 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="title_confirm_close_chinese_calendar">Chinesischen Kalender ausschalten</string>
   <string name="title_import_by_caldav">CalDav-Konto importieren</string>
   <string name="title_import_by_email">Vom E-Mail-Konto importieren</string>
+  <string name="title_import_by_feishu">Vom Feishu-Konto importieren</string>
   <string name="title_import_by_local">Kalenderdateien importieren</string>
   <string name="title_import_by_url">Über URL importieren</string>
   <string name="toast_block_by_other_work">Warten, bis die aktuelle Aufgabe abgeschlossen ist, und erneut versuchen</string>
@@ -1136,8 +1148,10 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="user_notice_button_exit">Beenden</string>
   <string name="user_notice_message">Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie den Kalender nutzen können. Einige Funktionen, Zugang zum Standort, Kontakte und SMS, erfordern eine Internetverbindung, um normal zu funktionieren.</string>
   <string name="user_notice_title">Achtung</string>
+  <string name="v7_preference_off">AUS</string>
+  <string name="v7_preference_on">EIN</string>
   <string name="valentines_day">Valentinstag</string>
-   <string name="valentines_day_tradition">Valentinstag</string>
+  <string name="valentines_day_tradition">Valentinstag</string>
   <string name="vernal_equinox">Frühjahrstagundnachtgleiche</string>
   <string name="vernal_equinox_tradition">Frühjahrstagundnachtgleiche</string>
   <string name="view_event_calendar_label">Kalender:</string>
