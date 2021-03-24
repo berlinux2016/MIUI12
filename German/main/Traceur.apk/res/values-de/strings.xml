@@ -48,7 +48,7 @@
   <string name="adb_pair_method_qrcode_summary">Neue Geräte mit QR-Code-Scanner koppeln</string>
   <string name="adb_pair_method_qrcode_title">Gerät mit QR-Code koppeln</string>
   <string name="adb_paired_devices_title">Gekoppelte Geräte</string>
-  <string name="adb_pairing_device_dialog_failed_msg">Überprüfen Sie, dass das Gerät mit demselben Netzwerk verbunden ist</string>
+  <string name="adb_pairing_device_dialog_failed_msg">Prüfen Sie, ob das Gerät mit demselben Netzwerk verbunden ist</string>
   <string name="adb_pairing_device_dialog_failed_title">Kopplung fehlgeschlagen</string>
   <string name="adb_pairing_device_dialog_pairing_code_label">WLAN-Pairing-Code</string>
   <string name="adb_pairing_device_dialog_title">Mit Gerät koppeln</string>
