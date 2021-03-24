@@ -1,39 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cached_apps_freezer_device_default">Standardgerät</string>
-  <string name="call_connected_tones_title">Ton bei Anrufverbindung</string>
-  <string name="conversation_section_switch_summary">Der App erlauben, den Gesprächsbereich zu verwenden</string>
-  <string name="conversation_section_switch_title">Gesprächsauswahl</string>
-  <string name="dialog_network_priority_title">Priorität</string>
-  <string name="gsm_umts_network_preferences_dialogtitle">Netzwerkmodus</string>
-  <string name="gsm_umts_network_preferences_title">Netzwerkmodus</string>
-  <string name="interact_across_profiles_summary_3">Sie können Apps jederzeit in den Datenschutzeinstellungen Ihres Geräts deaktivieren.</string>
-  <string name="keywords_storage_menu_free">bereinigen, Speicher</string>
-  <string name="keywords_vibrate_for_calls">Vibration</string>
-  <string name="keywords_wifi_display_settings">spiegeln</string>
-  <string name="network_id">Netzwerk-ID</string>
-  <string name="notification_conversation_summary_low">Kein Ton oder Vibration und erscheint im Gesprächsbereich weiter unten</string>
-  <string name="overlay_settings_summary">Zulassen, dass Apps, die über anderen Apps angezeigt werden können, die Einstellungsbildschirme überlagern</string>
-  <string name="overlay_settings_title">Bildschirmüberlagerungen bei Einstellungen zulassen</string>
-  <string name="peak_refresh_rate_summary">Erhöht bei einigen Inhalten automatisch die Bildwiederholfrequenz von 60 auf 90 Hz, erhöhter Akkuverbrauch.</string>
-  <string name="peak_refresh_rate_title">Glatte Anzeige</string>
-  <string name="plmn_failure_radio_off">Auswahl bei Netzwerkausfall aufgrund von Funk \"AUS\" oder nicht verfügbar</string>
-  <string name="power_menu_privacy_show_cards">Karten anzeigen, wenn gesperrt</string>
-  <string name="priority_conversation_count_zero">Keine vorrangigen Gespräche</string>
-  <string name="reading_settings">Einstellungen lesen…</string>
-  <string name="runtime_permissions_summary_control_app_access">Kontrolle des App-Zugriffs auf Ihre Daten</string>
-  <string name="updating_settings">Einstellungen aktualisieren…</string>
-  <string name="uplmn_list_setting_add_plmn">Neues PLMN</string>
-  <string name="uplmn_settings_summary">Bevorzugte PLMNs in Prioritätsreihenfolge definieren</string>
-  <string name="uplmn_settings_title">Benutzergesteuertes PLMN</string>
-  <string name="voicemail_number_not_set">&lt;Nicht festgelegt></string>
-  <string name="wifi_ap_hidden_ssid">SSID ausblenden</string>
-  <string name="wifi_ap_ssid_off">AUS</string>
-  <string name="wifi_ap_ssid_on">EIN</string>
-
-
-
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -235,9 +201,11 @@ Abtastrate"</string>
   <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
   <string name="bugreport_in_power_summary">Schaltfläche für Fehlerberichte im Power-Menü anzeigen</string>
   <string name="button_convert_fbe">Löschen und konvertieren…</string>
+  <string name="cached_apps_freezer_device_default">Standardgerät</string>
   <string name="cached_apps_freezer_disabled">Deaktiviert</string>
   <string name="cached_apps_freezer_enabled">Aktiviert</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Ihr Gerät muss neu gestartet werden, damit diese Änderung wirksam wird. Jetzt neu starten oder abbrechen.</string>
+  <string name="call_connected_tones_title">Ton bei Anrufverbindung</string>
   <string name="cancel">Abbrechen</string>
   <string name="category_personal">Persönlich</string>
   <string name="category_work">Arbeit</string>
@@ -252,6 +220,8 @@ Abtastrate"</string>
   <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="content_description_menu_button">Menü</string>
+  <string name="conversation_section_switch_summary">Der App erlauben, den Gesprächsbereich zu verwenden</string>
+  <string name="conversation_section_switch_title">Gesprächsauswahl</string>
   <string name="convert_to_fbe_warning">"Konvertieren der Datenpartition in dateibasierte Verschlüsselung.
 Warnung: Dies löscht alle Ihre Daten.
 Diese Funktion wird gerade entwickelt und arbeitet eventuell nicht richtig.
@@ -292,6 +262,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="development_settings_summary">Optionen für App-Entwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
   <string name="device_picker">Bluetooth-Geräteeinstellungen</string>
+  <string name="dialog_network_priority_title">Priorität</string>
   <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart startet diese App erst, wenn Sie Ihr Telefon entsperrt haben.</string>
   <string name="disable_overlays">HW-Overlays ausschalten</string>
   <string name="disable_overlays_summary">Immer GPU zur Darstellung verwenden</string>
@@ -360,6 +331,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
   <string name="get_target_info">Zielinfo abrufen</string>
   <string name="goto_package">%1$s öffnen</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Netzwerkmodus</string>
+  <string name="gsm_umts_network_preferences_title">Netzwerkmodus</string>
   <string name="guest_exit_guest">Gast entfernen</string>
   <string name="guest_new_guest">Gast hinzufügen</string>
   <string name="guest_nickname">Gast</string>
@@ -410,8 +383,12 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="inactive_apps_title">Standby-Apps</string>
   <string name="install_other_apps">Installieren unbekannter Apps</string>
   <string name="install_package">Für weitere Funktionen %1$s installieren</string>
+  <string name="interact_across_profiles_summary_3">Sie können Apps jederzeit in den Datenschutzeinstellungen Ihres Geräts deaktivieren.</string>
   <string name="keep_screen_on">An lassen</string>
   <string name="keep_screen_on_summary">Bildschirm geht beim Laden nicht aus</string>
+  <string name="keywords_storage_menu_free">bereinigen, Speicher</string>
+  <string name="keywords_vibrate_for_calls">Vibration</string>
+  <string name="keywords_wifi_display_settings">spiegeln</string>
   <string name="launch_defaults_none">Kein Standard gesetzt</string>
   <string name="launch_defaults_some">Einige Standards gesetzt</string>
   <string name="loading_injected_setting_summary">Laden…</string>
@@ -493,8 +470,10 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="mr_dialog_groupable_header">Gerät hinzufügen</string>
   <string name="mr_dialog_transferable_header">In einer Gruppe spielen</string>
   <string name="mr_user_route_category_name">Geräte</string>
+  <string name="network_id">Netzwerk-ID</string>
   <string name="no_application">Keine Apps</string>
   <string name="not_set">Nicht festgelegt</string>
+  <string name="notification_conversation_summary_low">Kein Ton oder Vibration und erscheint im Gesprächsbereich weiter unten</string>
   <string name="notify_device_lose_connection_text">Tippen, um %1$s zu trennen</string>
   <string name="notify_device_lose_connection_title">Verbindung mit %1$s verloren</string>
   <string name="oem_unlock_enable">OEM-Entsperrung</string>
@@ -505,11 +484,16 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="osu_sign_up_complete">Anmeldung abgeschlossen. Verbinden…</string>
   <string name="osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen, um erneut zu versuchen.</string>
   <string name="overlay_display_devices_title">Sekundärdsplay simulieren</string>
+  <string name="overlay_settings_summary">Zulassen, dass Apps, die über anderen Apps angezeigt werden können, die Einstellungsbildschirme überlagern</string>
+  <string name="overlay_settings_title">Bildschirmüberlagerungen bei Einstellungen zulassen</string>
+  <string name="peak_refresh_rate_summary">Erhöht bei einigen Inhalten automatisch die Bildwiederholfrequenz von 60 auf 90 Hz, erhöhter Akkuverbrauch.</string>
+  <string name="peak_refresh_rate_title">Glatte Anzeige</string>
   <string name="perm_ble_des">Zugriff auf BLE-Einstellungen</string>
   <string name="perm_ble_lab">Zugriff auf BLE-Einstellungen</string>
   <string name="picture_color_mode">Bildfarbenmodus</string>
   <string name="picture_color_mode_desc">sRGB verwenden</string>
   <string name="play_decode_audio">Audio abspielen</string>
+  <string name="plmn_failure_radio_off">Auswahl bei Netzwerkausfall aufgrund von Funk \"AUS\" oder nicht verfügbar</string>
   <string name="pointer_location">Zeigerposition</string>
   <string name="pointer_location_summary">Bildschirm-Overlay mit aktuellen Touch-Daten</string>
   <string name="power_charging_duration">%1$s - %2$s bis voll</string>
@@ -520,6 +504,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="power_discharge_by_only_short">Bis %1$s</string>
   <string name="power_discharging_duration">%1$s - ca. %2$s übrig</string>
   <string name="power_discharging_duration_enhanced">Ca. %1$s übrig, basierend auf Ihrer Nutzung (%2$s)</string>
+  <string name="power_menu_privacy_show_cards">Karten anzeigen, wenn gesperrt</string>
   <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
   <string name="power_remaining_duration_only">Ca. %1$s übrig</string>
   <string name="power_remaining_duration_only_enhanced">Ca. %1$s übrig, basierend auf Ihrer Nutzung</string>
@@ -533,6 +518,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="power_suggestion_battery_run_out">Akku ist voraussichtlich um %1$s leer</string>
   <string name="power_suggestion_extend_battery">Akkulaufzeit auf über %1$s verlängern</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
+  <string name="priority_conversation_count_zero">Keine vorrangigen Gespräche</string>
   <string name="private_dns_broken">Private-DNS-Server ist nicht erreichbar</string>
   <string name="private_dns_mode_off">Aus</string>
   <string name="private_dns_mode_opportunistic">Automatisch</string>
@@ -542,6 +528,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="profile_connect_timeout_subtext">Problem beim Verbinden. Gerät aus- &amp; wieder einschalten</string>
   <string name="profile_info_settings_title">Profilinfo</string>
   <string name="progress_scanning">Suchen…</string>
+  <string name="reading_settings">Einstellungen lesen…</string>
   <string name="remaining_length_format">%1$s verbleiben</string>
   <string name="reset_function_msg">Wenn Sie diese Funktion zurücksetzen, funktioniert %1$s eventuell nicht mehr ordungsgemäß</string>
   <string name="retail_demo_reset_message">Passwort eingeben, um im Demomodus auf Werkseinstellungen zurückzusetzen</string>
@@ -550,6 +537,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="running_process_item_user_label">Benutzer: %1$s</string>
   <string name="runningservices_settings_summary">Aktuell ausgeführte Dienste anzeigen und steuern</string>
   <string name="runningservices_settings_title">Aktive Dienste</string>
+  <string name="runtime_permissions_summary_control_app_access">Kontrolle des App-Zugriffs auf Ihre Daten</string>
   <string name="saved_network">Gespeichert von %1$s</string>
   <string name="screen_zoom_summary_custom">Benutzerdefiniert (%d)</string>
   <string name="screen_zoom_summary_default">Standard</string>
@@ -650,6 +638,10 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="unbind_device_alert_ok">Trennen</string>
   <string name="unbind_device_alert_title">Gerät trennen</string>
   <string name="unknown">Unbekannt</string>
+  <string name="updating_settings">Einstellungen aktualisieren…</string>
+  <string name="uplmn_list_setting_add_plmn">Neues PLMN</string>
+  <string name="uplmn_settings_summary">Bevorzugte PLMNs in Prioritätsreihenfolge definieren</string>
+  <string name="uplmn_settings_title">Benutzergesteuertes PLMN</string>
   <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
   <string name="usb_audio_disable_routing_summary">Automatisches Routing auf USB-Audio-Peripheriegeräte deaktivieren</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache nutzen</string>
@@ -683,6 +675,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
   <string name="v7_preference_on">AN</string>
   <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
   <string name="verify_apps_over_usb_title">Apps über USB prüfen</string>
+  <string name="voicemail_number_not_set">&lt;Nicht festgelegt></string>
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="wait_for_debugger">Auf Debugger warten</string>
   <string name="wait_for_debugger_summary">Debugged-App wartet auf den Debugger, bevor sie ausgeführt wird</string>
@@ -711,6 +704,9 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
   <string name="wapi_psk_type">Passworttyp</string>
   <string name="wapi_psk_type_hex">Hexadezimal</string>
   <string name="wapi_yes">Ja</string>
+  <string name="wifi_ap_hidden_ssid">SSID ausblenden</string>
+  <string name="wifi_ap_ssid_off">AUS</string>
+  <string name="wifi_ap_ssid_on">EIN</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt zeitweise voll</string>
   <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
   <string name="wifi_cant_connect">Verbindung nicht möglich</string>
