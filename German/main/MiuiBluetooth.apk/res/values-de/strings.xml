@@ -22,6 +22,7 @@
   <string name="accessibility_manual_zen_less_time">Weniger Zeit</string>
   <string name="accessibility_manual_zen_more_time">Mehr Zeit</string>
   <string name="accessibility_no_wifi">WLAN getrennt</string>
+  <string name="accessibility_tutorial_pager">Seite %1$d von %2$d</string>
   <string name="accessibility_wifi_off">WLAN aus</string>
   <string name="accessibility_wifi_one_bar">WLAN 1 Balken</string>
   <string name="accessibility_wifi_security_type_none">Offenes Netzwerk</string>
@@ -32,7 +33,7 @@
   <string name="accessibility_work_profile_app_description">Arbeit %s</string>
   <string name="accessor_expires_text">Mietvertrag läuft ab am %s</string>
   <string name="accessor_info_title">Apps, die Daten teilen</string>
-  <string name="accessor_no_description_text">Die App liefert keine Beschreibung.</string>
+  <string name="accessor_no_description_text">App liefert keine Beschreibung.</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
   <string name="adb_device_fingerprint_title_format">Gerätefingerabdruck: %1$s</string>
   <string name="adb_device_forget">Vergessen</string>
@@ -197,6 +198,8 @@ Abtastrate"</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
+  <string name="bubble_app_setting_bubble_conversation">Blasen für diese Unterhaltung einschalten</string>
+  <string name="bubble_app_setting_unbubble_conversation">Blasen für diese Unterhaltung ausschalten</string>
   <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
   <string name="bugreport_in_power_summary">Schaltfläche für Fehlerberichte im Power-Menü anzeigen</string>
   <string name="button_convert_fbe">Löschen und konvertieren…</string>
