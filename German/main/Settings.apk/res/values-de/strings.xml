@@ -4612,6 +4612,8 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="max_fingerprint_reached_toast">Sie können bis zu 5 Fingerabdrücke hinzufügen</string>
   <string name="maximum_memory_use">Maximaler Speicherverbrauch</string>
   <string name="mbn_version">MBN-Version</string>
+  <string name="mechanical_ime">Mechanische Tastatur</string>
+  <string name="mechanical_ime_hint">Wird nur von der für Xiaomi angepassten Tastatur unterstützt</string>
   <string name="media_button">Medientaste</string>
   <string name="media_category">Medien</string>
   <string name="media_feedback_enable_title">Mit dem Rhythmus vibrieren</string>
@@ -9847,6 +9849,8 @@ Diese Funktion wird automatisch ausgeschaltet, wenn der Ladevorgang nicht innerh
   <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Stellen Sie sicher, dass der Downloadmanager normal funktioniert.</string>
   <string name="xiaomi_custom_input_method">Angepasst für Xiaomi</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicher verfügbar, prüfen Sie die SD-Karte</string>
+  <string name="xiaomi_hp_location">Hochpräzise Ortung ermöglichen</string>
+  <string name="xiaomi_hp_location_description">Verbesserung der GNSS-Genauigkeit durch hochpräzisen Netzwerkzugriff</string>
   <string name="xiaomi_router_available_notif_summary">Tippen für weitere Infos</string>
   <string name="xiaomi_router_available_notif_title">Mi Router verfügbar</string>
   <string name="xiaomi_router_notif_summary">Benachrichtigen, wenn ein Mi Router verfügbar ist</string>
