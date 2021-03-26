@@ -667,8 +667,8 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="wind_direction_no_data">Windstärke</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">Wetter ist eine System-App. Sie können nach der Deinstallation der App keine Wetterinformationen mehr anzeigen oder zugehörige Widgets verwenden.</string>
-  <string name="xiaomi_weather_description_content_remove">Wetter ist eine System-App. Sie können keine Wetterinformationen anzeigen oder zugehörige Widgets verwenden, nachdem Sie die Startseitenverknüpfung entfernt haben.</string>
+  <string name="xiaomi_weather_description_content">Wetter ist eine System-App. Nach Deinstallation der App können Sie keine Wetterinfos mehr anzeigen oder zugehörige Widgets verwenden.</string>
+  <string name="xiaomi_weather_description_content_remove">Wetter ist eine System-App. Sie können keine Wetterinfos anzeigen oder zugehörige Widgets verwenden, wenn Sie die Startseitenverknüpfung entfernen.</string>
   <string name="xiaomi_weather_description_title">\"Wetter\" deinstallieren?</string>
   <string name="xiaomi_weather_description_title_remove">\"Wetter\" vom Startbildschirm entfernen?</string>
   <string name="yes_vote_ratio">%1$s%% dafür</string>
