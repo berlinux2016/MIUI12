@@ -170,6 +170,7 @@
   <string name="ks_download_success">Erfolreich heruntergeladen</string>
   <string name="ks_fingerprint_payment">Fingerabdruckzahlung</string>
   <string name="ks_fingerprint_status">Zahlungsstatus</string>
+  <string name="ks_name_high_precise_position">Hochpräzise Position</string>
   <string name="ks_name_passpoint">WLAN-Passpoint</string>
   <string name="ks_status_available">Verfügbar</string>
   <string name="ks_status_unavailable">Nicht verfügbar</string>

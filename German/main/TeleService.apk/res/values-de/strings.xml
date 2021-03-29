@@ -2582,6 +2582,7 @@ Prüfen Sie die Internetverbindung auf Ihrem Router und versuchen Sie es erneut.
 Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
   <string name="wfc_wifi_handover_fail">Hoppla! Ihr Anruf kann nicht durchgeführt werden.</string>
   <string name="wfc_wifi_lte_handover_fail">Hoppla! Kein verfügbares LTE-Netz, um den Anruf fortzusetzen.</string>
+  <string name="wfcmode_ims_preferred">IMS bevorzugt</string>
   <string name="wfcmode_mobile_preferred">Mobilfunk bevorzugt</string>
   <string name="wfcmode_wifi_only">Nur WLAN</string>
   <string name="wfcmode_wifi_preferred">WLAN bevorzugt</string>

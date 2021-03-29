@@ -386,6 +386,8 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="reg_error_server">Serverfehler aufgetreten. Fehler an uns melden und erneut versuchen.</string>
   <string name="reg_error_upload_audio">Datei hochladen fehlgeschlagen, erneut versuchen.</string>
   <string name="reg_error_upload_order">Hochladen fehlgeschlagen, erneut versuchen.</string>
+  <string name="remove_icon_description_content">Rekorder ist eine System-App. Sie können keine Aufnahmen mehr verwalten, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
+  <string name="remove_icon_description_title">\"Rekorder\" vom Startbildschirm entfernen?</string>
   <string name="rename">Umbenennen</string>
   <string name="rename_dialog_title">Aufnahme umbenennen</string>
   <string name="rename_duplicate">Bitte neu eingeben: Eine Aufnahme mit demselben Namen ist bereit vorhanden.</string>
