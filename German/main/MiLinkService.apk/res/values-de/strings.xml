@@ -33,6 +33,8 @@
   <string name="copy">Kopieren</string>
   <string name="date_picker_lunar">Mondkalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+  <string name="debug_mode_merge_support">Gibt an, ob das Apps-Zusammenführen unterstützt werden soll</string>
+  <string name="debug_mode_milink_version">MiLink-Version本</string>
   <string name="device_desc_trust">Vertrauenswürdige Geräte</string>
   <string name="dialog_can_not_find_device">Keine Geräte in der Nähe gefunden</string>
   <string name="dialog_cancle">Abbrechen</string>
@@ -62,7 +64,9 @@ Für weitere Fragen lesen Sie bitte die Hilfe."</string>
 
 2. Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. \"Hilfe\" ansehen, um mehr zu erfahren."</string>
   <string name="dialog_scanning_device">Nach Geräten in der Nähe suchen…</string>
-  <string name="dialog_scanning_precondition">Schalten Sie WLAN und Bluetooth auf Ihrem Telefon ein, um die kabellose Anzeige zu verwenden.</string>
+  <string name="dialog_scanning_precondition">WLAN und Bluetooth auf Ihrem Telefon einschalten, um die kabellose Anzeige zu verwenden.</string>
+  <string name="dialog_scanning_precondition_new_china">WLAN, Bluetooth und Ortungsdienste einschalten, um die kabellose Anzeige zu verwenden. Jetzt einschalten?</string>
+  <string name="dialog_scanning_precondition_new_global">WLAN, Bluetooth und Ortungsdienste einschalten, um die kabellose Anzeige zu verwenden. Jetzt einschalten?</string>
   <string name="dialog_select_tv">Gerät wählen (%d)</string>
   <string name="dialog_show_help">Hilfe</string>
   <string name="disconnect">Übertragung stoppen</string>

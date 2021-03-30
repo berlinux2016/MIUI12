@@ -824,8 +824,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="dnd_is_off">DND ist aus</string>
   <string name="dnd_notification_warnings_title">DND ist an. Anrufe und Benachrichtigungen werden stumm geschaltet.</string>
   <string name="dnd_suppressing_shade_text">Benachrichtigungen angehalten durch "\Nicht stören\"</string>
-  <string name="do_disclosure_generic">Dieses Gerät wird von Ihrer Firma verwaltet</string>
-  <string name="do_disclosure_with_name">Dieses Gerät wird von %s verwaltet</string>
+  <string name="do_disclosure_generic">Dieses Gerät gehört zu Ihrer Firma</string>
+  <string name="do_disclosure_with_name">Dieses Gerät gehört zu %s</string>
   <string name="do_not_silence">Kein Lautlosmodus</string>
   <string name="do_not_silence_block">Kein Lautlosmodus oder Blockieren</string>
   <string name="dock_alignment_not_charging">Telefon neu ausrichten, um kabellos zu laden</string>
