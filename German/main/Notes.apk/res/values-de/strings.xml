@@ -391,7 +391,7 @@
   <string name="note_mindnote_entrance_hint_newversion">"Eingabe beginnen "</string>
   <string name="note_mindnote_entrance_icon_text">Merkhilfe erstellen</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Merkhilfe erstellen</string>
-  <string name="note_sort_way">Auswählen, wie Sie Ihre Notizen sortieren möchten</string>
+  <string name="note_sort_way">Sortieren</string>
   <string name="notealert_enter">Notiz öffnen</string>
   <string name="notealert_ok">Ablehnen</string>
   <string name="notelist_menu_new">Neu</string>

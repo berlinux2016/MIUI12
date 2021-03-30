@@ -1301,6 +1301,13 @@ Das hier könnte schief gelaufen sein:
   <string name="bluetooth_max_connected_audio_devices_string">"Max. verbundene-
 BT-Audiogeräte"</string>
   <string name="bluetooth_menu_advanced">Erweiterte Einstellungen</string>
+  <string name="bluetooth_message_access_dialog_content">"Ein nicht vertrauenswürdiges Bluetooth-Gerät %1$s, möchte auf Ihre Nachrichten zugreifen.
+
+Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
+  <string name="bluetooth_message_access_dialog_title">Zugriff auf Nachrichten zulassen?</string>
+  <string name="bluetooth_phonebook_access_dialog_title">Zugriff auf Kontakte und Anrufliste zulassen?</string>
+  <string name="bluetooth_phonebook_access_notification_content">Untrusted device wants to access your contacts and call log. Tap for details.</string>
+  <string name="bluetooth_message_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Nachrichten zugreifen. Auf Details tippen.</string>
   <string name="bluetooth_message_move_out_of_blacklist">%1$s jetzt entsperren?</string>
   <string name="bluetooth_mi_fast_connect">Kompatible Geräte koppeln</string>
   <string name="bluetooth_mi_fast_connect_summary">Verbindung zu Geräten in der Nähe mittels eines vereinfachten Kopplungsprozesses</string>
