@@ -158,6 +158,7 @@
   <string name="clipboard_read_allow_once">%1$s griff auf Elemente in der Zwischenablage zu</string>
   <string name="clipboard_read_deny_dialog_title">"• %1$s
 Zwischenablage lesen verweigert"</string>
+  <string name="close">Schließen</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
   <string name="default_permission_description">unbekannte Aktionen ausführen</string>
@@ -331,6 +332,7 @@ Zwischenablage lesen verweigert"</string>
   <string name="screen_overlay_message">Um diese Berechtigung zu ändern, müssen Sie das Bildschirmfenster unter Einstellungen &gt; Apps ausschalten.</string>
   <string name="screen_overlay_title">Bildschirmfenster erkannt</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="send">Senden</string>
   <string name="solar_term_autumn_begins">Herbstanfang</string>
   <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
   <string name="solar_term_clear_and_bright">Klar und hell</string>

@@ -72,6 +72,7 @@
   <string name="bt_toast_6">Übertragung der Datei an \"%1$s\" wurde abgebrochen</string>
   <string name="btopp_live_folder">Per Bluetooth empfangen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
+  <string name="close">Schließen</string>
   <string name="date_picker_dialog_title">Datum einstellen</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -245,6 +246,7 @@
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="send">Senden</string>
   <string name="snapdragon_sound_notification_content">Dieses Gerät unterstützt die Qualcomm® Snapdragon Sound™-Technologie</string>
   <string name="solar_term_autumn_begins">Herbstanfang</string>
   <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
