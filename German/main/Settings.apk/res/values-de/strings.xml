@@ -9856,8 +9856,8 @@ Diese Funktion wird automatisch ausgeschaltet, wenn der Ladevorgang nicht innerh
   <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Stellen Sie sicher, dass der Downloadmanager normal funktioniert.</string>
   <string name="xiaomi_custom_input_method">Angepasst für Xiaomi</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicher verfügbar, prüfen Sie die SD-Karte</string>
-  <string name="xiaomi_hp_location">Hochpräzise Ortung ermöglichen</string>
-  <string name="xiaomi_hp_location_description">Verbesserung der GNSS-Genauigkeit durch hochpräzisen Netzwerkzugriff</string>
+  <string name="xiaomi_hp_location">Präziser Standortzugriff</string>
+  <string name="xiaomi_hp_location_description">Präzise Standortinfos ermöglichen eine genaue Navigation</string>
   <string name="xiaomi_router_available_notif_summary">Tippen für weitere Infos</string>
   <string name="xiaomi_router_available_notif_title">Mi Router verfügbar</string>
   <string name="xiaomi_router_notif_summary">Benachrichtigen, wenn ein Mi Router verfügbar ist</string>

@@ -122,6 +122,8 @@
   <string name="music_headphone_settings">Kopfhörertyp auswählen</string>
   <string name="music_headset_audio_visual">Visuelle Effekte</string>
   <string name="music_headset_audio_visual_apply">Anwenden</string>
+  <string name="music_headset_audio_visual_mute">Vorschau ohne Ton</string>
+  <string name="music_headset_audio_visual_unmute">Vorschau mit Ton</string>
   <string name="music_headset_audio_visual_style">Visueller Effektstil</string>
   <string name="music_headset_audio_visual_style_summary">Visuellen Effektstil auswählen</string>
   <string name="music_headset_audio_visual_summary">Ton mit visuellen Effekten begleiten, die auf dem Sperrbildschirm angezeigt werden</string>
@@ -175,6 +177,8 @@ Fernbedienungstasten"</string>
   <string name="music_upper_sixty_years">Über 60 Jahre alt</string>
   <string name="not_set">Nicht festgelegt</string>
   <string name="now_here">Und jetzt?</string>
+  <string name="not_support_sound_transmission_content">Diese Funktion wird von dem angeschlossenen Gerät nicht unterstützt. Ein anderes Bluetooth-Gerät versuchen.</string>
+  <string name="not_support_sound_transmission_prompt">Achtung</string>
   <string name="original_sound">Originalton abspielen</string>
   <string name="personal_sound">Wiedergabe mit angewandter Voreinstellung</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
