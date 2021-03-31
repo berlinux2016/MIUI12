@@ -97,6 +97,7 @@
   <string name="cancel_alarm_description">Alarm beenden</string>
   <string name="check_in_todo_app">Aufgaben anzeigen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
+  <string name="close">Schließen</string>
   <string name="cloud_service_state_open_reminder">Synchronisation mit der Cloud einschalten, um Notizen zu synchronisieren</string>
   <string name="cloud_service_state_open_reminder_note_and_todo">Synchronisation mit der Cloud einschalten</string>
   <string name="cloud_trash_bin_title">Notizen in der Cloud löschen</string>
@@ -322,10 +323,13 @@
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suche</string>
+  <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
+  <string name="miuix_appcompat_select_item">Elemente wählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -523,6 +527,7 @@
   <string name="search_path_notes">Einstellungen/System-Apps/Notizen</string>
   <string name="search_setting_description">Text in Notizen suchen</string>
   <string name="select_account_prompt">Notizen sychronisieren</string>
+  <string name="send">Senden</string>
   <string name="set_alarm_description">Alarm einstellen</string>
   <string name="setting_other">ANDERE</string>
   <string name="setting_privacy">Datenschutzerklärung</string>

@@ -101,9 +101,9 @@
   <string name="auto_play_next_on">Autoplay ist an</string>
   <string name="back_to_mainpage">Entdecken</string>
   <string name="before_yestoday">Vor 2 Tagen</string>
-  <string name="cast_expanded_controller_live_head_description">Aktuelle Position ist am Anfang des Live-Streams</string>
   <string name="bind_sign_in_title">Mi-Konto hinzufügen</string>
   <string name="browser_error">Zurzeit nicht verfügbar, bitte später wieder versuchen</string>
+  <string name="brvah_app_name">Bibliothek</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_choose">Abwählen</string>
   <string name="cancel_subscribe_tips">Nicht mehr folgen?</string>
@@ -117,6 +117,7 @@
   <string name="cast_expanded_controller_ad_image_description">Bild, das angezeigt wird, während das Abspielgerät Werbung wiedergibt</string>
   <string name="cast_expanded_controller_ad_in_progress">Werbung läuft gerade…</string>
   <string name="cast_expanded_controller_background_image">Albumcover</string>
+  <string name="cast_expanded_controller_live_head_description">Aktuelle Position ist am Anfang des Live-Streams</string>
   <string name="cast_expanded_controller_live_stream_indicator">Livestream</string>
   <string name="cast_expanded_controller_loading">Laden…</string>
   <string name="cast_expanded_controller_skip_ad_label">Werbung überspringen</string>
@@ -266,7 +267,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="dialog_privacy_revoke_ok">Widerrufen</string>
   <string name="dialog_privacy_revoke_success">Erfolgreich widerrufen</string>
   <string name="dialog_privacy_revoking">Zustimmung widerrufen…</string>
-  <string name="dialog_privacy_title">Genehmigung</string>
+  <string name="dialog_privacy_title">Allgemeine Geschäftsbedingungen</string>
   <string name="dialog_revoke_privacy_info_new2">Wenn Sie die Genehmigung widerrufen, stoppt die App die Datenerfassung, und alle damit verbundenen Daten werden von unseren Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Genehmigung trotzdem widerrufen?</string>
   <string name="dialog_revoke_privacy_title">Genehmigung widerrufen</string>
   <string name="disagree">Ablehnen</string>
@@ -1376,7 +1377,18 @@ Es zeigt nichts an."</string>
   <string name="v_updating">Aktualisieren…</string>
   <string name="v_video_null">Keine Videos</string>
   <string name="video_already_download_tip">Sie haben dieses Element bereits heruntergeladen</string>
+  <string name="video_download_btn">Herunterladen</string>
   <string name="video_download_fail">Video herunterladen nicht möglich</string>
+  <string name="video_download_fail_hint">Herunterladen nicht möglich</string>
+  <string name="video_download_floating_guide">Kostenlose Videos herunterladen</string>
+  <string name="video_download_forbidden">Herunterladen von dieser Webseite nicht möglich</string>
+  <string name="video_download_network_error">Netzwerk fehler</string>
+  <string name="video_download_play_video_guide">Erst das Video abspielen.</string>
+  <string name="video_download_play_video_guide2">Dann auf die Taste zum Herunterladen tippen.</string>
+  <string name="video_download_source">Web-Download</string>
+  <string name="video_download_start">Herunterladen…</string>
+  <string name="video_download_storage_error">Nicht genügend Speicher</string>
+  <string name="video_downloading">Herunterladen…</string>
   <string name="video_live_over">Diese Sitzung ist beendet</string>
   <string name="video_noyet_download_tip">Dieses Video wird noch heruntergeladen</string>
   <string name="video_offline">Dieses Element ist nicht mehr verfügbar</string>

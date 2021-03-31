@@ -18,6 +18,7 @@
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="actionbar_button_up_description">Zurück</string>
+  <string name="adaptive_fps_tip">2. Erzielen Sie die beste Balance zwischen Ruckfreiheit und Akkulaufzeit, indem Sie die Aktualisierungsrate dynamisch anpassen.</string>
   <string name="advanced_mode">Erweiterte Einstellungen</string>
   <string name="africa_introduction">Die Tierwelt gedeiht in Afrika - der Heimat vieler der berühmtesten Tiere der Welt.</string>
   <string name="african_bush_elephant">Afrikanischer Buschelefant</string>
@@ -77,6 +78,7 @@
   <string name="class_breast_feeding">Säugetiere</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="click_to_save">Auf \"Fertig\" tippen, um einen allgemeinen Klingelton einzustellen.</string>
+  <string name="close">Schließen</string>
   <string name="color_gamut">Farbraum</string>
   <string name="common_brushtail">Buschschwanzbeutelratte</string>
   <string name="common_ostrich">Strauß</string>
@@ -426,6 +428,7 @@
   <string name="search_menu_title">Suchen</string>
   <string name="search_nature_mix">Naturmuseum, Tiere</string>
   <string name="search_notification_sound">Benachrichtigungsklingelton; Persönlichkeit; exklusiv; Naturmuseum; Tier</string>
+  <string name="send">Senden</string>
   <string name="several_days_use_time">Bildschirmzeit: %2$s</string>
   <string name="short_eared_owl">Sumpfohreule</string>
   <string name="shortcut_created">Verknüpfung wurde erstellt</string>
