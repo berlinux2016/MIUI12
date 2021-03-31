@@ -2,7 +2,7 @@
 <resources>
     <string name="cetus_invisible_mode">Inkognito</string>
     <string name="cetus_invisible_mode_description_card">Berechtigungen aussetzen</string>
-    <string name="cetus_invisible_mode_description_switch">Einschalten, um Mikrofon-, Kamera- und ortsbezogene Berechtigungen für alle Apps auszusetzen</string>
+    <string name="cetus_invisible_mode_description_switch">Einschalten, um Mikrofon-, Kamera- und Standortberechtigungen für alle Apps auszusetzen</string>
     <string name="cetus_invisible_mode_warn_all">Sie sind inkognito. Die Berechtigungen für Mikrofon, Kamera und Standort sind aufgehoben.</string>
     <string name="cetus_invisible_mode_warn_camera">Sie sind inkognito. Die Kamerarechte sind aufgehoben.</string>
     <string name="cetus_invisible_mode_warn_location">Sie sind inkognito. Die Standortberechtigungen sind aufgehoben.</string>
@@ -10,13 +10,13 @@
     <string name="power_center_night_charge_noti_subtitle">Akku wird bis %s vollständig geladen sein</string>
     <string name="power_center_night_charge_noti_title">Optimiertes Laden ist an</string>
     <string name="power_center_night_charge_protection">Optimiertes Laden</string>
-    <string name="power_center_night_charge_protection_setting">Weitere Optionen finden Sie unter Sicherheit > Akku</string>
+    <string name="power_center_night_charge_protection_setting">Weitere Optionen finden Sie unter Sicherheit &gt; Akku</string>
     <string name="power_center_night_charge_protection_summary">Um die Alterung des Akkus zu reduzieren, lernt MIUI aus Ihrer täglichen Laderoutine, um unnötiges Dauerladen zu reduzieren</string>
     <string name="power_dailog_night_charge_protection_done">Verstanden</string>
-    <string name="power_dailog_night_charge_protection_summary">Es sieht so aus, als ob Ihr Akku die meiste Zeit voll geladen ist, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
+    <string name="power_dailog_night_charge_protection_summary">Sieht aus, als ob Ihr Akku die meiste Zeit voll geladen ist, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
     <string name="storage_clear_available_total_size">%1$s/%3$s belegt | %2$s verfügbar</string>
     <string name="storage_clear_cache">%s freigeben</string>
-    <string name="storage_clear_cache_deep">Speiche freigeben</string>
+    <string name="storage_clear_cache_deep">Speicher freigeben</string>
     <string name="storage_clear_cache_large">%s freigeben</string>
     <string name="storage_clear_more_tools">Weitere Bereinigungstools</string>
     <string name="storage_clear_video">Video-Cache bereinigen</string>
