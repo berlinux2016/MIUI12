@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -78,7 +78,7 @@ dd. MM."</string>
     <string name="fmt_date_short_month_day">dd.MM.</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
-    <string name="font_thickness">Font weight</string>
+    <string name="font_thickness">Schriftstärke</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">Fr</string>
@@ -186,9 +186,9 @@ dd. MM."</string>
     <string name="mtrl_picker_text_input_date_hint">Datum</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Zum Kalendereingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
@@ -235,25 +235,25 @@ dd. MM."</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="step_to_image_community">Mehr auf Mi-Community entdecken</string>
-    <string name="sub_screen_app_name">Rückseitiger Bildschirm</string>
+    <string name="sub_screen_app_name">Zweiter Bildschirm</string>
     <string name="subscreen_other">Sonstiges</string>
     <string name="subscreen_other_dialog_cancel">Abbrechen</string>
     <string name="subscreen_other_dialog_confirm">OK</string>
     <string name="subscreen_other_dialog_goto">Hinzufügen</string>
-    <string name="subscreen_other_dialog_message">Der Super-Stromsparer deaktiviert den Hauptbildschirm. Du kannst dann mit dem Rückseiten-Display nur die Uhrzeit überprüfen, Anrufe annehmen und deinen Notfallkontakt anrufen. Dein Gerät wird bis zu %d Tagen mit einer einzigen Aufladung funktionieren können, wenn der Super-Stromsparer eingeschaltet ist. Den Super-Stromsparer jetzt einschalten?</string>
-    <string name="subscreen_other_dialog_title">Super-Stromsparer</string>
-    <string name="subscreen_other_next_dialog_message">Du musst einen Notfallkontakt hinzufügen, bevor du den Super-Stromsparer benutzt. Jetzt hinzufügen?</string>
-    <string name="subscreen_other_wilderness_summary">Der Super-Stromsparer deaktiviert den Hauptbildschirm. Du kannst dann mit dem Rückseiten-Display nur die Uhrzeit überprüfen, Anrufe annehmen und deinen Notfallkontakt anrufen. Dein Gerät wird bis zu %d Tagen mit einer einzigen Aufladung funktionieren können, wenn der Super-Stromsparer eingeschaltet ist.</string>
-    <string name="subscreen_other_wilderness_title">Super-Stromsparer</string>
+    <string name="subscreen_other_dialog_message">Super-Stromsparmodus deaktiviert den Hauptbildschirm. Sie können dann mit dem 2. Bildschirm nur die Uhrzeit überprüfen, Anrufe annehmen und Ihren Notfallkontakt anrufen. Ihr Gerät wird bis zu %d Tage mit einer einzigen Aufladung funktionieren, wenn der Super-Stromsparmodus eingeschaltet ist. Den Super-Stromsparmodus jetzt einschalten?</string>
+    <string name="subscreen_other_dialog_title">Super-Stromsparmodus</string>
+    <string name="subscreen_other_next_dialog_message">Sie müssen einen Notfallkontakt hinzufügen, bevor Sie den Super-Stromsparmodus benutzen. Jetzt hinzufügen?</string>
+    <string name="subscreen_other_wilderness_summary">Super-Stromsparmodus deaktiviert den Hauptbildschirm. Sie können dann mit dem 2. Bildschirm nur die Uhrzeit überprüfen, Anrufe annehmen und Ihren Notfallkontakt anrufen. Ihr Gerät wird bis zu %d Tage mit einer einzigen Aufladung funktionieren, wenn der Super-Stromsparmodus eingeschaltet ist.</string>
+    <string name="subscreen_other_wilderness_title">Super-Stromsparmodus</string>
     <string name="subscreen_settings_fail">Aktion konnte nicht abgeschlossen werden</string>
     <string name="subscreen_settings_mode">Danach ausschalten</string>
-    <string name="subscreen_settings_style">Rückseitiges Bildschirmthema</string>
+    <string name="subscreen_settings_style">Thema 2. Bildschirm</string>
     <string name="subscreen_settings_title">Always-On-Display</string>
     <string name="subscreen_switch_content">Benachrichtigungsinhalte anzeigen</string>
-    <string name="subscreen_switch_content_summary">Benachrichtigungsinhalte auf dem Rückseiten-Display anzeigen</string>
-    <string name="subscreen_switch_summary">Elemente auf dem Rückseiten-Display zeigen, wenn es nach oben zeigt</string>
-    <string name="subscreen_switch_title">Rückseitiger Bildschirm benutzen</string>
-    <string name="subscreen_title">Rückseitiger Bildschirm</string>
+    <string name="subscreen_switch_content_summary">Benachrichtigungsinhalte auf dem 2. Bildschirm anzeigen</string>
+    <string name="subscreen_switch_summary">Elemente auf dem 2. Bildschirm anzeigen, wenn es nach oben zeigt</string>
+    <string name="subscreen_switch_title">2. Bildschirm benutzen</string>
+    <string name="subscreen_title">Zweiter Bildschirm</string>
     <string name="subscreen_wakeup_title">Zum Einschalten doppeltippen</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
