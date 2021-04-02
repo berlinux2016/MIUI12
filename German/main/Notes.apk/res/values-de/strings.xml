@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="audio_btn_mode_meeting">Meeting</string>
-  <string name="audio_btn_mode_single">One person</string>
-  <string name="audio_btn_trans">Chinese-English translation</string>
-  <string name="audio_dialog_mode_meeting">Meeting mode (Beta)</string>
-  <string name="audio_dialog_mode_meeting_exit">No thanks</string>
-  <string name="audio_dialog_mode_meeting_sum">Meeting mode allows you to recognize the voices of up to 4 different people. Some recognition errors might occur in Beta version.</string>
-  <string name="audio_dialog_mode_meeting_use">Start</string>
+  <string name="audio_btn_mode_meeting">Konferenz</string>
+  <string name="audio_btn_mode_single">Eine Teilnehmer</string>
+  <string name="audio_btn_trans">Chinesisch-Englisch-Übersetzung</string>
+  <string name="audio_dialog_mode_meeting">Konferenzmodus (Beta)</string>
+  <string name="audio_dialog_mode_meeting_exit">Nein Danke</string>
+  <string name="audio_dialog_mode_meeting_sum">Im Konferenzmodus können Sie Stimmen von bis zu 4 verschiedenen Teilnehmern erkennen. In der Beta-Version können einige Erkennungsfehler auftreten.</string>
+  <string name="audio_dialog_mode_meeting_use">Starten</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
