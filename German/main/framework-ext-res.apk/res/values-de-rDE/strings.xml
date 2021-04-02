@@ -214,6 +214,11 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="reboot_info_auto_boot">Ihr Telefon wird nach Zeitplan eingeschaltet (%s)</string>
   <string name="reboot_info_shutdown_alarm">Ihr Telefon wird eingeschaltet und der Wecker ausgelöst (%s)</string>
   <string name="reboot_progress">Neustart…</string>
+  <string name="relaunch_dialog_alwaysUsePrompt">Meine Auswahl merken</string>
+  <string name="relaunch_dialog_button_cancel">Abbrechen</string>
+  <string name="relaunch_dialog_message">Fenstergröße kann nicht angepasst werden, während Sie die App verwenden. Sie können die App neu starten, um die Fenstergröße anzupassen, aber die App-Daten, die während dieser Sitzung erzeugt wurden, gehen verloren. Trotzdem neu starten?/string>
+  <string name="relaunch_dialog_title">\"%s\" neustarten?</string>
+
   <string name="remain">Verbleibend: %s</string>
   <string name="replace">Ersetzen</string>
   <string name="resolver_app_recommend_flag">Empfohlen</string>
