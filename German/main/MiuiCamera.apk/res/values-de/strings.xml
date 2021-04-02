@@ -2,10 +2,6 @@
 <resources>
   <string name="accessibility_multi_cam_reselect_button">Kameras erneut auswählen</string>
   <string name="accessibility_pro_parameters_panel_on">Menü mit den PRO-Parametern öffnen</string>
-  <string name="cancel">Abbrechen</string>
-  <string name="confirm">Bestätigen</string>
-  <string name="prompt_desc">Bei Verwendung dieser Funktion werden ca. %s MB Ihrer Daten verbraucht. Möchten Sie das Herunterladen fortsetzen?</string>
-  <string name="warm_prompt">Tipps</string>
   <string name="super_night_owl_toast">Halten Sie Ihr Telefon ruhig</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
