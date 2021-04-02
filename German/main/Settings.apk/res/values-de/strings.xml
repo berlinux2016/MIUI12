@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="dclight_unavailable_prompt">Anti-flicker mode is only supported by the outer screen</string>
-  <string name="display_prompt_confirm">Got it</string>
-  <string name="keyguard_notification_status_title">When notifications come and the screen is off</string>
-  <string name="launcher_wallpaper_title">Home screen &amp; wallpaper</string>
-  <string name="lock_screen_after_fold_screen_summary">"The device will be locked after you fold it, except for the cases when you're using the front camera or speaker."</string>
-  <string name="lock_screen_after_fold_screen_title">Fold to lock</string>
-  <string name="screen_refresh_unavailable_prompt">Changing refresh rate is only supported by the outer screen</string>
+  <string name="dclight_unavailable_prompt">Anti-Flicker-Modus wird nur vom 2. Bildschirm unterstützt</string>
+  <string name="display_prompt_confirm">Verstanden</string>
+  <string name="keyguard_notification_status_title">Wenn Benachrichtigungen kommen und der Bildschirm aus ist</string>
+  <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>
+  <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, nachdem Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
+  <string name="lock_screen_after_fold_screen_title">Zum Verriegeln zusammenklappen</string>
+  <string name="screen_refresh_unavailable_prompt">Ändern der Bildwiederholrate wird nur vom 2. Bildschirm unterstützt</string>
 
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
