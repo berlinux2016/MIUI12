@@ -2,7 +2,6 @@
 <resources>
   <string name="dclight_unavailable_prompt">Anti-Flicker-Modus wird nur vom 2. Bildschirm unterstützt</string>
   <string name="display_prompt_confirm">Verstanden</string>
-  <string name="keyguard_notification_status_title">Wenn Benachrichtigungen kommen und der Bildschirm aus ist</string>
   <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>
   <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, nachdem Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
   <string name="lock_screen_after_fold_screen_title">Zum Verriegeln zusammenklappen</string>
@@ -3973,7 +3972,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="keyboard_skin_follow_system_enable">Zusammen mit dem System in den Dark Mode wechseln</string>
   <string name="keyguard_advance_setting_title">Weitere Einstellungen</string>
   <string name="keyguard_double_tap_to_sleep_title">2x tippen für Standby</string>
-  <string name="keyguard_notification_status_title">Benachrichtigung bei Bildschirm aus</string>
+  <string name="keyguard_notification_status_title">Wenn Benachrichtigungen ankommen und der Bildschirm aus ist</string>
   <string name="keyguard_security_setting_others">Andere</string>
   <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
   <string name="keyguard_vertical_clock_title">Vertikale Uhr</string>
