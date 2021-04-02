@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="call_fold_setting">Auf- und zuklappen</string>
+  <string name="call_fold_setting_title">Auf- und zuklappen</string>
+  <string name="fold_answer_pref_summary">Gerät zuklappen, um einen eingehenden Anruf automatisch anzunehmen</string>
+  <string name="fold_answer_pref_title">Zuklappen, um Anrufe anzunehmen</string>
+  <string name="unfold_close_camera_pref_summary">Gerät während eines Videoanrufs aufklappen, um die Kamera auszuschalten</string>
+  <string name="unfold_close_camera_pref_title">Aufklappen, um die Kamera auszuschalten</string>
+  <string name="unfold_speaker_pref_summary">Gerät während eines Anrufs aufklappen, um den Lautsprecher einzuschalten</string>
+  <string name="unfold_speaker_pref_title">Aufklappen, um den Lautsprecher zu verwenden</string>
+
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Firmen-PIN entsperren</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Firmenentsperrung nicht erfolgreich</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM Firmenentsperrung anfragen…</string>
