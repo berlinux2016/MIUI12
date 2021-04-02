@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="date_time_picker_dialog_title">Set date and time</string>
+  <string name="messages_installed_notification_text_xiaomi">Tap to start a chat</string>
+  <string name="messages_installed_notification_title_xiaomi">Messages is installed</string>
+  <string name="miuix_appcompat_deselect_all">Deselect</string>
+  <string name="miuix_appcompat_select_all">Select all</string>
+  <string name="miuix_appcompat_select_item">Select items</string>
+  <string name="notification_channel_name_xiaomi">App upgrade notifications</string>
+  <string name="privacy_revoke_nonetwork_msg">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
+  <string name="privacy_revoke_nonetwork_ok">Got it</string>
+  <string name="privacy_revoke_nonetwork_title">"Can't connect to the network"</string>
+  <string name="promo_back_btn_text_xiaomi">Back to Mi Message</string>
+  <string name="promo_install_btn_text">Next</string>
+  <string name="promo_install_bullet_1_xiaomi">Use Google Assistant for texts &amp; tasks</string>
+  <string name="promo_install_bullet_2_xiaomi">Keep your current conversations &amp; media</string>
+  <string name="promo_install_bullet_3_xiaomi">Easily find shared messages &amp; media</string>
+  <string name="promo_install_bullet_4_xiaomi">Use Messages as your default SMS app</string>
+  <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></string>
+  <string name="promo_install_subtitle_xiaomi">Get richer, higher quality chat on Wi-Fi or data. Install Messages &amp; use it as your default SMS app. <a href="https://support.google.com/messages/answer/6089066">Learn more</a></string>
+  <string name="promo_install_title_xiaomi">Xiaomi recommends upgrading to Messages by Google</string>
+  <string name="promo_launch_messages_btn_text">Open Messages</string>
+  <string name="promo_no_thanks_btn_text_xiaomi">No thanks</string>
+  <string name="promo_post_install_animation_alt_text_xiaomi">Messages by Google is now your default SMS app. To place Google Messages as a favorite on the home screen, long press Mi Message and move it from favorites, then long press Messages and move it to favorites.</string>
+  <string name="promo_post_install_title_no_default_xiaomi">Replace Mi Message with higher quality Messages by Google</string>
+  <string name="promo_post_install_title_with_default_xiaomi">Start higher quality texting now with Messages by Google</string>
+  <string name="promo_use_messages_btn_text">Use Messages</string>
+ <string name="small_window_log_text">"Camera can't be used in multi-window mode"</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
