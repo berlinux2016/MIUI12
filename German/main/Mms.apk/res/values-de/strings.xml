@@ -2,29 +2,29 @@
 <resources>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
   <string name="messages_installed_notification_text_xiaomi">Tippen, um einen Chat zu starten</string>
-  <string name="messages_installed_notification_title_xiaomi">Nachrichten installiert</string>
+  <string name="messages_installed_notification_title_xiaomi">Messages ist installiert</string>
   <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_select_item">Elemente auswählen</string>
   <string name="notification_channel_name_xiaomi">App-Upgrade-Benachrichtigungen</string>
-  <string name="privacy_revoke_nonetwork_msg">Ihr Gerät muss sich mit dem Netzwerk verbinden, damit Sie die Zustimmung widerrufen können. Netzwerkeinstellungen überprüfen und erneut versuchen.</string>
+  <string name="privacy_revoke_nonetwork_msg">Ihr Gerät muss sich mit dem Netzwerk verbinden, damit Sie die Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="privacy_revoke_nonetwork_ok">Verstanden</string>
   <string name="privacy_revoke_nonetwork_title">Netzwerkverbindung nicht möglich</string>
-  <string name="promo_back_btn_text_xiaomi">Zurück zu Nachrichten</string>
+  <string name="promo_back_btn_text_xiaomi">Zurück zu Mi Message</string>
   <string name="promo_install_btn_text">Weiter</string>
   <string name="promo_install_bullet_1_xiaomi">Google Assistant für Texte &amp; Aufgaben verwenden</string>
   <string name="promo_install_bullet_2_xiaomi">Ihre aktuellen Unterhaltungen &amp; Medien behalten</string>
   <string name="promo_install_bullet_3_xiaomi">Einfaches Auffinden freigegebener Nachrichten &amp; Medien</string>
-  <string name="promo_install_bullet_4_xiaomi">Nachrichten als Standard-SMS-App verwenden</string>
+  <string name="promo_install_bullet_4_xiaomi">Messages als Standard-SMS-App verwenden</string>
   <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
-  <string name="promo_install_subtitle_xiaomi">Über WLAN oder Daten in besserer Qualität chatten. Mi-Messages installieren und als Ihre Standard-SMS-App verwenden. <a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
-  <string name="promo_install_title_xiaomi">Xiaomi empfiehlt ein Upgrade auf Nachrichen von Google</string>
+  <string name="promo_install_subtitle_xiaomi">Über WLAN oder Daten in besserer Qualität chatten. Mi Message installieren und als Ihre Standard-SMS-App verwenden. <a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
+  <string name="promo_install_title_xiaomi">Xiaomi empfiehlt ein Upgrade auf Messages von Google</string>
   <string name="promo_launch_messages_btn_text">Nachrichten öffnen</string>
-  <string name="promo_no_thanks_btn_text_xiaomi">Nein Danke</string>
-  <string name="promo_post_install_animation_alt_text_xiaomi">Nachrichten von Google ist jetzt Ihre Standard-SMS-App. Um Nachrichten von Google als Favorit auf dem Startbildschirm zu platzieren, lange auf Nachrichten drücken und Sie es aus den Favoriten verschieben, dann lange auf Nachrichten drücken und zu Favoriten verschieben.</string>
-  <string name="promo_post_install_title_no_default_xiaomi">Nachrichten durch hochwertigere Nachrichten von Google ersetzen</string>
-  <string name="promo_post_install_title_with_default_xiaomi">Jetzt Nachrichten von Google mit einer besseren Textqualität starten</string>
-  <string name="promo_use_messages_btn_text">Nachrichten verwenden</string>
+  <string name="promo_no_thanks_btn_text_xiaomi">Nein danke</string>
+  <string name="promo_post_install_animation_alt_text_xiaomi">Messages von Google ist jetzt Ihre Standard-SMS-App. Um Google Messages als Favorit auf dem Startbildschirm zu platzieren, drücken Sie lange auf Mi Message und verschieben es aus den Favoriten, dann drücken Sie lange auf Messages und verschieben es in die Favoriten.</string>
+  <string name="promo_post_install_title_no_default_xiaomi">Nachrichten durch hochwertigeres Messages von Google ersetzen</string>
+  <string name="promo_post_install_title_with_default_xiaomi">Jetzt Messages von Google mit einer besseren Textqualität starten</string>
+  <string name="promo_use_messages_btn_text">Messages verwenden</string>
   <string name="small_window_log_text">Kamera im Mehrfenstermodus verwenden nicht möglich</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
@@ -79,7 +79,7 @@
   <string name="allow_network_hint">\"Info automatisch aktualisieren\" einschalten oder prüfen Sie Ihre Netzwerkverbindung</string>
   <string name="already_followed">Sie folgen dieser Nummer bereits</string>
   <string name="already_updated">Auf dem neusten Stand</string>
-  <string name="app_label">Nachrichten</string>
+  <string name="app_label">Mi Message</string>
   <string name="app_name">Geräte</string>
   <string name="application_list_title">Mini-Apps</string>
   <string name="area_code_hot">Beliebt</string>
@@ -229,7 +229,7 @@
   <string name="debug_close_success">Debug nicht verfügbar</string>
   <string name="debug_enable_success">Debug verfügbar</string>
   <string name="debug_export_db">Datenbank exportieren</string>
-  <string name="default_google_message_promo_content">Sie haben Messages von Google als Ihre Standard-Nachrichten-App festgelegt. Auf \"Öffnen\" tippen, um mit einer SMS zu beginnen.</string>
+  <string name="default_google_message_promo_content">Sie haben Messages von Google als Ihre Standard-SMS-App festgelegt. Auf \"Öffnen\" tippen, um mit einer SMS zu beginnen.</string>
   <string name="delete">Löschen</string>
   <string name="delete_block_conversation">Diese Unterhaltung löschen</string>
   <string name="delete_bookmark">Aus Favoriten entfernen</string>
@@ -264,7 +264,7 @@
   <string name="dialog_title_correct_as_normal">Als normale Nachricht einstellen</string>
   <string name="dialog_title_fake_cell_detect_error">Korrektur</string>
   <string name="dialog_title_networking">Allgemeine Geschäftsbedingungen</string>
-  <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standard-Nachrichten-App stoppen?</string>
+  <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standard-SMS-App stoppen?</string>
   <string name="disabled">Aus</string>
   <string name="discard">Verwerfen</string>
   <string name="discard_message">Verwerfen</string>
@@ -287,7 +287,7 @@
   <string name="edit_phrase">Schnelle Antworten bearbeiten</string>
   <string name="edit_slide_activity">Folie bearbeiten</string>
   <string name="edit_slideshow_activity">Diashow bearbeiten</string>
-  <string name="enable_classify_tip_dialog_content">Dadurch wird die Nachrichten-App neu gestartet. Trotzdem fortfahren?</string>
+  <string name="enable_classify_tip_dialog_content">Dadurch wird die SMS-App neu gestartet. Trotzdem fortfahren?</string>
   <string name="enabled">Ein</string>
   <string name="english_subject_limit">40 Zeichen</string>
   <string name="enter_edit_mode">Nachricht bearbeiten</string>
@@ -583,7 +583,7 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_btn_enable">Einschalten</string>
   <string name="mx_btn_enable_now">Einschalten</string>
   <string name="mx_count_dspt">Sie haben %1$d SMS und %2$d MMS gesendet</string>
-  <string name="mx_current_status">Mi-Nachrichteneinstellung</string>
+  <string name="mx_current_status">Einstellungen</string>
   <string name="mx_dspt">Senden Sie kostenlos SMS und MMS an andere MIUI-Benutzer, wenn Sie mit einem WLAN verbunden sind</string>
   <string name="mx_dspt_listview">Senden Sie kostenlos Nachrichten an andere MIUI-Benutzer</string>
   <string name="mx_dspt_provision">Mit Mi Message können Sie Nachrichten an andere MIUI-Benutzer übers Internet senden, ohne dass Kosten entstehen. Eine ausgehende SMS-Nachricht kann erforderlich sein, um Mi Message zu reaktivieren. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen. Außerdem ist bei aktivierter Funktion eine geringe Menge an mobilen Daten erforderlich, um zu prüfen, ob der andere Benutzer online ist. Einverstanden?</string>
@@ -591,7 +591,7 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_enable_ex">Mi Message &amp; Sprache</string>
   <string name="mx_enable_popup_msg">Senden Sie kostenlos Nachrichten mit anderen Benutzern, die ebenfalls diesen Dienst verwenden</string>
   <string name="mx_filter_message_from_stranger">Mi Message von unbekannten Nummern blockieren</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Nachrichten &gt; Einstellungen deaktivieren."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Mi Message &gt; Einstellungen deaktivieren."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Message von unbekannten Nummern blockieren</string>
   <string name="mx_filter_message_from_stranger_summary">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen"</string>
   <string name="mx_main_purpose">"Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer über das Internet senden, ohne dass Ihnen Kosten entstehen.
@@ -638,7 +638,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="notification_add_todo">Erinnern Sie mich</string>
   <string name="notification_add_todo_content">Abholcode: %s</string>
   <string name="notification_channel_msg_description">Benachrichtigungen über Nachrichten</string>
-  <string name="notification_channel_msg_name">Nachrichten</string>
+  <string name="notification_channel_msg_name">Mi Message</string>
   <string name="notification_channel_other_description">Andere Benachrichtigungen</string>
   <string name="notification_channel_other_name">Andere</string>
   <string name="notification_channel_sim1_description">Benachrichtigungen über SIM1-Nachrichten</string>
@@ -702,7 +702,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="pref_sms_storage_title">Speicher</string>
   <string name="pref_sms_theme_title">Thema</string>
   <string name="pref_summary_ad_mms_recognition">Werbung auf einem separaten Tab platzieren</string>
-  <string name="pref_summary_allow_si_sl_push">Zulassen von Nachrichten, um Inhalte von Webseiten zu laden</string>
+  <string name="pref_summary_allow_si_sl_push">Mi Message erlauben, Inhalte von Webseiten zu laden</string>
   <string name="pref_summary_allow_upload_message_info">Spam-Nachrichten und Absenderinformationen werden nach der Meldung an MIUI gesendet.</string>
   <string name="pref_summary_auto_delete">Alte Nachrichten beim Erreichen des Grenzwertes löschen</string>
   <string name="pref_summary_collapse_ad_notification">Alle Werbungen in einem separaten Ordner der Benachrichtigungsleiste anzeigen</string>
@@ -898,8 +898,8 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="rcs_offline_hint">5G Messaging ist offline. Sie können diese Nachricht nicht weiterleiten.</string>
   <string name="rcs_pref_button_login">Anmelden</string>
   <string name="rcs_pref_button_logout">Abmelden</string>
-  <string name="rcs_pref_category_rcs">RCS Nachrichten</string>
-  <string name="rcs_pref_category_rcs_message">RCS Nachrichten</string>
+  <string name="rcs_pref_category_rcs">RCS-Nachrichten</string>
+  <string name="rcs_pref_category_rcs_message">RCS-Nachrichten</string>
   <string name="rcs_pref_category_set_alias">Anderen Person den Spitznamen anzeigen, wenn Sie RCS verwenden.</string>
   <string name="rcs_pref_cfs">Alternative Nachrichtenübertragung</string>
   <string name="rcs_pref_default_sending_method">Standard-Sendemethode</string>
@@ -907,11 +907,11 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="rcs_pref_ft_auto_download_details">Kleine Dateien automatisch herunterladen</string>
   <string name="rcs_pref_ft_auto_download_roaming">Kleine Dateien beim Roaming automatisch herunterladen</string>
   <string name="rcs_pref_ft_cfs">Alternative Dateiübertragung</string>
-  <string name="rcs_pref_login_rcs">RCS Nachrichten</string>
+  <string name="rcs_pref_login_rcs">RCS-Nachrichten</string>
   <string name="rcs_pref_picture_message_default_quality">Optionen zur Bildkompression</string>
   <string name="rcs_pref_send_display_report">Anzeigen von Zustellberichten an den Absender</string>
   <string name="rcs_pref_send_display_report_detail">Absender werden benachrichtigt, wenn ihre Nachrichten gelesen werden</string>
-  <string name="rcs_pref_setting_entrance">RCS Nachrichteneinstellungen</string>
+  <string name="rcs_pref_setting_entrance">RCS-Nachrichteneinstellungen</string>
   <string name="rcs_pref_user_alias_title">Spitzname</string>
   <string name="rcs_pref_video_message_default_quality">Videokompressionsoptionen</string>
   <string name="rcs_recipient_type_contact">Weiter zum Kontakt</string>
@@ -1179,7 +1179,7 @@ Wenn Sie nicht damit einverstanden sind, solche Genehmigungen zu erteilen oder I
   <string name="system_permission_perm_read_numbers">Telefonnummer lesen</string>
   <string name="system_permission_perm_send_mms">MMS senden</string>
   <string name="tab_finance">Finanzen</string>
-  <string name="tab_message">Nachrichten</string>
+  <string name="tab_message">Mi Message</string>
   <string name="tab_promotions">Werbung</string>
   <string name="text_in_popup_saved_to_clipboard">In die Zwischenablage kopiert</string>
   <string name="text_message">SMS</string>

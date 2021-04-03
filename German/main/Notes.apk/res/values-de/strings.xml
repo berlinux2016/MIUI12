@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="audio_btn_mode_meeting">Konferenz</string>
-  <string name="audio_btn_mode_single">Eine Teilnehmer</string>
+  <string name="audio_btn_mode_single">1 Teilnehmer</string>
   <string name="audio_btn_trans">Chinesisch-Englisch-Übersetzung</string>
   <string name="audio_dialog_mode_meeting">Konferenzmodus (Beta)</string>
-  <string name="audio_dialog_mode_meeting_exit">Nein Danke</string>
+  <string name="audio_dialog_mode_meeting_exit">Nein danke</string>
   <string name="audio_dialog_mode_meeting_sum">Im Konferenzmodus können Sie Stimmen von bis zu 4 verschiedenen Teilnehmern erkennen. In der Beta-Version können einige Erkennungsfehler auftreten.</string>
   <string name="audio_dialog_mode_meeting_use">Starten</string>
 
