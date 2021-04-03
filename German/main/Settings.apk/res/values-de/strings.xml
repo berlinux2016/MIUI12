@@ -4,7 +4,7 @@
   <string name="display_prompt_confirm">Verstanden</string>
   <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>
   <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, wenn Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
-  <string name="lock_screen_after_fold_screen_title">Zum Verriegeln zusammenklappen</string>
+  <string name="lock_screen_after_fold_screen_title">Zum Sperren zusammenklappen</string>
   <string name="screen_refresh_unavailable_prompt">Ändern der Bildwiederholrate wird nur vom 2. Bildschirm unterstützt</string>
 
   <string name="Accounts_settings_title">Konten</string>
