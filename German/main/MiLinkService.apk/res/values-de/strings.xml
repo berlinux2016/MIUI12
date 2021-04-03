@@ -34,7 +34,6 @@
   <string name="date_picker_lunar">Mondkalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="debug_mode_merge_support">Gibt an, ob das Apps-Zusammenführen unterstützt werden soll</string>
-  <string name="debug_mode_milink_version">MiLink-Version本</string>
   <string name="device_desc_trust">Vertrauenswürdige Geräte</string>
   <string name="dialog_can_not_find_device">Keine Geräte in der Nähe gefunden</string>
   <string name="dialog_cancle">Abbrechen</string>
