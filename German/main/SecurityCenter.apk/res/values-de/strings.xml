@@ -2866,8 +2866,8 @@ Stromverbrauch"</string>
   <string name="power_dialog_super_save_msg">"Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen ein und verringert die Leistung Ihres Geräts, um die Grundfunktionen (z. B. Anrufe, SMS und Verbindungen zum Netzwerk) so lange wie möglich verfügbar zu halten. Ultra-Stromsparen einschalten?"</string>
   <string name="power_dialog_super_save_title">Ultra-Stromsparen</string>
   <string name="power_idle">Ruhezustand</string>
-  <string name="power_main_battery_last_day_hour">%1$s T %2$s Std bleiben</string>
-  <string name="power_main_battery_last_hour_minute">%1$s Std %2$s Min bleiben</string>
+  <string name="power_main_battery_last_day_hour">Noch %1$s T %2$s Std betriebsbereit</string>
+  <string name="power_main_battery_last_hour_minute">Noch %1$s Std %2$s Min betriebsbereit</string>
   <string name="power_off_warning_button_ok">Verstanden</string>
   <string name="power_off_warning_message">Akku ist schwach. Ihr Gerät schaltet sich in %d Sekunden ab. Ladegerät anschließen.</string>
   <string name="power_off_warning_notification_title">Im Begriff abzuschalten</string>
