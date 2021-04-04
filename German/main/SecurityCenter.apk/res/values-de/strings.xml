@@ -2646,7 +2646,7 @@ Stromverbrauch"</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$s Std %2$s Min bleiben</string>
   <string name="pc_search_keywords_battery">Akku</string>
   <string name="pc_search_keywords_battery_save">Stromsparen</string>
-  <string name="pc_search_keywords_battery_use">Akkuverbrauch</string>
+  <string name="pc_search_keywords_battery_use">Akkuzustand</string>
   <string name="pc_search_keywords_capacity">Akkukapazität</string>
   <string name="pc_search_keywords_property">Leistung</string>
   <string name="pc_settings_title">Akku</string>
