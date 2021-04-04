@@ -2144,7 +2144,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="menu_item_about_title">Über</string>
   <string name="menu_item_app_permissions_control">Rechtemanager</string>
   <string name="menu_item_control_app_permissions">Um Erlaubnis fragen, bevor Apps das Lesen von Kontakten, Ansehen von Anruflisten, Ändern von Systemeinstellungen oder der Zugriff auf die Kamera und andere Gerätequellen gestattet wird</string>
-  <string name="menu_item_force_stop">Stop erzwingen</string>
+  <string name="menu_item_force_stop">Beenden erzwingen</string>
   <string name="menu_item_install_debug_package">Debug-Paket installieren</string>
   <string name="menu_item_notification_antispam_text_avail">Sperrliste</string>
   <string name="menu_item_notification_antispam_text_normal">Sperrliste</string>
@@ -2165,7 +2165,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="menu_sms">SMS senden</string>
   <string name="menu_summary_antispam">Anrufe und Nachrichten blockieren</string>
   <string name="menu_summary_antispam_2">Gesperrte Anrufe und Nachrichten</string>
-  <string name="menu_summary_antivirus">Auf dem Gerät nach Viren suchen</string>
+  <string name="menu_summary_antivirus">Gerät auf Viren prüfen</string>
   <string name="menu_summary_antivirus_2">Mögliche Risiken gefunden</string>
   <string name="menu_summary_antivirus_3">Gerät wurde nicht gescannt</string>
   <string name="menu_summary_app_manager">Aktualisieren &amp; deinstallieren</string>
@@ -2183,7 +2183,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="menu_summary_optimize_manage_1">Machen Sie Ihr Gerät %d%% schneller</string>
   <string name="menu_summary_power_manager">Stromsparen gibt Ihnen mehr Zeit zwischen den Ladevorgängen</string>
   <string name="menu_summary_power_manager_1">Akku ist voll geladen</string>
-  <string name="menu_summary_power_manager_2">%sverbleiben</string>
+  <string name="menu_summary_power_manager_2">%sbetriebsbereit</string>
   <string name="menu_summary_power_manager_3">Ladegerät anschließen</string>
   <string name="menu_summary_power_manager_4">%sbis voll geladen</string>
   <string name="menu_text_antispam">Sperrliste</string>
@@ -2334,7 +2334,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
 1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Mobilfunkanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 2. Wenn Sie zwei SIM-Karten verwenden, versuchen Sie es mit der anderen SIM-Karte und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 3. Stellen Sie sicher, das Ihre SIM-Karte und der zugehörige SIM-Slot nicht beschädigt sind. Prüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Slot eingesteckt ist."</string>
-  <string name="network_speed_for_apps_close">Stop erzwingen</string>
+  <string name="network_speed_for_apps_close">Beenden erzwingen</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Beenden dieser App erzwingen?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">System-Apps können nicht gestoppt werden</string>
   <string name="network_speed_for_apps_others">Andere</string>
@@ -2442,7 +2442,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="notify_channel_mipush">Push-Sicherheitsmeldungen</string>
   <string name="notify_channel_name_behavior">Verhaltensaufzeichnung</string>
   <string name="notify_channel_name_security">Systemsicherheit</string>
-  <string name="notify_channel_optimize">Sicherheitsbenachrichtigungen</string>
+  <string name="notify_channel_optimize">Sicherheitsmeldungen</string>
   <string name="notify_daily_data_usage_body">Um die Datennutzung automatisch zu begrenzen, stellen Sie Ihr monatl. Datenvolumen ein.</string>
   <string name="notify_daily_limit_body">Tippen, um Limit festzulegen</string>
   <string name="notify_daily_limit_title">Heute %s genutzt</string>
