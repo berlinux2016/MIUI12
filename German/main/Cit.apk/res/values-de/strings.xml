@@ -289,6 +289,7 @@ Bitte klicken Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hö
   <string name="cit_fm_open_2">FM - 107.9 starten</string>
   <string name="cit_fm_open_bluetooth">Bluetooth öffnen…</string>
   <string name="cit_fm_start_service">Audio starten</string>
+  <string name="cit_fold_hall_test_summary">Bitte klappen Sie das Gerät zusammen und wieder auf. Wenn die \"Bestanden\"-Taste anklickbar wird, ist der Test bestanden.</string>
   <string name="cit_fp_fod_cali_title">FOD-Fingerabdruck-Kalibrierung</string>
   <string name="cit_fpc_checkerboard_test">SCHACHBRETT-TEST</string>
   <string name="cit_fpc_selftest">SELBSTTEST</string>
@@ -661,8 +662,10 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Antenne wählen</string>
   <string name="cit_tool_wlan">WLAN Test-Tool</string>
+  <string name="cit_tool_wlan_exit">Beenden</string>
   <string name="cit_tool_wlan_rx_count_error">Ausgabewert ist keine Zahl</string>
   <string name="cit_tool_wlan_rx_error">Beim Ausführen des Programms ist ein Fehler aufgetreten</string>
+  <string name="cit_tool_wlan_rx_run">Starten</string>
   <string name="cit_tool_wlan_rxbg_test_channel">Channel:</string>
   <string name="cit_tool_wlan_rxn_test_bw">Bandbreite:</string>
   <string name="cit_tool_wlan_rxn_test_channel">Channel:</string>
@@ -720,7 +723,11 @@ Test fehlgeschlagen!"</string>
   <string name="cit_vibrator_long">Lange Vibration</string>
   <string name="cit_vibrator_short">Kurze Vibration</string>
   <string name="cit_vibrator_show_advanced">Erweiterte Optionen anzeigen</string>
+  <string name="cit_vice_display_check_summary">"Nach dem Einschalten des kleinen Bildschirms und einem Doppelklick zum Aufhellen des Bildschirms:
+Bestätigen Sie, dass die Farben auf dem gesamten Bildschirm einheitlich dargestellt werden. Prüfen Sie, ob es keine unregelmäßigen hellen und dunklen Flecken gibt."</string>
   <string name="cit_vice_display_check_title">Stellvertreter-Anzeige</string>
+  <string name="cit_vice_touch_panel_test_summary">Nach dem Einschalten des kleinen Bildschirms und einem Doppelklick zum Aufhellen des Bildschirms müssen Sie den Bildschirm umdrehen und auf den hinteren kleinen Bildschirm doppelklicken, um den Bildschirm aufzuhellen, und auf dem kleinen Bildschirm ein Kreuz entlang des Rasters zeichnen.</string>
+  <string name="cit_vice_touch_panel_test_tips">Bitte bestätigen Sie, dass der kleine Bildschirm und der Doppelklick zum Einschalten des Bildschirms am kleinen Bildschirm auf der Rückseite eingeschaltet sind, dann klicken Sie.</string>
   <string name="cit_vice_touch_panel_test_title">Stellvertreter-Berührungssensor</string>
   <string name="cit_voc_data_humidity">Luftfeuchtigkeit</string>
   <string name="cit_voc_data_pressure">Druck</string>
@@ -741,6 +748,7 @@ Test fehlgeschlagen!"</string>
   <string name="current_angle">Aktueller Winkel:</string>
   <string name="dc_backlight_title">DC-Hintergrundbeleuchtungsmodus für schlechtes Licht</string>
   <string name="delete">Löschen</string>
+  <string name="dispaly_sar_sensor_values">Alle aktuellen Sensorwerte anzeigen</string>
   <string name="display_test_finish">Bildschirmtest abgeschlossen</string>
   <string name="dsi_sar_on_off_tips">DSI SAR Ein/Aus-Schalter</string>
   <string name="enrol">Registrieren</string>
