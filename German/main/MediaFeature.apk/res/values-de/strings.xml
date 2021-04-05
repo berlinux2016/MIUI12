@@ -17,10 +17,9 @@
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
-  <string name="app_name">MediaFeatureCollection</string>
   <string name="copy">Kopieren</string>
   <string name="expand_button_title">Erweitert</string>
-  <string name="not_set">nicht festgelegt</string>
+  <string name="not_set">Nicht festgelegt</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
   <string name="search_menu_title">Suchen</string>
   <string name="v7_preference_off">AUS</string>
