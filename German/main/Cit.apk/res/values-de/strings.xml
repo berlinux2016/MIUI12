@@ -748,7 +748,6 @@ Bestätigen Sie, dass die Farben auf dem gesamten Bildschirm einheitlich dargest
   <string name="current_angle">Aktueller Winkel:</string>
   <string name="dc_backlight_title">DC-Hintergrundbeleuchtungsmodus für schlechtes Licht</string>
   <string name="delete">Löschen</string>
-  <string name="dispaly_sar_sensor_values">Alle aktuellen Sensorwerte anzeigen</string>
   <string name="display_test_finish">Bildschirmtest abgeschlossen</string>
   <string name="dsi_sar_on_off_tips">DSI SAR Ein/Aus-Schalter</string>
   <string name="enrol">Registrieren</string>

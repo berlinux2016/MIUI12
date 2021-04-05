@@ -1362,7 +1362,10 @@ Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s möchte auf Ihre Kontakte und Ihre Anrufliste zugreifen. Für %2$s den Zugriff erlauben?</string>
   <string name="bluetooth_pb_remember_choice">Nicht mehr fragen</string>
   <string name="bluetooth_permission_request">Bluetooth-Berechtigungsanfrage</string>
-  <string name="bluetooth_phonebook_request">Zugriffsanfrage für Telefonbuch</string>
+  <string name="bluetooth_phonebook_access_dialog_content">"Ein nicht vertrauenswürdiges Bluetooth-Gerät, %1$s, möchte auf Ihre Kontakte und Ihre Anrufliste zugreifen. Dazu gehören Daten über eingehende und ausgehende Anrufe.
+
+Sie haben bisher keine Verbindung zu %2$s hergestellt."</string>
+  <string name="bluetooth_phonebook_request">Zugriffanfrage für Telefonbuch</string>
   <string name="bluetooth_pin_values_hint">Meistens 0000 oder 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Muss 16-stellig sein</string>
   <string name="bluetooth_pref_summary">Telefon erlauben, mit Bluetooth-Geräten in der Nähe zu kommunizieren</string>
@@ -3605,6 +3608,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="haptic_switch_title">Haptisches Feeback</string>
   <string name="haptic_text_edit_popup_13_content_description">Popup-Menü</string>
   <string name="haptic_upper_right_menu_15_content_description">Aufklappbares Menü</string>
+  <string name="haptic_video_content_description">Demo-Video haptisches Feedback</string>
   <string name="haptic_volume_adjustment_14_content_description">Lautstärke einstellen</string>
   <string name="hardkeyboard_category">Einstellungen physische Tastatur</string>
   <string name="hardware_info">Modell &amp; Hardware</string>
