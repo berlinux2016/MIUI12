@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="cetus_invisible_mode">Inkognito</string>
-    <string name="cetus_invisible_mode_description_card">Berechtigungen aussetzen</string>
-    <string name="cetus_invisible_mode_description_switch">Einschalten, um Mikrofon-, Kamera- und Standortberechtigungen für alle Apps auszusetzen</string>
-    <string name="cetus_invisible_mode_warn_all">Sie sind inkognito. Die Berechtigungen für Mikrofon, Kamera und Standort sind aufgehoben.</string>
-    <string name="cetus_invisible_mode_warn_camera">Sie sind inkognito. Die Kamerarechte sind aufgehoben.</string>
-    <string name="cetus_invisible_mode_warn_location">Sie sind inkognito. Die Standortberechtigungen sind aufgehoben.</string>
-    <string name="cetus_invisible_mode_warn_record_audio">Sie sind inkognito. Die Mikrofonberechtigungen sind aufgehoben.</string>
-    <string name="power_center_night_charge_noti_subtitle">Akku wird bis %s vollständig geladen sein</string>
-    <string name="power_center_night_charge_noti_title">Optimiertes Laden ist an</string>
-    <string name="power_center_night_charge_protection">Optimiertes Laden</string>
-    <string name="power_center_night_charge_protection_setting">Weitere Optionen finden Sie unter Sicherheit &gt; Akku</string>
-    <string name="power_center_night_charge_protection_summary">Um die Alterung des Akkus zu reduzieren, lernt MIUI aus Ihrer täglichen Laderoutine, um unnötiges Dauerladen zu reduzieren</string>
-    <string name="power_dailog_night_charge_protection_done">Verstanden</string>
-    <string name="power_dailog_night_charge_protection_summary">Sieht aus, als ob Ihr Akku die meiste Zeit voll geladen ist, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
-    <string name="storage_clear_available_total_size">%1$s/%3$s belegt | %2$s verfügbar</string>
-    <string name="storage_clear_cache">%s freigeben</string>
-    <string name="storage_clear_cache_deep">Speicher freigeben</string>
-    <string name="storage_clear_cache_large">%s freigeben</string>
-    <string name="storage_clear_more_tools">Weitere Bereinigungstools</string>
-    <string name="storage_clear_video">Video-Cache bereinigen</string>
-
-
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ein- und Ausschalten von Bluetooth</string>
@@ -871,6 +849,13 @@ Sie verlieren keine App-Daten."</string>
   <string name="charging_text_battery_perfect">Voll aufgeladen</string>
   <string name="check_network_state">Netzwerkdiagnose</string>
   <string name="cd_back">Zurück</string>
+  <string name="cetus_invisible_mode">Inkognito</string>
+  <string name="cetus_invisible_mode_description_card">Berechtigungen aussetzen</string>
+  <string name="cetus_invisible_mode_description_switch">Einschalten, um Mikrofon-, Kamera- und Standortberechtigungen für alle Apps auszusetzen</string>
+  <string name="cetus_invisible_mode_warn_all">Sie sind inkognito. Die Berechtigungen für Mikrofon, Kamera und Standort sind aufgehoben.</string>
+  <string name="cetus_invisible_mode_warn_camera">Sie sind inkognito. Die Kamerarechte sind aufgehoben.</string>
+  <string name="cetus_invisible_mode_warn_location">Sie sind inkognito. Die Standortberechtigungen sind aufgehoben.</string>
+  <string name="cetus_invisible_mode_warn_record_audio">Sie sind inkognito. Die Mikrofonberechtigungen sind aufgehoben.</string>
   <string name="charger_detect_button_ok">Verstanden</string>
   <string name="charger_detect_info1">Überprüfen Sie, ob Netzadapter und Kabel richtig angeschlossen sind.</string>
   <string name="charger_detect_info2">Das Aufladen kann sich auch verlangsamen, wenn Sie nicht standardmäßige oder alte Netzteile und Kabel verwenden.</string>
@@ -2827,6 +2812,13 @@ Stromverbrauch"</string>
   <string name="power_center_list_item_set_lockscreen_time_summary">Schnelleres Sperren Ihres Geräts schont den Akku</string>
   <string name="power_center_list_item_wake_notification">Bildschirm für Benachrichtigungen nicht aufwecken</string>
   <string name="power_center_list_item_wake_notification_summary">Eingehende Benachrichtigungen werden nur bei eingeschaltetem Bildschirm angezeigt</string>
+  <string name="power_center_night_charge_noti_subtitle">Akku wird bis %s vollständig geladen sein</string>
+  <string name="power_center_night_charge_noti_title">Optimiertes Laden ist an</string>
+  <string name="power_center_night_charge_protection">Optimiertes Laden</string>
+  <string name="power_center_night_charge_protection_setting">Weitere Optionen finden Sie unter Sicherheit &gt; Akku</string>
+  <string name="power_center_night_charge_protection_summary">Um die Akku-Alterung zu reduzieren, lernt MIUI aus Ihrer täglichen Laderoutine, um unnötiges Dauerladen zu reduzieren</string>
+  <string name="power_dailog_night_charge_protection_done">Verstanden</string>
+  <string name="power_dailog_night_charge_protection_summary">Sieht aus, als ob Ihr Akku die meiste Zeit voll geladen ist, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
   <string name="power_center_one_key_save">Optimieren</string>
   <string name="power_center_ontime_boot">Einschalten planen</string>
   <string name="power_center_ontime_shutdown">Ausschalten planen</string>
@@ -3876,6 +3868,12 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="storage_available_total_size">%1$s von %2$s verfügbar</string>
   <string name="storage_available_total_size1">Belegt: %1$s | Gesamt: %2$s</string>
   <string name="storage_category_title">Zusätzliche Optionen</string>
+  <string name="storage_clear_available_total_size">%1$s/%3$s belegt | %2$s verfügbar</string>
+  <string name="storage_clear_cache">%s freigeben</string>
+  <string name="storage_clear_cache_deep">Speicher freigeben</string>
+  <string name="storage_clear_cache_large">%s freigeben</string>
+  <string name="storage_clear_more_tools">Weitere Bereinigungstools</string>
+  <string name="storage_clear_video">Video-Cache bereinigen</string>
   <string name="storage_deepclean_entry">Tiefenreinigung</string>
   <string name="storage_dialog_unmountable">"^1 ist fehlerhaft.
 
