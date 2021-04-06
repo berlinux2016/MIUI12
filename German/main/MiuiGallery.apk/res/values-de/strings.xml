@@ -24,6 +24,31 @@
   <string name="vlog_filter_master_close">Videoeffekte entfernt</string>
   <string name="vlog_filter_master_open">Angewandte Videoeffekte</string>
 
+  <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="filter_sky_xingye">Sternennacht</string>
+  <string name="filter_sky_youyue">Dunkler Mond</string>
+  <string name="homepage_allphotos_tip_dialog_button_negative">Überspringen</string>
+  <string name="homepage_allphotos_tip_dialog_description_all">Alle</string>
+  <string name="homepage_allphotos_tip_dialog_description_only_camera">Mit der Kamera aufgenommen</string>
+  <string name="homepage_allphotos_tip_dialog_subtitle">Sie können dies auch später in den Einstellungen erledigen</string>
+  <string name="homepage_allphotos_tip_dialog_title">Welche Bilder würden Sie gerne in \"Fotos\" sehen?</string>
+  <string name="hybrid_provider">Bereitgestellt durch %1$s</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
+  <string name="miuix_appcompat_select_all">Alle auswählen</string>
+  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
+  <string name="nearby_share">In Nähe teilen</string>
+  <string name="no_network">Netzwerkverbindung nicht möglich</string>
+  <string name="ocr_save_to_note_new">In Notizen speichern</string>
+  <string name="send">Senden</string>
+  <string name="toast_download_with_metered_network_btn_continue">Herunterladen</string>
+  <string name="toast_download_with_metered_network_msg">Sieht so aus, als wäre Ihr Gerät nicht mit WLAN verbunden. Elemente mit mobilen Daten herunter?</string>
+  <string name="toast_download_with_metered_network_title">Warnung bei Datennutzung</string>
+  <string name="vlog_min_resolution_hint">Aktuelle Auflösung ist die niedrigste verfügbare</string>
+  <string name="vlog_resolution_origin">Originale Auflösung</string>
+  <string name="web_sso_login_fail">Sie müssen sich erneut anmelden</string>
+  <string name="web_sso_login_message">Anmelden…</string>
+  <string name="webview_reload">Erneut versuchen</string>
+
   <string name="filter_sky_hongxi">Karminrot</string>
   <string name="filter_sky_huanxia">Traum</string>
   <string name="filter_sky_jiyun">Cumulus</string>
@@ -192,7 +217,7 @@
   <string name="album_share_subtitle_requesting">Albuminfos werden geladen…</string>
   <string name="album_share_title_new_album">Neues Album teilen</string>
   <string name="album_show_local_only">Nur lokale Alben anzeigen</string>
-  <string name="album_show_local_only_summary">Einschalten, um Fotos nur auf Ihrem Gerät anzuzeigen und zu löschen</string>
+  <string name="album_show_local_only_summary">Löschoption von nur lokalen Alben wird verfügbar, wenn diese Funktion an ist</string>
   <string name="album_sort_type">Sortierreihenfolge</string>
   <string name="album_sort_type_create_time_asc">Von alt nach neu</string>
   <string name="album_sort_type_create_time_desc">Von neu nach alt</string>
@@ -244,7 +269,7 @@
   <string name="authorize_to_device_failed">Autorisieren nicht möglich</string>
   <string name="authorize_watch_on_tv_failed">Autorisieren der Anzeige auf TV nicht möglich</string>
   <string name="auto_backup_introduce">Fotos und Videos automatisch synchronisieren (Mi-Konto erforderlich)</string>
-  <string name="auto_download_media_title">Fotos automatisch aus der Xiaomi Cloud herunterladen</string>
+  <string name="auto_download_media_title">Automatisch herunterladen</string>
   <string name="auto_update_face">Fotos automatisch hinzufügen</string>
   <string name="auto_update_face_summary">Automatisch abgleichen und Foto zum Kinderalbum hinzufügen</string>
   <string name="auto_update_off">Aus</string>
@@ -485,8 +510,8 @@
   <string name="cloud_guide_auto_backup_title">Alben zur Synchronisation auswählen</string>
   <string name="cloud_guide_login_title">Fotos und Videos automatisch sichern</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
-  <string name="cloud_privacy_with_ai_album">Datenschutzerklärung zur automatischen Synchronisation und Bildverarbeitung</string>
-  <string name="cloud_privacy_with_face">Datenschutzerklärung zur automatischen Synchronisation und Gesichtserkennung</string>
+  <string name="cloud_privacy_with_ai_album">Funktionen und Datenschutz</string>
+  <string name="cloud_privacy_with_face">Funktionen und Datenschutz</string>
   <string name="cloud_settings">Synchronisation</string>
   <string name="cloud_storage_extend">Cloud-Speicher erweitern</string>
   <string name="cloud_storage_ok_append_desc">Verfügbar %s</string>
@@ -1943,7 +1968,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="share_public_url_text">Ich habe das Album %1$s mit Ihnen geteilt. Betrachten Sie es unter %2$s.</string>
   <string name="share_with_family">Mit Ihrer Familie teilen</string>
   <string name="sharer_quota_fulfiled">Sie haben dieses Album bereits mit der maximalen Anzahl an Benutzern geteilt</string>
-  <string name="show_cloud_albumlist_summary">Alben verwalten, die Sie mit der Cloud synchronisieren</string>
+  <string name="show_cloud_albumlist_summary">Neue Elemente aus ausgewählten Alben werden nicht in die Cloud hochgeladen, nachdem Sie die Synchronisierung ausgeschaltet haben.</string>
   <string name="show_hidden_album_summary">Anzeigen und Verwalten versteckter Alben</string>
   <string name="show_hidden_album_title">Versteckte Alben anzeigen</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Erfolgreich verschoben, navigieren Sie zu anderen Alben</string>
