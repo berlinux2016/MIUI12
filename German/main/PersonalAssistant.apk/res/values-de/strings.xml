@@ -830,6 +830,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="clock_alarm">Wecker</string>
   <string name="clock_parent">Uhr</string>
+  <string name="close">Schließen</string>
   <string name="closed">Aus</string>
   <string name="collect_diagnosis_log">Diagnoseprotokoll erfassen</string>
   <string name="commute">Kartenvorschläge</string>
@@ -890,6 +891,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="data_error">Ein Fehler ist aufgetreten, kurz warten und erneut versuchen.</string>
   <string name="data_error_show">Bestellung ist abgeschlossen, Details werden nicht angezeigt</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Zeit und Datum einstellen</string>
   <string name="debug_card_brief">Debugging-Einstellungen und -Werkzeuge</string>
   <string name="debug_card_detail">Debugging-Einstellungen und -Werkzeuge</string>
   <string name="debug_card_title">Debugging</string>
@@ -1661,10 +1663,13 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
+  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -1985,6 +1990,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="search_category_shopping">Einkaufen</string>
   <string name="search_change_header">Titelbild ersetzen</string>
   <string name="search_clear_header">Titelbild entfernen</string>
+  <string name="search_header_dialog_title">Hintergrund ändern</string>
   <string name="search_hint">In Favoriten suchen</string>
   <string name="search_label">Suchen…</string>
   <string name="search_menu_title">Suchen</string>
@@ -1994,6 +2000,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="select_team_close">Schließen</string>
   <string name="select_team_confirm">Senden</string>
   <string name="selected_shortcuts_title">Startseite</string>
+  <string name="send">Senden</string>
   <string name="send_action_title">Zu Favoriten hinzufügen</string>
   <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
   <string name="send_express">Expresslieferung</string>

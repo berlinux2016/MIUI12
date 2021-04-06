@@ -164,6 +164,8 @@
   <string name="preference_other">Andere</string>
   <string name="preference_privacy_title">Datenschutzerklärung</string>
   <string name="pressure_title">Druck</string>
+  <string name="remove_icon_description_content">Kompass ist eine System-App. Sie können sie nicht mehr zum Prüfen von Richtungen, Koordinaten, Luftdruck und aktueller Höhe verwenden, nachdem Sie die Verknüpfung auf dem Startbildschirm entfernt haben.</string>
+  <string name="remove_icon_description_title">\"Kompass\" vom Startbildschirm entfernen?</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
