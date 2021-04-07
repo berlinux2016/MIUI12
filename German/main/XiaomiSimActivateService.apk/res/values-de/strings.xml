@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
-  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
-  <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b>will be sent. Your carrier will charge you for this message.</string>
-  <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">To activate %3$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b> and &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international paid SMS&lt;/b> will be sent. Your carrier will charge you for these messages.</string>
-  <string name="activate_popup_desc_sim_card_msg_with_charge_hint">To activate %2$s, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>paid SMS&lt;/font> will be sent. Your carrier will charge you for this message.</string>
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -68,8 +62,10 @@
   <string name="activate_popup_confirm_failed_server">Wiederholen</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Zum Aktivieren von %s werden 2 internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_2_intl_sim_cards_msg">Um %2$s zu aktivieren, wird/werden %1$d internationale SMS gesendet. Ihr Anbieter wird Ihnen diese Nachricht/en berechnen.</string>
+  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Um %2$s zu aktivieren, werden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b> gesendet. Ihr Anbieter stellt Ihnen diese Nachrichten in Rechnung.</string>
   <string name="activate_popup_desc_2_sim_cards">Zum Aktivieren von %s werden 2 SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_2_sim_cards_msg">Um %2$s zu aktivieren, wird/werden %1$d reguläre SMS gesendet. Ihr Anbieter wird Ihnen diese Nachricht/en berechnen.</string>
+  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Um %2$s zu aktivieren, werden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>inländische kostenpflichtige SMS&lt;/b> gesendet. Ihr Anbieter stellt Ihnen diese Nachrichten in Rechnung.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
 Geben Sie die zugehörige Telefonnummer ein, um %s zu reaktivieren."</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
@@ -87,9 +83,11 @@ Geben Sie die zugehörige Telefonnummer ein, um %s zu reaktivieren."</string>
   <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Um %3$s zu aktivieren, geben Sie die Telefonnummer von SIM %2$d ein. Wenn Sie diese SIM-Karte ersetzen, wird eine weitere Aktivierungs-SMS gesendet.</string>
   <string name="activate_popup_desc_intl_sim_card">Zum Aktivieren von %s wird eine internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_intl_sim_card_msg">Um %2$s zu aktivieren, wird/werden %1$d internationale SMS gesendet. Ihr Anbieter wird Ihnen diese Nachricht/en berechnen.</string>
+  <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Um %2$s zu aktivieren, werden &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>gesendet. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen.</string>
   <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Bei Fragen wenden Sie sich an das &lt;a href=https://static.account.xiaomi.com/html/faq/de_DE/faqList.html>Mi-Konto Benutzerhandbuch&lt;/a>.</Data></string>
   <string name="activate_popup_desc_mixed_sim_cards">Zum Aktivieren von %s werden 2 SMS (nationale und internationale) verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_mixed_sim_cards_msg">Um %3$s zu aktivieren, wird/werden %1$d reguläre und %2$d internationale SMS verschickt. Ihr Anbieter wird Ihnen diese Nachricht/en berechnen.</string>
+  <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Um %3$s zu aktivieren, werden &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>inländische kostenpflichtige SMS&lt;/b> und &lt;xliff: g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international kostenpflichtige SMS&lt;/b> gesendet. Ihr Anbieter stellt Ihnen diese Nachrichten in Rechnung.</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Ihre SIM-Karten wurden gewechselt. Zum Aktivieren von %s werden 2 internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_new_2_sim_cards">Ihre SIM-Karten wurden gewechselt. Zum Aktivieren von %s werden 2 SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_new_intl_sim_card">Ihre SIM-Karte wurde gewechselt. Zum Aktivieren von %s wird eine internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
@@ -103,6 +101,7 @@ Geben Sie die zugehörige Telefonnummer ein, um %s zu reaktivieren."</string>
   <string name="activate_popup_desc_sim_card_downlink">Zum Aktivieren von %s geben Sie bitte die Telefonnummer Ihrer SIM-Karte ein</string>
   <string name="activate_popup_desc_sim_card_downlink_msg">Um %2$s zu aktivieren, geben Sie die Telefonnummer von SIM %1$d ein.</string>
   <string name="activate_popup_desc_sim_card_msg">Um %2$s zu aktivieren, wird/werden %1$d reguläre SMS gesendet. Ihr Anbieter wird Ihnen diese Nachricht/en berechnen.</string>
+  <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Um %2$s zu aktivieren, werden &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>kostenpflichtige SMS&lt;/font> gesendet. Ihr Anbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
   <string name="activate_popup_desc_voip_privacy">Datenschutzerklärung</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"VoIP wird unterstützt von Weihui. Anzeigen von Weihui's "</string>
   <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Um %3$s zu aktivieren, geben Sie die Telefonnummer von SIM %2$d ein. Technischer Support wird teilweise von Weihuitel geleistet. Einzelheiten finden Sie in der Weihuitel-Datenschutzerklärung.</string>
