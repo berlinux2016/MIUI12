@@ -128,7 +128,7 @@
   <string name="date_calculate_today">0 Tage</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
-  <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="date_time_picker_has_not_set_alarm">Alarm ist nicht eingestellt</string>
   <string name="date_time_picker_has_set_alarm">Alarm erfolgreich gesetzt</string>
   <string name="db_downgrade_clear_button">App-Daten löschen</string>
@@ -387,7 +387,7 @@
   <string name="not_set">Nicht festgelegt</string>
   <string name="note_description_content">Die Notiz-App ist ein großartiges Tool, um Ihre Ideen zu aufzunehmen. Sie verfügt über integrierte Erinnerungen und synchronisiert Ihre Elemente mit der Cloud, so dass Sie jederzeit und überall darauf zugreifen können. Stellen Sie sicher, dass Sie auf diese Funktionen verzichten können, bevor Sie die App löschen.</string>
   <string name="note_description_title">Über Notizen</string>
-  <string name="note_dual_screen_dialog_content">Sieht aus, als würden Sie jetzt Notizen auf Ihrem Computer bearbeiten. Um widersprüchliche Bearbeitung zu vermeiden, schließen Sie Notizen auf Ihrem Computer.</string>
+  <string name="note_dual_screen_dialog_content">Anscheinend bearbeiten Sie jetzt Notizen auf Ihrem Computer. Um widersprüchliche Bearbeitung zu vermeiden, schließen Sie Notizen auf Ihrem Computer.</string>
   <string name="note_dual_screen_dialog_title">Screen Combo verwenden…</string>
   <string name="note_gesture_guide_step1">Gedrückt halten, um eine Sprachnotiz zu erstellen</string>
   <string name="note_gesture_guide_step2">Notiz gedrückt halten und sie dann über eine andere Notiz ziehen, um einen Ordner zu erstellen</string>
@@ -428,7 +428,7 @@
   <string name="pc_date_time_picker_set_time">Zeit festlegen</string>
   <string name="pc_module_notes_name">Notizen</string>
   <string name="pc_module_todo_name">Aufgaben</string>
-  <string name="pc_note_dual_screen_dialog_content">Sieht aus, als würden Sie jetzt Notizen auf Ihrem Telefon bearbeiten. Um widersprüchliche Bearbeitung zu vermeiden, schließen Sie Notizen auf Ihrem Telefon.</string>
+  <string name="pc_note_dual_screen_dialog_content">Anscheinend bearbeiten Sie jetzt Notizen auf Ihrem Telefon. Um widersprüchliche Bearbeitung zu vermeiden, schließen Sie Notizen auf Ihrem Telefon.</string>
   <string name="pc_note_edit_blank_view_tips">Bild hierher ziehen, um eine Notiz zu erstellen</string>
   <string name="pc_note_edit_create_time">"Erstellt: "</string>
   <string name="pc_note_edit_insert_doodle_by_phone">Doodle auf dem Telefon erstellen</string>

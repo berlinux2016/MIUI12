@@ -189,7 +189,7 @@
   <string name="focus_mode_timer_exist">Diese Sitzung existiert bereits</string>
   <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d bis %d Minuten</string>
   <string name="focus_mode_timer_pick_dialog_title">Dauer eingeben</string>
-  <string name="focus_time_exception_tip">Sieht aus, als hätte sich die Systemzeit geändert. Fokusmodus wurde ausgeschaltet.</string>
+  <string name="focus_time_exception_tip">Anscheinend hat sich die Systemzeit geändert. Fokusmodus wurde ausgeschaltet.</string>
   <string name="follow_sim1">Einstellungen SIM1 übernehmen</string>
   <string name="fps_nature_summary">Maximale Aktualisierungsrate zeigt alles klar und deutlich</string>
   <string name="fps_nature_title">Maximal </string>
@@ -570,7 +570,7 @@
   <string name="usage_agree">Zustimmen</string>
   <string name="usage_app_get_it">Verstanden</string>
   <string name="usage_app_holiday_limit">Wochenende</string>
-  <string name="usage_app_limit_alter_summary">Sieht aus, als wäre dieses Zeitlimit kürzer als die Zeit, die Sie heute diese App benutzt haben. Trotzdem Limit setzen?</string>
+  <string name="usage_app_limit_alter_summary">Anscheinend ist dieses Zeitlimit kürzer als die Zeit, die Sie heute diese App benutzt haben. Trotzdem Limit setzen?</string>
   <string name="usage_app_limit_alter_title">Bildschirmzeitlimit prüfen</string>
   <string name="usage_app_limit_prelong">Zeit verlängern</string>
   <string name="usage_app_limit_reach_summay">%s verbleiben</string>

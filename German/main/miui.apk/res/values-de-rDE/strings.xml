@@ -26,7 +26,7 @@
   <string name="activate_fail_notification_title">Synchronisation reaktivieren</string>
   <string name="activating">Aktivieren…</string>
   <string name="address">Adresse</string>
-  <string name="after_reset_need_restore_system_app">Sieht aus, als hätten Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um MIUI normal benutzen zu können.</string>
+  <string name="after_reset_need_restore_system_app">Anscheinend haben Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um MIUI normal benutzen zu können.</string>
   <string name="afternoon"></string>
   <string name="agree">Zustimmen</string>
   <string name="am"></string>
@@ -60,7 +60,7 @@
   <string name="date_picker_dialog_title">Datum einstellen</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_done">Fertig</string>
-  <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="delete_description">Löschen</string>
   <string name="delete_message">Löschen</string>
   <string name="deselect_all">Alle abwählen</string>
@@ -73,7 +73,7 @@
   <string name="dialog_download_notes_negative_button">Jetzt nicht</string>
   <string name="dialog_download_notes_positive_button">Herunterladen</string>
   <string name="dialog_download_notes_title">Notizen installieren</string>
-  <string name="dialog_install_notes_message">Sieht aus, als hätten Sie Notizen deinstalliert. Notizen herunterladen und erneut installieren.</string>
+  <string name="dialog_install_notes_message">Anscheinend haben Sie Notizen deinstalliert. Notizen herunterladen und erneut installieren.</string>
   <string name="dialog_message_create_shortcut">Jetzt eine Startbildschirm-Verknüpfung erstellen?</string>
   <string name="dialog_message_revoke_authorization">Sie müssen eine Genehmigung erteilen, um Mi Ditto danach wieder benutzen zu können.</string>
   <string name="dialog_title_need_create_shortcut">Startbildschirm-Verknüpfung</string>

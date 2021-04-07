@@ -659,7 +659,7 @@ ausrichten und verbessern"</string>
   <string name="download_wechat">WeChat herunterladen</string>
   <string name="dual_camera_lens_covered_toast">Linse verdeckt</string>
   <string name="dual_camera_low_constract_toast">Geringer Kontrast beeinträchtigt eventuell die Kameraeffekte</string>
-  <string name="dual_camera_lowlight_toast">Sieht aus, als wäre es zu dunkel.</string>
+  <string name="dual_camera_lowlight_toast">Anscheinend ist es zu dunkel.</string>
   <string name="dual_camera_too_close_toast">Die Kamera ist zu nah am Objekt.</string>
   <string name="dual_camera_use_hint">Achten Sie darauf, dass das Objekt nicht weiter als 2 Meter entfernt ist.</string>
   <string name="dual_video_record_merged">Kombiniert</string>
@@ -1230,9 +1230,9 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="photo_assistance_tips_title">Live-Tipps</string>
   <string name="photos_portrait_type_description">Porträtmodus hilft Ihnen, den Hintergrund zu verwischen</string>
   <string name="photos_portrait_type_name">Porträtmodus</string>
-  <string name="pic_flaw_blink_more">Sieht aus, als hätte jemand im Bild die Augen geschlossen</string>
-  <string name="pic_flaw_blink_one">Sieht aus, als hätte die Person im Bild die Augen geschlossen</string>
-  <string name="pic_flaw_cover">Sieht aus, als sei die Linse teilweise verdeckt</string>
+  <string name="pic_flaw_blink_more">Anscheinend hat jemand im Bild die Augen geschlossen</string>
+  <string name="pic_flaw_blink_one">Anscheinend hat die Person im Bild die Augen geschlossen</string>
+  <string name="pic_flaw_cover">Anscheinend ist die Linse teilweise verdeckt</string>
   <string name="pixel_ai_108">KI 100 Millionen sehr lebendig</string>
   <string name="pixel_ai_108_close">KI 100 Millionen sehr lebendig</string>
   <string name="popup_tip_3d_beauty_intro_text">3D-Verschönerung</string>

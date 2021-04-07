@@ -442,7 +442,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_health_setting_music_name_ocean">Strand</string>
   <string name="app_health_setting_music_name_rain">Nieselregen</string>
   <string name="app_health_setting_text_default_duration">Dauer</string>
-  <string name="app_health_setting_text_download_alert_message">Sieht aus, als sind Sie nicht mit WLAN verbunden. %1$s an mobilen Daten verwenden, um Elemente herunterzuladen?</string>
+  <string name="app_health_setting_text_download_alert_message">Anscheinend sind Sie nicht mit WLAN verbunden. %1$s an mobilen Daten verwenden, um Elemente herunterzuladen?</string>
   <string name="app_health_setting_text_sleep_aid_settings">Schlafen</string>
   <string name="app_health_setting_text_title">Gesundheit</string>
   <string name="app_label">Infoassistent</string>
@@ -891,7 +891,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="data_error">Ein Fehler ist aufgetreten, kurz warten und erneut versuchen.</string>
   <string name="data_error_show">Bestellung ist abgeschlossen, Details werden nicht angezeigt</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
-  <string name="date_time_picker_dialog_title">Zeit und Datum einstellen</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="debug_card_brief">Debugging-Einstellungen und -Werkzeuge</string>
   <string name="debug_card_detail">Debugging-Einstellungen und -Werkzeuge</string>
   <string name="debug_card_title">Debugging</string>
@@ -1860,7 +1860,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="payment_clear_records_dialog_message">Gesamten Zahlungsverlauf löschen?</string>
   <string name="payment_clear_records_failed">Zahlungsverlauf löschen fehlgeschlagen</string>
   <string name="payment_clear_records_success">Zahlungsverlauf gelöscht</string>
-  <string name="payment_date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="payment_date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="payment_dialog_chooser_cancel">Abbrechen</string>
   <string name="payment_dialog_chooser_message_footer">Hinweis: Alle vom System erfassten Auszahlungsdaten werden verschlüsselt und lokal auf Ihrem Mobiltelefon gespeichert, ohne Cloud-Sync, Upload oder sonstige Nutzung</string>
   <string name="payment_dialog_chooser_message_header">Quelle der Zahlungsdaten auswählen, die vom System zusammengefasst werden soll</string>

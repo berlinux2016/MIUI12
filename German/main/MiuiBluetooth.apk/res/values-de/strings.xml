@@ -310,7 +310,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="fast_connect_device_title_connect_fail">Verbindung fehlgeschlagen</string>
   <string name="fast_connect_device_title_connecting">Verbinden…</string>
   <string name="fast_connect_device_title_find_headset">%1$s finden</string>
-  <string name="fast_connect_device_title_find_headset_others">Sieht aus, als sei das nicht Ihr Gerät: %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Anscheinend ist das nicht Ihr Gerät: %1$s</string>
   <string name="fast_connect_new_feture_anti_lost">Alarm fehlende Kopfhörer</string>
   <string name="fast_connect_new_feture_same_account">Synchronisierte Geräte verbinden</string>
   <string name="fast_connect_new_feture_sound_normalizer">Besserer Ton</string>
@@ -363,7 +363,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="headset_fw_error_failed">Aktualisieren nicht möglich. Firmware-Info ist falsch.</string>
   <string name="headset_fw_file_position_failed">Dateizugriff nicht möglich</string>
   <string name="headset_fw_file_readfailed">Aktualisierungsinfo erhalten nicht möglich</string>
-  <string name="headset_loss_notify_summary">Sieht aus, als ob mindestens einer Ihrer Ohrhörer nicht in der Ladehülle ist. Sehen Sie nach!</string>
+  <string name="headset_loss_notify_summary">Anscheinend ist mindestens einer Ihrer Ohrhörer nicht in der Ladehülle. Sehen Sie nach!</string>
   <string name="headset_loss_notify_title">Warnung bei fehlendem Ohrhörer</string>
   <string name="headset_read_fw_state">Aktualisierungsinfo erhalten nicht möglich</string>
   <string name="headset_update_failed">Aktualisieren nicht möglich</string>

@@ -12,7 +12,7 @@
   <string name="application_cannot_open_weixin_health_code">WeChat-Gesundheitscode öffnen nicht möglich</string>
   <string name="application_cannot_open_weixin_payment_code">WeChat-Zahlungscode öffnen nicht möglich</string>
   <string name="application_cannot_open_weixin_scanner">WeChat-Scanner öffnen nicht möglich</string>
-  <string name="application_not_install_content">Sieht aus, als ob die App, die diese Aktion ausführt, nicht auf Ihrem Gerät installiert ist. Sie können diese App installieren oder dieser Geste eine andere Aktion zuweisen.</string>
+  <string name="application_not_install_content">Anscheinend ist die App, die diese Aktion ausführt, nicht auf Ihrem Gerät installiert. Sie können diese App installieren oder dieser Geste eine andere Aktion zuweisen.</string>
   <string name="apply_password_action">Passwort festlegen</string>
   <string name="apply_password_confirm_dlg_msg">Kennwort für %s erforderlich?</string>
   <string name="apply_password_confirm_dlg_title">Dieses Passwort wird für %s verwendet</string>

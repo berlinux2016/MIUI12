@@ -587,11 +587,11 @@
   <string name="joox_account_cancel_login">Abbrechen</string>
   <string name="joox_account_continue_login">Anmelden</string>
   <string name="joox_account_fans_center">Fan-Zentrum</string>
-  <string name="joox_account_login_conflict_message">Sieht aus, als wären Sie auf einem anderen Gerät angemeldet. Hier anmelden?</string>
+  <string name="joox_account_login_conflict_message">Anscheinend sind Sie auf einem anderen Gerät angemeldet. Hier anmelden?</string>
   <string name="joox_account_login_exception">Erneut anmelden</string>
   <string name="joox_account_multi_device_login">Mehrere Geräte</string>
   <string name="joox_anonymous_name">Besucher</string>
-  <string name="joox_area_check_failed">Sieht aus, als befänden Sie sich in einem Gebiet, in dem unsere Dienste nicht verfügbar sind. Mit einem anderen Netzwerk verbinden und App erneut starten.</string>
+  <string name="joox_area_check_failed">Anscheinend befinden Sie sich in einem Gebiet, in dem unsere Dienste nicht verfügbar sind. Mit einem anderen Netzwerk verbinden und App erneut starten.</string>
   <string name="joox_auth_button_acquire_vip_instantly">VIP-Mitgliedschaft erhalten</string>
   <string name="joox_auth_button_login_to_acquire_vip">Anmelden, um VIP-Mitgliedschaft zu erhalten</string>
   <string name="joox_auth_dialog_message">Wir haben einige Musikempfehlungen für Sie. VIP-Mitgliedschaft erhalten, um Einschränkungen aufzuheben.</string>
@@ -610,7 +610,7 @@
   <string name="joox_auth_message_update_vip_to_use_function">VIP-Mitgliedschaft erhalten, um dieses Funktion zu nutzen</string>
   <string name="joox_auth_title_download_song">Titel herunterladen</string>
   <string name="joox_auth_title_login_again">Anmelden</string>
-  <string name="joox_auth_title_long_time_no_network">Sieht aus, als hätten Sie längere Zeit keine Netzwerkverbindung gehabt</string>
+  <string name="joox_auth_title_long_time_no_network">Anscheinend hatten Sie längere Zeit keine Netzwerkverbindung.</string>
   <string name="joox_auth_title_shuffle_play">Zufällig</string>
   <string name="joox_auth_title_vip_content">VIP-Inhalte</string>
   <string name="joox_auth_title_vip_expired">Mitgliedschaft abgelaufen</string>

@@ -2025,7 +2025,7 @@ um ein Muster zu erstellen"</string>
   <string name="low_memory_warning_dialog_ok_button">Löschen</string>
   <string name="low_memory_warning_dialog_title">Nicht genug Speicherplatz</string>
   <string name="low_temperature_button_ok">Verstanden</string>
-  <string name="low_temperature_warning_message">Sieht aus, als sei es zu kalt und Ihr Telefon wird früher als erwartet ausgeschaltet. Alle wichtigen Änderungen speichern.</string>
+  <string name="low_temperature_warning_message">Anscheinend ist es zu kalt und Ihr Telefon wird früher als erwartet ausgeschaltet. Alle wichtigen Änderungen speichern.</string>
   <string name="low_temperature_warning_title">Lufttemperatur ist niedrig</string>
   <string name="main_activity_content_summary_root">Root-Zugriff</string>
   <string name="main_activity_content_summary_update">Systemupdate</string>
@@ -2782,7 +2782,7 @@ Stromverbrauch"</string>
   <string name="power_center_battery_charge_times">Heute geladen</string>
   <string name="power_center_battery_chargefull_time">Bis voll geladen</string>
   <string name="power_center_battery_duration">Verbleibende Zeit</string>
-  <string name="power_center_battery_health_poor_tip">Sieht aus, als ob der Akkuzustand schlecht ist. Lassen Sie Ihren Akku in einem autorisierten Service-Center prüfen.</string>
+  <string name="power_center_battery_health_poor_tip">Anscheinend ist der Akkuzustand schlecht. Lassen Sie Ihren Akku in einem autorisierten Service-Center prüfen.</string>
   <string name="power_center_battery_health_summary">Laden und entladen Sie Ihr Gerät %1$d-%2$d-mal vollständig, um die Genauigkeit der Akkustatistik zu verbessern</string>
   <string name="power_center_battery_last">%s bleiben</string>
   <string name="power_center_battery_level">%s geladen</string>
@@ -2818,7 +2818,7 @@ Stromverbrauch"</string>
   <string name="power_center_night_charge_protection_setting">Weitere Optionen finden Sie unter Sicherheit &gt; Akku</string>
   <string name="power_center_night_charge_protection_summary">Um die Akku-Alterung zu reduzieren, lernt MIUI aus Ihrer täglichen Laderoutine, um unnötiges Dauerladen zu reduzieren</string>
   <string name="power_dailog_night_charge_protection_done">Verstanden</string>
-  <string name="power_dailog_night_charge_protection_summary">Sieht aus, als ob Ihr Akku die meiste Zeit voll geladen ist, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
+  <string name="power_dailog_night_charge_protection_summary">Anscheinend ist Ihr Akku die meiste Zeit voll geladen, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
   <string name="power_center_one_key_save">Optimieren</string>
   <string name="power_center_ontime_boot">Einschalten planen</string>
   <string name="power_center_ontime_shutdown">Ausschalten planen</string>
@@ -3759,7 +3759,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="st_group_list_management">Sperrliste verwalten</string>
   <string name="st_hint_add_head_number">Vorwahl eingeben</string>
   <string name="st_hint_add_phonenumber">Telefonnummer eingeben</string>
-  <string name="st_hint_operatelist">Sieht aus, als existiert diese Regel bereits</string>
+  <string name="st_hint_operatelist">Anscheinend existiert diese Regel bereits</string>
   <string name="st_message_SMS_AntiSpam">SMS blockieren</string>
   <string name="st_message_SMSpass">SMS erlauben</string>
   <string name="st_message_phone_AntiSpam">Anrufe blockieren</string>

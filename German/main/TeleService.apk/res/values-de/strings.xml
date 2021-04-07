@@ -1584,7 +1584,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
   <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
   <string name="notification_network_selection_title">Kein Dienst</string>
   <string name="notification_network_selection_without_operator">Ausgewähltes Netzwerk nicht verfügbar</string>
-  <string name="notification_switch_auto_text">Sieht aus, als seien Sie wieder da. Auf lokale Netzwerke umgeschaltet.</string>
+  <string name="notification_switch_auto_text">Anscheinend sind Sie wieder da. Auf lokale Netzwerke umgeschaltet.</string>
   <string name="notification_switch_auto_title">Mobile Netze</string>
   <string name="notification_voicemail_no_vm_number">Sprachboxnummer unbekannt</string>
   <string name="notification_voicemail_text_format">%s anrufen</string>

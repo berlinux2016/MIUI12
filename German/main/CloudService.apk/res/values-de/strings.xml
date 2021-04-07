@@ -205,9 +205,9 @@
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
   <string name="micloud_buy_member_safe">Xiaomi Cloud-Mitgliedschaft kaufen</string>
-  <string name="micloud_check_sim_notify_text">Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi-Konto an, um die Xiaomi Cloud zu reaktivieren.</string>
+  <string name="micloud_check_sim_notify_text">Anscheinend haben Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi-Konto an, um die Xiaomi Cloud zu reaktivieren.</string>
   <string name="micloud_check_sim_notify_title">Xiaomi Cloud reaktivieren</string>
-  <string name="micloud_check_sim_title">Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi-Konto an, um die Xiaomi Cloud zu reaktivieren.</string>
+  <string name="micloud_check_sim_title">Anscheinend haben Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi-Konto an, um die Xiaomi Cloud zu reaktivieren.</string>
   <string name="micloud_confusion_account_hint">Änderungen auf diesem Gerät werden mit all Ihren Geräten synchronisiert. Um Ihr Konto zu schützen, empfehlen wir Ihnen, die Synchronisation für Ihre nicht verwendeten Geräte auszuschalten.</string>
   <string name="micloud_confusion_account_name">"Mi-Konto: "</string>
   <string name="micloud_confusion_account_notify_text">Ihr Mi-Konto wurde von einem anderem Gerät geändert. Prüfen Sie gleich Ihr Konto.</string>

@@ -146,7 +146,7 @@
   <string name="autologin_bar_text">Anmelden als</string>
   <string name="back_description">Zurück</string>
   <string name="back_home">Freigabe für Startseite</string>
-  <string name="batch_download_tip">Sieht aus, als ob mehrere Elemente gleichzeitig heruntergeladen werden. Diese Downloads blockieren?</string>
+  <string name="batch_download_tip">Anscheinend werden mehrere Elemente gleichzeitig heruntergeladen. Diese Downloads blockieren?</string>
   <string name="bind_sign_in_title">Mi-Konto hinzufügen</string>
   <string name="block">Blockieren</string>
   <string name="block_ads_choice_block">Blockieren</string>
@@ -590,7 +590,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
   <string name="feedback_send_email_body_extra_info">Löschen Sie die folgenden Infos nicht. Sie helfen uns, das Problem zu lokalisieren.</string>
   <string name="fetch_video">Video vorbereiten…</string>
   <string name="fetch_video_fail">Daten wurden nicht abgerufen</string>
-  <string name="fetch_video_ssl_bad_clock">Sieht aus, als wären Datum und Uhrzeit auf Ihrem Gerät (%s) nicht korrekt eingestellt. Einstellungen anpassen und erneut versuchen.</string>
+  <string name="fetch_video_ssl_bad_clock">Anscheinend sind Datum und Zeit auf Ihrem Gerät (%s) nicht korrekt eingestellt. Einstellungen anpassen und erneut versuchen.</string>
   <string name="fetching_video">Video vorbereiten…</string>
   <string name="file_dir">Verzeichnis</string>
   <string name="file_info_canread">"Lesbar: "</string>
@@ -964,7 +964,7 @@ Absturz-ID: http://crash/%1$s"</string>
   <string name="mw_date_picker_dialog_other_button_label">Andere</string>
   <string name="mw_date_picker_dialog_set">Einstellen</string>
   <string name="mw_date_picker_dialog_title">Datum einstellen</string>
-  <string name="mw_date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="mw_date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="mw_delete_suggestion_text">Löschen</string>
   <string name="mw_find_next">Nächste suchen</string>
   <string name="mw_find_previous">Vorherige suchen</string>

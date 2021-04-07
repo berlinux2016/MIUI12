@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="messages_installed_notification_text_xiaomi">Tippen, um einen Chat zu starten</string>
   <string name="messages_installed_notification_title_xiaomi">Messages ist installiert</string>
   <string name="miuix_appcompat_deselect_all">Abwählen</string>
@@ -317,7 +317,7 @@
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
   <string name="failed_to_send">Senden fehlgeschlagen</string>
   <string name="fake_cell_alert_detect_error">Das wurde nicht von einer gefälschten Basiszelle geschickt.</string>
-  <string name="fake_cell_alert_hint">Sieht aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
+  <string name="fake_cell_alert_hint">Anscheinend wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
   <string name="fake_cell_checking_hint">Sicherheitsprüfung…</string>
   <string name="fake_cell_safe_hint">Diese Nachricht ist sicher</string>
   <string name="fake_cell_timeout_hint">Sicherheitsprüfung fehlgeschlagen</string>
@@ -986,7 +986,7 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="rms_location_body">[Standort]</string>
   <string name="rms_normal_file_length_too_large">Dateien größer als %1$dMB senden nicht möglich</string>
   <string name="rms_original_image_length_too_large">Originalbilder größer als %1$dMB senden nicht möglich</string>
-  <string name="rms_original_image_size_too_large">Sieht aus, als wäre das Originalbild zu groß</string>
+  <string name="rms_original_image_size_too_large">Anscheinend ist das Originalbild zu groß</string>
   <string name="rms_vcard_body">[Kontakt]</string>
   <string name="rsc_chatbot_back">Zurück</string>
   <string name="rsc_chatbot_detail">Herstellerinformationen</string>

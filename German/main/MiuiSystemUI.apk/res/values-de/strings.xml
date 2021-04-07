@@ -2334,7 +2334,7 @@ d. MMM"</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">Die 3D-Gesichtserkennung ist relativ sicher. Es ist sehr unwahrscheinlich, dass Ihr Gerät mit Ihrem Foto entsperrt werden kann, wenn diese Funktion aktiviert ist. Es kann jedoch von Personen oder Objekten, die wie Sie aussehen, freigeschaltet werden.</string>
   <string name="structure_face_unlock_model_other_title">Gesichtserkennung</string>
   <string name="structure_face_unlock_not_same_person">Sie müssen alle Schritte selbst durchführen. Mit niemandem den Platz wechseln.</string>
-  <string name="structure_face_unlock_really_person">Sieht aus, als hätten Sie Ihr Gesicht durch ein Objekt ersetzt.</string>
+  <string name="structure_face_unlock_really_person">Anscheinend haben Sie Ihr Gesicht durch ein Objekt ersetzt.</string>
   <string name="structure_face_unlock_tof_covered">Gesichtsdaten hinzufügen nicht möglich. Gehen Sie weiter weg vom Bildschirm.</string>
   <string name="summary_dark_mode">Einige Seiten werden wegen Dienstleistungen Dritter schwarz dargestellt</string>
   <string name="switch_bar_off">Aus</string>

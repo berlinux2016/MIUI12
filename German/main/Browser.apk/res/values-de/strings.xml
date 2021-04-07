@@ -850,7 +850,7 @@ um Tabs von anderen Geräten zu sehen"</string>
   <string name="mw_date_picker_dialog_other_button_label">Andere</string>
   <string name="mw_date_picker_dialog_set">Einstellen</string>
   <string name="mw_date_picker_dialog_title">Datum einstellen</string>
-  <string name="mw_date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="mw_date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="mw_delete_suggestion_text">Löschen</string>
   <string name="mw_external_payment_app_leave_incognito_warning">Verlassen des Inkognitomodus, um über eine externe App zu bezahlen. Weiter?</string>
   <string name="mw_find_next">Nächste suchen</string>
@@ -1863,7 +1863,7 @@ Es zeigt nichts an."</string>
   <string name="vo_info_flow_rs_hint">Suchen</string>
   <string name="vo_like_text">Gefällt mir</string>
   <string name="vo_location_change_cancel">Nicht jetzt</string>
-  <string name="vo_location_change_content">Sieht aus, als hätte sich Ihr Standort geändert. Zum aktuellen Ort wechseln?</string>
+  <string name="vo_location_change_content">Anscheinend hat sich Ihr Standort geändert. Zum aktuellen Ort wechseln?</string>
   <string name="vo_location_change_positive">Wechseln</string>
   <string name="vo_location_change_title">Standort geändert</string>
   <string name="vo_location_choose_city">Tippen, um Orte zu wechseln</string>

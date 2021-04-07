@@ -27,7 +27,7 @@
   <string name="confirm_device_credential_password">Passwort verwenden</string>
   <string name="copy">Kopieren</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
-  <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="default_error_msg">Unbekannter Fehler</string>
   <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>
   <string name="display_not_support_secondary_toast">Diese App kann nicht in neuem Fenster geöffnet werden</string>
@@ -169,7 +169,7 @@
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
   <string name="save_failed">Speichern nicht möglich</string>
-  <string name="scanner_uninstalled_text">Sieht aus, als ob der Scanner nicht auf Ihrem Gerät installiert ist. Installieren Sie zuerst den Scanner.</string>
+  <string name="scanner_uninstalled_text">Anscheinend ist der Scanner nicht auf Ihrem Gerät installiert. Installieren Sie zuerst den Scanner.</string>
   <string name="scanner_uninstalled_title">Scanner installieren</string>
   <string name="search_menu_title">Suchen</string>
   <string name="send">Senden</string>

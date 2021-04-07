@@ -2380,7 +2380,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="date_and_time">Zeit- &amp; Datumseinstellungen</string>
   <string name="date_and_time_settings_summary">Datum, Uhrzeit, Zeitzone und Formate festlegen</string>
   <string name="date_and_time_settings_title">Datum &amp; Uhrzeit</string>
-  <string name="date_and_time_settings_title_setup_wizard">Datum und Uhrzeit einstellen</string>
+  <string name="date_and_time_settings_title_setup_wizard">Datum und Zeit einstellen</string>
   <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">24-Stunden-Format</string>
@@ -3623,7 +3623,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="headset_find_left">Links</string>
   <string name="headset_find_notify_connected">Verbunden</string>
   <string name="headset_find_notify_disconnect">Verbindung getrennt. Verbinden und erneut versuchen.</string>
-  <string name="headset_find_play_warning">Sieht aus, als ob mindestens einer der Ohrhörer in Ihrem Ohr steckt. Das Abspielen des Alarms jetzt kann Ihr Gehör schädigen. Entfernen Sie die Ohrhörer aus Ihren Ohren, bevor Sie fortfahren.</string>
+  <string name="headset_find_play_warning">Anscheinend steckt mindestens einer der Ohrhörer in Ihrem Ohr. Das Abspielen des Alarms jetzt kann Ihr Gehör schädigen. Entfernen Sie die Ohrhörer aus Ihren Ohren, bevor Sie fortfahren.</string>
   <string name="headset_find_playing">Abspielen…</string>
   <string name="headset_find_query_play">Abspielen</string>
   <string name="headset_find_right">Rechts</string>
@@ -8589,7 +8589,7 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_access_description">Mit Nutzungszugriff können Apps sowohl verfolgen, welche anderen Apps Sie wie oft benutzen, als auch Ihren Anbieter, die Spracheinstellungen und andere Details.</string>
   <string name="usage_access_title">Apps mit Nutzungszugriff</string>
   <string name="usage_app_get_it">Verstanden</string>
-  <string name="usage_app_limit_alter_summary">Sieht aus, als wäre dieses Zeitlimit kürzer als die Zeit, die Sie heute diese App benutzt haben. Trotzdem Limit setzen?</string>
+  <string name="usage_app_limit_alter_summary">Anscheinend ist dieses Zeitlimit kürzer als die Zeit, die Sie heute diese App benutzt haben. Trotzdem Limit setzen?</string>
   <string name="usage_app_limit_alter_title">Bildschirmzeitlimit prüfen</string>
   <string name="usage_app_limit_prelong">Zeit verlängern</string>
   <string name="usage_app_limit_reach_summay">%s verbleiben</string>

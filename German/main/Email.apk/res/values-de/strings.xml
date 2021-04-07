@@ -1248,7 +1248,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="select_path">Pfad auswählen</string>
   <string name="selected_lable">Ausgewählt</string>
   <string name="send">Senden</string>
-  <string name="send_encrypt_dialog_fail_content">Sieht aus, als ob der Empfänger nicht über das für die Verschlüsselung dieser E-Mail erforderliche vertrauenswürdige Zertifikat verfügt. Stattdessen eine normale E-Mail senden?</string>
+  <string name="send_encrypt_dialog_fail_content">Anscheinend verfügt der Empfänger nicht über das für die Verschlüsselung dieser E-Mail erforderliche vertrauenswürdige Zertifikat. Stattdessen eine normale E-Mail senden?</string>
   <string name="send_encrypt_dialog_fail_title">Verschlüsselte E-Mails senden nicht möglich</string>
   <string name="send_failed">Nachricht nicht gesendet</string>
   <string name="send_feed_back">Feedback senden</string>

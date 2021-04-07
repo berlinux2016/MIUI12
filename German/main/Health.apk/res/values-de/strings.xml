@@ -416,7 +416,7 @@ Lesen Sie unsere &lt;font color=\"#0000FF\">&lt;a href=\"%1$s\">Nutzervereinbaru
   <string name="enough">Ausreichend</string>
   <string name="enter_mi_health">Xiaomi Health öffnen</string>
   <string name="environment_detection_again">Erneut versuchen</string>
-  <string name="environment_detection_fail">Sieht aus, als wäre es hier zu laut.</string>
+  <string name="environment_detection_fail">Anscheinend ist es hier zu laut.</string>
   <string name="environment_detection_fail_hint">Gehen Sie an einen ruhigen Ort und versuchen Sie es erneut.</string>
   <string name="environment_detection_hint_one">Vermeiden Sie laute Orte, um die Werte präziser zu machen.</string>
   <string name="environment_detection_hint_two">Ihr Training wird auf Basis der von Ihnen erzeugten Geräusche automatisch angehalten und wieder aufgenommen.</string>
@@ -1275,7 +1275,7 @@ nicht gefunden"</string>
   <string name="sleep_time_edit">Bearbeiten</string>
   <string name="sleep_time_standard_pattern">Standard: %1$d Std</string>
   <string name="sleep_tip_default">Versuchen Sie, vor 23:00 Uhr ins Bett zu gehen</string>
-  <string name="sleep_tip_keep_not_enough">Sieht aus, als bekämen Sie nicht ausreichend Schlaf</string>
+  <string name="sleep_tip_keep_not_enough">Anscheinend bekommen Sie nicht ausreichend Schlaf.</string>
   <string name="sleep_tip_keep_on">Alles sieht gut aus. Schön!</string>
   <string name="sleep_today">Heute</string>
   <string name="sleep_tracing_operation">Schlaf verfolgen…</string>
