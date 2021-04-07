@@ -28,10 +28,6 @@
         <item>Startseite (Standard)</item>
         <item>Benutzerdefiniert</item>
     </string-array>
-    <string-array name="pref_homepage_values">
-        <item>miui_home</item>
-        <item>Andere</item>
-    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefon</item>
         <item>Tablet</item>
