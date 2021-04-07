@@ -649,6 +649,7 @@ Abtastrate"</string>
   <string name="charge_length_format">Vor %1$s</string>
   <string name="chip_text">Chiptext</string>
   <string name="chooseUsbActivity">Wählen Sie eine App für das USB-Gerät</string>
+  <string name="choose_clock_dual_clock_hint_text">Format nicht änderbar, wenn Duale Uhr an ist</string>
   <string name="choose_clock_panel_title">Bildschirm-Layout sperren</string>
   <string name="choose_clock_third_theme_hint_text">Sperrbildschirm aus dem aktuell angewandten Thema</string>
   <string name="choose_clock_title_left_top">Linksbündig</string>
@@ -2219,6 +2220,7 @@ Screenshot zu erstellen"</string>
   <string name="speed_label_very_slow">Sehr langsam</string>
   <string name="ssl_ca_cert_warning">Netzwerk wird eventuell überwacht</string>
   <string name="standby_bucket_summary">Status App-Standby: %s</string>
+  <string name="start_camera_error_try_again">Kamera wurde nicht gestartet. Erneut versuchen.</string>
   <string name="start_dreams">Bildschirmschoner</string>
   <string name="status_bar">Statusleiste</string>
   <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
