@@ -143,7 +143,7 @@ Zum Ausschalten auf https://appleid.apple.com/#!&amp;page=signin gehen"</string>
   <string name="dialog_request_network_btn_positive">Zustimmen</string>
   <string name="dialog_request_network_message">"Willkommen bei Mi Mover! Mit dieser App können Sie Elemente von Ihrem alten Gerät auf ein neues übertragen.
 Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Bitte beachten Sie, dass Mi Mover eine Internetverbindung und folgende Berechtigungen benötigt, um Ihre persönlichen Daten zu erfassen: Ein-/Ausschalten von WLAN, auf Ihre Kontakte zugreifen und diese übertragen, Anrufliste, SMS, MMS, Gesprächsaufzeichnungen und Audioaufzeichnungen."</string>
-  <string name="dialog_request_network_message_extra">Wenn Sie solchen Genehmigungen nicht zustimmen oder Ihre persönlichen Daten nicht teilen und hochladen, können Sie diese App nicht verwenden.In solchen Fällen können Sie diese Anwendung deinstallieren oder die Berechtigungen in den Einstellungen einschränken.</string>
+  <string name="dialog_request_network_message_extra">Wenn Sie solchen Genehmigungen nicht zustimmen oder Ihre persönlichen Daten nicht teilen und hochladen, können Sie diese App nicht verwenden.In solchen Fällen können Sie diese App deinstallieren oder die Berechtigungen in den Einstellungen einschränken.</string>
   <string name="dialog_request_permission_message">Willkommen bei Mi Mover! Mit dieser App können Sie Daten von iCloud oder Ihrem alten Gerät auf ein neues Gerät übertragen. Diese App benötigt eine Internetverbindung und die folgenden Berechtigungen, um normal arbeiten zu können:</string>
   <string name="dialog_request_permission_message_buttom_content">Erlauben Sie dieser App die Internetverbindung und erteilen Sie die oben aufgeführten obligatorischen Berechtigungen.</string>
   <string name="dialog_request_permission_message_extra_summary">Diese Berechtigungen sind erforderlich, um die grundlegenden Funktionen und Dienste dieser App verfügbar zu machen.</string>
@@ -523,7 +523,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
   <string name="prompt_before_transmission_message1_summary">Wenn Sie sich dafür entscheiden, sie von Ihrem alten Gerät zu übertragen, werden die App-Daten (einschl. Chat-Verlauf) überschrieben.</string>
   <string name="prompt_before_transmission_message1_title">Diese Apps haben bereits App-Daten auf Ihrem neuen Gerät generiert</string>
   <string name="prompt_before_transmission_message2_summary">Dual-Apps können nicht übertragen werden. Sie können jedoch Original-Apps übertragen.</string>
-  <string name="prompt_before_transmission_message2_title">Sie verwenden duale Anwendungen für folgende Elemente</string>
+  <string name="prompt_before_transmission_message2_title">Sie verwenden duale Apps für folgende Elemente</string>
   <string name="prompt_before_transmission_message3_summary">Elemente aus dem Zweitprofil können wegen Systembeschränkungen nicht übertragen werden.</string>
   <string name="prompt_before_transmission_message3_title">Sie nutzen ein Zweitprofil</string>
   <string name="prompt_before_transmission_message4_summary">WLAN nicht ausschalten oder zwischen Netzwerken wechseln, bis die Übertragung abgeschlossen ist.</string>

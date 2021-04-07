@@ -537,7 +537,7 @@ dd.MM."</string>
   <string name="passport_completed">Beenden</string>
   <string name="passport_confirm_login">Weiter</string>
   <string name="passport_confirm_recycle_account">Ja</string>
-  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Sieht aus&lt;/font>, als wäre die Nummer %s von Ihrem Mobilfunkanbieter wiederverwendet worden, und es ist ein Mi-Konto damit verbunden. Ist das Ihr Konto?</string>
+  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Anscheinend&lt;/font> wurde die Nummer %s von Ihrem Mobilfunkanbieter wiederverwendet, und es ist ein Mi-Konto damit verbunden. Ist das Ihr Konto?</string>
   <string name="passport_continue">Weiter</string>
   <string name="passport_copy_message_text_success">Erfolgreich kopiert</string>
   <string name="passport_copy_message_vcode">Code kopieren</string>

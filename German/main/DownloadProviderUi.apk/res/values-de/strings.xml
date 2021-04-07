@@ -85,7 +85,7 @@
   <string name="dialog_delete_positive">Löschen</string>
   <string name="dialog_failed_body">Datei später herunterladen oder aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Zieldatei existiert bereits</string>
-  <string name="dialog_file_missing_body">Datei nicht gefunden, sieht aus, als sei sie gelöscht worden.</string>
+  <string name="dialog_file_missing_body">Datei nicht gefunden, anscheinend ist sie gelöscht worden.</string>
   <string name="dialog_file_missing_title">Datei öffnen fehlgeschlagen</string>
   <string name="dialog_insufficient_space_on_cache">Download nicht abgeschlossen, nicht genügend interner Speicher</string>
   <string name="dialog_insufficient_space_on_external">Download nicht abgeschlossen, nicht genügend externer Speicher</string>
