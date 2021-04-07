@@ -83,6 +83,8 @@
   <string name="dialog_content_limit0">Downloads beschränken</string>
   <string name="dialog_content_limit_max">Unbegrenzt</string>
   <string name="dialog_delete_positive">Löschen</string>
+  <string name="dialog_download_dir_content" formatted="false">Der Standardzielordner für Ihre Downloads wurde von \"%s\" auf \"%s/DLManager\" geändert.</string>
+  <string name="dialog_download_dir_title">Neuer Zielordner</string>
   <string name="dialog_failed_body">Datei später herunterladen oder aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Zieldatei existiert bereits</string>
   <string name="dialog_file_missing_body">Datei nicht gefunden, anscheinend ist sie gelöscht worden.</string>

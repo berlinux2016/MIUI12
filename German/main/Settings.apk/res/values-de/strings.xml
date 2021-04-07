@@ -4749,10 +4749,13 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_ancBalance">Mittel</string>
   <string name="miheadset_ancClosed">Aus</string>
   <string name="miheadset_ancDecrease">Niedrig</string>
+  <string name="miheadset_ancDepth">Tief</string>
+  <string name="miheadset_ancEquilibrium">Ausgewogen</string>
   <string name="miheadset_ancHigh">Flugzeug</string>
   <string name="miheadset_ancIncrease">Hoch</string>
   <string name="miheadset_ancLow">Büro</string>
   <string name="miheadset_ancMedium">Täglich</string>
+  <string name="miheadset_ancMild">Leicht</string>
   <string name="miheadset_anc_indicate">Kopfhörer anschließen und koppeln</string>
   <string name="miheadset_audio_mode">Audio-Modus</string>
   <string name="miheadset_audio_mode_high">Hohe Qualität</string>
@@ -4760,10 +4763,10 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_audio_mode_normal">Normalmodus</string>
   <string name="miheadset_audio_mode_summary">Audio-Modus ändern</string>
   <string name="miheadset_auto_ack_mode">Auto-ACK-Modus</string>
-  <string name="miheadset_auto_ack_mode_summary">Telefon auto-ACK</string>
+  <string name="miheadset_auto_ack_mode_summary">Telefon Auto-ACK</string>
   <string name="miheadset_bright">Hell</string>
   <string name="miheadset_call_assist">Anruf-KI</string>
-  <string name="miheadset_cancel_device">Abrrechen</string>
+  <string name="miheadset_cancel_device">Abbrechen</string>
   <string name="miheadset_checkUpdate">Nach Updates suchen</string>
   <string name="miheadset_closeAnc">Aus</string>
   <string name="miheadset_connectHeadsetForFw">Kopfhörer anschließen, um die Firmware-Version anzuzeigen</string>

@@ -666,6 +666,10 @@ um den Akku zu schonen"</item>
     <item quantity="other">Elemente</item>
     <item quantity="one">Element</item>
   </plurals>
+  <plurals name="power_center_unoffical_battery_dialog_negative">
+    <item quantity="other">Abbrechen (%ds)</item>
+    <item quantity="one">Abbrechen (%ds)</item>
+  </plurals>
   <plurals name="power_main_battery_last_day">
      <item quantity="other">%s Tage bleiben</item>
      <item quantity="one">%s Tag bleiben</item>

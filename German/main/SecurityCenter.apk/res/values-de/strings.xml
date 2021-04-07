@@ -2694,7 +2694,7 @@ Stromverbrauch"</string>
   <string name="permission_instruction_dont_disturb">Diese Berechtigung erlaubt Apps, den DND-Modus ein- und auszuschalten.</string>
   <string name="permission_instruction_draw_overlay">Diese Berechtigung erlaubt Apps, Popups über jeder anderen Schnittstelle auf Ihrem Gerät anzuzeigen, was die normale Verwendung anderer Apps beeinträchtigen kann. Bösartige Apps können diese Berechtigung nutzen, um private Informationen (z. B. Passwörter) durch transparente Popups zu lesen oder zu sammeln.</string>
   <string name="permission_instruction_external_storage">Diese Berechtigung erlaubt Apps den Zugriff auf Fotos, Medien und Dateien auf Ihrem Gerät. Seien Sie vorsichtig mit dieser Berechtigung, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
-  <string name="permission_instruction_gallery">Um Ihre Privatsphäre zu schützen, können Sie in MIUI entscheiden, ob Sie den Apps, die über Speicherberechtigung verfügen, den Zugriff auf die Galerie erlauben.</string>
+  <string name="permission_instruction_gallery">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
   <string name="permission_instruction_get_accounts">Diese Berechtigung erlaubt Apps den Zugriff auf die Liste der auf Ihrem Gerät gespeicherten Konten. Diese Liste könnte alle Ihre persönlichen Konten enthalten, die durch installierte Apps erstellt wurden, sowie die Konten von Social Media-Plattformen und Kommunikationstools.</string>
   <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen auf dem Startbildschirm zu erstellen.</string>
   <string name="permission_instruction_install_unknown_source">Diese Berechtigung erlaubt Apps, andere Apps auf Ihrem Gerät zu installieren. Bösartige Apps nutzen diese Berechtigung, um Apps ohne Ihre Bestätigung zu installieren.</string>
@@ -2721,8 +2721,8 @@ Stromverbrauch"</string>
   <string name="permission_instruction_send_payment_sms">Diese Berechtigung erlaubt Apps, kostenpflichtige Textnachrichten zu senden.</string>
   <string name="permission_instruction_send_sms">Diese Berechtigung erlaubt Apps, Textnachrichten zu versenden, was zusätzliche Kosten verursachen kann. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtige Nachrichten zu versenden.</string>
   <string name="permission_instruction_show_locked">Diese Berechtigung erlaubt Apps, Elemente auf Ihrem Sperrbildschirm anzuzeigen. Bösartige Apps können diese Berechtigung nutzen, um Ihnen lästige Werbung zu zeigen.</string>
-  <string name="permission_instruction_sociality">Um Ihre Privatsphäre zu schützen, können Sie in MIUI entscheiden, ob Sie den Apps, die über Speicherberechtigung verfügen, den Zugriff auf Ihre Nachrichten in Social Media-Apps erlauben.</string>
-  <string name="permission_instruction_storage">Um Ihre Privatsphäre zu schützen, können Sie in MIUI entscheiden, ob Sie den Apps, die über Speicherberechtigung verfügen, den Zugriff auf die Galerie und Ihre Nachrichten in Social Media-Apps erlauben.</string>
+  <string name="permission_instruction_sociality">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die in Social Media-Apps erzeugten Dateien zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
+  <string name="permission_instruction_storage">Wenn Sie Apps erlauben, auf Dateien in ihren eigenen Ordnern zuzugreifen, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie und auf Dateien, die in Social Media-Apps erstellt wurden, zugreifen dürfen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
   <string name="permission_instruction_touch_pay">Diese Berechtigung erlaubt Apps, kontaktlose Zahlungen durchzuführen.</string>
   <string name="permission_instruction_use_sip">Diese Berechtigung erlaubt Apps die Verwendung von SIP-Videodiensten.</string>
   <string name="permission_instruction_vr_assistant">Diese Berechtiung erlaubt Apps, VR-Assistentendienste zu nutzen.</string>
@@ -2849,6 +2849,15 @@ Stromverbrauch"</string>
   <string name="power_center_time_to_boot">Einschaltzeit</string>
   <string name="power_center_time_to_shutdown">Ausschaltzeit</string>
   <string name="power_center_title">Akku</string>
+  <string name="power_center_unoffical_battery_button">Einen autorisierten Serviceanbieter finden</string>
+  <string name="power_center_unoffical_battery_dialog">Warnung vor nicht zugelassenem Akku</string>
+  <string name="power_center_unoffical_battery_dialog_positive">Mehr erfahren</string>
+  <string name="power_center_unoffical_battery_dialog_summary">Anscheinend ist ein nicht zugelassener Akku in diesem Gerät installiert. Die Ladeleistung wird zum Schutz Ihres Geräts herabgesetzt. Die Verwendung nicht zugelassener Akkus kann zum Anschwellen des Akkus, zur Überhitzung und zum Auslaufen führen. Außerdem kann es zu Bränden oder anderen Gefahren kommen. Suchen Sie einen autorisierten Serviceanbieter auf, um den Akku auszutauschen.</string>
+  <string name="power_center_unoffical_battery_noti_summary">Ihr aktueller Akku könnte ein Sicherheitsrisiko darstellen</string>
+  <string name="power_center_unoffical_battery_summary1">Dieses Gerät wurde mit einem eingebauten Akku ausgestattet, der nur von einem autorisierten Serviceanbieter ausgetauscht werden sollte.</string>
+  <string name="power_center_unoffical_battery_summary2">Wenn Sie den Akku anderswo austauschen, kann dieses Gerät beschädigt werden. Die Verwendung nicht zugelassener Akkus kann zum Anschwellen des Akkus, zur Überhitzung und zum Auslaufen führen. Außerdem kann es zu Bränden oder anderen Gefahren kommen. Verwenden Sie keine nicht zugelassenen Akkus.</string>
+  <string name="power_center_unoffical_battery_tip">Zustandsinfos sind für diesen nicht zugelassenen Akku nicht verfügbar. Tippen, um mehr über Sicherheitsrisiken zu erfahren.</string>
+  <string name="power_center_unoffical_battery_title">Risiken durch Verwendung nicht zugelassener Akkus</string>
   <string name="power_center_used_time_Introduction">Akkulaufzeit seit dem letzten Laden ≥%s.</string>
   <string name="power_consume_other">Andere</string>
   <string name="power_dialog_super_save_msg_5g">Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen (z. B. 5G-Verbindung) ein und reduziert die Leistung Ihres Geräts. Nur Anrufe, Nachrichten und Netzwerkverbindungen werden nicht beeinträchtigt. Ultra-Stromsparen einschalten?</string>
