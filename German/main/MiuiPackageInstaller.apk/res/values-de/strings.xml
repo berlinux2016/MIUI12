@@ -36,7 +36,7 @@
   <string name="anonymous_source_continue">Weiter</string>
   <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder für den Verlust von Daten verantwortlich sind, die sich aus seiner Verwendung ergeben können.</string>
   <string name="app_install_failed_button_text">Nach Apps suchen</string>
-  <string name="app_name">Paketinstaller</string>
+  <string name="app_name">Package Installer</string>
   <string name="app_name_unknown">Ungenau</string>
   <string name="app_not_found_dlg_text">App wurde nicht in der Liste der installierten Apps gefunden</string>
   <string name="app_not_found_dlg_title">App nicht gefunden</string>
