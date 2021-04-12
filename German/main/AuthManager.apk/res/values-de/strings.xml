@@ -144,6 +144,10 @@
   <string name="blur_location_is_on_tip">%%1$s verwendet Ihren ungefähren Standort. Weiter verwenden anstelle des genauen Standorts?</string>
   <string name="blur_location_now_tip">Ungefährer Standort ist an</string>
   <string name="blur_location_title">Ungefährer Standort</string>
+  <string name="cetus_invisible_mode_notice_audio">Sie sind inkognito. Mikrofon ist jetzt nicht verfügbar.</string>
+  <string name="cetus_invisible_mode_notice_camera">Sie sind inkognito. Kamera ist jetzt nicht verfügbar.</string>
+  <string name="cetus_invisible_mode_notice_location">Sie sind inkognito. Standortdienste sind jetzt nicht verfügbar.</string>
+  <string name="cetus_invisible_mode_notice_tip">Tippen, um den Inkognito-Modus in den Einstellungen zu deaktivieren</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="clipboard_ai_allow_once">Erlaubt %1$s, automatisch auf Elemente in der Zwischenablage zuzugreifen</string>
   <string name="clipboard_ai_allow_tip">Smart erlaubt %1$s, %2$s in der Zwischenablage zu lesen</string>
