@@ -3220,6 +3220,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_and_password_entrance_title">Sperrbildschirm &amp; Fingerabdruck</string>
   <string name="fingerprint_apply_to_privacy_password">Datenschutzpasswort</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">Datenschutzpasswort schützt Ihre Nachrichten, Fotos, Dateien, Notizen und Apps</string>
+  <string name="fingerprint_base_title">Fingerabdruck %s</string>
   <string name="fingerprint_delete_message">Diesen Fingerabdruck löschen?</string>
   <string name="fingerprint_delete_title">"'%1$s' entfernen"</string>
   <string name="fingerprint_double_tap">Doppeltipp-Fingerabdrucksensor</string>
@@ -3230,6 +3231,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_first_open_screen_password_tittle">Fingerabdruck (Bildschirmsperre vorher einstellen)</string>
   <string name="fingerprint_for_keyguard_disabled">Fingerabdruck wurde in den Sicherheitseinstellungen deaktiviert</string>
   <string name="fingerprint_gesture_screen_title">Fingerabdruck wischen</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">Gespeichert als \"%s\"</string>
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
   <string name="fingerprint_identify_msg">Fingerabdruck lesen…</string>
   <string name="fingerprint_identify_try_again_msg">Scan fehlgeschlagen, versuchen Sie es erneut</string>
@@ -4790,8 +4792,10 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_fitness_check_result_dialog1">Ohrhörer bitte in beide Ohren stecken und dann die Passform prüfen.</string>
   <string name="miheadset_fitness_check_result_dialog2">Bitte erst den Anruf beenden und dann die Passformprüfung durchführen.</string>
   <string name="miheadset_fitness_check_result_dialog_title">Tipps</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">Kopfhörer neu einstellen</string>
   <string name="miheadset_fitness_check_result_not_ok">Schlechte Passform</string>
   <string name="miheadset_fitness_check_result_ok">Gute Passform</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">Kopfhörer neu einstellen</string>
   <string name="miheadset_fitness_check_result_summary1">Die Ohrstöpsel, die Sie derzeit tragen, passen gut.</string>
   <string name="miheadset_fitness_check_result_summary2">Bitte justieren Sie die Position der Ohrstöpsel neu oder tauschen Sie die Ohrstöpsel vor dem Test gegen andere Größen aus.</string>
   <string name="miheadset_fitness_check_result_unkown">Passform unbekannt</string>
@@ -8977,6 +8981,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="voice_search_settings_title">Sprachsuche</string>
   <string name="voice_service_preference_section_title">Spracheingabedienste</string>
   <string name="voicemail_number_not_set">&lt;Nicht eingestellt</string>
+  <string name="voip_assistant_settings">VoIP-Assistent</string>
   <string name="volte_5G_limited_text">"Dies schaltet auch Ihre 5G-Verbindung aus.
 Während eines Sprachanrufs können Sie das Internet nicht nutzen und einige Apps funktionieren eventuell nicht."</string>
   <string name="volte_5G_limited_title">VoLTE ausschalten?</string>

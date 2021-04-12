@@ -1120,6 +1120,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="force_resizable_activities_summary">Alle Aktivitäten in der Größe für Multi-Window verändern, unabhängig von Manifestwerten</string>
   <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
   <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
+  <string name="four_point_five_switch_summary">4.5G nutzen, um Datenzugriffsgeschwindigkeit und Sprachqualität zu verbessern</string>
   <string name="frequecy_num">LTE CHANNEL NUM</string>
   <string name="fw_change_failed">"Rufumleitungsnummer konnte nicht geändert werden.
 Kontaktieren Sie Ihren Mobilfunkanbieter, falls das Problem weiterhin besteht."</string>
