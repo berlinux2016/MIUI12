@@ -673,13 +673,17 @@ ausrichten und verbessern"</string>
   <string name="dual_video_record_remote">Duale Telefonaufnahme</string>
   <string name="dual_video_record_standalone">Separat</string>
   <string name="dual_video_user_guide_main_content">Um Multikamera-Videos zu erstellen, wählen Sie zwei Kameras auf Ihrem Gerät aus und nehmen Sie gleichzeitig auf. Die Aufzeichnungen können separat oder kombiniert in einer geteilten Ansicht oder als Bild-in-Bild-Video gespeichert werden.</string>
+  <string name="dual_video_user_guide_main_content_new">Die Funktion \"Multi-Kamera-Simultanaufnahme\" kann mehrere Kameras gleichzeitig einschalten, unterstützt die Aufnahme von zwei beliebigen Blickwinkeln und kann zwei verschiedene Formen der \"Doppelaufnahme\" oder \"Einzelaufnahme\" auswählen.
+Nach dem Einschalten der Funktion "Multi-Kamera-Aufnahme" können Sie eine Verbindung mit der Kamera eines anderen Mobiltelefons herstellen, und die von den beiden Mobiltelefonen erhaltenen Bilder können zu einem "Shuangpin"-Video kombiniert werden.</string>
   <string name="dual_video_user_guide_main_title">Multikamera-Video</string>
   <string name="dual_video_user_guide_merge_content">Nehmen Sie mit zwei Kameras gleichzeitig auf und kombinieren Sie Aufnahmen in einer geteilten Ansicht oder als Bild-in-Bild-Video.</string>
+  <string name="dual_video_user_guide_merge_content_new">Nehmen Sie Bilder aus zwei Blickwinkeln gleichzeitig auf und fügen Sie sie zu einem Video zusammen; Sie können die Zusammenstellung mit großem oder kleinem Fenster oder die Zusammenstellung mit gleichem Verhältnis auswählen.</string>
   <string name="dual_video_user_guide_remote_content">Duale Telefonaufnahme ermöglicht das Kombinieren von Feeds von zwei verschiedenen Geräten in einem Video. Sie können beide Feeds und das endgültige Video auf diesem Gerät in der Vorschau anzeigen lassen. Beachten Sie, dass der Ton nur von diesem Gerät aufgenommen wird.</string>
   <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="dual_video_user_guide_remote_p1">Telefon 1</string>
   <string name="dual_video_user_guide_remote_p2">Telefon 2</string>
   <string name="dual_video_user_guide_standalone_content">Nehmen Sie mit zwei Kameras gleichzeitig auf und speichern Sie beide Aufnahmen als separate Videos.</string>
+  <string name="dual_video_user_guide_standalone_content_new">Gleichzeitiges Aufnehmen und Speichern von zwei Videos, die aus zwei Blickwinkeln aufgenommen wurden.</string>
   <string name="duration">Dauer</string>
   <string name="early_morning">Morgen</string>
   <string name="edit">Bearbeiten</string>
