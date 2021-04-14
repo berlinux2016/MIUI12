@@ -170,7 +170,7 @@
   <string name="bookmark_sync_alert_ok">Synchronisieren</string>
   <string name="bookmark_sync_alert_title">Zu synchronisierende Elemente auswählen</string>
   <string name="bookmark_sync_tip_in_login_activity">Durch Tippen auf \"Anmelden\" stimmen Sie zu, dass Lesezeichen und Browserverlauf automatisch synchronisiert werden. Sie können die Synchronisation später in \"Mein Konto\" deaktivieren.</string>
-  <string name="bookmark_sync_tip_in_profile_page">"Zu synchronisierende Elemente auswählen. Ausschalten, um die Synchronisation zu beenden.</string>
+  <string name="bookmark_sync_tip_in_profile_page">Zu synchronisierende Elemente auswählen. Ausschalten, um die Synchronisation zu beenden.</string>
   <string name="bookmark_sync_tip_logined">Lesezeichen und Browserverlauf synchronisieren</string>
   <string name="bookmark_sync_tip_not_logined">Anmelden, um Lesezeichen und Browserverlauf zu synchronisieren</string>
   <string name="bookmark_title">Lesezeichenname</string>
