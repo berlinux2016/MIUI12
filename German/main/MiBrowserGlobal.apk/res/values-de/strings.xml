@@ -1705,6 +1705,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="setting">Einstellungen</string>
   <string name="setting_app_language">Browser-Sprache</string>
   <string name="setting_feed_language">Sprache Inhaltsfeed</string>
+  <string name="setting_home_page_show_title">Startseite</string>
   <string name="setting_privacy_password">Entsperrmuster einstellen</string>
   <string name="share_by_yidianzixun">(wenig Informationen)</string>
   <string name="share_image_text">Schauen Sie, was ich geteilt habe! @MIUI</string>
