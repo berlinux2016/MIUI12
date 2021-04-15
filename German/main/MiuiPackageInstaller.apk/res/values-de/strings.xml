@@ -44,7 +44,7 @@
   <string name="fingerprint_verification_error">Fingerabdruckverifizierung fehlgeschlagen</string>
   <string name="fingerprint_verification_error_overrun">Maximale Anzahl von Fehlschlägen bei der Fingerabdrucküberprüfung erreicht</string>
   <string name="miui_failed_market_code_already_new">Bereits die neueste Version</string>
-  <string name="miui_failed_market_code_user_canceled">取消安装</string>
+  <string name="miui_failed_market_code_user_canceled">Installation abbrechen</string>
   <string name="miui_failed_solution_market_code_already_new">Bitte versuchen Sie, die App erneut herunterzuladen und zu installieren</string>
   <string name="safe_version_install">Xiaomi-Sicherheitsversion installieren</string>
   <string name="verify_account_title">Identität überprüfen, um die Installation zu bestätigen</string>
