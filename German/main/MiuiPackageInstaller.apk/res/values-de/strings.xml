@@ -53,7 +53,7 @@
   <string name="virus_install_authorize_dialog_title">Identitätsüberprüfung erforderlich, um riskante Apps zu installieren</string>
   <string name="warning_msg_virus_name">[Hohes Risiko] Enthält Viren: %1$s</string>
 
-  <string name="Parse_error_dlg_text">Beim Parsen des Pakets ist ein Problem aufgetreten</string>
+  <string name="Parse_error_dlg_text">Beim analysieren des Pakets ist ein Problem aufgetreten</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
