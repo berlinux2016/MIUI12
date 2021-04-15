@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <plurals name="app_info_private_permission_count">
+    <item quantity="other">%1$s datenschutzbezogene Berechtigungen</item>
+    <item quantity="one">%1$s datenschutzbezogene Berechtigung</item>
+  </plurals>
+  <plurals name="comment_count">
+    <item quantity="other">%1$s Bewertungen</item>
+    <item quantity="one">%1$s Bewertung</item>
+  </plurals>
   <plurals name="miui_app_all_permission_number">
     <item quantity="other">%d Berechtigungen</item>
     <item quantity="one">%d Berechtigung</item>
