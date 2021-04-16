@@ -1,12 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="default_screen_preview_title_inner_display">Hauptbildschirm (Standard) einstellen</string>
-  <string name="default_screen_preview_title_outer_display">Außenbildschirm (Standard) einstellen</string>
-  <string name="icon_size_inner_display">Größe Hauptbildschirmsymbol</string>
-  <string name="menu_cell_setting_inner_display">Layout Hauptbildschirm</string>
-  <string name="menu_default_screen_preview_inner_display">Hauptbildschirm (Standard) einstellen</string>
-  <string name="menu_default_screen_preview_outer_display">Außenbildschirm (Standard) einstellen</string>
-  <string name="screen_cells_config_title_inner_display">Layout Hauptbildschirm</string>
+  <string name="navigation_guide_app_quick_switch_summary_pad">Von der Eingabezeile oder unten nach links oder rechts wischen, um zwischen Apps zu wechseln</string>
+  <string name="navigation_guide_app_quick_switch_summary_spec_pad">Vom unteren Bildschirmrand nach links oder rechts wischen, um zwischen geöffneten Apps zu wechseln</string>
+  <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">\"Apps schnell wechseln\"</string>
+  <string name="navigation_guide_back_summary_pad">Vom linken oder rechten Bildschirmrand zur Mitte wischen</string>
+  <string name="navigation_guide_back_summary_spec_pad">Vom linken oder rechten Bildschirmrand zur Mitte wischen</string>
+  <string name="navigation_guide_back_title_spec_with_quotation_pad">\"Zurück zum vorherigen\"</string>
+  <string name="navigation_guide_dock_summary_pad">Etwas vom unteren Bildschirmrand nach oben wischen</string>
+  <string name="navigation_guide_dock_summary_spec_pad">Etwas vom unteren Bildschirmrand weg wischen</string>
+  <string name="navigation_guide_dock_title_pad">App-Leiste aufrufen</string>
+  <string name="navigation_guide_dock_title_spec_pad">App-Leiste in App aufrufen</string>
+  <string name="navigation_guide_dock_title_spec_with_quotation_pad">\"App-Leiste in App aufrufen\"</string>
+  <string name="navigation_guide_home_summary_spec_pad">Vom unteren Bildschirmrand nach oben wischen</string>
+  <string name="navigation_guide_home_title_spec_with_quotation_pad">\"Zurück zum Desktop\"</string>
+  <string name="navigation_guide_next_spec_pad">Nächste Anleitung</string>
+  <string name="navigation_guide_prev_spec_pad">Vorherige Anleitung</string>
+  <string name="navigation_guide_provision_see_more_pad">Zu \"Einstellungen-Desktop-Vollbildgesten\" gehen, um weitere Anleitungsvideos anzusehen</string>
+  <string name="navigation_guide_provision_title_pad">Vollbildgesten</string>
+  <string name="navigation_guide_recent_summary_pad">Vom unteren Bildschirmrand nach oben wischen und halten</string>
+  <string name="navigation_guide_recent_summary_spec_pad">Vom unteren Bildschirmrand nach oben wischen und halten, dann Finger entfernen</string>
+  <string name="navigation_guide_recent_title_spec_with_quotation_pad">\"Letzte Aufgaben umschalten\"</string>
+
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
@@ -208,14 +222,16 @@
   <string name="current_wallpaper">Aktuell</string>
   <string name="custom_wallpaper_picker">Durchstöbern</string>
   <string name="defalut_launcher_title">Standard-Launcher</string>
-  <string name="default_folder_title_hot">Beliebte Apps</string>
   <string name="default_folder_title_game">Spiele</string>
+  <string name="default_folder_title_hot">Beliebte Apps</string>
   <string name="default_folder_title_meitu">Meitu Apps</string>
   <string name="default_folder_title_other_apps">Andere Apps</string>
   <string name="default_folder_title_recommend">Mehr Apps</string>
   <string name="default_folder_title_services">Dienste</string>
   <string name="default_launcher_title">Standard-Launcher</string>
   <string name="default_screen_preview_title">Als Standardbildschirm festlegen</string>
+  <string name="default_screen_preview_title_inner_display">Hauptbildschirm (Standard) einstellen</string>
+  <string name="default_screen_preview_title_outer_display">Außenbildschirm (Standard) einstellen</string>
   <string name="delete">Löschen</string>
   <string name="delete_category_dialog_content">Diese Kategorie kann nicht wiederhergestellt werden, wenn Sie sie löschen. Trotzdem löschen?</string>
   <string name="delete_category_dialog_title">Diese Kategorie löschen?</string>
@@ -340,9 +356,10 @@
   <string name="home_switch_personal_assistant">Infoassistent</string>
   <string name="icon_customize_summary">Stil auswählen und Größe anpassen</string>
   <string name="icon_form">Symbole</string>
-  <string name="icon_style">Stil</string>
   <string name="icon_reorganize_channel">Symbole anordnen</string>
   <string name="icon_size">Symbolgröße</string>
+  <string name="icon_size_inner_display">Größe Hauptbildschirmsymbol</string>
+  <string name="icon_style">Stil</string>
   <string name="image_too_small_message">Originalbild ist nicht groß genug</string>
   <string name="install">Installieren</string>
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
@@ -356,6 +373,7 @@
   <string name="launcher_minus_screen_title">Am Startbildschirm nach rechts wischen</string>
   <string name="launcher_not_exist">Launcher wurde gestoppt, bitte zurückkehren und erneut versuchen</string>
   <string name="launcher_pull_down_title">Am Startbildschirm runterwischen</string>
+  <string name="launcher_search">Launcher-Suche</string>
   <string name="launcher_search_bar_provider_title">Suchleistenanbieter</string>
   <string name="launcher_search_bar_title">Suchleiste auf der Startseite</string>
   <string name="launcher_search_bar_value_disable">Aus</string>
@@ -386,8 +404,11 @@
   <string name="menu_auto_fill_of_uninstall">Zellen von deinstallierten Apps ausfüllen</string>
   <string name="menu_back_desktop">Zurück zum Startbildschirm</string>
   <string name="menu_cell_setting">Symbolraster einstellen</string>
+  <string name="menu_cell_setting_inner_display">Layout Hauptbildschirm</string>
   <string name="menu_customize">Einstellungen</string>
   <string name="menu_default_screen_preview">Standardbildschirm setzen</string>
+  <string name="menu_default_screen_preview_inner_display">Hauptbildschirm (Standard) einstellen</string>
+  <string name="menu_default_screen_preview_outer_display">Außenbildschirm (Standard) einstellen</string>
   <string name="menu_edit">Startbildschirm bearbeiten</string>
   <string name="menu_exit_scene">Mi Space beenden</string>
   <string name="menu_finish">Fertig</string>
@@ -505,10 +526,13 @@
   <string name="pref_wallpaper_scroll_type_title">Hintergrundausrichtung</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="preferences_general_title">Erweiterte Einstellungen</string>
-  <string name="preferences_title">Launchereinstellungen</string>
+  <string name="preferences_title">Launcher-Einstellungen</string>
   <string name="preferred_app_settings_not_selected">Nichts ausgewählt</string>
   <string name="privacy_thumbnail_blur_summary">App-Vorschau in Zuletzt geöffnet verwischen</string>
   <string name="privacy_thumbnail_blur_title">App-Vorschau verwischen</string>
+  <string name="provision_back">Zurück</string>
+  <string name="provision_next">Weiter</string>
+  <string name="provision_skip_underline">Überspringen</string>
   <string name="quick_app">Schnelle App</string>
   <string name="recent_apps">Zuletzt geöffnet</string>
   <string name="recent_menu_item_info">Info</string>
@@ -567,6 +591,7 @@
   <string name="restore_icon_successful">Erfolgreich hinzugefügt</string>
   <string name="russia_preinstall_folder_name">Russisch</string>
   <string name="screen_cells_config_title">Startbildschirm-Layout</string>
+  <string name="screen_cells_config_title_inner_display">Layout Hauptbildschirm</string>
   <string name="screen_locked_toast">Startbildschirm-Layout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
   <string name="scroll_tip_format_when_announce_accessibility">Auf Seite %1$d %2$d Apps</string>
@@ -576,10 +601,10 @@
   <string name="select_all">Alle wählen</string>
   <string name="select_frame">Rahmen</string>
   <string name="select_photo">Foto</string>
+  <string name="server_error">Serverfehler aufgetreten. Etwas warten und erneut versuchen.</string>
   <string name="setting_wallpaper_tip">Verschieben oder skalieren</string>
   <string name="settings">Einstellungen</string>
   <string name="settings_shortcut">Einstellungen</string>
-  <string name="server_error">Serverfehler aufgetreten. Etwas warten und erneut versuchen.</string>
   <string name="shake_to_align_icons">Gerät schütteln, um leere Felder mit Symbolen zu füllen</string>
   <string name="shake_to_align_icons_summary">Gerät im Bearbeitungsmodus schütteln, um leere Felder automatisch mit Symbolen zu füllen</string>
   <string name="shake_to_align_icons_title">Schütteln, um leere Felder zu füllen</string>
