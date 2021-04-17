@@ -601,7 +601,7 @@
   <string name="select_all">Alle wählen</string>
   <string name="select_frame">Rahmen</string>
   <string name="select_photo">Foto</string>
-  <string name="server_error">Serverfehler aufgetreten. Etwas warten und erneut versuchen.</string>
+  <string name="server_error">Serverfehler. Etwas warten und erneut versuchen.</string>
   <string name="setting_wallpaper_tip">Verschieben oder skalieren</string>
   <string name="settings">Einstellungen</string>
   <string name="settings_shortcut">Einstellungen</string>

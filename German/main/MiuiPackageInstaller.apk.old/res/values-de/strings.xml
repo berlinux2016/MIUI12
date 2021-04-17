@@ -441,7 +441,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="package_delete_confirm_step_1">Löschen %s?</string>
   <string name="package_delete_confirm_step_2">Löschen dieser App kann Ihr System instabil machen</string>
   <string name="package_delete_confirm_step_3">Sie werden diese App nach dem Löschen nicht mehr öffnen können</string>
-  <string name="Parse_error_dlg_text">Beim analysieren des Pakets ist ein Problem aufgetreten</string>
+  <string name="Parse_error_dlg_text">Beim Analysieren des Pakets ist ein Problem aufgetreten</string>
   <string name="Parse_error_dlg_title">Parsingfehler</string>
   <string name="perm_action_accept">Erlauben</string>
   <string name="perm_action_prompt">Nachfragen</string>
