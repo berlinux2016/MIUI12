@@ -2,42 +2,42 @@
 <resources>
   <string-array name="tips">
     <item>"Alle Ihre Apps sehen.
- Das Launcher-Symbol berühren. @drawable/all_apps"</item>
+Launcher-Symbol berühren. @drawable/all_apps"</item>
     <item>"Apps auf Ihren Startbildschirm ziehen.
- Eine App im Launcher berühren und gedrückt halten, bis sie vibriert."</item>
+Eine App im Launcher berühren &amp; gedrückt halten, bis sie vibriert."</item>
     <item>"Ihren Startbildschirm neu anordnen.
- Ein Element berühren und gedrückt halten und wenn es vibriert, an die gewünschte Stelle ziehen."</item>
-    <item>"Element entfernen
- Ein Element berühren und gedrückt halten und wenn es vibriert, auf das Papierkorbsymbol ziehen. @drawable/trash"</item>
+Ein Element berühren &amp; gedrückt halten und wenn es vibriert, an die gewünschte Stelle ziehen."</item>
+    <item>"Element entfernen.
+Ein Element berühren &amp; gedrückt halten und wenn es vibriert, auf das Papierkorbsymbol ziehen. @drawable/trash"</item>
     <item>"Mehrere Startbildschirme.
- Nach links oder rechts wischen, um zu wechseln. Elemente auf andere Bildschirme ziehen."</item>
+Nach links oder rechts wischen, um zu wechseln. Elemente auf andere Bildschirme ziehen."</item>
     <item>"Fertig mit diesem Widget?
- Berühren und gedrückt halten und wenn es vibriert, auf das Papierkorbsymbol ziehen."</item>
+Berühren &amp; gedrückt halten und wenn es vibriert, auf das Papierkorbsymbol ziehen."</item>
   </string-array>
   <string-array name="tips2">
-    <item>"Die Startseite ist ein Garten. 
- Eine leere Stelle gedrückt halten, 
-um neue Symbole zu erzeugen"</item>
-    <item>"Telefon ist nicht wasserdicht. 
-Nicht in Wasser oder 
-andere Flüssigkeiten eintauchen."</item>
-    <item>"Möchten Sie mehr Startbildschirme? 
-Links und rechts wischen, um sie zu finden 
+    <item>"Die Startseite ist ein Garten.
+Eine leere Stelle gedrückt halten,
+so wachsen neue Symbole."</item>
+    <item>"Telefon ist nicht wasserdicht.
+Nicht in Wasser oder andere
+Flüssigkeiten eintauchen."</item>
+    <item>"Möchten Sie mehr Startbildschirme?
+Links und rechts wischen, um sie zu finden
 (Kein Stehlen erforderlich)."</item>
-    <item>"Kleine Punkte auf dem Startbildschirm. 
-Was könnten sie wohl tun? 
-Gedrückt halten, um zu lernen."</item>
-    <item>"Symbole der Statusleiste. 
-Um ihre Geheimnisse zu entdecken, 
+    <item>"Kleine Punkte auf dem Startbildschirm.
+Was könnten sie wohl tun?
+Gedrückt halten, um es zu erfahren."</item>
+    <item>"Symbole der Statusleiste.
+Um ihre Geheimnisse zu entdecken,
 an der Leiste ziehen."</item>
-    <item>"Es gibt einen Trick, 
-um Elemente zwischen den Startbildschirmen zu ziehen. 
+    <item>"Es gibt einen Trick,
+um Elemente zwischen den Startbildschirmen zu ziehen.
 An den Rändern anhalten."</item>
-    <item>"Market für Apps drücken. 
-Wie eine Schachtel Pralinen - 
-Jede eine Überraschung."</item>
-    <item>"Oh, und nebenbei bemerkt: 
-Dies ist keine Büroklammer - 
+    <item>"Market für Apps drücken.
+Wie eine Schachtel Pralinen -
+jede eine Überraschung."</item>
+    <item>"Oh, und nebenbei bemerkt:
+Ceci n’est pas une trombone -
 Ich bin ein Android."</item>
   </string-array>
 </resources>
