@@ -1705,7 +1705,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_live_duration_title">Live-Dauer</string>
   <string name="pref_manual_exposure_title">Belichtung</string>
   <string name="pref_menu_ai_ultra_pixel_photography">KI %s</string>
-  <string name="pref_module_settings">Versuchen mit</string>
+  <string name="pref_module_settings">Modi</string>
   <string name="pref_more_mode_style_title">Kameramodus</string>
   <string name="pref_multi_camera_dual_video_front">Vordere Kamera</string>
   <string name="pref_multi_camera_dual_video_remote">Duale Telefonaufnahme</string>
