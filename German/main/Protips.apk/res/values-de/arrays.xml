@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string-array name="tips">
-    <item>"Alle Ihre Apps sehen.
-Launcher-Symbol berühren. @drawable/all_apps"</item>
-    <item>"Apps auf Ihren Startbildschirm ziehen.
-Eine App im Launcher berühren &amp; gedrückt halten, bis sie vibriert."</item>
-    <item>"Ihren Startbildschirm neu anordnen.
-Ein Element berühren &amp; gedrückt halten und wenn es vibriert, an die gewünschte Stelle ziehen."</item>
-    <item>"Element entfernen.
-Ein Element berühren &amp; gedrückt halten und wenn es vibriert, auf das Papierkorbsymbol ziehen. @drawable/trash"</item>
-    <item>"Mehrere Startbildschirme.
-Nach links oder rechts wischen, um zu wechseln. Elemente auf andere Bildschirme ziehen."</item>
-    <item>"Fertig mit diesem Widget?
-Berühren &amp; gedrückt halten und wenn es vibriert, auf das Papierkorbsymbol ziehen."</item>
-  </string-array>
   <string-array name="tips2">
     <item>"Die Startseite ist ein Garten.
 Eine leere Stelle gedrückt halten,
