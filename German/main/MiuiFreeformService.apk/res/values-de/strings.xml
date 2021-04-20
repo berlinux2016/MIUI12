@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="bottom_bar_smallwindow_text">Release to pin</string>
+  <string name="freeform_slide_to_small_freeform">Freeform slide to small freeform</string>
+  <string name="freeform_slide_to_small_freeform_summary">Press and slide to the action bar of a floating window to the upper right corner</string>
+  <string name="fullscreen_slide_to_small_freeform">Fullscreen slide to freeform</string>
+  <string name="fullscreen_slide_to_small_freeform_summary">Swipe from the bottom of the screen to the upper right corner of the screen</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

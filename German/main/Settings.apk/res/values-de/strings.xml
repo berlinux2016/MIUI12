@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Slide from the bottom of the screen to the top right corner of the screen</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Sliding to floating windows</string>
+  <string name="miheadset_double_press_left">Doppeltippen des linken Ohrhörers</string>
+  <string name="miheadset_double_press_right">Doppeltippen des rechten Ohrhörers</string>
+  <string name="miheadset_triple_press_left">Dreimal tippen des linken Ohrhörers</string>
+  <string name="miheadset_triple_press_right">Dreimal tippen des rechten Ohrhörers</string>
+
   <string name="dclight_unavailable_prompt">Anti-Flicker-Modus wird nur vom 2. Bildschirm unterstützt</string>
   <string name="display_prompt_confirm">Verstanden</string>
   <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>

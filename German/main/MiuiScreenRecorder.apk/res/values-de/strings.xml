@@ -22,6 +22,9 @@
   <string name="afternoon">Nachmittag</string>
   <string name="app_info">Aufnahme läuft, zum Beenden antippen</string>
   <string name="app_name">Bildschirmaufnahme</string>
+  <string name="app_notification_channel_record_complete">Über beendete Aufnahmen benachrichtigen</string>
+  <string name="app_notification_record_complete">"Bildschirmaufnahme in Galerie gespeichert,
+zum Ansehen tippen"</string>
   <string name="app_notification_info">Bildschirmaufnahme arbeitet im Hintergrund</string>
   <string name="app_notification_title">Bildschirmaufnahme</string>
   <string name="auto_stop_title">Video erfolgreich gespeichert</string>
