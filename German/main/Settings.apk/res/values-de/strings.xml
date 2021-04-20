@@ -6,6 +6,9 @@
   <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, wenn Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
   <string name="lock_screen_after_fold_screen_title">Zum Sperren zusammenklappen</string>
   <string name="screen_refresh_unavailable_prompt">Ändern der Bildwiederholrate wird nur vom 2. Bildschirm unterstützt</string>
+  <string name="screen_recorder_title">Bildschirmaufnahme</string>
+  <string name="search_control_center_style">Benachrichtigungsstil</string>
+  <string name="search_screen_recorder_title">Bildschirmaufnahme</string>
 
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>

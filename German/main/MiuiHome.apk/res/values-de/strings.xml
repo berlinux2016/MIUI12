@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="navigation_guide_app_quick_switch_summary_pad">Von der Eingabezeile oder unten nach links oder rechts wischen, um zwischen Apps zu wechseln</string>
-  <string name="navigation_guide_app_quick_switch_summary_spec_pad">Vom unteren Bildschirmrand nach links oder rechts wischen, um zwischen geöffneten Apps zu wechseln</string>
-  <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">\"Apps schnell wechseln\"</string>
-  <string name="navigation_guide_back_summary_pad">Vom linken oder rechten Bildschirmrand zur Mitte wischen</string>
-  <string name="navigation_guide_back_summary_spec_pad">Vom linken oder rechten Bildschirmrand zur Mitte wischen</string>
-  <string name="navigation_guide_back_title_spec_with_quotation_pad">\"Zurück zum vorherigen\"</string>
-  <string name="navigation_guide_dock_summary_pad">Etwas vom unteren Bildschirmrand nach oben wischen</string>
-  <string name="navigation_guide_dock_summary_spec_pad">Etwas vom unteren Bildschirmrand weg wischen</string>
-  <string name="navigation_guide_dock_title_pad">App-Leiste aufrufen</string>
-  <string name="navigation_guide_dock_title_spec_pad">App-Leiste in App aufrufen</string>
-  <string name="navigation_guide_dock_title_spec_with_quotation_pad">\"App-Leiste in App aufrufen\"</string>
-  <string name="navigation_guide_home_summary_spec_pad">Vom unteren Bildschirmrand nach oben wischen</string>
-  <string name="navigation_guide_home_title_spec_with_quotation_pad">\"Zurück zum Desktop\"</string>
-  <string name="navigation_guide_next_spec_pad">Nächste Anleitung</string>
-  <string name="navigation_guide_prev_spec_pad">Vorherige Anleitung</string>
-  <string name="navigation_guide_provision_see_more_pad">Zu \"Einstellungen-Desktop-Vollbildgesten\" gehen, um weitere Anleitungsvideos anzusehen</string>
-  <string name="navigation_guide_provision_title_pad">Vollbildgesten</string>
-  <string name="navigation_guide_recent_summary_pad">Vom unteren Bildschirmrand nach oben wischen und halten</string>
-  <string name="navigation_guide_recent_summary_spec_pad">Vom unteren Bildschirmrand nach oben wischen und halten, dann Finger entfernen</string>
-  <string name="navigation_guide_recent_title_spec_with_quotation_pad">\"Letzte Aufgaben umschalten\"</string>
-
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -442,7 +420,10 @@
   <string name="multi_selecting_tips">Symbol berühren, um App auszuwählen</string>
   <string name="navigation_guide_app_quick_switch_hide_line_summary">Vom unteren Bildschirmrand nach oben und dann nach links oder rechts wischen</string>
   <string name="navigation_guide_app_quick_switch_summary">Links oder rechts von der Vollbildanzeige oder unten am Bildschirm wischen</string>
+  <string name="navigation_guide_app_quick_switch_summary_pad">Von der Eingabezeile oder unten nach links oder rechts wischen, um zwischen Apps zu wechseln</string>
+  <string name="navigation_guide_app_quick_switch_summary_spec_pad">Vom unteren Bildschirmrand nach links oder rechts wischen, um zwischen geöffneten Apps zu wechseln</string>
   <string name="navigation_guide_app_quick_switch_title">Zwischen Apps wechseln</string>
+  <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">\"Apps schnell wechseln\"</string>
   <string name="navigation_guide_app_summary">Links oder rechts vom Bildschirmrand im oberen Bereich wischen</string>
   <string name="navigation_guide_app_title">App-Aktion auslösen</string>
   <string name="navigation_guide_appswitch_anim_summary">Vom Rand aus über den Bildschirm wischen, um zur vorherigen App zurückzukehren.</string>
@@ -451,20 +432,37 @@
   <string name="navigation_guide_appswitch_summary">Nach links oder rechts vom Bildschirmrand wischen und Taste eine Weile gedrückt halten</string>
   <string name="navigation_guide_appswitch_title">Zur vorherigen App wechseln</string>
   <string name="navigation_guide_back_summary">Links oder rechts vom Bildschirmrand wischen</string>
+  <string name="navigation_guide_back_summary_pad">Vom linken oder rechten Bildschirmrand zur Mitte wischen</string>
+  <string name="navigation_guide_back_summary_spec_pad">Vom linken oder rechten Bildschirmrand zur Mitte wischen</string>
   <string name="navigation_guide_back_title">Verstanden</string>
+  <string name="navigation_guide_back_title_spec_with_quotation_pad">\"Zurück zum vorherigen\"</string>
   <string name="navigation_guide_dialog_dont_show_again">Nicht mehr anzeigen</string>
   <string name="navigation_guide_dialog_ok">Lernen</string>
   <string name="navigation_guide_dialog_skip">Jetzt nicht</string>
   <string name="navigation_guide_dialog_summary">Erfahren, welche Gesten Sie für die Systemnavigation verwenden können.</string>
   <string name="navigation_guide_dialog_title">Gesten lernen</string>
+  <string name="navigation_guide_dock_summary_pad">Etwas vom unteren Bildschirmrand nach oben wischen</string>
+  <string name="navigation_guide_dock_summary_spec_pad">Etwas vom unteren Bildschirmrand weg wischen</string>
+  <string name="navigation_guide_dock_title_pad">App-Leiste aufrufen</string>
+  <string name="navigation_guide_dock_title_spec_pad">App-Leiste in App aufrufen</string>
+  <string name="navigation_guide_dock_title_spec_with_quotation_pad">\"App-Leiste in App aufrufen\"</string>
   <string name="navigation_guide_gesture_line_dialog_summary">Eine neue Geste zum Umschalten zwischen den Apps wird verwendet, wenn Sie die Vollbildanzeige ausblenden. Diese Geste jetzt lernen?</string>
   <string name="navigation_guide_gesture_line_dialog_title">Eine neue Geste lernen</string>
   <string name="navigation_guide_hide_gesture_line_summary">Keine Vollbildanzeige bei Verwendung von Vollbildgesten</string>
   <string name="navigation_guide_hide_gesture_line_title">Vollbildanzeige ausblenden</string>
   <string name="navigation_guide_home_summary">Vom unteren Bildschirmrand nach oben wischen</string>
+  <string name="navigation_guide_home_summary_spec_pad">Vom unteren Bildschirmrand nach oben wischen</string>
   <string name="navigation_guide_home_title">Zur Startseite gehen</string>
+  <string name="navigation_guide_home_title_spec_with_quotation_pad">\"Zurück zum Desktop\"</string>
+  <string name="navigation_guide_next_spec_pad">Nächste Anleitung</string>
+  <string name="navigation_guide_prev_spec_pad">Vorherige Anleitung</string>
+  <string name="navigation_guide_provision_see_more_pad">Zu \"Einstellungen-Desktop-Vollbildgesten\" gehen, um weitere Anleitungsvideos anzusehen</string>
+  <string name="navigation_guide_provision_title_pad">Vollbildgesten</string>
   <string name="navigation_guide_recent_summary">Vom unteren Bildschirmrand nach oben wischen und halten</string>
+  <string name="navigation_guide_recent_summary_pad">Vom unteren Bildschirmrand nach oben wischen und halten</string>
+  <string name="navigation_guide_recent_summary_spec_pad">Vom unteren Bildschirmrand nach oben wischen und halten, dann Finger entfernen</string>
   <string name="navigation_guide_recent_title">Aktuelle öffnen</string>
+  <string name="navigation_guide_recent_title_spec_with_quotation_pad">\"Letzte Aufgaben umschalten\"</string>
   <string name="navigation_guide_settings">Gestendemos</string>
   <string name="navigation_type_full_screen">Gesten</string>
   <string name="navigation_type_title">Systemnavigation</string>
@@ -541,6 +539,7 @@
   <string name="recent_menu_item_unlock">Entsperren</string>
   <string name="recents_abc_text">Loslassen</string>
   <string name="recents_app_info_button_label">App-Info</string>
+  <string name="recents_clear_all_tasks">Alles löschen</string>
   <string name="recents_config_title">Zuletzt geöffnet</string>
   <string name="recents_dimiss_task">Löschen</string>
   <string name="recents_empty_message">Keine neuen Elemente</string>
