@@ -128,6 +128,8 @@
   <string name="app_name_miuiringtone">Klingeltöne</string>
   <string name="app_name_miuiwallpaper">Hintergründe</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
+  <string name="app_uninstall_description_content">Browser ist eine System-App. Sie können die von ihr bereitgestellten Such- und Webbrowserdienste nicht mehr nutzen, wenn Sie die App deinstallieren.</string>
+  <string name="app_uninstall_description_title">Browser deinstallieren?</string>
   <string name="app_update_install">Bereit zur Installation des Updates</string>
   <string name="aqi_quality_index_break">Sehr schädlich</string>
   <string name="aqi_quality_index_dangerous">Gefährlich</string>
