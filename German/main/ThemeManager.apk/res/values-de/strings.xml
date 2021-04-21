@@ -617,7 +617,7 @@ dd.MM."</string>
   <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
   <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
-  <string name="multiwindow_no_support_icon">Bei Verwendung des geteilten Bildschirms können die Symbole nicht geändert werden</string>
+  <string name="multiwindow_no_support_icon">Bei geteiltem Bildschirm können die Symbole nicht geändert werden</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Dieser Klingelton wird für beide SIM-Karten verwendet.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Klingelton wird gleichzeitig SIM1 und SIM2 zugeordnet</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Verstanden</string>

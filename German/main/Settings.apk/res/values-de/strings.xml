@@ -1,22 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Slide from the bottom of the screen to the top right corner of the screen</string>
-  <string name="freeform_guide_slide_to_small_freeform_title">Sliding to floating windows</string>
-  <string name="miheadset_double_press_left">Doppeltippen des linken Ohrhörers</string>
-  <string name="miheadset_double_press_right">Doppeltippen des rechten Ohrhörers</string>
-  <string name="miheadset_triple_press_left">Dreimal tippen des linken Ohrhörers</string>
-  <string name="miheadset_triple_press_right">Dreimal tippen des rechten Ohrhörers</string>
-
-  <string name="dclight_unavailable_prompt">Anti-Flicker-Modus wird nur vom 2. Bildschirm unterstützt</string>
-  <string name="display_prompt_confirm">Verstanden</string>
-  <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>
-  <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, wenn Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
-  <string name="lock_screen_after_fold_screen_title">Zum Sperren zusammenklappen</string>
-  <string name="screen_refresh_unavailable_prompt">Ändern der Bildwiederholrate wird nur vom 2. Bildschirm unterstützt</string>
-  <string name="screen_recorder_title">Bildschirmaufnahme</string>
-  <string name="search_control_center_style">Benachrichtigungsstil</string>
-  <string name="search_screen_recorder_title">Bildschirmaufnahme</string>
-
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
@@ -2416,6 +2399,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dc_light_summary">DC Dimming anwenden, um die Augenbelastung zu reduzieren</string>
   <string name="dc_light_summary_new">Ausgedehntes Flackern und Augenbelastung bei schlechten Lichtverhältnissen reduzieren</string>
   <string name="dc_light_title">Anti-Flacker-Modus</string>
+  <string name="dclight_unavailable_prompt">Anti-Flicker-Modus wird nur vom 2. Bildschirm unterstützt</string>
   <string name="debug_app">Debug-App auswählen</string>
   <string name="debug_app_not_set">Keine Debug-App ausgewählt</string>
   <string name="debug_app_set">Debug-App: %1$s</string>
@@ -2679,6 +2663,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="display_label">Bildschirm</string>
   <string name="display_order_text">Sortieren nach:</string>
   <string name="display_preview_label">Vorschau:</string>
+  <string name="display_prompt_confirm">Verstanden</string>
   <string name="display_settings">Bildschirm</string>
   <string name="display_settings_title">Bildschirm</string>
   <string name="display_summary">Nach %1$s Inaktivität schlafen</string>
@@ -3437,6 +3422,8 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="freeform_guide_notification_drop_down_summary">Taste gedrückt halten und Aktionsleiste einer Benachrichtigung herunterziehen.</string>
   <string name="freeform_guide_notification_drop_down_title">Popups öffnen</string>
   <string name="freeform_guide_settings">Popups</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Schieben Sie vom unteren Bildschirmrand zur oberen rechten Ecke des Bildschirms</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Zu Popups schieben</string>
   <string name="freeform_guide_slide_up_to_close_summary">Von der Aktionsleiste eines Popups hochklappen</string>
   <string name="freeform_guide_slide_up_to_close_title">Popups schließen</string>
   <string name="freeform_vedio_description">"· Taste gedrückt halten und eine Benachrichtigung herunterziehen, um sie in einem Popup zu öffnen.
@@ -4166,6 +4153,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="launcher_icon">Symbole</string>
   <string name="launcher_icon_management">Startbildschirm-Verknüpfungen verwalten</string>
   <string name="launcher_title">Startbildschirm &amp; Schnellzugriff</string>
+  <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>
   <string name="launching_cit">CIT öffnen…</string>
   <string name="launching_pho">Geräteinfo öffnen…</string>
   <string name="launching_rep">Berichten…</string>
@@ -4339,6 +4327,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="lock_profile_wipe_warning_content_pin">Wenn Sie bei diesem Versuch eine falsche PIN eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
   <string name="lock_profile_wipe_warning_title">Letzter Versuch</string>
   <string name="lock_screen_action">Elemente, die nach Herunterziehen am Sperrbildschirm angezeigt werden</string>
+  <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, wenn Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
+  <string name="lock_screen_after_fold_screen_title">Zum Sperren zusammenklappen</string>
   <string name="lock_screen_display_category_name">Sperrbildschirm</string>
   <string name="lock_screen_intro_skip_dialog_text">Gerätschutzfunktionen wurden nicht aktiviert. Sie können andere nicht daran hindern, Ihr Telefon zu verwenden, wenn es verloren geht oder gestohlen wird.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Gerätschutzfunktionen wurden nicht aktiviert. Sie können andere nicht daran hindern, Ihr Telefon zu verwenden, wenn es verloren geht, gestohlen oder zurückgesetzt wird.</string>
@@ -4791,6 +4781,8 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_double_click_key_mode_summary">Doppelklick-Tastenbelegung ändern</string>
   <string name="miheadset_double_click_left">Den linken Kopfhörer doppelt antippen</string>
   <string name="miheadset_double_click_right">Den rechten Kopfhörer doppelt antippen</string>
+  <string name="miheadset_double_press_left">Doppeltippen linker Ohrhörer</string>
+  <string name="miheadset_double_press_right">Doppeltippen rechter Ohrhörer</string>
   <string name="miheadset_enhanceVoice">Stimme verstärken</string>
   <string name="miheadset_enhence_high">Verstärkte Höhen</string>
   <string name="miheadset_enhence_low">Verstärkter Bass</string>
@@ -4850,6 +4842,8 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_transparentMode">Transparenz</string>
   <string name="miheadset_triple_click_key_mode">Dreifachklick-Tastenmodus</string>
   <string name="miheadset_triple_click_key_mode_summary">Dreifachklick-Tastenbelegung ändern</string>
+  <string name="miheadset_triple_press_left">Dreimal tippen linker Ohrhörer</string>
+  <string name="miheadset_triple_press_right">Dreimal tippen rechter Ohrhörer</string>
   <string name="miheadset_unpair_device">Koppeln abbrechen?</string>
   <string name="miheadset_unpair_device_text">%1$s wird von allen Geräten, die mit diesem Mi-Konto verbunden sind, entkoppelt.</string>
   <string name="miheadset_voiceIncrease">Stimme verbessern</string>
@@ -6730,6 +6724,8 @@ App-Pinning verwenden: \u0009
   <string name="screen_reader_category_title">Bildschirmlesegeräte</string>
   <string name="screen_reader_mode_input_type_summary">Geste zur Aktivierung der Texteingabe auswählen, wenn TalkBack an ist</string>
   <string name="screen_reader_mode_input_type_title">Texteingabe</string>
+  <string name="screen_recorder_title">Bildschirmaufnahme</string>
+  <string name="screen_refresh_unavailable_prompt">Ändern der Bildwiederholrate wird nur vom 2. Bildschirm unterstützt</string>
   <string name="screen_resolution_confirm">Neustart</string>
   <string name="screen_resolution_dialog_title">Auflösung ändern</string>
   <string name="screen_resolution_high_format">Hoch (%1$s)</string>
@@ -6854,6 +6850,7 @@ App-Pinning verwenden: \u0009
   <string name="search_cloud_backup_settings_section_title">Einstellungen sichern;Sicherung;sichern;Sicherungen</string>
   <string name="search_cloud_restore_section_title">Wiederherstellen aus Mi Cloud;Mi Cloud;Cloud Backups;Cloud-Sicherungen;Xiaomi Cloud;Wiederherstellen aus Xiaomi Cloud</string>
   <string name="search_connection_and_sharing">Mehr;drahtlos;kabellos</string>
+  <string name="search_control_center_style">Benachrichtigungsstil</string>
   <string name="search_credentials_install">Vom Speicher installieren;direkt installieren;APK installieren</string>
   <string name="search_date_and_time_settings_title">Datum &amp; Uhrzeit;Datum und Uhrzeit;Datum &amp; Zeit;Datum und Zeit;Datum;Zeit;Uhrzeit</string>
   <string name="search_description">Sucheinstellungen</string>
@@ -6938,6 +6935,7 @@ App-Pinning verwenden: \u0009
   <string name="search_screen_key_long_press_timeout">Zeit für langes Drücken festlegen;langes Drücken;Drücken;gedrückt halten;Drücken und Halten</string>
   <string name="search_screen_on_proximity_sensor_title">Wählen in der Tasche verhindern;Tasche;Pocketcall</string>
   <string name="search_screen_paper_mode_title">Lesemodus;Lesen;Blaulicht;Gelblicht;Nachtmodus</string>
+  <string name="search_screen_recorder_title">Bildschirmaufnahme</string>
   <string name="search_screen_saver_settings">Bildschirmschoner</string>
   <string name="search_screen_shot">Screenshot;Bildschirmaufnahme;Aufnahme</string>
   <string name="search_screen_timeout">Ruhemodus;Bildschirm automatisch sperren;Bildschirmsperre</string>
