@@ -360,7 +360,8 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom">URL eingeben</string>
   <string name="custom_head_card_text">Immer daran glauben, dass etwas Wunderbares passieren wird</string>
-  <string name="custom_head_card_text_incognito">Sie sind inkognito! Seiten, die Sie besuchen, werden nicht im Verlauf angezeigt.</string>
+  <string name="custom_head_card_text_incognito">"Sie sind inkognito! Seiten, die Sie besuchen,
+werden nicht im Verlauf angezeigt."</string>
   <string name="custom_page_guide_content">Lesezeichen, Einstellungen und Tools sind hier!</string>
   <string name="dark_mode">Dark Mode</string>
   <string name="data_error">Datenfehler</string>
@@ -516,7 +517,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
   <string name="encrypting">Verschlüsseln…</string>
   <string name="enter_developer_mode">Entwicklermodus aufrufen</string>
   <string name="enter_incongnito_mode">Inkognito-Modus aufrufen</string>
-  <string name="enter_infoflow_guide">Zum Öffnen des Inhaltsfeeds loslassen</string>
+  <string name="enter_infoflow_guide">Nach oben schieben, um Nachrichten zu sehen</string>
   <string name="enter_news_by_pull_down">Loslassen zum Öffnen des Inhaltsfeeds</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
