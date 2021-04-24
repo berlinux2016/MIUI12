@@ -119,7 +119,7 @@
   <string name="material_slider_range_end">Bereichsende,</string>
   <string name="material_slider_range_start">Bereichsanfang,</string>
   <string name="midnight">Nacht</string>
-  <string name="miui_dnd_count_down">DND-Timer</string>
+  <string name="miui_dnd_count_down">Bitte Nicht Stören - Timer</string>
   <string name="miui_dnd_count_down_time">"DND-Timer
 %s"</string>
   <string name="miui_guide_dialog_button_negative_text">Einstellungen</string>
