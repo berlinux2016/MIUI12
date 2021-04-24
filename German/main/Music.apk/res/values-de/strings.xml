@@ -2,7 +2,7 @@
 <resources>
   <string name="btn_text_view_all">Alle anzeigen</string>
   <string name="failed_to_connect_hint">Ihre Netzwerkeinstellungen überprüfen und erneut versuchen</string>
-  <string name="failed_to_connect_text">Netzwerverbindung herstellen nicht möglich</string>
+  <string name="failed_to_connect_text">Netzwerkverbindung herstellen nicht möglich</string>
   <string name="hint_search_songs_playlists_artists">Titel, Wiedergabelisten und Interpreten suchen</string>
   <string name="loading_text">Einen Moment…</string>
   <string name="title_recently_played">Zuletzt gespielt</string>
