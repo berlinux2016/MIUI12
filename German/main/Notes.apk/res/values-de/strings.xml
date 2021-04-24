@@ -501,9 +501,7 @@
   <string name="repeat_mode_set_item_none">Niemals</string>
   <string name="repeat_mode_set_item_normal_workday">Montag bis Freitag</string>
   <string name="repeat_mode_set_item_week">Jede Woche (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Jede Woche (%s)</string>
   <string name="repeat_mode_set_item_year">Jedes Jahr (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Jedes Jahr (%s)</string>
   <string name="repeat_mode_set_item_year_detail_day">dd.MM.</string>
   <string name="repeat_mode_set_title">Wiederholen</string>
   <string name="repeat_mode_week">Wöchentlich</string>
