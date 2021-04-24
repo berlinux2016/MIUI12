@@ -379,6 +379,7 @@
   <string name="flight_seat_no">Sitz %1$s</string>
   <string name="flight_state">Flugestatus</string>
   <string name="flight_time">Geschätzt %1$s</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

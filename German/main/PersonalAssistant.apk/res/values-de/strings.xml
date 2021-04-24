@@ -1317,6 +1317,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_verifying">Prüfen…</string>
   <string name="flybird_yuan_bi">Yuan pro Stift</string>
   <string name="flybird_yuan_ri">Yuan pro Tag</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

@@ -554,6 +554,7 @@ um Tabs von anderen Geräten zu sehen"</string>
   <string name="finish_sync_cloud_tabs">Synchronisation abgeschlossen</string>
   <string name="firstUsingSearchEngineTips">Suchanbieter ändern</string>
   <string name="fling_on_border_gesture_hint">Sie können die Funktion dieser Geste in den Einstellungen ändern</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

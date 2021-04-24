@@ -214,6 +214,7 @@
   <string name="flash_lable">Blitz</string>
   <string name="flash_open">Öffnen</string>
   <string name="flight_mode_connecting_to_wifi">WLAN manuell einschalten, wenn der Flugmodus an ist</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

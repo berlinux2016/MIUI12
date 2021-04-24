@@ -62,6 +62,7 @@ zum Ansehen tippen"</string>
   <string name="first_using_mic_dialog_title">Erforderliche Berechtigungen</string>
   <string name="fixed_frame_rate">Feste Bildrate</string>
   <string name="fixed_frame_rate_summary">Aufnahme von Videos mit fester Bildrate verbessert die Wiedergabe auf sozialen Netzwerken und verkürzt die Akkulaufzeit.</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

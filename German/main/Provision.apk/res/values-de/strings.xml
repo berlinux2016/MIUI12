@@ -85,6 +85,7 @@
   <string name="expand_button_title">Erweitert</string>
   <string name="fast_application_introduction">Quick Apps Framework ermöglicht Ihnen, Dienste in Quick Apps zu erstellen und bereitzustellen.</string>
   <string name="fast_pairing_introduction">Mi Link ermöglicht Ihrem Gerät, sich mit Bluetooth-Geräten in der Nähe zu verbinden. Um Geräte in der Nähe zu finden, erlauben Sie Mi Link, eine Internetverbindung herzustellen.</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

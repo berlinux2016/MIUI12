@@ -92,6 +92,7 @@
   <string name="file_sending">Dateien übertragen…</string>
   <string name="file_transfer_progress">Fortschritt: %1$d%%</string>
   <string name="file_transfer_progress_title">Fortschritt</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

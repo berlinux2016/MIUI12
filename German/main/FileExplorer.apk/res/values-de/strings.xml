@@ -266,6 +266,7 @@
   <string name="file_name_invalid">Dateinamen dürfen folgende Zeichen nicht enthalten: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">Datei nicht vorhanden</string>
   <string name="finish_str">Fertig</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

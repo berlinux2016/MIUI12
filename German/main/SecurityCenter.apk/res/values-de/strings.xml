@@ -1447,6 +1447,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="fixed_cellular_data_quota_monthly">Monatliches Datenlimit</string>
   <string name="fixed_package_tips">Einen festen monatlichen Datenverbrauch genießen. Wenn Sie diesen überschreiten, entstehen Ihnen zusätzliche Kosten.</string>
   <string name="fixed_traffic_quota">Fester Datenverbrauch (optional)</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

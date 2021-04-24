@@ -64,6 +64,7 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
   <string name="find_device_storage_corrupted">Gerät finden-Speicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
   <string name="find_device_success_title">Gerät finden</string>
   <string name="find_device_telephony_fault">Gerät finden: Telefoniefehler (%s).</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

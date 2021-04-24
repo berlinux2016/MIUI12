@@ -64,6 +64,7 @@
   <string name="expand_button_title">Erweitert</string>
   <string name="first_using_dialog_message">Kompass benötigt eine Netzwerkverbindung, die Kamera und den Standortservice, um ordnungsgemäß zu funktionieren</string>
   <string name="first_using_dialog_title">Zugriffsberechtigung</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

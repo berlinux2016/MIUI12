@@ -190,6 +190,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
   <string name="fail_list_tips">Folgende Elemente konnten nicht auf das neue Gerät übertragen werden:</string>
   <string name="failed_description">Fehlgeschlagen</string>
   <string name="finished">Fertig</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

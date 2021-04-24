@@ -99,6 +99,7 @@
   <string name="fastboot_status_locked_summary">Root-Zugriff nicht möglich</string>
   <string name="fastboot_unlock_web_title">Gehen Sie auf die offizielle MIUI Webseite und holen Sie sich das Unlock Tool</string>
   <string name="fingerprint_not_remind">Nicht wieder fragen</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

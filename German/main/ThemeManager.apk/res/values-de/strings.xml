@@ -353,6 +353,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
   <string name="find_more_theme">Mehr entdecken</string>
   <string name="find_more_wallpapers">Mehr entdecken</string>
   <string name="first_page_recommend">Empfohlen</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

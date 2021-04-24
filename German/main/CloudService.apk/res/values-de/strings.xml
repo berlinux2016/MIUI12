@@ -131,6 +131,7 @@
   <string name="find_device_status_title_phone">Gerät finden</string>
   <string name="finddevice_miservice_notification_content">Gerät ferngesteuert sperren, wenn es verloren geht</string>
   <string name="finddevice_miservice_notification_title">Gerät finden aktivieren</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

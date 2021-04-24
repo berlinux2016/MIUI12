@@ -265,6 +265,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="favor_success">Erfolgreich zu Favoriten hinzugefügt</string>
   <string name="feed_article_entrance_about">Über \"%s\"</string>
   <string name="find_psw">Passwort vergessen</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

@@ -187,6 +187,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="error_unknown">Ein Fehler ist aufgetreten</string>
   <string name="evening">Nachmittag</string>
   <string name="expand_button_title">Erweitert</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>

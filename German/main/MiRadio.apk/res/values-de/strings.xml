@@ -439,6 +439,7 @@ Diesen Code bitte an den Techniker senden."</string>
   <string name="fm_sort_new">Neu</string>
   <string name="fm_subscribed">abonniert</string>
   <string name="fm_subscription">Abonnement</string>
+  <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
