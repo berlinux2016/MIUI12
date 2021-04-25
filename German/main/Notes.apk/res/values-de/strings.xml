@@ -758,7 +758,7 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="toolbar_redo_description">Wiederholen</string>
   <string name="toolbar_share_description">Diese Notiz teilen</string>
   <string name="toolbar_text_description">Textstil</string>
-  <string name="toolbar_theme_description">Wählen Sie ein Thema</string>
+  <string name="toolbar_theme_description">Ein Thema wählen</string>
   <string name="toolbar_undo_description">Rückgängig</string>
   <string name="toolbar_voice_description">Stimme</string>
   <string name="trash_folder_name">Papierkorb</string>
