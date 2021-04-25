@@ -322,7 +322,7 @@
   <string name="merge_to_folder">Ordner erstellen</string>
   <string name="midnight">Nacht</string>
   <string name="mind_note_first_enter_guide">Tippen, um eine Merkhilfe zu erstellen</string>
-  <string name="miui_lite_open_mind_toast">Dieses Modell unterstützt Mind-Notizen nicht</string>
+  <string name="miui_lite_open_mind_toast">Dieses Modell unterstützt Merkhilfe-Notizen nicht</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
