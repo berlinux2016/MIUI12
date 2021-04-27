@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_behavior_about_setting">Einstellungen</string>
+  <string name="app_behavior_dashboard_desc">Aktivität in den letzten %d Stunden</string>
+  <string name="app_behavior_dashboard_total_usage_title">Alle Datensätze anzeigen</string>
+  <string name="app_behavior_dashboard_usage">App-Verhalten</string>
+  <string name="app_behavior_dashboard_usage_list_title">Ansicht nach Berechtigung</string>
+  <string name="app_behavior_desc_allowed">Erlaubt</string>
+  <string name="app_behavior_desc_allowed_on_background">Im Hintergrund erlaubt</string>
+  <string name="app_behavior_desc_denied">Verweigert</string>
+  <string name="app_behavior_desc_denied_on_background">Im Hintergrund verweigert</string>
+  <string name="app_behavior_desc_other_perm_allowed">Letzte Aktivität: %s</string>
+  <string name="app_behavior_desc_other_perm_denied">Aktivität in den letzten %d Stunden</string>
+  <string name="app_behavior_global_settings_perm_tips">Benachrichtigung in der Statusleiste erhalten, wenn Apps Audio aufzeichnen oder die Kamera verwenden</string>
+  <string name="app_behavior_record_setting_button_title">Verhalten der Systemdienste anzeigen</string>
+  <string name="app_behavior_record_setting_show_system">Verhalten der Systemdienste anzeigen</string>
+  <string name="app_behavior_record_setting_show_system_desc">Option einschalten, um das Verhalten der grundlegenden Systemdienste anzuzeigen. Um die Stabilität des Systems zu gewährleisten, verwenden diese Dienste die erforderlichen Berechtigungen, von denen einige nicht eingeschränkt werden können.</string>
+  <string name="app_behavior_record_setting_show_system_title">Verhalten der Systemdienste anzeigen</string>
+  <string name="app_behavior_record_setting_title">Verhaltensaufzeichnungen</string>
+  <string name="cetus_invisible_mode_warn_open">Inkognito-Modus setzt Mikrofon-, Kamera- und ortsbezogene Berechtigungen für alle Apps aus. Jetzt einschalten?</string>
+  <string name="network_assistant_privacy">Um die Datennutzung nach App zu verfolgen, sammeln wir Informationen wie Paketnamen, WLAN- und mobile Datennutzung, Datennutzung zu Spitzenzeiten und außerhalb der Spitzenzeiten und wann WLAN und mobile Daten eingeschaltet sind. Diese Informationen werden lokal auf Ihrem Gerät gespeichert.</string>
+  <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
+  <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
+  <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
+
+  <string name="gb_storage_game_dialog_message">Das von Ihnen heruntergeladene Spiel wird automatisch in Game Turbo aufgenommen und das Spielsymbol wird nicht mehr auf dem Desktop angezeigt. Sind Sie sicher, die Speicherfunktion einzuschalten?</string>
+  <string name="tips">Prompt</string>
+
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ein- und Ausschalten von Bluetooth</string>

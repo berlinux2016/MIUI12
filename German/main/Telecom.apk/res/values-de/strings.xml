@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="do_not_show_again">Nicht mehr anzeigen</string>
+  <string name="scam_cancle">Abbrechen</string>
+  <string name="scam_message">Sie richten eine Rufumleitung ein. Danach werden alle Ihre eingehenden Anrufe von der Rufnummer %1$s entgegengenommen. Wenn Sie nicht im Besitz dieser Weiterleitungsnummer sind, besteht die Gefahr, dass Sie Ihre persönlichen Daten preisgeben oder die Sicherheit Ihres Eigentums gefährden. Verwenden Sie diese Funktion mit Bedacht.</string>
+  <string name="scam_message_2">**21*Weiterleitungsnummer# ist der Code für die Anrufweiterleitung. Wenden Sie sich an Ihren Anbieter, wenn Sie Fragen haben.</string>
+  <string name="scam_ok">Wählen</string>
+  <string name="scam_title">Hinweis auf Betrugsrisiko</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>

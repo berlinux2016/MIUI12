@@ -46,6 +46,7 @@
   <string name="carrier_introduction">"Um Ihnen einen besseren Service zu bieten, kann Ihr Gerät regelmäßig Informationen über die Geräteversion, Geräteidentifikationsdaten (inkl. IMEI/IMSI/MSISDN/MAC-Adresse, MEID/ICCID) und ungefähre Standortinformationen (inkl. Basisstations-ID) an den Mobilfunkanbieter über WLAN, mobiles Datennetz oder kostenlose SMS senden. Der Mobilfunkanbieter verpflichtet sich, relevante Informationen nur zu analysieren, um die Qualität der Dienstleistungen zu verbessern oder maßgeschneiderte Dienstleistungen oder Technologien anzubieten, und wird relevante Informationen nicht an Dritte in irgendeiner Form weitergeben, die Sie persönlich identifiziert. Die spezifische Mobilfunkanbietererklärung hat Vorrang. Erkundigen Sie sich bei Ihrem Mobilfunkanbieter nach den Kosten für die Nutzung dieses Dienstes."</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="clock_introduction">Sie können diese App verwenden, um die Zeit anzuzeigen, sowie Timer, Weltuhr, Stoppuhr, Wecker einstellen und vieles mehr.</string>
+  <string name="close">Schließen</string>
   <string name="close_location_service_setting">Sie können unter Einstellungen > Weitere Einstellungen > Datenschutz den Standortzugriff ausschalten oder unter Sicherheit die Berechtigungen für einzelne Apps einschränken.</string>
   <string name="cm_terms_content">Um die Servicequalität zu verbessern, kann Ihr Mobilfunkanbieter persönliche Daten und Geräteinfos über WLAN oder die mobile Datenverbindung auf seine Server hochladen. Diese Information wird nur für statistische Zwecke verwendet, um die Servicequalität zu verbessern oder Ihnen personalisierte Inhalte anzubieten. Diese Information kann Sie nicht persönlich identifizieren und wird nicht an Dritte weitergeleitet.</string>
   <string name="cm_terms_title">Mobilfunkbetreibervereinbarung</string>
@@ -376,6 +377,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
   <string name="search_menu_title">Suchen</string>
   <string name="security_introduction">Mit dieser App können Sie den Papierkorb auf Ihrem Gerät löschen, Viren finden und neutralisieren, die Leistung für Spiele optimieren, Akku sparen, Apps und Berechtigungen verwalten und vieles mehr.</string>
   <string name="security_mobile_account_introduction">Zur Systemkontenanmeldung und -verwaltung</string>
+  <string name="send">Senden</string>
   <string name="service_agreement">Ich habe die Allgemeinen Geschäftsbedingungen gelesen und akzeptiert.</string>
   <string name="service_name_album">Galerie</string>
   <string name="service_name_application_package">Paket-Installer</string>

@@ -23,6 +23,7 @@
   <string name="app_version_which_call">App-Version: %s</string>
   <string name="autoconnect">Automatisch verbinden</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
+  <string name="close">Schließen</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="early_morning">Morgen</string>
@@ -132,6 +133,7 @@
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="send">Senden</string>
   <string name="settings_ad_loading">Einen Moment…</string>
   <string name="settings_ad_loading_unavailable">Infos laden nicht möglich</string>
   <string name="settings_license_activity_loading">Laden…</string>

@@ -33,6 +33,14 @@
     <item quantity="other">%d Spiele hinzugefügt</item>
     <item quantity="one">%d Spiel hinzugefügt</item>
   </plurals>
+  <plurals name="app_behavior_dashboard_title_desc">
+    <item quantity="other">%d Apps</item>
+    <item quantity="one">%d App</item>
+  </plurals>
+  <plurals name="app_behavior_dashboard_total_usage_item">
+    <item quantity="other">%d Apps</item>
+    <item quantity="one">%d App</item>
+  </plurals>
   <plurals name="app_behavior_desc_allow">
     <item quantity="other">%1$s - %2$s | %3$dx erlaubt</item>
     <item quantity="one">%1$s - %2$s | %3$dx erlaubt</item>
@@ -54,8 +62,8 @@
     <item quantity="one">von %1$s - %2$s | %3$d leere Nachrichten zurückgesendet</item>
   </plurals>
   <plurals name="app_behavior_desc_virtual_minute">
-    <item quantity="other">%2$d leere Nachrichten %1$s zurückgesendet</item>
-    <item quantity="one">%2$d leere Nachricht %1$s zurückgesendet</item>
+    <item quantity="other">%2$d leere Nachrichten an %1$s zurückgesendet</item>
+    <item quantity="one">%2$d leere Nachricht an %1$s zurückgesendet</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_off">
     <item quantity="other">Sie werden nicht über die von %1$d Apps ausgeführten sensiblen Aktionen benachrichtigt</item>
