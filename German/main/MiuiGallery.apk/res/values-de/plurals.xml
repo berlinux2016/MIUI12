@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <plurals name="photo_count">
+    <item quantity="other">%d Fotos</item>
+    <item quantity="one">%d Foto</item>
+  </plurals>
+  <plurals name="synced_photo_count">
+    <item quantity="other">%d Fotos synchronisiert</item>
+    <item quantity="one">%d Foto synchronisiert</item>
+  </plurals>
+  <plurals name="synced_videos_count">
+    <item quantity="other">%d Videos synchronisiert</item>
+    <item quantity="one">%d Video synchronisiert</item>
+  </plurals>
+  <plurals name="videos_count">
+    <item quantity="other">%d Videos</item>
+    <item quantity="one">%d Video</item>
+  </plurals>
+
   <plurals name="a_hour_ago">
     <item quantity="other">Vor 1 Stunde</item>
   </plurals>
