@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cloud_full_space_tip_message">Cloud-Speichertarif upgraden, um alle Ihre Fotos und Videos mit der Cloud synchronisieren zu können.</string>
-  <string name="cloud_full_space_tip_negative">Jetzt nicht</string>
-  <string name="cloud_full_space_tip_positive">Upgrade</string>
-  <string name="cloud_full_space_tip_title">Ungenügend Cloud-Speicher</string>
-  <string name="filter_food_orangeflavor">Mandarine</string>
-  <string name="filter_general_past">Yore</string>
-  <string name="filter_popular_gingertea">Ingwer</string>
-  <string name="filter_popular_mango">Mango</string>
-  <string name="filter_popular_windchime">Glockenspiel</string>
-  <string name="filter_travel_charlotte">Charlotte</string>
-  <string name="mishare_all_devices">Alle Geräte</string>
-  <string name="synced_photo_video_count">%1$s und %2$s synchronisiert</string>
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -465,6 +452,10 @@
   <string name="cloud_bacup_disable_processing">Bearbeiten läuft…</string>
   <string name="cloud_camera_display_name">Kamerafotos</string>
   <string name="cloud_cancel_authorizing_to_device">Autorisierung abbrechen…</string>
+  <string name="cloud_full_space_tip_message">Cloud-Speichertarif upgraden, um alle Ihre Fotos und Videos mit der Cloud synchronisieren zu können.</string>
+  <string name="cloud_full_space_tip_negative">Jetzt nicht</string>
+  <string name="cloud_full_space_tip_positive">Upgrade</string>
+  <string name="cloud_full_space_tip_title">Ungenügend Cloud-Speicher</string>
   <string name="cloud_guide_auto_backup_title">Alben zur Synchronisation auswählen</string>
   <string name="cloud_guide_login_title">Fotos und Videos automatisch sichern</string>
   <string name="cloud_login_ok">Verstanden</string>
@@ -818,6 +809,7 @@
   <string name="filter_food_cookies">Kekse</string>
   <string name="filter_food_dessert">Süßigkeiten</string>
   <string name="filter_food_fruit">Obst</string>
+  <string name="filter_food_orangeflavor">Mandarine</string>
   <string name="filter_food_softdrink">Limo</string>
   <string name="filter_food_wholemeal">Getreide</string>
   <string name="filter_general_blackice">Schwarzes Eis</string>
@@ -830,6 +822,7 @@
   <string name="filter_general_lilt">Melodie</string>
   <string name="filter_general_movie">Kino</string>
   <string name="filter_general_nature">Natur</string>
+  <string name="filter_general_past">Urzeiten</string>
   <string name="filter_general_portrait">Porträt</string>
   <string name="filter_general_rise">Aufgang</string>
   <string name="filter_general_vivid">Lebendig</string>
@@ -875,6 +868,7 @@
   <string name="filter_popular_coldsmoke">Kalter Nebel</string>
   <string name="filter_popular_comic">Comic</string>
   <string name="filter_popular_dream">Träumerei</string>
+  <string name="filter_popular_gingertea">Ingwer</string>
   <string name="filter_popular_hill">Berge</string>
   <string name="filter_popular_humanity">Dokumentation</string>
   <string name="filter_popular_icesnow">Schneefall</string>
@@ -884,6 +878,7 @@
   <string name="filter_popular_shallow_summer">Juni</string>
   <string name="filter_popular_smokegreen">Sage</string>
   <string name="filter_popular_watergreen">Smaragd</string>
+  <string name="filter_popular_windchime">Glockenspiel</string>
   <string name="filter_popular_wintersun">Mittwinterzeit</string>
   <string name="filter_portrait_greyish">Asche</string>
   <string name="filter_portrait_hint">Farbfokus</string>
@@ -1247,6 +1242,7 @@
   <string name="mi_mover_working_desc">Mi Mover überträgt Elemente…</string>
   <string name="micloud_introduce">Fotos und Videos automatisch synchronisieren (Mi-Konto erforderlich)</string>
   <string name="midnight">Nacht</string>
+  <string name="mishare_all_devices">Alle Geräte</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -2093,6 +2089,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="sync_off_title">Synchronisation mit der Cloud einschalten, um Fotos und Videos automatisch zu sichern</string>
   <string name="sync_pending_title">Wird automatisch synchronisiert</string>
   <string name="sync_state_unknow">Information bekommen</string>
+  <string name="synced_photo_video_count">%1$s und %2$s synchronisiert</string>
   <string name="synced_title">Fotos und Videos wurden erfolgreich gesichert</string>
   <string name="syncing_gprs_title">Für das Backup werden mobile Daten benutzt</string>
   <string name="syncing_metadata_title">Xiaomi Clouddaten werden synchronsiert</string>
