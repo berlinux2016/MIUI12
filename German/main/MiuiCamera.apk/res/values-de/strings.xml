@@ -5,13 +5,13 @@
 
   <string name="dd_f_t">Ihr Telefon zur Aufnahme schließen</string>
   <string name="dd_frn_f_t">Falten Sie Ihr Gerät, um die Frontkamera zu verwenden</string>
-  <string name="dd_unf_t">Bitte Ihr Telefon aufklappen und ein Foto mit dem externen Bildschirm machen</string>
+  <string name="dd_unf_t">Telefon bitte aufklappen und ein Foto mit dem externen Bildschirm machen</string>
   
   <string name="esp_tip">Äußere Anzeigevorschau</string>
   <string name="pref_camera_track_focus_preferred_description">Diese Funktion einschalten, um den Fokus auf Menschen und Tiere automatisch beizubehalten. Sie können auch manuell Motive für die Verfolgung auswählen.</string>
   <string name="pref_camera_track_focus_preferred_title">Focus tracking</string>
-  <string name="prep_video_ai_audio_new_desc_tip_alone">Sounds from the subject in focus are enhanced in landscape mode</string>
-  <string name="prep_video_ai_audio_single_desc_tip_alone">Sounds from behind the screen are filtered in landscape mode</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Geräusche des fokussierten Objekts werden im Querformat verstärkt</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">Geräusche hinter dem Bildschirm werden im Querformat gefiltert</string>
   <string name="process_tips_1">Gerät nicht zuklappen, bevor das Video gespeichert ist</string>
   <string name="process_tips_2">Gerät nicht aufklappen, bevor das Video gespeichert ist</string>
   <string name="super_night_owl_toast">Halten Sie Ihr Telefon ruhig</string>

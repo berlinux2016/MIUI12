@@ -23,8 +23,8 @@
   <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
   <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
 
-  <string name="gb_storage_game_dialog_message">Das von Ihnen heruntergeladene Spiel wird automatisch in Game Turbo aufgenommen und das Spielsymbol wird nicht mehr auf dem Desktop angezeigt. Sind Sie sicher, die Speicherfunktion einzuschalten?</string>
-  <string name="tips">Prompt</string>
+  <string name="gb_storage_game_dialog_message">Das von Ihnen heruntergeladene Spiel wird automatisch in Game Turbo aufgenommen und das Spielsymbol wird nicht mehr auf dem Desktop angezeigt. Wollen Sie wirklich die Speicherfunktion einschalten?</string>
+  <string name="tips">Eingabeaufforderung</string>
 
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
