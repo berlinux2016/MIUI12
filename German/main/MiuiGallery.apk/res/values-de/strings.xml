@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cloud_full_space_tip_message">Ihren Cloud-Speichertarif upgraden, um alle Ihre Fotos und Videos mit der Cloud synchronisieren zu können.</string>
+  <string name="cloud_full_space_tip_message">Cloud-Speichertarif upgraden, um alle Ihre Fotos und Videos mit der Cloud synchronisieren zu können.</string>
   <string name="cloud_full_space_tip_negative">Jetzt nicht</string>
   <string name="cloud_full_space_tip_positive">Upgrade</string>
-  <string name="cloud_full_space_tip_title">Ungenügender Cloud-Speicher</string>
+  <string name="cloud_full_space_tip_title">Ungenügend Cloud-Speicher</string>
   <string name="filter_food_orangeflavor">Mandarine</string>
   <string name="filter_general_past">Yore</string>
   <string name="filter_popular_gingertea">Ingwer</string>

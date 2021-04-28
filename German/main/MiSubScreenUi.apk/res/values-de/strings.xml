@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_emergency_contact">Notfallkontakts hinzufügen</string>
+  <string name="add_emergency_contact">Notfallkontakte hinzufügen</string>
   <string name="has_add_contact">Hinzugefügt</string>
   <string name="not_add_contact">Nicht hinzugefügt</string>
-  <string name="sps_cancel">Zum Beenden drückt halten</string>
+  <string name="sps_cancel">Zum Beenden gedrückt halten</string>
   <string name="subscreen_could_edit_pic">Bilder zum Skalieren ziehen, zum Löschen gedrückt halten</string>
   <string name="wilderness_dcalling">Verbunden</string>
   <string name="wilderness_dialing">Wählen</string>

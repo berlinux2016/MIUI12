@@ -4841,7 +4841,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_moreSettingsInAi">Weitere Einstellungen</string>
   <string name="miheadset_multi_connect_mode">Multi-Anschluss-Modus</string>
   <string name="miheadset_multi_connect_mode_summary">Mehr als ein Gerät gleichzeitig anschließen</string>
-  <string name="miheadset_network_not_available">Ihre Netzwerkeinstellungen überprüfen und erneut versuchen</string>
+  <string name="miheadset_network_not_available">Netzwerkeinstellungen prüfen und erneut versuchen</string>
   <string name="miheadset_next">Weiter</string>
   <string name="miheadset_openAnc">Rauschunterdrückung</string>
   <string name="miheadset_play_pause">Abspielen/Pause</string>
