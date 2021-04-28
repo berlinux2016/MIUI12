@@ -432,6 +432,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_express_shunfeng_verify_dialog_title">Verifizierung abschließen</string>
   <string name="app_express_shunfeng_verify_failed">Kontaktinfo nicht verifizierbar. Prüfen Sie, ob die letzten vier Ziffern der eingegebenen Telefonnummer korrekt sind, und versuchen Sie es erneut.</string>
   <string name="app_express_tail_number">Bestellung: %1$s</string>
+  <string name="app_first_loading_txt">Smartcard laden…</string>
   <string name="app_footer_switcher">Zur alten Version wechseln</string>
   <string name="app_health_card_completion">Fortschritt</string>
   <string name="app_health_card_energy">Kalorien</string>

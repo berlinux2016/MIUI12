@@ -417,6 +417,7 @@
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
   <string name="clip_dialog_title">Kopierte Nummer wählen?</string>
+  <string name="close">Schließen</string>
   <string name="close_dial_pad">Tastatur schließen</string>
   <string name="close_dial_pad_description">Tastatur schließen</string>
   <string name="cloud_antispam_mark">Als Spam markieren</string>
@@ -558,6 +559,7 @@ Durch tippen auf \"Zustimmen\" unten akzeptieren Sie die allgemeinen Geschäftsb
   <string name="data_charge">Datenpaket aufladen</string>
   <string name="data_left">Verbleibende Daten</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="date_time_set">Speichern</string>
   <string name="date_year_toggle">Jahr angeben</string>
   <string name="default_ringtone">Standardklingelton</string>
@@ -1041,10 +1043,13 @@ Grund: \"%s\""</string>
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suche</string>
+  <string name="miuix_appcompat_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
+  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -1445,6 +1450,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="select_none">Nichts ausgewählt</string>
   <string name="select_show_contacts">Kontaktliste</string>
   <string name="select_vcard_title">vCard-Datei auswählen</string>
+  <string name="send">Senden</string>
   <string name="send_contact_shortcut_todesktop_duplicate">Diese Verknüpfung existiert bereits</string>
   <string name="send_contact_shortcut_todesktop_failed">Verknüpfung auf dem Startbildschirm nicht möglich</string>
   <string name="send_contact_shortcut_todesktop_overflow">Keine weiteren Verknüpfungen auf dem Startbildschirm möglich</string>

@@ -16,6 +16,10 @@
   <string name="process_tips_2">Gerät nicht aufklappen, bevor das Video gespeichert ist</string>
   <string name="super_night_owl_toast">Halten Sie Ihr Telefon ruhig</string>
 
+  <string name="scan_install_prompt_header">Scanner installieren</string>
+  <string name="scan_install_prompt_loading">Scanner installieren…</string>
+  <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
