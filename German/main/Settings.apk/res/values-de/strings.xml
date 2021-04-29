@@ -4568,7 +4568,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
   <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
   <string name="macaddr_label">MAC-Adresse:</string>
-  <string name="magic_window_name">Fenster teilen</string>
+  <string name="magic_window_name">Parallelfenster</string>
   <string name="main_netcheck_summary">Verbindung bei Netzwerkproblemen testen</string>
   <string name="main_running_process_description">Hauptprozess wird verwendet</string>
   <string name="main_toolbar_statistic">Datennutzungsstatistik</string>
