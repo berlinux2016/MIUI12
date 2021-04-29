@@ -457,6 +457,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="notif_trans_sending_failed">Datenversand fehlgeschlagen</string>
   <string name="notif_trans_wait_for_reconnecting">Verbindung wurde getrennt. Erneut verbinden.</string>
+  <string name="not_set">Nicht festgelegt</string>
   <string name="old_soft_name">Verbindung über QR-Code</string>
   <string name="old_way">Sie können auch einen QR-Code auf Ihrem neuen Gerät generieren und ihn mit dem alten scannen.</string>
   <string name="page_loading">Einen Moment…</string>
