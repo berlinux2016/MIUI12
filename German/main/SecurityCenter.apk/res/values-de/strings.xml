@@ -1600,7 +1600,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_micharge">Ladetemperatur überwachen</string>
   <string name="gamebox_micharge_dialog_message">Funktion einschalten, um den Ladevorgang einzuschränken, wenn das Ladegerät angeschlossen ist. Das Ladegerät wird nur zur Stromversorgung verwendet, wodurch Sie eine Überhitzung während des Spielens vermeiden können.</string>
   <string name="gamebox_micharge_dialog_title">Ladetemperatur überwachen</string>
-  <string name="gamebox_micharge_settings_summray">Um Überhitzung zu vermeiden, verwenden Sie das Ladegerät nur zur Stromversorgung</string>
+  <string name="gamebox_micharge_settings_summray">Um Überhitzung zu vermeiden, Ladegerät nur zur Stromversorgung verwenden</string>
   <string name="gamebox_micharge_toast">Temperaturregelung beim Laden ist an</string>
   <string name="gamebox_manual_record">Aufnahme</string>
   <string name="gamebox_milink">Übertragen</string>
