@@ -116,7 +116,7 @@
   <string name="gamebox_no_network_btn">Neu laden</string>
   <string name="gb_adv_touch_adv_title">Klassischer Modus (Standard)</string>
   <string name="gb_adv_touch_custom1">Wischantwort</string>
-  <string name="gb_adv_touch_custom2">Empfindlichkeit gegenüber kontinuierlichen Antippen</string>
+  <string name="gb_adv_touch_custom2">Empfindlichkeit für kontinuierliches Antippen</string>
   <string name="gb_adv_touch_custom3">Zielgenauigkeit</string>
   <string name="gb_adv_touch_custom4">Tippstabilität</string>
   <string name="gb_adv_touch_custom_tip1">Eine höhere Wischreaktion erhöht die Reaktionsgeschwindigkeit auf diese Geste, während eine niedrigere Wischreaktion die Geste stabiler macht.</string>
