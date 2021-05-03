@@ -249,6 +249,10 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
     <item quantity="other">%d Tage in Folge angemeldet</item>
     <item quantity="one">%d-mal</item>
   </plurals>
+  <plurals name="gb_toolbox_guide_known">
+    <item quantity="other">Verstanden (%ds)</item>
+    <item quantity="one">Verstanden (%ds)</item>
+  </plurals>
   <plurals name="gb_voice_changer_trial_gain_fail">
     <item quantity="other">Kostenlose %d-Tage-Testversion erhalten nicht möglich</item>
     <item quantity="one">Kostenlose %d-Tag-Testversion erhalten nicht möglich</item>

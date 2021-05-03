@@ -1597,6 +1597,11 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_macro">Kombinationen</string>
   <string name="gb_game_macro_bubble_tips">Kombinationen ausprobieren</string>
   <string name="gb_game_macro_toast_tips">Kombinationen ausprobieren!\nSequenzen aufnehmen und sie jederzeit verwenden!</string>
+  <string name="gamebox_micharge">Ladetemperatur überwachen</string>
+  <string name="gamebox_micharge_dialog_message">Funktion einschalten, um den Ladevorgang einzuschränken, wenn das Ladegerät angeschlossen ist. Das Ladegerät wird nur zur Stromversorgung verwendet, wodurch Sie eine Überhitzung während des Spielens vermeiden können.</string>
+  <string name="gamebox_micharge_dialog_title">Ladetemperatur überwachen</string>
+  <string name="gamebox_micharge_settings_summray">Um Überhitzung zu vermeiden, verwenden Sie das Ladegerät nur zur Stromversorgung</string>
+  <string name="gamebox_micharge_toast">Temperaturregelung beim Laden ist an</string>
   <string name="gamebox_manual_record">Aufnahme</string>
   <string name="gamebox_milink">Übertragen</string>
   <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
@@ -1722,6 +1727,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_shoulder_key_add_tips">Tasten [L] und [R] in eine beliebige Funktionsposition bringen und über die Schultertasten bedienen</string>
   <string name="gb_shoulder_key_btn_cancel">Abbrechen</string>
   <string name="gb_shoulder_key_btn_save_exit">Speichern</string>
+  <string name="gb_shoulder_key_dialog_message">Sie können beide Schultertasten gleichzeitig verwenden, um Game Turbo zu starten, wenn Sie keine Spiele spielen.</string>
   <string name="gb_shoulder_key_dialog_txt">Sie können Game Turbo mit den Schultertasten einschalten.</string>
   <string name="gb_shoulder_key_guide_btn_done">Verstanden</string>
   <string name="gb_shoulder_key_guide_btn_next">Weiter</string>
@@ -1729,6 +1735,9 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_shoulder_key_guide_tips1">Toolbox öffnen und Schultertasten konfigurieren</string>
   <string name="gb_shoulder_key_settings_guide_tips1">Tasten [L] und [R] in eine beliebige Funktionsposition bringen, um die Konfiguration zu beenden</string>
   <string name="gb_shoulder_key_settings_guide_tips2">Schultertasten für die Funktionen verwenden, die Sie ihnen während des Spiels zugewiesen haben</string>
+  <string name="gb_shoulder_key_settings_summary">Beide Schultertasten verwenden, um Game Turbo zu starten, wenn Sie keine Spiele spielen</string>
+  <string name="gb_shoulder_key_settings_title">Schultertasten für Game Turbo verwenden</string>
+  <string name="gb_shoulder_key_settings_title_new">Game Turbo Schnellstart</string>
   <string name="gb_sign_gift">Melden Sie sich an, um Belohnungen zu erhalten.</string>
   <string name="gb_sign_gift_button_text">Erhalten</string>
   <string name="gb_sign_notification_summary">Spiele ohne Netzwerkverzögerung spielen</string>
