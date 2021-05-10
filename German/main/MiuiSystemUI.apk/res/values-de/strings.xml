@@ -1287,7 +1287,7 @@ Weiterhin zeigen?"</string>
   <string name="kg_invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
   <string name="kg_invalid_puk">Geben Sie den richtigen PUK-Code ein. Bei wiederholten Versuchen wird die SIM-Karte dauerhaft deaktiviert.</string>
   <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein</string>
-  <string name="kg_invalid_sim_puk_hint">PUK-Code sollte aus 8 Ziffern bestehen</string>
+  <string name="kg_invalid_sim_puk_hint">PUK-Code muss %1$d Ziffern enthalten.</string>
   <string name="kg_login_too_many_attempts">Zu viele Musterversuche</string>
   <string name="kg_password_instructions">Kennwort eingeben</string>
   <string name="kg_password_pin_failed">SIM-PIN-Vorgang fehlgeschlagen!</string>
@@ -2677,6 +2677,9 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wireless_charge_reset_device_detail">Vergewissern Sie sich, dass die Position Ihres Geräts auf der Ladestation korrekt ist.</string>
   <string name="wireless_charge_stop">Kabelloses Laden gestoppt</string>
   <string name="wireless_charging_connected_message">Wenn Ihr Gerät kabellos aufgeladen wird, können Sie kabelloses Umkehrladen nicht verwenden.</string>
+  <string name="wireless_charging_fg_control_cancel">Abbrechen</string>
+  <string name="wireless_charging_fg_control_messgae">Kabelloses Umkehrladen wurde ausgeschaltet, weil weniger als %d% Akku verbleiben. Sie können die Einstellungen anpassen, damit das drahtlose Rückwärtsladen länger funktioniert.</string>
+  <string name="wireless_charging_fg_control_ok">Einstellen</string>
   <string name="wireless_charging_low_battery_level_message">Kabelloses Umkehrladen kann nicht verwendet werden, wenn der Akku weniger als %d%% geladen ist.</string>
   <string name="wireless_charging_ok">Verstanden</string>
   <string name="wireless_charging_saver_cancel">Ausschalten</string>

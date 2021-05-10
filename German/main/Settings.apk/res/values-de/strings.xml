@@ -3432,8 +3432,8 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="freeform_guide_notification_drop_down_summary">Taste gedrückt halten und Aktionsleiste einer Benachrichtigung herunterziehen.</string>
   <string name="freeform_guide_notification_drop_down_title">Popups öffnen</string>
   <string name="freeform_guide_settings">Popups</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Schieben Sie vom unteren Bildschirmrand zur oberen rechten Ecke des Bildschirms</string>
-  <string name="freeform_guide_slide_to_small_freeform_title">Zu Popups schieben</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Unteren Rand des Fensters gedrückt halten und ihn in die obere rechte Ecke ziehen</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">App minimieren</string>
   <string name="freeform_guide_slide_up_to_close_summary">Von der Aktionsleiste eines Popups hochklappen</string>
   <string name="freeform_guide_slide_up_to_close_title">Popups schließen</string>
   <string name="freeform_vedio_description">"· Taste gedrückt halten und eine Benachrichtigung herunterziehen, um sie in einem Popup zu öffnen.
