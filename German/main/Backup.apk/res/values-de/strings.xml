@@ -100,6 +100,7 @@
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="click_soft_ap_to_link">Hotspot zum Verbinden auswählen</string>
   <string name="click_to_view">Zum Anzeigen antippen</string>
+  <string name="close">Schließen</string>
   <string name="close_twice_auth_btn">Zwei-Faktor-Authentifizierung deaktivieren</string>
   <string name="close_twice_auth_note">"Hinweis:
 Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatums wird Ihre Apple ID-Zwei-Faktor-Authentifizierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentifizierung auf der Apple ID-Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
