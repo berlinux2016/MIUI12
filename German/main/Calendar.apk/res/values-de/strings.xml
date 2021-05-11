@@ -484,7 +484,7 @@
   <string name="greeting_card_reminder_info_text">Täglich Benachrichtigungen über Grüße und Status erhalten</string>
   <string name="greeting_success_subtext">Benachrichtigungen sind an</string>
   <string name="greeting_success_text">Fertig</string>
-  <string name="greetingcard_end_of_page">Das war's für heute. Kommen Sie morgen wieder!</string>
+  <string name="greetingcard_end_of_page">"Das war's für heute. Kommen Sie morgen wieder!"</string>
   <string name="greetingcard_notification_desc">Schauen Sie sich den neuesten Status an</string>
   <string name="greetingcard_notification_title">Ihr täglicher Feed ist bereit</string>
   <string name="greetingcard_reminder_dialog_message">Kalender erlauben, Ihnen täglich Erinnerungen über Grüße und Status zu senden?</string>
