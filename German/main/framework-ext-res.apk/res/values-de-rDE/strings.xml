@@ -9,6 +9,7 @@
   <string name="application_cannot_open_alipay_health_code">Alipay-Gesundheitscode öffnen nicht möglich</string>
   <string name="application_cannot_open_alipay_payment_code">Alipay-Zahlungscode öffnen nicht möglich</string>
   <string name="application_cannot_open_alipay_scanner">Alipay-Scanner öffnen nicht möglich</string>
+  <string name="application_cannot_open_au_pay">Erst au PAY installieren</string>
   <string name="application_cannot_open_weixin_health_code">WeChat-Gesundheitscode öffnen nicht möglich</string>
   <string name="application_cannot_open_weixin_payment_code">WeChat-Zahlungscode öffnen nicht möglich</string>
   <string name="application_cannot_open_weixin_scanner">WeChat-Scanner öffnen nicht möglich</string>
@@ -172,6 +173,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="miaudiovisual_notification_summary">Einschalten, um Effekte auf dem Sperrbildschirm anzuzeigen</string>
   <string name="miaudiovisual_notification_title">Audio- und visuelle Effekte</string>
   <string name="miui_forbid_poweroff_when_device_locked">Ausschalten nicht möglich, Gerät ist gesperrt.</string>
+  <string name="miui_multiwindow_not_support_small_window">%1$s unterstützt kiene Popups</string>
   <string name="miui_multiwindow_not_support_split">%1$s unterstützt keine geteilte Bildschirmanzeige.</string>
   <string name="miui_screen_ratio_hint">Probleme mit der Auflösung</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Nicht wieder anzeigen</string>
