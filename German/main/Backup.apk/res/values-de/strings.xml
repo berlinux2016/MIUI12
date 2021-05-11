@@ -6,7 +6,7 @@
   <string name="new_pc_backup_restore_link_pad">Mobiles Gerät</string>
   <string name="new_pc_backup_summary2_pad">Ihr mobiles Gerät über ein USB-Kabel mit dem Computer verbinden.</string>
   <string name="new_pc_restore_content2_pad">%d. Sicherung von Ihrem Computer nach MIUI-Backup-AllBackup kopieren.</string>
-  <string name="not_enough_storage_tips">Unzureichender Speicherplatz. Etwas Speicherplatz frei und erneut versuchen.</string>
+  <string name="not_enough_storage_tips">Unzureichender Speicherplatz. Etwas Speicherplatz freigeben und erneut versuchen.</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>

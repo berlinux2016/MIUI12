@@ -272,8 +272,8 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="playback_share_records">Aufnahme teilen</string>
   <string name="preference_clear_data">Daten löschen</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-  <string name="preference_enable_earpiece_summary">Audio über Hörmuschel abspielen</string>
-  <string name="preference_enable_earpiece_title">Hörmuschelmodus</string>
+  <string name="preference_enable_earpiece_summary">Audio über Ohrhörer abspielen</string>
+  <string name="preference_enable_earpiece_title">Ohrhörer-Modus</string>
   <string name="preference_led_indicator">Im Sperrbildschirm aufnehmen</string>
   <string name="preference_led_indicator_prompt">Blaue Anzeige auf dem Sperrbildschirm und blinkende LED während der Aufnahme</string>
   <string name="preference_online_orders">Onlinebestellungen</string>
@@ -409,7 +409,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="save_record_dialog_title">Aufzeichnung speichern</string>
   <string name="search_app">Rekorder</string>
   <string name="search_empty">Keine Ergebnisse gefunden</string>
-  <string name="search_enable_earpiece_title">Hörmuschelmodus</string>
+  <string name="search_enable_earpiece_title">Ohrhörer-Modus</string>
   <string name="search_hint">Suchen</string>
   <string name="search_led_indicator">Sperrbildschirmbenachrichtigung</string>
   <string name="search_led_indicator_prompt">Während der Aufnahme Anzeige in Statusleiste und LED-Benachrichtigung bei gesperrtem Bildschirm</string>

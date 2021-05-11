@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="global_app_description_content">FM Radio ist eine System-App. Sie können keine Radiosendungen mehr hören, nachdem Sie die App deinstalliert haben.</string>
+  <string name="global_app_description_content">FM Radio ist eine System-App. Sie können keine Radiosendungen mehr hören, wenn Sie die App deinstallieren.</string>
   <string name="global_app_description_title">FM Radio deinstallieren?</string>
-  <string name="global_remove_app_description_content">FM Radio ist eine System-App. Sie können keine Radiosendungen mehr hören, nachdem Sie die Verknüpfung auf dem Startbildschirm entfernt haben.</string>
-  <string name="global_remove_app_description_title">\"FM Radio\" auf dem Startbildschrim entfernen?</string>
+  <string name="global_remove_app_description_content">FM Radio ist eine System-App. Sie können keine Radiosendungen mehr hören, wenn Sie die Verknüpfung vom Startbildschirm entfernen.</string>
+  <string name="global_remove_app_description_title">\"FM Radio\" vom Startbildschirm entfernen?</string>
   <string name="talkback_speed">Geschwindigkeit</string>
 
   <string name="talkback_back15s">Zurück</string>
