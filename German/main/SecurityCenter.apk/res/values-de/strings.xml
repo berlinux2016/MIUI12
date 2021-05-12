@@ -22,9 +22,37 @@
   <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
   <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
   <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
-
   <string name="gb_storage_game_dialog_message">Das von Ihnen heruntergeladene Spiel wird automatisch in Game Turbo aufgenommen und das Spielsymbol wird nicht mehr auf dem Desktop angezeigt. Wollen Sie wirklich die Speicherfunktion einschalten?</string>
   <string name="tips">Eingabeaufforderung</string>
+
+  <string name="ew_monitor_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
+  <string name="ew_monitor_exit">Von der freiwilligen Erdbebenüberwachung abmelden</string>
+  <string name="ew_monitor_exit_content">Freiwillige Helfer bei der Erdbebenüberwachung helfen mehr Menschen, schneller Informationen über Erdbeben zu erhalten. Vielen Dank (Teilnehmer %S) für Ihren Beitrag zur Erdbebenüberwachung. Sind Sie sicher, dass Sie sich von freiwilligen Erdbebenüberwachung zurückziehen wollen?</string>
+  <string name="ew_monitor_exit_title">Eingabeaufforderung</string>
+  <string name="ew_monitor_have_been">I have become</string>
+  <string name="ew_monitor_info_title">Was ist eine Erdbebenüberwachung?</string>
+  <string name="ew_monitor_join_number">Teilnehmenanzahl</string>
+  <string name="ew_monitor_join_path">Pfad beitreten: Xiaomi Telefonmanager für freiwillige Erdbebenüberwachung</string>
+  <string name="ew_monitor_my_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
+  <string name="ew_monitor_number_prex">Teilnehmer. %s</string>
+  <string name="ew_monitor_open">Jetzt beitreten</string>
+  <string name="ew_monitor_read_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und stimme zu.</Data></string>
+  <string name="ew_monitor_share">Mit Freunden teilen</string>
+  <string name="ew_monitor_slogan">"An der Erdbebenüberwachung beteiligen
+und ein sicheres China mit aufbauen"</string>
+  <string name="ew_monitor_summary1">"Telefone sind
+auch Erdbebenwächter"</string>
+  <string name="ew_monitor_summary2">"Über Erdbeben berichten
+und Überwachungsnetzwerk aufbauen"</string>
+  <string name="ew_monitor_summary3">"Mehr Menschen helfen
+Erdbebeninformationen schneller zu erhlten"</string>
+  <string name="ew_monitor_support">Gemeinsame Forschung und Entwicklung zwischen Xiaomi und Chengdu High-Tech Disaster Reduction Research Institute</string>
+  <string name="ew_monitor_support_rom">*Einige Xiaomi/Redmi-Telefone und MIUI-Versionen unterstützen diese Funktion</string>
+  <string name="ew_monitor_thanks_tips">"Danke, dass Sie der %s, für
+die Freiwillige Erdbeben-Überwachung sind"</string>
+  <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
+  <string name="ew_monitor_title_spilt">"Freiwillige
+Erdbebenüberwachung"</string>
 
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
