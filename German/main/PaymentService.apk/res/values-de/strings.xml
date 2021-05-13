@@ -402,7 +402,7 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="mibi_scan_prompt_retry">Halten Sie den Code gerade</string>
   <string name="mibi_scan_prompt_voucher">Mi Coin Passwort scannen</string>
   <string name="mibi_security_setting">Einstellungen</string>
-  <string name="mibi_shurtcut_create_success">Auf Startbildschirm platziert</string>
+  <string name="mibi_shurtcut_create_success">Zum Startbildschirm hinzugefügt</string>
   <string name="mibi_signing_pay_group_title">Zahlungsmethode wählen</string>
   <string name="mibi_signing_success_sub">Erneuerbare Zahlungen werden unter Verwendung von %1$s geleistet</string>
   <string name="mibi_signing_success_title">Erfolgreich ausgewählt</string>
