@@ -2678,7 +2678,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wireless_charge_stop">Kabelloses Laden gestoppt</string>
   <string name="wireless_charging_connected_message">Wenn Ihr Gerät kabellos aufgeladen wird, können Sie kabelloses Umkehrladen nicht verwenden.</string>
   <string name="wireless_charging_fg_control_cancel">Abbrechen</string>
-  <string name="wireless_charging_fg_control_messgae">Kabelloses Umkehrladen wurde ausgeschaltet, weil weniger als %d% Akku verbleiben. Sie können die Einstellungen anpassen, damit das kabellose Umkehrladen länger funktioniert.</string>
+  <string name="wireless_charging_fg_control_messgae">Kabelloses Umkehrladen wurde ausgeschaltet, weil weniger als %d%% Akku verbleiben. Sie können die Einstellungen anpassen, damit das kabellose Umkehrladen länger funktioniert.</string>
   <string name="wireless_charging_fg_control_ok">Einstellen</string>
   <string name="wireless_charging_low_battery_level_message">Kabelloses Umkehrladen kann nicht verwendet werden, wenn der Akku weniger als %d%% geladen ist.</string>
   <string name="wireless_charging_ok">Verstanden</string>
