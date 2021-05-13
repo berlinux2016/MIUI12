@@ -31,15 +31,15 @@
   <string name="ew_monitor_exit_title">Eingabeaufforderung</string>
   <string name="ew_monitor_have_been">I have become</string>
   <string name="ew_monitor_info_title">Was ist eine Erdbebenüberwachung?</string>
-  <string name="ew_monitor_join_number">Teilnehmenanzahl</string>
+  <string name="ew_monitor_join_number">Teilnehmeranzahl</string>
   <string name="ew_monitor_join_path">Pfad beitreten: Xiaomi Telefonmanager für freiwillige Erdbebenüberwachung</string>
   <string name="ew_monitor_my_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
   <string name="ew_monitor_number_prex">Teilnehmer. %s</string>
   <string name="ew_monitor_open">Jetzt beitreten</string>
   <string name="ew_monitor_read_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und stimme zu.</Data></string>
   <string name="ew_monitor_share">Mit Freunden teilen</string>
-  <string name="ew_monitor_slogan">"An der Erdbebenüberwachung beteiligen
-und ein sicheres China mit aufbauen"</string>
+  <string name="ew_monitor_slogan">"Bei der Erdbebenüberwachung mitmachen,
+um ein sicheres China mit aufzubauen"</string>
   <string name="ew_monitor_summary1">"Telefone sind
 auch Erdbebenwächter"</string>
   <string name="ew_monitor_summary2">"Über Erdbeben berichten
