@@ -934,7 +934,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
   <string name="privacy_policy_dialog_dont_agree">Ablehnen</string>
   <string name="privacy_policy_dialog_message"><Data>"Willkommen bei Kalender!&lt;br/>Mit dieser App können Sie Termine erstellen und verwalten, Erinnerungen einstellen und zusätzliche Infos speziell für Ihren Standort erhalten.&lt;br/>Kalender muss die notwendigen persönlichen Infos sammeln, um Ihnen grundlegende Dienste anbieten zu können. Wie wir mit den von uns gesammelten Informationen umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>.&lt;br/>Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Kalender nutzen. Sie können Ihre Zustimmung zur Datenschutzerklärung von Kalender in den Einstellungen jederzeit widerrufen.&lt;br/> Wenn Sie unserer Datenschutzerklärung nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung."</Data></string>
   <string name="privacy_policy_dialog_title">Allgem. Geschäftsbedingungen</string>
-  <string name="privacy_revoke_switch_text">Zustimmung widerufen</string>
+  <string name="privacy_revoke_switch_text">Zustimmung widerrufen</string>
   <string name="productivity_add_event">Termin erstellen</string>
   <string name="productivity_cannot_move_event">Termin verschieben nicht möglich</string>
   <string name="productivity_move_event_failed">Termin auf den dd. MMMM yyyy verschieben nicht möglich</string>
@@ -1006,7 +1006,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
   <string name="rest_day_indication_chinese_calendar">Ausruhen</string>
   <string name="retrocession_day_tradition">Befreiungsfest</string>
   <string name="revoke_confirmation_dialog_message">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Kalender. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und aufbewahrten persönlichen Daten werden innerhalb der von den geltenden Gesetzen vorgeschriebenen Frist gelöscht. Kalender muss die notwendigen persönlichen Daten sammeln, um Ihnen grundlegende Dienste anbieten zu können. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Verweigerung der Annahme der Dienste auf der Grundlage der gesammelten personenbezogenen Daten betrachtet.</string>
-  <string name="revoke_confirmation_dialog_title">Zustimmung widerufen</string>
+  <string name="revoke_confirmation_dialog_title">Zustimmung widerrufen</string>
   <string name="revoke_fail_message">Netzwerkverbindung nicht möglich</string>
   <string name="revoke_processing_message">Verarbeitung…</string>
   <string name="saturday">Samstag</string>
