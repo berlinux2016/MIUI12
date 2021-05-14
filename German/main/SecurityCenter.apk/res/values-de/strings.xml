@@ -855,7 +855,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="card_main_applock_action">Einschalten</string>
-  <string name="card_main_applock_summary">Schützen Sie ausgewählte Apps mit einem Passwort.</string>
+  <string name="card_main_applock_summary">Ausgewählte Apps mit einem Passwort schützen.</string>
   <string name="card_main_applock_title">App-Sperre</string>
   <string name="card_main_deepclean_action">Bereinigen</string>
   <string name="card_main_deepclean_facebook_title">Facebook Cleaner</string>
