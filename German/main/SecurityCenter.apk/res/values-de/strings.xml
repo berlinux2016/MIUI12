@@ -1318,7 +1318,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="examination_score_100">Alles in Ordnung!</string>
   <string name="examination_score_60_0">Jetzt scannen</string>
   <string name="examination_score_80_100">Ein paar Punkte können optimiert werden</string>
-  <string name="examination_score_80_60">Einige Punkte können optimiert werden</string>
+  <string name="examination_score_80_60">Einige Punkte sind optimierbar</string>
   <string name="examination_score_has_virus">Einige Apps sind verdächtig</string>
   <string name="exception_dialog_message">Datennutzungsstatistik wurde wegen eines Fehlers nicht berechnet. Ohne genaue Statistik kann Sicherheit die Datennutzung nicht überwachen. Neustart zur Wiederherstellung dieser Funktion?</string>
   <string name="exception_dialog_ok_button">Neu starten</string>
