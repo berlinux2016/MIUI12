@@ -340,7 +340,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="wifi_assistant_wifi_no_internet">Dieses WLAN hat keinen Zugang zum Internet.</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Tippen, um Details anzuzeigen.</string>
   <string name="wireless_charging_notification_message1">Keine kabellosen Geräte zum Aufladen gefunden. Kabelloses Umkehrladen ist nun deaktiviert.</string>
-  <string name="wireless_charging_notification_message2">Akku ist weniger als 30 % geladen. Kabelloses Umkehrladen ist nun deaktiviert.</string>
+  <string name="wireless_charging_notification_message2">Akku ist weniger als %s geladen. Kabelloses Umkehrladen ist nun deaktiviert.</string>
   <string name="wireless_charging_notification_message3">Beim Laden ist ein Fehler aufgetreten. Kabelloses Umkehrladen ist nun deaktiviert.</string>
   <string name="wireless_charging_notification_titile">Kabelloses Umkehrladen ausgeschaltet</string>
   <string name="xspace_head">Dual App</string>

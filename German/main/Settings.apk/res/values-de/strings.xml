@@ -447,6 +447,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
   <string name="adjust_3d_depth_title">3D-Tiefe von Spielen anpassen</string>
   <string name="adjust_font_size_answer_cn">Versuchen Sie, die Textgröße und den Schriftgrad mit den Schiebereglern unten anzupassen!</string>
   <string name="adjust_font_size_answer_global">Versuchen Sie, die Textgröße mit dem Schieberegler unten anzupassen!</string>
+  <string name="adjust_ligth">Helligkeitseinstellung</string>
   <string name="adjust_temperature_title">Farbtemperatur</string>
   <string name="admin_device_owner_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Gerät verknüpft sind, inkl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts.</string>
   <string name="admin_disabled_other_options">Weitere Optionen sind von Ihrem Administrator deaktiviert</string>
@@ -4848,6 +4849,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_plus">Lautstärke -</string>
   <string name="miheadset_rename">Umbenennen</string>
   <string name="miheadset_rename_device">Umbenennen</string>
+  <string name="miheadset_single_ear_indicate">Beide Ohrhörer tragen, um die Rauschunterdrückung zu verwenden</string>
   <string name="miheadset_soft">Weich</string>
   <string name="miheadset_transparent">Transparenz</string>
   <string name="miheadset_transparentMode">Transparenz</string>
@@ -7493,6 +7495,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="smartcover_lock_or_unlock_screen_tittle">Bildschirm mit Smartcover sperren oder entsperren</string>
   <string name="smartcover_sensitive_summary">Telefon mit Smartcover einfach sperren oder entsperren</string>
   <string name="smartcover_sensitive_title">Smartcover-Modus</string>
+  <string name="smooth_adjust_ligth">Übergänge glätten</string>
+  <string name="smooth_adjust_ligth_summary">Übergänge werden fließender, wenn Sie die Helligkeit manuell einstellen. Wenn diese Funktion aktiviert ist, können in einigen Fällen leichte Farbinkonsistenzen auftreten.</string>
   <string name="sms_access_restriction_enabled">Zugriff SMS-/Anruflogs einschränken</string>
   <string name="sms_access_restriction_enabled_summary">Nur Standard-Telefon-/-Messaging-Apps haben SMS- &amp; Anrufprotokollberechtigungen</string>
   <string name="sms_application_title">Nachrichten</string>
