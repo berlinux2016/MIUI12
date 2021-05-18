@@ -400,6 +400,7 @@
   <string name="search_stopwatch_keywords">Stoppuhr</string>
   <string name="search_timer_keywords">Timer</string>
   <string name="search_worldclock_keywords">Zeit;Weltzeit;Uhr</string>
+  <string name="select_operation">Wählen</string>
   <string name="send">Senden</string>
   <string name="set_alarm">Wecker einstellen</string>
   <string name="set_alarm_choose_ringtone">Klingelton wählen</string>
@@ -413,12 +414,13 @@
   <string name="shortcut_new_alarm">Wecker einstellen</string>
   <string name="shortcut_start_timer">Timer starten</string>
   <string name="shortcut_stop_watch">Stoppuhr starten</string>
-  <string name="shut_down_alarm_no_news">Wecker ausschalten, sonst kann der morgendliche Nachrichtendienst nicht genossen werden</string>
+  <string name="shut_down_alarm_no_news">Wecker ausschalten, sonst können Sie den morgendlichen Nachrichtendienst nicht genießen</string>
   <string name="shut_down_keep_screen">Bildschirm bleibt nicht eingeschaltet</string>
   <string name="shutdown_alarm_alert_enable_summary">Standby-Wecker werden mindestens 10 Minuten nach dem Ausschalten des Geräts ausgelöst</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Aktivieren, damit eingestellte Wecker ausgelöst werden, wenn das Gerät ausgeschaltet ist. Nur Wecker, die mind. %d Minuten nach dem Ausschalten des Geräts starten sollen, werden ausgelöst.</string>
   <string name="shutdown_alarm_alert_title">Standby-Wecker</string>
-  <string name="shutdown_alarm_disable_summary">Wecker wird nicht ausgelöst, wenn das Gerät ausgeschaltet wurde</string>
-  <string name="shutdown_alarm_enable_summary">Wecker wird ausgelöst, wenn er für mindestens 10 Minuten nach dem Ausschalten des Geräts eingestellt ist</string>
+  <string name="shutdown_alarm_disable_summary">Wecker wird nicht ausgelöst, wenn das Gerät ausgeschaltet ist</string>
+  <string name="shutdown_alarm_enable_summary">Wecker wird ausgelöst, wenn er mind. 10 Minuten nach dem Ausschalten des Geräts starten soll</string>
   <string name="shutdown_alarm_title">Standby-Wecker</string>
   <string name="silent_alarm_summary">Lautlosmodus</string>
   <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>

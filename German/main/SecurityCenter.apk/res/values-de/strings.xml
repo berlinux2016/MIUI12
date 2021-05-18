@@ -1972,7 +1972,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
   <string name="info_unantispam_sms">SMS erlauben</string>
   <string name="information_setting">Empfehlungen</string>
   <string name="input_available_cellular_data_daily_hint">Tägliches Datenlimit eingeben</string>
-  <string name="input_aviable_traffic">Datenlimit einstellen</string>
+  <string name="input_aviable_traffic">Datenlimit festlegen</string>
   <string name="input_celluar_data_quota_hint">Datenlimit eingeben</string>
   <string name="input_cellular_data_warn_hint">Warngrenze für Datennutzung eingeben</string>
   <string name="input_password_hint_text">Passwort eingeben</string>
