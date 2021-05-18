@@ -1439,6 +1439,8 @@ Immer diese Nummer verwenden"</string>
   <string name="mobile_intelligent_connection_title">Intelligente Netzwerkverbindung</string>
   <string name="mobile_network_settings_not_available">Mobilfunkeinstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="mobile_networks">Einstellungen Mobilfunknetz</string>
+  <string name="mobile_special_network_optimization_config_summary">Wenn das Netzwerk anormal ist, automatisch versuchen zu reparieren</string>
+  <string name="mobile_special_network_optimization_config_title">Spezielle Netzwerkoptimierung</string>
   <string name="mock_location_app">App für Scheinstandorte auswählen</string>
   <string name="mock_location_app_not_set">Keine App für Scheinstandorte ausgewählt</string>
   <string name="mock_location_app_set">App für Scheinstandorte: %1$s</string>
