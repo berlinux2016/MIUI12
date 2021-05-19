@@ -56,7 +56,7 @@
     <item>Nur Sender</item>
   </string-array>
   <string-array name="sign_in_dialog_item">
-    <item>Outlook oauth imap Protokoll Anmeldung</item>
+    <item>Outlook OAUTH IMAP-Protokollanmeldung</item>
     <item>IMAP (ohne Kalender)</item>
     <item>EXCHANGE (mit Kalender)</item>
   </string-array>
