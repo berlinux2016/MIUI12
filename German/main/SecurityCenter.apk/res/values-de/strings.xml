@@ -22,8 +22,6 @@
   <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
   <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
   <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
-  <string name="gb_storage_game_dialog_message">Das von Ihnen heruntergeladene Spiel wird automatisch in Game Turbo aufgenommen und das Spielsymbol wird nicht mehr auf dem Desktop angezeigt. Wollen Sie wirklich die Speicherfunktion einschalten?</string>
-  <string name="tips">Eingabeaufforderung</string>
 
   <string name="ew_monitor_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
   <string name="ew_monitor_exit">Von der freiwilligen Erdbebenüberwachung abmelden</string>
