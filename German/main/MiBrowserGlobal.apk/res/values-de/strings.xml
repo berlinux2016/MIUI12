@@ -920,6 +920,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
   <string name="mw_color_picker_dialog_title">Farbe auswählen</string>
   <string name="mw_color_picker_hue">Farbton</string>
   <string name="mw_color_picker_saturation">Sättigung</string>
+  <string name="mw_color_picker_value">Wert</string>
   <string name="mw_common_google_play_services_enable_button">Aktivieren</string>
   <string name="mw_common_google_play_services_enable_text">%1$s funktioniert nur, wenn Sie Google-Play-Dienste aktivieren.</string>
   <string name="mw_common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
@@ -1376,6 +1377,8 @@ Diese Seite jetzt verlassen?"</string>
   <string name="pref_content_night_read_mode">Nachtmodus</string>
   <string name="pref_content_search_engine">Suchanbieter in Adressleiste</string>
   <string name="pref_content_search_engine_summary">Suchmaschine wählen</string>
+  <string name="pref_data_preload_value_always">IMMER</string>
+  <string name="pref_data_preload_value_never">NIEMALS</string>
   <string name="pref_default_browser_str">Standarbrowser</string>
   <string name="pref_desc_dns_prefetch">Dem Browser erlauben, Domainnamen aufzulösen, bevor Ressourcen (z. B. Dateien oder Links) angefordert werden</string>
   <string name="pref_develop_mode">Entwicklermodus</string>
@@ -1501,6 +1504,8 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="pref_title_dns_prefetch">DNS-Prefetching</string>
   <string name="pref_ua_string">Benutzeragent</string>
   <string name="pref_version_info">Versionsinfo</string>
+  <string name="pref_video_preload_value_always">IMMER</string>
+  <string name="pref_video_preload_value_never">NIEMALS</string>
   <string name="pref_volume_key_action">Blättern mit Lautstärketasten</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="preference_des_autocomplete_search">Suchanfragen automatisch vervollständigen, basierend auf dem Browserverlauf, Suchmaschinenvorschlägen und beliebten Webseiten</string>
@@ -1818,7 +1823,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="sync_alert_checkbox_bookmark">Lesezeichen</string>
   <string name="sync_alert_checkbox_history">Browserverlauf</string>
   <string name="sync_bookmark">Lesezeichen synchronisieren</string>
-  <string name="sync_bookmark_fail_retry">Synchronisieren nicht möglich</string>
+  <string name="sync_bookmark_fail_retry">Synchronisieren fehlgeschlagen</string>
   <string name="sync_bookmark_succeed">Erfolgreich synchronisiert</string>
   <string name="tab_common_app">Apps &amp; Ordner</string>
   <string name="tab_feed">Nachrichten</string>
@@ -1880,7 +1885,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="tip_drag">Langes Drücken zum Bearbeiten und Ziehen zum Sortieren</string>
   <string name="tip_not_support_external_sdcard_modify">Auf der SD-Karte gespeicherte Dateien können nicht bearbeitet werden</string>
   <string name="tip_sync_disabled_by_incognito">Elemente können im Inkognito-Modus nicht synchronisiert werden</string>
-  <string name="tip_sync_switch_off">Synchronisation ist ausgeschaltet. Sie können sie in \"Mein Konto\" einschalten.</string>
+  <string name="tip_sync_switch_off">Synchronisation ist aus. Sie können sie in \"Mein Konto\" einschalten.</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="title_command_mode">Befehlsmodus</string>
   <string name="title_expire_video">Bald ablaufend</string>
