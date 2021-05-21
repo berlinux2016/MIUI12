@@ -11,7 +11,7 @@
   <string name="allow_notify">Benachrichtigungen zulassen</string>
   <string name="app_loading">Laden…</string>
   <string name="compress_failed_and_retry">Komprimieren nicht möglich, erneut versuchen.</string>
-  <string name="compress_img">Bid komprimieren</string>
+  <string name="compress_img">Bild komprimieren</string>
   <string name="conversation_message_info">E-Mail laden nicht möglich. Tippen, um es erneut zu versuchen.</string>
   <string name="exchange_login_hint">Hier tippen, um sich bei Outlook Exchange anzumelden</string>
   <string name="folder_notification_setting_tip">Sie haben mehrere Ordner in Ihrem Posteingang. Benachrichtigungen über neue Nachrichten in bestimmten Ordnern festlegen.</string>
