@@ -7,7 +7,7 @@
   <string name="account_settings_receive_title">Eingehende E-Mails</string>
   <string name="account_settings_send_title">Ausgehende E-Mails</string>
   <string name="account_settings_server_summary">Benutzernamen, Passwörter und mehr ändern</string>
-  <string name="account_settings_sync_other_tips">Es werden nur Exchange-Server unterstützt</string>
+  <string name="account_settings_sync_other_tips">Nur Exchange-Server werden unterstützt</string>
   <string name="allow_notify">Benachrichtigungen zulassen</string>
   <string name="app_loading">Laden…</string>
   <string name="compress_failed_and_retry">Komprimieren nicht möglich, erneut versuchen.</string>
@@ -19,11 +19,11 @@
   <string name="http_auth_dialog_cancel">Abbrechen</string>
   <string name="http_auth_dialog_login">Anmelden</string>
   <string name="http_auth_dialog_password">Passwort</string>
-  <string name="http_auth_dialog_title">Ihre Zugangsdaten eingeben</string>
+  <string name="http_auth_dialog_title">Zugangsdaten eingeben</string>
   <string name="http_auth_dialog_username">Benutzername</string>
   <string name="inline_as_attachment">Als Anhang senden</string>
-  <string name="inline_too_large">Das Bild ist zu groß</string>
-  <string name="inline_too_large_des">Inline-Bilder können nicht größer als 3 MB sein. Größere Bilder als Anhänge senden oder komprimieren.</string>
+  <string name="inline_too_large">Bild ist zu groß</string>
+  <string name="inline_too_large_des">Inline-Bilder dürfen nicht größer als 3 MB sein. Größere Bilder als Anhänge senden oder komprimieren.</string>
   <string name="login_cancelled">Anmeldeversuch abgebrochen</string>
   <string name="login_failed">Anmelden nicht möglich</string>
   <string name="login_tip">%s-Protokoll wird standardmäßig für die Anmeldung verwendet. Wenn Sie ein anderes Protokoll verwenden möchten, manuell unter den Anmeldeoptionen auswählen.</string>
@@ -42,8 +42,8 @@
   <string name="qq_group_info_title">QQ-Gruppe für Feedback</string>
   <string name="search_bar_text">Nach Kontakten suchen</string>
   <string name="set_account_app_password">App-Passwort festlegen</string>
-  <string name="sign_in_graph_error">Sie können sich nur dann mit den Protokollen IMAP oder EXCHANGE anmelden, wenn Ihre Organisation die allgemeine Serverkonfiguration nicht geändert hat. Wenn Ihre Serveradresse von der Organisation angepasst wurde oder die entsprechenden Protokolle deaktiviert sind, melden Sie sich mit dem neuen Microsoft-Protokoll an.</string>
-  <string name="sign_in_no_useful_provider_error">Protokollkonfigurationen von Microsoft erhalten nicht möglich. Ein anderes Protokoll verwenden oder das Protokoll von Microsoft aktualisieren.</string>
+  <string name="sign_in_graph_error">Sie können sich nur dann mit den Protokollen IMAP oder EXCHANGE anmelden, wenn Ihre Firma die allgemeine Serverkonfiguration nicht geändert hat. Wenn Ihre Serveradresse von der Firma angepasst wurde oder die entsprechenden Protokolle deaktiviert sind, melden Sie sich mit dem neuen Microsoft-Protokoll an.</string>
+  <string name="sign_in_no_useful_provider_error">Protokollkonfigurationen von Microsoft abrufen nicht möglich. Ein anderes Protokoll verwenden oder das Protokoll von Microsoft aktualisieren.</string>
   <string name="tell_you_later">Später</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Zeitplan und Kontaktinformationen wurden nicht in Echtzeit synchronisiert, die Berechtigung "Kontakte" ist auf "immer zulassen" eingestellt</string>
   <string name="weixin_info_summary">WeChat-Konto: %s. Zum Kopieren antippen.</string>
