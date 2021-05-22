@@ -324,6 +324,11 @@
   <string name="bottom_bar_more_quickreply">Schnellantwort</string>
   <string name="bottom_bar_more_share">Teilen</string>
   <string name="bottom_bar_no_quickreply_toast">Keine Schnellantwort</string>
+  <string name="broker_helper_manifest">Intent-Filter für AndroidManifest.xml</string>
+  <string name="broker_helper_package">Paketname, der bei der App-Registrierung eingegeben werden muss</string>
+  <string name="broker_helper_redirect">Umleitungs-URI zur Konfiguration der json-Datei</string>
+  <string name="broker_helper_signature">Signatur, die bei der App-Registrierung eingegeben werden muss</string>
+  <string name="broker_processing">Broker wird bearbeitet</string>
   <string name="calendar_remind_dialog_title">Zum Kalender hinzufügen</string>
   <string name="calendar_remind_gridview_month_later">Nächsten Monat</string>
   <string name="calendar_remind_gridview_nextweek">Nächste Woche</string>
@@ -1565,6 +1570,9 @@ App öffnen und Bestätigungs-SMS manuell senden."</string>
   <string name="thursday">Donnerstag</string>
   <string name="thursday_short">Do</string>
   <string name="thursday_shortest">D</string>
+  <string name="time_picker_dialog_title">Zeit einstellen</string>
+  <string name="time_picker_label_hour">Std</string>
+  <string name="time_picker_label_minute">Min</string>
   <string name="tip_cannot_switchview_in_unread_folder">Im zusammengefassten Ungelesenmodus kann die Ansicht nicht gewechselt werden</string>
   <string name="title_activity_about">Über</string>
   <string name="to">An</string>

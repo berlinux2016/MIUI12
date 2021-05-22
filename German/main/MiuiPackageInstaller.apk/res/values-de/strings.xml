@@ -113,6 +113,7 @@
   <string name="caller_app">Berechtigungsanfrage von %1$s</string>
   <string name="cancel">Abbrechen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
+  <string name="close">Schließen</string>
   <string name="copy">Kopieren</string>
   <string name="cta_button_text_cancel">Beenden</string>
   <string name="cta_dialog_msg">Sicherheit erfordert eine Internetverbindung, um Updates zu erhalten, sowie Standortzugriff, um normal arbeiten zu können</string>
