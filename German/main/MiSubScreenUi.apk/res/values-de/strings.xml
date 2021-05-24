@@ -248,10 +248,10 @@ dd. MM."</string>
   <string name="subscreen_other_dialog_cancel">Abbrechen</string>
   <string name="subscreen_other_dialog_confirm">Einschalten</string>
   <string name="subscreen_other_dialog_goto">Hinzufügen</string>
-  <string name="subscreen_other_dialog_message">Super-Stromsparmodus deaktiviert den Hauptbildschirm. Sie können dann mit dem 2. Bildschirm nur die Uhrzeit überprüfen, Anrufe annehmen und Ihren Notfallkontakt anrufen. Ihr Gerät wird bis zu %d Tage mit einer einzigen Aufladung funktionieren, wenn der Super-Stromsparmodus eingeschaltet ist. Den Super-Stromsparmodus jetzt einschalten?</string>
+  <string name="subscreen_other_dialog_message">Super-Stromsparmodus deaktiviert den Hauptbildschirm.Sie können dann nur die Uhrzeit prüfen, Anrufe annehmen und Ihren zuvor festgelegten Notfallkontakt anrufen. Unsere Tests zeigen, dass Ihr Gerät bei aktiviertem Super-Stromsparmodus evtl. bis zu %d Tage mit einer einzigen Ladung arbeiten kann. Diese Zeitspanne kann jedoch wegen verschiedener Faktoren kürzer sein. Super-Stromsparmodus jetzt einschalten?</string>
   <string name="subscreen_other_dialog_title">Super-Stromsparmodus</string>
   <string name="subscreen_other_next_dialog_message">Sie müssen einen Notfallkontakt hinzufügen, bevor Sie den Super-Stromsparmodus benutzen. Jetzt hinzufügen?</string>
-  <string name="subscreen_other_wilderness_summary">Super-Stromsparmodus deaktiviert den Hauptbildschirm. Sie können dann mit dem 2. Bildschirm nur die Uhrzeit überprüfen, Anrufe annehmen und Ihren Notfallkontakt anrufen. Ihr Gerät wird bis zu %d Tage mit einer einzigen Aufladung funktionieren, wenn der Super-Stromsparmodus eingeschaltet ist.</string>
+  <string name="subscreen_other_wilderness_summary">Super-Stromsparmodus deaktiviert den Hauptbildschirm. Sie können dann nur die Uhrzeit prüfen, Anrufe annehmen und Ihren zuvor festgelegten Notfallkontakt anrufen. Unsere Tests zeigen, dass Ihr Gerät bei aktiviertem Super-Stromsparmodus evtl. bis zu %d Tage mit einer einzigen Ladung arbeiten kann. Diese Zeitspanne kann jedoch wegen verschiedener Faktoren kürzer sein.</string>
   <string name="subscreen_other_wilderness_title">Super-Stromsparmodus</string>
   <string name="subscreen_settings_fail">Aktion konnte nicht abgeschlossen werden</string>
   <string name="subscreen_settings_mode">Danach ausschalten</string>
