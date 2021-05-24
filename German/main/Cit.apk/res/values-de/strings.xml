@@ -708,6 +708,7 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
   <string name="cit_touch_calib_pass">Touch-Kalibrierung bestanden, bitte normal verwenden</string>
   <string name="cit_touch_calib_summary">Nächster Schritt führt die Touch-Kalibrierung durch, drücken Sie die Bestätigen-Taste und berühren Sie danach nicht den Bildschirm, warten Sie auf den Erfolgshinweis der Kalibrierung</string>
   <string name="cit_touch_calib_title">Touch-Kalibrierung</string>
+  <string name="cit_touch_panel_nead_pencil_tip">Bitte verwenden Sie wieder den Stift zum Testen</string>
   <string name="cit_touch_panel_test_title">Berührungssensor</string>
   <string name="cit_tpdump_check_summary">Bitte auf die Schaltfläche tippen, um die Touch-Anzeigefunktion zu aktivieren oder zu deaktivieren</string>
   <string name="cit_tpdump_close">Anzeige deaktivieren</string>
