@@ -298,7 +298,7 @@
   <string name="menu_add_description">Notiz hinzufügen</string>
   <string name="menu_add_folder">Zu einem Ordner hinzufügen</string>
   <string name="menu_add_folder_description">Ordner hinzufügen</string>
-  <string name="menu_add_handwrite_description">Handschriftlichen Notiz hinzufügen</string>
+  <string name="menu_add_handwrite_description">Handschriftliche Notiz hinzufügen</string>
   <string name="menu_create_folder">Neuer Ordner</string>
   <string name="menu_delete">Löschen</string>
   <string name="menu_delete_forever">Endgültig löschen</string>

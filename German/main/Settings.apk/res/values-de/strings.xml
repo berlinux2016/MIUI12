@@ -14,11 +14,11 @@
   <string name="dark_mode_auto_time_title">Benutzerdefinierter Zeitraum</string>
   <string name="dark_mode_day_night_mode_summary">Nach Sonnenuntergang automatisch in den Dark Mode wechseln</string>
   <string name="dark_mode_day_night_mode_title">Gute Nacht mit Dark Mode</string>
-  <string name="dark_mode_sunrise_sunset_notify_summary">Dark Mode Sonnenauf-/untergang Benachrichtigungsübersicht</string>
-  <string name="dark_mode_sunrise_sunset_notify_title">Dark Mode Sonnenauf-/untergang Benachrichtigungstitel</string>
+  <string name="dark_mode_sunrise_sunset_notify_summary">Dark Mode Sonnenauf-/-untergang Benachrichtigungsübersicht</string>
+  <string name="dark_mode_sunrise_sunset_notify_title">Dark Mode Sonnenauf-/-untergang Benachrichtigungstitel</string>
   <string name="dark_mode_time_settings">Dark Mode Zeitplan</string>
   <string name="dark_mode_time_settings_summary">Zusammenfassung Dark Mode Zeiteinstellungen</string>
-  <string name="headphone_assisted_summary">Telefonmikrofon an Ihr angeschlossenen Bluetooth-Kopfhörer übertragen</string>
+  <string name="headphone_assisted_summary">Telefonmikrofon an Ihren angeschlossenen Bluetooth-Kopfhörer übertragen</string>
   <string name="headphone_assisted_title">Live-In-Ear-Monitor</string>
   <string name="maintenance_title">Reparaturmodus</string>
   <string name="miui_sos_remind_sendnow_donot_send">Nicht senden</string>
@@ -5725,7 +5725,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="nsd_quick_toggle_title">Netzwerkerkennungsdienst</string>
   <string name="number_of_device_admins_none">Keine aktiven Apps</string>
   <string name="oaid_apps_summary">Festlegen, ob die App die virtuelle Identitäts-ID erhalten darf</string>
-  <string name="oaid_apps_title">Virtuelle Identitäts-ID-Autorisierungsverwaltung</string>
+  <string name="oaid_apps_title">Autorisierungsverwaltung virtuelle Identitäts-ID</string>
   <string name="oaid_string">"Aktuelle virtuelle ID:
 %1s"</string>
   <string name="oem_lock_info_message">Starten Sie das Gerät neu, um den Geräteschutz zu aktivieren</string>

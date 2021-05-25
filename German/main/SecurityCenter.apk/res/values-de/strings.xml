@@ -23,7 +23,7 @@
   <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
   <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
 
-  <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzwerks werden. Nachdem seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
+  <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzwerks werden. Wenn seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
   <string name="ew_monitor_exit">Abmelden</string>
   <string name="ew_monitor_exit_content">Hallo Freiwilliger mit Nummer %s! Ihr Gerät kann seismische Aktivitäten überwachen und Daten sammeln, die helfen würden, frühzeitige Erdbebenwarnungen auszugeben. Trotzdem abmelden?</string>
   <string name="ew_monitor_exit_title">Achtung</string>
@@ -42,9 +42,9 @@
   <string name="ew_monitor_summary2">Erdbebenalarmbezogene Informationen melden.</string>
   <string name="ew_monitor_summary3">Mehr Menschen helfen, Erdbebenwarnungen schneller zu erhalten.</string>
   <string name="ew_monitor_support">Technische Unterstützung durch das Chengdu Hi-tech Disaster Reduction Institute</string>
-  <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi/Redmi-Geräten und MIUI-Versionen unterstützt.</string>
+  <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi-/Redmi-Geräten und MIUI-Versionen unterstützt.</string>
   <string name="ew_monitor_thanks_tips">"Vielen Dank, für die
-freiwillige Erdbebenüberwachun Nummer %s!"</string>
+freiwillige Erdbebenüberwachung, Nummer %s!"</string>
   <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
   <string name="ew_monitor_title_spilt">"Freiwillige
 Erdbebenüberwachung"</string>
