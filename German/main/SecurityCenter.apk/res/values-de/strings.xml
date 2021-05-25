@@ -23,31 +23,28 @@
   <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
   <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
 
-  <string name="ew_monitor_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
-  <string name="ew_monitor_exit">Von der freiwilligen Erdbebenüberwachung abmelden</string>
-  <string name="ew_monitor_exit_content">Freiwillige Helfer bei der Erdbebenüberwachung helfen mehr Menschen, schneller Informationen über Erdbeben zu erhalten. Vielen Dank (Teilnehmer %S) für Ihren Beitrag zur Erdbebenüberwachung. Sind Sie sicher, dass Sie sich von freiwilligen Erdbebenüberwachung zurückziehen wollen?</string>
-  <string name="ew_monitor_exit_title">Eingabeaufforderung</string>
-  <string name="ew_monitor_have_been">I have become</string>
-  <string name="ew_monitor_info_title">Was ist eine Erdbebenüberwachung?</string>
-  <string name="ew_monitor_join_number">Teilnehmeranzahl</string>
-  <string name="ew_monitor_join_path">Pfad beitreten: Xiaomi Telefonmanager für freiwillige Erdbebenüberwachung</string>
+  <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzwerks werden. Nachdem seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
+  <string name="ew_monitor_exit">Abmelden</string>
+  <string name="ew_monitor_exit_content">Hallo Freiwilliger mit Nummer %s! Ihr Gerät kann seismische Aktivitäten überwachen und Daten sammeln, die helfen würden, frühzeitige Erdbebenwarnungen auszugeben. Trotzdem abmelden?</string>
+  <string name="ew_monitor_exit_title">Achtung</string>
+  <string name="ew_monitor_have_been">"Ich bin stolz darauf, ein "</string>
+  <string name="ew_monitor_info_title">Wie funktioniert das?</string>
+  <string name="ew_monitor_join_number">Anzahl der Freiwilligen</string>
+  <string name="ew_monitor_join_path">Mit einem Xiaomi-Gerät am Programm teilnehmen: Sicherheit > Erdbebenwarnung > Freiwillige Erdbebenüberwachung</string>
   <string name="ew_monitor_my_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
-  <string name="ew_monitor_number_prex">Teilnehmer. %s</string>
-  <string name="ew_monitor_open">Jetzt beitreten</string>
+  <string name="ew_monitor_number_prex">Nummer %s</string>
+  <string name="ew_monitor_open">Beitreten</string>
   <string name="ew_monitor_read_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und stimme zu.</Data></string>
-  <string name="ew_monitor_share">Mit Freunden teilen</string>
-  <string name="ew_monitor_slogan">"Bei der Erdbebenüberwachung mitmachen,
-um ein sicheres China mit aufzubauen"</string>
-  <string name="ew_monitor_summary1">"Telefone sind
-auch Erdbebenwächter"</string>
-  <string name="ew_monitor_summary2">"Über Erdbeben berichten
-und Überwachungsnetzwerk aufbauen"</string>
-  <string name="ew_monitor_summary3">"Mehr Menschen helfen
-Erdbebeninformationen schneller zu erhlten"</string>
-  <string name="ew_monitor_support">Gemeinsame Forschung und Entwicklung zwischen Xiaomi und Chengdu High-Tech Disaster Reduction Research Institute</string>
-  <string name="ew_monitor_support_rom">*Einige Xiaomi/Redmi-Telefone und MIUI-Versionen unterstützen diese Funktion</string>
-  <string name="ew_monitor_thanks_tips">"Danke, dass Sie der %s, für
-die Freiwillige Erdbeben-Überwachung sind"</string>
+  <string name="ew_monitor_share">Teilen</string>
+  <string name="ew_monitor_slogan">"An unserem Erdbeben-
+Überwachungsprogramm teilnehmen"</string>
+  <string name="ew_monitor_summary1">Ihr Gerät zur seismischen Überwachung verwenden.</string>
+  <string name="ew_monitor_summary2">Erdbebenalarmbezogene Informationen melden.</string>
+  <string name="ew_monitor_summary3">Mehr Menschen helfen, Erdbebenwarnungen schneller zu erhalten.</string>
+  <string name="ew_monitor_support">Technische Unterstützung durch das Chengdu Hi-tech Disaster Reduction Institute</string>
+  <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi/Redmi-Geräten und MIUI-Versionen unterstützt.</string>
+  <string name="ew_monitor_thanks_tips">"Vielen Dank, für die
+freiwillige Erdbebenüberwachun Nummer %s!"</string>
   <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
   <string name="ew_monitor_title_spilt">"Freiwillige
 Erdbebenüberwachung"</string>
