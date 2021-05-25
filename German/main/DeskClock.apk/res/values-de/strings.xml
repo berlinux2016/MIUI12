@@ -106,6 +106,7 @@
   <string name="clock_bg_button_setting_title">Hintergrundfarbe</string>
   <string name="close">Schließen</string>
   <string name="close_alarm">Beenden</string>
+  <string name="close_alarm_new">Stopp</string>
   <string name="common_settings">Einstellungen</string>
   <string name="common_timer_selector">Timer wählen</string>
   <string name="confirm">Bestätigen</string>

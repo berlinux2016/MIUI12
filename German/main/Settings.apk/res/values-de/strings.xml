@@ -10,6 +10,24 @@
   <string name="permission_records">Berechtigungen verwenden</string>
   <string name="permission_records_summary">Zusammenfassung, wie Apps Berechtigungen verwenden</string>
 
+  <string name="dark_mode_auto_time_summary">Dark Mode für einen benutzerdefinierten Zeitraum einschalten</string>
+  <string name="dark_mode_auto_time_title">Benutzerdefinierter Zeitraum</string>
+  <string name="dark_mode_day_night_mode_summary">Nach Sonnenuntergang automatisch in den Dark Mode wechseln</string>
+  <string name="dark_mode_day_night_mode_title">Gute Nacht mit Dark Mode</string>
+  <string name="dark_mode_sunrise_sunset_notify_summary">Dark Mode Sonnenauf-/untergang Benachrichtigungsübersicht</string>
+  <string name="dark_mode_sunrise_sunset_notify_title">Dark Mode Sonnenauf-/untergang Benachrichtigungstitel</string>
+  <string name="dark_mode_time_settings">Dark Mode Zeitplan</string>
+  <string name="dark_mode_time_settings_summary">Zusammenfassung Dark Mode Zeiteinstellungen</string>
+  <string name="headphone_assisted_summary">Telefonmikrofon an Ihr angeschlossenen Bluetooth-Kopfhörer übertragen</string>
+  <string name="headphone_assisted_title">Live-In-Ear-Monitor</string>
+  <string name="maintenance_title">Reparaturmodus</string>
+  <string name="miui_sos_remind_sendnow_donot_send">Nicht senden</string>
+  <string name="privacy_policy">Datenschutzerklärung</string>
+  <string name="sar">RF-Belastungsinformation</string>
+  <string name="three_gesture_horizontal">Horizontal mit %d Fingern wischen</string>
+  <string name="three_gesture_pc_mode">PC-Modus einschalten</string>
+  <string name="user_agreement">Nutzungsbedingungen</string>
+
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
@@ -3375,9 +3393,9 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="force_resizable_activities_summary">Größenänderung von Aktivitäten für Multifenster unabhängig von vorgeschriebenen Werten erzwingen</string>
   <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
   <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
-  <string name="force_stop">Stop erzwingen</string>
+  <string name="force_stop">Stopp erzwingen</string>
   <string name="force_stop_dlg_text">Beenden der App erzwingen kann zu unerwünschtem Verhalten führen</string>
-  <string name="force_stop_dlg_title">Stop erzwingen?</string>
+  <string name="force_stop_dlg_title">Stopp erzwingen?</string>
   <string name="force_touch">3D-Touch</string>
   <string name="force_touch_demo">Demo zeigen</string>
   <string name="force_touch_enable">3D-Touch aktivieren</string>
@@ -5623,6 +5641,8 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="nsd_quick_toggle_summary">Apps auf anderen Geräten erlauben, Apps auf diesem Gerät zu finden</string>
   <string name="nsd_quick_toggle_title">Netzwerkerkennungsdienst</string>
   <string name="number_of_device_admins_none">Keine aktiven Apps</string>
+  <string name="oaid_apps_summary">Festlegen, ob die App die virtuelle Identitäts-ID erhalten darf</string>
+  <string name="oaid_apps_title">Virtuelle Identitäts-ID-Autorisierungsverwaltung</string>
   <string name="oaid_string">"Aktuelle virtuelle ID:
 %1s"</string>
   <string name="oem_lock_info_message">Starten Sie das Gerät neu, um den Geräteschutz zu aktivieren</string>

@@ -20,6 +20,11 @@
   <string name="scan_install_prompt_loading">Scanner installieren…</string>
   <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
 
+  <string name="time_freeze_action_end_tip">Auf die Taste tippen, um das Standbild zu beenden</string>
+  <string name="time_freeze_action_start_tip">Auf die Taste tippen, um den Hintergrund einzufrieren</string>
+  <string name="time_freeze_adjust_button_title">Einstelleffekt</string>
+  <string name="time_freeze_clipbox_tint">Immer noch</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -1017,7 +1022,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="local_music">Lokale Musik</string>
   <string name="location">Standort</string>
   <string name="locations">Standorte</string>
-  <string name="location_access_allow">Erlauben</string>
+  <string name="location_access_allow">Zustimmen</string>
   <string name="location_permission_des">Standortinformationenen zu einem Foto oder Video hinzufühen</string>
   <string name="location_permission_not_ask_again">Kamera den Standortzugriff in den Einstellungen erlauben</string>
   <string name="location_permission_not_ask_again_go_to_settings">Erlauben</string>
