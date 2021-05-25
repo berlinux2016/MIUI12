@@ -18,7 +18,6 @@
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="actionbar_button_up_description">Zurück</string>
-  <string name="actionbar_button_up_description">Zurück</string>
   <string name="afternoon">Nachmittag</string>
   <string name="cancel">Abbrechen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
@@ -79,7 +78,6 @@
   <string name="fmt_weekday_date_timezone">W, D z</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
-  <string name="friday">Freitag</string>
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
