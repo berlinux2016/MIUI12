@@ -4495,6 +4495,7 @@ Wollen Sie es übernehmen?"</string>
   <string name="vb_quick_func_screening">Übertragung</string>
   <string name="vb_settings">Einstellungen</string>
   <string name="vb_ve_settings_display_style_tips">*Diese Effekte werden auf den gesamten Bildschirm angewendet</string>
+  <string name="vb_ve_settings_display_style_tips_new">*Effekte werden nur auf den Videowiedergabebereich angewendet</string>
   <string name="vb_ve_settings_pic_border_stronger">Verbesserte Konturen</string>
   <string name="vb_ve_settings_picture_stronger">Verbesserte Animationen</string>
   <string name="vb_video_effects_display_style">Stil</string>
