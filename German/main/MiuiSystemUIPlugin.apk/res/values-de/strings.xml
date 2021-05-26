@@ -114,6 +114,15 @@
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
+  <string name="hearing_assist_bluetooth_enable_tips_cancle">Abbrechen</string>
+  <string name="hearing_assist_bluetooth_enable_tips_start">Einschalten</string>
+  <string name="hearing_assist_bluetooth_enable_tips_summary">Live-In-Ear-Monitor funktioniert, wenn Bluetooth eingeschaltet ist. Bluetooth jetzt einschalten?</string>
+  <string name="hearing_assist_bluetooth_enable_tips_title">Bluetooth einschalten</string>
+  <string name="hearing_assist_transmission_label">Live-In-Ear-Monitor</string>
+  <string name="hearing_assist_transmission_tips_cancel">Abbrechen</string>
+  <string name="hearing_assist_transmission_tips_continue">Einschalten</string>>
+  <string name="hearing_assist_transmission_tips_summary">Live-In-Ear-Monitor überträgt das Telefonmikro an die angeschlossenen Bluetooth-Kopfhörer. Jetzt einschalten?</string>
+  <string name="hearing_assist_transmission_tips_title">Live-In-Ear-Monitor</string>
   <string name="icon_content_description">Dialogsymbol</string>
   <string name="loading">Status unbekannt</string>
   <string name="material_slider_range_end">Bereichsende,</string>

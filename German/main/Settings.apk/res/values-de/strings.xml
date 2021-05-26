@@ -7595,6 +7595,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="smart_battery_manager_title">Akkumanager</string>
   <string name="smart_battery_summary">Akku für nicht oft genutzte Apps begrenzen</string>
   <string name="smart_battery_title">Apps automatisch verwalten</string>
+  <string name="smart_home_select_smart_device">App zur Verwaltung von Smart-Home-Geräten</string>
   <string name="smart_home_title">Smart Home</string>
   <string name="smart_home_value_none">Keine</string>
   <string name="smart_home_value_unknown">Unbekannt</string>
@@ -8066,6 +8067,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="style_and_wallpaper_settings_title">Stile &amp; Hintergrundbilder</string>
   <string name="style_suggestion_summary">Verschiedene Stile, Hintergrundbilder, Uhren und mehr ausprobieren</string>
   <string name="style_suggestion_title">Gestalten Sie Ihr Pixel</string>
+  <string name="subscreen_title">Rückseitige Anzeige</string>
   <string name="subscription_available">Verfügbar</string>
   <string name="succ_description">Erfolgreich</string>
   <string name="succeed">Abgeschlossen</string>
@@ -8796,8 +8798,11 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="uplmn_settings_summary">Bevorzugte PLMNs in Prioritätsreihenfolge festlegen</string>
   <string name="uplmn_settings_title">Benutzergesteuertes PLMN</string>
   <string name="upload_audio_log">Audio-Protokollierung starten</string>
-  <string name="upload_debug_log_summary">Nutzungsstatistiken, die uns helfen, Probleme zu lokalisieren und zu lösen, können Ihre persönlichen Daten enthalten.</string>
-  <string name="upload_debug_log_title">Benutzererfahrungen</string>
+  <string name="upload_debug_log_detail">"Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.
+Die Daten, die Sie senden, enthalten allgemeine Infos über Ihr Gerät und wie Sie es verwenden (z. B. Akkustand, System- und App-Aktivität und Fehler). Die Daten werden verwendet, um MIUI-Geräte zu verbessern.
+Deaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigten Infos zu senden."</string>
+  <string name="upload_debug_log_summary">Daten teilen, um MIUI zu verbessern</string>
+  <string name="upload_debug_log_title">Nutzung und Diagnose</string>
   <string name="upload_gps_log">GPS-Protokollierung starten</string>
   <string name="upload_modem_log">Modem-Protokollierung starten</string>
   <string name="usage">Verwendung</string>

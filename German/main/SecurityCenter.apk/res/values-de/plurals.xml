@@ -197,6 +197,10 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
     <item quantity="other">%d Apps durchsuchen</item>
     <item quantity="one">%d App durchsuchen</item>
   </plurals>
+  <plurals name="find_leak_risk">
+    <item quantity="other">%d Datenschutzrisiken</item>
+    <item quantity="one">%d Datenschutzrisiko</item>
+  </plurals>
   <plurals name="first_aid_card_float_window_summary">
     <item quantity="other">%d Apps werden evtl. falsch angezeigt. Popup-Benachrichtigungen einschränken.</item>
     <item quantity="one">%d App wird evtl. falsch angezeigt. Popup-Benachrichtigung einschränken.</item>
