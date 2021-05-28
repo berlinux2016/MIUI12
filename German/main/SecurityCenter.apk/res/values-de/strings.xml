@@ -3134,7 +3134,7 @@ Stromverbrauch"</string>
   <string name="pp_permission_action_virtual_detail">Berechtigungen erteilen, aber Apps leere Daten anstelle von persönlichen Infos geben</string>
   <string name="pp_permission_settings">Berechtigungen</string>
   <string name="pp_privacy_input_tips">Tastatur schützen</string>
-  <string name="pp_privacy_protection">Privatsphäre schützen</string>
+  <string name="pp_privacy_protection">Schutz</string>
   <string name="pp_privacy_protection_function">Schutzfunktionen für Privatsphäre</string>
   <string name="pp_privacy_protection_lab">Datenschutzlabor</string>
   <string name="pp_privacy_protection_lab_summary">Halten Sie Ihre Daten privat</string>
@@ -3159,7 +3159,7 @@ Stromverbrauch"</string>
   <string name="pp_special_permission_settings">Spezielle Berechtigungen</string>
   <string name="pp_special_permission_settings_detail">Steuern, wie Apps spezielle Berechtigungen verwenden</string>
   <string name="pp_storage_msg">Speicher</string>
-  <string name="pp_understanding_privacy">Privatsphäre verstehen</string>
+  <string name="pp_understanding_privacy">Erkennen</string>
   <string name="pp_virtual_identity_manager">Virtuelle ID</string>
   <string name="pref_about_traffic_title">Datennutzungseinstellungen</string>
   <string name="pref_adjust_data_usage">Mobilfunkanbieter-Nachrichtenvorlage</string>
