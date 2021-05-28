@@ -1516,7 +1516,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="first_settings_share_enable">Plaketten \"Sicheres Teilen\" hinzufügen</string>
   <string name="first_settings_share_enable_subtitle">Elemente, die Sie auf WeChat teilen, erscheinen mit einer MIUI-Plakette</string>
   <string name="first_settings_subtitle">Hier sind die sicheren Elemente für die gemeinsame Nutzung, die Ihnen zur Verfügung stehen:</string>
-  <string name="first_settings_title">Ihre Privatsphäre schützen</string>
+  <string name="first_settings_title">Privatsphäre schützen</string>
   <string name="five_percent_total_pkg">%s (5%% der monatlichen Daten)</string>
   <string name="fixed_cellular_data_quota_monthly">Monatliches Datenlimit</string>
   <string name="fixed_package_tips">Einen festen monatlichen Datenverbrauch genießen. Wenn Sie diesen überschreiten, entstehen Ihnen zusätzliche Kosten.</string>
@@ -2011,7 +2011,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
   <string name="intl_app_manager_card_permission_title">Datenschutz &amp; Berechtigungen</string>
   <string name="intl_perm_intro_message">Tippen, um Berechtigungseinstellungen anzupassen, die Datenlecks vermeiden</string>
   <string name="intl_perm_notification_content">Berechtigungseinstellungen anpassen</string>
-  <string name="intl_perm_notification_title">Ihre Privatsphäre schützen</string>
+  <string name="intl_perm_notification_title">Privatsphäre schützen</string>
   <string name="intl_perm_privacy_control_calendar">App kann nur auf Kalendereinträge zugreifen oder diese bearbeiten, während Sie sie verwenden.</string>
   <string name="intl_perm_privacy_control_calllog">App kann nur auf die Anrufliste zugreifen oder diesen bearbeiten, während Sie sie verwenden.</string>
   <string name="intl_perm_privacy_control_camera">App kann nur Fotos oder Videos aufnehmen, während Sie sie verwenden.</string>
