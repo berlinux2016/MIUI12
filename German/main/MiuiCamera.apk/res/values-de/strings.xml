@@ -660,11 +660,12 @@ auswahl"</string>
 ausrichten und verbessern"</string>
   <string name="document_mode_use_hint_text_title">Dokumente scannen</string>
   <string name="document_strengthen">Verbessern</string>
-  <string name="dolly_zoom_capture_tip1">Platzieren Sie Ihr Motiv im Rahmen und halten Sie das Gerät mindestens %d m entfernt</string>
-  <string name="dolly_zoom_capture_tip2">Bewegen Sie das Gerät gleichmäßig von Ihrem Motiv weg</string>
+  <string name="dolly_zoom_capture_tip1">Platzieren Sie Ihr Motiv im Rahmen</string>
+  <string name="dolly_zoom_capture_tip2">Halten Sie Ihr Motiv in der Mitte und bewegen Sie das Gerät gleichmäßig weg</string>
   <string name="dolly_zoom_capture_tip3">Anschluss an das Motiv verloren. Von vorne beginnen.</string>
   <string name="dolly_zoom_capture_tip4">Sie haben das Gerät zu weit weg bewegt. Von vorne beginnen.</string>
   <string name="dolly_zoom_capture_tip5">Video wurde nicht gespeichert</string>
+  <string name="dolly_zoom_capture_tip6">Bewegen Sie Ihr Motiv in die Mitte des Bildes</string>
   <string name="dolly_zoom_guide_tip1">Stellen Sie sicher, dass zwischen Ihrem Motiv und dem Hintergrund genügend Platz ist.</string>
   <string name="dolly_zoom_guide_tip10">Und noch mehr!</string>
   <string name="dolly_zoom_guide_tip2">Versuchen Sie, große Flächen mit Volltonfarben zu vermeiden.</string>
