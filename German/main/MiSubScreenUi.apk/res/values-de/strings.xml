@@ -31,7 +31,6 @@
   <string name="alarm_close">Zum Ausschalten nach oben schieben</string>
   <string name="alarm_later">Schlummern</string>
   <string name="align_type">Ausrichtung</string>
-  <string name="am">morgens</string>
   <string name="aod_component">Always-On-Display</string>
   <string name="aod_lock_screen_date">EE, dd. MM.</string>
   <string name="aod_lock_screen_date_v">"EE,
@@ -209,7 +208,6 @@ dd. MM."</string>
   <string name="page_time_format_string">dd.MM.yyyy</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
   <string name="please_input_signature">Signatur eingeben</string>
-  <string name="pm">Abends</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert.</string>
   <string name="rapid_charge_mode_tip">Schnellladen</string>
   <string name="saturday">Samstag</string>

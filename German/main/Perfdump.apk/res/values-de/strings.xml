@@ -13,7 +13,6 @@ Perfdump Verwendung:
   <string name="action_misc_setting">Einstellung Sonstiges</string>
   <string name="action_other_log_setting">Einstellung andere Protokolle</string>
   <string name="action_trace_setting">Einstellung Systrace</string>
-  <string name="am">Aktivitätsmanager</string>
   <string name="app">App</string>
   <string name="auto_save_mode">Automatikmodus [Spiele, TV-out, TouchLatency:Ball]</string>
   <string name="binder_driver">Binder-Treiber</string>
@@ -40,7 +39,6 @@ Perfdump Verwendung:
   <string name="memreclaim">Speicherrückgewinnung</string>
   <string name="other_log_hint">Weitere Protokolle zusammen mit Systrace speichern</string>
   <string name="pagecache">Seiten-Cache</string>
-  <string name="pm">Paketmanager</string>
   <string name="power">Energiemanagement</string>
   <string name="regulators">Regulatoren</string>
   <string name="res">Laden von Ressourcen</string>
