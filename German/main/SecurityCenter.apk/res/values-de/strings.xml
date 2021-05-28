@@ -1516,7 +1516,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="first_settings_share_enable">Plaketten \"Sicheres Teilen\" hinzufügen</string>
   <string name="first_settings_share_enable_subtitle">Elemente, die Sie auf WeChat teilen, erscheinen mit einer MIUI-Plakette</string>
   <string name="first_settings_subtitle">Hier sind die sicheren Elemente für die gemeinsame Nutzung, die Ihnen zur Verfügung stehen:</string>
-  <string name="first_settings_title">Privatsphäre schützen</string>
+  <string name="first_settings_title">Ihre Privatsphäre schützen</string>
   <string name="five_percent_total_pkg">%s (5%% der monatlichen Daten)</string>
   <string name="fixed_cellular_data_quota_monthly">Monatliches Datenlimit</string>
   <string name="fixed_package_tips">Einen festen monatlichen Datenverbrauch genießen. Wenn Sie diesen überschreiten, entstehen Ihnen zusätzliche Kosten.</string>
