@@ -227,7 +227,6 @@
   <string name="notification_control_center">Benachrichtigungen &amp; Kontrollzentrum</string>
   <string name="online">Online</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
-  <string name="pm">PM</string>
   <string name="power_off">Ausschalten</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="quick_controls_subtitle">Steuerelemente für Ihre angeschlossenen Geräte hinzufügen</string>
