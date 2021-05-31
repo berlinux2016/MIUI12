@@ -6856,8 +6856,9 @@ App-Pinning verwenden: \u0009
   <string name="screen_settings">Sperrbildschirm</string>
   <string name="screen_shot">Screenshot aufnehmen</string>
   <string name="screen_timeout">Ruhezustand</string>
+  <string name="screen_timeout_subtitle">Bei Anzeige statischer Inhalte über einen längeren Zeitraum können die Farben ungleichmäßig werden</string>
   <string name="screen_timeout_summary">Nach %1$s ohne Aktivität</string>
-  <string name="screen_timeout_title">Standbymodus</string>
+  <string name="screen_timeout_title">Bildschirm automatisch sperren</string>
   <string name="screen_usage_summary">Zeitraum, in dem der Bildschirm seit der vollen Ladung eingeschaltet ist</string>
   <string name="screen_zoom_conversation_message_2">Hey, wollen Sie Kaffee holen und heute mal abhängen?</string>
   <string name="screen_zoom_conversation_message_3">Hört sich großartig an. Ich kenne einen guten Ort, nicht allzu weit von hier.</string>
@@ -8153,6 +8154,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="switch_headset_anti_lost_title">Warnung bei fehlendem Ohrhörer</string>
   <string name="switch_off_text">Aus</string>
   <string name="switch_on_text">An</string>
+  <string name="switch_power_sound">Ton beim Laden</string>
   <string name="switch_screen_button_order">Tasten spiegeln</string>
   <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
   <string name="switch_select_to_speak_on">Zum Sprechen auswählen</string>

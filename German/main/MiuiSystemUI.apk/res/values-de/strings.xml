@@ -990,6 +990,7 @@ innerhalb des Kreises befindet"</string>
   <string name="face_unlock_success_show_message_toast">Benachrichtigungen werden auf Sperrbildschirm angezeigt</string>
   <string name="face_unlock_success_stay_screen_msg">Auf Sperrbildschirm bleiben, wenn Ihr Gesicht geprüft wurde. Hochwischen, um Startbildschirm zu öffnen.</string>
   <string name="face_unlock_success_stay_screen_title">Nach Entsperrung auf Sperrbildschirm bleiben</string>
+  <string name="face_unlock_swipe_up_retry">Nach oben wischen, um es erneut zu versuchen</string>
   <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
   <string name="fake_cell_alert_detect_error">Das wurde nicht von einer gefälschten Basiszelle geschickt.</string>
   <string name="finger_error_single_mode">Fingerabdruckscanner im Einhandmodus verwenden nicht möglich. Einhandmodus beenden und erneut versuchen.</string>
