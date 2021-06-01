@@ -6138,12 +6138,12 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="preferred_media_app_summary">Musikplayer auswählen</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Bevorzugter Netzwerkmodus: CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Bevorzugter Netzwerkmodus: CDMA / EvDo</string>
-  <string name="preferred_network_mode_cdma_only_summary">Bevorzugter Netzwerkmodus: CDMA only</string>
+  <string name="preferred_network_mode_cdma_only_summary">Bevorzugter Netzwerkmodus: Nur CDMA</string>
   <string name="preferred_network_mode_cdma_summary">Bevorzugter Netzwerkmodus: CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Bevorzugter Netzwerktyp</string>
-  <string name="preferred_network_mode_evdo_only_summary">Bevorzugter Netzwerkmodus: EvDo only</string>
+  <string name="preferred_network_mode_evdo_only_summary">Bevorzugter Netzwerkmodus: Nur EvDo</string>
   <string name="preferred_network_mode_global_summary">Bevorzugter Netzwerkmodus: Global</string>
-  <string name="preferred_network_mode_gsm_only_summary">Bevorzugter Netzwerkmodus: GSM only</string>
+  <string name="preferred_network_mode_gsm_only_summary">Bevorzugter Netzwerkmodus: Nur GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Bevorzugter Netzwerkmodus: GSM / WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">Bevorzugter Netzwerkmodus: LTE/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Bevorzugter Netzwerkmodus: CDMA+LTE/EVDO</string>
@@ -6167,7 +6167,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="preferred_network_mode_nr_lte_tdscdma_summary">Bevorzugter Netzwerkmodus: NR/LTE/TDSCDMA</string>
   <string name="preferred_network_mode_nr_lte_tdscdma_wcdma_summary">Bevorzugter Netzwerkmodus: NR/LTE/TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_nr_lte_wcdma_summary">Bevorzugter Netzwerkmodus: NR/LTE/WCDMA</string>
-  <string name="preferred_network_mode_nr_only_summary">Bevorzugter Netzwerkmodus: NR only</string>
+  <string name="preferred_network_mode_nr_only_summary">Bevorzugter Netzwerkmodus: Nur NR</string>
   <string name="preferred_network_mode_summary">Netzwerkmodus ändern</string>
   <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Bevorzugter Netzwerkmodus: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_gsm_summary">Bevorzugter Netzwerkmodus: TDSCDMA / GSM</string>
@@ -6175,8 +6175,8 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="preferred_network_mode_tdscdma_summary">Bevorzugter Netzwerkmodus: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Bevorzugter Netzwerkmodus: TDSCDMA / WCDMA</string>
   <string name="preferred_network_mode_title">Bevorzugter Netzwerktyp</string>
-  <string name="preferred_network_mode_wcdma_only_summary">Bevorzugter Netzwerkmodus: WCDMA only</string>
-  <string name="preferred_network_mode_wcdma_perf_summary">Bevorzugter Netzwerkmodus: WCDMA preferred</string>
+  <string name="preferred_network_mode_wcdma_only_summary">Bevorzugter Netzwerkmodus: Nur WCDMA</string>
+  <string name="preferred_network_mode_wcdma_perf_summary">Bevorzugter Netzwerkmodus: WCDMA bevorzugt</string>
   <string name="preferred_network_offload_footer">Deaktiviertes Netzwerknamen-Broadcast verhindert, dass Drittanbieter Zugriff auf Ihre Netzwerkinformationen erhalten</string>
   <string name="preferred_network_offload_header">Netzwerknamen-Broadcast deaktivieren</string>
   <string name="preferred_network_offload_popup">Deaktivieren von Netzwerknamen-Broadcast wird die automatische Verbindung zu versteckten Netzwerken verhindern</string>
@@ -7087,7 +7087,7 @@ App-Pinning verwenden: \u0009
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach dem Antippen einklappen;einklappen;verstecken</string>
   <string name="search_status_bar_settings_toggle_position">Schalterpositionen;Schalter;Toggle;Toggles;Schalter ändern;Toggles ändern</string>
   <string name="search_storage_settings">Speicher;Speicherplatz</string>
-  <string name="search_sync_settings">Sync;Auto;WLAN only;Synchronisation;Synchronisierung;Automatisch;nur WLAN</string>
+  <string name="search_sync_settings">Sync;Auto;Synchronisation;Synchronisierung;Automatisch;nur WLAN</string>
   <string name="search_system_app_settings">System-Apps</string>
   <string name="search_theme_settings_title">Themen;Theme;Thema;Personalisierung;Personalisieren</string>
   <string name="search_title_font_settings">Schriftgröße;Schriftgewicht;Schriftstil</string>
