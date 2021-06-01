@@ -2541,6 +2541,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="numeric_settings_help_how_to_record">So legen Sie die PIN fest</string>
   <string name="oaid_reset_content_tip">Wenn Sie die virtuelle ID jetzt ausschalten, könnten einige Apps nicht mehr richtig funktionieren, ein Teil Ihrer App-Daten könnte verloren gehen oder unbrauchbar werden.</string>
   <string name="oaid_reset_final_tip">Virtuelle ID trotzdem ausschalten?</string>
+  <string name="oaid_apps_title">Virtuelle ID verwalten</string>
+  <string name="oaid_tips_content">Virtuelle IDs (OAID) können verwendet werden, um Ihr Verhalten zu verfolgen und Anzeigen für Sie zu personalisieren. Sie können auswählen, welche Apps auf Ihre virtuelle ID zugreifen dürfen. Beachten Sie, dass, wenn Sie den Zugriff einschränken, Anzeigenempfehlungen möglicherweise irrelevant werden oder Apps nicht mehr normal funktionieren können.</string>
   <string name="offline_voice_input">Offline-Spracheingabe</string>
   <string name="offline_voice_input_detail">Sie benötigen kein Internet für die Spracheingabe.</string>
   <string name="old_sdk_deny_warning">App ist nicht kompatibel mit den neuesten Android-Berechtigungsanforderungen. Verweigerte Berechtigungen können die Funktionsweise dieser App beeinflussen.</string>
@@ -2709,6 +2711,10 @@ Stromverbrauch"</string>
   <string name="pc_battery_history_rank_percent_menu_item">Prozent</string>
   <string name="pc_battery_history_total_consumption_title">Gesamte Leistungsaufnahme</string>
   <string name="pc_battery_history_usetime_title">Aktiv</string>
+  <string name="pc_hidemode_normal">Ausgeglichen</string>
+  <string name="pc_hidemode_performance">Leistung</string>
+  <string name="pc_hidemode_performance_title">Leistungsmodus</string>
+  <string name="pc_hidemode_power_save">Strom sparen</string>
   <string name="pc_install_manager">Installation via USB</string>
   <string name="pc_main_activity_back">Zurück</string>
   <string name="pc_main_battery_text_day">%1$s Min hinzugefügt, ca. %2$s T betriebsbereit</string>
@@ -2720,6 +2726,8 @@ Stromverbrauch"</string>
   <string name="pc_main_power_manager_hour_minute">%1$s Std %2$s Min bis voll geladen</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$s T %2$s Std betriebsbereit</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$s Std %2$s Min betriebsbereit</string>
+  <string name="pc_performance_mode_dialog_summary">Ihr Gerät kann für %s im Leistungsmodus arbeiten. Beachten Sie, dass der Leistungsmodus den Stromverbrauch erhöht und zu Überhitzung führen kann.</string>
+  <string name="pc_performance_mode_dialog_title">Leistungsmodus</string>
   <string name="pc_search_keywords_battery">Akku</string>
   <string name="pc_search_keywords_battery_save">Stromsparen</string>
   <string name="pc_search_keywords_battery_use">Akkuverbrauch</string>
@@ -4329,7 +4337,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="title_dark_mode">Einige Elemente werden nicht korrekt angezeigt</string>
   <string name="title_data_flow">Datennutzungskontrolle</string>
   <string name="title_data_flow_monitor">Datennutzungsüberwachung ist aktiviert</string>
-  <string name="title_dev_model_off">Entwickleroptionen sind ausgeschaltet</string>
+  <string name="title_dev_model_off">Entwickleroptionen sind aus</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
   <string name="title_device_not_root">Root-Zugriff wurde nicht gewährt</string>

@@ -1208,6 +1208,7 @@ Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
   <string name="invalid_pin2">%1$d- bis %2$d-stellige PIN2 eingeben</string>
   <string name="invalid_puk">%1$d- bis %2$d-stelligen PUK eingeben</string>
   <string name="invalid_puk2">%d-stelligen PUK2 eingeben</string>
+  <string name="invalid_secretcode_format_txt">Ungültiges Sicherheitscodeformat!</string
   <string name="ip_prefix_setting">IP-Vorwahlnummer</string>
   <string name="ip_prefix_setting_lable">IP-Vorwahlnummer (%s)</string>
   <string name="ip_prefix_setting_sum">IP-Vorwahlnummereinstellungen</string>

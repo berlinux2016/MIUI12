@@ -35,6 +35,8 @@
   <string name="autofill_service_name">Passwörter verwalten</string>
   <string name="back_double_tap">Nichts</string>
   <string name="back_triple_tap">Nichts</string>
+  <string name="battery_authentic_failed_button">Verstanden</string>
+  <string name="battery_authentic_failed_title">Achtung</string>
   <string name="bluetooth_close">Diese App hat Bluetooth ausgeschaltet</string>
   <string name="bluetooth_disable_notification_content">%s hat Bluetooth ausgeschaltet</string>
   <string name="bluetooth_disable_notification_title">Bluetooth ist aus</string>
@@ -187,6 +189,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="onehour">30 Min</string>
   <string name="open_close_tip_action">Verstanden</string>
   <string name="open_close_tip_content">Aktionsleiste gedrückt halten und hochwischen, um das Popup zu schließen</string>
+  <string name="other_ime">Weitere Tastaturen</string>
   <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
   <string name="package_delete_confirm_step_2">Nach der Deinstallation kann dies zu Systeminstabilität führen</string>
   <string name="package_delete_confirm_step_3">Sie können diese App nach dem Deinstallieren nicht mehr öffnen</string>

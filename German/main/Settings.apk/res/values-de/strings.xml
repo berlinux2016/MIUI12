@@ -1810,7 +1810,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="charge_animation_style_summary">Wählen Sie Ihren bevorzugten Ladeanimationsstil auf dem Sperrbildschirm</string>
   <string name="charge_animation_style_title">Aufladeanimation</string>
   <string name="charge_length_format">Vor %1$s</string>
-  <string name="charging_sounds_title">Ton bei Ladekabel an/ab</string>
+  <string name="charging_sounds_title">Ladetöne und Vibration</string>
   <string name="check_importance">Regeln für gruppierte Meldungen</string>
   <string name="check_importance_dialog_cancel">Abbrechen</string>
   <string name="check_update">Updates suchen</string>
@@ -5725,8 +5725,8 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="nsd_quick_toggle_summary">Apps auf anderen Geräten erlauben, Apps auf diesem Gerät zu finden</string>
   <string name="nsd_quick_toggle_title">Netzwerkerkennungsdienst</string>
   <string name="number_of_device_admins_none">Keine aktiven Apps</string>
-  <string name="oaid_apps_summary">Festlegen, ob die App die virtuelle Identitäts-ID erhalten darf</string>
-  <string name="oaid_apps_title">Autorisierungsverwaltung virtuelle Identitäts-ID</string>
+  <string name="oaid_apps_summary">Vereinzelten App-Zugriff zulassen oder einschränken</string>
+  <string name="oaid_apps_title">Virtuelle ID verwalten</string>
   <string name="oaid_string">"Aktuelle virtuelle ID:
 %1s"</string>
   <string name="oem_lock_info_message">Starten Sie das Gerät neu, um den Geräteschutz zu aktivieren</string>
