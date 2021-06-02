@@ -1805,7 +1805,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="channel_group_notifications_off_desc">Wunschgemäß verhindert Android, dass diese Gruppe von Benachrichtigungen auf diesem Gerät erscheint.</string>
   <string name="channel_notifications_off_desc">Android verhindert, dass diese Kategorie von Benachrichtigungen auf diesem Gerät erscheint</string>
   <string name="charge_animation_style_none">Aus</string>
-  string name="charge_animation_style_lollipop">Fließen</string>
+  <string name="charge_animation_style_lollipop">Fließen</string>
   <string name="charge_animation_style_video">Glühen</string>
   <string name="charge_animation_style_wave">Wellen</string>
   <string name="charge_animation_style_particle">Partikel</string>
@@ -8362,6 +8362,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="thursday">Donnerstag</string>
   <string name="thursday_short">Do</string>
   <string name="thursday_shortest">D</string>
+  <string name="time_floating_window">Uhr-Popup</string>
+  <string name="time_floating_window_summary">Uhr im Popup über anderen Apps anzeigen</string>
   <string name="time_format_category_title">Zeitformat</string>
   <string name="time_picker_dialog_title">Zeit einstellen</string>
   <string name="time_picker_label_hour">Std</string>
