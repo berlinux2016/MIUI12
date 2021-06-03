@@ -1582,7 +1582,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="bt_absVolume_open_dialog_summary">Aufgrund von Kompatibilitätsproblemen können einige Bluetooth-Geräte anormale Lautstärkepegel aufweisen, die durch Ausschalten dieser Funktion behoben werden können.</string>
   <string name="bt_absVolume_open_dialog_title">Achtung</string>
   <string name="bt_absVolume_pre_title">Absolute Lautstärke</string>
-  <string name="bt_absVolume_summary">Lautstärke der Bluetooth-Geräte und des Telefons strikt einheitlich halten. Sie können diese Funktion ein- und ausschalten, wenn die Medien nicht im Hintergrund abgespielt werden.</string>
+  <string name="bt_absVolume_summary">Lautstärke der Bluetooth-Geräte und des Telefons strikt einheitlich halten. Sie können diese Funktion ein- und ausschalten, wenn keine Medien im Hintergrund abgespielt werden.</string>
   <string name="bt_audio_share_property">Teilen</string>
   <string name="bt_audio_share_switch_summary">Audio mit angeschlossenen Bluetooth-Geräten teilen</string>
   <string name="bt_audio_share_switch_title">Audio teilen</string>
