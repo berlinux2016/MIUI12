@@ -4941,6 +4941,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
 Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
   <string name="miui_ime_xiaoai_voice_hint">Schnellere und komfortablere Texteingabe</string>
   <string name="miui_ime_xiaoai_voice_title">Mi KI Spracheingabe</string>
+  <string name="miui_input_method_attention">Achtung</string>
   <string name="miui_input_method_settings">Einstellungen Eingabemethoden</string>
   <string name="miui_lab_3d_gesture_desc">Öffnen Sie Ihren Startbildschirm und zeichnen Sie mit Ihrem Telefon eines der Muster in die Luft, um ausgewählte Apps zu öffnen</string>
   <string name="miui_lab_3d_gesture_slogan">Zeichnen Sie mit Ihrem Telefon ein Muster in die Luft, um eine App zu öffnen</string>
@@ -6627,6 +6628,7 @@ UT Interface: %5$s"</string>
   <string name="ringtones_category_preference_title">Klingeltöne</string>
   <string name="ringtones_install_custom_sound_content">Diese Datei wird in den Ordner %s kopiert</string>
   <string name="ringtones_install_custom_sound_title">Eigenen Ton hinzufügen</string>
+  <string name="risk_tip">Risiko erkannt</string>
   <string name="roaming">Daten-Roaming</string>
   <string name="roaming_alert_title">Daten-Roaming erlauben?</string>
   <string name="roaming_check_price_warning">Fragen Sie Ihren Mobilfunkanbieter nach den Preisen</string>
