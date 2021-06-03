@@ -533,7 +533,7 @@
     <item quantity="one">%d Element</item>
   </plurals>
   <plurals name="synced_immerse_title">
-    <item quantity="other">%d Fotos und %d Videos erfolgreich synchronisiert</item>
+    <item quantity="other">%1$d Fotos und %2$d Videos erfolgreich synchronisiert</item>
   </plurals>
   <plurals name="trash_purge_dialog_message_image">
     <item quantity="other">Sie können %d ausgewählte Elemente nicht wiederherstellen, wenn Sie sie löschen. Trotzdem löschen?</item>
