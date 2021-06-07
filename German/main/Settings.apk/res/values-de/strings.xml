@@ -1499,6 +1499,7 @@ Abtastrate"</string>
   <string name="bluetooth_unlock_settings_devices_title">Gerät</string>
   <string name="bluetooth_unlock_settings_toggle_title">Anwenden für</string>
   <string name="bluetooth_unlock_settings_unlock_device">Entsperrgerät</string>
+  <string name="bluetooth_unlock_settings_unlock_summary">Diese Funktion funktioniert mit Mi Smart Bändern und Mi Uhren</string>
   <string name="bluetooth_unlock_state_disconnected">Getrennt</string>
   <string name="bluetooth_unlock_state_key_error">Schlüsselfehler</string>
   <string name="bluetooth_unlock_state_ok">Entsperrt</string>
