@@ -547,7 +547,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="app_permission_use_no_neccesary">Optionale Berechtigungen</string>
   <string name="app_permission_use_title">Berechtigungen</string>
   <string name="app_predict_black_list_empty">Noch keine Elemente hier</string>
-  <string name="app_predict_black_list_setting_title">Blockliste App-Vorschläge</string>
+  <string name="app_predict_black_list_setting_title">Sperrliste App-Vorschläge</string>
   <string name="app_predict_dialog_button">Zum Startbildschirm hinzufügen</string>
   <string name="app_predict_dialog_message">KI schlägt Ihnen Apps vor, die Sie gerade brauchen könnten</string>
   <string name="app_predict_dialog_success">Erfolgreich zum Startbildschirm hinzugefügt</string>
