@@ -554,7 +554,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="app_predict_folder_name">Suchen</string>
   <string name="app_predict_guide_button">Hinzufügen</string>
   <string name="app_predict_guide_message">KI schlägt Ihnen Apps vor, die Sie gerade brauchen könnten</string>
-  <string name="app_predict_guide_title">Smarte App-Vorschläge</string>
+  <string name="app_predict_guide_title">Intelligente App-Vorschläge</string>
   <string name="app_predict_loading_text">Einen Moment…</string>
   <string name="app_predict_search_title">Alle Apps</string>
   <string name="app_predict_setting_black_list">Blockierliste</string>
@@ -3109,13 +3109,14 @@ Stromverbrauch"</string>
   <string name="power_superpower_title_systemui_lowpower">Ladegerät anschließen</string>
   <string name="power_wifi">WLAN</string>
   <string name="power_wireless_need_update_text">Aktualisieren…</string>
+  <string name="power_wireless_update_button_text">Aktualisieren</string>
   <string name="power_wireless_update_dialog_button">Verstanden</string>
   <string name="power_wireless_update_dialog_message">Laden Sie Ihr Gerät mindestens auf %s auf, um die Firmware für kabelloses Laden aktualisieren zu können.</string>
   <string name="power_wireless_update_dialog_title">Akku schwach</string>
   <string name="power_wireless_update_driver">Firmware-Updates</string>
   <string name="power_wireless_update_notification_button">Anzeigen</string>
   <string name="power_wireless_update_notification_subtitle">Firmware aktualisieren, um die Stabilität des kabellosen Ladens zu verbessern</string>
-  <string name="power_wireless_update_notification_title">Update kabelloses Laden</string>
+  <string name="power_wireless_update_notification_title">Aktualisierung kabelloses Laden</string>
   <string name="power_wireless_update_text">Aktuell</string>
   <string name="power_wireless_update_tv_text">Firmware aktualisieren. Gerät nicht ausschalten.</string>
   <string name="pp_app_behavior_record_detail">Alle App-Verhaltensweisen aufzeichnen</string>
