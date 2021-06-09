@@ -182,7 +182,6 @@
   <string name="choose_wallpaper">Hintergrund wählen</string>
   <string name="chooser_wallpaper">Hintergrund wählen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
-  <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="close">Schließen</string>
   <string name="cloud_app_restore_title">Ausstehend</string>
   <string name="common_home_search_delete">Suchleiste entfernen</string>
@@ -470,9 +469,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
   <string name="monday">Montag</string>
   <string name="monday_short">Mo</string>
-  <string name="monday_short">Mon</string>
   <string name="monday_shortest">M</string>
-  <string name="monday_shortest">Mon</string>
   <string name="month_april_shortest">A</string>
   <string name="month_august_shortest">A</string>
   <string name="month_december">Dezember</string>
@@ -683,7 +680,6 @@
   <string name="screen_number">%d Bildschirm</string>
   <string name="scroll_tip_format_when_announce_accessibility">Auf Seite %1$d %2$d Apps</string>
   <string name="search_in_apps_store">Nach \"%1$s\" in %2$s suchen</string>
-  <string name="search_menu_title">Suchen</string>
   <string name="search_menu_title">Suchen</string>
   <string name="search_no_result">Keine Ergebnisse gefunden</string>
   <string name="select_all">Alle wählen</string>
