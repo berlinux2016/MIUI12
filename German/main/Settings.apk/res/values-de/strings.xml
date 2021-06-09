@@ -7151,6 +7151,7 @@ App-Pinning verwenden: \u0009
   <string name="secspace_fod_use_password">Passwort eingeben</string>
   <string name="secure_keyguard_business_title">Bildschirmsperre festlegen</string>
   <string name="secure_lock_encryption_warning">Da Sie einen Eingabehilfendienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern</string>
+  <string name="security_center_title">Sicherheit</string>
   <string name="security_dashboard_summary">Bildschirmsperre, Fingerabdruck</string>
   <string name="security_dashboard_summary_face">Bildschirmsperre, Gesichtsentsperrung</string>
   <string name="security_dashboard_summary_no_fingerprint">Bildschirmsperre</string>
