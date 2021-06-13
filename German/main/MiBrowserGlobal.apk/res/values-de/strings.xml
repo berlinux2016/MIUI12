@@ -1081,7 +1081,7 @@ Diese Seite jetzt verlassen?"</string>
   <string name="mw_opening_file_error">Öffnen der gewählten Datei fehlgeschlagen</string>
   <string name="mw_permission_alert_window">Um diese Funktion nutzen zu können, öffnen Sie bitte die Systemoption Popup-Benachrichtigung anzeigen.</string>
   <string name="mw_permission_unknown">Unbekannte Option</string>
-  <string name="mw_private_browsing_warning">Diese Funktion wird in dieser Androidversion nicht unterstützt.</string>
+  <string name="mw_private_browsing_warning">Diese Funktion wird in dieser Android-Version nicht unterstützt.</string>
   <string name="mw_profiler_error_toast">Profiler wurde nicht gestartet</string>
   <string name="mw_profiler_no_storage_toast">Profiler kann nicht gestartet werden, da der externe Speicher nicht bereit ist.</string>
   <string name="mw_profiler_started_toast">Profiler gestartet</string>
@@ -1100,7 +1100,7 @@ Diese Seite jetzt verlassen?"</string>
   <string name="mw_video_float_window_playing">Video im PiP-Modus abspielen…</string>
   <string name="mw_video_play_error">Video wurde nicht abgespielt</string>
   <string name="mw_webview_find_on_page">Auf Seite suchen</string>
-  <string name="mw_webviewchromium_private_browsing_warning">Diese Funktion wird in dieser Androidversion nicht unterstützt.</string>
+  <string name="mw_webviewchromium_private_browsing_warning">Diese Funktion wird in dieser Android-Version nicht unterstützt.</string>
   <string name="mw_week_picker_dialog_title">Woche einstellen</string>
   <string name="my_account">Mein Konto</string>
   <string name="my_cahnnel">Meine Kanäle</string>

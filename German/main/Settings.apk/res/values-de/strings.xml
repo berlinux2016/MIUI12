@@ -3340,7 +3340,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="firewall_temp_rule_reason">%2$s eingeschränkte Internetverbindung für %1$s</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter aus ist.</string>
-  <string name="firmware_version">Androidversion</string>
+  <string name="firmware_version">Android-Version</string>
   <string name="fiveg_switch_title">5G Netzwerk</string>
   <string name="flash_drive_backup_btn">Sichern auf USB-Laufwerk</string>
   <string name="flash_drive_backup_disable">Zuerst USB-Laufwerk anschließen</string>
@@ -6950,7 +6950,7 @@ App-Pinning verwenden: \u0009
   <string name="se_wallet_ese">Mi Pay und NFC-Transportkarte verwenden</string>
   <string name="se_wallet_hce">HCE Wallet verwenden</string>
   <string name="se_wallet_uicc">SIM%1$s Bezahlung verwenden</string>
-  <string name="search_about_settings">Über das Gerät;Modellnummer;Androidversion;MIUI Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
+  <string name="search_about_settings">Über das Gerät;Modellnummer;Android-Version;MIUI Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
   <string name="search_accelerometer_title">Bildschirm automatisch drehen;Bildschirm drehen;Ausrichtung;Hochformat;Querformat</string>
   <string name="search_access_control">Datenschutzeinstellungen;Sicherheit Datenschutz; Gast; Gast; Gastmodus</string>
   <string name="search_accessibility_captioning_title">Untertitel</string>

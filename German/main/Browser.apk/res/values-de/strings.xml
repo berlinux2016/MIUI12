@@ -1092,7 +1092,7 @@ Sind Sie sicher, dass Sie diese Seite verlassen wollen?"</string>
   <string name="mw_photo_picker_browse">Durchsuchen</string>
   <string name="mw_photo_picker_camera">Kamera</string>
   <string name="mw_photo_picker_select_images">Bilder auswählen</string>
-  <string name="mw_private_browsing_warning">Diese Funktion wird in dieser Androidversion nicht unterstützt.</string>
+  <string name="mw_private_browsing_warning">Diese Funktion wird in dieser Android-Version nicht unterstützt.</string>
   <string name="mw_profiler_error_toast">Profiler wurde nicht gestartet</string>
   <string name="mw_profiler_no_storage_toast">Profiler kann nicht gestartet werden, da der externe Speicher nicht bereit ist.</string>
   <string name="mw_profiler_started_toast">Profiler gestartet</string>
@@ -1125,7 +1125,7 @@ Sind Sie sicher, dass Sie diese Seite verlassen wollen?"</string>
   <string name="mw_video_float_window_playing">Video abspielen</string>
   <string name="mw_video_play_error">Video wurde nicht abgespielt</string>
   <string name="mw_webview_find_on_page">Auf Seite suchen</string>
-  <string name="mw_webviewchromium_private_browsing_warning">Diese Funktion wird in dieser Androidversion nicht unterstützt.</string>
+  <string name="mw_webviewchromium_private_browsing_warning">Diese Funktion wird in dieser Android-Version nicht unterstützt.</string>
   <string name="mw_week_picker_dialog_title">Woche einstellen</string>
   <string name="nav_bottom_bar_back">Zurück</string>
   <string name="nav_bottom_bar_close_all">Alle schließen</string>
