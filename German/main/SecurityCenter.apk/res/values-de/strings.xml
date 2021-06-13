@@ -4134,7 +4134,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="superpower_progress_switch_home">Zu dunklem Thema wechseln</string>
   <string name="superpower_progress_title">Verbleibende Zeit</string>
   <string name="superpower_progress_turndown_brightness">Bildschirmhelligkeit verringern</string>
-  <string name="superpower_progress_turnoff_items">Stomfressende Aktivitäten einschränken</string>
+  <string name="superpower_progress_turnoff_items">Stromfressende Aktivitäten einschränken</string>
   <string name="superpower_progress_turnoff_process">Hintergrundaktivität einschränken</string>
   <string name="superpower_savemode_description_title">Ultra-Stromsparmodus aktiviert die folgenden Einschränkungen:</string>
   <string name="superpower_savemode_limit1">Dunkles Thema</string>
