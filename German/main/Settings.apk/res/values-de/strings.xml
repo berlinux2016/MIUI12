@@ -3500,7 +3500,7 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="freeform_guide_notification_drop_down_summary">Taste gedrückt halten und Aktionsleiste einer Benachrichtigung herunterziehen.</string>
   <string name="freeform_guide_notification_drop_down_title">Popups öffnen</string>
   <string name="freeform_guide_settings">Popups</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">"Unteren Rand des Fensters gerückt halten und in die obere rechte Ecke ziehen.
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Unteren Fensterrand gedrückt halten und in die obere rechte Ecke ziehen.
 Das funktioniert nur, wenn die Systemnavigation auf Gesten eingestellt ist."</string>
   <string name="freeform_guide_slide_to_small_freeform_title">App minimieren</string>
   <string name="freeform_guide_slide_up_to_close_summary">Von der Aktionsleiste eines Popups hochklappen</string>
@@ -3586,7 +3586,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gesture_setting_on">An</string>
   <string name="gesture_settings_activity_title">Gesteneinstellungen</string>
   <string name="gesture_w">W-Muster</string>
-  <string name="gesture_wakeup_summary">Sie können den Bildschirm durch Doppeltippen nur dann auszuschalten, wenn vorinstallierte Themen angewendet werden</string>
+  <string name="gesture_wakeup_summary">Sie können den Bildschirm durch Doppeltippen nur dann ausschalten, wenn vorinstallierte Themen angewendet werden</string>
   <string name="gesture_wakeup_title">Doppeltippen, um den Bildschirm aufzuwecken oder auszuschalten, wenn das Gerät gesperrt ist</string>
   <string name="gesture_z">Z-Muster</string>
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
