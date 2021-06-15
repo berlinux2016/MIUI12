@@ -3500,7 +3500,8 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="freeform_guide_notification_drop_down_summary">Taste gedrückt halten und Aktionsleiste einer Benachrichtigung herunterziehen.</string>
   <string name="freeform_guide_notification_drop_down_title">Popups öffnen</string>
   <string name="freeform_guide_settings">Popups</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Unteren Rand des Fensters gedrückt halten und ihn in die obere rechte Ecke ziehen</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Unteren Rand des Fensters gerückt halten und in die obere rechte Ecke ziehen.
+Das funktioniert nur, wenn die Systemnavigation auf Gesten eingestellt ist."</string>
   <string name="freeform_guide_slide_to_small_freeform_title">App minimieren</string>
   <string name="freeform_guide_slide_up_to_close_summary">Von der Aktionsleiste eines Popups hochklappen</string>
   <string name="freeform_guide_slide_up_to_close_title">Popups schließen</string>
@@ -3585,8 +3586,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gesture_setting_on">An</string>
   <string name="gesture_settings_activity_title">Gesteneinstellungen</string>
   <string name="gesture_w">W-Muster</string>
-  <string name="gesture_wakeup_summary">Bildschirm durch Doppeltippen ein-/ausschalten, wenn Standard- oder Classic-Thema angewendet wird</string>
-  <string name="gesture_wakeup_title">Doppeltippen zum Bildschirm ein-/ausschalten</string>
+  <string name="gesture_wakeup_summary">Sie können den Bildschirm durch Doppeltippen nur dann auszuschalten, wenn vorinstallierte Themen angewendet werden</string>
+  <string name="gesture_wakeup_title">Doppeltippen, um den Bildschirm aufzuwecken oder auszuschalten, wenn das Gerät gesperrt ist</string>
   <string name="gesture_z">Z-Muster</string>
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
   <string name="getConnectionInfo">Verbindungsinfo bekommen</string>
@@ -4496,6 +4497,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lockpassword_confirm_workspace_password">Arbeitsplatzkennwort prüfen</string>
   <string name="lockpassword_confirm_your_lock_password_header">Passwort bestätigen</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Muster bestätigen</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">PIN bestätigen</string>
   <string name="lockpassword_confirm_your_password_details_frp">Ihr Telefon wurde auf Werkseinstellung zuückgesetzt. Um dieses Telefon zu nutzen, bisheriges Passwort eingeben</string>
   <string name="lockpassword_confirm_your_password_generic">Geben Sie Ihr Gerätepasswort ein, um fortzufahren</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Geben Sie Ihr Passwort ein, um fortzufahren</string>
@@ -6518,7 +6520,7 @@ UT Interface: %5$s"</string>
   <string name="remove_managed_profile_label">Arbeitsprofil entfernen</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_call">Benachrichtigen über wiederholte Anrufe</string>
-  <string name="repeat_call_info">Klingeln oder Vibrieren bei Empfang des zweiten Anrufs von der gleichen Rufnummer innerhalb von %d Minuten</string>
+  <string name="repeat_call_info">Klingeln oder Vibrieren beim Empfang des zweiten Anrufs vom gleichen Kontakt oder der gleichen Rufnummer innerhalb von %d Minuten, wenn DND an ist</string>
   <string name="repeat_days_in_week">Wiederholen</string>
   <string name="repeat_never">Nie</string>
   <string name="repeat_title">Wiederholen</string>
