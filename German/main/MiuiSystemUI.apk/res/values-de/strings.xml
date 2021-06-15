@@ -799,7 +799,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
   <string name="development_settings_summary">Optionen für App-Entwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
-  <string name="device_locked_without_biometric">Biometrische Erkennung kann aufgrund der Verwendung der Ein-Tasten-Bildschirmsperrfunktion mit drei Teilnehmern nicht durchgeführt werden</string>
+  <string name="device_locked_without_biometric">Biometrische Erkennung ist wegen der Verwendung einer Ein-Tasten-Bildschirmsperre eines Drittanbieters nicht möglich</string>
   <string name="device_services">Gerätedienste</string>
   <string name="dewdrops">Morgentau</string>
   <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Telefonnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
@@ -2284,7 +2284,7 @@ Screenshot zu erstellen"</string>
   <string name="show_silently">Benachrichtigungen lautlos anzeigen</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Tasten &lt;font color=#e6e6e6>[Aus/Ein]&lt;/font> und &lt;font color=#e6e6e6>[Laustärke +]&lt;/font> gedrückt halten bis Sie das &lt;img src=\"\"> sehen.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Tasten &lt;font color=#e6e6e6>[Aus/Ein]&lt;/font> und &lt;font color=#e6e6e6>[Laustärke +]&lt;/font> gedrückt halten, bis Sie &lt;img src=\"\"> sehen.</Data></string>
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6>[Daten löschen]&lt;/font> wählen und danach auf &lt;font color=#e6e6e6>[Neustart]&lt;/font> tippen</Data></string>
   <string name="sim_state_locked_dialog_title">Ungültige SIM-Karte</string>
   <string name="sim_state_locked_puk_dialog_message">Sie haben mindestens %d-mal einen falschen PUK-Code eingegeben. Ihre SIM-Karte ist jetzt ungültig. Ersetzen Sie diese SIM-Karte durch eine andere.</string>

@@ -471,7 +471,7 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
   <string name="cit_reset_se_nfc_closed">Fehlgeschlagen: NFC muss aktiviert sein.</string>
   <string name="cit_reset_se_start">eSE zurücksetzen…</string>
   <string name="cit_reverse_charge_check_summary">OTG einstecken, um Telefon zu laden</string>
-  <string name="cit_reverse_wireless_charge_check_tips">Bitte legen Sie das Telefon und das zu ladende Gerät wie gewünscht ein und starten Sie den Test</string>
+  <string name="cit_reverse_wireless_charge_check_tips">Bitte legen Sie das zu ladende Gerät wie gewünscht ein und starten Sie den Test.</string>
   <string name="cit_rgb_check_blue_light">RGB blau</string>
   <string name="cit_rgb_check_green_light">RGB grün</string>
   <string name="cit_rgb_check_red_light">RGB rot</string>
