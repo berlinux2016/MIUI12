@@ -2843,7 +2843,6 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
-  <string name="wifi_whitelist_roaming">SSID Bridging - Fast Handover</string>
   <string name="wifi_whitelist_roaming_summary">Roaming zwischen verschiedenen SSID-WPA/WPA2-PSK-APs mit derselben Gateway-MAC-Adresse aktivieren</string>
   <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="wireless_change_to_ac_charging">Auf kabelgebundenes Laden umgeschaltet</string>
