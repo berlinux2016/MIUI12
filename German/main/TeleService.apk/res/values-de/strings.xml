@@ -2475,7 +2475,7 @@ UT-Schnittstelle: %5$s"</string>
   <string name="telocation_show_settings">Bildschirmeinstellungen</string>
   <string name="tether_settings_title_all">Tethering &amp; Mobiler Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth Tethering</string>
-  <string name="tether_settings_title_usb">USB Tethering</string>
+  <string name="tether_settings_title_usb">USB-Tethering</string>
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tethering_hardware_offload">Tethering-Hardwarebeschleunigung</string>
   <string name="tethering_hardware_offload_summary">Tethering-Hardwarebeschleunigung nutzen, wenn verfügbar</string>
