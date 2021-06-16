@@ -4867,6 +4867,8 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="miheadset_double_click_right">Den rechten Kopfhörer doppelt antippen</string>
   <string name="miheadset_double_press_left">Doppeltippen linker Ohrhörer</string>
   <string name="miheadset_double_press_right">Doppeltippen rechter Ohrhörer</string>
+  <string name="miheadset_dual_connect_mode">Anschluss an zwei Geräte</string>
+  <string name="miheadset_dual_connect_mode_summary">Einschalten, um Ihre Ohrhörer mit zwei Bluetooth-Geräten gleichzeitig zu verbinden</string>
   <string name="miheadset_enhanceVoice">Stimme verstärken</string>
   <string name="miheadset_enhence_high">Verstärkte Höhen</string>
   <string name="miheadset_enhence_low">Verstärkter Bass</string>
