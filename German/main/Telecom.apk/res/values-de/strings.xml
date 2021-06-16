@@ -639,7 +639,6 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="screen_zoom_summary_very_large">Größer</string>
   <string name="search_menu">Sucheinstellungen</string>
   <string name="search_menu_title">Suchen</string>
-  <string name="search_menu_title">Suchen</string>
   <string name="select_application">App wählen</string>
   <string name="select_logd_size_dialog_title">Logger-Größen per Log-Puffer wählen</string>
   <string name="select_logd_size_title">Logger-Puffergrößen</string>
