@@ -85,7 +85,7 @@
   <string name="catch_full_log_item_content_catching">Protokolle generieren…</string>
   <string name="catch_full_log_item_content_need_open">"%1$d. Auf \"Starten\" tippen, um mit der Protokollerstellung zu beginnen.
 %2$d. Reproduzieren Sie das aufgetretene Problem.
-%3$d. Zu dieser Seite zurückkehren und auf \"Fertigstellen und Hochladen\" tippen."</string>
+%3$d. Zu dieser Seite zurückkehren und auf \"Fertigstellen und hochladen\" tippen."</string>
   <string name="catch_full_log_item_content_title">Schritte:</string>
   <string name="catch_full_log_item_title_audio">Audio, Rufton und Audioaufnahme</string>
   <string name="catch_full_log_item_title_dump_heap">Verzögern</string>

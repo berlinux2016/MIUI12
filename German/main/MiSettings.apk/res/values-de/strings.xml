@@ -728,7 +728,7 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
   <string name="usage_state_focus_level1">Aufgehender Stern</string>
   <string name="usage_state_focus_level_summary">Aktuelles Level: %s</string>
   <string name="usage_state_focus_mode_experience_warning_message">Fokusmodus erlaubt nur Kamerabenutzung und Notrufe. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
-  <string name="usage_state_focus_mode_experience_warning_message_pad">Fokusmodus erlaubt nur die Kamera zu verwenden. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
+  <string name="usage_state_focus_mode_experience_warning_message_pad">Fokusmodus erlaubt nur die Kamerabenutzung. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
   <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Fokusmodus erlaubt nur Kamerabenutzung und Notrufe. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
   <string name="usage_state_focus_mode_summary">Alle Funktionen außer Notrufe und Kamera einschränken</string>
   <string name="usage_state_focus_mode_summary1">Gut begonnen ist halb gewonnen</string>
@@ -736,8 +736,8 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
   <string name="usage_state_focus_mode_summary3">Es ist anstrengend, konzentriert zu bleiben.</string>
   <string name="usage_state_focus_mode_title">Fokusmodus</string>
   <string name="usage_state_focus_mode_warning_message">Fokusmodus erlaubt nur Kamerabenutzung und Notrufe. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
-  <string name="usage_state_focus_mode_warning_message_pad">Fokusmodus erlaubt nur die Kamera zu verwenden. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
-  <string name="usage_state_focus_mode_warning_message_sim_pad">Fokusmodus erlaubt nur die Kamera zu verwenden. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
+  <string name="usage_state_focus_mode_warning_message_pad">Fokusmodus erlaubt nur die Kamerabenutzung. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
+  <string name="usage_state_focus_mode_warning_message_sim_pad">Fokusmodus erlaubt nur die Kamerabenutzung. Sie können den Fokusmodus nicht vorzeitig ausschalten.</string>
   <string name="usage_state_focus_mode_warning_title">Achtung</string>
   <string name="usage_state_focus_success">Herausforderung abgeschlossen</string>
   <string name="usage_state_focus_take_photo">Kamera</string>

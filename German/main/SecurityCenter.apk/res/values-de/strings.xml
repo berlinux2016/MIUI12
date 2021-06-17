@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="antivirus_browser_check">Webseiten im Mi Browser prüfen</string>
-  <string name="antivirus_browser_check_summary">Webseiten im Mi Browser automatisch überprüfen und Warnungen über mögliche Risiken erhalten</string>
+  <string name="antivirus_browser_check_summary">Webseiten im Mi Browser automatisch prüfen und Warnungen über mögliche Risiken erhalten</string>
   <string name="antivirus_monitored_tips">Zahlungsumgebung automatisch auf mögliche Risiken prüfen</string>
   <string name="antivirus_sms_check">Links in Nachrichten prüfen</string>
   <string name="antivirus_sms_check_summary">Links in den eingehenden Nachrichten prüfen und Warnungen über mögliche Risiken erhalten</string>
@@ -44,14 +44,14 @@
   <string name="sp_security_center_title">Sicherheit</string>
   <string name="sp_security_check_status_off">Aus</string>
   <string name="sp_security_check_status_on">Ein</string>
-  <string name="sp_security_input_summary">Dinge die Sie tippen, privat halten</string>
+  <string name="sp_security_input_summary">Dinge, die Sie tippen, privat halten</string>
   <string name="sp_security_input_title">Sichere Tastatur</string>
   <string name="sp_security_scan_summary">Ihr Gerät auf Viren scannen</string>
   <string name="sp_security_scan_title">Sicherheitsscan</string>
   <string name="sp_sim_protect_summary">SIM-Info schützen</string>
   <string name="sp_sim_protect_title">SIM-Sicherheit</string>
   <string name="sp_sos_summary">Hilfe holen, wenn Gefahr droht</string>
-  <string name="sp_sos_title">Notruf SOS</string>
+  <string name="sp_sos_title">Notruf-SOS</string>
   <string name="sp_system_security_title">Systemsicherheit</string>
   <string name="sp_website_scan_summary">Sicheres Surfen im Internet</string>
   <string name="sp_website_scan_title">Webseiten prüfen</string>
