@@ -399,7 +399,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_led_selected">Aktuell ausgewählt:</string>
   <string name="cit_leds_check_summary">Hintergrundbeleuchtung, Benachrichtigungslicht und Blitzlicht (hinten) sollten reagieren, wenn die entsprechende Taste gedrückt wird.</string>
   <string name="cit_leds_check_title">Benachrichtigungslicht (LED)</string>
-  <string name="cit_light_sensor_check_summary">DAC-Wert sollte unten stehen</string>
+  <string name="cit_light_sensor_check_summary">DAC-Wert sollte unten erscheinen, bitte testen Sie den Lichtsensor. (Das Gerät, das den hinteren DAC unterstützt, muss gleichzeitig den hinteren DAC-Sensor testen, damit der Wert den Bereich von 200 Lux erfüllt.)</string>
   <string name="cit_light_sensor_check_title">Lichtsensor</string>
   <string name="cit_macro_camera_check_title">Makrokameratest</string>
   <string name="cit_magnetic_info_hint">Bitte rotieren  Sie das Gerät in Form einer 8</string>
