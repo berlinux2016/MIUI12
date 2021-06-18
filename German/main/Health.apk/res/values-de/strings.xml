@@ -240,6 +240,7 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
   <string name="collapse">Ausblenden</string>
   <string name="collect_diagnosis_log">Diagnoseprotokoll erfassen</string>
   <string name="complete_preference_basic_info">Vervollständigen Sie Ihr Profil</string>
+  <string name="complete_progress">Fortschritt</string>
   <string name="completed">"Abgeschlossen "</string>
   <string name="completed_stand">Stehen abgeschlossen</string>
   <string name="confirm_opening">Öffnen bestätigen</string>
@@ -1621,6 +1622,7 @@ auf Ihren persönlichen Daten beraten."</string>
   <string name="tb_stand_day_ring">Heute wurden %1$s angesammelt, um das Stehen abzuschließen. Ziel ist es, das Stehen mit 12 Stunden abzuschließen.</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$s, Statistik Fertigstellung Stehzeit. Ziehen Sie nach links und rechts, um den Zeitbereich zu ändern, tippen Sie auf die Spalte, um Details anzuzeigen.</string>
   <string name="tb_stand_wm_column_click">%1$s, Stehen %2$d, %3$s</string>
+  <string name="tb_step_widget">Heute. %1$s. Fortschritt: %2$d%</string>
   <string name="tb_unmultiple_selecte_all">Alles abwählen</string>
   <string name="tb_user_account_signed">Mi-Konto: %1$s.</string>
   <string name="tb_user_account_unsigned">Tippen, um sich mit dem Mi-Konto anzumelden</string>
@@ -1763,6 +1765,7 @@ Jetzt aktualisieren?"</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
   <string name="value_error_correct">Aufnahmefehler</string>
+  <string name="view_step_and_progress">Ihre aktuelle Schrittzahl anzeigen</string>
   <string name="visceral_fat">Viszerales Fett</string>
   <string name="visceral_fat_descripe_content">Viszerales Fett ist für die Stabilisierung und den Schutz der inneren Organe unerlässlich. Allerdings erhöht ein hoher viszeraler Fettanteil das Risiko von Herz-Kreislauf- und Stoffwechselerkrankungen.</string>
   <string name="voice_remind">Wir haben die Lautstärke erhöht, damit Sie die Anweisungen besser hören.</string>
