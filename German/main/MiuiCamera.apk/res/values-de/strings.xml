@@ -2098,6 +2098,10 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="time_picker_label_hour">Std</string>
   <string name="time_picker_label_minute">Min</string>
   <string name="time_stamp_date_format">dd.MM.yyyy</string>
+  <string name="time_freeze_action_end_tip">Auf Taste tippen, um den Hintergrund freizugeben</string>
+  <string name="time_freeze_action_start_tip">Auf Taste tippen, um den Hintergrund einzufrieren</string>
+  <string name="time_freeze_adjust_button_title">Anpassen</string>
+  <string name="time_freeze_clipbox_tint">Einfrieren</string>
   <string name="timefreeze_guide_tip2">Sie können den Hintergrund jederzeit vor oder während der Aufnahme einfrieren und wieder lösen.</string>
   <string name="timefreeze_guide_tip3">Bitten Sie Ihr Motiv, in der Mitte des Bildes zu bleiben.</string>
   <string name="timefreeze_guide_tip4">Halten Sie den Verkehr an.</string>
