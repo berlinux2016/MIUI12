@@ -4,7 +4,7 @@
   <string name="cancel">Abbrechen</string>
   <string name="check_protocol_msg">"Um den Wartungsmodus zu nutzen, klicken Sie bitte hier stimmen Sie den "</string>
   <string name="check_protocol_msg_detail">Bevor Sie den Reparaturmodus starten, vergewissern Sie sich bitte, dass die Daten gesichert wurden. Der Kundendienst ist nicht verantwortlich für mögliche Datenverluste, die durch das reparierte Produkt verursacht werden.</string>
-  <string name="check_protocol_msg_sub">Haftungsausschluss für Benutzerdaten</string>
+  <string name="check_protocol_msg_sub">Haftungsausschluss für Benutzerdaten zu</string>
   <string name="click_to_close">Hier tippen, um den Wartungsmodus zu verlassen</string>
   <string name="close_maintenance_mode">Wartungsmodus beenden</string>
   <string name="create_fail">Erstellung des Wartungsmodus fehlgeschlagen, bitte später erneut versuchen</string>
