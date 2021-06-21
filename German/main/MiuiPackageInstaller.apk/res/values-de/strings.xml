@@ -88,7 +88,8 @@
   <string name="allPerms">Alle</string>
   <string name="all_permissions">Alle Berechtigungen</string>
   <string name="anonymous_source_continue">Weiter</string>
-  <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder für den Verlust von Daten verantwortlich sind, die sich aus seiner Verwendung ergeben können.</string>
+  <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
+  <string name="anonymous_source_warning_tablet">Ihre Geräte und persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für alle Schäden an Ihren Geräten oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
   <string name="app_install_failed_button_text">Nach Apps suchen</string>
   <string name="app_name">Package Installer</string>
   <string name="app_name_unknown">Ungenau</string>
@@ -223,8 +224,10 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
   <string name="install_failed_blocked">Paket wurde für die Installation gesperrt</string>
   <string name="install_failed_conflict">Paket kollidiert mit einem existierenden Paket gleichen Namens</string>
   <string name="install_failed_incompatible">Diese App ist mit Ihrem Gerät nicht kompatibel</string>
+  <string name="install_failed_incompatible_tablet">Diese App ist mit Ihrem Gerät nicht kompatibel</string>
   <string name="install_failed_invalid_apk">Paket ist offenbar beschädigt</string>
   <string name="install_failed_msg">%1$s wurde nicht auf Ihrem Telefon installiert</string>
+  <string name="install_failed_msg_tablet">%1$s wurde nicht auf Ihrem Gerät installiert</string>
   <string name="install_failed_system_incompatible">Diese App ist nicht mit MIUI kompatibel</string>
   <string name="install_finished_notification_summary">Tippen, um Speicherplatz freizugeben</string>
   <string name="install_finished_notification_title">%1$s erfolgreich installiert. Sie können %2$s an Speicherplatz freigeben.</string>

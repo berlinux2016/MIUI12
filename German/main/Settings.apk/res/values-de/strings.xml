@@ -2476,6 +2476,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_browser_title_none">Nicht ausgewählt</string>
   <string name="default_calendar_app_title">Kalender-App</string>
   <string name="default_contacts_app_title">Kontakte-App</string>
+  <string name="default_document_title">Dokumente</string>
   <string name="default_emergency_app">Notfall-App</string>
   <string name="default_for_calls">Standard für Anrufe</string>
   <string name="default_for_calls_and_sms">Standard für Anrufe &amp; SMS</string>
@@ -2797,6 +2798,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dock_sounds_enable_summary_on">Beim Verbinden oder Trennen des Telefons vom Dock Ton abspielen</string>
   <string name="dock_sounds_enable_title">Dockington</string>
   <string name="docking_sounds_title">Töne für Docking</string>
+  <string name="document_default_status">Wählen</string>
   <string name="does_not_exist">App ist nicht vorhanden</string>
   <string name="domain_url_section_title">Installierte Apps</string>
   <string name="domain_urls_apps_summary_off">Keine App, die unterstützte Links öffnet</string>
@@ -3168,6 +3170,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="face_intro_error_max">Sie haben die Maximalzahl an Gesichtern hinzugefügt</string>
   <string name="face_intro_error_unknown">Weitere Gesichter hinzufügen nicht möglich</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Schützen Sie Ihr Telefon mit einer Bildschirmsperre, damit es bei Verlust oder Diebstahl nicht benutzt werden kann. Sie benötigen auch eine Bildschirmsperroption, um die Gesichtserkennung einzurichten. Abbrechen antippen, dann PIN, Muster oder Passwort festlegen.</string>
+  <string name="face_password_unlock">Gesichtsdaten &amp; Bildschirmsperre</string>
   <string name="face_unlock">Gesichtsentsperrung</string>
   <string name="face_unlock_be_on_the_screen">Gerät vor Ihr Gesicht halten</string>
   <string name="face_unlock_by_notification_screen_on_msg">Sie können das Gerät mit Hilfe von Gesichtsdaten entsperren, wenn der Bildschirm bei eingehenden Benachrichtigungen aufleuchtet. Dadurch kann der Akku schneller entladen werden.</string>
@@ -3276,6 +3279,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_enable_keyguard_toggle_title">Bildschirmsperre</string>
   <string name="fingerprint_enroll_button_add">Einen weiteren hinzufügen</string>
   <string name="fingerprint_enroll_button_next">Weiter</string>
+  <string name="fingerprint_face_password_unlock">Fingerabdrücke, Gesichtsdaten und Bildschirmsperre</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">Gesichterkennung (Bildschirmsperre vorher einstellen)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Fingerabdruck (Bildschirmsperre vorher einstellen)</string>
   <string name="fingerprint_for_keyguard_disabled">Fingerabdruck wurde in den Sicherheitseinstellungen deaktiviert</string>
@@ -3300,6 +3304,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_not_identified_msg">Fingerabdruck wurde nicht erkannt. Geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
   <string name="fingerprint_others_title">Andere</string>
+  <string name="fingerprint_password_unlock">Fingerabdrücke &amp; Bildschirmsperre</string>
   <string name="fingerprint_payment">Fingerabdruckzahlung</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Benachrichtigungen schnell sehen</string>
@@ -5909,6 +5914,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
   <string name="password_turned_off_text">Schutz wurde deaktiviert</string>
   <string name="password_turned_on_text">Schutz wurde aktiviert</string>
+  <string name="password_unlock">Bildschirmsperre</string>
   <string name="password_unlock_title">Bildschirmsperre</string>
   <string name="payment_summary">%1$s ist Standard</string>
   <string name="peak_refresh_rate_summary">Erhöht automatisch die Bildwiederholfrequenz von 60 auf 90 Hz für einige Inhalte. Erhöht den Akkuverbrauch.</string>

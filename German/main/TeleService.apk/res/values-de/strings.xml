@@ -1088,6 +1088,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="fdn_with_label">Rufnummernbeschränkung (%s)</string>
   <string name="fire_type_description">Feuer</string>
   <string name="fiveg_bearer_status1">5G-Bearer-Status:</string>
+  <string name="fiveg_carrier_aggregation_title">5G Carrier Aggregation</string>
   <string name="fiveg_endc_available1">NR ENDC verfügbar:</string>
   <string name="fiveg_endc_status1">ENDC-Status:</string>
   <string name="fiveg_hosted_mode_summary">Automatisch bestes Netzwerk auswählen, um Strom zu sparen</string>
@@ -1315,6 +1316,7 @@ Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
   <string name="label_available">Verfügbare Netzwerke</string>
   <string name="label_cdp">SIM Firmenentsperr-PIN</string>
   <string name="label_ndp">SIM-Netzwerk Entsperr-PIN</string>
+  <string name="label_ndp_nck">SIM-Netzfreischaltung NCK</string>
   <string name="label_nsdp">SIM Netzbereichentsperr-PIN</string>
   <string name="label_phoneid">Person gesperrt für</string>
   <string name="label_puk">PUK eingeben</string>
@@ -1426,6 +1428,7 @@ Immer diese Nummer verwenden"</string>
   <string name="message_decode_error">Fehler beim Decodieren der Nachricht</string>
   <string name="mhh_disable">Medizin, Gesundheit und Krankenhaus ausgeschaltet</string>
   <string name="mhh_enable">Medizin, Gesundheit und Krankenhaus eingeschaltet</string>
+  <string name="mi_mobile_settings_summary">Datentarife bereitgestellt von Xiaomi</string>
   <string name="mi_mobile_sim_activate_message">SIM %d aktivieren, um Mi Mobile verwenden zu können. Dies kann bis zu 5 Min dauern.</string>
   <string name="mi_mobile_sim_activate_ok">Aktivieren</string>
   <string name="mi_mobile_sim_activate_title">Wilkommen bei Mi Mobile!</string>

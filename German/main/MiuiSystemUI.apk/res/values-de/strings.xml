@@ -1810,6 +1810,8 @@ Screenshot zu erstellen"</string>
   <string name="overlay_display_devices_title">Sekundärdsplay simulieren</string>
   <string name="overview">Übersicht</string>
   <string name="owner_info_settings_edit_text_hint">"Z. B. Joe's Android"</string>
+  <string name="pad_zen_mode_warnings_all_time_content">Benachrichtigungen werden stummgeschaltet</string>
+  <string name="pad_zen_mode_warnings_keyguard_content">Benachrichtigungen werden stummgeschaltet, wenn das Gerät gesperrt ist</string>
   <string name="partial_screenshot_edit">Bearbeiten</string>
   <string name="partial_screenshot_repaint">Neu beginnen</string>
   <string name="partial_screenshot_save">Speichern</string>

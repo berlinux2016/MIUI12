@@ -434,6 +434,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="media_transfer_this_device_name">Telefonlautsprecher</string>
   <string name="media_transfer_wired_device_name">Kabelgebundenes Audiogerät</string>
   <string name="media_transfer_wired_usb_device_name">Kabelgebundener Kopfhörer</string>
+  <string name="message_no_voice_capability">Mit diesem Gerät können keine Anrufe getätigt werden</string>
   <string name="midnight">Nacht</string>
   <string name="missedcall_notification_public_version_title">Telefon</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
