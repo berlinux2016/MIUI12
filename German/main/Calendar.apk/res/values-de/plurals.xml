@@ -5,8 +5,8 @@
     <item quantity="one">+%d Eintrag</item>
   </plurals>
   <plurals name="Ndays">
-    <item quantity="other">%d Tage</item>
-    <item quantity="one">%d Tag</item>
+    <item quantity="other">%d Tage vorher</item>
+    <item quantity="one">%d Tag vorher</item>
   </plurals>
   <plurals name="Ndays_after">
     <item quantity="other">In %1$d Tagen</item>
@@ -29,20 +29,20 @@
     <item quantity="one">%d Eintrag</item>
   </plurals>
   <plurals name="Nhours">
-    <item quantity="other">%d Std</item>
-    <item quantity="one">%d Std</item>
+    <item quantity="other">%d Std vorher</item>
+    <item quantity="one">%d Std vorher</item>
   </plurals>
   <plurals name="Nmins">
     <item quantity="other">%d Min</item>
     <item quantity="one">%d Min</item>
   </plurals>
   <plurals name="Nminutes">
-    <item quantity="other">%d Min</item>
-    <item quantity="one">%d Min</item>
+    <item quantity="other">%d Min vorher</item>
+    <item quantity="one">%d Min vorher</item>
   </plurals>
   <plurals name="Nweeks">
-    <item quantity="other">%d Wo</item>
-    <item quantity="one">%d Wo</item>
+    <item quantity="other">%d Wo vorher</item>
+    <item quantity="one">%d Wo vorher</item>
   </plurals>
   <plurals name="a_hour_ago">
     <item quantity="other">Vor 1 Stunde</item>
