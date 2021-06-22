@@ -184,6 +184,7 @@ Verbinden Sie sowohl Ihr Telefon als auch den externen Monitor (z. B. Ihren TV) 
 4. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden."</string>
   <string name="help_page_text_end">Wenn Ihre Gerätemarke hier nicht aufgeführt ist, wenden Sie sich an den Hersteller, um mehr über die Übertragungsfunktionalität zu erfahren.</string>
   <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
+  <string name="mipaly_server_exit_touping">Bitte zunächst aktuellen Screencast beenden</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
