@@ -363,6 +363,7 @@ Xiaomi Health wird Sie nur über wichtige Dinge informieren."</string>
   <string name="dialog_delete_record_confirm">Diesen Datensatz löschen?</string>
   <string name="dialog_exercise_purpose">Willkommen bei Xiaomi Health! Mit \"Schrittzähler\" können Sie Ihre Schritte während des Tages sehen sowie Ihre Aktivitätsziele festlegen und verwalten. Alle zugehörigen Daten werden lokal auf Ihrem Gerät gespeichert, sodass Sie sie einfach verwalten können.</string>
   <string name="dialog_exit">Beenden</string>
+  <string name="dialog_exit_use">Beenden</string>
   <string name="dialog_feedback_content">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; ihre Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können die Berechtigungen jederzeit einschränken oder in den Einstellungen widerrufen.</string>
   <string name="dialog_feedback_purpose">Xiaomi Health muss auf den Speicher zugreifen, um Feedback zu geben</string>
   <string name="dialog_feedback_purpose2">Für die Feedback-Übermittlung</string>
