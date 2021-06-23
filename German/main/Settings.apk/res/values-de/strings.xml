@@ -5840,6 +5840,39 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="owner_info_settings_title">Info zum Eigentümer</string>
   <string name="owner_space">Hauptprofil</string>
   <string name="packages_subtitle">Enthaltene Pakete</string>
+  <string name="pad_backup_summary">Sichern und Wiederherstellen von Elementen auf diesem Gerät</string>
+  <string name="pad_backup_title">Mobiles Gerät</string>
+  <string name="pad_computer_backup_summary">Sichern und Wiederherstellen von Elementen mit einem Computer</string>
+    <string name="pad_how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem Mobilgerät, Computer oder USB-Laufwerk gespeichert werden.
+
+Mobiles Gerät
+Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente in einer separaten Datei auf Ihrem Gerät (MIUI-Backup-AllBackup) sichern. Hinweis: Durch das Zurücksetzen auf die Werkseinstellungen werden diese Sicherungen dauerhaft gelöscht. Denken Sie daran, Sicherungen auf Ihren Computer zu kopieren.
+
+Computer
+Erstellen Sie eine Sicherung auf diesem Gerät, gehen Sie dann zu MIUI-Backup-AllBackup und kopieren Sie die Sicherung per USB-Kabel auf Ihren Computer.
+
+USB-Laufwerk
+Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente auf einem USB-Laufwerk speichern.
+
+Xiaomi Cloud
+Ihre Kontakte, Fotos, Videos, die Liste Ihrer Apps, Systemeinstellungen und das Layout des Startbildschirms mit der Cloud synchronisieren.
+"</string>
+  <string name="pad_how_restore_backup_content">"Hier erfahren Sie, wie Sie Elemente wiederherstellen können, die mit verschiedenen Methoden gesichert wurden:
+
+Mobiles Gerät
+Auf \"Mobilgerät\" tippen, die Option zum Wiederherstellen von Elementen suchen und die Sicherung auswählen, um fortzufahren.
+
+
+Computer
+Sicherung von Ihrem Computer über ein USB-Kabel auf MIUI-backup-AllBackup kopieren und die Elemente von Ihrem mobilen Gerät wiederherstellen.
+
+
+USB-Laufwerk
+Sicherung von Ihrem USB-Laufwerk nach MIUI-backup-AllBackup kopieren und die Option zur Wiederherstellung von Elementen von einem USB-Laufwerk wählen, um fortzufahren.
+
+Xiaomi Cloud
+Xiaomi Cloud öffnen und Elemente von dort wiederherstellen.
+"</string>
   <string name="page_layout_1">Sonntag, 16. August</string>
   <string name="page_layout_10">Einstellungen</string>
   <string name="page_layout_11">Wetter</string>
