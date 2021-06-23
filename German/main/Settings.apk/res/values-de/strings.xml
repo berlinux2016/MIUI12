@@ -5841,38 +5841,36 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="owner_space">Hauptprofil</string>
   <string name="packages_subtitle">Enthaltene Pakete</string>
   <string name="pad_backup_summary">Sichern und Wiederherstellen von Elementen auf diesem Gerät</string>
-  <string name="pad_backup_title">Mobiles Gerät</string>
+  <string name="pad_backup_title">Mobilgerät</string>
   <string name="pad_computer_backup_summary">Sichern und Wiederherstellen von Elementen mit einem Computer</string>
-    <string name="pad_how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem Mobilgerät, Computer oder USB-Laufwerk gespeichert werden.
+  <string name="pad_how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem Mobilgerät, Computer oder USB-Laufwerk gespeichert werden.
 
-Mobiles Gerät
-Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente in einer separaten Datei auf Ihrem Gerät (MIUI-Backup-AllBackup) sichern. Hinweis: Durch das Zurücksetzen auf die Werkseinstellungen werden diese Sicherungen dauerhaft gelöscht. Denken Sie daran, Sicherungen auf Ihren Computer zu kopieren.
+Mobilgerät
+Systemeinstellungen, Konten, App-Daten und andere Elemente in einer separaten Datei auf Ihrem Gerät (MIUI-backup-AllBackup) sichern. Hinweis: Durch das Zurücksetzen auf die Werkseinstellungen werden diese Sicherungen dauerhaft gelöscht. Denken Sie daran, Sicherungen auf Ihren Computer zu kopieren.
 
 Computer
-Erstellen Sie eine Sicherung auf diesem Gerät, gehen Sie dann zu MIUI-Backup-AllBackup und kopieren Sie die Sicherung per USB-Kabel auf Ihren Computer.
+Sicherung auf diesem Gerät erstellen, dann zu MIUI-backup-AllBackup gehen und die Sicherung per USB-Kabel auf Ihren Computer kopieren.
 
 USB-Laufwerk
-Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente auf einem USB-Laufwerk speichern.
+Systemeinstellungen, Konten, App-Daten und andere Elemente auf einem USB-Laufwerk speichern.
 
 Xiaomi Cloud
-Ihre Kontakte, Fotos, Videos, die Liste Ihrer Apps, Systemeinstellungen und das Layout des Startbildschirms mit der Cloud synchronisieren.
-"</string>
+Kontakte, Fotos, Videos, App-Liste, Systemeinstellungen und das Startbildschirm-Layout mit der Cloud synchronisieren."</string>
   <string name="pad_how_restore_backup_content">"Hier erfahren Sie, wie Sie Elemente wiederherstellen können, die mit verschiedenen Methoden gesichert wurden:
 
-Mobiles Gerät
+Mobilgerät
 Auf \"Mobilgerät\" tippen, die Option zum Wiederherstellen von Elementen suchen und die Sicherung auswählen, um fortzufahren.
 
 
 Computer
-Sicherung von Ihrem Computer über ein USB-Kabel auf MIUI-backup-AllBackup kopieren und die Elemente von Ihrem mobilen Gerät wiederherstellen.
+Sicherung von Ihrem Computer über ein USB-Kabel auf MIUI-backup-AllBackup kopieren und die Elemente von Ihrem Mobilfgerät wiederherstellen.
 
 
 USB-Laufwerk
 Sicherung von Ihrem USB-Laufwerk nach MIUI-backup-AllBackup kopieren und die Option zur Wiederherstellung von Elementen von einem USB-Laufwerk wählen, um fortzufahren.
 
 Xiaomi Cloud
-Xiaomi Cloud öffnen und Elemente von dort wiederherstellen.
-"</string>
+Xiaomi Cloud öffnen und Elemente von dort wiederherstellen."</string>
   <string name="page_layout_1">Sonntag, 16. August</string>
   <string name="page_layout_10">Einstellungen</string>
   <string name="page_layout_11">Wetter</string>
@@ -6142,7 +6140,6 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="power_usage_summary_title_new">Akku</string>
   <string name="power_user">Benutzer</string>
   <string name="power_wifi">WLAN</string>
-  
   <string name="pre_install_app_browser">Browser</string>
   <string name="pre_install_app_camera">Kamera</string>
   <string name="pre_install_app_gallery">Galerie</string>
@@ -6160,7 +6157,6 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="pre_install_question_query_title">Wie prüft man die für die Installation und den Betrieb der Software erforderliche Berechtigungsliste?</string>
   <string name="pre_install_question_uninstall_summary">Sie können zu Einstellungen auf \"Mehrere Apps\" gehen, eine App auswählen, die die Deinstallation unterstützt und auf Deinstallieren tippen. Die Deinstallation der voreingestellten Komponenten des Systems kann dazu führen, dass einige Systemfunktionen ausfallen oder abnormal laufen. Es wird empfohlen, mit Vorsicht vorzugehen. Bei Drittanbieter-Apps, die deinstalliert werden können, können Sie auch lange auf das Symbol auf dem Desktop drücken und es dann in den Mülleimer am oberen Bildschirmrand ziehen, um die App zu deinstallieren.</string>
   <string name="pre_install_question_uninstall_title">Wie kann ich die App deinstallieren?</string>
-
   <string name="pre_installed_application">Vorinstallierte Apps</string>
   <string name="pref_bg_network_title">Hintergrundverbindung</string>
   <string name="pref_button_light">Tastenbeleuchtung</string>
@@ -6577,7 +6573,7 @@ UT Interface: %5$s"</string>
 "<li>Alle Rechtebeschränkungen</li>"
  App-Daten gehen nicht verloren."</string>
   <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
-  <string name="reset_confirm_directory">Hinweis: Vor dem Wiederherstellen von Elementen prüfen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät vorhanden ist. Ist dies nicht der Fall, erstellen Sie ihn.</string>
+  <string name="reset_confirm_directory">Hinweis: Vor dem Wiederherstellen von Elementen prüfen, ob der Ordner \"MIUI-backup-AllBackup\" auf Ihrem Mobilgerät vorhanden ist. Ist dies nicht der Fall, erstellen Sie ihn.</string>
   <string name="reset_dashboard_summary">Netzwerk, Apps oder Gerät können zurückgestzt werden</string>
   <string name="reset_dashboard_summary_onlyApps">Apps können zurückgesetzt werden</string>
   <string name="reset_dashboard_title">Zurücksetzen</string>
