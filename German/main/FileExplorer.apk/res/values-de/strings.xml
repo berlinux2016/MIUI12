@@ -306,7 +306,7 @@
   <string name="fmt_weekday_timezone">W z</string>
   <string name="folder_name_empty">Ordnername darf nicht leer sein</string>
   <string name="folder_name_illegal">Ungültiger Ordnername</string>
-  <string name="follow_fail">Folgen fehlgeschlagen, versuchen Sie es später erneut</string>
+  <string name="follow_fail">Folgen fehlgeschlagen, später erneut versuchen</string>
   <string name="follow_success_tip">Erfolgreich abgeschlossen</string>
   <string name="follow_tip_1">Folgen Sie mir, um weitere Videos zu sehen</string>
   <string name="follow_tip_2">Folgen Sie mir, um weitere Videos zu sehen</string>
@@ -778,6 +778,7 @@
   <string name="save_name_success">Änderung erfolgreich</string>
   <string name="search_app">Quelle</string>
   <string name="search_app_more">Mehr</string>
+  <string name="search_category">Nach Kategorie suchen</string>
   <string name="search_category_folder">Ordner</string>
   <string name="search_description">Nach allen Dateien auf dem Gerät suchen</string>
   <string name="search_download">Downloads;Neueste Downloads</string>
