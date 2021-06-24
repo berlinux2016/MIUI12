@@ -38,6 +38,7 @@
   <string name="already_liked">Schon in den Favoriten vorhanden</string>
   <string name="apk_installing">Installieren…</string>
   <string name="app_all_purpose">Sie können gerne den Dateimanager verwenden. Mit dieser App können Sie die Funktionen von Dateien auf Ihrem Telefon verwalten.</string>
+  <string name="app_all_purpose_pad">Willkommen bei File Manager! Sie können diese App verwenden, um die auf Ihrem Gerät gespeicherten Dateien zu verwalten.</string>
   <string name="app_function">Dateien auf Ihrem Gerät verwalten</string>
   <string name="app_name">Dateimanager</string>
   <string name="app_name_camera">Kamera</string>
@@ -233,6 +234,7 @@
   <string name="encrypt_success">Erfolgreich versteckt</string>
   <string name="encrypt_success_first_five">Datei verschlüsselt und versteckt. Auf der Startseite des Dateimanagers runterwischen, um versteckte Dateien anzuzeigen.</string>
   <string name="encrypting">Verschlüsseln…</string>
+  <string name="enter">File Manager öffnen</string>
   <string name="entry_phone_storage_internal">Interner Speicher</string>
   <string name="entry_storage_cloned_app">Dual Apps</string>
   <string name="entry_storage_usb">USB-Gerät</string>
@@ -346,6 +348,12 @@
   <string name="group_title_extra_new">Neu</string>
   <string name="guide_newfunc_content">Jetzt können Sie Dateiformate filtern, Elemente neu anordnen und zwischen den Ansichten wechseln, indem Sie auf die Verknüpfung tippen.</string>
   <string name="guide_newfunc_title">Neue Funktion</string>
+  <string name="guide_one_summary">Letzte Einträge sind nach Datum gruppiert.</string>
+  <string name="guide_one_title">Elemente in Zeitleiste angeordnet</string>
+  <string name="guide_three_summary">Startseitenverknüpfungen hinzufügen, entfernen und neuanordnen.</string>
+  <string name="guide_three_title">Verknüpfungen neu anordnen</string>
+  <string name="guide_two_summary">Fotos und Screenshots sind standardmäßig in der Galerie ausgeblendet.</string>
+  <string name="guide_two_title">Nur wesentliche Elemente sehen</string>
   <string name="handsome_boy">Männlich</string>
   <string name="has_installed">Installiert</string>
   <string name="hint_switch_to_grid_mode">Auf Rasteransicht umschalten</string>
@@ -566,6 +574,7 @@
   <string name="network_spent_reminding_title">Datenverbrauchsbenachrichtigung</string>
   <string name="new_comments">Neue Kommentare</string>
   <string name="new_folder_name">Neuer Ordner</string>
+  <string name="next">Weiter</string>
   <string name="night">Abend</string>
   <string name="no">Nein</string>
   <string name="no_apk">Tippen, um Apps zu bekommen</string>
@@ -894,6 +903,7 @@
   <string name="sort_hint_type">Nach Typ sortiert</string>
   <string name="sort_size_asc">Von klein nach groß</string>
   <string name="sort_size_desc">Von groß nach klein</string>
+  <string name="start_all">Alle anzeigen</string>
   <string name="start_doc">Dokumente</string>
   <string name="start_phone">Dateien</string>
   <string name="start_server">Server starten</string>
