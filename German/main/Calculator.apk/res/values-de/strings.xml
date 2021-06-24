@@ -830,7 +830,7 @@ Beachten Sie, dass diese App eine Internetverbindung und folgende Berechtigungen
   <string name="unit_kg">Kilogramm</string>
   <string name="unit_meter">Meter</string>
   <string name="unit_pound">Pfund</string>
-  <string name="unit_year">a</string>
+  <string name="unit_year">J</string>
   <string name="unit_year_format">Jahr %s</string>
   <string name="unit_yuan">EUR</string>
   <string name="updating">Rechner aktualisieren…</string>
