@@ -476,6 +476,11 @@
     <item>Glühen</item>
     <item>Wellen</item>
   </string-array>
+  <string-array name="color_game_led_freq_entries">
+    <item>Alle 2 Sekunden</item>
+    <item>Alle 3 Sekunden</item>
+    <item>Alle 5 Sekunden</item>
+  </string-array>
   <string-array name="fold_entries">
     <item>Empfohlen</item>
     <item>Wichtig</item>

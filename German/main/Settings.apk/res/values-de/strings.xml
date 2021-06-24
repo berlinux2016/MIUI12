@@ -1,33 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="external_ram_dialog_btn_cancel">Später</string>
-  <string name="external_ram_dialog_btn_ok">Neustart</string>
-  <string name="external_ram_dialog_message">Ihr Gerät neu starten, um die Änderungen zu übernehmen.</string>
-  <string name="external_ram_dialog_title">Gerät neu starten</string>
-  <string name="external_ram_summary">%1$s %2$s an RAM hinzufügen, indem Sie Speicherplatz belegen. Verwenden Sie diese Funktion nur, wenn genügend Speicherplatz auf Ihrem Gerät verfügbar ist.</string>
-  <string name="external_ram_title">Speichererweiterung</string>
-  <string name="external_ram_toast">Speichererweiterung kann nicht verwendet werden, da der Speicherplatz nicht ausreicht</string>
-  <string name="permission_records">Berechtigungen verwenden</string>
-  <string name="permission_records_summary">Zusammenfassung, wie Apps Berechtigungen verwenden</string>
-
-  <string name="dark_mode_auto_time_summary">Dark Mode für einen benutzerdefinierten Zeitraum einschalten</string>
-  <string name="dark_mode_auto_time_title">Benutzerdefinierter Zeitraum</string>
-  <string name="dark_mode_day_night_mode_summary">Nach Sonnenuntergang automatisch in den Dark Mode wechseln</string>
-  <string name="dark_mode_day_night_mode_title">Gute Nacht mit Dark Mode</string>
-  <string name="dark_mode_sunrise_sunset_notify_summary">Dark Mode Sonnenauf-/-untergang Benachrichtigungsübersicht</string>
-  <string name="dark_mode_sunrise_sunset_notify_title">Dark Mode Sonnenauf-/-untergang Benachrichtigungstitel</string>
-  <string name="dark_mode_time_settings">Dark Mode Zeitplan</string>
-  <string name="dark_mode_time_settings_summary">Zusammenfassung Dark Mode Zeiteinstellungen</string>
-  <string name="headphone_assisted_summary">Telefonmikrofon an Ihren angeschlossenen Bluetooth-Kopfhörer übertragen</string>
-  <string name="headphone_assisted_title">Live-In-Ear-Monitor</string>
-  <string name="maintenance_title">Reparaturmodus</string>
-  <string name="miui_sos_remind_sendnow_donot_send">Nicht senden</string>
-  <string name="privacy_policy">Datenschutzerklärung</string>
-  <string name="sar">RF-Belastungsinformation</string>
-  <string name="three_gesture_horizontal">Horizontal mit %d Fingern wischen</string>
-  <string name="three_gesture_pc_mode">PC-Modus einschalten</string>
-  <string name="user_agreement">Nutzungsbedingungen</string>
-
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
@@ -1926,6 +1898,12 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="color_game_led_applications_title_summary">Einzelne Apps auswählen, die mit LED-Licht arbeiten</string>
   <string name="color_game_led_battery_title">Während des Ladens eingeschaltet lassen</string>
   <string name="color_game_led_charging_summary">LED-Licht wird ausgeschaltet, wenn der Akku geladen wird</string>
+  <string name="color_game_led_color_title">Helle Farbe</string>
+  <string name="color_game_led_dialog_freq">Sekunden</string>
+  <string name="color_game_led_feature_off">Aus</string>
+  <string name="color_game_led_feature_on">Ein</string>
+  <string name="color_game_led_freq">%s Sek</string>
+  <string name="color_game_led_freq_title">Flackerfrequenz</string>
   <string name="color_game_led_end_time">Ende</string>
   <string name="color_game_led_game_mode_summary">Effekte für Spiele anzeigen, wenn Game Turbo eingeschaltet ist</string>
   <string name="color_game_led_game_mode_title">Für Game Turbo verwenden</string>
@@ -2267,9 +2245,17 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="dark_color_summary_lcd">Dunkle Farbpalette für Systemhintergründe und kompatible Apps verwenden. Dark Mode hilft, die Augen zu schonen, wenn Sie Ihr Gerät im Dunkeln verwenden.</string>
   <string name="dark_color_summary_oled">Dunkle Farbpalette für Systemhintergründe und kompatible Apps verwenden. Dark Mode reduziert den Stromverbrauch und hilft, die Augen zu schonen.</string>
   <string name="dark_mode_apps_header">Einzelne Apps</string>
+  <string name="dark_mode_auto_time_summary">Dark Mode für einen benutzerdefinierten Zeitraum einschalten</string>
+  <string name="dark_mode_auto_time_title">Benutzerdefinierter Zeitraum</string>
   <string name="dark_mode_contrast">Kontrast automatisch einstellen</string>
   <string name="dark_mode_contrast_hint">Farben und geringeren Kontrast automatisch anpassen, wenn die Helligkeit reduziert wird</string>
+  <string name="dark_mode_day_night_mode_summary">Nach Sonnenuntergang automatisch in den Dark Mode wechseln</string>
+  <string name="dark_mode_day_night_mode_title">Gute Nacht mit Dark Mode</string>
   <string name="dark_mode_font_background_title">Text und Hintergründe automatisch anpassen</string>
+  <string name="dark_mode_sunrise_sunset_notify_summary">Dark Mode Sonnenauf-/-untergang Benachrichtigungsübersicht</string>
+  <string name="dark_mode_sunrise_sunset_notify_title">Dark Mode Sonnenauf-/-untergang Benachrichtigungstitel</string>
+  <string name="dark_mode_time_settings">Dark Mode Zeitplan</string>
+  <string name="dark_mode_time_settings_summary">Zusammenfassung Dark Mode Zeiteinstellungen</string>
   <string name="dark_theme_slice_subtitle">Verlängert die Akkulaufzeit</string>
   <string name="dark_theme_slice_title">Dunkles Design testen</string>
   <string name="dark_ui_activation_off_auto">Bis Sonnenuntergang deaktivieren</string>
@@ -3138,6 +3124,13 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="exterior">Farbschema</string>
   <string name="external_code_size_label">USB-Speicher-App</string>
   <string name="external_data_size_label">USB-Speicherdaten</string>
+  <string name="external_ram_dialog_btn_cancel">Später</string>
+  <string name="external_ram_dialog_btn_ok">Neustart</string>
+  <string name="external_ram_dialog_message">Ihr Gerät neu starten, um die Änderungen zu übernehmen.</string>
+  <string name="external_ram_dialog_title">Gerät neu starten</string>
+  <string name="external_ram_summary">%1$s %2$s an RAM hinzufügen, indem Sie Speicherplatz belegen. Verwenden Sie diese Funktion nur, wenn genügend Speicherplatz auf Ihrem Gerät verfügbar ist.</string>
+  <string name="external_ram_title">Speichererweiterung</string>
+  <string name="external_ram_toast">Speichererweiterung kann nicht verwendet werden, da der Speicherplatz nicht ausreicht</string>
   <string name="external_source_switch_title">Von dieser Quelle erlauben</string>
   <string name="external_source_trusted">Erlaubt</string>
   <string name="external_source_untrusted">Nicht erlaubt</string>
@@ -3738,6 +3731,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="header_category_personal">Benutzer</string>
   <string name="header_category_wireless_networks">Netzwerk</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisation</string>
+  <string name="headphone_assisted_summary">Telefonmikrofon an Ihren angeschlossenen Bluetooth-Kopfhörer übertragen</string>
+  <string name="headphone_assisted_title">Live-In-Ear-Monitor</string>
   <string name="headset_connectiong">Verbinden…</string>
   <string name="headset_remove_message">Möchten Sie dieses Gerät von Ihrem Konto entfernen?</string>
   <string name="headset_remove_message_indicate">Alle mit dem Xiaomi-Konto verbundenen Geräte werden entfernt</string>
@@ -4650,6 +4645,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="main_netcheck_summary">Verbindung bei Netzwerkproblemen testen</string>
   <string name="main_running_process_description">Hauptprozess wird verwendet</string>
   <string name="main_toolbar_statistic">Datennutzungsstatistik</string>
+  <string name="maintenance_title">Reparaturmodus</string>
   <string name="make_sure_cancel_update">Update abbrechen?</string>
   <string name="man_add_application">App zum Autostart hinzufügen</string>
   <string name="manage_app_notification">%1$s Benachrichtigungen verwalten</string>
@@ -5036,6 +5032,7 @@ Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
   <string name="miui_sos_remind_open">SOS-Notfallhilfe benötigt mindestens 1 Notfallkontakt, um normal zu funktionieren.</string>
   <string name="miui_sos_remind_sendinfo">Vergessen Sie nicht, diesen Leuten zu sagen, dass sie jetzt Ihre Notfallkontakte sind. So können sie Ihnen im Notfall schneller helfen.</string>
   <string name="miui_sos_remind_sendnow">Jetzt senden</string>
+  <string name="miui_sos_remind_sendnow_donot_send">Nicht senden</string>
   <string name="miui_sos_remind_title">Achtung</string>
   <string name="miui_sos_settings_alert_contacts_repeat">Doppelte Kontakte können nicht hinzugefügt werden.</string>
   <string name="miui_sos_settings_alert_contacts_too_many">Sie können bis zu 3 Notfallkontakte hinzufügen.</string>
@@ -5975,6 +5972,8 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="permission_mgr">Rechte</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps fragen nicht nach Ihrer Erlaubnis, bevor sie Ihre Kontakte lesen, Ihre Anrufliste einsehen, Systemeinstellungen ändern oder auf die Kamera und andere Geräteressourcen zugreifen. Sie können diese Funktion in den Rechteeinstellungen aktivieren.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Rechtemanager</string>
+  <string name="permission_records">Berechtigungen verwenden</string>
+  <string name="permission_records_summary">Zusammenfassung, wie Apps Berechtigungen verwenden</string>
   <string name="permission_settings_summary">Verwalten Sie Berechtigungen für Standort, Speicher, Telefon, Nachrichten und Kontakte</string>
   <string name="permission_settings_title">App-Berechtigungen</string>
   <string name="permission_with_SMS_and_MMS">Rechte bezüglich SMS und MMS</string>
@@ -6359,6 +6358,7 @@ sensible Informationen enthalten können"</string>
   <string name="privacy_password_use_finger_dialog_title">Fingerabdruck</string>
   <string name="privacy_password_use_finger_success">Eingeschaltet</string>
   <string name="privacy_password_visible_pattern">Muster anzeigen</string>
+  <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="privacy_protect_title">Privatsphäre schützen</string>
   <string name="privacy_protection">Privatsphäre schützen</string>
   <string name="privacy_protection_title">Datenschutz</string>
@@ -6717,6 +6717,7 @@ UT Interface: %5$s"</string>
   <string name="rx_link_speed_label">Verbindungsgeschwindigkeit erhalten:</string>
   <string name="rx_wifi_speed">Verbindungsgeschwindigkeit erhalten</string>
   <string name="safety_and_regulatory_info">Sicherheits- &amp; Regelwerk</string>
+  <string name="sar">RF-Belastungsinformation</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
@@ -8624,7 +8625,7 @@ Geben Sie Speicher frei oder transferieren Sie nur wichtige Elemente."</string>
   <string name="trans_select_data_too_large">"Sie haben zu viele Elemente zur Übertragung gewählt.
 Wählen Sie nur wichtige Elemente, um die Übertragung zu beschleunigen."</string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen</string>
-  <string name="trans_select_device_send">Wählen Sie ein Gerät, um Daten zu senden</string>
+  <string name="trans_select_device_send">Ein Gerät wählen, um Daten zu senden</string>
   <string name="trans_select_notification_message">Tippen zum Anzeigen</string>
   <string name="trans_select_notification_title">Mi Mover arbeitet…</string>
   <string name="trans_sender">Ich bin der Sender</string>
@@ -8650,6 +8651,8 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="trans_wlan_tips_title"> WLAN nicht ausschalten</string>
   <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="translation_contributors_title">Mitwirkende</string>
+  <string name="three_gesture_horizontal">Horizontal mit %d Fingern wischen</string>
+  <string name="three_gesture_pc_mode">PC-Modus einschalten</string>
   <string name="trigger_carrier_provisioning">Carrier Provisioning auslösen</string>
   <string name="truetone_summary">Farben an Umgebungslicht anpassen</string>
   <string name="truetone_title">Anpassbare Farben</string>
@@ -8962,6 +8965,7 @@ Deaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Gerät
   <string name="usagestats_device_timeout_negative">In 1 Stunde erinnern</string>
   <string name="usagestats_device_timeout_positive">Verstanden</string>
   <string name="usagestats_device_timeout_title">Bildschirmzeit-Alarm</string>
+  <string name="user_agreement">Nutzungsbedingungen</string>
   <string name="usb_adb_input">USB-Debugging (Sicherheitseinstellungen)</string>
   <string name="usb_adb_input_desc">Berechtigungen erteilen und Eingabesimulation über USB-Debugging erlauben</string>
   <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
