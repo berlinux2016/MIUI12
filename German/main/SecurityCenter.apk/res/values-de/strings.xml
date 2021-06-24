@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_settings_link">Zusätzliche Einstellungen in der App</string>
-  <string name="confirm_open_shut_down_password_content">Bildschirmsperre festlegen, bevor Sie die Abschaltbestätigung einschalten</string>
-  <string name="confirm_open_shut_down_password_title">Bildschirmsperre festlegen</string>
-  <string name="scan_open_shut_down_password_content">Ihr Gerät vor unberechtigtem Zugriff schützen</string>
-  <string name="scan_open_shut_down_password_title">Abschaltbestätigung</string>
-  <string name="shut_down_password_content">Wenn Sie Ihr Gerät verlieren, schützt die Abschaltbestätigung es davor, dass es von demjenigen, der es findet, ausgeschaltet wird.</string>
-  <string name="suggest_to_use_mi_sim">Mi SIM verwenden, um zu verhindern, dass Sie zusätzliche Anbieterkosten generieren.</string>
-  <string name="traffic_usage_warning_body_go_to_mi_sim">Sie haben diesen Monat bereits %s an mobilen Daten verbraucht. Tippen, um Mi SIM zu verwenden.</string>
-  <string name="verify_shut_down_password_content">Bestätigen der Bildschirmsperre erforderlich, wenn das Gerät während der Sperre ausgeschaltet wird</string>
-  <string name="verify_shut_down_password_title">Abschaltbestätigung</string>
-
   <string name="antivirus_browser_check">Webseiten im Mi Browser prüfen</string>
   <string name="antivirus_browser_check_summary">Webseiten im Mi Browser automatisch prüfen und Warnungen über mögliche Risiken erhalten</string>
   <string name="antivirus_monitored_tips">Zahlungsumgebung automatisch auf mögliche Risiken prüfen</string>
@@ -18,12 +7,65 @@
   <string name="antivirus_sms_check_summary">Links in den eingehenden Nachrichten prüfen und Warnungen über mögliche Risiken erhalten</string>
   <string name="antivirus_website_check_status">Ein</string>
   <string name="antivirus_website_check_title">Sicheres Surfen im Internet</string>
+  <string name="app_behavior_about_setting">Einstellungen</string>
+  <string name="app_behavior_dashboard_desc">Aktivität in den letzten %d Stunden</string>
+  <string name="app_behavior_dashboard_total_usage_title">Alle Datensätze anzeigen</string>
+  <string name="app_behavior_dashboard_usage">App-Verhalten</string>
+  <string name="app_behavior_dashboard_usage_list_title">Ansicht nach Berechtigung</string>
+  <string name="app_behavior_desc_allowed">Erlaubt</string>
+  <string name="app_behavior_desc_allowed_on_background">Im Hintergrund erlaubt</string>
+  <string name="app_behavior_desc_denied">Verweigert</string>
+  <string name="app_behavior_desc_denied_on_background">Im Hintergrund verweigert</string>
+  <string name="app_behavior_desc_other_perm_allowed">Letzte Aktivität: %s</string>
+  <string name="app_behavior_desc_other_perm_denied">Aktivität in den letzten %d Stunden</string>
+  <string name="app_behavior_global_settings_perm_tips">Benachrichtigung in der Statusleiste erhalten, wenn Apps Audio aufzeichnen oder die Kamera verwenden</string>
+  <string name="app_behavior_record_setting_button_title">Verhalten der Systemdienste anzeigen</string>
+  <string name="app_behavior_record_setting_show_system">Verhalten der Systemdienste anzeigen</string>
+  <string name="app_behavior_record_setting_show_system_desc">Option einschalten, um das Verhalten der grundlegenden Systemdienste anzuzeigen. Um die Stabilität des Systems zu gewährleisten, verwenden diese Dienste die erforderlichen Berechtigungen, von denen einige nicht eingeschränkt werden können.</string>
+  <string name="app_behavior_record_setting_show_system_title">Verhalten der Systemdienste anzeigen</string>
+  <string name="app_behavior_record_setting_title">Verhaltensaufzeichnungen</string>
+  <string name="app_settings_link">Zusätzliche Einstellungen in der App</string>
+  <string name="cetus_invisible_mode_warn_open">Inkognito-Modus setzt Mikrofon-, Kamera- und ortsbezogene Berechtigungen für alle Apps aus. Jetzt einschalten?</string>
+  <string name="confirm_open_shut_down_password_content">Bildschirmsperre festlegen, bevor Sie die Abschaltbestätigung einschalten</string>
+  <string name="confirm_open_shut_down_password_title">Bildschirmsperre festlegen</string>
+  <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzwerks werden. Wenn seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
+  <string name="ew_monitor_exit">Abmelden</string>
+  <string name="ew_monitor_exit_content">Hallo Freiwilliger mit Nummer %s! Ihr Gerät kann seismische Aktivitäten überwachen und Daten sammeln, die helfen würden, frühzeitige Erdbebenwarnungen auszugeben. Trotzdem abmelden?</string>
+  <string name="ew_monitor_exit_title">Achtung</string>
+  <string name="ew_monitor_have_been">"Ich bin stolz darauf, ein "</string>
+  <string name="ew_monitor_info_title">Wie funktioniert das?</string>
+  <string name="ew_monitor_join_number">Anzahl der Freiwilligen</string>
+  <string name="ew_monitor_join_path">Mit einem Xiaomi-Gerät am Programm teilnehmen: Sicherheit > Erdbebenwarnung > Freiwillige Erdbebenüberwachung</string>
+  <string name="ew_monitor_my_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
+  <string name="ew_monitor_number_prex">Nummer %s</string>
+  <string name="ew_monitor_open">Beitreten</string>
+  <string name="ew_monitor_read_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und stimme zu.</Data></string>
+  <string name="ew_monitor_share">Teilen</string>
+  <string name="ew_monitor_slogan">"An unserem Erdbeben-
+Überwachungsprogramm teilnehmen"</string>
+  <string name="ew_monitor_summary1">Ihr Gerät zur seismischen Überwachung verwenden.</string>
+  <string name="ew_monitor_summary2">Erdbebenalarmbezogene Informationen melden.</string>
+  <string name="ew_monitor_summary3">Mehr Menschen helfen, Erdbebenwarnungen schneller zu erhalten.</string>
+  <string name="ew_monitor_support">Technische Unterstützung durch das Chengdu Hi-tech Disaster Reduction Institute</string>
+  <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi-/Redmi-Geräten und MIUI-Versionen unterstützt.</string>
+  <string name="ew_monitor_thanks_tips">"Vielen Dank, für die
+freiwillige Erdbebenüberwachung, Nummer %s!"</string>
+  <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
+  <string name="ew_monitor_title_spilt">"Freiwillige
+Erdbebenüberwachung"</string>
   <string name="gb_shoulder_key_light_effect">Farbanimationen</string>
   <string name="gb_shoulder_key_light_effect_color">Farbe</string>
   <string name="gb_shoulder_key_light_effect_subtitle">Farbanimationen werden angezeigt, wenn die Schultertasten aktiviert sind und Sie Spiele spielen</string>
   <string name="gb_shoulder_key_light_effect_title">Animationen</string>
+  <string name="network_assistant_privacy">Um die Datennutzung nach App zu verfolgen, sammeln wir Informationen wie Paketnamen, WLAN- und mobile Datennutzung, Datennutzung zu Spitzenzeiten und außerhalb der Spitzenzeiten und wann WLAN und mobile Daten eingeschaltet sind. Diese Informationen werden lokal auf Ihrem Gerät gespeichert.</string>
+  <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
+  <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
+  <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
+  <string name="scan_open_shut_down_password_content">Ihr Gerät vor unberechtigtem Zugriff schützen</string>
+  <string name="scan_open_shut_down_password_title">Abschaltbestätigung</string>
   <string name="security_protection_bottom_slogon">Sicherheit auf höchstem Niveau</string>
   <string name="security_protection_title">Sicherheit</string>
+  <string name="shut_down_password_content">Wenn Sie Ihr Gerät verlieren, schützt die Abschaltbestätigung es davor, dass es von demjenigen, der es findet, ausgeschaltet wird.</string>
   <string name="sp_abnormal_scan_summary">Probleme erkennen und lösen</string>
   <string name="sp_abnormal_scan_title">Probleme lösen</string>
   <string name="sp_antispam_scan_summary">Schützen Sie sich vor Betrug</string>
@@ -66,55 +108,10 @@
   <string name="sp_system_security_title">Systemsicherheit</string>
   <string name="sp_website_scan_summary">Sicheres Surfen im Internet</string>
   <string name="sp_website_scan_title">Webseiten prüfen</string>
-
-  <string name="app_behavior_about_setting">Einstellungen</string>
-  <string name="app_behavior_dashboard_desc">Aktivität in den letzten %d Stunden</string>
-  <string name="app_behavior_dashboard_total_usage_title">Alle Datensätze anzeigen</string>
-  <string name="app_behavior_dashboard_usage">App-Verhalten</string>
-  <string name="app_behavior_dashboard_usage_list_title">Ansicht nach Berechtigung</string>
-  <string name="app_behavior_desc_allowed">Erlaubt</string>
-  <string name="app_behavior_desc_allowed_on_background">Im Hintergrund erlaubt</string>
-  <string name="app_behavior_desc_denied">Verweigert</string>
-  <string name="app_behavior_desc_denied_on_background">Im Hintergrund verweigert</string>
-  <string name="app_behavior_desc_other_perm_allowed">Letzte Aktivität: %s</string>
-  <string name="app_behavior_desc_other_perm_denied">Aktivität in den letzten %d Stunden</string>
-  <string name="app_behavior_global_settings_perm_tips">Benachrichtigung in der Statusleiste erhalten, wenn Apps Audio aufzeichnen oder die Kamera verwenden</string>
-  <string name="app_behavior_record_setting_button_title">Verhalten der Systemdienste anzeigen</string>
-  <string name="app_behavior_record_setting_show_system">Verhalten der Systemdienste anzeigen</string>
-  <string name="app_behavior_record_setting_show_system_desc">Option einschalten, um das Verhalten der grundlegenden Systemdienste anzuzeigen. Um die Stabilität des Systems zu gewährleisten, verwenden diese Dienste die erforderlichen Berechtigungen, von denen einige nicht eingeschränkt werden können.</string>
-  <string name="app_behavior_record_setting_show_system_title">Verhalten der Systemdienste anzeigen</string>
-  <string name="app_behavior_record_setting_title">Verhaltensaufzeichnungen</string>
-  <string name="cetus_invisible_mode_warn_open">Inkognito-Modus setzt Mikrofon-, Kamera- und ortsbezogene Berechtigungen für alle Apps aus. Jetzt einschalten?</string>
-  <string name="network_assistant_privacy">Um die Datennutzung nach App zu verfolgen, sammeln wir Informationen wie Paketnamen, WLAN- und mobile Datennutzung, Datennutzung zu Spitzenzeiten und außerhalb der Spitzenzeiten und wann WLAN und mobile Daten eingeschaltet sind. Diese Informationen werden lokal auf Ihrem Gerät gespeichert.</string>
-  <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
-  <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
-  <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
-
-  <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzwerks werden. Wenn seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
-  <string name="ew_monitor_exit">Abmelden</string>
-  <string name="ew_monitor_exit_content">Hallo Freiwilliger mit Nummer %s! Ihr Gerät kann seismische Aktivitäten überwachen und Daten sammeln, die helfen würden, frühzeitige Erdbebenwarnungen auszugeben. Trotzdem abmelden?</string>
-  <string name="ew_monitor_exit_title">Achtung</string>
-  <string name="ew_monitor_have_been">"Ich bin stolz darauf, ein "</string>
-  <string name="ew_monitor_info_title">Wie funktioniert das?</string>
-  <string name="ew_monitor_join_number">Anzahl der Freiwilligen</string>
-  <string name="ew_monitor_join_path">Mit einem Xiaomi-Gerät am Programm teilnehmen: Sicherheit > Erdbebenwarnung > Freiwillige Erdbebenüberwachung</string>
-  <string name="ew_monitor_my_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
-  <string name="ew_monitor_number_prex">Nummer %s</string>
-  <string name="ew_monitor_open">Beitreten</string>
-  <string name="ew_monitor_read_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und stimme zu.</Data></string>
-  <string name="ew_monitor_share">Teilen</string>
-  <string name="ew_monitor_slogan">"An unserem Erdbeben-
-Überwachungsprogramm teilnehmen"</string>
-  <string name="ew_monitor_summary1">Ihr Gerät zur seismischen Überwachung verwenden.</string>
-  <string name="ew_monitor_summary2">Erdbebenalarmbezogene Informationen melden.</string>
-  <string name="ew_monitor_summary3">Mehr Menschen helfen, Erdbebenwarnungen schneller zu erhalten.</string>
-  <string name="ew_monitor_support">Technische Unterstützung durch das Chengdu Hi-tech Disaster Reduction Institute</string>
-  <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi-/Redmi-Geräten und MIUI-Versionen unterstützt.</string>
-  <string name="ew_monitor_thanks_tips">"Vielen Dank, für die
-freiwillige Erdbebenüberwachung, Nummer %s!"</string>
-  <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
-  <string name="ew_monitor_title_spilt">"Freiwillige
-Erdbebenüberwachung"</string>
+  <string name="suggest_to_use_mi_sim">Mi SIM verwenden, um zu verhindern, dass Sie zusätzliche Anbieterkosten generieren.</string>
+  <string name="traffic_usage_warning_body_go_to_mi_sim">Sie haben diesen Monat bereits %s an mobilen Daten verbraucht. Tippen, um Mi SIM zu verwenden.</string>
+  <string name="verify_shut_down_password_content">Bestätigen der Bildschirmsperre erforderlich, wenn das Gerät während der Sperre ausgeschaltet wird</string>
+  <string name="verify_shut_down_password_title">Abschaltbestätigung</string>
 
   <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
