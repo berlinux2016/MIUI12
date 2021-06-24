@@ -35,7 +35,7 @@
   <string name="ew_monitor_have_been">"Ich bin stolz darauf, ein "</string>
   <string name="ew_monitor_info_title">Wie funktioniert das?</string>
   <string name="ew_monitor_join_number">Anzahl der Freiwilligen</string>
-  <string name="ew_monitor_join_path">Mit einem Xiaomi-Gerät am Programm teilnehmen: Sicherheit > Erdbebenwarnung > Freiwillige Erdbebenüberwachung</string>
+  <string name="ew_monitor_join_path">Mit einem Xiaomi-Gerät am Programm teilnehmen: Sicherheit &gt; Erdbebenwarnung &gt; Freiwillige Erdbebenüberwachung</string>
   <string name="ew_monitor_my_content">Erdbebenüberwachung bedeutet, dass das System, nachdem das Telefon die seismische Welle über den Niedrigleistungssensor erfasst hat, die Erdbebeninformationen mithilfe des KI-Algorithmus schnell berechnet und so bald wie möglich eine Frühwarnung an die Menschen in dem betroffenen Gebiet sendet, damit mehr Menschen Gefahren vermeiden und ihre persönliche Sicherheit schützen können.</string>
   <string name="ew_monitor_number_prex">Nummer %s</string>
   <string name="ew_monitor_open">Beitreten</string>
