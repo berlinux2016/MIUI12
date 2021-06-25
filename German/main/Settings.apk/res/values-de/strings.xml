@@ -10033,7 +10033,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN herzustell
   <string name="wifi_update">Statistik aktualisieren</string>
   <string name="wifi_use_system_certs">Systemzertifikate verwenden</string>
   <string name="wifi_venue_website_button_text">Seite öffnen</string>
-  <string name="wifi_verbose_logging">Ausführliche WLAN-Logs</string>
+  <string name="wifi_verbose_logging">Ausführliche WLAN-Protokolle</string>
   <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
   <string name="wifi_wakeup">WLAN automatisch einschalten</string>
   <string name="wifi_wakeup_location_summary">Standortdienste einschalten, um diese Funktion zu verwenden</string>

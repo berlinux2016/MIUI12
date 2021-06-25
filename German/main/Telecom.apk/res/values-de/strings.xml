@@ -329,7 +329,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="duplicate_video_call_not_allowed">Mehr Anrufe hinzufügen nicht möglich</string>
   <string name="early_morning">Morgen</string>
   <string name="enable_account_preference_title">Anrufkonten</string>
-  <string name="enable_adb">USB Debugging</string>
+  <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">Debug-Modus, wenn per USB verbunden</string>
   <string name="enable_adb_wireless">Kabelloses Debugging</string>
   <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
