@@ -734,6 +734,7 @@
   <string name="prize_result_tip2">Edelsteine gehen in Ihre Schatzkammer</string>
   <string name="promot_enctypt_password">Um das Gerät zu entsperren, geben Sie das Passwort ein oder schalten Sie die Kindersicherung aus</string>
   <string name="pull_to_enter_private">Herunterziehen zum Öffnen privater Ordner</string>
+  <string name="pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="qq_msg">Wegen Android 11-Einschränkungen kann der Dateimanager nicht auf QQ-Dokumente zugreifen und diese anzeigen.</string>
   <string name="qq_not_installed">QQ ist nicht installiert</string>
   <string name="qq_title">Kein Zugriff auf WeChat-Dokumente</string>
@@ -772,7 +773,7 @@
   <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
   <string name="rlv_pull_to_close">Zum Schließen nach unten ziehen</string>
-  <string name="rlv_pull_to_refresh">Ziehen zum Aktualisieren</string>
+  <string name="rlv_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="rlv_refreshing">Aktualisieren…</string>
   <string name="rlv_release_to_close">Zum Schließen loslassen</string>
   <string name="rlv_release_to_refresh">Zum Aktualisieren loslassen</string>
