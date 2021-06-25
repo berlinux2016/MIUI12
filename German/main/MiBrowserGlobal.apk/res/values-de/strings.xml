@@ -1539,7 +1539,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="progress_dialog_setting_wallpaper">Hintergrundbild einstellen…</string>
   <string name="psw_hint">Passwort</string>
   <string name="psw_sign_in">Mit Passwort anmelden</string>
-  <string name="pull_to_refresh">Runterziehen zum Aktualisieren</string>
+  <string name="pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
   <string name="pwa_app_name">Webapps</string>
@@ -1634,7 +1634,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="return_to_homepage">Zurück zur Startseite</string>
   <string name="rlv_last_refreshing_time">%1$s aktualisiert</string>
   <string name="rlv_loading_more">Einen Moment…</string>
-  <string name="rlv_pull_to_refresh">Zum Aktualisieren runterziehen</string>
+  <string name="rlv_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="rlv_refreshing">Aktualisieren…</string>
   <string name="rlv_release_to_refresh">Zum Aktualisieren loslassen</string>
   <string name="root_folder_lable">Nichts</string>

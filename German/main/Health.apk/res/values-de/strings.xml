@@ -1725,7 +1725,7 @@ auf Ihren persönlichen Daten beraten."</string>
   <string name="total_distance_label">Gesamtstrecke</string>
   <string name="total_slip">Schlaganzahl</string>
   <string name="total_time_label">Gesamtzeit</string>
-  <string name="tracking_progress_labe_pull_to_refresh">Zum Aktualisieren ziehen</string>
+  <string name="tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="tracking_progress_labe_refreshed">Aktualisieren abgeschlossen</string>
   <string name="tracking_progress_labe_refreshing">Aktualisieren</string>
   <string name="tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>

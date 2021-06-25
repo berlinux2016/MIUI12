@@ -396,9 +396,9 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="michat_network_unavaliable">Info nicht erhalten, Netzwerkverbindung prüfen</string>
   <string name="michat_no_good_message_title">Das löst mein Problem nicht</string>
   <string name="michat_product_click_text">Anzeigen</string>
-  <string name="michat_pull_to_refresh_pull_label">Nach unten ziehen, um den Verlauf anzuzeigen</string>
+  <string name="michat_pull_to_refresh_pull_label">Zur Verlaufsanzeige herunterziehen</string>
   <string name="michat_pull_to_refresh_refreshing_label">Verlauf laden…</string>
-  <string name="michat_pull_to_refresh_release_label">Loslassen zum Anzeigen des Verlaufs</string>
+  <string name="michat_pull_to_refresh_release_label">Zur Verlaufsanzeige loslassen</string>
   <string name="michat_queue_pos_update">%1$d Leute sind vor Ihnen, einen Moment warten…</string>
   <string name="michat_return_to_outside">Beenden</string>
   <string name="michat_service_unavailiable">Information nicht erhalten, später erneut versuchen</string>

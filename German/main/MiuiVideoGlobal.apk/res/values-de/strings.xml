@@ -864,7 +864,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="ovp_home_item_folder">Dateien</string>
   <string name="ovp_home_local">Lokal</string>
   <string name="ovp_home_me">Konto</string>
-  <string name="ovp_home_no_data_callback">Info wurde nicht geladen. Zum Auffrischen nach unten ziehen.</string>
+  <string name="ovp_home_no_data_callback">Info wurde nicht geladen. Zum Aktualisieren herunterziehen.</string>
   <string name="ovp_info_video_loading">Einen Moment…</string>
   <string name="ovp_load_playinfo_failure">Keine Info erhalten</string>
   <string name="ovp_loading_video_netplay_label_v5">Einen Moment…</string>
@@ -1152,10 +1152,10 @@ Sicherheit Ihres Kontos erhöhen."</string>
   <string name="progressbar_title">Auf Sicherheitsprobleme prüfen…</string>
   <string name="psw_hint">Passwort</string>
   <string name="psw_sign_in">Mit Passwort anmelden</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">Zum Aktualisieren nach unten ziehen…</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">Zum Aktualisieren herunterziehen…</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">Einen Moment…</string>
   <string name="pull_to_refresh_from_bottom_release_label">Zum Aktualisieren loslassen…</string>
-  <string name="pull_to_refresh_pull_label">Zum Aktualisieren nach unten ziehen…</string>
+  <string name="pull_to_refresh_pull_label">Zum Aktualisieren herunterziehen…</string>
   <string name="pull_to_refresh_refreshing_label">Einen Moment…</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren loslassen…</string>
   <string name="push_message_switch">Push-Benachrichtigungen</string>
