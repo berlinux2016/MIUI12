@@ -354,7 +354,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="loading"><CDATA>Einen Moment…</CDATA></string>
   <string name="lock_screen_date">EEEE, d. MMMM</string>
   <string name="lock_screen_date_12">EEEE, d. MMMM</string>
-  <string name="lock_show_permission_exception">Ein Fehler ist aufgetreten. Hintergrundkarussell darf auf dem Sperrbildschirm unter Sicherheit angezeigt werden.</string>
+  <string name="lock_show_permission_exception">Zulassen, dass das Hintergrundkarussell Elemente auf dem Sperrbildschirm anzeigt</string>
   <string name="lockscreen_h5_back_tv">Zurück</string>
   <string name="lockscreen_h5_close_tv">Aus</string>
   <string name="lockscreen_h5_refresh_btn_tv">Aktualisieren</string>
