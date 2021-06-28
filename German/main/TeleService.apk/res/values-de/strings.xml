@@ -1109,6 +1109,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="fiveg_sa_switch_open_dialog_title">Achtung</string>
   <string name="fiveg_sa_switch_summary">Verbindung mit 5G im Standalone-Modus zulassen</string>
   <string name="fiveg_sa_switch_title">SA-Netzwerk</string>
+  <string name="fiveg_sa_switch_title">SA-Netzwerk nutzen</string>
   <string name="fiveg_sa_switch_title_slot0">SIM %d SA-Modus</string>
   <string name="fiveg_sa_switch_title_slot1">SIM %d SA-Modus</string>
   <string name="fiveg_sa_switch_warning_toast">Telefon neu starten, um die Änderungen zu übernehmen</string>
@@ -1499,11 +1500,14 @@ Immer diese Nummer verwenden"</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Datenroaming ist an</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Derzeit Roaming, Datentarif ist aktiv</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Derzeit Roaming, Datentarif benötigt</string>
+  <string name="mobile_geo_location_config_summary">Anormale Standorte von Netzwerksignalen markieren, um die Benutzer-Kommunikation zu verbessern</string>
+  <string name="mobile_geo_location_config_title">Festpunkt-Netzwerkqualitätsoptimierung</string>
   <string name="mobile_intelligent_connection_title">Intelligente Netzwerkverbindung</string>
+  <string name="mobile_network_dual_card_optimizationmobile_title">Mobilnetzoptimierung für zwei Karten</string>
   <string name="mobile_network_settings_not_available">Mobilfunkeinstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="mobile_networks">Einstellungen Mobilfunknetz</string>
-  <string name="mobile_special_network_optimization_config_summary">Wenn das Netzwerk anormal ist, automatisch versuchen zu reparieren</string>
-  <string name="mobile_special_network_optimization_config_title">Spezielle Netzwerkoptimierung</string>
+  <string name="mobile_special_network_optimization_config_summary">Intelligente Erkennung mehrerer Netzwerk-Szenarien zur Verbesserung des Kommunikationserlebnisses</string>
+  <string name="mobile_special_network_optimization_config_title">Szenenadaptiver Modus</string>
   <string name="mock_location_app">App für Scheinstandorte auswählen</string>
   <string name="mock_location_app_not_set">Keine App für Scheinstandorte ausgewählt</string>
   <string name="mock_location_app_set">App für Scheinstandorte: %1$s</string>

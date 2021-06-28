@@ -4017,6 +4017,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="item_system_app">System-Apps</string>
   <string name="join_many_items_last">%1$s und %2$s</string>
   <string name="join_two_items">%1$s und %2$s</string>
+  <string name="kddi_nfc_disabled_summary">Nicht verfügbar, da NFC/Osaifu-keitai aus ist</string>
+  <string name="kddi_nfc_quick_toggle_summary">NFC/Osaifu-keitai-Funktion aktivieren</string>
+  <string name="kddi_nfc_secure_settings_title">Sperren, während der Bildschirm gesperrt ist</string>
+  <string name="kddi_nfc_secure_toggle_summary">NFC/Osaifu-keitai-Funktion zulassen, während der Bildschirm entsperrt ist</string>
   <string name="keep_legacy_fingerprint">Behalten</string>
   <string name="keep_screen_on">Bildschirm nicht sperren</string>
   <string name="keep_screen_on_summary">Bildschirm bleibt während des Ladevorgangs an</string>
@@ -4641,6 +4645,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
   <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
   <string name="macaddr_label">MAC-Adresse:</string>
+  <string name="magic_list_empty_text">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
   <string name="magic_window_name">Parallelfenster</string>
   <string name="main_netcheck_summary">Verbindung bei Netzwerkproblemen testen</string>
   <string name="main_running_process_description">Hauptprozess wird verwendet</string>
@@ -6593,6 +6598,7 @@ UT Interface: %5$s"</string>
   <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Dies kann einige Sekunden dauern. Sie können diese Aktion nicht rückgängig machen.</string>
   <string name="reset_network_final_desc_esim">Alle Netzwerkeinstellungen zurücksetzen und heruntergeladene SIMs löschen? Sie können diese Aktion nicht rückgängig machen.</string>
   <string name="reset_network_title">WLAN, mobile Netzwerke &amp; Bluetooth zurücksetzen</string>
+  <string name="reset_network_title_noSim">WLAN und Bluetooth zurücksetzen</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_remove_data_hint">Alle oben aufgeführten Punkte werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer oder in der Xiaomi-Cloud, bevor Sie fortfahren.</string>
   <string name="reset_second_space_passwd">Zweitprofilpasswort zurücksetzen</string>
