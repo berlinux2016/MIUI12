@@ -9206,7 +9206,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="video_tool_box_title">Video-Toolbox</string>
   <string name="view_password_description">Passwort anzeigen</string>
   <string name="view_saved_network">Zur Ansicht das gespeicherte Netzwerk wählen</string>
-  <string name="vip_list">Über Anrufe benachrichtigen</string>
+  <string name="vip_list">Bei Anruf benachrichtigen</string>
   <string name="virtual_keyboard_category">Virtuelle Tastatur</string>
   <string name="virtual_keyboards_for_work_title">Virtuelle Tastatur für die Arbeit</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
