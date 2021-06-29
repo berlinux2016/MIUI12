@@ -10,12 +10,16 @@
   <string name="app_behavior_about_setting">Einstellungen</string>
   <string name="app_behavior_dashboard_desc">Aktivität in den letzten %d Stunden</string>
   <string name="app_behavior_dashboard_total_usage_title">Alle Datensätze anzeigen</string>
-  <string name="app_behavior_dashboard_usage">App-Verhalten</string>
+  <string name="app_behavior_dashboard_usage">Verwendete Berechtigung</string>
   <string name="app_behavior_dashboard_usage_list_title">Ansicht nach Berechtigung</string>
   <string name="app_behavior_desc_allowed">Erlaubt</string>
+  <string name="app_behavior_desc_allowed_at">Um %s erlaubt</string>
   <string name="app_behavior_desc_allowed_on_background">Im Hintergrund erlaubt</string>
+  <string name="app_behavior_desc_allowed_on_background_at">Um %s im Hintergrund erlaubt</string>
   <string name="app_behavior_desc_denied">Verweigert</string>
+  <string name="app_behavior_desc_denied_at">Um %s abgelehnt</string>
   <string name="app_behavior_desc_denied_on_background">Im Hintergrund verweigert</string>
+  <string name="app_behavior_desc_denied_on_background_at">Um %s im Hintergrund abgelehnt</string>
   <string name="app_behavior_desc_other_perm_allowed">Letzte Aktivität: %s</string>
   <string name="app_behavior_desc_other_perm_denied">Aktivität in den letzten %d Stunden</string>
   <string name="app_behavior_global_settings_perm_tips">Benachrichtigung in der Statusleiste erhalten, wenn Apps Audio aufzeichnen oder die Kamera verwenden</string>
@@ -53,6 +57,7 @@ freiwillige Erdbebenüberwachung, Nummer %s!"</string>
   <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
   <string name="ew_monitor_title_spilt">"Freiwillige
 Erdbebenüberwachung"</string>
+  <string name="first_aid_exception_sub_title">Elemente werden beim Scannen ignoriert</string>
   <string name="gb_shoulder_key_light_effect">Farbanimationen</string>
   <string name="gb_shoulder_key_light_effect_color">Farbe</string>
   <string name="gb_shoulder_key_light_effect_subtitle">Farbanimationen werden angezeigt, wenn die Schultertasten aktiviert sind und Sie Spiele spielen</string>
@@ -1979,6 +1984,8 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gs_show_way_vertical">Vertikal</string>
   <string name="gs_sign_notification">Erinnern, sich täglich um 20 Uhr anzumelden</string>
   <string name="gs_slip_gamebox_detail">Verwenden Sie den Slider oder wischen Sie vom oberen Bildschirmrand, damit das Tastenfeld angezeigt wird.</string>
+  <string name="gtb_brightness_dialog_right_btn">Weitermachen</string>
+  <string name="gtb_brightness_dialog_sub_message">*Sie können diese Funktion in den Einstellungen ein- und ausschalten.</string>
   <string name="gtb_dialog_btn_close">Ausschalten</string>
   <string name="gtb_dialog_btn_open">Einschalten</string>
   <string name="gtb_dialog_hint_smart_5g">Sie können diese Funktion unter Game Turbo &gt; Einstellungen ein- und ausschalten.</string>
@@ -1988,6 +1995,7 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gtb_exit_game_to_home">Zurück zum Startbildschirm</string>
   <string name="gtb_setting_item_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren.</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Verbindungsgeschwindigkeit um 10%%-20%% bei Verbindung mit Mi-/Redmi-Routern erhöhen</string>
+  <string name="gtb_setting_item_title_brightness">Bildschirmhelligkeit automatisch verringern</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WLAN Speed Boost</string>
   <string name="gtb_spring_festival_back_game">Zurück zum Spiel</string>
   <string name="gtb_spring_festival_egg_obtain_fail">Netzwerkverbindung nicht möglich</string>
@@ -2234,7 +2242,7 @@ Anbieters warten"</string>
   <string name="manual_input_free_traffic">Datenlimit festlegen</string>
   <string name="manual_input_traffic">Datennutzung eingeben</string>
   <string name="manual_item_white_list_summary">Ausgewählte Apps werden nicht optimiert</string>
-  <string name="manual_item_white_list_title">Ausnahmen</string>
+  <string name="manual_item_white_list_title">Ausnahmen scannen</string>
   <string name="mark_agent">Gemeldete Agenturen sperren</string>
   <string name="mark_agent_block">Als Agentur gemeldet</string>
   <string name="mark_agent_block_large">Agenturen</string>
@@ -2784,6 +2792,7 @@ Stromverbrauch"</string>
   <string name="pc_battery_history_total_consumption_title">Gesamte Leistungsaufnahme</string>
   <string name="pc_battery_history_usetime_title">Aktiv</string>
   <string name="pc_hidemode_normal">Ausgeglichen</string>
+  <string name="pc_hidemode_normal_title">Ausgeglichen</string>
   <string name="pc_hidemode_performance">Leistung</string>
   <string name="pc_hidemode_performance_title">Leistungsmodus</string>
   <string name="pc_hidemode_power_save">Strom sparen</string>
