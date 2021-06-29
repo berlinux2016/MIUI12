@@ -296,8 +296,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <item quantity="one">Kostenlose %d-Tag-Testversion erhalten</item>
   </plurals>
   <plurals name="gtb_brightness_dialog_message">
-    <item quantity="other">Diese Funktion senkt die Bildschirmhelligkeit nach %d Minuten Inaktivität automatisch, um Strom zu sparen. Diese Funktion an lassen?</item>
-    <item quantity="one">Funktion senkt die Bildschirmhelligkeit nach %d Minute Inaktivität automatisch, um Strom zu sparen. Diese Funktion an lassen?</item>
+    <item quantity="other">Diese Funktion senkt die Bildschirmhelligkeit nach %d Minuten Inaktivität automatisch, um Strom zu sparen. Funktion an lassen?</item>
+    <item quantity="one">Diese Funktion senkt die Bildschirmhelligkeit nach %d Minute Inaktivität automatisch, um Strom zu sparen. Funktion an lassen?</item>
   </plurals>
   <plurals name="gtb_setting_item_summary_brightness">
     <item quantity="other">Bildschirmhelligkeit nach %d Minuten Inaktivität automatisch verringern, um Strom zu sparen</item>
