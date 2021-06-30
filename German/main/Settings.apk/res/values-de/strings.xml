@@ -585,7 +585,7 @@ benachrichtigungen erlauben"</string>
   <string name="apn_new">Neuer APN</string>
   <string name="apn_not_set">Nicht festgelegt</string>
   <string name="apn_password">Passwort</string>
-  <string name="apn_ppp_number">APN-PPP-Telefonnummer</string>
+  <string name="apn_ppp_number">APN-PPP-Rufnummer</string>
   <string name="apn_protocol">APN-Protokoll</string>
   <string name="apn_roaming_protocol">APN-Roamingprotokoll</string>
   <string name="apn_save">Speichern?</string>
@@ -2578,7 +2578,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_screen_usage">Bildschirmzeit seit Vollladung</string>
   <string name="device_sd_memory">Externer Speicher:</string>
   <string name="device_share_loading">Image erstellen</string>
-  <string name="device_status_summary">Telefonnummer, Signal, Akkustatus, Netzwerkstatus etc.</string>
+  <string name="device_status_summary">Rufnummer, Signal, Akkustatus, Netzwerkstatus etc.</string>
   <string name="device_theme">Geräte-Theme</string>
   <string name="device_total_memory">"Gesamter Speicher "</string>
   <string name="device_usage_list_summary">Gerätenutzung seit Vollladung</string>
@@ -3485,7 +3485,7 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="free_wifi_manage_summary">Tippen, um %1$s anzuzeigen</string>
   <string name="free_wifi_speed_title">Langsame Verbindung?</string>
   <string name="free_wifi_summary">Tippen zum Verbinden mit %1$s</string>
-  <string name="free_wifi_user_agreement">Wenn Sie WiWide verwenden, um sich mit einem Netzwerk zu verbinden, wird Ihre Telefonnummer verwendet, um Ihre Identität zu prüfen</string>
+  <string name="free_wifi_user_agreement">Wenn Sie WiWide verwenden, um sich mit einem Netzwerk zu verbinden, wird Ihre Rufnummer verwendet, um Ihre Identität zu prüfen</string>
   <string name="free_wifi_user_agreement_allow">Zustimmen</string>
   <string name="free_wifi_user_agreement_title">Nutzungsbedingung</string>
   <string name="free_xiaomi_wifi_connect_summary">Tippen, um mit %1$s zu verbinden</string>
@@ -6498,7 +6498,7 @@ UT Interface: %5$s"</string>
   <string name="radio_info_message_waiting_label">Nachricht liegt vor:</string>
   <string name="radio_info_neighboring_location_label">Benachbarte CID:</string>
   <string name="radio_info_network_type_label">Netzwerktyp:</string>
-  <string name="radio_info_phone_number_label">Telefonnummer:</string>
+  <string name="radio_info_phone_number_label">Rufnummer:</string>
   <string name="radio_info_phy_chan_config">LTE Physikalische Kanalkonfiguration:</string>
   <string name="radio_info_ppp_received_label">PPP empfangen:</string>
   <string name="radio_info_ppp_resets_label">Anzahl der PPP-Zurücksetzungen seit dem Start:</string>
@@ -7426,7 +7426,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="settings_manual_activity_unavailable">Beim Laden des Handbuchs ist ein Problem aufgetreten</string>
   <string name="settings_notify_need_backup">Sichern Sie Ihre Einstellungen in Xiaomi Cloud, um nach dem Telefonwechsel auf sie zugreifen zu können.</string>
   <string name="settings_notify_new_version">Aktualisierung verfügbar. Tippen Sie hier, um Details anzuzeigen.</string>
-  <string name="settings_notify_phone_recycled">Ihre Telefonnummer wurde bereits wiederverwendet. Tippen Sie, um eine weitere Telefonnummer hinzuzufügen.</string>
+  <string name="settings_notify_phone_recycled">Ihre Rufnummer wurde bereits wiederverwendet. Tippen Sie, um eine weitere Rufnummer hinzuzufügen.</string>
   <string name="settings_panel_title">Einstellungsbereich</string>
   <string name="settings_safetylegal_activity_loading">Laden…</string>
   <string name="settings_safetylegal_activity_title">Sicherheitsinformationen</string>
@@ -7887,9 +7887,9 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_invalid_password">Ungültiges Passwort, erneut versuchen</string>
   <string name="status_latest_area_info">Betreiberinfo</string>
   <string name="status_network_type">Mobilfunktyp</string>
-  <string name="status_number">Meine Telefonnummer</string>
-  <string name="status_number_sim_slot">Telefonnummer (SIM-Slot %1$d)</string>
-  <string name="status_number_sim_status">Telefonnummer der SIM</string>
+  <string name="status_number">Meine Rufnummer</string>
+  <string name="status_number_sim_slot">Rufnummer (SIM-Slot %1$d)</string>
+  <string name="status_number_sim_status">Rufnummer der SIM</string>
   <string name="status_operator">Netzwerk</string>
   <string name="status_prl_version">PRL-Version</string>
   <string name="status_serial_number">Seriennummer</string>
@@ -8147,7 +8147,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="suggestion_additional_fingerprints">Weiteren Fingerabdruck hinzufügen</string>
   <string name="suggestion_additional_fingerprints_summary">Mit anderem Finger entsperren</string>
   <string name="suggestion_button_close">Schließen</string>
-  <string name="suggestion_for_phone_recycled">Andere Telefonnummer hinzufügen</string>
+  <string name="suggestion_for_phone_recycled">Andere Rufnummer hinzufügen</string>
   <string name="suggestion_remove">Entfernen</string>
   <string name="suggestions_more_title">+%1$d mehr</string>
   <string name="suggestions_title">Vorschläge</string>

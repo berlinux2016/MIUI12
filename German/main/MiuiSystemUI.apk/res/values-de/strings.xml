@@ -804,7 +804,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="device_locked_without_biometric_finger">Biometrische Erkennung ist wegen der Verwendung einer Ein-Tasten-Bildschirmsperre eines Drittanbieters nicht möglich</string>
   <string name="device_services">Gerätedienste</string>
   <string name="dewdrops">Morgentau</string>
-  <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Telefonnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
+  <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Rufnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
   <string name="dialog_title_fake_cell_detect_error">Korrektur</string>
   <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart startet diese App erst, wenn Sie Ihr Telefon entsperrt haben.</string>
   <string name="disable_carrier_button_text">eSIM deaktivieren</string>
