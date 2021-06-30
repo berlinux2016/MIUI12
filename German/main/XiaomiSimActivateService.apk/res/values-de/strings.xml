@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_popup_desc_failed_query_info_msg_one_sim">Telefonnummer überprüfen nicht möglich. Sicherstellen, dass die SIM-Karte richtig funktioniert und erneut versuchen.</string>
+  <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Zur \"%2$s\"-Aktivierung  Telefonnummer eingeben. Wenn Sie die SIM-Karte ersetzen, wird eine weitere Aktivierungs-SMS gesendet.</string>
+  <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Um %s zu aktivieren, Telefonufnummer eingeben.</string>
+  <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Um \"%2$s\" zu aktivieren, Telefonnummer eingeben. Der technische Support wird zum Teil von Weihuitel bereitgestellt. Einzelheiten finden Sie in der Weihuitel-Datenschutzerklärung.</string>
+  <string name="activate_popup_failed_send_sms_desc_one_sim">Aktivierungs-SMS senden nicht möglich. Sicherstellen, dass die SIM-Karte richtig funktioniert und erneut versuchen.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Telefonnummer verifizieren nicht möglich. Sicherstellen, dass die SIM-Karte richtig funktioniert und erneut veruchen.</string>
+  <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Aktivierungs-SMS empfangen nicht möglich. Sicherstellen, dass die SIM-Karte richtig funktioniert und erneut versuchen.</string>
+  <string name="error_no_get_send_sms_permission_one_sim">Zuerst das Senden von SMS erlauben.</string>
+  <string name="error_sim_not_in_service_tip_one_sim">Netzwerkverbindung herstellen nicht möglich. Vergewissern, dass die SIM-Karte richtig funktioniert und erneut versuchen.</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

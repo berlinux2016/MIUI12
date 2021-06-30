@@ -9266,6 +9266,9 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="voice_service_preference_section_title">Spracheingabedienste</string>
   <string name="voicemail_number_not_set">&lt;Nicht eingestellt</string>
   <string name="voip_assistant_settings">VoIP-Assistent</string>
+  <string name="voip_assistant_settings_off">Aus</string>
+  <string name="voip_assistant_settings_on">Ein</string>
+  <string name="voip_assistant_settings_summary">VoIP-Anrufe aufnehmen und Sprachausgabeoptimierung verwenden</string>
   <string name="volte_5G_limited_text">"Dies schaltet auch Ihre 5G-Verbindung aus.
 Während eines Sprachanrufs können Sie das Internet nicht nutzen und einige Apps funktionieren eventuell nicht."</string>
   <string name="volte_5G_limited_title">VoLTE ausschalten?</string>
