@@ -10349,7 +10349,7 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_media_list_first">Medien</string>
   <string name="zen_mode_media_summary">Töne aus Videos, Spielen und anderen Medien</string>
   <string name="zen_mode_messages">Nachrichten</string>
-  <string name="zen_mode_messages_footer">Damit die zulässigen Nachrichten einen Ton abgeben, prüfen Sie, ob Ihr Gerät auf Klingeln, Vibrieren oder stumm geschaltet ist.</string>
+  <string name="zen_mode_messages_footer">Damit die zulässigen Nachrichten einen Ton abgeben, prüfen Sie, ob Ihr Gerät auf Klingeln, Vibrieren oder stummgeschaltet ist.</string>
   <string name="zen_mode_messages_header">Nachrichten, die unterbrechen können</string>
   <string name="zen_mode_messages_list">Nachrichten</string>
   <string name="zen_mode_messages_title">Nachrichten erlauben</string>

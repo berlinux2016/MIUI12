@@ -512,7 +512,7 @@
   <string name="done_action">Fertig</string>
   <string name="donot_disturb_endtime_title">Bis</string>
   <string name="donot_disturb_starttime_title">Von</string>
-  <string name="donot_disturb_summary">Benachrichtigungen für eintreffende E-Mails werden stumm geschaltet</string>
+  <string name="donot_disturb_summary">Benachrichtigungen für eintreffende E-Mails werden stummgeschaltet</string>
   <string name="donot_disturb_title">Nicht stören</string>
   <string name="downlaod_cancel_confirm_download">Anhalten</string>
   <string name="downlaod_cancel_continue_download">Nicht anhalten</string>
