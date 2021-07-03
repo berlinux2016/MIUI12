@@ -6562,8 +6562,8 @@ UT Interface: %5$s"</string>
   <string name="remove_from_frequently_fragment">\"%s\" aus den allgemeinen Einstellungen entfernen?</string>
   <string name="remove_managed_profile_label">Arbeitsprofil entfernen</string>
   <string name="repeat">Wiederholen</string>
-  <string name="repeat_call">Benachrichtigen über wiederholte Anrufe</string>
-  <string name="repeat_call_info">Klingeln oder Vibrieren beim Empfang des zweiten Anrufs vom gleichen Kontakt oder der gleichen Rufnummer innerhalb von %d Minuten, wenn DND an ist</string>
+  <string name="repeat_call">Bei wiederholtem Anruf benachrichtigen</string>
+  <string name="repeat_call_info">Klingeln o. vibrieren bei Empfang des 2. Anrufs vom gleichen Kontakt oder der gleichen Rufnummer binnen %d Minuten, wenn DND an ist</string>
   <string name="repeat_days_in_week">Wiederholen</string>
   <string name="repeat_never">Nie</string>
   <string name="repeat_title">Wiederholen</string>
