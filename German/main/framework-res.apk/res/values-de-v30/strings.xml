@@ -95,7 +95,7 @@ Unter \"Einstellungen &gt; \"Bedienungshilfen\" können Sie dieser Verknüpfung
   <string name="location_changed_notification_text">Wenden Sie sich an Ihren IT-Administrator, um mehr zu erfahren</string>
   <string name="location_changed_notification_title">Apps können auf Ihren Standort zugreifen</string>
   <string name="location_service">Standortdienst</string>
-  <string name="mobile_no_internet">Mobiles Netzwerk hat keinen Internetzugriff</string>
+  <string name="mobile_no_internet">Mobilfunknetz hat keinen Internetzugriff</string>
   <string name="not_checked">deaktiviert</string>
   <string name="notification_channel_developer_important">Wichtige Nachrichten für Entwickler</string>
   <string name="notification_history_title_placeholder">Benutzerdefinierte App-Benachrichtigung</string>

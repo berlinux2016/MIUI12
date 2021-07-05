@@ -160,7 +160,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="international_livetalk_enable">Anrufpakete für internationale Anrufe verwenden</string>
   <string name="key_btn_space">Leerzeichen</string>
   <string name="keyboard_identity_reject_confirm">Verstanden</string>
-  <string name="keyboard_identity_reject_message">Es sieht so aus, als ob Ihre Tastatur nicht mit diesem Gerät kompatibel ist.</string>
+  <string name="keyboard_identity_reject_message">Anscheinend ist Ihre Tastatur nicht mit diesem Gerät kompatibel.</string>
   <string name="keyboard_identity_transfer_error_message">Tastatur verbinden nicht möglich, erneut versuchen.</string>
   <string name="keyboard_upgrade_failed">Tastatur aktualisieren nicht möglich</string>
   <string name="keyboard_upgrade_start">Tastatur aktualisieren…</string>

@@ -38,7 +38,7 @@ Kommen Sie das nächste Mal wieder, wenn die App verfügbar ist."</string>
 3. Melden Sie sich auf Ihrem Gerät mit Ihrem Mi-Konto oder WeChat-Konto bei unserer App an. Scannen Sie den QR-Code auf dem anderen Gerät."</string>
   <string name="bind_status_dialog_cancle">Abbrechen</string>
   <string name="bind_status_dialog_confirm">Wiederherstellen</string>
-  <string name="bind_status_dialog_des">Es sieht so aus, als ob ein zuvor hinzugefügtes Gerät nicht mehr durch Family Guard geschützt ist. \"%s\" jetzt wiederherstellen?</string>
+  <string name="bind_status_dialog_des">Anscheinend ist ein zuvor hinzugefügtes Gerät nicht mehr durch Family Guard geschützt. \"%s\" jetzt wiederherstellen?</string>
   <string name="bind_status_dialog_title">Hinzugefügtes Gerät wiederherstellen</string>
   <string name="bind_status_last_bind_time">Zuerst hinzugefügt: %s</string>
   <string name="bind_success">Erfolgreich hinzugefügt</string>

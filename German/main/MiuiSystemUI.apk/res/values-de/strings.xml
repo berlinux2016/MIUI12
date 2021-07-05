@@ -799,9 +799,9 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
   <string name="development_settings_summary">Optionen für App-Entwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
-  <string name="device_locked_without_biometric">Gerät kann nicht mit Fingerabdrücken oder Gesichtsdaten entsperrt werden, wenn Sie eine Bildschirmsperre eines Drittanbieters verwenden</string>
+  <string name="device_locked_without_biometric">Gerät kann nicht mit Fingerabdruck oder Gesichtsdaten entsperrt werden, wenn Sie eine Bildschirmsperre eines Drittanbieters verwenden</string>
   <string name="device_locked_without_biometric_face">Gerät kann nicht mit Gesichtsdaten entsperrt werden, wenn Sie eine Bildschirmsperre eines Drittanbieters verwenden</string>
-  <string name="device_locked_without_biometric_finger">Gerät kann nicht mit Fingerabdrücken entsperrt werden, wenn Sie eine Bildschirmsperre eines Drittanbieters verwenden</string>
+  <string name="device_locked_without_biometric_finger">Gerät kann nicht mit Fingerabdruck entsperrt werden, wenn Sie eine Bildschirmsperre eines Drittanbieters verwenden</string>
   <string name="device_services">Gerätedienste</string>
   <string name="dewdrops">Morgentau</string>
   <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Rufnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>

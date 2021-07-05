@@ -1262,7 +1262,7 @@ Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
   <string name="ivr_parameter_settings">IVR-Parametereinstellungen</string>
   <string name="ivr_type_settings">Datentarifeinstellungen</string>
   <string name="ivr_type_settings_hint">Datentarifcode eingeben</string>
-  <string name="jump_to_mobile_network_setting">Mobile Netzwerkeinstellungen</string>
+  <string name="jump_to_mobile_network_setting">Einstellungen Mobilfunknetz</string>
   <string name="kddi_sim_lock_status_allowed">Erlaubt</string>
   <string name="kddi_sim_lock_status_no_sim">Keine SIM-Karte</string>
   <string name="kddi_sim_lock_status_not_allowed">Nicht erlaubt</string>
@@ -1478,7 +1478,7 @@ Immer diese Nummer verwenden"</string>
   <string name="mobile_advanced_ip_address_title">IP-Adresse</string>
   <string name="mobile_advanced_nr_network_title">5G-Netzwerk</string>
   <string name="mobile_connection_management">Mobile Netwerkverbindung verwalten</string>
-  <string name="mobile_property">Mobile Netzwerkverbindungseigenschaften</string>
+  <string name="mobile_property">Verbindungseigenschaften Mobilfunknetz</string>
   <string name="mobile_data">Mobile Daten</string>
   <string name="mobile_data_activate_button">DATEN HINZUFÜGEN</string>
   <string name="mobile_data_activate_cancel_button">ABBRECHEN</string>
@@ -1502,7 +1502,7 @@ Immer diese Nummer verwenden"</string>
   <string name="mobile_geo_location_config_summary">Orte markieren, an denen Netzwerksignalabweichungen auftreten, um die Gesprächsqualität zu verbessern</string>
   <string name="mobile_geo_location_config_title">Festpunkt-Netzwerkqualitätsoptimierung</string>
   <string name="mobile_intelligent_connection_title">Netzwerkverbindung optimieren</string>
-  <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM &amp; mobile Netzwerke</string>
+  <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM &amp; Mobilfunknetze</string>
   <string name="mobile_network_settings_not_available">Mobilfunkeinstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="mobile_networks">Einstellungen Mobilfunknetz</string>
   <string name="mobile_special_network_optimization_config_summary">Verbesserung der Gesprächsqualität durch autom. Anpassung an unterschiedliche Szenen</string>
@@ -1614,7 +1614,7 @@ Immer diese Nummer verwenden"</string>
   <string name="multi_category_enable">Multikategorie aktiviert</string>
   <string name="national_disable">Nationale Nachrichten ausgeschaltet</string>
   <string name="national_enable">Nationale Nachrichten eingeschaltet</string>
-  <string name="netcheck_title">Mobile Netzwerkdiagnostik</string>
+  <string name="netcheck_title">Mobilfunknetzdiagnostik</string>
   <string name="network_4G">4G (empfohlen)</string>
   <string name="network_active">Aktive Netzwerke</string>
   <string name="network_available">Verfügbare Netzwerke</string>

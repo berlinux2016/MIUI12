@@ -5190,7 +5190,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden."</string>
   <string name="mqs_privacy_automatically_upload">Beim nächsten Mal automatisch hochladen</string>
   <string name="mqs_privacy_dialog_cancel">Abbrechen</string>
   <string name="mqs_privacy_dialog_confirm">Hochladen</string>
-  <string name="mqs_privacy_dialog_content">Es sieht so aus, als seien in letzter Zeit Fehler auf Ihrem Gerät aufgetreten. Sie können Protokolle hochladen, die uns helfen, dieses Problem zu lokalisieren und zu lösen. Protokolle können Ihre persönlichen Informationen enthalten, einschließlich der Informationen über Ihren Standort. Jetzt hochladen?</string>
+  <string name="mqs_privacy_dialog_content">Anscheinend sind in letzter Zeit Fehler auf Ihrem Gerät aufgetreten. Sie können Protokolle hochladen, die uns helfen, dieses Problem zu lokalisieren und zu lösen. Protokolle können Ihre persönlichen Informationen enthalten, einschließlich der Informationen über Ihren Standort. Jetzt hochladen?</string>
   <string name="mqs_privacy_dialog_title">Protokolle hochladen</string>
   <string name="mr_button_content_description">Übertragungstaste</string>
   <string name="mr_cast_button_connected">Übertragungstaste - verbunden</string>
@@ -6605,7 +6605,7 @@ UT Interface: %5$s"</string>
   <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
   <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Dies kann einige Sekunden dauern. Sie können diese Aktion nicht rückgängig machen.</string>
   <string name="reset_network_final_desc_esim">Alle Netzwerkeinstellungen zurücksetzen und heruntergeladene SIMs löschen? Sie können diese Aktion nicht rückgängig machen.</string>
-  <string name="reset_network_title">WLAN, mobile Netzwerke &amp; Bluetooth zurücksetzen</string>
+  <string name="reset_network_title">WLAN, Mobilfunknetze &amp; Bluetooth zurücksetzen</string>
   <string name="reset_network_title_noSim">WLAN und Bluetooth zurücksetzen</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_remove_data_hint">Alle oben aufgeführten Punkte werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer oder in der Xiaomi-Cloud, bevor Sie fortfahren.</string>
@@ -7588,8 +7588,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="sim_lock_settings_summary_off">Aus</string>
   <string name="sim_lock_settings_summary_on">Gesperrt</string>
   <string name="sim_lock_settings_title">SIM-Kartensperre</string>
-  <string name="sim_management_title">SIM-Karten &amp; Mobile Netzwerke</string>
-  <string name="sim_management_title_singlesim">Mobile Netzwerke</string>
+  <string name="sim_management_title">SIM-Karten &amp; Mobilfunknetze</string>
+  <string name="sim_management_title_singlesim">Mobilfunknetze</string>
   <string name="sim_multi_sims_summary">Wählen Sie die SIM-Karte, die Sie für mobile Daten bevorzugen</string>
   <string name="sim_multi_sims_title">Mehrere SIM-Karten gefunden</string>
   <string name="sim_name_hint">SIM-Namen eingeben</string>
@@ -7741,7 +7741,7 @@ Wenn Sie diese Berechtigung nicht erteilen, können Sie einige Funktionen dieser
   <string name="sos_privacy_dialog_button_cancel">Abbrechen</string>
   <string name="sos_privacy_dialog_button_ok">Zustimmen</string>
   <string name="sos_privacy_dialog_message">"Lesen und akzeptieren Sie unsere %s, bevor Sie diese Funktion nutzen.
-Diese Funktion benötigt Berechtigungen, um auf Ihren Standort zuzugreifen, mobile Netzwerke zu nutzen und Ihre Kontakte zu lesen. Zustimmen?"</string>
+Diese Funktion benötigt Berechtigungen, um auf Ihren Standort zuzugreifen, Mobilfunknetze zu nutzen und Ihre Kontakte zu lesen. Zustimmen?"</string>
   <string name="sos_privacy_dialog_message_new_version">"Mit SOS-Notfallhilfe können Sie Ihren Standort in Echtzeit mitteilen und Textnachrichten an Ihre Notfallkontakte senden.
 Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien.
 Beachten Sie, dass diese App eine Internetverbindung und die folgenden Berechtigungen benötigt, um Ihre persönlichen Daten zu erfassen:
