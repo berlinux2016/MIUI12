@@ -92,6 +92,10 @@
   <string name="HIPS_Perm_install_shortcut_Desc">Verknüpfungen auf Startbildschirm hinzufügen</string>
   <string name="HIPS_Perm_mediaVolume">Medienlautstärke einstellen</string>
   <string name="HIPS_Perm_mediaVolume_Desc">Der App erlauben, die Medienlautstärke anzupassen</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner">Zugangsrufnummer für Anmeldung</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Rufnummer vom Netzbetreiber für die Anmeldung abfragen</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Wenn Sie sich jetzt nicht mit Tippen anmelden konnten, zurück zur Anmeldeseite gehen und erneut versuchen.</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Message">Diese App möchte Ihre Rufnummer vom Netzbetreiber für die Anmeldung erhalten. Zustimmen?</string>
   <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf NFC-Hardware</string>
   <string name="HIPS_Perm_process_outgoing_calls">Zugriff auf Telefon-App</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Eingehende Anrufe überwachen</string>

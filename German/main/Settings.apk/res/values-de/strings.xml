@@ -2916,6 +2916,10 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Alle GNSS Konstellationen und Frequenzen ohne Duty Cycling verfolgen</string>
   <string name="enable_gpu_debug_layers">GPU Debug-Ebenen aktivieren</string>
   <string name="enable_gpu_debug_layers_summary">Laden von GPU Debug-Ebenen für Debug-Apps erlauben</string>
+  <string name="enable_local_backup">Einschalten</string>
+  <string name="enable_local_backup_cancel">Abbrechen</string>
+  <string name="enable_local_backup_message">Diese Funktion einschalten, um Sicherungen auf diesem Gerät zu speichern und sie auf Ihren Computer oder ein USB-Speichergerät zu kopieren. Jetzt einschalten?</string>
+  <string name="enable_local_backup_title">Lokale Sicherungen</string>
   <string name="enable_mms_notification_channel_title">MMS-Nachricht</string>
   <string name="enable_mms_notification_summary">Tippen, um MMS-Nachrichten auf %1$s zu erlauben, wenn mobile Daten ausgeschaltet sind</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobile Datenverbindung aktivieren?</string>
@@ -4308,6 +4312,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="local_backup_section_summary_new">Konten, App-Daten, Systemeinstellungen und mehr sichern</string>
   <string name="local_backup_section_title">Lokale Sicherungen</string>
   <string name="local_backup_section_title_new">Auf diesem Gerät</string>
+  <string name="local_backup_usestatus_title">Lokale Sicherungen sind aus</string>
   <string name="local_backup_window_title">Lokale Sicherungsdaten</string>
   <string name="local_home_title">Lokale Sicherungen</string>
   <string name="local_no_backup">Keine lokalen Sicherungen</string>
@@ -4616,7 +4621,8 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="login">Anmelden</string>
   <string name="login_account_dialog_message">Melden Sie sich an Ihrem Mi-Konto an und schalten Sie die Synchronisation mit Xiaomi Cloud ein</string>
   <string name="login_account_dialog_title">Melden Sie sich an Ihrem Mi-Konto an</string>
-  <string name="login_account_summary">Verwaltung von Konten, Cloud-Diensten, Zahlungen und mehr</string>
+  <string name="login_account_summary">Konten, Cloud-Dienste, Zahlungen verwalten und mehr</string>
+  <string name="login_account_summary_temp">Konten, Cloud-Dienste, Zahlungen verwalten und mehr</string>
   <string name="login_action">Anmelden</string>
   <string name="login_failed">Anmeldung fehlgeschlagen. Erneut versuchen.</string>
   <string name="logining">Anmelden…</string>
@@ -4831,6 +4837,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="mi_service_app_detail">Angaben zur Datennutzung</string>
   <string name="mi_upi_settings">Mi Pay-Konto</string>
   <string name="micloud_service_summary">App-Liste synchronisieren, Systemeinstellungen und Startbildschirm-Layout sichern</string>
+  <string name="micloud_service_summary_temp">Fotos, Videos, Kontakte synchronisieren und mehr</string>
   <string name="middle_function_key">Zentraler Bereich</string>
   <string name="midnight">Nacht</string>
   <string name="miheadet_up_music">Oben</string>
