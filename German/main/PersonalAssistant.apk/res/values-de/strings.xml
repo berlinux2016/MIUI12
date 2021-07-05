@@ -955,7 +955,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="edit_comment_hint">Anmerkung</string>
   <string name="edit_delete_dialog_message">Diesen Eintrag aus dem Verlauf löschen?</string>
   <string name="empty_card_btn">App öffnen</string>
-  <string name="empty_card_tip">Sieht so aus, als sind Sie nicht angemeldet oder haben diese Karte noch nicht eingerichtet</string>
+  <string name="empty_card_tip">Anscheinend sind Sie nicht angemeldet oder haben diese Karte noch nicht eingerichtet</string>
   <string name="empty_card_title">Keine Daten</string>
   <string name="empty_duokan_card_btn">Bücher anzeigen</string>
   <string name="empty_duokan_card_tip">Zurzeit lesen Sie nichts</string>

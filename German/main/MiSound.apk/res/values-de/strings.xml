@@ -111,11 +111,11 @@
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
-  <string name="headset_use_long_time">Sieht aus, als hätten Sie Ihre Kopfhörer länger als empfohlen getragen. Nehmen Sie sie ab und machen Sie eine Pause.</string>
+  <string name="headset_use_long_time">Anscheinend haben Sie Ihre Kopfhörer länger als empfohlen getragen. Nehmen Sie sie ab und machen Sie eine Pause.</string>
   <string name="headset_use_loud_volume">Kopfhörerlautstärke war lange Zeit hoch. Um Ihr Gehör zu schützen, wurde sie auf den empfohlenen Pegel gesenkt.</string>
-  <string name="headset_use_not_support_noise_reduction">Sieht aus, als ob Ihre aktuelle Umgebung sehr laut ist. Wenn Sie jetzt Ihre Kopfhörer tragen, kann dies Ihr Gehör beeinträchtigen.</string>
+  <string name="headset_use_not_support_noise_reduction">Anscheinend ist Ihre aktuelle Umgebung sehr laut. Wenn Sie jetzt Ihre Kopfhörer tragen, kann dies Ihr Gehör beeinträchtigen.</string>
   <string name="headset_use_prompt">Kopfhörer</string>
-  <string name="headset_use_support_noise_reduction">Sieht aus, als ob Ihre aktuelle Umgebung sehr laut ist. Verwenden Sie die Geräuschunterdrückung, um Ihr Gehör zu schützen.</string>
+  <string name="headset_use_support_noise_reduction">Anscheinend ist Ihre aktuelle Umgebung sehr laut. Verwenden Sie die Geräuschunterdrückung, um Ihr Gehör zu schützen.</string>
   <string name="headset_volume_content">Die aktuelle Kopfhörerlautstärke überschreitet den empfohlenen Grenzwert. Verringern Sie die Lautstärke, um Ihr Gehör zu schützen.</string>
   <string name="headset_volume_prompt">Kopfhörerlautstärke</string>
   <string name="heard_no">Nein</string>

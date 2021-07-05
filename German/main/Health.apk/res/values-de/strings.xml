@@ -354,7 +354,7 @@ Bitte senden Sie dem Techniker diesen Code."</string>
 Xiaomi Health wird Sie nur über wichtige Dinge informieren."</string>
   <string name="dialog_auto_start_title">Xiaomi Health den Autostart erlauben</string>
   <string name="dialog_auto_start_title2">Xiaomi Health den Autostart erlauben</string>
-  <string name="dialog_body_weight_conflict">Sieht so aus, als hätten Sie das Gewicht während der ausgewählten Zeit bereits aufgezeichnet. Originaldaten überschreiben?</string>
+  <string name="dialog_body_weight_conflict">Anscheinend haben Sie das Gewicht während der ausgewählten Zeit bereits aufgezeichnet. Originaldaten überschreiben?</string>
   <string name="dialog_body_weight_select">Gewicht einstellen</string>
   <string name="dialog_cancel">Abbrechen</string>
   <string name="dialog_cancel_edit_record">Änderungen jetzt verwerfen?</string>
@@ -490,7 +490,7 @@ Wenn Ihr Gerät hier aufgeführt ist, können Sie Datenquellen manuell in Xiaomi
   <string name="exercise_walk_description">Nach den Ernährungsrichtlinien für chinesische Einwohner sollte die aktive körperliche Betätigung mindestens 40 Minuten pro Tag dauern, was dem Gehen von 6000 Schritten entspricht. Die Schritte, die Sie jeden Tag machen, um zu gehen, zu laufen und nach oben zu gehen, sind hier zusammengefasst.</string>
   <string name="exit_running_tips_cancel">Ja</string>
   <string name="exit_running_tips_confirm">Nein</string>
-  <string name="exit_running_tips_desc">Sieht so aus, als hätten Sie noch nicht mit dem Workout begonnen. Dieses Workout beenden?</string>
+  <string name="exit_running_tips_desc">Anscheinend haben Sie noch nicht mit dem Workout begonnen. Dieses Workout beenden?</string>
   <string name="exit_running_tips_title">Workout beenden</string>
   <string name="expand_all">Alle anzeigen</string>  
   <string name="expand_button_title">Erweitert</string>
@@ -682,7 +682,7 @@ mit einem Finger"</string>
   <string name="indoor_running">Laufband</string>
   <string name="input_body_weight">Gewichtsdaten eingeben, um eine Gesundheitsberatung zu erhalten</string>
   <string name="inquire_recover_data">Gesundheitsdaten jetzt wiederherstellen?</string>
-  <string name="inquire_recover_data_subtitle">Sieht so aus, als wären Gesundheitsdaten mit Ihrem Mi-Konto (%1$s) verbunden. Jetzt die Synchronisation mit der Cloud einschalten und Daten wiederherstellen?</string>
+  <string name="inquire_recover_data_subtitle">Anscheinend sind Gesundheitsdaten mit Ihrem Mi-Konto (%1$s) verbunden. Jetzt die Synchronisation mit der Cloud einschalten und Daten wiederherstellen?</string>
   <string name="instructions_provider">Verfügbare Anweisungen von Miao Health</string>
   <string name="insufficient">Zu wenig ☹️!</string>
   <string name="jump_freq">Sprungfrequenz</string>
@@ -810,15 +810,15 @@ mit einem Finger"</string>
   <string name="mens_day_in_predict_menstrual_period">Geschätzt %1$d. Tag der Periode</string>
   <string name="mens_day_in_predict_ovu_period">Geschätzt %1$d. Tag des Eisprungs</string>
   <string name="mens_day_in_predict_period">Geschätzter %3$d. Tag des Zyklus (%1$s-%2$s)</string>
-  <string name="mens_guess_day_ovulation">Sieht so aus, als hätten Sie Ihren Eisprung</string>
-  <string name="mens_guess_menstrual_period_end">Sieht so aus, als wäre Ihre Periode beendet</string>
-  <string name="mens_guess_not_in_menstrual_period">"Sieht so aus, als hätten Sie keine Periode</string>
+  <string name="mens_guess_day_ovulation">Anscheinend haben Sie Ihren Eisprung</string>
+  <string name="mens_guess_menstrual_period_end">Anscheinend ist Ihre Periode beendet</string>
+  <string name="mens_guess_not_in_menstrual_period">Anscheinend haben Sie keine Periode</string>
   <string name="mens_not_in_menstrual_period">Keine Periode</string>
   <string name="mens_period_days">Zyklusdauer</string>
   <string name="mens_period_ovulation">Eisprung</string>
   <string name="mens_period_start">Start</string>
-  <string name="mens_predict_day_ovulation">Sieht so aus, als hätten Sie Ihren Eisprung</string>
-  <string name="mens_predict_not_in_menstrual_period">Sieht so aus, als hätten Sie keine Menstruation</string>
+  <string name="mens_predict_day_ovulation">Anscheinend haben Sie Ihren Eisprung</string>
+  <string name="mens_predict_not_in_menstrual_period">Anscheinend haben Sie keine Menstruation</string>
   <string name="mens_record_and_predict_more">Nicht vergessen, Ihre Periode zu notieren</string>
   <string name="mens_tip_prepare_sth">Vergessen Sie nicht, Ihre Periode zu notieren</string>
   <string name="menses_auto_start_description">Xiaomi Health wird automatisch durch Einschalten von Erinnerungen gestartet</string>

@@ -370,7 +370,7 @@
   <string name="dark_mode_setting_light">Tagesmodus (hell)</string>
   <string name="dark_mode_setting_title">Nachtmodus</string>
   <string name="data_monitor">Erinnerung Überwachung Datenverkehr</string>
-  <string name="data_monitor_dialog_message">Sieht so aus, als ob irgendetwas Ihre mobilen Daten verbraucht. Öffnen Sie die Startseite, um dies zu stoppen.</string>
+  <string name="data_monitor_dialog_message">Anscheinend verbraucht irgendetwas Ihre mobilen Daten. Öffnen Sie die Startseite, um dies zu stoppen.</string>
   <string name="data_traffic_continue">Weiter</string>
   <string name="data_traffic_download_cancel">Abbrechen</string>
   <string name="data_traffic_download_confirm">Nutzung der mobilen Datenverbindung</string>

@@ -101,7 +101,7 @@
   <string name="app_permissions_group_summary">%1$d von %2$d Apps sind berechtigt</string>
   <string name="app_store_install_hint">Jetzt installieren</string>
   <string name="app_store_installing_message">Installieren…</string>
-  <string name="app_store_missing_message">Sieht so aus, als sei unser offizieller App Store nicht installiert. Jetzt installieren?</string>
+  <string name="app_store_missing_message">Anscheinend ist unser offizieller App Store nicht installiert. Jetzt installieren?</string>
   <string name="app_store_missing_title">App Store ist nicht installiert</string>
   <string name="application_detail_tips">Appdetails und erforderliche Berechtigungen</string>
   <string name="auto_startup_dialog_msg">Diese App kann ohne Ihre Erlaubnis gestartet werden.</string>

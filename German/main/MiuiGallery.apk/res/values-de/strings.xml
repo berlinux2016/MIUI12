@@ -1650,7 +1650,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="photo_portrait_color_download_fail">Plugin herunterladen nicht möglich. Mit Netzwerk verbinden und erneut versuchen.</string>
   <string name="photo_portrait_color_download_success">Filter erfolgreich heruntergeladen</string>
   <string name="photo_portrait_color_no_face">Farbfokus funktioniert nur bei Fotos mit Personen</string>
-  <string name="photo_portrait_download_sdk_without_wifi_msg">Sieht so aus, als wäre Ihr Gerät jetzt nicht mit WLAN verbunden. Sie können den Filter (%1$d MB) mit mobilen Daten herunterladen.</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Anscheinend ist Ihr Gerät jetzt nicht mit WLAN verbunden. Sie können den Filter (%1$d MB) mit mobilen Daten herunterladen.</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Filter laden</string>
   <string name="photo_print_menu_loading">Plugin laden…</string>
   <string name="photo_print_package_finish">Druckerplugin erfolgreich geladen</string>

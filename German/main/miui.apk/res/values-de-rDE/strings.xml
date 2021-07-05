@@ -127,7 +127,7 @@
   <string name="dialog_message_revoke_authorization">Sie müssen eine Genehmigung erteilen, um Mi Ditto danach wieder benutzen zu können.</string>
   <string name="dialog_title_need_create_shortcut">Startbildschirm-Verknüpfung</string>
   <string name="dialog_title_revoke_authorization">Autorisierung widerrufen</string>
-  <string name="dialog_update_notes_message">Sieht so aus, als hätten Sie Ihre Notizen-App seit einiger Zeit nicht mehr aktualisiert. Um umgewandelteten Text in Notizen speichern zu können, zuerst die neueste App-Version installieren.</string>
+  <string name="dialog_update_notes_message">Anscheinend haben Sie Ihre Notizen-App seit einiger Zeit nicht mehr aktualisiert. Um umgewandelteten Text in Notizen speichern zu können, zuerst die neueste App-Version installieren.</string>
   <string name="dialog_update_notes_negative_button">Jetzt nicht</string>
   <string name="dialog_update_notes_positive_button">Aktualisieren</string>
   <string name="dialog_update_notes_title">Notizen aktualisieren</string>

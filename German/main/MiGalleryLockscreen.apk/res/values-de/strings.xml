@@ -583,7 +583,7 @@ dd.MM."</string>
   <string name="passport_get_back_pwd">Kontopasswort abrufen</string>
   <string name="passport_get_innetdate_agree">Prüfen</string>
   <string name="passport_get_innetdate_disagree">Nein</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red>Sieht so aus&lt;/font>, als wäre die Nummer %s von Ihrem Mobilfunkanbieter wiederverwendet worden. Prüfen, wann die Nummer online ging?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Anscheinend&lt;/font> wurde die Nummer %s von Ihrem Mobilfunkanbieter wiederverwendet. Prüfen, wann die Nummer online ging?</string>
   <string name="passport_get_innetdate_title">Prüfen, wann die Nummer online ging</string>
   <string name="passport_get_verify_code">Code abrufen</string>
   <string name="passport_getting_activator_phone">SIM-Info abrufen…</string>

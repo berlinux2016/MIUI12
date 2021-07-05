@@ -765,7 +765,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="auto_task_notify_task_cancel_count_down_new">Automatisierte Aktion wird in %d Sekunden abgebrochen</string>
   <string name="auto_task_notify_task_cancel_do">Aktion abbrechen</string>
   <string name="auto_task_notify_task_canceled_summary">Sie können Anrufe tätigen und entgegennehmen</string>
-  <string name="auto_task_notify_task_canceled_summary2">Sieht so aus, als ob Sie jetzt ein Spiel spielen</string>
+  <string name="auto_task_notify_task_canceled_summary2">Anscheinend spielen Sie jetzt ein Spiel</string>
   <string name="auto_task_notify_task_canceled_summary3">Durch Zweitprofil abgebrochen</string>
   <string name="auto_task_notify_task_canceled_summary4">Durch Hauptprofil abgebrochen</string>
   <string name="auto_task_notify_task_canceled_title">Aktion abgebrochen</string>
@@ -3773,7 +3773,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="showpattern">Muster anzeigen</string>
   <string name="shutdown_cancel_reminder">Nicht ausgeschaltet</string>
   <string name="shutdown_cancel_reminder_detail">Gerät hat sich nicht ausgeschaltet, weil Sie mitten in einem Anruf waren</string>
-  <string name="shutdown_cancel_reminder_detail2">Sieht so aus, als ob Sie jetzt spielen. Geplantes Ausschalten wird abgebrochen.</string>
+  <string name="shutdown_cancel_reminder_detail2">Anscheinend spielen Sie jetzt. Geplantes Ausschalten wird abgebrochen.</string>
   <string name="signal_exception_4g_bad_rsrq">Aktueller Signalempfang ist schlecht. Verbindungsgeschwindigkeit kann niedriger sein.</string>
   <string name="signal_exception_none_4g_5g_network">Sie benutzen 2G/3G-Mobilfunknetze. Verbindungsgeschwindigkeit könnte niedriger sein.</string>
   <string name="signal_exception_summary">In diesem Bereich ist keine Netzwerkverbindung möglich</string>

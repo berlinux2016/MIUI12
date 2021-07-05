@@ -8526,7 +8526,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="trans_detail_category_user_app_data">App-Daten</string>
   <string name="trans_detail_category_wechat_qq">WeChat- und QQ-Daten (inkl. Chatverlauf)</string>
   <string name="trans_detail_item_app_data_selected_tip">Ausgewählte entsprechende Apps ebenso</string>
-  <string name="trans_detail_item_app_data_too_large_tip">Sieht so aus, als wäre das Element zu groß zum Übertragen.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Anscheinend ist das Element zu groß zum Übertragen.</string>
   <string name="trans_detail_list_footer">Hinweis: Sie können wählen, ob Sie Apps separat übertragen möchten. Wenn Sie jedoch App-Daten wählen, werden auch die entsprechenden Apps übertragen.</string>
   <string name="trans_detail_page_tip">Je mehr Elemente Sie wählen, desto länger dauert die Übertragung.</string>
   <string name="trans_detail_qq_data">QQ-Daten (inkl. Chatverlauf)</string>

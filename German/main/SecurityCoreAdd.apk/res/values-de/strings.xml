@@ -133,7 +133,7 @@ Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akze
   <string name="ent_agency_code_hint">Unternehmenscode eingeben</string>
   <string name="ent_agency_code_invalid">Eingegebener Unternehmenscode ist ungültig.</string>
   <string name="ent_agree_privacy_policy">Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden.</string>
-  <string name="ent_app_verified">Sieht so aus, als ob auf Ihrem Gerät Unternehmen-Apps installiert sind. Enterprise-Modus aktivieren?</string>
+  <string name="ent_app_verified">Anscheinend sind auf Ihrem Gerät Unternehmen-Apps installiert. Enterprise-Modus aktivieren?</string>
   <string name="ent_confirm_dialog_content">Nach dem Aktivieren des Enterprise-Modus können Sie nicht mehr in den aktuellen Zustand Ihres Systems zurückkehren. Alle Ihre Daten werden jedoch weiterhin auf diesem Gerät gespeichert. Sie müssen Ihr Gerät neu starten, um den Enterprise-Modus zu aktivieren. Jetzt aktivieren?</string>
   <string name="ent_disallow_running">Ausführen der App ist verboten</string>
   <string name="ent_download_install_dialog_content">Sie müssen Unternehmen-Apps installieren, um den Enterprise-Modus zu aktivieren. Jetzt installieren?</string>

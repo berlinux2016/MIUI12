@@ -920,7 +920,7 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="rcs_recipient_type_pc">An Computer weiterleiten</string>
   <string name="rcs_remember_my_choice">Meine Auswahl speichern</string>
   <string name="rcs_resend_not_online">5G Messaging nicht möglich</string>
-  <string name="rcs_resend_sim_card_not_insert">Sieht so aus, als wäre Ihre SIM-Karte nicht installiert.</string>
+  <string name="rcs_resend_sim_card_not_insert">Anscheinend ist Ihre SIM-Karte nicht installiert.</string>
   <string name="rcs_search_group_local">Mein Mini-Apps</string>
   <string name="rcs_search_group_recommend">Empfohlene Mini-Apps</string>
   <string name="rcs_search_group_server">Online Mini-Apps</string>
@@ -943,7 +943,7 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="received_label">"Empfangen: "</string>
   <string name="recent_label">Neueste Kontakte</string>
   <string name="recipient_label">"Empfänger: "</string>
-  <string name="recipients_contain_sub_sim_number">Sieht so aus, als gäbe es eine 2. SIM-Nummer unter den Empfängern. Senden Sie diese Nachricht mit der sekundären SIM-Karte.</string>
+  <string name="recipients_contain_sub_sim_number">Anscheinend gibt es eine 2. SIM-Nummer unter den Empfängern. Senden Sie diese Nachricht mit der sekundären SIM-Karte.</string>
   <string name="recipients_over_size">Zu viele Empfänger</string>
   <string name="recommend_bar_cancel">Ignorieren</string>
   <string name="recommend_bar_message_mx">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte senden, ohne dass dafür Kosten anfallen.</string>
