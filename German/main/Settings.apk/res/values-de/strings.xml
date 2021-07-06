@@ -3540,7 +3540,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_toggle_bluetooth">Bluetooth-Einstellung aktualisieren</string>
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gadget_wifi">WLAN</string>
-  <string name="gallery_privacy_password_role_instruction">Ihre privaten Fotos werden hier gespeichert</string>
+  <string name="gallery_privacy_password_role_instruction">Um die privat gemachten Elemente anzuzeigen, in \" Alben\" nach unten wischen.</string>
   <string name="game_booster">Spiel;Spiele;Turbo;Spielen;Spielemodus</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
   <string name="game_driver_all_apps_preference_title">Für alle Apps aktivieren</string>
@@ -8139,6 +8139,17 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="style_and_wallpaper_settings_title">Stile &amp; Hintergrundbilder</string>
   <string name="style_suggestion_summary">Verschiedene Stile, Hintergrundbilder, Uhren und mehr ausprobieren</string>
   <string name="style_suggestion_title">Gestalten Sie Ihr Pixel</string>
+  <string name="stylus_ota_check_update">Prüfen und aktualisieren</string>
+  <string name="stylus_ota_current_firmware_version">Aktuelle Firmware-Version</string>
+  <string name="stylus_ota_downloading_firmware">Firmware herunterladen</string>
+  <string name="stylus_ota_firmware_update">Firmware-Update</string>
+  <string name="stylus_ota_hardware_version">Hardware-Version</string>
+  <string name="stylus_ota_latest">Neueste Version</string>
+  <string name="stylus_ota_model">Modell</string>
+  <string name="stylus_ota_new_version">Neue Version</string>
+  <string name="stylus_ota_serial_number">Seriennummer</string>
+  <string name="stylus_ota_update">Aktualisierung</string>
+  <string name="stylus_ota_updating">Aktualisieren</string>
   <string name="subscreen_title">Rückseitige Anzeige</string>
   <string name="subscription_available">Verfügbar</string>
   <string name="succ_description">Erfolgreich</string>

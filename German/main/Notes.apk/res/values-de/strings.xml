@@ -387,6 +387,7 @@
   <string name="new_audio_create_talkback_des">Hier tippen, um eine Textnotiz zu erstellen. Taste gedrückt halten, um eine Sprachnotiz zu erstellen. Taste loslassen, um die Aufnahme zu stoppen und die Notiz zu erstellen, oder nach oben schieben, um sie abzubrechen.</string>
   <string name="new_data_empty_note">Noch keine Elemente hier</string>
   <string name="night">Abend</string>
+  <string name="no_network">Netzwerkverbindung fehlgeschlagen</string>
   <string name="noon">Mittag</string>
   <string name="not_now">Jetzt nicht</string>
   <string name="not_set">Nicht festgelegt</string>
@@ -777,6 +778,9 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
   <string name="view_all_notes">Alle anzeigen</string>
+  <string name="web_sso_login_fail">Sie müssen sich erneut anmelden</string>
+  <string name="web_sso_login_message">Anmelden…</string>
+  <string name="webview_reload">Erneut versuchen</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
