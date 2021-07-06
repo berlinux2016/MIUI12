@@ -932,6 +932,10 @@ Kopie kabellos auf A4-Papier drucken."</string>
   <string name="import_fail">Import fehlgeschlagen</string>
   <string name="info_button_content_description">Entdecken, was Sie auswählen können</string>
   <string name="install_confirmed">Installieren</string>
+  <string name="invisible_mode_dialog_cancel">Abbrechen</string>
+  <string name="invisible_mode_dialog_summary">Kamera kann jetzt nicht verwendet werden. Inkognito-Modus in den Einstellungen ausschalten, um die Kamera zu verwenden.</string>
+  <string name="invisible_mode_dialog_title">Sie sind inkognito</string>
+  <string name="invisible_mode_dialog_to_close">Einstellungen</string>
   <string name="iris_talkback_label_address">Adresse: %s</string>
   <string name="iris_talkback_label_barcode">Barcode gefunden</string>
   <string name="iris_talkback_label_calendar">Kalendereintrag hinzufügen</string>
