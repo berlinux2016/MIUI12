@@ -195,7 +195,7 @@ Darf %4$s einen Fehlerbericht hochladen?"</string>
   <string name="mtrl_picker_confirm">Speichern</string>
   <string name="mtrl_picker_date_format">d. MMM. yyyy</string>
   <string name="mtrl_picker_header_prompt">Ein Datum auswählen</string>
-  <string name="mtrl_picker_range_header_prompt">Einen Datumsbereich auswählen</string>
+  <string name="mtrl_picker_range_header_prompt">Datumsbereich wählen</string>
   <string name="never_ask_again">Nicht noch mal fragen</string>
   <string name="new_permissions_category">Neue Berechtigungen</string>
   <string name="no_apps">Keine Apps</string>

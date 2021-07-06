@@ -173,8 +173,8 @@ dd. MM."</string>
   <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
-  <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
-  <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+  <string name="mtrl_picker_a11y_next_month">Zum Folgemonat wechseln</string>
+  <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
   <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
   <string name="mtrl_picker_date_header_title">Datum auswählen</string>
   <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
