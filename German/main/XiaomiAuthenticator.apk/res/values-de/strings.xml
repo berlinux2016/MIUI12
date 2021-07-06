@@ -35,7 +35,7 @@
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veralteten Xiaomi Authenticator-App importiert. Jetzt kann die vorherige Version sicher deinstalliert werden, indem Sie unten tippen.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import erfolgreich</string>
   <string name="decoding_exception">Decodierungsausnahme</string>
-  <string name="details_patternforgotten">"Reaktiviere:
+  <string name="details_patternforgotten">"Reaktivieren:
 Bei account.xiaomi.com anmelden und Reactivate antippen."
   </string>
   <string name="empty_pin">_ _ _ _ _ _</string>

@@ -137,7 +137,7 @@ Wenn Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt hab
 Zum Ausschalten https://appleid.apple.com/#!&amp;page=signin besuchen"</string>
   <string name="close_twice_auth_step_1">1. Einen beliebigen Webbrowser auf einem beliebigen Computer öffnen und zu appleid.apple.com gehen.</string>
   <string name="close_twice_auth_step_2">2. Bei der Apple-ID anmelden, für die Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" in den Kontoeinstellungen und wählen Sie \"Bearbeiten\" aus.</string>
-  <string name="close_twice_auth_step_3">3. Auf die \"Zwei-Faktor-Authentifizierung deaktivieren tippen\". Zum Bestätigen erneut tippen.</string>
+  <string name="close_twice_auth_step_3">3. Auf \"Zwei-Faktor-Authentifizierung deaktivieren\" tippen. Zum Bestätigen erneut tippen.</string>
   <string name="close_twice_auth_steps">Führen Sie die folgenden Schritte aus, um die Zwei-Faktor-Authentifizierung für Apple ID zu deaktivieren:</string>
   <string name="close_twice_auth_tutor">Apple-ID Zwei-Faktor-Authentifizierung ausschalten</string>
   <string name="close_vpn_summary">Anscheinend ist Ihr Gerät jetzt mit VPN verbunden. VPN ausschalten, um eine Verbindung mit anderen Geräten herzustellen.</string>
