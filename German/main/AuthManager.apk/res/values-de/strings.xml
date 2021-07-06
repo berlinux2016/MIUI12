@@ -22,7 +22,7 @@
   <string name="HIPS_Perm_Call">Anrufe machen</string>
   <string name="HIPS_Perm_CallLog">Anrufliste schreiben und löschen</string>
   <string name="HIPS_Perm_CallLog_Desc">Anrufliste bearbeiten</string>
-  <string name="HIPS_Perm_Call_Desc">Telefonnummern direkt anrufen</string>
+  <string name="HIPS_Perm_Call_Desc">Rufnummern direkt anrufen</string>
   <string name="HIPS_Perm_Contact">Kontakte ändern und löschen</string>
   <string name="HIPS_Perm_Contact_Desc">Kontakte bearbeiten</string>
   <string name="HIPS_Perm_External_Storage">Zugriff auf und Ändern von Dateien im internen Speicher</string>

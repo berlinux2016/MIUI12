@@ -425,8 +425,8 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_express_settings_recommend_item_1">Paket nicht gefunden?</string>
   <string name="app_express_settings_recommend_item_2">Datenschutzerklärung</string>
   <string name="app_express_settings_recommend_title">Mehr erfahren</string>
-  <string name="app_express_settings_subtitle">Hinzufügen von Telefonnummern zur Verfolgung von Expresspaketen</string>
-  <string name="app_express_settings_title_1">Sie haben noch keine Telefonnummern hinzugefügt</string>
+  <string name="app_express_settings_subtitle">Hinzufügen von Rufnummern zur Verfolgung von Expresspaketen</string>
+  <string name="app_express_settings_title_1">Sie haben noch keine Rufnummern hinzugefügt</string>
   <string name="app_express_shunfeng_verify_dialog_message">Um den Datenschutz und die Sicherheit der Benutzer von SF Express zu gewährleisten, müssen Sie die letzten vier Ziffern der Rufnummer des Empfängers/Absenders eingeben.</string>
   <string name="app_express_shunfeng_verify_dialog_ok">Einreichen</string>
   <string name="app_express_shunfeng_verify_dialog_title">Verifizierung abschließen</string>
@@ -532,6 +532,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_pa_setting_service_timetable">Stundenplan</string>
   <string name="app_pa_setting_service_timetable_summary">Zum Planen von Klassen tippen</string>
   <string name="app_pa_setting_title">Einstellungen</string>
+  <string name="app_pa_setting_version">Version: %1$s</string>
   <string name="app_screen_time_auth">Bildschirmzeit</string>
   <string name="app_screen_time_no_time_title">&lt; 1 Min</string>
   <string name="app_screen_time_support_false">Dieser Dienst wird nicht unterstützt</string>
@@ -1154,7 +1155,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_setting_authorized_number_delete">Löschen</string>
   <string name="express_setting_authorized_number_description">Mit der Nutzung dieser Funktion sind Sie damit einverstanden, dass wir Ihre Rufnummer an die entsprechenden Dienstleister weitergeben. Ihre Rufnummer wird nur für die Anforderung und Anzeige von Expresslieferinfos wendet.</string>
   <string name="express_setting_authorized_number_empty">Sie haben Ihre Rufnummer noch nicht verifiziert</string>
-  <string name="express_setting_authorized_number_limit">Sie können bis zu 4 Telefonnummern hinzufügen</string>
+  <string name="express_setting_authorized_number_limit">Sie können bis zu 4 Rufnummern hinzufügen</string>
   <string name="express_setting_brief">Verfolgen Sie Ihre Express-Sendungen</string>
   <string name="express_setting_brief_detail">Verfolgen Sie alle Ihre Pakete anhand Ihrer Rufnummer und Bestellinformationen</string>
   <string name="express_setting_code_invalid">Stellen Sie sicher, dass Sie den richtigen Code eingegeben haben</string>
@@ -1175,9 +1176,9 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_setting_number_invalid">Stellen Sie sicher, dass Sie eine gültige Rufnummer eingegeben haben</string>
   <string name="express_setting_number_save">Prüfen und speichern</string>
   <string name="express_setting_number_title">Rufnummer hinzufügen</string>
-  <string name="express_setting_numbers_already_authorized">Telefonnummern hinzugefügt</string>
-  <string name="express_setting_numbers_no_authorized">Telefonnummern hinzufügen</string>
-  <string name="express_setting_numbers_quick_authorized">Telefonnummern direkt hinzufügen</string>
+  <string name="express_setting_numbers_already_authorized">Rufnummern hinzugefügt</string>
+  <string name="express_setting_numbers_no_authorized">Rufnummern hinzufügen</string>
+  <string name="express_setting_numbers_quick_authorized">Rufnummern direkt hinzufügen</string>
   <string name="express_setting_other">Anderes</string>
   <string name="express_setting_phone">Abfrage von Informationen über Rufnummer zulassen</string>
   <string name="express_setting_privacy_entry">Datenschutzerklärung</string>
@@ -1282,7 +1283,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_bl_val_failed">Armbandprüfung fehlgeschlagen, überweisen Sie mit Passwort</string>
   <string name="flybird_bl_val_ok">Smart-Gerät erkennen…</string>
   <string name="flybird_channel">Zahlungsmethode</string>
-  <string name="flybird_channel_label">Das System zieht die Zahlung gemäß der folgenden Bestellung ab. Klicken Sie auf die Liste, um die Bestellung zu bearbeiten.</string>
+  <string name="flybird_channel_label">Das System zieht die Zahlung gemäß der folgenden Bestellung ab. Tippen Sie auf die Liste, um die Bestellung zu bearbeiten.</string>
   <string name="flybird_channel_list_label">Bestellabzug</string>
   <string name="flybird_default_channel">Standardzahlungsmethode</string>
   <string name="flybird_default_channel_main">Standardzahlungsmethode</string>

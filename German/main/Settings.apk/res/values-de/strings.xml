@@ -2073,15 +2073,15 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="connecting_to_vpn">Verbindung zum VPN</string>
   <string name="connection_and_sharing">Verbinden &amp; Teilen</string>
   <string name="contact_data">Kontakte</string>
-  <string name="contact_discovery_opt_in_dialog_message">"Die Telefonnummern Ihrer Kontakte werden in regelmäßigen Abständen an %1$s gesendet.
+  <string name="contact_discovery_opt_in_dialog_message">"Rufnummern Ihrer Kontakte werden in regelmäßigen Abständen an %1$s gesendet.
 
 Diese Info gibt an, ob Ihre Kontakte bestimmte Funktionen nutzen können, wie z. B. Videoanrufe oder einige Messaging-Funktionen."</string>
-  <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Die Telefonnummern Ihrer Kontakte werden in regelmäßigen Abständen an Ihren Anbieter gesendet.
+  <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Rufnummern Ihrer Kontakte werden in regelmäßigen Abständen an Ihren Anbieter gesendet.
 
 Diese Info gibt an, ob Ihre Kontakte bestimmte Funktionen nutzen können, wie z. B. Videoanrufe oder einige Messaging-Funktionen."</string>
   <string name="contact_discovery_opt_in_dialog_title">Kontakte an %1$s senden?</string>
   <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Kontakte an Ihren Anbieter senden?</string>
-  <string name="contact_discovery_opt_in_summary">Telefonnummern Ihrer Kontakte senden, um erweiterte Funktionen bereitzustellen</string>
+  <string name="contact_discovery_opt_in_summary">Rufnummern Ihrer Kontakte senden, um erweiterte Funktionen bereitzustellen</string>
   <string name="contact_discovery_opt_in_title">Kontakte an den Anbieter senden</string>
   <string name="contact_title">Kontakte</string>
   <string name="content_capture">App-Inhalt</string>

@@ -616,7 +616,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="networking_allow_desc_without_mx">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message \"Gelbe Seiten\“ verwenden. Erlauben Sie \"Gelbe Seiten\", sich mit dem Internet zu verbinden, Ihren Standort zu erhalten und Ihe Kontakte zu lesen</string>
   <string name="networking_allow_title">Hinweis</string>
   <string name="new_message">Neue Nachricht</string>
-  <string name="new_message_arrived">Zum Ansehen klicken</string>
+  <string name="new_message_arrived">Zum Ansehen tippen</string>
   <string name="new_phrase">Neue Antwort eingeben</string>
   <string name="new_phrase_hint">Neue Vorlage eingeben</string>
   <string name="night">Abend</string>
@@ -1310,12 +1310,12 @@ Bisherige Versuche: %s."</string>
   <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
   <string name="wild_msg_processing">Verarbeiten…</string>
-  <string name="wild_msg_title">Wählen Sie die Telefonnummern für die Synchronisation</string>
+  <string name="wild_msg_title">Wählen Sie die Rufnummern für die Synchronisation</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yesterday">Gestern</string>
   <string name="you_have_new_message">Sie haben neue Nachrichten</string>
   <string name="yulore_term">Datenschutzerklärung</string>
-  <string name="zero_sms_feedback_message">Nachrichtenberichte werden zusammen mit den Telefonnummern ihrer Absender auf unsere Server hochgeladen. Diese Meldungen werden nur zur Verbesserung der Blocklistenfunktionalität verwendet.</string>
+  <string name="zero_sms_feedback_message">Nachrichtenberichte werden zusammen mit den Rufnummern ihrer Absender auf unsere Server hochgeladen. Diese Meldungen werden nur zur Verbesserung der Blocklistenfunktionalität verwendet.</string>
   <string name="zero_sms_feedback_success">Erfolgreich gemeldet</string>
   <string name="zero_sms_feedback_title">Bericht</string>
 </resources>

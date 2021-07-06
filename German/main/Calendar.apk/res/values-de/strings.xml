@@ -642,7 +642,7 @@
   <string name="menstruation_cycle_description">Intervall zwischen den Startdaten von %d aufeinanderfolgenden Zyklen</string>
   <string name="menstruation_days">Periodendauer</string>
   <string name="menstruation_days_description">Dauer jeder Periode</string>
-  <string name="menstruation_dialog_tips">Die Funktion Menstruationsassistent wird von Xiaomi Health bereitgestellt. Klicken Sie auf Weiter, um den Kalender zum Herunterladen oder Aktualisieren der Xiaomi Health-App zu verwenden.</string>
+  <string name="menstruation_dialog_tips">Die Funktion Menstruationsassistent wird von Xiaomi Health bereitgestellt. Tippen Sie auf Weiter, um den Kalender zum Herunterladen oder Aktualisieren der Xiaomi Health-App zu verwenden.</string>
   <string name="menstruation_last_start_date">Letzte Menstruation begann</string>
   <string name="menstruation_record">Aufgezeichnete Perioden</string>
   <string name="menstruation_select_date">Datum wählen</string>

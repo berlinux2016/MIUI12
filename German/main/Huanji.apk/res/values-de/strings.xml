@@ -53,7 +53,7 @@
   <string name="cancel_moving_dialog_message">Import ist noch nicht abgeschlossen. Möchten Sie den Import wirklich stoppen?</string>
   <string name="cancel_moving_dialog_title">Importieren anhalten</string>
   <string name="cannot_use_mi_huanji_button">Verstanden</string>
-  <string name="cannot_use_mi_huanji_summary">Der Ersatz von Xiaomi hängt vom Systemsicherungsdienst ab. Es wird festgestellt, dass der Dienst verwendet wird. Bitte warten Sie, bis das Sicherung beendet ist und klicken Sie erneut auf Übertragung starten oder starten Sie das Telefon neu.</string>
+  <string name="cannot_use_mi_huanji_summary">Der Ersatz von Xiaomi hängt vom Systemsicherungsdienst ab. Es wird festgestellt, dass der Dienst verwendet wird. Bitte warten Sie, bis das Sicherung beendet ist und tippen Sie erneut auf Übertragung starten oder starten Sie das Telefon neu.</string>
   <string name="cannot_use_mi_huanji_title">Ich kann Mi Mover nicht benutzen.</string>
   <string name="check_phone_error_title">Synchronisieren ist aus</string>
   <string name="check_phone_io_error">Netzwerkverbindung fehlgeschlagen</string>
@@ -137,7 +137,7 @@ Wenn Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt hab
 Zum Ausschalten https://appleid.apple.com/#!&amp;page=signin besuchen"</string>
   <string name="close_twice_auth_step_1">1. Einen beliebigen Webbrowser auf einem beliebigen Computer öffnen und zu appleid.apple.com gehen.</string>
   <string name="close_twice_auth_step_2">2. Bei der Apple-ID anmelden, für die Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" in den Kontoeinstellungen und wählen Sie \"Bearbeiten\" aus.</string>
-  <string name="close_twice_auth_step_3">3. Auf die \"Zwei-Faktor-Authentifizierung deaktivieren klicken\". Zum Bestätigen erneut klicken.</string>
+  <string name="close_twice_auth_step_3">3. Auf die \"Zwei-Faktor-Authentifizierung deaktivieren tippen\". Zum Bestätigen erneut tippen.</string>
   <string name="close_twice_auth_steps">Führen Sie die folgenden Schritte aus, um die Zwei-Faktor-Authentifizierung für Apple ID zu deaktivieren:</string>
   <string name="close_twice_auth_tutor">Apple-ID Zwei-Faktor-Authentifizierung ausschalten</string>
   <string name="close_vpn_summary">Anscheinend ist Ihr Gerät jetzt mit VPN verbunden. VPN ausschalten, um eine Verbindung mit anderen Geräten herzustellen.</string>

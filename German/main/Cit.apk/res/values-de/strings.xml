@@ -261,7 +261,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
   <string name="cit_display_test_next">Weiter</string>
   <string name="cit_earpiece">Empfänger</string>
   <string name="cit_earpiece_summary">"Sie hören zwei zufällige Zahlen.
-Bitte klicken Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören."</string>
+Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören."</string>
   <string name="cit_emergencycall_check_summary">Bitte auf Schaltfläche 112 wählen tippen, um zu prüfen, ob 112 gesetzt werden kann.</string>
   <string name="cit_emergencycall_check_title">Notruf</string>
   <string name="cit_exit_test_summary">Beim Beenden werden alle zugehörigen Textdaten gelöscht</string>
@@ -418,7 +418,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_main_camera_check_title">Kameratest hinten (Hauptkamera)</string>
   <string name="cit_name">Hardwaretests</string>
   <string name="cit_nfc_check_enable_tip">Init-NFC-Testumgebung</string>
-  <string name="cit_nfc_check_summary">Bitte klicken Sie auf die Taste zum Starten von NFC und legen Sie die Karte dann oben auf die Rückseite des Geräts.</string>
+  <string name="cit_nfc_check_summary">Bitte tippen Sie auf die Taste zum Starten von NFC und legen Sie die Karte dann oben auf die Rückseite des Geräts.</string>
   <string name="cit_nfc_check_tip">Legen Sie die Karte oben auf die Rückseite des Geräts</string>
   <string name="cit_nfc_check_title">NFC-Test</string>
   <string name="cit_nfc_sim_check_summary">Vergewissern Sie sich, dass der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden, nur zwei NFC-SIM-Karten gleichzeitig vorhanden sind und bei korrektem Status ist es bestanden.</string>
@@ -746,8 +746,8 @@ Test fehlgeschlagen!"</string>
   <string name="cit_vice_display_check_summary">"Nach dem Einschalten des kleinen Bildschirms und einem Doppelklick zum Aufhellen des Bildschirms:
 Bestätigen Sie, dass die Farben auf dem gesamten Bildschirm einheitlich dargestellt werden. Prüfen Sie, ob es keine unregelmäßigen hellen und dunklen Flecken gibt."</string>
   <string name="cit_vice_display_check_title">Stellvertreter-Anzeige</string>
-  <string name="cit_vice_touch_panel_test_summary">Nach dem Einschalten des kleinen Bildschirms und einem Doppelklick zum Aufhellen des Bildschirms müssen Sie den Bildschirm umdrehen und auf den hinteren kleinen Bildschirm doppelklicken, um den Bildschirm aufzuhellen, und auf dem kleinen Bildschirm ein Kreuz entlang des Rasters zeichnen.</string>
-  <string name="cit_vice_touch_panel_test_tips">Bitte bestätigen Sie, dass der kleine Bildschirm und der Doppelklick zum Einschalten des Bildschirms am kleinen Bildschirm auf der Rückseite eingeschaltet sind, dann klicken Sie.</string>
+  <string name="cit_vice_touch_panel_test_summary">Nach dem Einschalten des kleinen Bildschirms und einem Doppelklick zum Aufhellen des Bildschirms müssen Sie den Bildschirm umdrehen und auf den hinteren kleinen Bildschirm doppeltippen, um den Bildschirm aufzuhellen, und auf dem kleinen Bildschirm ein Kreuz entlang des Rasters zeichnen.</string>
+  <string name="cit_vice_touch_panel_test_tips">Bitte bestätigen Sie, dass der kleine Bildschirm und der Doppelklick zum Einschalten des Bildschirms am kleinen Bildschirm auf der Rückseite eingeschaltet sind, dann tippen Sie.</string>
   <string name="cit_vice_touch_panel_test_title">Stellvertreter-Berührungssensor</string>
   <string name="cit_voc_data_humidity">Luftfeuchtigkeit</string>
   <string name="cit_voc_data_pressure">Druck</string>
@@ -853,7 +853,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
 1. Auf die Kamerataste tippen, um die IR-Kameras aufzurufen.
 2. Tippen, um Fotos aufzunehmen.
 3. Das System speichert das Foto automatisch nach der Aufnahme.
-4. Wenn das auf dem aktuellen Bildschirm angezeigte Foto angesehen wurde, weiter klicken."</string>
+4. Wenn das auf dem aktuellen Bildschirm angezeigte Foto angesehen wurde, weiter tippen."</string>
   <string name="ir_camera_test_summary_preview">"Testanleitung:
 1. Auf die Vorschautaste tippen, um die Kamera aufzurufen.
 2. Warten, bis die Vorschau beendet ist und automatisch zurückkehren."</string>

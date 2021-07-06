@@ -914,7 +914,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="dialog_network_priority_title">Vorrangiges Netzwerk</string>
   <string name="dialog_ota_change_number_fail">Rufnummer ändern nicht möglich. Wenn dieser Fehler nach einem erneuten Versuch wieder auftritt, wenden Sie sich an Ihren Verkäufer.</string>
   <string name="dialog_ota_change_number_lgu">USIM jetzt herunterladen?</string>
-  <string name="dialog_ota_change_number_lgu_roaming">Telefonnummern im Ausland ändern nicht möglich.</string>
+  <string name="dialog_ota_change_number_lgu_roaming">Rufnummern im Ausland ändern nicht möglich.</string>
   <string name="dialog_ota_change_number_processing">USIM herunterladen…</string>
   <string name="dialog_ota_change_number_success">Rufnummer erfolgreich geändert</string>
   <string name="dialog_report">Bericht</string>

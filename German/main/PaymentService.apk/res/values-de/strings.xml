@@ -164,7 +164,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="mibi_cancel">Abbrechen</string>
   <string name="mibi_change_security_lock">Weitere Bildschirmsperren</string>
   <string name="mibi_check_giftcard">Coupons anzeigen</string>
-  <string name="mibi_click_retry">%1$s, klicken zum Wiederholen</string>
+  <string name="mibi_click_retry">%1$s, tippen zum Wiederholen</string>
   <string name="mibi_deduct_goods_name">Artikel</string>
   <string name="mibi_deduct_open_prompt">%1$s ist in der Lage, Ihnen dies durch %2$s automatisch ohne Verifizierung in Rechnung zu stellen. Sie können diese Funktion unter %1$s ausschalten.</string>
   <string name="mibi_deduct_order_price">Preis</string>
@@ -517,7 +517,7 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="passport_change_phone_number">Nummern tauschen</string>
   <string name="passport_checking_account">Passwort prüfen…</string>
   <string name="passport_checking_input">Eingabe prüfen…</string>
-  <string name="passport_click_email_to_valid">Um Ihr Konto zu aktivieren, klicken Sie auf den Link in Ihrem Posteingang.</string>
+  <string name="passport_click_email_to_valid">Um Ihr Konto zu aktivieren, tippen Sie auf den Link in Ihrem Posteingang.</string>
   <string name="passport_close">Schließen</string>
   <string name="passport_completed">Fertig</string>
   <string name="passport_confirm_recycle_account">Ja</string>

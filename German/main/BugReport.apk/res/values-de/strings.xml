@@ -244,7 +244,7 @@
   <string name="mobile_data_note_dialog_content">Anscheinend sind Sie mit einem bezahlten Netzwerk verbunden. Hochladen von Protokollen kann zusätzliche Kosten verursachen.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Anscheinend sind Sie mit einem bezahlten Netzwerk verbunden. Hochladen von Protokollen erfordert %s MB mobile Daten.</string>
   <string name="mobile_data_note_dialog_title">Datenverbrauchswarnung</string>
-  <string name="modem_tool_log_dumping_desc">Zum Anhalten Symbol anklicken</string>
+  <string name="modem_tool_log_dumping_desc">Zum Anhalten Symbol antippen</string>
   <string name="modem_tool_log_dumping_title">Modemprotokoll speichern</string>
   <string name="modem_tool_log_finish_desc">Porotokoll wurde gespeichert unter %s</string>
   <string name="modem_tool_log_finish_title">Modemprotokoll gespeichert</string>
@@ -302,7 +302,7 @@
   <string name="passport_change_phone_number">Nummern tauschen</string>
   <string name="passport_checking_account">Passwort prüfen…</string>
   <string name="passport_checking_input">Eingabe prüfen…</string>
-  <string name="passport_click_email_to_valid">Um Ihr Konto zu aktivieren, klicken Sie auf den Link in Ihrem Posteingang.</string>
+  <string name="passport_click_email_to_valid">Um Ihr Konto zu aktivieren, tippen Sie auf den Link in Ihrem Posteingang.</string>
   <string name="passport_completed">Fertig</string>
   <string name="passport_confirm_recycle_account">Ja</string>
   <string name="passport_copy_message_text_success">Erfolgreich kopiert</string>

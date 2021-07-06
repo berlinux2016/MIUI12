@@ -122,7 +122,7 @@ Erdbebenüberwachung"</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ein- und Ausschalten von Bluetooth</string>
   <string name="HIPS_Perm_CallLog_Desc">Anrufliste schreiben und löschen</string>
-  <string name="HIPS_Perm_Call_Desc">Telefonnummern direkt anrufen</string>
+  <string name="HIPS_Perm_Call_Desc">Rufnummern direkt anrufen</string>
   <string name="HIPS_Perm_Contact_Desc">Kontakte ändern und löschen</string>
   <string name="HIPS_Perm_External_Storage">Dateizugriff und -änderung auf externem Speicher</string>
   <string name="HIPS_Perm_External_Storage_Desc">Hinzufügen und Löschen von Dateien auf dem externen Gerätespeicher</string>
@@ -1672,7 +1672,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="fw_blocked_count">"Blockiert "</string>
   <string name="fw_blocked_join">" und "</string>
   <string name="fw_oversea">Blockieren von Anrufen aus dem Ausland</string>
-  <string name="fw_oversea_content">Blockieren Sie eingehende Anrufe von ausländischen Telefonnummern.</string>
+  <string name="fw_oversea_content">Blockieren Sie eingehende Anrufe von ausländischen Rufnummern.</string>
   <string name="gallery_confirm_start_activity">%s ist nicht berechtigt, auf Ihre Galerie- und Social Media-Apps zuzugreifen. Diese App möchte auf Bilder zugreifen, die auf diesem Gerät gespeichert sind, um Elemente zu teilen. Erlauben?</string>
   <string name="game_ad_recommendation">Jeder spielt</string>
   <string name="game_anti_disturb_msg">Spiel nicht stören</string>
@@ -3712,7 +3712,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="section_title_clear_acc">Cache leeren</string>
   <string name="section_title_security_defend">Sicherheit</string>
   <string name="section_title_system">Systemsicherheit</string>
-  <string name="security_bottom_guide_to_pm_text">Loslassen zum Öffnen von Dienstprogrammen</string>
+  <string name="security_bottom_guide_to_pm_text">Loslassen, um Dienstprogramme zu öffnen</string>
   <string name="security_center_slogan">Sicherheit - immer auf der Hut</string>
   <string name="security_center_title">Sicherheit</string>
   <string name="security_guide_bubble_text">Öffnen</string>
@@ -3735,7 +3735,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="set_now">Einstellungen</string>
   <string name="set_numeric_password_name">PIN setzen</string>
   <string name="set_package_tips">Das System sendet kostenlose SMS an den Anbieter, um die Verkehrsinformationen für Sie zu korrigieren, und gleichzeitig werden die von Ihnen ausgefüllten Informationen verschlüsselt und hochgeladen, um die Korrektur-SMS-Vorlage zu erhalten.</string>
-  <string name="set_package_tips_detail">Die von Ihnen eingegebenen Anbieterinformationen, Mobiltelefonnummer, IMEI-Nummer und Xiaomi-Konto werden verschlüsselt und auf den Xiaomi-Server hochgeladen.</string>
+  <string name="set_package_tips_detail">Die von Ihnen eingegebenen Anbieterinformationen, Mobilrufnummer, IMEI-Nummer und Xiaomi-Konto werden verschlüsselt und auf den Xiaomi-Server hochgeladen.</string>
   <string name="set_pattern_password_name">Muster setzen</string>
   <string name="set_traffic_tips">Die Einrichtung eines Pakets kann Ihnen helfen, die Datennutzung effektiver zu betrachten, zu verwalten und zu verhindern, dass zusätzliche Kosten das Paket überschreiten.</string>
   <string name="setting">Einstellungen</string>
@@ -3979,7 +3979,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="st_call_stranger_group">Anrufe von Unbekannten blockieren</string>
   <string name="st_confirm_dialog_btn_open">Blockieren</string>
   <string name="st_confirm_dialog_summary_contact_call">Alle Anrufe von Kontakten werden blockiert</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Alle Anrufe von ausländischen Telefonnummern werden blockiert.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Alle Anrufe von ausländischen Rufnummern werden blockiert.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Alle Anrufe von Unbekannten werden blockiert</string>
   <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Nummern, die Wörter aus dieser Liste enthalten, werden blockiert</string>
   <string name="st_filter_keywords_setting_summary2">(Verwenden Sie ein Komma, um mehrere Schlüsselwörter zu trennen)</string>
@@ -4006,7 +4006,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="st_summary_blacklist_numbers">Anrufe und Nachrichten von bestimmten Nummern und Gebieten blockieren </string>
   <string name="st_summary_blacklist_numbers_international">Anrufe und Nachrichten von bestimmten Nummern blockieren</string>
   <string name="st_summary_keywords_blacklist">Schlüsselwörter zur Sperrliste hinzufügen</string>
-  <string name="st_summary_special_numbers">Markierte Telefonnummern blockieren</string>
+  <string name="st_summary_special_numbers">Markierte Rufnummern blockieren</string>
   <string name="st_summary_whitelist_numbers">Anrufe und Nachrichten von bestimmten Nummern und Gebieten erlauben</string>
   <string name="st_summary_whitelist_numbers_international">Anrufe und Nachrichten von bestimmten Nummern erlauben</string>
   <string name="st_title_addblacklist">Zur Sperrliste hinzufügen</string>
@@ -4253,7 +4253,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="system_permission_declare_user_agreement"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>.</Data></string>
   <string name="system_permission_perm_answer_call">Anrufen</string>
   <string name="system_permission_perm_read_mms">MMS lesen</string>
-  <string name="system_permission_perm_read_numbers">Telefonnummern lesen</string>
+  <string name="system_permission_perm_read_numbers">Rufnummern lesen</string>
   <string name="system_permission_perm_send_mms">MMS senden</string>
   <string name="system_tool_sos">SOS-Notfallhilfe</string>
   <string name="system_tool_green_guard">Familienschutz</string>

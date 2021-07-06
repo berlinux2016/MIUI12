@@ -470,7 +470,7 @@ Nutzen Sie ein anderes Konto."</string>
   <string name="micloud_request_permission_title">Xiaomi Cloud benötigt Berechtigungen</string>
   <string name="micloud_request_sync_too_frequent">Zu viele Anfragen. Einen Moment warten und erneut versuchen.</string>
   <string name="micloud_sec_dspt">" und teile Dinge mit Freunden"</string>
-  <string name="micloud_setting_antispam_summary">Ausnahmen und geblockte Telefonnummern</string>
+  <string name="micloud_setting_antispam_summary">Ausnahmen und geblockte Rufnummern</string>
   <string name="micloud_setting_bluetooth_summary">Infos über Ihre gekoppelten Geräte mit der Cloud synchronisieren</string>
   <string name="micloud_setting_browser_summary">Lesezeichen, Verlauf und Registerkarten</string>
   <string name="micloud_setting_calendar_summary">Termine</string>
@@ -788,7 +788,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
   <string name="share_sdk_business_suggest_member_actionbar_subtitle">Standort teilen und die Geräte des anderen steuern</string>
   <string name="share_sdk_business_wechat_invite_description">%1$s lud Sie zur Standortfreigabe ein</string>
   <string name="share_sdk_business_wechat_invite_title">Starten Sie mit uns die Standortfreigabe</string>
-  <string name="share_sdk_contact_invite_result_category_send_fail_summary">Folgende Einladungen wurden wegen falscher Telefonnummern nicht zugestellt:</string>
+  <string name="share_sdk_contact_invite_result_category_send_fail_summary">Folgende Einladungen wurden wegen falscher Rufnummern nicht zugestellt:</string>
   <string name="share_sdk_contact_invite_result_category_send_fail_title">Nicht zugestellt</string>
   <string name="share_sdk_contact_invite_result_category_title_send_success">Zugestellt oder angenommen</string>
   <string name="share_sdk_dialog_cancel">Abbrechen</string>

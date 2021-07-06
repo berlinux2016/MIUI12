@@ -32,11 +32,11 @@
   <string name="correct_enter_password">Eingegebenes Passwort ist korrekt</string>
   <string name="correct_enter_update_password">Eingegebenes Passwort ist korrekt</string>
   <string name="counter_pin">Code erhalten</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veralteten Xiaomi Authenticator-App importiert. Jetzt kann die vorherige Version sicher deinstalliert werden, indem Sie unten klicken.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veralteten Xiaomi Authenticator-App importiert. Jetzt kann die vorherige Version sicher deinstalliert werden, indem Sie unten tippen.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import erfolgreich</string>
   <string name="decoding_exception">Decodierungsausnahme</string>
   <string name="details_patternforgotten">"Reaktiviere:
-Bei account.xiaomi.com anmelden und Reactivate anklicken."
+Bei account.xiaomi.com anmelden und Reactivate antippen."
   </string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Kontonnamen eingeben</string>

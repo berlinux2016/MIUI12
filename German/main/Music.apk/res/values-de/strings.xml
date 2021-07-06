@@ -724,7 +724,7 @@
   <string name="modify_song_info_success">Titelinfo wurde aktualisiert</string>
   <string name="moe_inbox_name">Benachrichtigungszentrale</string>
   <string name="moe_message_to_register">Auf die Schaltfläche "Registrieren" tippen, um sich für die Integrationsvalidierung zu registrieren</string>
-  <string name="moe_message_to_unregister">Gerät ist für die Integrationsprüfung registriert. Auf die Schaltfläche klicken, um die Registrierung aufzuheben.</string>
+  <string name="moe_message_to_unregister">Gerät ist für die Integrationsprüfung registriert. Auf die Schaltfläche tippen, um die Registrierung aufzuheben.</string>
   <string name="moe_notification_center_empty">Benachrichtigungszentrale leer</string>
   <string name="moe_register">REGISTRIEREN</string>
   <string name="moe_unregister">ABMELDEN</string>

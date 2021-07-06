@@ -78,7 +78,6 @@
   <string name="after_reset_need_restore_system_app">Anscheinend haben Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um MIUI normal benutzen zu können.</string>
   <string name="afternoon"></string>
   <string name="agree">Zustimmen</string>
-
   <string name="audio_toast_network_is_not_available">Netzwerkverbindung herstellen, um Audio umzuwandeln, nicht möglich</string>
   <string name="birthday">Geburtstag</string>
   <string name="brand_text">Spracherkennungsprogramm wird durch %1$s bereitgestellt</string>
