@@ -7757,6 +7757,7 @@ Für die Weitergabe Ihres Standorts an Notfallkontakte
 Wenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre persönlichen Daten weiterzugeben und hochzuladen, können Sie diese App nicht verwenden. In diesem Fall entscheiden Sie, ob Sie SOS-Notfallhilfe ausschalten oder nicht verwenden möchten.
 Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
   <string name="sos_privacy_dialog_title">AGB</string>
+  <string name="sos_privacy_policy">Datenschutzerklärung</string>
   <string name="sound_assist_summary">Toneinstellungen anpassen</string>
   <string name="sound_assist_title">Tonassistent</string>
   <string name="sound_category_call_ringtone_vibrate_title">Klingel- &amp; Benachrichtigungston</string>

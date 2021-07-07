@@ -962,6 +962,7 @@ Wenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, k�
 - Ein lokaler Audioplayer
 
 - Online-Streaming-Dienste"</string>
+  <string name="privacy_request_subtitle_offline">Willkommen bei Mi Music! Diese App bietet einen lokalen Player für Audiodateien.</string>
   <string name="privacy_request_title">Allgemeine Geschäftsbedingungen</string>
   <string name="pro_member">PRO-Mitglied</string>
   <string name="project_device">Mi Telefon</string>
