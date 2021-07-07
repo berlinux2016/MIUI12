@@ -19,7 +19,7 @@
   <string name="HIPS_Perm_Body_Sensors_Desc">Körpersensoren (z. B. Herzfrequenzsensor)</string>
   <string name="HIPS_Perm_Calendar">Kalendereinträge lesen</string>
   <string name="HIPS_Perm_Calendar_Desc">Ihre Kalendereinträge lesen</string>
-  <string name="HIPS_Perm_Call">Anrufe machen</string>
+  <string name="HIPS_Perm_Call">Anrufen</string>
   <string name="HIPS_Perm_CallLog">Anrufliste schreiben und löschen</string>
   <string name="HIPS_Perm_CallLog_Desc">Anrufliste bearbeiten</string>
   <string name="HIPS_Perm_Call_Desc">Rufnummern direkt anrufen</string>

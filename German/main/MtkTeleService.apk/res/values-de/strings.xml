@@ -1477,8 +1477,8 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
   <string name="phone_accounts_choose_accounts">Konto wählen</string>
   <string name="phone_accounts_configure_account_settings">Kontoeinstellungen konfigurieren</string>
   <string name="phone_accounts_default_account_label">Netzwerk nicht verfügbar</string>
-  <string name="phone_accounts_make_calls_with">Anrufe machen mit </string>
-  <string name="phone_accounts_make_sip_calls_with">SIP-Anrufe machen mit</string>
+  <string name="phone_accounts_make_calls_with">Anrufen mit </string>
+  <string name="phone_accounts_make_sip_calls_with">SIP-Anrufe tätigen mit</string>
   <string name="phone_accounts_selection_header">Telefonkonten</string>
   <string name="phone_accounts_settings_header">Einstellungen</string>
   <string name="phone_entered_ecm_text">Notfallrückrufmodus einschalten</string>
