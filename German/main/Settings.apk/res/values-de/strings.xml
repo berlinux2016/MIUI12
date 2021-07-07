@@ -5425,6 +5425,7 @@ Betriebssystem auswählen:"</string>
   <string name="nfc_disabled_summary">Nicht verfügbar, da NFC ausgeschaltet ist</string>
   <string name="nfc_disclaimer_content">NFC tauscht Daten zwischen diesem Gerät und anderen Geräten oder Zielen in der Nähe aus, z. B. Zahlungsterminals, Zutrittslesegeräten und interaktiven Anzeigen oder Tags.</string>
   <string name="nfc_disclaimer_title">NFC aktivieren</string>
+  <string name="nfc_dnd_mode_summary">Reagiert auf NFC-Tags mit einer begrenzten Anzahl von NDEF-Tags</string>
   <string name="nfc_how_it_works_content">Richten Sie eine Bezahl-App ein. Halten Sie dann die Rückseite Ihres Geräts an ein Terminal mit einem NFC-Symbol.</string>
   <string name="nfc_how_it_works_got_it">Verstanden</string>
   <string name="nfc_how_it_works_title">Am Terminal bezahlen</string>
@@ -8139,14 +8140,14 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="style_and_wallpaper_settings_title">Stile &amp; Hintergrundbilder</string>
   <string name="style_suggestion_summary">Verschiedene Stile, Hintergrundbilder, Uhren und mehr ausprobieren</string>
   <string name="style_suggestion_title">Gestalten Sie Ihr Pixel</string>
-  <string name="stylus_ota_check_update">Prüfen und aktualisieren</string>
-  <string name="stylus_ota_current_firmware_version">Aktuelle Firmware-Version</string>
+  <string name="stylus_ota_check_update">Auf Aktualisierungen prüfen</string>
+  <string name="stylus_ota_current_firmware_version">Firmware-Version</string>
   <string name="stylus_ota_downloading_firmware">Firmware herunterladen</string>
-  <string name="stylus_ota_firmware_update">Firmware-Update</string>
+  <string name="stylus_ota_firmware_update">Firmware aktualisieren</string>
   <string name="stylus_ota_hardware_version">Hardware-Version</string>
-  <string name="stylus_ota_latest">Neueste Version</string>
+  <string name="stylus_ota_latest">Aktuelle Version</string>
   <string name="stylus_ota_model">Modell</string>
-  <string name="stylus_ota_new_version">Neue Version</string>
+  <string name="stylus_ota_new_version">Aktualisierung</string>
   <string name="stylus_ota_serial_number">Seriennummer</string>
   <string name="stylus_ota_update">Aktualisierung</string>
   <string name="stylus_ota_updating">Aktualisieren</string>
