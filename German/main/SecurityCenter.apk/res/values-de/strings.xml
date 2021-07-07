@@ -3277,7 +3277,7 @@ Stromverbrauch"</string>
   <string name="pp_special_permission_settings">Spezielle Berechtigungen</string>
   <string name="pp_special_permission_settings_detail">Steuern, wie Apps spezielle Berechtigungen verwenden</string>
   <string name="pp_storage_msg">Speicher</string>
-  <string name="pp_understanding_privacy">Erkennen</string>
+  <string name="pp_understanding_privacy">Datenschutz erkennen</string>
   <string name="pp_virtual_identity_manager">Virtuelle ID</string>
   <string name="pp_virtual_identity_summary">Eine virtuelle ID (OAID) kann anstelle Ihrer realen Kennung an Apps weitergegeben werden. Sie schützt Ihre Privatsphäre und ermöglicht es Ihnen, zu kontrollieren, wie Apps Ihr Verhalten verfolgen.</string>
   <string name="pref_about_traffic_title">Datennutzungseinstellungen</string>

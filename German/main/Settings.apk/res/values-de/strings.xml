@@ -3540,7 +3540,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_toggle_bluetooth">Bluetooth-Einstellung aktualisieren</string>
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gadget_wifi">WLAN</string>
-  <string name="gallery_privacy_password_role_instruction">Um die privat gemachten Elemente anzuzeigen, in \" Alben\" nach unten wischen.</string>
+  <string name="gallery_privacy_password_role_instruction">Um die privat erstellten Elemente anzuzeigen, in \" Alben\" nach unten wischen.</string>
   <string name="game_booster">Spiel;Spiele;Turbo;Spielen;Spielemodus</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
   <string name="game_driver_all_apps_preference_title">Für alle Apps aktivieren</string>
