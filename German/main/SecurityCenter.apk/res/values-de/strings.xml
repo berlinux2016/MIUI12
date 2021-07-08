@@ -4107,9 +4107,9 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="storage_app_manager_uninstall_application">Deinstallieren</string>
   <string name="storage_app_manager_uninstall_protected_dlg_msg">System-Plugin-Deinstallation kann dazu führen, dass einige Funktionen nicht korrekt funktionieren. Trotzdem deinstallieren?</string>
   <string name="storage_app_manager_uninstall_protected_dlg_title">Achtung</string>
-  <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Duale App dieser App wird ebenfalls deinstalliert.</string>
+  <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Dual App dieser App wird ebenfalls deinstalliert.</string>
   <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Alle App-Daten werden auch gelöscht, wenn Sie die App deinstallieren.</string>
-  <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Duale App deinstallieren?</string>
+  <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Dual App deinstallieren?</string>
   <string name="storage_app_space_details_entry">App-Details anzeigen</string>
   <string name="storage_app_uninstall_app_dialog_msg">Alle App-Daten werden auch gelöscht, wenn Sie die App deinstallieren.</string>
   <string name="storage_app_uninstall_app_dialog_title">App deinstallieren</string>
