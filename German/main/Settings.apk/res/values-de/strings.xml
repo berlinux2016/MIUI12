@@ -676,6 +676,7 @@ benachrichtigungen erlauben"</string>
   <string name="app_special_disable_dlg_text">Wenn Sie diese App deaktivieren, kann dies das Verhalten von Android und anderen Apps beeinträchtigen. Außerdem werden Ihre Daten gelöscht.</string>
   <string name="app_special_disable_dlg_title">Daten löschen und App deaktivieren?</string>
   <string name="app_switch_key">Zuletzt verwendet</string>
+  <string name="app_uninstall_sounds_enable_title">Ton beim Apps deinstallieren abspielen</string>
   <string name="app_usage_cycle">Datennutzungszyklus der App</string>
   <string name="app_wifi">WLAN</string>
   <string name="app_usage_preference">App-Nutzungseinstellungen</string>
@@ -2497,7 +2498,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Diesen Fingerabdruck entfernen?</string>
   <string name="delete_rule">Regeln löschen</string>
   <string name="delete_saved_network">Gespeichertes Netzwerk löschen</string>
-  <string name="delete_sound_effect">Ton beim Löschen</string>
+  <string name="delete_sound_effect">Ton beim Elemente löschen abspielen</string>
   <string name="deleted_apps">Gelöschte Apps</string>
   <string name="deletion_helper_automatic_title">Automatisch</string>
   <string name="deletion_helper_manual_title">Manuell</string>
@@ -3698,7 +3699,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="hardware_info">Modell &amp; Hardware</string>
   <string name="hardware_revision">Hardwareversion</string>
   <string name="hardware_version">Hardwareversion</string>
-  <string name="has_screenshot_sound">Screenshot-Auslöseton</string>
+  <string name="has_screenshot_sound">Ton bei Screenshot abspielen</string>
   <string name="headset_find_both">Beide</string>
   <string name="headset_find_cancel">Abbrechen</string>
   <string name="headset_find_connected">Verbunden</string>
@@ -4475,6 +4476,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="lock_settings_title">Bildschirmsicherheit</string>
   <string name="lock_settings_with_fingerprint">Bildschirmsperre &amp; Passwort</string>
   <string name="lock_setup">Einrichtung abgeschlossen</string>
+  <string name="lock_sound_effect_enable_title">Ton beim Gerät sperren abspielen</string>
   <string name="lock_sounds_enable_title">Ton bei Bildschirmsperre</string>
   <string name="lockdown_settings_summary">Option für die Power-Taste anzeigen, die Smartlock, Fingerabdruckentsperrung und Benachrichtigungen auf dem Sperrbildschirm ausschaltet</string>
   <string name="lockdown_settings_title">Sperroptionen anzeigen</string>
@@ -8232,13 +8234,13 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="swipe_up_to_switch_apps_title">Auf Home-Taste hochwischen</string>
   <string name="switchNetworkToast">Verbindung zu Mobilfunknetzen kann zusätzliche Kosten verursachen</string>
   <string name="switch_access_service_on">Zugriff umschalten</string>
-  <string name="switch_bootup_sound">Bootsound</string>
+  <string name="switch_bootup_sound">Ton beim Starten abspielen</string>
   <string name="switch_headset_anti_lost">Warnung bei fehlendem Ohrhörer</string>
   <string name="switch_headset_anti_lost_summary">Warnung erhalten, wenn einer Ihrer Ohrhörer länger als eine Minute vom Ohr oder der Ladehülle entfernt ist</string>
   <string name="switch_headset_anti_lost_title">Warnung bei fehlendem Ohrhörer</string>
   <string name="switch_off_text">Aus</string>
   <string name="switch_on_text">An</string>
-  <string name="switch_power_sound">Ton beim Laden</string>
+  <string name="switch_power_sound">Ton beim Ladegerät anschließen</string>
   <string name="switch_screen_button_order">Tasten spiegeln</string>
   <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
   <string name="switch_select_to_speak_on">Zum Sprechen auswählen</string>
@@ -8869,6 +8871,7 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="unlock_set_unlock_pattern_title">Muster</string>
   <string name="unlock_set_unlock_pin_summary">%1$d-%2$d Zahlen eingeben zum Entsperren</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten</string>
+  <string name="unlock_sound_effect_enable_title">Ton beim Gerät entsperren abspielen</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten</string>
   <string name="unlock_type_category_title">Erkennungsmethode</string>
   <string name="unlogin_account_summary">Alle Mi-Dienste. Ein Mi-Konto</string>
