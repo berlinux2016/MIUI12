@@ -8154,7 +8154,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="stylus_ota_serial_number">Seriennummer</string>
   <string name="stylus_ota_update">Aktualisierung</string>
   <string name="stylus_ota_updating">Aktualisieren</string>
-  <string name="subscreen_title">Rückseitige Anzeige</string>
+  <string name="subscreen_title">Hinterer Bildschirm</string>
   <string name="subscription_available">Verfügbar</string>
   <string name="succ_description">Erfolgreich</string>
   <string name="succeed">Abgeschlossen</string>
