@@ -103,13 +103,9 @@
   <string name="last_sent_time_second">Gerade eben</string>
   <string name="list_title_disable_notification">Benachrichtigungen nicht erlaubt</string>
   <string name="loading">Einen Moment…</string>
-  <string name="lock_screen_display_rules">"Anzeige-
-format"</string>
-  <string name="lock_screen_tip_toast">Sperrbildschirm-Benachrichtigungen in \"Anzeigeformat\" einstellen</string>
-  <string name="lockscreen_notifications">"Sperrbild-
-schirm"</string>
-  <string name="lockscreen_notifications_short">"Sperrbild-
-schirm"</string>
+  <string name="lock_screen_tip_toast">Sperrbildschirm-Benachrichtigungen in \"Format\" einstellen</string>
+  <string name="lockscreen_notifications">Sperrbildschirm</string>
+  <string name="lockscreen_notifications_short">Sperrbildschirm</string>
   <string name="menu_setting_aggregatation_feedback">Optionen Gruppieren</string>
   <string name="menu_setting_feedback_donot_classify">Nicht gruppieren</string>
   <string name="menu_setting_more_settings">Mehr Einstellungen</string>
@@ -283,7 +279,7 @@ Problem melden &gt;"</string>
   <string name="summary_disable_lockscreen_notification">Sperrbildschirm-Benachrichtigung nicht erlaubt</string>
   <string name="summary_disable_show_badge_notification">Plakette nicht erlaubt</string>
   <string name="summary_enable_float_notification">Popup-Benachrichtigung erlaubt</string>
-  <string name="summary_enable_lockscreen_notification">Benachrichtigung erlaubt</string>
+  <string name="summary_enable_lockscreen_notification">Sperrbildschirm-Benachrichtigung erlaubt</string>
   <string name="summary_enable_show_badge_notification">Plakette erlaubt</string>
   <string name="summary_float_enable_notification_first">Benachrichtigungen erlauben, Popups einzuschalten</string>
   <string name="summary_fold_importance_default">MIUI entscheidet, welche Benachrichtigungen direkt erscheinen</string>
