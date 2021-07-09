@@ -537,6 +537,7 @@
   <string name="navigation_guide_next_spec_pad">Nächste Anleitung</string>
   <string name="navigation_guide_prev_spec_pad">Vorherige Anleitung</string>
   <string name="navigation_guide_provision_see_more_pad">Zu \"Einstellungen-Desktop-Vollbildgesten\" gehen, um weitere Anleitungsvideos anzusehen</string>
+  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Weitere Demos in Einstellungen &gt; Startbildschirm &gt; Systemnavigation anzeigen</string>
   <string name="navigation_guide_provision_title_pad">Vollbildgesten</string>
   <string name="navigation_guide_recent_summary">Vom unteren Bildschirmrand nach oben wischen und halten</string>
   <string name="navigation_guide_recent_summary_pad">Vom unteren Bildschirmrand nach oben wischen und halten</string>
