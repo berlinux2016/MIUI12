@@ -208,7 +208,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
   <string name="fmt_time_12hour">"h 'Uhr'"</string>
-  <string name="fmt_time_24hour">"HH 'Uhr'"</string>
+  <string name="fmt_time_24hour">"H 'Uhr'"</string>
   <string name="fmt_time_timezone">T z</string>
   <string name="fmt_weekday_date">W, D</string>
   <string name="fmt_weekday_date_time">W, D T</string>

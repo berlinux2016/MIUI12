@@ -177,7 +177,6 @@
   <string name="accessibility_preview_expand">Vergrößern</string>
   <string name="accessibility_preview_front">Vorschau der Frontkamera</string>
   <string name="accessibility_preview_remote">Vorschau duale Telefonaufnahme</string>
-  <string name="accessibility_preview_select_tip">Position %1$d</string>
   <string name="accessibility_preview_selected">Ausgewählt</string>
   <string name="accessibility_preview_shrink">Verkleinern</string>
   <string name="accessibility_preview_zoom_tip">%1$.1fX Zoom-Vorschau</string>
@@ -279,7 +278,6 @@
   <string name="ai_mid_autumn_festival">Mitte-Herbst-Festival</string>
   <string name="ai_new_year_day">Neujahr</string>
   <string name="ai_new_year_eve">Chinesisches Neujahr</string>
-  <string name="ai_party">Party</string>
   <string name="ai_red_fort">Rotes Fort</string>
   <string name="ai_republic_day">Tag der Republik</string>
   <string name="ai_scene_mode_autumn">Herbst</string>
@@ -403,6 +401,7 @@ und optimiert Ihre Fotos anhand dieser Informationen."</string>
   <string name="beauty_mode_reset_toast">Make-up-Effekte erfolgreich entfernt</string>
   <string name="beauty_reset">Zurücksetzen</string>
   <string name="beauty_reset_toast">Verschönerungseffekte erfolgreich zurücksetzen</string>
+  <string name="beauty_skincolor_caramel">Karamell</string>
   <string name="beauty_skincolor_lotus">Sonne</string>
   <string name="beauty_skincolor_matte">Matt</string>
   <string name="beauty_skincolor_milktea">Creme</string>
@@ -516,6 +515,9 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="clone_too_much_movement_stop">Sie haben das Gerät zu weit entfernt. Aufnahme vorerst gestoppt.</string>
   <string name="clone_video_mode">Videomodus</string>
   <string name="clone_video_mode_start_hint">Bitte auf den Auslöser tippen, um mit der Videoaufnahme zu beginnen</string>
+  <string name="close">Schließen</string>
+  <string name="close_back_flash_toast">Ihr Gerät ist überhitzt. Blitz kann jetzt nicht verwendet werden.</string>
+  <string name="close_front_flash_toast">Ihr Gerät ist überhitzt. Blitz kann jetzt nicht verwendet werden.</string>
   <string name="close_night_algo_toast_low_power">Ihr Gerät aufladen, um die Belichtung einstellen zu können</string>
   <string name="close_night_algo_toast_thermal">Ihr Gerät abkühlen, um die Belichtung einstellen zu können</string>
   <string name="close">Schließen</string>
@@ -531,8 +533,10 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="color_effect_entry_first">Aufgang</string>
   <string name="color_effect_entry_glimmer">Schein</string>
   <string name="color_effect_entry_koizora">Liebe</string>
+  <string name="color_effect_entry_new_1">Geheimnisvoll</string>
   <string name="color_effect_entry_new_1_describe">Ein Farbschema, das häufig in Filmen verwendet wird, fügt den dunkleren Bereichen grün hinzu. Dieser Filter eignet sich gut für kontrastreiche Szenen wie die Dämmerung in der Stadt.</string>
   <string name="color_effect_entry_new_2_describe">Die Kombination aus hohem Kontrast und Sättigung bringt den Hauch von Leidenschaft und Inbrunst hervor.</string>
+  <string name="color_effect_entry_new_3">Fantasie</string>
   <string name="color_effect_entry_new_3_describe">Diese einzigartige Kombination von Farben funktioniert perfekt bei bewölktem Wetter und weichem Licht.</string>
   <string name="color_effect_entry_new_4">Schlummern</string>
   <string name="color_effect_entry_new_4_describe">Dunkle Töne und weiche Kontraste sind für weich beleuchtete Innenszenen geeignet.</string>
@@ -617,7 +621,6 @@ auswahl"</string>
   <string name="custom_tint_color_lilac">Flieder</string>
   <string name="custom_tint_color_select">Farben anpassen</string>
   <string name="custom_tint_color_sky_blue">Blau</string>
-  <string name="custom_tint_color_sky_cyan">Cyan</string>
   <string name="custom_watermark_contains_senstive_words">Wasserzeichen dürfen keine eingeschränkten Begriffe enthalten (%1$s)</string>
   <string name="custom_watermark_tips">Dieser Text erscheint als zweite Zeile Ihres Wasserzeichens. Er kann bis zu 18 Buchstaben oder 14 chinesische Zeichen enthalten.</string>
   <string name="custom_watermark_tips_gen2" formatted="false">Bis zu %d chinesische Zeichen oder %d Buchstaben</string>
@@ -627,6 +630,7 @@ auswahl"</string>
   <string name="custom_watermark_words_save_success">Erfolgreich gespeichert</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+  <string name="dd_frn_f_t">Ihr Gerät falten, um die Frontkamera zu verwenden</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
   <string name="description">Beschreibung</string>
@@ -641,7 +645,7 @@ auswahl"</string>
   <string name="dialog_button_goto">Einstellungen</string>
   <string name="dialog_button_reject">Ablehnen</string>
   <string name="dialog_button_scan">Nach Geräten suchen</string>
-  <string name="dialog_google_lens_option_0">Google Lens (empfohlen)</string>
+  <string name="dialog_google_lens_option_0">Google Lens (Empfohlen)</string>
   <string name="dirty_tip_toast">Linse ist verschmutzt. Reinigen Sie sie.</string>
   <string name="disable_video_snapshot_hint">Videoschnappschuss ist aus, wenn Spezialeffekte aktiviert sind</string>
   <string name="dismiss_button_content_description">In der Nähe der Kamera</string>
@@ -716,6 +720,7 @@ Nach dem Einschalten der Funktion \"Multi-Kamera-Aufnahme\" können Sie eine Ver
   <string name="edit_makeup">Make-up</string>
   <string name="edit_neck">Hals</string>
   <string name="edit_nose">Nase</string>
+  <string name="edit_pupil_line">Lidstrich</string>
   <string name="edit_risorius">Lachmuskel</string>
   <string name="edit_skin_smooth">Glatt</string>
   <string name="edit_skin_white">Hautton</string>
@@ -967,10 +972,9 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="lighting_hint_title">Studiobeleuchtung</string>
   <string name="lighting_hint_too_close">Kamera weiter weg bewegen</string>
   <string name="lighting_hint_too_far">Kamera näher ran bewegen</string>
-  <string name="lighting_hint_usage">Studiolichteffekte im Porträtmodus verwenden</string>
+  <string name="lighting_hint_usage">Sie können Studio-Lichteffekte\nim Porträtmodus verwenden</string>
   <string name="lighting_lanshan">Lanshan</string>
   <string name="lighting_movie_light_effect_title">Filmlichteffekt</string>
-  <string name="lighting_neon">Neon</string>
   <string name="lighting_nostalgia">Nostalgie</string>
   <string name="lighting_pattern_dot">Punkte</string>
   <string name="lighting_pattern_leaf">Blätter</string>
@@ -1033,7 +1037,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="lying_direct_hint">Aktuelle Ausrichtung</string>
   <string name="macro_mode">Makromodus</string>
   <string name="macro_mode_tip">Bitte platzieren Sie das Motiv innerhalb von 10 cm</string>
-  <string name="macro_mode_use_hint_text_body">Mit dem Makromodus können Sie kleine Objekte auf Fotos vergrößern</string>
+  <string name="macro_mode_use_hint_text_body">Makro-Modus verwenden, um kleine Objekte\nauf Fotos größer aussehen zu lassen</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="makeup_effect_entry_apricot_white">Alabaster</string>
   <string name="makeup_effect_entry_dusk_night">Dämmerung</string>
@@ -1068,7 +1072,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="mimoji_cartoon_lion">Löwe</string>
   <string name="mimoji_cartoon_love">Herz</string>
   <string name="mimoji_cartoon_love_you">Liebe</string>
-  <string name="mimoji_cartoon_ok">Okay</string>
+  <string name="mimoji_cartoon_ok">OK</string>
   <string name="mimoji_cartoon_pig">Schwein</string>
   <string name="mimoji_cartoon_rabbit">Häschen</string>
   <string name="mimoji_cartoon_rabbit_mechanical">Roboter-Häschen</string>
@@ -1359,7 +1363,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="portait_effect_entry_riddle">Rätsel</string>
   <string name="portait_effect_entry_romance">Romantik</string>
   <string name="portait_effect_entry_tea">Tee</string>
-  <string name="portrait_bokeh_first_tips">Verwenden Sie Hochformat, um den Hintergrund Ihrer Fotos zu verwischen.</string>
+  <string name="portrait_bokeh_first_tips">Verwenden Sie Hochformat,\num den Hintergrund Ihrer Fotos zu verwischen.</string>
   <string name="portrait_bokeh_text">Hochformat</string>
   <string name="portrait_bokeh_tips">Platzieren Sie das Motiv innerhalb von 1,5 Metern.</string>
   <string name="portrait_india_effect_entry_portrait">Porträt</string>
@@ -1372,7 +1376,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
   <string name="portrait_mode_too_close_hint">Motiv weiter weg platzieren</string>
   <string name="portrait_mode_too_far_hint">Motiv innerhalb von 2 Metern platzieren</string>
-  <string name="portrait_mode_use_hint">Im Porträtmodus wird der Hintergrund unscharf dargestellt, sodass die Personen in den Vordergrund rücken</string>
+  <string name="portrait_mode_use_hint">Im Porträtmodus wird der Hintergrund unscharf dargestellt,\nsodass die Personen in den Vordergrund rücken</string>
   <string name="portrait_mode_use_hint_for_bokeh">Versuchen Sie es mit Hochformat.
 Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>
@@ -2138,13 +2142,17 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Motive enthalten</string>
   <string name="ultra_ai_pixel_photography_close_tip">KI %s Ultraklar ist aus</string>
   <string name="ultra_ai_pixel_photography_open_tip">KI %s Ultraklar</string>
+    <string name="ultra_pixel_100mp">100 MP</string>
+    <string name="ultra_pixel_108mp">108 MP</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32 MP aus</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48 MP aus</string>
+    <string name="ultra_pixel_50mp">50 MP</string>
+    <string name="ultra_pixel_64mp">64 MP</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD ist aus</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD ist an</string>
   <string name="ultra_pixel_portrait_hint">Portrait mit schwachem Licht</string>
   <string name="ultra_pixel_zoom_no_support_tip">Zoom funktioniert nicht im %s-Ultra-HD-Modus</string>
-  <string name="ultra_tele_use_hint_text_body">"50X-Zoom verwenden, um entfernte Objekte detaillierter zu erfassen."</string>
+  <string name="ultra_tele_use_hint_text_body">50X-Zoom verwenden, um entfernte\nObjekte detaillierter zu erfassen.</string>
   <string name="ultra_tele_use_hint_text_title">50X-Zoom</string>
   <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
   <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus</string>
@@ -2207,6 +2215,7 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="video_effect_entry_central">Zentral</string>
   <string name="video_effect_entry_color_retention">Farbfokus</string>
   <string name="video_effect_entry_color_retention_describe">Dieser Porträtfilter zeigt Personen in Farbe und macht Hintergründe schwarz-weiß.</string>
+    <string name="video_effect_entry_fantasy">Fantasie</string>
   <string name="video_effect_entry_forest">Wald</string>
   <string name="video_effect_entry_holiday">Ferien</string>
   <string name="video_effect_entry_lost">Verloren</string>
