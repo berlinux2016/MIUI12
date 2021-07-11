@@ -102,7 +102,7 @@
   <string name="auto_play_next_off">Autoplay ist aus</string>
   <string name="auto_play_next_on">Autoplay ist an</string>
   <string name="back_to_mainpage">Entdecken</string>
-  <string name="background_playback_enabled">Hintergrundwiedergabe ist eingeschaltet</string>
+  <string name="background_playback_enabled">Hintergrundwiedergabe ist an</string>
   <string name="before_yestoday">Vor 2 Tagen</string>
   <string name="bind_sign_in_title">Mi-Konto hinzufügen</string>
   <string name="browser_error">Zurzeit nicht verfügbar, bitte später wieder versuchen</string>

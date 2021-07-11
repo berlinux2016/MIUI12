@@ -988,7 +988,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="card_uninstall_title_1">Selten verwendete Apps deinstallieren</string>
   <string name="cellular_data_auto_check">Automatisch prüfen</string>
   <string name="cellular_package_daily_input">Eingeben</string>
-  <string name="charging_text_battery_full_time">"Akkuladezeit "</string>
+  <string name="charging_text_battery_full_time">"Letzte Aufladung "</string>
   <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
   <string name="charging_text_battery_perfect">Voll aufgeladen</string>
   <string name="check_network_state">Netzwerkdiagnose</string>
@@ -3549,7 +3549,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="privacy_search_key_5">Besondere Berechtigungen</string>
   <string name="privacy_search_key_6">Benachrichtigungen über Berechtigungen</string>
   <string name="privacy_search_key_7">Standortinfo</string>
-  <string name="privacy_search_key_8">Datenschutzmaske</string>
+  <string name="privacy_search_key_8">Nicht verfolgen</string>
   <string name="privacy_search_key_9">Virtuelle ID</string>
   <string name="privacy_show_password">Passwörter anzeigen</string>
   <string name="privacy_show_password_summary">Passwörter für kurze Zeit sichtbar machen</string>
