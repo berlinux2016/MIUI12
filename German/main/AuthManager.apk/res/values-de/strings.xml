@@ -155,8 +155,7 @@
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="clipboard_ai_allow_once">Erlaubt %1$s, automatisch auf Elemente in der Zwischenablage zuzugreifen</string>
   <string name="clipboard_ai_allow_tip">Smart erlaubt %1$s, %2$s in der Zwischenablage zu lesen</string>
-  <string name="clipboard_data">"• Zwischenablageinhalt
-» "</string>
+  <string name="clipboard_data">"Inhalt: "</string>
   <string name="clipboard_data_request">%1$s versucht, auf Elemente in der Zwischenablage zuzugreifen</string>
   <string name="clipboard_deny_notification_content">Dieser Versuch wurde blockiert. Tippen, um die Berechtigungen zu verwalten.</string>
   <string name="clipboard_deny_notification_operation">Verwalten</string>
@@ -164,8 +163,7 @@
   <string name="clipboard_may_sensitive">Eventuell sensible Informationen</string>
   <string name="clipboard_read_ai_deny_once">%1$s Zwischenablage verweigert</string>
   <string name="clipboard_read_allow_once">%1$s griff auf Elemente in der Zwischenablage zu</string>
-  <string name="clipboard_read_deny_dialog_title">"• %1$s
-Zwischenablage lesen verweigert"</string>
+  <string name="clipboard_read_deny_dialog_title">Eingeschränkter Zwischenablagezugriff für %1$s</string>
   <string name="close">Schließen</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -275,7 +273,7 @@ Zwischenablage lesen verweigert"</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Mehr</string>
   <string name="morning">Morgen</string>
-  <string name="never_ask_again">Nicht wieder fragen</string>
+  <string name="never_ask_again">Nach dem Einschränken nicht mehr nachfragen</string>
   <string name="night">Abend</string>
   <string name="no">Nein</string>
   <string name="noon">Mittag</string>
