@@ -504,7 +504,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
   <string name="recreate_soft_ap_tips">Tippen Sie unten auf die Schaltfläche, um es erneut zu versuchen.</string>
   <string name="reconnect">Erneut verbinden</string>
-  <string name="recreate_soft_ap_tips">Unten auf die taste tippen, um es erneut zu versuchen.</string>
+  <string name="recreate_soft_ap_tips">Unten auf die Taste tippen, um es erneut zu versuchen.</string>
   <string name="refresh">Aktualisieren</string>
   <string name="remote_receive">Empfangen</string>
   <string name="restore">Wiederherstellen</string>
