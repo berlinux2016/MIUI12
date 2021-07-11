@@ -138,6 +138,8 @@ Zum Ausschalten auf https://appleid.apple.com/#!&amp;page=signin gehen"</string>
   <string name="dialog_rating_desc_ask">Was halten Sie von Mi Mover?</string>
   <string name="dialog_rating_desc_less">Geben Sie uns ein paar Vorschläge, damit wir unsere App verbessern können?</string>
   <string name="dialog_rating_desc_perfect">Danke! Mi Mover auch in GetApps bewerten?</string>
+  <string name="dialog_rating_high_score_summary">Sehr zufrieden</string>
+  <string name="dialog_rating_low_score_summary">Sehr unzufrieden</string>
   <string name="dialog_rating_title">Mi Mover bewerten</string>
   <string name="dialog_request_network_btn_negative">Beenden</string>
   <string name="dialog_request_network_btn_positive">Zustimmen</string>
@@ -206,7 +208,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
   <string name="fmt_time_12hour">"h 'Uhr'"</string>
-  <string name="fmt_time_24hour">"H 'Uhr'"</string>
+  <string name="fmt_time_24hour">"HH 'Uhr'"</string>
   <string name="fmt_time_timezone">T z</string>
   <string name="fmt_weekday_date">W, D</string>
   <string name="fmt_weekday_date_time">W, D T</string>
@@ -750,6 +752,7 @@ Videos, Dokumente und Apps auf ein neues Gerät verschieben"</string>
   <string name="transfer_quit_alert_btn_negative">Beenden</string>
   <string name="transfer_quit_alert_btn_positive">Nicht beenden</string>
   <string name="transfer_quit_alert_message">"Mi Mover arbeitet jetzt. Trotzdem aufhören?
+
 "</string>
   <string name="transfer_quit_alert_message_extra">Übertragungsverlauf wird gespeichert. Sie können die Übertragung bei der nächsten Verbindung der beiden Geräte an der Stelle fortsetzen, an der Sie aufgehört haben.</string>
   <string name="transfer_quit_alert_title">Achtung</string>
