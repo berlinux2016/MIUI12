@@ -418,7 +418,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_main_camera_check_title">Kameratest hinten (Hauptkamera)</string>
   <string name="cit_name">Hardwaretests</string>
   <string name="cit_nfc_check_enable_tip">Init-NFC-Testumgebung</string>
-  <string name="cit_nfc_check_summary">Bitte tippen Sie auf die Taste zum Starten von NFC und legen Sie die Karte dann oben auf die Rückseite des Geräts.</string>
+  <string name="cit_nfc_check_summary">Bitte tippen Sie auf die Taste, um NFC zu initiieren und legen Sie dann die Karte oben auf die Rückseite des Geräts.\nBildschirm während des Tests nicht ausschalten"</string>
   <string name="cit_nfc_check_tip">Legen Sie die Karte oben auf die Rückseite des Geräts</string>
   <string name="cit_nfc_check_title">NFC-Test</string>
   <string name="cit_nfc_sim_check_summary">Vergewissern Sie sich, dass der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden, nur zwei NFC-SIM-Karten gleichzeitig vorhanden sind und bei korrektem Status ist es bestanden.</string>
@@ -693,8 +693,8 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
   <string name="cit_tool_wlan_tx_ax_gI">Wächterintervall:</string>
   <string name="cit_tool_wlan_tx_bg_chan">Channel:</string>
   <string name="cit_tool_wlan_tx_n_bandwidth">Bandbreite:</string>
-  <string name="cit_tool_wlan_tx_n_chan">Channel:</string>
-  <string name="cit_tool_wlan_tx_st_chan">Channel:</string>
+  <string name="cit_tool_wlan_tx_n_chan">Kanal:</string>
+  <string name="cit_tool_wlan_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wlan_txrx_chain_selection">Antenne auswählen</string>
   <string name="cit_top_left_speaker_test">Test oberer Lautsprecher links</string>
   <string name="cit_top_right_speaker_test">Test oberer Lautsprecher rechts</string>
