@@ -4,7 +4,6 @@
   <string name="accessibility_pro_parameters_panel_on">Menü mit den PRO-Parametern öffnen</string>
 
   <string name="dd_f_t">Ihr Telefon zur Aufnahme schließen</string>
-  <string name="dd_frn_f_t">Falten Sie Ihr Gerät, um die Frontkamera zu verwenden</string>
   <string name="dd_unf_t">Telefon bitte aufklappen und ein Foto mit dem externen Bildschirm machen</string>
   
   <string name="esp_tip">Äußere Anzeigevorschau</string>
@@ -516,11 +515,8 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="clone_video_mode">Videomodus</string>
   <string name="clone_video_mode_start_hint">Bitte auf den Auslöser tippen, um mit der Videoaufnahme zu beginnen</string>
   <string name="close">Schließen</string>
-  <string name="close_back_flash_toast">Ihr Gerät ist überhitzt. Blitz kann jetzt nicht verwendet werden.</string>
-  <string name="close_front_flash_toast">Ihr Gerät ist überhitzt. Blitz kann jetzt nicht verwendet werden.</string>
   <string name="close_night_algo_toast_low_power">Ihr Gerät aufladen, um die Belichtung einstellen zu können</string>
   <string name="close_night_algo_toast_thermal">Ihr Gerät abkühlen, um die Belichtung einstellen zu können</string>
-  <string name="close">Schließen</string>
   <string name="close_back_flash_toast">Ihr Gerät ist überhitzt. Sie können jetzt keinen Blitz verwenden.</string>
   <string name="close_front_flash_toast">Ihr Gerät ist überhitzt. Sie können jetzt keinen Blitz verwenden.</string>
   <string name="cloud_album_details">Details des Cloud Albums:</string>
