@@ -117,7 +117,6 @@ https://appleid.apple.com/#!&amp;page=signin zum Schließen"</string>
   <string name="cloud_search">Suchen…</string>
   <string name="compute_backup_info">Sicherungsinfo abfragen…</string>
   <string name="compute_delete_contact_info">Info abfragen…</string>
-  <string name="connect_wifi">Mit WLAN verbinden</string>
   <string name="confirm_exit_link">Verlassen</string>
   <string name="confirm_exit_link_cancel">Nicht verlassen</string>
   <string name="confirm_exit_link_msg">Wenn Sie die App jetzt verlassen, wird die laufende Übertragung unterbrochen. Sie müssen die Verbindung zwischen den beiden Geräten erneut herstellen. Die App trotzdem verlassen?</string>
