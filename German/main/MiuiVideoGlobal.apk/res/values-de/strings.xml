@@ -1248,6 +1248,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="s5">Kalendereintrag erstellen</string>
   <string name="s6">Erlauben Sie der Werbung, einen Kalendereintrag zu erstellen?</string>
   <string name="s7">Testwerbung</string>
+  <string name="s_double_tap_play_stop">Doppeltippen zum Anhalten oder Fortsetzen</string>
   <string name="same_new_and_old_pwd">Darf nicht mit dem aktuellen Passwort identisch sein</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
@@ -1576,6 +1577,7 @@ Es zeigt nichts an."</string>
   <string name="video_download_fail">Video herunterladen nicht möglich</string>
   <string name="video_download_fail_hint">Herunterladen nicht möglich</string>
   <string name="video_download_floating_guide">Kostenlose Videos herunterladen</string>
+  <string name="video_download_folder_title">Mi Video Downloads</string>
   <string name="video_download_forbidden">Herunterladen von dieser Webseite nicht möglich</string>
   <string name="video_download_login_guide">Bei %s anmelden, um Videos herunterladen zu können</string>
   <string name="video_download_network_error">Netzwerk fehler</string>
