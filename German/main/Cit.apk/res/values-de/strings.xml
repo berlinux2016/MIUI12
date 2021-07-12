@@ -418,7 +418,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_main_camera_check_title">Kameratest hinten (Hauptkamera)</string>
   <string name="cit_name">Hardwaretests</string>
   <string name="cit_nfc_check_enable_tip">Init-NFC-Testumgebung</string>
-  <string name="cit_nfc_check_summary">Bitte tippen Sie auf die Taste, um NFC zu initiieren und legen Sie dann die Karte oben auf die Rückseite des Geräts.\nBildschirm während des Tests nicht ausschalten"</string>
+  <string name="cit_nfc_check_summary">Bitte tippen Sie auf die Taste, um NFC zu initiieren und legen Sie dann die Karte oben auf die Rückseite des Geräts.\nBildschirm während des Tests nicht ausschalten.</string>
   <string name="cit_nfc_check_tip">Legen Sie die Karte oben auf die Rückseite des Geräts</string>
   <string name="cit_nfc_check_title">NFC-Test</string>
   <string name="cit_nfc_sim_check_summary">Vergewissern Sie sich, dass der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden, nur zwei NFC-SIM-Karten gleichzeitig vorhanden sind und bei korrektem Status ist es bestanden.</string>

@@ -400,7 +400,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="new_local_tab_backup">Sichern</string>
   <string name="new_local_tab_backup_pad">Sichern</string>
   <string name="new_local_tab_restore">Wiederherstellen</string>
-  <string name="new_local_tab_restore_pad">Wiederhestellen</string>
+  <string name="new_local_tab_restore_pad">Wiederherstellen</string>
   <string name="new_low_storage_title">Nicht genug Speicherplatz</string>
   <string name="new_more_settings_label">Weitere Einstellungen</string>
   <string name="new_pc_backup_content1">%1$d. \"%2$s\" öffnen.</string>

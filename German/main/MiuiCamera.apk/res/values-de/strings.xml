@@ -641,7 +641,7 @@ auswahl"</string>
   <string name="dialog_button_goto">Einstellungen</string>
   <string name="dialog_button_reject">Ablehnen</string>
   <string name="dialog_button_scan">Nach Geräten suchen</string>
-  <string name="dialog_google_lens_option_0">Google Lens (Empfohlen)</string>
+  <string name="dialog_google_lens_option_0">Google Lens (empfohlen)</string>
   <string name="dirty_tip_toast">Linse ist verschmutzt. Reinigen Sie sie.</string>
   <string name="disable_video_snapshot_hint">Videoschnappschuss ist aus, wenn Spezialeffekte aktiviert sind</string>
   <string name="dismiss_button_content_description">In der Nähe der Kamera</string>
