@@ -4610,6 +4610,12 @@ Wollen Sie es übernehmen?"</string>
   <string name="unlock_set_unlock_pattern_summary">Mindestens 4 Punkte verbinden</string>
   <string name="unlock_set_unlock_pattern_title">Muster</string>
   <string name="unlock_set_unlock_pin_summary">4 Ziffern eingeben</string>
+  <string name="untrust_app_perm_install_list">Zugriff auf die Liste der auf diesem Gerät installierten Apps erlauben</string>
+  <string name="untrust_app_perm_network">Netzwerkverbindung erlauben</string>
+  <string name="untrust_app_perm_notification">Benachrichtigungen erlauben</string>
+  <string name="untrust_app_perm_oaid">Zugriff auf Ihre virtuelle ID erlauben</string>
+  <string name="untrust_app_perm_title">App von einer unbekannten Quelle</string>
+  <string name="untrust_app_perm_warn">Diese App stammt aus einer unbekannten Quelle und stellt möglicherweise ein Sicherheitsrisiko dar. Sie kann die unten aufgeführten Berechtigungen verwenden, um Ihre Privatsphäre zu gefährden. Gewähren Sie diese Berechtigungen nach reiflicher Überlegung.</string>
   <string name="updating_diagnostic_botton">Daten analysieren…</string>
   <string name="usage_sorted_activity_lable">Datennutzung</string>
   <string name="usage_sorted_empty_text">Leer</string>
