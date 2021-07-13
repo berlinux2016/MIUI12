@@ -1,32 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-  <string name="messages_installed_notification_text_xiaomi">Tippen, um einen Chat zu starten</string>
-  <string name="messages_installed_notification_title_xiaomi">Messages ist installiert</string>
-  <string name="miuix_appcompat_deselect_all">Abwählen</string>
-  <string name="miuix_appcompat_select_all">Alle auswählen</string>
-  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
-  <string name="notification_channel_name_xiaomi">App-Upgrade-Benachrichtigungen</string>
-  <string name="privacy_revoke_nonetwork_msg">Ihr Gerät muss sich mit dem Netzwerk verbinden, damit Sie die Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-  <string name="privacy_revoke_nonetwork_ok">Verstanden</string>
-  <string name="privacy_revoke_nonetwork_title">Netzwerkverbindung nicht möglich</string>
-  <string name="promo_back_btn_text_xiaomi">Zurück zu Mi Message</string>
-  <string name="promo_install_btn_text">Weiter</string>
-  <string name="promo_install_bullet_1_xiaomi">Google Assistant für Texte &amp; Aufgaben verwenden</string>
-  <string name="promo_install_bullet_2_xiaomi">Ihre aktuellen Unterhaltungen &amp; Medien behalten</string>
-  <string name="promo_install_bullet_3_xiaomi">Einfaches Auffinden freigegebener Nachrichten &amp; Medien</string>
-  <string name="promo_install_bullet_4_xiaomi">Messages als Standard-SMS-App verwenden</string>
-  <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
-  <string name="promo_install_subtitle_xiaomi">Über WLAN oder Daten in besserer Qualität chatten. Mi Message installieren und als Ihre Standard-SMS-App verwenden. <a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
-  <string name="promo_install_title_xiaomi">Xiaomi empfiehlt ein Upgrade auf Messages von Google</string>
-  <string name="promo_launch_messages_btn_text">Nachrichten öffnen</string>
-  <string name="promo_no_thanks_btn_text_xiaomi">Nein danke</string>
-  <string name="promo_post_install_animation_alt_text_xiaomi">Messages von Google ist jetzt Ihre Standard-SMS-App. Um Google Messages als Favorit auf dem Startbildschirm zu platzieren, drücken Sie lange auf Mi Message und verschieben es aus den Favoriten, dann drücken Sie lange auf Messages und verschieben es in die Favoriten.</string>
-  <string name="promo_post_install_title_no_default_xiaomi">Nachrichten durch hochwertigeres Messages von Google ersetzen</string>
-  <string name="promo_post_install_title_with_default_xiaomi">Jetzt Messages von Google mit einer besseren Textqualität starten</string>
-  <string name="promo_use_messages_btn_text">Messages verwenden</string>
-  <string name="small_window_log_text">Kamera im Mehrfenstermodus verwenden nicht möglich</string>
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -44,15 +17,16 @@
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
-  <string name="actionbar_button_up_description">Zurück</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="action_get_otp">Code abfragen</string>
   <string name="action_sign_in">Anmelden</string>
   <string name="action_sign_in_short">Anmelden</string>
+  <string name="actionbar_button_up_description">Zurück</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
   <string name="activity_not_found_uri">Keine App zum Öffnen der Datei gefunden</string>
   <string name="ad_close_button_text">Werbung</string>
   <string name="ad_notification_title">Unwichtige Mitteilungen</string>
+  <string name="addBlackList">Blockieren</string>
   <string name="add_attachment">Anhänge hinzufügen</string>
   <string name="add_festival">Vorlagen</string>
   <string name="add_miui_contact">Kontakt</string>
@@ -70,11 +44,12 @@
   <string name="add_to_browser_favorite_failed">fehlgeschlagen</string>
   <string name="add_to_browser_favorite_success">Erfolgreich hinzugefügt</string>
   <string name="add_video">Video hinzufügen</string>
-  <string name="addBlackList">Blockieren</string>
   <string name="adding_attachments">Bitte warten, während die Elemente zur Diashow hinzugefügt werden</string>
   <string name="adding_attachments_title">Anhänge werden hinzugefügt</string>
   <string name="adding_recipients">Empfänger hinzufügen…</string>
   <string name="afternoon">Nachmittag</string>
+  <string name="aim_show_card">Karte anzeigen</string>
+  <string name="aim_show_original">Nachricht anzeigen</string>
   <string name="alert_dlg_cancel_button">Abbrechen</string>
   <string name="allow_network_hint">\"Info automatisch aktualisieren\" einschalten oder prüfen Sie Ihre Netzwerkverbindung</string>
   <string name="already_followed">Sie folgen dieser Nummer bereits</string>
@@ -133,6 +108,7 @@
   <string name="call_sender">Absender anrufen</string>
   <string name="can_not_send_by_rcs">5G Messaging nicht möglich</string>
   <string name="can_not_view_group_chat_stranger">Details von Fremden nicht sichtbar</string>
+  <string name="cancel">Abbrechen</string>
   <string name="cannot_add_picture_and_video">Video und Bild können nicht zu einer Folie hinzugefügt werden</string>
   <string name="cannot_add_slide_anymore">Weiteren Folien können nicht hinzugefügt werden</string>
   <string name="cannot_forward_drm_obj">Das in der Nachricht enthaltene DRM-Objekt kann nicht weitergeleitet werden</string>
@@ -171,13 +147,13 @@
   <string name="complain_upload">Beschwerde wurde eingereicht.</string>
   <string name="compressing">Bild zu groß, komprimieren…</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer zur Sperrliste hinzufügen?</string>
-  <string name="confirm_delete_all_conversations">Alle Unterhaltungen löschen?</string>
+  <string name="confirm_delete_SIM_message">SIM-Nachricht löschen?</string>
   <string name="confirm_delete_all_SIM_messages">Alle SIM-Nachrichten löschen?</string>
+  <string name="confirm_delete_all_conversations">Alle Unterhaltungen löschen?</string>
   <string name="confirm_delete_conversation">Gesamte Unterhaltung löschen?</string>
   <string name="confirm_delete_group_message">Gruppennachrichten löschen?</string>
   <string name="confirm_delete_locked_message">Gesperrte Nachricht löschen?</string>
   <string name="confirm_delete_message">Nachricht löschen?</string>
-  <string name="confirm_delete_SIM_message">SIM-Nachricht löschen?</string>
   <string name="confirm_dialog_locked_title">Gesperrte Nachricht löschen?</string>
   <string name="confirm_dialog_title">Löschen?</string>
   <string name="confirm_dlg__msg">CMCC Hinweis: CMCC Free Post-Service wird nicht unterstützt, wenn Sie diesen Dienst abbrechen. Möchten Sie wirklich abbrechen?</string>
@@ -223,6 +199,7 @@
   <string name="copy_verification_code_tip">Erfolgreich kopiert</string>
   <string name="current_data_version">Mi Message Version</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+  <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="debug_about_mms">Über MMS</string>
   <string name="debug_category_db">Datenbank</string>
   <string name="debug_category_others">Anderes</string>
@@ -372,6 +349,7 @@
   <string name="from_pkg_name">"Von der App: "</string>
   <string name="ft_cfs_dialog_content">Dateien konnten nicht über RCS empfangen werden. Stattdessen einen Link in einer Textnachricht senden?</string>
   <string name="ft_cfs_dialog_title">Alternative Dateiübertragung</string>
+  <string name="go_close">Einstellungen</string>
   <string name="go_to">" öffnen"</string>
   <string name="google_message_promo_content">Xiaomi empfiehlt ein Upgrade auf Messages von Google. Installieren Sie es jetzt, um Fotos in hoher Qualität zu teilen, über WLAN zu chatten und vieles mehr. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></font></string>
   <string name="google_message_promo_title">Aktualisieren Sie Ihre Messaging-App</string>
@@ -407,10 +385,10 @@
   <string name="hybrid_service_unavailiable">Service nicht verfügbar</string>
   <string name="hybrid_try_again">Erneut versuchen</string>
   <string name="i_know">Verstanden</string>
+  <string name="ignore">Jetzt nicht</string>
   <string name="imageview_ad">Werbung</string>
   <string name="importing_progress_private_message">Nachrichten importieren…</string>
   <string name="in_sms">Nachricht</string>
-  <string name="ignore">Jetzt nicht</string>
   <string name="installed_google_message_promo_content">Xiaomi empfiehlt die Nutzung von Messages von Google. Öffnen Sie Messages, um Fotos in hoher Qualität zu teilen, über WLAN zu chatten und vieles mehr.</string>
   <string name="installed_google_message_promo_title">Öffnen Sie Messages für einen besseren Chat</string>
   <string name="insufficient_drm_rights">Nicht ausreichende DRM-Rechte vorhanden</string>
@@ -418,8 +396,14 @@
   <string name="invalid_destination">Ungültige Zieladresse</string>
   <string name="invalid_private_contact">Ungültiger Kontakt</string>
   <string name="invalid_recipient_message">Bitte Empfänger korrigieren, da die Nachricht sonst nicht empfangen werden kann</string>
+  <string name="invisible_mode_on">Sie sind inkognito</string>
   <string name="is_composing">Schreiben…</string>
   <string name="layout_selector_title">"Diashow Layout "</string>
+  <string name="leave_mms_tips_context_app">Nachrichten verlassen und die App jetzt öffnen?</string>
+  <string name="leave_mms_tips_context_app_name">Nachrichten verlassen und \"%s\" jetzt öffnen?</string>
+  <string name="leave_mms_tips_context_browser">Nachrichten verlassen und den Webbrowser jetzt öffnen?</string>
+  <string name="leave_mms_tips_context_email">Nachrichten verlassen und den E-Mail-Client jetzt öffnen?</string>
+  <string name="leave_mms_tips_context_map">Nachrichten verlassen und die Karte jetzt öffnen?</string>
   <string name="loading_all_messages">Einen Moment…</string>
   <string name="loading_conversations">Einen Moment…</string>
   <string name="loading_mms">Einen Moment…</string>
@@ -479,7 +463,10 @@ Prüfen Sie Ihre SIM-Karte."</string>
   <string name="message_too_big_for_audio">Nachricht zu groß</string>
   <string name="message_too_big_for_video">Nachricht zu groß um ein Video anzuhängen</string>
   <string name="message_type_label">"Typ: "</string>
+  <string name="message_unread">Ungelesen</string>
   <string name="messagelist_sender_self">Ich</string>
+  <string name="messages_installed_notification_text_xiaomi">Tippen, um einen Chat zu starten</string>
+  <string name="messages_installed_notification_title_xiaomi">Messages ist installiert</string>
   <string name="messaging">Nachrichten</string>
   <string name="mi_message_title">Mi Message</string>
   <string name="midnight">Nacht</string>
@@ -493,10 +480,13 @@ Prüfen Sie Ihre SIM-Karte."</string>
   <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
   <string name="miuix_appcompat_confirm_description">Bestätigen</string>
   <string name="miuix_appcompat_delete_description">Löschen</string>
+  <string name="miuix_appcompat_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suchen</string>
+  <string name="miuix_appcompat_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
+  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -640,6 +630,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="notification_add_todo_content">Abholcode: %s</string>
   <string name="notification_channel_msg_description">Benachrichtigungen über Nachrichten</string>
   <string name="notification_channel_msg_name">Mi Message</string>
+  <string name="notification_channel_name_xiaomi">App-Upgrade-Benachrichtigungen</string>
   <string name="notification_channel_other_description">Andere Benachrichtigungen</string>
   <string name="notification_channel_other_name">Andere</string>
   <string name="notification_channel_sim1_description">Benachrichtigungen über SIM1-Nachrichten</string>
@@ -723,6 +714,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="pref_summary_on_system_mms_priority">MIUI SMS/MMS-App als Standard zum Senden/Empfangen von MMS benutzen</string>
   <string name="pref_summary_privacy_authority">Diesen Schalter betätigen, um Ihre Berechtigung zu erteilen oder zu widerrufen.</string>
   <string name="pref_summary_send_delivery_reports">Lieferbestätigungsmeldung an den Absender senden, wenn Sie eine Multimedia-Mitteilung erhalten</string>
+  <string name="pref_summary_switch_aim_card">Nachrichten, die Videos, Bilder und komplexe Formatierungen enthalten, als Karten anzeigen</string>
   <string name="pref_summary_voice_report">Einschalten, um Nachrichten beim Empfang laut vorzulesen. Lautstärke runter-Taste oder Ein/Aus-Taste drücken, um die Wiedergabe zu stoppen.</string>
   <string name="pref_summary_wake_up_screen">Bildschirm bei Eingang neuer Nachrichten einschalten</string>
   <string name="pref_switch_sdk_setting">Smart SMS-Engine ändern</string>
@@ -756,6 +748,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="pref_title_sms_delete">Maximalanzahl SMS</string>
   <string name="pref_title_sms_validity_period">SMS-Gültigkeitsdauer</string>
   <string name="pref_title_storage_status">Nachrichtenspeicherstatus</string>
+  <string name="pref_title_switch_aim_card">Nachrichten in Karten umwandeln</string>
   <string name="pref_title_system_mms_priority">Als Standard setzen</string>
   <string name="pref_title_vcard">Per vCard-Datei senden</string>
   <string name="pref_title_voice_report">Nachrichten laut vorlesen</string>
@@ -779,6 +772,9 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="privacy_password_title3">Aktualisieren Sie Ihr Passwort</string>
   <string name="privacy_password_title4">Passwort wurde aktualisiert</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
+  <string name="privacy_revoke_nonetwork_msg">Ihr Gerät benötigt eine Netzwerkverbindung, damit Sie die Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="privacy_revoke_nonetwork_ok">Verstanden</string>
+  <string name="privacy_revoke_nonetwork_title">Netzwerkverbindung nicht möglich</string>
   <string name="privacy_state_revoked_cancel">Abbrechen</string>
   <string name="privacy_state_revoked_content">Indem Sie den Schalter abwählen, widerrufen Sie Ihre Zustimmung zur Messaging-Datenschutzerklärung. Wir werden die Erfassung Ihrer persönlichen Daten einstellen. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Mi Message und Smart Messaging, die von Messaging zur Verfügung gestellt werden, müssen die notwendigen persönlichen Informationen sammeln, um Ihnen Basisdienste anbieten zu können. Wenn Sie Ihre Zustimmung zur Messaging-Datenschutzerklärung zurückziehen, gilt dies als Annahmeverweigerung der Dienste, die auf den von Mi Message und Smart Messaging bereitgestellten gesammelten persönlichen Daten basieren.</string>
   <string name="privacy_state_revoked_dialog_title">Widerruf Einwilligung</string>
@@ -793,18 +789,27 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="private_protect">Datenschutz</string>
   <string name="private_settings">Einstellungen</string>
   <string name="processing">Verarbeiten…</string>
+  <string name="promo_back_btn_text_xiaomi">Zurück zu Mi Message</string>
+  <string name="promo_install_btn_text">Weiter</string>
+  <string name="promo_install_bullet_1_xiaomi">Google Assistant für Texte &amp; Aufgaben verwenden</string>
+  <string name="promo_install_bullet_2_xiaomi">Ihre aktuellen Unterhaltungen &amp; Medien behalten</string>
+  <string name="promo_install_bullet_3_xiaomi">Einfaches Auffinden freigegebener Nachrichten &amp; Medien</string>
+  <string name="promo_install_bullet_4_xiaomi">Messages als Standard-SMS-App verwenden</string>
+  <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
+  <string name="promo_install_subtitle_xiaomi">Über WLAN oder Daten in besserer Qualität chatten. Mi Message installieren und als Ihre Standard-SMS-App verwenden. <a href="https://support.google.com/messages/answer/6089066">Mehr erfahren</a></string>
+  <string name="promo_install_title_xiaomi">Xiaomi empfiehlt ein Upgrade auf Messages von Google</string>
+  <string name="promo_launch_messages_btn_text">Nachrichten öffnen</string>
+  <string name="promo_no_thanks_btn_text_xiaomi">Nein danke</string>
+  <string name="promo_post_install_animation_alt_text_xiaomi">Messages von Google ist jetzt Ihre Standard-SMS-App. Um Google Messages als Favorit auf dem Startbildschirm zu platzieren, drücken Sie lange auf Mi Message und verschieben es aus den Favoriten, dann drücken Sie lange auf Messages und verschieben es in die Favoriten.</string>
+  <string name="promo_post_install_title_no_default_xiaomi">Nachrichten durch hochwertigeres Messages von Google ersetzen</string>
+  <string name="promo_post_install_title_with_default_xiaomi">Jetzt Messages von Google mit einer besseren Textqualität starten</string>
+  <string name="promo_use_messages_btn_text">Messages verwenden</string>
   <string name="prompt_phone">Rufnummer</string>
   <string name="prompt_summary">Mit RCS können Sie Nachrichten, Fotos, Videos und Gruppen-Chats kostenlos austauschen.</string>
   <string name="prompt_title">Bei RCS anmelden</string>
   <string name="prompt_user_agreement">Mit Ihrer Anmeldung erklären Sie sich mit der RCS-Nutzervereinbarung und der Datenschutzerklärung einverstanden.</string>
   <string name="prvate_contact">Private Kontakte</string>
   <string name="quick_reply">Kurzantwort</string>
-  <string name="recommend_both_dialog_title">Willkommen bei Messaging!</string>
-  <string name="recommend_dialog_message">Sie können Mi Message und Smart Messaging einschalten, um auf zusätzliche Funktionen zuzugreifen.</string>
-  <string name="recommend_mx_dialog_title">Willkommen bei Mi Message!</string>
-  <string name="recommend_mx_setting_summary">Mi Message ermöglicht es Ihnen, Nachrichten an andere Mi Message-Benutzer über das Internet zu versenden, ohne dass Ihnen dafür Kosten entstehen.</string>
-  <string name="recommend_smart_sms_dialog_title">Willkommen bei Smart Messaging!</string>
-  <string name="recommend_smart_sms_setting_summary">Smart Messaging bietet Sender-ID-Erkennung und intelligente Menüs.</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Einstellungen ändern</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">"Nachrichten bis zu 900 Byte können konvertiert und bei schlechtem Netzwerksignal als SMS versendet werden. Tippen Sie auf \"Einstellungen ändern\", wenn Sie Ihre Nachrichten nicht in SMS umwandeln möchten."</string>
   <string name="rcs_auto_resend_as_sms_remind_title">In SMS umwandeln</string>
@@ -951,6 +956,12 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="recommend_bar_message_rcs">China Mobile Messaging ermöglicht es Ihnen, Nachrichten an andere Benutzer zu senden, ohne dass dafür Kosten anfallen.</string>
   <string name="recommend_bar_message_smart_message">Einmalpasswörter kopieren, Pakete verfolgen, intelligente Menüs verwenden und mehr</string>
   <string name="recommend_bar_ok">Einschalten</string>
+  <string name="recommend_both_dialog_title">Willkommen bei Messaging!</string>
+  <string name="recommend_dialog_message">Sie können Mi Message und Smart Messaging einschalten, um auf zusätzliche Funktionen zuzugreifen.</string>
+  <string name="recommend_mx_dialog_title">Willkommen bei Mi Message!</string>
+  <string name="recommend_mx_setting_summary">Mi Message ermöglicht es Ihnen, Nachrichten an andere Mi Message-Benutzer über das Internet zu versenden, ohne dass Ihnen dafür Kosten entstehen.</string>
+  <string name="recommend_smart_sms_dialog_title">Willkommen bei Smart Messaging!</string>
+  <string name="recommend_smart_sms_setting_summary">Smart Messaging bietet Sender-ID-Erkennung und intelligente Menüs.</string>
   <string name="recording_failed">"Aufnahme fehlgeschlagen"</string>
   <string name="refill_now">Jetzt aufladen</string>
   <string name="refreshing">Aktualisieren…</string>
@@ -1061,9 +1072,11 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="show_all_messages">Alle Nachrichten anzeigen</string>
   <string name="show_delivery_status">Zustellstatus anzeigen</string>
   <string name="show_sender">Absenderinformationen anzeigen</string>
-  <string name="sim_card_cloud">%s (Mi Nachricht)</string>
+  <string name="sim1">SIM1</string>
+  <string name="sim2">SIM2</string>
   <string name="sim_card1">SIM-Karte 1</string>
   <string name="sim_card2">SIM-Karte 2</string>
+  <string name="sim_card_cloud">%s (Mi Nachricht)</string>
   <string name="sim_copy_to_phone_memory">In Telefonspeicher kopieren</string>
   <string name="sim_delete">Löschen</string>
   <string name="sim_empty">Keine Nachrichten auf SIM-Karte</string>
@@ -1071,12 +1084,11 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="sim_full_title">SIM-Karte ist voll</string>
   <string name="sim_manage_messages_title">Nachrichten auf SIM-Karte</string>
   <string name="sim_view">Anzeigen</string>
-  <string name="sim1">SIM1</string>
-  <string name="sim2">SIM2</string>
   <string name="slide_number">Folie %d</string>
   <string name="slide_show_part">Teil %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Zum Abbrechen hochwischen</string>
   <string name="slideshow_activity">Diashow</string>
+  <string name="small_window_log_text">Kamera im Mehrfenstermodus verwenden nicht möglich</string>
   <string name="smart_message_title">Smart Messaging</string>
   <string name="smart_message_upgrade_title">Aktualisierung Smart Messaging Datenschutzerklärung</string>
   <string name="smart_messages_network_allow_message">Mi Message muss eine Internetverbindung herstellen, damit seine Dienste normal funktionieren. Jetzt erlauben?</string>
@@ -1272,6 +1284,9 @@ Wenn Sie nicht damit einverstanden sind, solche Genehmigungen zu erteilen oder I
   <string name="type_to_compose_text_enter_to_send">Nachricht eingeben</string>
   <string name="type_to_compose_text_or_leave_blank">Nachricht eingeben oder leer lassen</string>
   <string name="type_video">Video</string>
+  <string name="unable_connect_camera">Sie sind inkognito. Kamera kann jetzt nicht verwendet werden.</string>
+  <string name="unable_get_location">Sie sind inkognito. Standortdienste können jetzt nicht verwendet werden.</string>
+  <string name="unable_use_microphone">Sie sind inkognito. Mikrofon kann jetzt nicht verwendet werden.</string>
   <string name="undelivered_msg_dialog_body">"Nachricht konnte nicht gesendet werden.
 Bisherige Versuche: %s."</string>
   <string name="undelivered_msg_dialog_title">Nicht zugestellte Nachricht</string>
