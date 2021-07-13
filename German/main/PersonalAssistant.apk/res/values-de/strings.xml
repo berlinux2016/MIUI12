@@ -1753,7 +1753,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="msp_mini_safty_code_title">Sicherheitscode Beschreibung</string>
   <string name="msp_phone_num_info">"Die von der Bank reservierte Rufnummer ist die bei der Verarbeitung der Bankkarte eingegebene Rufnummer.
 Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie sich bitte an den Bankkundenservice."</string>
-  <string name="msp_phone_num_title">Telefonnummerbeschreibung</string>
+  <string name="msp_phone_num_title">Rufnummerbeschreibung</string>
   <string name="msp_secure_key_and">Und-Zeichen</string>
   <string name="msp_secure_key_apostrophe">Hochkomma</string>
   <string name="msp_secure_key_ask">Fragezeichen</string>
