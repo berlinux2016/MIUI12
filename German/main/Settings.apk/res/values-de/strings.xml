@@ -7487,6 +7487,17 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="shared_data_title">Gemeinsame Daten</string>
   <string name="sharing_remote_bugreport_dialog_message">Dieser Fehlerbericht wird mit Ihrem IT-Admin geteilt. Kontaktieren Sie Ihn für weitere Informationen.</string>
   <string name="short_summary_font_size">Text vergrößern oder verkleinern</string>
+  <string name="shoulder_key_game_light_settings">Lichteffekt Spielszene</string>
+  <string name="shoulder_key_settings">Schultertasten</string>
+  <string name="shoulder_key_settings_title">Schultertaste anheben</string>
+  <string name="shoulder_key_sound_settings">Toneffekt Schultertaste</string>
+  <string name="shoulder_key_sound_switch_title">Toneffekt Schultertaste</string>
+  <string name="shoulder_key_sound_text_bullet">Kugel geladen</string>
+  <string name="shoulder_key_sound_text_current">Die Zukunft erwecken</string>
+  <string name="shoulder_key_sound_text_sword">Lichtschwert</string>
+  <string name="shoulder_key_sound_text_wind">Rennmotor</string>
+  <string name="shoulder_key_switch_status_close">Geschlossen</string>
+  <string name="shoulder_key_switch_status_open">Eingeschaltet</string>
   <string name="show_all_anrs">Alle ANRs anzeigen</string>
   <string name="show_all_anrs_summary">Dialog \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
   <string name="show_all_apps">Vollständige Gerätenutzung anzeigen</string>

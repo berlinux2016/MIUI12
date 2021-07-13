@@ -2262,6 +2262,7 @@ UT-Schnittstelle: %5$s"</string>
   <string name="sim_contact_number">Nummer</string>
   <string name="sim_description_default">SIM-Karte, Slot: %s</string>
   <string name="sim_description_emergency_calls">Nur Notrufe</string>
+  <string name="sim_fiveg_network_title">SIM%1$s %2$s</string>
   <string name="sim_is_not_ready">SIM-Karte ist nicht bereit</string>
   <string name="sim_label_emergency_calls">Notrufe</string>
   <string name="sim_me_lock_disabled">SIM-Sperre ist ausgeschaltet</string>
