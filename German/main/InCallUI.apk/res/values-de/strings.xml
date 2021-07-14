@@ -283,6 +283,9 @@
   <string name="picking_participant">Kontaktinfo erhalten…</string>
   <string name="private_num">Unbekannt</string>
   <string name="prompt_no_volte_when_failed">Anrufe nicht möglich. Ihr Gerät muss an ein 4G-Netz mit VoLTE-Unterstützung angeschlossen sein.</string>
+  <string name="relay_cal_from_device_name">Von %1$s</string>
+  <string name="relay_call">Übergabe</string>
+  <string name="relay_call_device_name">Verbundenes Gerät (%1$s)</string>
   <string name="remind_unlock_message">Ihr Gerät ist jetzt gesperrt. Nach Entsperrung des Geräts wird \"%s\" verfügbar sein. Jetzt entsperren?</string>
   <string name="respond_via_sms_custom_message">Eigene SMS</string>
   <string name="saturday">Samstag</string>
