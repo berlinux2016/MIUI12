@@ -540,7 +540,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_pa_setting_service_surrounding_summary">Interessante Orte in der Nähe entdecken</string>
   <string name="app_pa_setting_service_timetable">Stundenplan</string>
   <string name="app_pa_setting_service_timetable_summary">Zum Planen von Klassen tippen</string>
-  <string name="app_pa_setting_service_wufu">Alipay sammelt 5 Blessings/Segnungen</string>
+  <string name="app_pa_setting_service_wufu">Alipay sammelt 5 Blessings</string>
   <string name="app_pa_setting_service_wufu_summry">Blessings mit Hilfe des AR-Scanners sammeln</string>
   <string name="app_pa_setting_title">Einstellungen</string>
   <string name="app_screen_time_auth">Bildschirmzeit</string>
@@ -879,7 +879,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="commute_time_to_home_invalid">Endzeit kann nicht früher als mittags sein</string>
   <string name="commute_time_to_office">Arbeit beginnt</string>
   <string name="commute_time_to_office_invalid">Startzeit kann nicht früher als mittags sein</string>
-  <string name="commute_transit_strategy">Beforzugte Routen</string>
+  <string name="commute_transit_strategy">Bevorzugte Routen</string>
   <string name="company">Firma</string>
   <string name="company_or_school">Arbeit oder Schule</string>
   <string name="copy">Kopieren</string>
@@ -1333,7 +1333,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_setting_find_pwd">Passwort vergessen</string>
   <string name="flybird_setting_label">Zahlungseinstellungen</string>
   <string name="flybird_setting_nopwdcheck_label">Folgender Szenariobetrag &lt;=%s，Sie müssen kein Zahlungspasswort eingeben</string>
-  <string name="flybird_setting_nopwduncheck_label">Nachdem die Kleinbetragsbefreiung aktiviert wurde, können Sie mit Ihrem Mobiltelefon Kleinbetragszahlungen in den folgenden Diensten ohne Eingabe des Zahlungskennworts vornehmen. (Umfasst nicht den Zahlungscode im Alipay-Client und sound wave payment)</string>
+  <string name="flybird_setting_nopwduncheck_label">Wenn die Kleinbetragsbefreiung aktiviert wurde, können Sie mit Ihrem Mobiltelefon Kleinbetragszahlungen in den folgenden Diensten ohne Eingabe des Zahlungskennworts vornehmen. (Umfasst nicht den Zahlungscode im Alipay-Client und sound wave payment)</string>
   <string name="flybird_setting_thirdpard_nopwd_label">Drittanbieterservice</string>
   <string name="flybird_setting_thirdpart_label">Automatische Rückbuchung</string>
   <string name="flybird_setting_use_default">Standard</string>
@@ -1404,7 +1404,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_video_music_title">Musik &amp; Video</string>
   <string name="function_youku_record">Neueste Videos</string>
   <string name="function_zhihu_search">Suchen</string>
-  <string name="generate_view_failed">Leute aus dem ganzen Land sind hier! Später erneut versuchen</string>
+  <string name="generate_view_failed">Leute aus dem ganzen Land sind hier! Später erneut versuchen.</string>
   <string name="go_to_pay">Jetzt bezahlen</string>
   <string name="go_to_pay">Schnelle Rückzahlung</string>
   <string name="go_to_school">Zur Schule oder Arbeit und zurück</string>
