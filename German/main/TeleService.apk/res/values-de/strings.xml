@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="call_fold_setting">Auf- und zuklappen</string>
-  <string name="call_fold_setting_title">Auf- und zuklappen</string>
-  <string name="fold_answer_pref_summary">Gerät zuklappen, um einen eingehenden Anruf automatisch anzunehmen</string>
-  <string name="fold_answer_pref_title">Zuklappen, um Anrufe anzunehmen</string>
-  <string name="unfold_close_camera_pref_summary">Gerät während eines Videoanrufs aufklappen, um die Kamera auszuschalten</string>
-  <string name="unfold_close_camera_pref_title">Aufklappen, um die Kamera auszuschalten</string>
-  <string name="unfold_speaker_pref_summary">Gerät während eines Anrufs aufklappen, um den Lautsprecher einzuschalten</string>
-  <string name="unfold_speaker_pref_title">Aufklappen, um den Lautsprecher zu verwenden</string>
-
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Firmen-PIN entsperren</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Firmenentsperrung nicht erfolgreich</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM Firmenentsperrung anfragen…</string>
@@ -559,6 +550,8 @@ Abtastrate"</string>
   <string name="call_barring_sum">Einstellungen Sprachanrufsperre</string>
   <string name="call_category">Anrufen</string>
   <string name="call_description_recording">Anruf aufnehmen…</string>
+  <string name="call_fold_setting">Auf- und zuklappen</string>
+  <string name="call_fold_setting_title">Auf- und zuklappen</string>
   <string name="call_forward_option">Anruf umleiten</string>
   <string name="call_forwarding_number_hint">Umleiten eingehender Anrufe an</string>
   <string name="call_forwarding_settings">Rufumleitungen</string>
@@ -1143,6 +1136,8 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="fmt_weekday_date_timezone">W, D z</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
+  <string name="fold_answer_pref_summary">Gerät zuklappen, um einen eingehenden Anruf automatisch anzunehmen</string>
+  <string name="fold_answer_pref_title">Zuklappen, um Anrufe anzunehmen</string>
   <string name="forbidden_network">(verboten)</string>
   <string name="force_allow_on_external">Erzwingen, dass Apps auf externen Speicher schreiben</string>
   <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
@@ -1411,6 +1406,8 @@ Notrufe sind nur in Gebieten mit Mobilfunkversorgung möglich."</string>
   <string name="menu_dial">Kontakt anwählen</string>
   <string name="menu_dial_string">Anruf</string>
   <string name="menu_edit">Kontakt bearbeiten</string>
+  <string name="menu_new_display_open">In neuem Fenster öffnen</string>
+  <string name="menu_pc_open">Mit Computerprogramm öffnen</string>
   <string name="messageCFB">Nummer falls besetzt</string>
   <string name="messageCFNRc">Nummer nicht erreichbar</string>
   <string name="messageCFNRc_kr_kt">"Netzdienst, der alle eingehenden Anrufe und Textnachrichten an eine bestimmte Nummer umleitet, wenn Sie keine Anrufe annehmen können (z. B. wenn Sie telefonieren oder Ihr Gerät ausgeschaltet ist). Sie müssen diesen Dienst abonnieren. Wenden Sie sich ans Kundenzentrum (114+[Senden]), um diesen Dienst zu abonnieren oder abzubestellen. *72+[Nummer zur Weiterleitung von Anrufen an][Senden] eingeben zum Aktivieren oder *720[Senden] zum Deaktivieren.
@@ -2614,6 +2611,10 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
   <string name="turnover_mute_title">Umdrehen für lautlos</string>
   <string name="unblock_pin2">PIN2 entsperren</string>
   <string name="undefined">Keine</string>
+  <string name="unfold_close_camera_pref_summary">Gerät während eines Videoanrufs aufklappen, um die Kamera auszuschalten</string>
+  <string name="unfold_close_camera_pref_title">Aufklappen, um die Kamera auszuschalten</string>
+  <string name="unfold_speaker_pref_summary">Gerät während eines Anrufs aufklappen, um den Lautsprecher einzuschalten</string>
+  <string name="unfold_speaker_pref_title">Aufklappen, um den Lautsprecher zu verwenden</string>
   <string name="unknown">Unbekannt</string>
   <string name="unlock_chances_left">Verbleibende Versuche:</string>
   <string name="unlock_failed">Anfrage Netzwerkentsperrung nicht erfolgreich</string>
