@@ -1207,7 +1207,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_setting_service_unavailable">Aktueller Dienst ist leider nicht verfügbar. Bitte versuchen Sie es später erneut.</string>
   <string name="express_setting_subscribe_phone_failed">Rufnummer hinzufügen fehlgeschlagen!</string>
   <string name="express_setting_subscribe_phone_success">Rufnummer erfolgreich hinzugefügt!</string>
-  <string name="express_source_from">"Von "</string>
   <string name="express_setting_supported_orders">-Unterstützte Lieferdienste-</string>
   <string name="express_setting_title">Verifizierte Rufnummer</string>
   <string name="express_setting_tracking_disable">Nicht verifiziert</string>
@@ -1405,7 +1404,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_youku_record">Neueste Videos</string>
   <string name="function_zhihu_search">Suchen</string>
   <string name="generate_view_failed">Leute aus dem ganzen Land sind hier! Später erneut versuchen.</string>
-  <string name="go_to_pay">Jetzt bezahlen</string>
   <string name="go_to_pay">Schnelle Rückzahlung</string>
   <string name="go_to_school">Zur Schule oder Arbeit und zurück</string>
   <string name="google_assistant">Assistent</string>
@@ -1491,9 +1489,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="load_no_more">"Das war's vorerst."</string>
   <string name="loading_desktop">Einen Moment…</string>
   <string name="locating_fail">Standort wurde nicht ermittelt</string>
-  <string name="location_permission_desc">Zur Erstellung von Navigationsrouten und Bereitstellung von Car-Hailing-Diensten</string>
-  <string name="locations">Häufig besuchte Orte</string>
   <string name="location_permission_desc">Für den Bau von Schifffahrtsstraßen und die Erbringung von Autohausdienstleistungen</string>
+  <string name="locations">Häufig besuchte Orte</string>
   <string name="locations_preferences">Adressen</string>
   <string name="login_before_use">Sie müssen sich zuerst anmelden</string>
   <string name="login_dialog_body">Schalten Sie die Synchronisation mit Xiaomi Cloud ein, um von mehreren Geräten aus auf Ihre Objekte zuzugreifen. Jetzt einloggen und einschalten?</string>
@@ -1560,8 +1557,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="migu_game">Minispiele</string>
   <string name="mini_add_fp">Bitte fügen Sie zuerst Fingerabdrücke hinzu, dann öffnen Sie das Alipay Fingerabdruckpasswort</string>
   <string name="mini_agree">Zustimmen</string>
-  <string name="mini_add_fp">Bitte zuerst Ihren Fingerabdruck zu Ihrem mobilen System hinzufügen und danach Ihr Alipay-Fingerabdruck-Passwort.</string>
-  <string name="mini_agree">Zustimmen</string>
   <string name="mini_already_download">Heruntergeladen</string>
   <string name="mini_app_error">Überlastet, später erneut versuchen</string>
   <string name="mini_auth_bracelet">Armband verifizieren</string>
@@ -1597,7 +1592,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_install_tips">Start zum Herunterladen und Installieren (Upgrade) des AliPay Security Plugin</string>
   <string name="mini_loading_certpay">Zur Geldbörse wechseln</string>
   <string name="mini_net_error_weak">Netzwerkverbindung nicht möglich, später erneut versuchen</string>
-  <string name="mini_net_error_weak">Netzwerkprobleme, später erneut versuchen</string>
   <string name="mini_no_download_url">Um die Armbandzahlung zu aktivieren, müssen Sie die Software für die Armbandsammlung herunterladen, aber die aktuelle Download-Adresse schlägt fehl, wenden Sie sich bitte an den Alipay-Kundendienst (95188)</string>
   <string name="mini_no_input">Darf nicht leer sein</string>
   <string name="mini_open_bluetooth">Öffnen</string>
