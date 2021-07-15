@@ -3186,6 +3186,7 @@ Stromverbrauch"</string>
   <string name="power_superpower_title_systemui_lowpower">Ladegerät anschließen</string>
   <string name="power_wifi">WLAN</string>
   <string name="power_wireless_need_update_text">Aktualisieren…</string>
+  <string name="power_wireless_ubable_update_toast">Firmware aktualisieren während kabellosem Laden nicht möglich</string>
   <string name="power_wireless_update_button_text">Aktualisieren</string>
   <string name="power_wireless_update_dialog_button">Verstanden</string>
   <string name="power_wireless_update_dialog_message">Laden Sie Ihr Gerät mindestens auf %s auf, um die Firmware für kabelloses Laden aktualisieren zu können.</string>
