@@ -1,24 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_multi_cam_reselect_button">Kameras erneut auswählen</string>
-  <string name="accessibility_pro_parameters_panel_on">Menü mit den PRO-Parametern öffnen</string>
-
-  <string name="dd_f_t">Ihr Telefon zur Aufnahme schließen</string>
-  <string name="dd_unf_t">Telefon bitte aufklappen und ein Foto mit dem externen Bildschirm machen</string>
-  
-  <string name="esp_tip">Äußere Anzeigevorschau</string>
-  <string name="pref_camera_track_focus_preferred_description">Diese Funktion einschalten, um den Fokus auf Menschen und Tiere automatisch beizubehalten. Sie können auch manuell Motive für die Verfolgung auswählen.</string>
-  <string name="pref_camera_track_focus_preferred_title">Focus tracking</string>
-  <string name="prep_video_ai_audio_new_desc_tip_alone">Geräusche des fokussierten Objekts werden im Querformat verstärkt</string>
-  <string name="prep_video_ai_audio_single_desc_tip_alone">Geräusche hinter dem Bildschirm werden im Querformat gefiltert</string>
-  <string name="process_tips_1">Gerät nicht zuklappen, bevor das Video gespeichert ist</string>
-  <string name="process_tips_2">Gerät nicht aufklappen, bevor das Video gespeichert ist</string>
-  <string name="super_night_owl_toast">Halten Sie Ihr Telefon ruhig</string>
-
-  <string name="scan_install_prompt_header">Scanner installieren</string>
-  <string name="scan_install_prompt_loading">Scanner installieren…</string>
-  <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -158,6 +139,7 @@
   <string name="accessibility_more">Mehr</string>
   <string name="accessibility_more_ptions_closed">Weitere Optionen deaktiviert</string>
   <string name="accessibility_more_ptions_opened">Weitere Optionen aktiviert</string>
+  <string name="accessibility_multi_cam_reselect_button">Kameras erneut auswählen</string>
   <string name="accessibility_open">Angeschaltet</string>
   <string name="accessibility_open_more_ptions">Mehr Optionen aktivieren</string>
   <string name="accessibility_pano_moving_left">Gerät nach links verschieben</string>
@@ -179,6 +161,7 @@
   <string name="accessibility_preview_selected">Ausgewählt</string>
   <string name="accessibility_preview_shrink">Verkleinern</string>
   <string name="accessibility_preview_zoom_tip">%1$.1fX Zoom-Vorschau</string>
+  <string name="accessibility_pro_parameters_panel_on">Menü mit den PRO-Parametern öffnen</string>
   <string name="accessibility_pro_video_simple_mode">Lite-Modus</string>
   <string name="accessibility_protrait">Porträt</string>
   <string name="accessibility_pull_down_to_open_camera">Zum Öffnen der Kamera runterwischen</string>
@@ -626,7 +609,9 @@ auswahl"</string>
   <string name="custom_watermark_words_save_success">Erfolgreich gespeichert</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+  <string name="dd_f_t">Ihr Telefon zur Aufnahme schließen</string>
   <string name="dd_frn_f_t">Ihr Gerät falten, um die Frontkamera zu verwenden</string>
+  <string name="dd_unf_t">Telefon bitte aufklappen und ein Foto mit dem externen Bildschirm machen</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
   <string name="description">Beschreibung</string>
@@ -754,6 +739,7 @@ Nach dem Einschalten der Funktion \"Multi-Kamera-Aufnahme\" können Sie eine Ver
   <string name="error_network_request_timed_out">Netzwerkanfrage mit Zeitüberschreitung, prüfen Sie Ihre Netzwerkverbindung.</string>
   <string name="error_no_image_found">Google Lens: Kein Bild gefunden</string>
   <string name="error_save_image_failed">Bilder speichern fehlgeschlagen</string>
+  <string name="esp_tip">Äußere Anzeigevorschau</string>
   <string name="evening">Nachmittag</string>
   <string name="example_screen_address_example">E.g. 1600 Amphitheatre Pkwy, Mountain View, CA</string>
   <string name="example_screen_address_title">Adresse</string>
@@ -1479,7 +1465,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_fastmotion_speed_150x">Sonnenauf-und untergang</string>
   <string name="pref_camera_fastmotion_speed_1800x">Pflanze</string>
   <string name="pref_camera_fastmotion_speed_30x">Straßen</string>
-  <string name="pref_camera_new_coloreffect_title">Filmfilter</string>
   <string name="pref_camera_fastmotion_speed_750x">Abenddämmerung</string>
   <string name="pref_camera_fastmotion_speed_90x">Wolken</string>
   <string name="pref_camera_fastmotion_speed_description">Mit höherer Geschwindigkeit aufgenommene Zeitraffervideos sind kürzer und komprimierter. Hier sind die für verschiedene Szenen geeigneten Geschwindigkeitswerte:</string>
@@ -1552,6 +1537,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 Person</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 Personen</string>
   <string name="pref_camera_multiple_face_beauty_title">Hautfarbe hervorheben</string>
+  <string name="pref_camera_new_coloreffect_title">Filmfilter</string>
   <string name="pref_camera_normal_wide_ldc_description">Korrigieren Sie Gesichtsverzerrungen von Personen, die sich in der Nähe der Rahmenkante befinden.</string>
   <string name="pref_camera_normal_wide_ldc_title">Korrigieren Sie Gesichtsverzerrungen auf Gruppenfotos</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimierter Blitz</string>
@@ -1636,14 +1622,16 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_sr_enable_title">SR einschalten</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
   <string name="pref_camera_super_resolution_title">SR einschalten</string>
-  <string name="pref_camera_tip_doc">Dokumentscanner</string>
-  <string name="pref_camera_tip_id_card">ID-Scanner</string>
   <string name="pref_camera_tilt_shift_default">Kreis</string>
   <string name="pref_camera_tilt_shift_entry_circle">Kreis</string>
+  <string name="pref_camera_tip_doc">Dokumentscanner</string>
+  <string name="pref_camera_tip_id_card">ID-Scanner</string>
   <string name="pref_camera_touch_focus_delay_title">Zeitüberschreitung erweiterter Berührungsfokus</string>
   <string name="pref_camera_touchafaec_entry_off">Aus</string>
   <string name="pref_camera_touchafaec_entry_on">An</string>
   <string name="pref_camera_touchafaec_title">AF/AEC berühren</string>
+  <string name="pref_camera_track_focus_preferred_description">Diese Funktion einschalten, um den Fokus auf Menschen und Tiere automatisch beizubehalten. Sie können auch manuell Motive für die Verfolgung auswählen.</string>
+  <string name="pref_camera_track_focus_preferred_title">Focus tracking</string>
   <string name="pref_camera_ubifocus_title">Neufokussieren</string>
   <string name="pref_camera_ultra_wide_ldc_description">Verzerrte Motive automatisch korrigieren</string>
   <string name="pref_camera_ultra_wide_ldc_title">Verzerrung bei Ultraweitwinkelaufnahmen korrigieren</string>
@@ -1684,6 +1672,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_zoom_mode_title_abbr">LINSE</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Geräusche des fokussierten Objekts werden im Querformat verstärkt</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">Geräusche hinter dem Bildschirm werden im Querformat gefiltert</string>
   <string name="pref_capture_settings">Kameraeinstellungen</string>
   <string name="pref_custom_feature_layout_title">Funktionslayout</string>
   <string name="pref_custom_shutter_sound_title">Ton</string>
@@ -1814,7 +1804,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_wind_denoise_default">Ein</string>
   <string name="pref_wind_denoise_title">Windfilter</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-  <string name="prek_b_j_o">Stereo-Surround-Effekt erzeugen</string>
+  <string name="prek_b_j_o">Einschalten, um einen Stereo-Surround-Effekt zu erzeugen. Zum Querformatmodus wechseln oder Kopfhörer anschließen, um den besten Effekt zu erzielen</string>
   <string name="prek_b_j_p">Einfluss von Wind auf die Tonaufnahme reduzieren</string>
   <string name="prep_video_ai_audio_new_desc_tip">Ton des Objekts im Fokus wird verstärkt</string>
   <string name="prep_video_ai_audio_single_desc_tip">Ton hinter dem Bildschirm wird gefiltert</string>
@@ -1822,6 +1812,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="preparing_sd">Speicher prüfen…</string>
   <string name="preview_back_pressed_hint">Erneut drücken, um zur Vorschau zurückzukehren</string>
   <string name="pro_color_mode">Farbe Pro</string>
+  <string name="process_tips_1">Gerät nicht zuklappen, bevor das Video gespeichert ist</string>
+  <string name="process_tips_2">Gerät nicht aufklappen, bevor das Video gespeichert ist</string>
   <string name="professional_shortcut_long">Pro</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="prompt_desc">Bei Verwendung dieser Funktion werden Ihre Daten ca. zu %s MB verbraucht. Möchten Sie das Herunterladen fortsetzen?</string>
@@ -1907,6 +1899,9 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="saturday_shortest">S</string>
   <string name="save">Speichern</string>
   <string name="scan_qrcode">QR-Code scannen</string>
+  <string name="scan_install_prompt_header">Scanner installieren</string>
+  <string name="scan_install_prompt_loading">Scanner installieren…</string>
+  <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
   <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, Lautstärke hoch und Zurück-Taste gleichzeitig drücken</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich</string>
   <string name="search_menu_title">Suchen</string>
@@ -2034,6 +2029,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="super_moon_under">Mondlicht</string>
   <string name="super_moon_window">Fenster</string>
   <string name="super_night_hint">Bildoptimierung… Gerät ruhig halten.</string>
+  <string name="super_night_owl_toast">Halten Sie Ihr Telefon ruhig</string>
   <string name="super_night_se_tip">Nachtmodus</string>
   <string name="super_night_toast">Halten Sie Ihr Telefon ruhig, während Sie ein Foto machen.</string>
   <string name="tap_to_exposure">Berühren, um Belichtung einzustellen</string>
