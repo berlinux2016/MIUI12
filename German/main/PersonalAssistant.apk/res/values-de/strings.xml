@@ -1404,7 +1404,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_youku_record">Neueste Videos</string>
   <string name="function_zhihu_search">Suchen</string>
   <string name="generate_view_failed">Leute aus dem ganzen Land sind hier! Später erneut versuchen.</string>
-  <string name="go_to_pay">Schnelle Rückzahlung</string>
+  <string name="go_to_pay">Jetzt bezahlen</string>
   <string name="go_to_school">Zur Schule oder Arbeit und zurück</string>
   <string name="google_assistant">Assistent</string>
   <string name="greeting_alarm_desc">Alarm klingelt morgen um %1$s</string>
@@ -1489,7 +1489,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="load_no_more">"Das war's vorerst."</string>
   <string name="loading_desktop">Einen Moment…</string>
   <string name="locating_fail">Standort wurde nicht ermittelt</string>
-  <string name="location_permission_desc">Für den Bau von Schifffahrtsstraßen und die Erbringung von Autohausdienstleistungen</string>
+  <string name="location_permission_desc">Zur Erstellung von Navigationsrouten und Bereitstellung von Autovermietungsdiensten</string>
   <string name="locations">Häufig besuchte Orte</string>
   <string name="locations_preferences">Adressen</string>
   <string name="login_before_use">Sie müssen sich zuerst anmelden</string>
