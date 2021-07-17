@@ -211,9 +211,9 @@
   <string name="feedback_description_save_photo">Bild oder Video wurde nicht gespeichet</string>
   <string name="feedback_phone">Kontaktinfo (optional)</string>
   <string name="filename_cannot_beempty">Dateiname darf nicht leer sein</string>
-  <string name="flash_close">Blitz aus</string>
+  <string name="flash_close">Aus</string>
   <string name="flash_lable">Blitz</string>
-  <string name="flash_open">Blitz ein</string>
+  <string name="flash_open">An</string>
   <string name="flight_mode_connecting_to_wifi">WLAN manuell einschalten, wenn der Flugmodus an ist</string>
   <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
