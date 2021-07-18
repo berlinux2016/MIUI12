@@ -30,12 +30,12 @@
     <item quantity="one">Vor 1 Min</item>
   </plurals>
   <plurals name="agenda_anniversary_day">
-    <item quantity="other">·%1$d Tage</item>
-    <item quantity="one">·%1$d Tag</item>
+    <item quantity="other">" ·%1$d Tage"</item>
+    <item quantity="one">" ·%1$d Tag"</item>
   </plurals>
   <plurals name="agenda_anniversary_year">
-    <item quantity="other">·%1$d Jahre</item>
-    <item quantity="one">·%1$d Jahr</item>
+    <item quantity="other">" ·%1$d Jahre"</item>
+    <item quantity="one">" ·%1$d Jahr"</item>
   </plurals>
   <plurals name="agenda_count_down">
     <item quantity="other">In %d Minuten</item>
