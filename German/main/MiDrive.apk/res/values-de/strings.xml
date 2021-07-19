@@ -99,7 +99,7 @@
   <string name="channel_web_edit">Im Browser bearbeitet</string>
   <string name="channel_web_upload">Im Browser hochgeladen</string>
   <string name="channel_web_view">Im Browser angesehen</string>
-  <string name="channel_client_edit">Auf mobilen Gerät bearbeitet</string>
+  <string name="channel_client_edit">Auf mobilem Gerät bearbeitet</string>
   <string name="channel_tablet_upload">Vom Tablet hochgeladen</string>
   <string name="channel_tablet_view">Auf Tablet gesehen</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>

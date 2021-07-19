@@ -675,9 +675,9 @@
   <string name="toast_notes_delete_success">Erfolgreich gelöscht</string>
   <string name="toast_notes_hidden">Erfolgreich versteckt</string>
   <string name="toast_notes_hidden_count">%1$s erfolgreich versteckt</string>
-  <string name="toast_notes_hidden_edit">Diese Notiz wurde erfolgreich ausgeblendet. Herunterziehen, um versteckte Notizen anzuzeigen.</string>
-  <string name="toast_notes_hidden_home">Diese Notiz wurde erfolgreich ausgeblendet. Herunterziehen, um versteckte Notizen anzuzeigen.</string>
-  <string name="toast_notes_hidden_pad">Diese Notiz ist jetzt ausgeblendet. Seitenpanel Herunterziehen, um ausgeblendete Notizen anzuzeigen.</string>
+  <string name="toast_notes_hidden_edit">Diese Notiz wurde erfolgreich ausgeblendet. Herunterziehen, um ausgeblendete Notizen anzuzeigen.</string>
+  <string name="toast_notes_hidden_home">Diese Notiz wurde erfolgreich ausgeblendet. Herunterziehen, um ausgeblendete Notizen anzuzeigen.</string>
+  <string name="toast_notes_hidden_pad">Diese Notiz ist jetzt ausgeblendet. Seitenpanel herunterziehen, um ausgeblendete Notizen anzuzeigen.</string>
   <string name="toast_notes_unhidden">Erfolgreich sichtbar gemacht</string>
   <string name="toast_notes_unhidden_count">%1$s erfolgreich sichtbar gemacht</string>
   <string name="toast_pic_is_not_really">Bild speichern…</string>
@@ -787,7 +787,7 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="wednesday_shortest">M</string>
   <string name="widget_content_loading">Einen Moment…</string>
   <string name="widget_create_select_size">Größe wählen</string>
-  <string name="widget_empty_content">Tippen, um eine Notiz zuwählen</string>
+  <string name="widget_empty_content">Tippen, um eine Notiz zu wählen</string>
   <string name="widget_note_list_page_title">Notiz wählen</string>
   <string name="widget_havenot_content">Tippen, um eine Notiz zu erstellen. Widget halten, um die Größe zu ändern.</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
