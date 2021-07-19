@@ -526,6 +526,7 @@
   <string name="navigation_guide_dock_title_pad">App-Leiste aufrufen</string>
   <string name="navigation_guide_dock_title_spec_pad">App-Leiste in App aufrufen</string>
   <string name="navigation_guide_dock_title_spec_with_quotation_pad">\"App-Leiste in App aufrufen\"</string>
+  <string name="navigation_guide_finish_text">Verstanden</string>
   <string name="navigation_guide_gesture_line_dialog_summary">Eine neue Geste zum Umschalten zwischen den Apps wird verwendet, wenn Sie die Vollbildanzeige ausblenden. Diese Geste jetzt lernen?</string>
   <string name="navigation_guide_gesture_line_dialog_title">Eine neue Geste lernen</string>
   <string name="navigation_guide_hide_gesture_line_summary">Keine Vollbildanzeige bei Verwendung von Vollbildgesten</string>
@@ -536,6 +537,7 @@
   <string name="navigation_guide_home_title_spec_with_quotation_pad">\"Zurück zum Desktop\"</string>
   <string name="navigation_guide_next_spec_pad">Nächste Anleitung</string>
   <string name="navigation_guide_prev_spec_pad">Vorherige Anleitung</string>
+  <string name="navigation_guide_prohibit_gesture_hint">Vollbildgesten beim Betrachten von Demos nicht möglich</string>
   <string name="navigation_guide_provision_see_more_pad">Zu \"Einstellungen-Desktop-Vollbildgesten\" gehen, um weitere Anleitungsvideos anzusehen</string>
   <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Weitere Demos in Einstellungen &gt; Startbildschirm &gt; Systemnavigation anzeigen</string>
   <string name="navigation_guide_provision_title_pad">Vollbildgesten</string>
@@ -749,6 +751,8 @@
   <string name="sunday">Sonntag</string>
   <string name="sunday_short">So</string>
   <string name="sunday_shortest">S</string>
+  <string name="swipe_the_desktop_to_the_left">Auf Startbildschirm nach links wischen</string>
+  <string name="swipe_the_desktop_to_the_right">Auf Startbildschirm nach links wischen</string>
   <string name="switch_personal_assistant_app_vault">Infoassistent</string>
   <string name="switch_personal_assistant_google">Google Assistent</string>
   <string name="switch_personal_assistant_none">Nichts</string>

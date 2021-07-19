@@ -1016,6 +1016,8 @@ innerhalb des Kreises befindet"</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
   <string name="fingerprint_try_again_msg">Fingerabdruck prüfen nicht möglich, bitte erneut versuchen</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
+  <string name="fiveg_sa_switch_summary">SA-Netzwerk auf sekundärer SIM verwenden (nur zum Testen)</string>
+  <string name="fiveg_sa_vice_switch_title">SA auf primär SIM</string>
   <string name="float_incall_ignore">Ignorieren</string>
   <string name="float_incall_message">Nachricht</string>
   <string name="float_notification_snooze_strategy">Schwebende Popups vorübergehend ausblenden</string>
@@ -1838,7 +1840,7 @@ Screenshot zu erstellen"</string>
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Sie müssen &lt;font color=#a5220e&gt;alle Daten &lt;/font&gt; auf Ihrem Telefon löschen, inkl. Fotos und Kontakte. Legen Sie dann ein neues Passwort für den Sperrbildschirm fest.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Weiter</string>
   <string name="phone_locked_foget_password_ok">Verstanden</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Gleichzeitig &lt;font color=#e6e6e6&gt;[Power-Taste]&lt;/font&gt; und &lt;font color=#e6e6e6&gt;[Laustärke+]&lt;/font&gt;gedrückt halten, bis Sie das Mi Logo sehen&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Schalten Sie Ihr Gerät aus und halten Sie dann die &lt;font color=#e6e6e6>[Power-Taste]&lt;/font> und &lt;font color=#e6e6e6>[Volume +]&lt;/font> gedrückt, bis Sie &lt;img src=\"\"> sehen.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Wählen Sie &lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; und warten Sie, bis das Telefon neu gestartet wird&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="phone_locked_string">Dieses Gerät ist gesperrt</string>

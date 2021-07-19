@@ -316,6 +316,8 @@
   <string name="edit_event_title_edit_countdown">Countdown bearbeiten</string>
   <string name="edit_event_to_label">bis</string>
   <string name="edit_your_long_holidays">Urlaub bearbeiten</string>
+  <string name="ee_dd_short_month">EEE, dd. MMM.</string>
+  <string name="eee_dd_long_month">EEEE, dd. MMMM</string>
   <string name="electricity_amount_label">Stromverbrauch</string>
   <string name="electricity_bill_event_title">Stromrechnung:</string>
   <string name="electricity_detail_title">Zahlungsinformationen</string>
@@ -1425,6 +1427,8 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="winter_solstice_tradition">Wintersonnenwende</string>
   <string name="work_day_default_banner_title">Ich wünsche Ihnen einen produktiven Arbeitstag!</string>
   <string name="wuxing">Fünf</string>
+  <string name="xiaomi_calendar_delete_description">Kalender ist eine System-App, mit der Sie Ereignisse erstellen und verwalten können. Einige ihrer Funktionen sind auch dann noch verfügbar, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
+  <string name="xiaomi_calendar_delete_title">\"Kalender\" vom Startbildschirm entfernen?</string>
   <string name="xiaomi_calendar_display_name">Mi Kalender</string>
   <string name="xingxiu">Sterne</string>
   <string name="year">Jahr</string>

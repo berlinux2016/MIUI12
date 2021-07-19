@@ -334,6 +334,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="fast_connect_sound_normalizer_content">Besserer Ton bei Sprachanrufen.\nSchnelleres Verbindungsprotokoll.</string>
   <string name="fast_connect_wbs_name">Mi kabelloses/r Ladegerät/Lautsprecher</string>
   <string name="fast_connect_wbs_reset">Obere Taste für %1$s Sekunden während des Ausschaltens gedrückt halten</string>
+  <string name="fiveg_sa_switch_summary">SA-Netzwerk auf sekundärer SIM verwenden (nur zum Testen)</string>
+  <string name="fiveg_sa_vice_switch_title">SA auf primär SIM</string>
   <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>

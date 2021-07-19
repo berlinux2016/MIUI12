@@ -1663,7 +1663,7 @@ Lang andauerndes Anhören mit hoher Lautstärke kann Ihr Gehör schädigen."</st
   <string name="sms_control_no">Verweigern</string>
   <string name="sms_control_title">SMS werden gesendet</string>
   <string name="sms_control_yes">Zulassen</string>
-  <string name="sms_desc">SMS hat Telefonnumer gewählt</string>
+  <string name="sms_desc">SMS hat Rufnumer gewählt</string>
   <string name="sms_premium_short_code_details"><b>Hierfür werden Ihrem Mobilfunkkonto Kosten berechnet.</b></string>
   <string name="sms_short_code_confirm_allow">Senden</string>
   <string name="sms_short_code_confirm_always_allow">Immer zulassen</string>

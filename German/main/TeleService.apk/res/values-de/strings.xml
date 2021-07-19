@@ -2100,7 +2100,7 @@ UT-Schnittstelle: %5$s"</string>
   <string name="reject_via_sms_summary">Vorlagen bearbeiten</string>
   <string name="reject_via_sms_title">Kurzantworten</string>
   <string name="relay_call_answered_by_other_devices">Dieser Anruf wurde von einem anderen Gerät angenommen.</string>
-  <string name="relay_call_released_due_to_connect_lost">Verbindung unterbrochen. Mit dem Anruf auf dem getrennten Gerät fortfahren.</string>
+  <string name="relay_call_released_due_to_connect_lost">Verbindung unterbrochen. Mit dem Anruf auf dem anderen Gerät fortfahren.</string>
   <string name="relay_connection_service_label">Integrierter RELAY-Anruf</string>
   <string name="remaining_length_format">%1$s übrig</string>
   <string name="reminder">Erinnerung</string>

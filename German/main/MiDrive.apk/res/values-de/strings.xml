@@ -19,7 +19,7 @@
   <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="about_title">Über Mi Drive</string>
   <string name="account_bind_secure_email_title">Wiederherstellungs-E-Mail hinzufügen</string>
-  <string name="account_bind_secure_phone_title">Wiederherstellungstelefonnummer hinzufügen</string>
+  <string name="account_bind_secure_phone_title">Wiederherstellungsrufnummer hinzufügen</string>
   <string name="account_change_message">Sie wechseln zum Konto %1$s. Sie werden Mi Drive-Daten sehen, die mit diesem Konto verknüpft sind.</string>
   <string name="account_change_title">Konten wechseln</string>
   <string name="account_crop_user_avatar">Foto zuschneiden</string>
@@ -50,7 +50,7 @@
   <string name="account_user_id">Mi-Konto-ID</string>
   <string name="account_user_name">Spitzname</string>
   <string name="account_user_name_dialog_title">Benutzernamen eingeben</string>
-  <string name="account_user_phone">Wiederherstellungstelefonnummer</string>
+  <string name="account_user_phone">Wiederherstellungsrufnummer</string>
   <string name="action_add_phone">Rufnummer hinzufügen</string>
   <string name="action_mode_deselect_all">Alles abwählen</string>
   <string name="action_mode_select_all">Alles auswählen</string>
@@ -99,6 +99,9 @@
   <string name="channel_web_edit">Im Browser bearbeitet</string>
   <string name="channel_web_upload">Im Browser hochgeladen</string>
   <string name="channel_web_view">Im Browser angesehen</string>
+  <string name="channel_client_edit">Auf mobilen Gerät bearbeitet</string>
+  <string name="channel_tablet_upload">Vom Tablet hochgeladen</string>
+  <string name="channel_tablet_view">Auf Tablet gesehen</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich werde eins erstellen</string>
@@ -292,7 +295,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="micloud_space_duokan_detail">"Öffnen Sie Duokan auf Ihrem Telefon und gehen Sie zum Bücherregal &gt; Cloud-Speicherplatz, um Speicherplatz zu verwalten.
 Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verwenden."</string>
   <string name="micloud_space_duokan_title">Duokan-Speicherplatz</string>
-  <string name="micloud_space_soundrecorder_detail">"Öffnen Sie die Rekorder-App auf Ihrem Telefon und wählen Sie den Ordner mit den in der Cloud gespeicherten Elementen aus.
+  <string name="micloud_space_soundrecorder_detail">"Öffnen Sie die Rekorder-App auf Ihrem mobilen Gerät und wählen Sie den Ordner mit den in der Cloud gespeicherten Elementen aus.
 Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verwenden."</string>
   <string name="micloud_space_soundrecorder_title">Audioaufnahmen</string>
   <string name="midrive_guide1_desc">Elemente in der Cloud sichern, um Speicherplatz auf Ihrem Gerät freizugeben.</string>
