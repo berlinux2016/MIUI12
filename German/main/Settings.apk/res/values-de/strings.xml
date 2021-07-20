@@ -1504,7 +1504,7 @@ Abtastrate"</string>
   <string name="bootloader_device_bind_no_data_network">Schalten Sie WLAN aus und fügen Sie Ihr Konto und Gerät mit Hilfe mobiler Daten hinzu.</string>
   <string name="bootloader_device_bind_no_network">Verbinden Sie sich mit einem Netzwerk und versuchen Sie es erneut</string>
   <string name="bootloader_device_bind_no_sim">SIM-Karte einlegen und erneut versuchen</string>
-  <string name="bootloader_device_bind_server_code">"Konnte nicht hinzufügen. Fehlercode: "</string>
+  <string name="bootloader_device_bind_server_code">"Hinzufügen nicht möglich. Fehlercode: "</string>
   <string name="bootloader_device_bind_server_token_expired_1">Verifizierung nicht möglich. Versuchen Sie, Ihr Konto und Gerät erneut hinzuzufügen.</string>
   <string name="bootloader_device_bind_server_token_expired_2">Verifizierung nicht möglich. Erneut an Ihrem Konto anmelden und von vorn beginnen.</string>
   <string name="bootloader_device_bind_sim_invalid">SIM-Karte ist ungültig. Austauschen und neu versuchen.</string>
@@ -1521,7 +1521,7 @@ Abtastrate"</string>
   <string name="bootloader_status">Mi Unlock Status</string>
   <string name="bootloader_status_locked">Gesperrt</string>
   <string name="bootloader_status_locked_info">Dieses Gerät ist gesperrt.</string>
-  <string name="bootloader_status_locked_summary">Telefon ist sicher.</string>
+  <string name="bootloader_status_locked_summary">Telefon ist sicher</string>
   <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock benötigt Zugang zu Ihrem Mi-Konto, CPU ID, IMSI, um normal zu arbeiten. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Zustimmen?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Abbrechen</string>
   <string name="bootloader_status_privacy_dialog_title">Erforderliche Berechtigungen</string>
@@ -2719,7 +2719,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dlg_close">Schließen</string>
   <string name="dlg_confirm_unmount_text">Wenn Sie den USB-Speicher auswerfen, werden einige verwendete Apps angehalten und sind eventuell nicht verfügbar, bis Sie den USB-Speicher wieder einhängen.</string>
   <string name="dlg_confirm_unmount_title">USB-Speicher auswerfen?</string>
-  <string name="dlg_error_unmount_text">Konnte USB-Speicher nicht auswerfen. Später erneut versuchen.</string>
+  <string name="dlg_error_unmount_text">USB-Speicher auswerfen nicht möglich. Später erneut versuchen.</string>
   <string name="dlg_remove_locales_error_message">Behalten Sie mindestens eine bevorzugte Sprache</string>
   <string name="dlg_remove_locales_error_title">Alle Sprachen können nicht entfernt werden</string>
   <string name="dlg_remove_locales_message">Text wird in einer anderen Sprache angezeigt</string>
@@ -7551,7 +7551,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfo im Sperrbildschirm anzeigen</string>
   <string name="show_wifi_name_title">WLAN anzeigen</string>
-  <string name="shut_down_find_device_network_failure_content">Konnte Gerät finden nicht ausschalten. Stellen Sie sicher, dass das Telefon mit dem Internet verbunden ist.</string>
+  <string name="shut_down_find_device_network_failure_content">Gerät finden ausschalten nicht möglich. Stellen Sie sicher, dass das Telefon mit dem Internet verbunden ist.</string>
   <string name="shut_down_find_device_network_failure_title">Internetverbindung nicht möglich</string>
   <string name="shuting_down_find_device">Gerät finden ausschalten…</string>
   <string name="silent_duration">Dauer</string>

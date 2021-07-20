@@ -91,7 +91,7 @@
   <string name="app_listitem_installing">Installieren</string>
   <string name="app_listitem_waiting">Auf Installation warten</string>
   <string name="app_local">Lokal</string>
-  <string name="app_manager_get_data_failed">Konnte keine App-Info erhalten</string>
+  <string name="app_manager_get_data_failed">App-Info nicht erhalten</string>
   <string name="app_manager_no_data">Keine Apps gefunden</string>
   <string name="app_name">Mi Remote</string>
   <string name="app_name_for_airkan">Bildschirmübertragungsartefakt</string>
@@ -197,7 +197,7 @@
   <string name="current_stb">"Aktuell: "</string>
   <string name="current_version_frame">Aktuelle Version %s</string>
   <string name="current_version_latest">Keine Updates verfügbar</string>
-  <string name="data_request_error">"Konnte keine Info erhalten"</string>
+  <string name="data_request_error">Info nicht erhalten</string>
   <string name="day">Tage</string>
   <string name="day_string">Tag</string>
   <string name="decrease">Runter</string>
@@ -218,7 +218,7 @@
   <string name="device_shop_favor_title">Favoriten</string>
   <string name="device_shop_share_cancel">Abgebrochenes Teilen</string>
   <string name="device_shop_share_download_pic_failed">Bild konnte nicht runtergeladen werden</string>
-  <string name="device_shop_share_failure">Konnte nicht geteilt werden</string>
+  <string name="device_shop_share_failure">Teilen nicht möglich</string>
   <string name="device_shop_share_no_app">Keine Apps zum Teilen</string>
   <string name="device_shop_share_no_miliao">Installieren Sie zuerst Mi Talk</string>
   <string name="device_shop_share_no_weibo">Installieren Sie zuerst Weibo</string>
@@ -375,8 +375,8 @@
   <string name="get_backup_failed">Wiederherstellung fehlgeschlagen，versuchen Sie es erneut</string>
   <string name="get_backup_succeed">Wiederherstellung erfolgreich，gesamt %1$d, %2$d vorher，%3$d wiederhergestellt</string>
   <string name="get_data_fail_tips">Keine Daten erhalten, versuchen Sie es erneut</string>
-  <string name="get_info_failed">Konnte keine Info erhalten</string>
-  <string name="get_location_fail_tip">Konnte nicht lokalisiert werden, wählen Sie eine Stadt</string>
+  <string name="get_info_failed">Info nicht erhalten</string>
+  <string name="get_location_fail_tip">Lokalisieren nicht möglich, wählen Sie eine Stadt</string>
   <string name="goto_weather">Wetterinfos ansehen</string>
   <string name="guid_one">Mit dem gleichen WLAN verbinden wie das Zielgerät</string>
   <string name="guid_three">"Einige Bedienelemente stehen möglicherweise nicht zur Verfügung, wenn Ihr Fernseher oder Ihre Set-Top-Box Android nicht unterstützt</string>
@@ -406,7 +406,7 @@
   <string name="input_source">Eingangsquelle</string>
   <string name="input_speech_button">Gedrückt halten, dann Ihren Befehl sprechen</string>
   <string name="input_tip">Authentifizierungscode verfällt nach 15 Minuten</string>
-  <string name="install_failed">Konnte %s nicht installieren</string>
+  <string name="install_failed"> %s installieren nicht möglich</string>
   <string name="install_peel_content">Installieren Sie Peel Mi Remote, um die TV-Zeitschrift zu verwenden.</string>
   <string name="install_peel_title">Peel Mi Remote installieren</string>
   <string name="install_succed">%s erfolgreich installiert</string>
@@ -686,7 +686,7 @@ Warten Sie einen Moment nach der Aktion."</string>
   <string name="more_function">Weitere Funktionen</string>
   <string name="more_hot_programs">Weitere Sendungen…</string>
   <string name="movie_tag">Videotags</string>
-  <string name="msg_camera_framework_bug">"Konnte die Kamera nicht öffnen.
+  <string name="msg_camera_framework_bug">"Kamera öffnen nicht möglich.
 Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="mute">Stumm</string>
   <string name="my_activity">Meine Aktivitäten</string>
@@ -821,7 +821,7 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="passport_error_unknown">Anmeldung fehlgeschlagen</string>
   <string name="passport_error_user_name">Ungültiger Benutzername</string>
   <string name="passport_error_verify_activator_phone_message">Stellen Sie sicher, dass Ihr SIM-Kartendienst aktiviert ist und das Gerät mit dem Netzwerk verbunden ist.</string>
-  <string name="passport_error_verify_activator_phone_title">Konnte Rufnummer nicht verifizieren</string>
+  <string name="passport_error_verify_activator_phone_title">Rufnummer verifizieren nicht möglich</string>
   <string name="passport_error_verify_code">Eingegebener Code ist falsch</string>
   <string name="passport_failed_to_send_activate_email">Aktivierungsmail konnte nicht gesendet werden</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie account.mi.com, um Ihr Passwort zurückzusetzen.</string>
@@ -1041,7 +1041,7 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="recovering">Wiederherstellen…</string>
   <string name="refreshing">Aktualisieren…</string>
   <string name="refreshing_no_point">Aktualisieren…</string>
-  <string name="refreshing_retry">Konnte nicht aktualisiert werden</string>
+  <string name="refreshing_retry">Aktualisieren nicht möglich</string>
   <string name="release_to_refresh">Zur Aktualisierung loslassen</string>
   <string name="rematch">Erneut versuchen</string>
   <string name="remove_fav_channel">Kein Favorit</string>
@@ -1062,7 +1062,7 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="save_share_title">Fernbedienung auf diesem Gerät speichern?</string>
   <string name="scan_add_error">Gerät konnte nicht hinzugefügt werden. Einen Moment warten und erneut versuchen.</string>
   <string name="scan_code">Code zum Hinzufügen scannen</string>
-  <string name="scan_error">Konnte QR-Code nicht lesen</string>
+  <string name="scan_error">QR-Code lesen nicht möglich</string>
   <string name="scan_text">"Teilen Sie Fernbedienungen mit Freunden über QR-Codes.
 Öffnen Sie die Einstellungen der Fernbedienung und tippen Sie au \"Teilen\"."</string>
   <string name="scaning">Suchen…</string>
@@ -1108,7 +1108,7 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="search_history_clear">Verlauf löschen</string>
   <string name="search_history_empty">Kein Suchverlauf</string>
   <string name="search_menu_title">Suchen</string>
-  <string name="search_more_failed">Konnte keine Ergebnisse laden</string>
+  <string name="search_more_failed">Ergebnisse laden nicht möglich</string>
   <string name="search_no_device">Keine Geräte gefunden</string>
   <string name="search_no_result">Keine Ergebnisse</string>
   <string name="search_page_all_app_result">Alle anzeigen</string>
@@ -1151,7 +1151,7 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="share_content_type_other_to_sina_weibo">Anderes</string>
   <string name="share_device_name">Freigabename der Fernbedienung</string>
   <string name="share_done">Erfolgreich freigegeben</string>
-  <string name="share_fail">Konnte keine Verbindung aufbauen, versuchen Sie es erneut</string>
+  <string name="share_fail">Verbindungsaufbau nicht möglich, versuchen Sie es erneut</string>
   <string name="share_friends_cancel">Abbrechen</string>
   <string name="share_friends_none_text">Keine Freunde</string>
   <string name="share_friends_not_find_text">Freunde finden</string>
@@ -1162,7 +1162,7 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="share_level_private_desc">WLAN: %1$s</string>
   <string name="share_level_private_error">Keine Verbindung zu WLAN</string>
   <string name="share_level_public">Alle Personen in der Nähe</string>
-  <string name="share_level_public_error">Konnte keinen Speicherort festlegen, prüfen Sie die Einstellungen und versuchen Sie es erneut</string>
+  <string name="share_level_public_error">Speicherort festlegen nicht möglich, Einstellungen prüfen und erneut versuchen</string>
   <string name="share_level_title">Wer kann die Fernbedienung sehen?</string>
   <string name="share_media_actor">"Besetzung: "</string>
   <string name="share_media_area">"Land: "</string>
@@ -1236,7 +1236,7 @@ Gehen Sie zu Startseite &gt; \"+\" &gt; Scanner."</string>
   <string name="timer_turn_off">Timer aus</string>
   <string name="timer_turn_on">Timer ein</string>
   <string name="title_hot_links">Beliebte Links</string>
-  <string name="title_nodata_feedback">"Konnte keine Geräteinfo erhalten"</string>
+  <string name="title_nodata_feedback">Geräteinfo nicht erhalten</string>
   <string name="to_be_used_in_these_modes">&lt;%1$s&gt; kann nur im Modus %2$s verwendet werden</string>
   <string name="to_qq">QQ öffnen und der Gruppe beitreten</string>
   <string name="to_qq_maintext">Treten Sie unserer QQ Gruppe bei und geben Sie uns Rückmeldung</string>

@@ -17,7 +17,7 @@
   <string name="adb_pairing_device_dialog_failed_title">Kopplung fehlgeschlagen</string>
   <string name="adb_pairing_device_dialog_pairing_code_label">WLAN-Kopplungscode</string>
   <string name="adb_pairing_device_dialog_title">Mit Gerät koppeln</string>
-  <string name="adb_qrcode_pairing_device_failed_msg">Das Gerät konnte nicht gekoppelt werden. Der QR-Code war nicht korrekt oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>
+  <string name="adb_qrcode_pairing_device_failed_msg">Gerät konnte nicht gekoppelt werden. QR-Code war nicht korrekt oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>
   <string name="adb_wireless_connection_failed_message">Prüfe, ob %1$s mit dem richtigen Netzwerk verbunden ist</string>
   <string name="adb_wireless_connection_failed_title">Verbindung fehlgeschlagen</string>
   <string name="adb_wireless_device_connected_summary">Derzeit verbunden</string>
