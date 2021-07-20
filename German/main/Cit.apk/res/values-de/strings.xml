@@ -202,7 +202,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
   <string name="cit_button_light_off">Beleuchtete Tasten AUS</string>
   <string name="cit_button_light_on">Beleuchtete Tasten AN</string>
   <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
-  <string name="cit_calibration_finish">Schreiben der Kalibrierungsdaten abgeschlossen</string>
+  <string name="cit_calibration_finish">Kalibrierungsdaten schreiben abgeschlossen</string>
   <string name="cit_calibration_pass">Kalibrierung bestanden</string>
   <string name="cit_camera_cali_title">Kamera-Kalibrierungstest</string>
   <string name="cit_camera_calibration_summary">"Testanleitung:

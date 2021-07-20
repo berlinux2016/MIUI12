@@ -2598,7 +2598,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="vlog_download_with_metered_network_msg">Nutzung von kostenpflichtigen Netzwerken zum Herunterladen von Originaldateien kann zusätzliche Mobilfunkgebühren verursachen. Trotzdem herunterladen?</string>
   <string name="vlog_download_with_metered_network_title">Kostenpflichtige Netzwerkverbindung nutzen</string>
   <string name="vlog_downloading_cloud_file">Elemente aus der Cloud herunterladen…</string>
-  <string name="vlog_editor_talkback_ratio_239_1">2,39 zu eins</string>
+  <string name="vlog_editor_talkback_ratio_239_1">2,39:1</string>
   <string name="vlog_end_of_film">Schließen</string>
   <string name="vlog_exit_ddit_message">Alle Änderungen gehen verloren, wenn Sie jetzt aufhören. Trotzdem beenden?</string>
   <string name="vlog_exit_edit_title">Editor beenden</string>
@@ -2651,7 +2651,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="vlog_save_stop_tips">Erneut tippen, um Speichern abzubrechen</string>
   <string name="vlog_saving">Video exportieren…</string>
   <string name="vlog_support_max_duration">Ein Projekt kann bis zu %1$d Stunden lang sein</string>
-  <string name="vlog_support_max_number">You can add up to %1$d videos to a project</string>
+  <string name="vlog_support_max_number">Sie können bis zu %1$d Videos zu einem Projekt hinzufügen</string>
   <string name="vlog_talkback_audio_local">Lokale Musik</string>
   <string name="vlog_talkback_audio_null">Kein Soundtrack</string>
   <string name="vlog_talkback_audio_seekbar">Lautstärke einstellen</string>
@@ -2740,7 +2740,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="welcome_to_micloud">Willkommen bei Xiaomi Cloud</string>
   <string name="where_is_barcode">Wo ist der QR-Code?</string>
   <string name="who_is_this">Wer?</string>
-  <string name="widget_custom_store_detail_desc">Wählen Sie die Bilder, die Sie sehen möchten</string>
+  <string name="widget_custom_store_detail_desc">Die Bilder wählen, die Sie sehen möchten</string>
   <string name="widget_editor_confirm">Fertig</string>
   <string name="widget_editor_reselect">Erneut wählen</string>
   <string name="widget_editor_title">Bearbeiten</string>

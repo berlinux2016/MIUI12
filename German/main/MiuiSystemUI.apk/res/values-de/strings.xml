@@ -1840,7 +1840,7 @@ Screenshot zu erstellen"</string>
   <string name="phone_locked_foget_password_method_content"><Data>Sie müssen &lt;font color=#a5220e>alle Daten&lt;/font> auf Ihrem Telefon löschen, inkl. Fotos und Kontakte, und dann ein neues Passwort für die Bildschirmsperre festlegen.</Data></string>
   <string name="phone_locked_foget_password_method_next">Weiter</string>
   <string name="phone_locked_foget_password_ok">Verstanden</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Gerät ausschalten, dann die Tasten &lt;font color=#e6e6e6>[Power]&lt;/font> und &lt;font color=#e6e6e6>[Lautstärke +]&lt;/font> drücken und gedrückt halten, bis Sie &lt;img src="\">.</Data> sehen.</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Gerät ausschalten, dann die Tasten &lt;font color=#e6e6e6>[Power]&lt;/font> und &lt;font color=#e6e6e6>[Lautstärke +]&lt;/font> gedrückt halten, bis Sie &lt;img src="\">.</Data> sehen.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; wählen und warten, bis das Telefon neu startet.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="phone_locked_string">Dieses Gerät ist gesperrt</string>
