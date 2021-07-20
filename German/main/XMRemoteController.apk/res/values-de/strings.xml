@@ -487,7 +487,7 @@
   <string name="loading_hint">Einen Moment…</string>
   <string name="loading_ir_data">Einen Moment…</string>
   <string name="loading_more">Mehr laden</string>
-  <string name="loading_share_info_err">Daten konnten nicht geladen werden</string>
+  <string name="loading_share_info_err">Daten wurden nicht geladen</string>
   <string name="local_apk">Lokale APK</string>
   <string name="local_video">Lokales Video</string>
   <string name="locate_current_place">Finde aktuellen Standort</string>

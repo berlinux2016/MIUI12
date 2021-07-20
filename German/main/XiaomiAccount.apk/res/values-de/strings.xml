@@ -375,7 +375,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="notify_network_restricted_content_hidden_state">Hintergrundaktivität für Mi-Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
   <string name="notify_network_restricted_content_mobile_network">Internetzugriff für Mi-Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
   <string name="notify_network_restricted_title">Mi-Konto konnte keine Netzwerkverbindung herstellen</string>
-  <string name="oauth_get_scopes_failed">Kontoinformationen konnten nicht abgerufen werden</string>
+  <string name="oauth_get_scopes_failed">Kontoinformationen wurden nicht abgerufen</string>
   <string name="oauth_getting_scopes">Konto prüfen…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; erhält folgende Berechtigungen:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Mit Mi-Konto anmelden</string>

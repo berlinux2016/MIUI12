@@ -211,7 +211,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="feedback_hint_optional">Wählen</string>
   <string name="feedback_history_remind_login_desc">Melden Sie sich mit Ihrem Mi-Konto an, um Details und den Fortschritt Ihres Berichts anzuzeigen</string>
   <string name="feedback_jira_key_place_holder">Jira erstellen…</string>
-  <string name="feedback_package_log_failed">Protokolle konnten nicht komprimiert werden</string>
+  <string name="feedback_package_log_failed">Protokolle wurden nicht komprimiert</string>
   <string name="feedback_phone_model_label">Telefonmodell</string>
   <string name="feedback_probability_label">Wahrscheinlichkeit</string>
   <string name="feedback_remind_login_btn">Anmelden</string>
@@ -255,7 +255,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="feedback_status_submit_feedback_failed">Feedback abgeben nicht möglich</string>
   <string name="feedback_status_supplement">Beschreiben Sie Ihr Problem im Detail</string>
   <string name="feedback_status_supplement_more">Kommentar hinzufügen</string>
-  <string name="feedback_status_upload_log_failed">Anhänge konnten nicht hochgeladen werden</string>
+  <string name="feedback_status_upload_log_failed">Anhänge wurden nicht hochgeladen</string>
   <string name="feedback_submit_failed_notification_desc">Details ansehen</string>
   <string name="feedback_submit_failed_notification_retry">Nochmals senden</string>
   <string name="feedback_submit_failed_notification_title">Bericht wurde nicht gesendet</string>

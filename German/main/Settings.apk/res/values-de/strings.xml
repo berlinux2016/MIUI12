@@ -3095,7 +3095,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="err_not_allow">Nicht unterstützt</string>
   <string name="err_pkg_not_exist">App nicht gefunden</string>
   <string name="err_router_disconnected">Prüfen Sie die Routerverbindung und versuchen Sie es erneut</string>
-  <string name="err_router_files_delete">Sicherungsdateien auf Ihrem Router konnten nicht gelöscht werden</string>
+  <string name="err_router_files_delete">Sicherungsdateien auf Ihrem Router wurden nicht gelöscht</string>
   <string name="err_unknown">Unbekannter Fehler</string>
   <string name="err_user_abort">Vom Benutzer abgebrochen</string>
   <string name="err_version_too_old">Sicherungsdatei ist zu alt</string>

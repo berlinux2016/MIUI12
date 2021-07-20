@@ -92,7 +92,7 @@
   <string name="sort_size">Nach Größe</string>
   <string name="title_open">Öffnen von</string>
   <string name="title_save">Speichern unter</string>
-  <string name="toast_failed_delete">Einige Dokumente konnten nicht gelöscht werden</string>
+  <string name="toast_failed_delete">Einige Dokumente wurden nicht gelöscht</string>
   <string name="toast_no_application">Datei kann nicht geöffnet werden</string>
   <string name="too_many_in_select_all">Es können max. 1000 Elemente ausgewählt werden</string>
   <string name="too_many_selected">Entschuldigung, Sie können nur bis zu 1000 Elemente auf einmal auswählen</string>

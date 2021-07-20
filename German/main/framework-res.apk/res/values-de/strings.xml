@@ -586,7 +586,7 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
   <string name="ext_media_missing_message">Dieses Gerät wieder einsetzen</string>
   <string name="ext_media_missing_title">%s fehlt</string>
   <string name="ext_media_move_failure_message">Daten wurden an ursprünglicher Position belassen</string>
-  <string name="ext_media_move_failure_title">Daten konnten nicht verschoben werden</string>
+  <string name="ext_media_move_failure_title">Daten wurden nicht verschoben</string>
   <string name="ext_media_move_specific_title">%s verschieben</string>
   <string name="ext_media_move_success_message">Daten wurden nach %s verschoben</string>
   <string name="ext_media_move_success_title">Fertig</string>

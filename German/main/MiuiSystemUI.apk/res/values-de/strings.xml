@@ -2422,7 +2422,7 @@ d. MMM"</string>
   <string name="stream_voice_call">Anruf</string>
   <string name="strict_mode">Strict-Modus aktiv</string>
   <string name="strict_mode_summary">Bildschirm blinkt, wenn Apps lange Operationen ausführen</string>
-  <string name="structure_face_data_delete_fail">3D-Gesichtsdaten konnten nicht gelöscht werden, erneut versuchen.</string>
+  <string name="structure_face_data_delete_fail">3D-Gesichtsdaten wurden nicht gelöscht, erneut versuchen.</string>
   <string name="structure_face_data_input_down">Kopf senken</string>
   <string name="structure_face_data_input_error_away_screen">Telefon etwas weiter weg vom Gesicht halten</string>
   <string name="structure_face_data_input_error_expose_eye">Augen werden nicht mehr gesehen</string>

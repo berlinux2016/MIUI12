@@ -162,7 +162,7 @@
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="decompress_cancel">Abbrechen</string>
   <string name="decompress_confirm">Entpacken</string>
-  <string name="decompress_corrupt">Dateien konnten nicht entpackt werden. Paket ist beschädigt.</string>
+  <string name="decompress_corrupt">Dateien wurden nicht entpackt. Paket ist beschädigt.</string>
   <string name="decompress_destination_error">Dateien können nicht hierher entpackt werden</string>
   <string name="decompress_encrypted_rar_not_supported">Verschlüsselte RAR-Dateien werden nicht unterstützt</string>
   <string name="decompress_fail">Entpacken fehlgeschlagen</string>
@@ -672,9 +672,9 @@
   <string name="other_user_no_liked_video_tip">Keine Videos, die ich mag</string>
   <string name="overwrite_msg">\"%s\" existiert bereits. Tippen, um diese durch die neue Datei zu ersetzen.</string>
   <string name="pad">Interner Speicher</string>
-  <string name="partial_cancel_successful">Einige Dateien konnten nicht verschoben werden. Die restlichen Dateien wurden nach %s verschoben.</string>
-  <string name="partial_delete_failure">Einige Dateien konnten nicht gelöscht werden, erneut versuchen.</string>
-  <string name="partial_encrypt_success">Einige Dateien konnten nicht versteckt werden, erneut versuchen.</string>
+  <string name="partial_cancel_successful">Einige Dateien wurden nicht verschoben. Die restlichen Dateien wurden nach %s verschoben.</string>
+  <string name="partial_delete_failure">Einige Dateien wurden nicht gelöscht, erneut versuchen.</string>
+  <string name="partial_encrypt_success">Einige Dateien wurden nicht versteckt, erneut versuchen.</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
   <string name="path_download">Verwalten Sie Ihre Downloads</string>
   <string name="path_hot_sticker">Beliebte Sticker</string>

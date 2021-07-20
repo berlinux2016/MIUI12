@@ -23,7 +23,7 @@
   <string name="face_data_input_camera_fail">Kamera wurde nicht gestartet</string>
   <string name="face_data_input_camera_ok">Kamera starten…</string>
   <string name="face_data_input_cancel">Abbrechen</string>
-  <string name="face_data_input_cancel_msg">Gesicht konnten nicht hinzugefügt werden</string>
+  <string name="face_data_input_cancel_msg">Gesicht wurden nicht hinzugefügt</string>
   <string name="face_data_input_msg">"Sicherstellen, dass sich das Gesicht
 innerhalb des Kreises befindet"</string>
   <string name="face_data_input_ok">Abgeschlossen</string>

@@ -347,7 +347,7 @@
   <string name="friday_shortest">F</string>
   <string name="from_label">"Von: "</string>
   <string name="from_pkg_name">"Von der App: "</string>
-  <string name="ft_cfs_dialog_content">Dateien konnten nicht über RCS empfangen werden. Stattdessen einen Link in einer Textnachricht senden?</string>
+  <string name="ft_cfs_dialog_content">Dateien wurden nicht über RCS empfangen. Stattdessen einen Link in einer Textnachricht senden?</string>
   <string name="ft_cfs_dialog_title">Alternative Dateiübertragung</string>
   <string name="go_close">Einstellungen</string>
   <string name="go_to">" öffnen"</string>
@@ -639,7 +639,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="notification_channel_sim2_name">SIM2-Nachrichten</string>
   <string name="notification_copy">OTP kopieren</string>
   <string name="notification_delete">Löschen</string>
-  <string name="notification_failed_multiple">%s Nachrichten konnten nicht gesendet werden</string>
+  <string name="notification_failed_multiple">%s Nachrichten wurden nicht gesendet</string>
   <string name="notification_failed_multiple_title">Nachrichten nicht gesendet</string>
   <string name="notification_group_name">Nachrichten</string>
   <string name="notification_multiple">%s ungelesene Nachrichten</string>
@@ -817,7 +817,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
   <string name="rcs_auto_resend_sms">In SMS umwandeln</string>
   <string name="rcs_auto_resume">Unterbrochene Uploads automatisch fortsetzen</string>
   <string name="rcs_auto_resume_only_by_wifi">Uploads nur bei Verbindung mit WLAN fortsetzen</string>
-  <string name="rcs_cfs_dialog_content">Nachrichten konnten nicht über RCS zugestellt werden. Stattdessen eine Textnachricht senden?</string>
+  <string name="rcs_cfs_dialog_content">Nachrichten wurden nicht über RCS zugestellt. Stattdessen eine Textnachricht senden?</string>
   <string name="rcs_cfs_dialog_title">Alternativer Nachrichtentransfer</string>
   <string name="rcs_chat_bot_instruction">Über den Besitzer</string>
   <string name="rcs_chat_bot_subject">Besitzer: %1$s</string>

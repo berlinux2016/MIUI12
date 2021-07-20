@@ -127,7 +127,7 @@
   <string name="chinese_symbol_animals_rabbit">Kaninchen</string>
   <string name="chinese_symbol_animals_snake">Schlange</string>
   <string name="chinese_symbol_animals_tiger">Tiger</string>
-  <string name="clear_old_task_failed">Alte Aufgaben konnten nicht entfernt werden</string>
+  <string name="clear_old_task_failed">Alte Aufgaben wurden nicht entfernt</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="close">Schließen</string>
   <string name="close_twice_auth_btn">Zwei-Faktor-Authentifizierung ausschalten</string>
@@ -216,7 +216,7 @@ Zum Ausschalten https://appleid.apple.com/#!&amp;page=signin besuchen"</string>
   <string name="error_unauthorized">Die Synchronisation wurde aufgrund von zu vielen Anmeldeversuchen deaktiviert.</string>
   <string name="evening" />
   <string name="failed_description">Fehlgeschlagen</string>
-  <string name="fail_list_tips">Die folgenden Elemente konnten nicht auf das neue Gerät übertragen werden.</string>
+  <string name="fail_list_tips">Folgende Elemente wurden nicht auf das neue Gerät übertragen:</string>
   <string name="finished">Fertiggestellt</string>
   <string name="fmt_chinese_date">Monat</string>
   <string name="fmt_date">T</string>

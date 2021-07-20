@@ -286,7 +286,7 @@
   <string name="backup_sync_dialog_title">Synchronisation ist aus</string>
   <string name="backup_sync_error_btn_text">Erneut versuchen</string>
   <string name="backup_sync_error_desc">Keine Verbindung zur Xiaomi Cloud</string>
-  <string name="backup_sync_error_title">Inhalte konnten nicht synchronisiert werden</string>
+  <string name="backup_sync_error_title">Inhalte wurden nicht synchronisiert</string>
   <string name="backup_sync_off_btn_text">Einschalten</string>
   <string name="backup_sync_off_desc">Aktivieren Sie die Synchronisation mit der Cloud, um Fotos und Videos zu sichern</string>
   <string name="backup_sync_off_title">Synchronisation mit der Cloud ist aus</string>
@@ -672,7 +672,7 @@
   <string name="error_download_tip">Herunterladen fehlgeschlagen</string>
   <string name="error_external_sdcard_write_action">Datenspeicher wechseln</string>
   <string name="error_external_sdcard_write_msg">Gehen Sie zu Einstellungen &gt; Speicher; wechseln Sie den Datenspeicher und versuchen Sie erneut.</string>
-  <string name="error_external_sdcard_write_tip">Elemente konnten nicht auf SD-Karte gespeichert werden</string>
+  <string name="error_external_sdcard_write_tip">Elemente wurden nicht auf SD-Karte gespeichert</string>
   <string name="error_forbidden">Synchronisation wurde wegen Problemen mit dem Mi-Konto deaktiviert.</string>
   <string name="error_install_connect_fail">Plugin nicht geladen. Prüfen Sie Ihre Netzwerkverbindung.</string>
   <string name="error_install_sdcard_not_available">Plugin wurde wegen eines SD-Kartenfehlers nicht geladen</string>
@@ -1109,7 +1109,7 @@
   <string name="loading_dual_tip">Dual-Foto laden…</string>
   <string name="loading_fail">Download fehlgeschlagen</string>
   <string name="loading_fail_sync_off">Synchronisation mit der Cloud einschalten, um den Download zu starten</string>
-  <string name="loading_fail_sync_off_message">Fotos konnten nicht geladen werden. Synchronisation mit der Cloud ist aus.</string>
+  <string name="loading_fail_sync_off_message">Fotos wurden nicht geladen. Synchronisation mit der Cloud ist aus.</string>
   <string name="loading_fail_sync_without_network">Mit dem Netzwerk verbinden, um Metadaten herunterzuladen</string>
   <string name="loading_fail_syncing">Warten Sie, bis die Metadaten vollständig heruntergeladen wurden und versuchen Sie es erneut</string>
   <string name="loading_gif">GIF herunterladen…</string>

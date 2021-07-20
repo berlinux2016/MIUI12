@@ -564,7 +564,7 @@
   <string name="vp_offline_status_none">Fertig</string>
   <string name="vp_offline_status_pause">Angehalten</string>
   <string name="vp_offline_status_wait">Warten</string>
-  <string name="vp_play_youku_failed_get_video_info">Videoinfos konnten nicht abgerufen werden</string>
+  <string name="vp_play_youku_failed_get_video_info">Videoinfos wurden nicht abgerufen</string>
   <string name="vp_play_youku_time_out">Zeitüberschreitung der Verbindung</string>
   <string name="vp_player_plugin_dlg_neg_btn">Schließen</string>
   <string name="vp_player_plugin_dlg_no_content">Kein Videoplayer Plugin</string>
