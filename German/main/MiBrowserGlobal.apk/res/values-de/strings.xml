@@ -1819,7 +1819,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
   <string name="suggest_access_item_app_update">Aktualisieren: %s</string>
   <string name="suggest_access_music">Mi-Musik</string>
   <string name="suggest_item_delete_text">Löschen</string>
-  <string name="suggest_open_app_failed">Konnte die App nicht öffnen</string>
+  <string name="suggest_open_app_failed">App wurde nicht geöffnet</string>
   <string name="summary_channel_layout">Gestaffeltes Layout erzwingen</string>
   <string name="summary_command_mode">Einschalten, um den Befehlsmodus aufzurufen</string>
   <string name="summary_detail_page">Stil Detailseite ändern</string>

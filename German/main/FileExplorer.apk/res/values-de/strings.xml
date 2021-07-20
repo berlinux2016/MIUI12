@@ -614,7 +614,7 @@
   <string name="online_not_support">Datei kann im Moment nicht online angezeigt werden</string>
   <string name="open_app">Öffnen</string>
   <string name="open_chest">Öffnen, um ein Geschenk zu erhalten</string>
-  <string name="open_chest_failed">Konnte nicht geöffnet werden, Netzwerkeinstellungen prüfen und erneut versuchen</string>
+  <string name="open_chest_failed">Öffnen nicht möglich, Netzwerkeinstellungen prüfen und erneut versuchen</string>
   <string name="open_private_folder">Loslassen, um versteckte Ordner anzuzeigen</string>
   <string name="open_xk_app">\"Möchten Sie ein Video ansehen\" öffnen</string>
   <string name="operation_add_fav">Zu Favoriten hinzufügen…</string>

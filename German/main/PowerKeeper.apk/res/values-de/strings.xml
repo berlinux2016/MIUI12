@@ -237,7 +237,7 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
   <string name="scenario_policies_title">Intelligente Szenarien</string>
   <string name="scenario_policies_warmcontrol">Temperaturkontrolle</string>
   <string name="search_menu_title">Suchen</string>
-  <string name="search_result_text">Konnte keine Apps finden</string>
+  <string name="search_result_text">Keine Apps gefunden</string>
   <string name="send">Senden</string>
   <string name="set_gsmcore_summary">Google Play-Dienste im Extrem-Stromsparmodus deaktivieren</string>
   <string name="set_gsmcore_title">Google Play-Dienste deaktivieren</string>

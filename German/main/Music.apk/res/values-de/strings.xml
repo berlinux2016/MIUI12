@@ -321,12 +321,12 @@
   <string name="download_confirm_text">Mi Musik lädt und installiert %s</string>
   <string name="download_connect_wifi_dialog_message">Sie benötigen WLAN, um diesen Titel herunterzuladen. Jetzt verbinden?</string>
   <string name="download_connect_wifi_dialog_title">Mit WLAN verbinden</string>
-  <string name="download_dialog_fail">Konnte nicht herunterladen</string>
+  <string name="download_dialog_fail">Herunterladen nicht möglich</string>
   <string name="download_dialog_success">Erfolgreich heruntergeladen</string>
   <string name="download_done_btn">Heruntergeladen</string>
   <string name="download_error">Fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
-  <string name="download_fail_to_fetch_info">Konnte nicht herunterladen, versuchen Sie es erneut</string>
+  <string name="download_fail_to_fetch_info">Herunterladen nicht möglich, versuchen Sie es erneut</string>
   <string name="download_filesize_unknown">Unbekannt</string>
   <string name="download_in_process">HERUNTERLADEN</string>
   <string name="download_info_start_deleted_tasks">Downloads löschen</string>
@@ -375,7 +375,7 @@
   <string name="edit_playlist_info">Info Wiedergabeliste bearbeiten</string>
   <string name="empty_page_no_album">Keine Alben</string>
   <string name="empty_page_no_artist">Keine Interpreten</string>
-  <string name="enable_auto_payment_fail">Konnte nicht aktiviert werden</string>
+  <string name="enable_auto_payment_fail">Aktivieren nicht möglich</string>
   <string name="enable_auto_payment_fail_message">Automatische Verlängerung konnte nicht aktiviert werden</string>
   <string name="enable_auto_payment_success">Automatisch verlängern</string>
   <string name="enable_auto_payment_success_message">Automatische Verlängerung wurde aktiviert. Nächste Zahlung ist fällig am %s.</string>

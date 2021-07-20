@@ -1343,7 +1343,7 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="travel_item_virtual_sim">Mi Virtuelle SIM</string>
   <string name="travel_item_weather_forecast">Zielprognose</string>
   <string name="travel_item_weather_now">Zielwetter</string>
-  <string name="travel_load_failed">Konnte nicht geladen werden</string>
+  <string name="travel_load_failed">Laden nicht möglich</string>
   <string name="travel_loading">Einen Moment…</string>
   <string name="travel_local">Ziel</string>
   <string name="travel_notice_message">Kalender benötigt eine Internetverbindung und Standortzugriff, um Reiseinformationen anzeigen zu können</string>

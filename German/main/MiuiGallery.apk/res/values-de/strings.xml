@@ -1578,7 +1578,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="photo_editor_navigator_download_network_metered_title">Datenverbrauchswarnung</string>
   <string name="photo_editor_navigator_download_title">Laden…</string>
   <string name="photo_editor_navigator_export">Speichern</string>
-  <string name="photo_editor_navigator_module_download_failed">Konnte %s nicht herunterladen</string>
+  <string name="photo_editor_navigator_module_download_failed">%s herunterladen nicht möglich</string>
   <string name="photo_editor_navigator_module_download_now">Herunterladen</string>
   <string name="photo_editor_navigator_module_download_success">Erfolgreich heruntergeladen</string>
   <string name="photo_editor_navigator_module_download_wait_wlan">Warten auf WLAN Verbindung</string>
@@ -2384,8 +2384,8 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="video_editor_text_input_empty_tips">Inhalt darf nicht leer sein</string>
   <string name="video_editor_trim">Schneiden</string>
   <string name="video_editor_unsupport_audio_file">Audiodatei wird nicht unterstützt</string>
-  <string name="video_editor_unzip_file_fail">Konnte das Video nicht entpacken</string>
-  <string name="video_editor_video_is_short">Kann dieses Video nicht bearbeiten</string>
+  <string name="video_editor_unzip_file_fail">Video entpacken nicht möglich</string>
+  <string name="video_editor_video_is_short">Video bearbeiten nicht möglich</string>
   <string name="video_editor_video_loading">Video vorbereiten…, ein oder zwei Sekunden warten und erneut versuchen.</string>
   <string name="video_editor_watermark">Wasserzeichen</string>
   <string name="video_err">Video kann nicht abgespielt werden</string>

@@ -529,7 +529,7 @@
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
   <string name="save_single_excerpt">Speichern</string>
-  <string name="save_to_gallery_failure_message">Konnte nicht in der Galerie speichern</string>
+  <string name="save_to_gallery_failure_message">In der Galerie speichern nicht möglich</string>
   <string name="save_to_gallery_icon_name">In Galerie speichern</string>
   <string name="save_to_gallery_success_message">Bild erfolgreich in Galerie gespeichert</string>
   <string name="search">Notizen</string>

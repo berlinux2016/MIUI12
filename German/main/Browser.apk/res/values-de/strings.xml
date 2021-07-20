@@ -1590,7 +1590,7 @@ Es zeigt nichts an."</string>
   <string name="suggest_access_item_website_mark">WEBSEITEN</string>
   <string name="suggest_access_item_yellow_mark">GELBE SEITEN</string>
   <string name="suggest_item_delete_text">Löschen</string>
-  <string name="suggest_open_app_failed">Konnte die App nicht öffnen</string>
+  <string name="suggest_open_app_failed">App wurde nicht geöffnet</string>
   <string name="suggestion_clear_item_message">Bestätigen Sie das Löschen dieser Eingabe?</string>
   <string name="suggestion_clear_record_message">Bestätigen Sie das Löschen dieser Eingabe?</string>
   <string name="suggestion_express_button_query_more">MEHR ANZEIGEN</string>

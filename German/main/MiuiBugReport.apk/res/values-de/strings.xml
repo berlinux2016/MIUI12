@@ -251,8 +251,8 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="feedback_status_reresolved">Gelöst</string>
   <string name="feedback_status_save_log_info_failed">Anhangs-URL konnte nicht geändert werden</string>
   <string name="feedback_status_submit_attachment">Anhang erfolgreich übermittelt</string>
-  <string name="feedback_status_submit_bbs_failed">Konnte kein Feedback einreichen</string>
-  <string name="feedback_status_submit_feedback_failed">Konnte kein Feedback abgeben</string>
+  <string name="feedback_status_submit_bbs_failed">Feedback einreichen nicht möglich</string>
+  <string name="feedback_status_submit_feedback_failed">Feedback abgeben nicht möglich</string>
   <string name="feedback_status_supplement">Beschreiben Sie Ihr Problem im Detail</string>
   <string name="feedback_status_supplement_more">Kommentar hinzufügen</string>
   <string name="feedback_status_upload_log_failed">Anhänge konnten nicht hochgeladen werden</string>
@@ -649,7 +649,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="passport_remove_confirm">Abmelden</string>
   <string name="passport_remove_unactivated_account_notice">Ihr Konto wurde nicht aktiviert.</string>
   <string name="passport_resend_active_email">E-Mail erneut senden</string>
-  <string name="passport_reset_fail_title">Konnte nicht zurückgesetzt werden</string>
+  <string name="passport_reset_fail_title">Zurücksetzen nicht möglich</string>
   <string name="passport_reset_password_prompt">Passwort ist falsch</string>
   <string name="passport_reset_password_title">Passwort zurücksetzen</string>
   <string name="passport_restart">Von vorn anfangen</string>

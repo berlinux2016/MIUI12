@@ -5,8 +5,8 @@
     <item quantity="one">Eine Datei in die Zwischenablage kopiert.</item>
   </plurals>
   <plurals name="copy_begin">
-    <item quantity="other">Kopiere %1$d Dateien.</item>
-    <item quantity="one">Kopiere eine Datei.</item>
+    <item quantity="other">%1$d Dateien kopieren</item>
+    <item quantity="one">Eine Datei kopieren</item>
   </plurals>
   <plurals name="copy_error_notification_title">
     <item quantity="other">%1$d Dateien konnten nicht kopiert werden.</item>

@@ -416,7 +416,7 @@
   <string name="releasetorefresh">Loslassen zum Aktualisieren</string>
   <string name="reload_sub_title">Erneut versuchen</string>
   <string name="reload_title">Netzwerkverbindung nicht möglich</string>
-  <string name="reload_title_ep">Konnte nicht die ganze Serie bekommen</string>
+  <string name="reload_title_ep">Ganze Serie nicht erhalten</string>
   <string name="replay">Wiederholen</string>
   <string name="retry">Erneut versuchen</string>
   <string name="router">Offline fernbedienen</string>

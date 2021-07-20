@@ -762,8 +762,8 @@ Tippen Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="data_usage_uninstalled_apps_users">Apps und Benutzer gelöscht</string>
   <string name="dc_alert_dialog_message">Einige Apps benötigen eine mobile Datenverbindung. Sie können sich mit Ihrem Mobilfunkanbieter in Verbindung setzen, um zu erfahren, welche %s Ihnen zur Verfügung stehen.</string>
   <string name="dc_alert_dialog_title">Datenverbrauchswarnung</string>
-  <string name="dds_switch_warning_message_data_off">Konnte SIM %1$s nicht finden. SIM %2$s ist jetzt als Standard für Mobile Daten eingestellt. Mobile Daten sind nun ausgeschaltet.</string>
-  <string name="dds_switch_warning_message_data_on">Konnte SIM %1$s nicht finden. SIM %2$s ist jetzt als Standard für Mobile Daten eingestellt. Mobile Daten werden abgeschaltet, um unnötige Kosten zu vermeiden.</string>
+  <string name="dds_switch_warning_message_data_off">SIM %1$s nicht gefunden. SIM %2$s ist jetzt als Standard für Mobile Daten eingestellt. Mobile Daten sind nun ausgeschaltet.</string>
+  <string name="dds_switch_warning_message_data_on">SIM %1$s nicht gefunden. SIM %2$s ist jetzt als Standard für Mobile Daten eingestellt. Mobile Daten werden abgeschaltet, um unnötige Kosten zu vermeiden.</string>
   <string name="deactivate_all">Alle abbrechen</string>
   <string name="debug_app">Debugapp auswählen</string>
   <string name="debug_app_not_set">Keine Debug-App gesetzt</string>

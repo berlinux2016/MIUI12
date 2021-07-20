@@ -1332,7 +1332,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="privacy_password_title4">Passwort aktualisiert</string>
   <string name="privacy_policy_and_user_agreement">Datenschutzerklärung und Nutzervereinbarung</string>
   <string name="private_num">Private Nummer</string>
-  <string name="profileSavedErrorToast">Konnte meine Profiländerungen nicht speichern</string>
+  <string name="profileSavedErrorToast">Profiländerungen wurden nicht gespeichert</string>
   <string name="profileSavedToast">Profil gespeichert</string>
   <string name="profile_delete_toast">Profil erfolgreich gelöscht</string>
   <string name="profile_display_name">Mein Profil einrichten</string>

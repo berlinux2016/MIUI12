@@ -606,7 +606,7 @@ Diesen Code bitte an den Techniker senden."</string>
   <string name="login_tip">Nicht angemeldet</string>
   <string name="login_tips">Anmelden, um relevante Empfehlungen zu erhalten</string>
   <string name="logout_account">Abmelden</string>
-  <string name="lrc_search_failed">Konnte keine Liedtexte finden</string>
+  <string name="lrc_search_failed">Keine Liedtexte gefunden</string>
   <string name="lrc_searching">Suchen…</string>
   <string name="lyric_open_other_connect">Liedtexte über Mobilfunknetz herunterladen</string>
   <string name="lyric_setting">Liedtexte-Einstellungen</string>
@@ -1313,7 +1313,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="toast_fm_recorder_storage_full">Speicher voll, Aufnahme nicht möglich.</string>
   <string name="toast_fm_seeking">Suchen…</string>
   <string name="toast_fm_starting">Starten…</string>
-  <string name="toast_new_playlist_name_no_enter">Konnte keinen neuen Absatz beginnen</string>
+  <string name="toast_new_playlist_name_no_enter">Neuer Absatz nicht möglich</string>
   <string name="toast_new_playlist_name_too_long">Wiedergabelistenname ist zu lang</string>
   <string name="toast_normal_songs_for_download">Download-Qualität auf Standard gesetzt</string>
   <string name="toast_normal_songs_for_stream">Streamingqualität auf Standard gesetzt</string>
