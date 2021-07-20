@@ -280,7 +280,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="install_failed_incompatible">Diese App ist mit Ihrem Gerät nicht kompatibel</string>
   <string name="install_failed_inconsistent_certificates">Paket mit gleichem Namen, aber in Konflikt stehender Signatur, ist bereits installiert</string>
   <string name="install_failed_invalid_apk">Paket ist offenbar beschädigt</string>
-  <string name="install_failed_msg">%1$s konnte nicht auf Ihrem Telefon installiert werden</string>
+  <string name="install_failed_msg">%1$s wurde nicht auf Ihrem Telefon installiert</string>
   <string name="install_failed_older_sdk">Paket funktioniert nur auf neueren Versionen von Android</string>
   <string name="install_failed_system_incompatible">Diese App ist nicht mit MIUI kompatibel</string>
   <string name="install_failed_verify_failed">Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden</string>
@@ -435,7 +435,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="orb_search_action">Suchaktion</string>
   <string name="other_permissions">Andere App-Funktionen</string>
   <string name="other_relative">Andere</string>
-  <string name="out_of_space_dlg_text">%1$s konnte nicht installiert werden. Geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
+  <string name="out_of_space_dlg_text">%1$s wurde nicht installiert. Geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
   <string name="out_of_space_dlg_title">Kein freier Speicher vorhanden</string>
   <string name="overlay_display_devices_title">Sekundäranzeigen simulieren</string>
   <string name="package_delete_confirm_step_1">Löschen %s?</string>
@@ -602,7 +602,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="uninstall_failed">Deinstallation fehlgeschlagen</string>
   <string name="uninstall_failed_device_policy_manager">Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator für %1$s</string>
-  <string name="uninstall_failed_msg">%1$s konnte nicht deinstalliert werden</string>
+  <string name="uninstall_failed_msg">%1$s wurde nicht deinstalliert</string>
   <string name="uninstall_failed_retained_app_msg">Diese App wurde modifiziert und kann in dieser Form nicht deinstalliert werden</string>
   <string name="uninstall_update_text">Möchten Sie diese App durch die Werksversion ersetzen?</string>
   <string name="uninstall_update_text_multiuser">Diese App durch die Werksversion ersetzen? Alle Daten werden gelöscht. Dies betrifft alle Benutzer dieses Telefons, auch die mit Arbeitsprofilen.</string>

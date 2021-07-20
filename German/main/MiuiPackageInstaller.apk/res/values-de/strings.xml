@@ -457,7 +457,7 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
   <string name="old_sdk_deny_warning">Diese App wurde für eine ältere Version von Android konzipiert. Wenn Sie keine Berechtigung erteilen, funktioniert die App möglicherweise nicht mehr ordnungsgemäß.</string>
   <string name="other_permissions">Andere App-Funktionen</string>
   <string name="other_relative">Andere</string>
-  <string name="out_of_space_dlg_text">%1$s konnte nicht installiert werden. Geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
+  <string name="out_of_space_dlg_text">%1$s wurde nicht installiert. Geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
   <string name="out_of_space_dlg_title">Kein freier Speicher vorhanden</string>
   <string name="password_toggle_content_description">Passwort anzeigen</string>
   <string name="perm_action_accept">Erlauben</string>
@@ -619,7 +619,7 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
   <string name="uninstall_failed">Deinstallation fehlgeschlagen</string>
   <string name="uninstall_failed_device_policy_manager">Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator für %1$s</string>
-  <string name="uninstall_failed_msg">%1$s konnte nicht deinstalliert werden</string>
+  <string name="uninstall_failed_msg">%1$s wurde nicht deinstalliert</string>
   <string name="uninstall_failed_retained_app_msg">Diese App wurde modifiziert und kann in dieser Form nicht deinstalliert werden</string>
   <string name="uninstall_update_text">Möchten Sie diese App durch die Werksversion ersetzen?</string>
   <string name="uninstall_update_text_multiuser">Diese App durch die Werksversion ersetzen? Alle Daten werden gelöscht. Dies betrifft alle Benutzer dieses Telefons, auch die mit Arbeitsprofilen.</string>

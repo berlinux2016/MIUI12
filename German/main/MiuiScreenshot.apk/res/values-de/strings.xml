@@ -135,7 +135,7 @@ Screenshot mit Bildlauf zu erstellen"</string>
   <string name="screenshot_failed_to_capture_title">Diese App gestattet keine Screenshots</string>
   <string name="screenshot_failed_to_save_title">Speichern nicht möglich. Nicht genug Speicherplatz.</string>
   <string name="screenshot_feedback_txt">Feedback</string>
-  <string name="screenshot_insert_failed">Screenshot konnte nicht geladen werden. Einen neuen machen oder das Bild in der Galerie ansehen.</string>
+  <string name="screenshot_insert_failed">Screenshot wurde nicht geladen. Einen neuen machen oder das Bild in der Galerie ansehen.</string>
   <string name="screenshot_long_screenshot">Scrollen</string>
   <string name="screenshot_send">Senden</string>
   <string name="screenshot_thumbnail">Screenshot-Miniaturansicht</string>

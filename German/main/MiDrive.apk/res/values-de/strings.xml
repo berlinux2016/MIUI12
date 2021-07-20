@@ -132,7 +132,7 @@
   <string name="copy_failed_retry">Kopieren nicht möglich, warten Sie %1$s und versuchen es nochmals</string>
   <string name="copy_file_success">Erfolgreich kopiert</string>
   <string name="create_folder_success">Ordner erfolgreich erstellt</string>
-  <string name="create_new_folder_failed">Ordner konnte nicht erstellt werden</string>
+  <string name="create_new_folder_failed">Ordner wurde nicht erstellt</string>
   <string name="create_other_pdf">Neue PDF</string>
   <string name="create_pdf_manual">Neue PDF</string>
   <string name="current_speed_content">Aktuelle Geschwindigkeit: %1$s</string>
@@ -264,7 +264,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="home_action_up">Zurück</string>
   <string name="i_know">Verstanden</string>
   <string name="identity">Identifikation</string>
-  <string name="image_loading_error">Bild konnte nicht geladen werden</string>
+  <string name="image_loading_error">Bild wurde nicht geladen</string>
   <string name="image_picker_title">Bilder wählen</string>
   <string name="image_preview_cover_failed">Laden nicht möglich. Erneut versuchen.</string>
   <string name="image_preview_download_failed">Originalbild wurde nicht geöffnet</string>

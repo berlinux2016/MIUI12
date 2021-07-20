@@ -83,7 +83,7 @@ Nachrichten erscheinen nur im Zweitprofil."</string>
   <string name="copy">Kopieren</string>
   <string name="createANewSpace">Erstellen Sie ein zweites, separates Profil</string>
   <string name="createUserFail">Erstellen fehlgeschlagen</string>
-  <string name="create_app_icon_failed">Verknüpfung konnte nicht erstellt werden</string>
+  <string name="create_app_icon_failed">Verknüpfung wurde nicht erstellt</string>
   <string name="create_app_icon_success">Verknüpfung erstellt</string>
   <string name="create_second_space">Erfolgreich erstellt</string>
   <string name="create_space_loading">Zweitprofil erstellen…</string>
@@ -111,7 +111,7 @@ Nachrichten erscheinen nur im Zweitprofil."</string>
   <string name="dialog_title_service_error">Serverfehler</string>
   <string name="dialog_undo_negative">Nicht widerrufen</string>
   <string name="dialog_verify">Prüfen Sie Ihren Fingerabdruck</string>
-  <string name="dialog_verify_fingerprint_retry">Fingerabdruck konnte nicht geprüft werden. Erneut versuchen.</string>
+  <string name="dialog_verify_fingerprint_retry">Fingerabdruck wurde nicht geprüft. Erneut versuchen.</string>
   <string name="dir_switch_out_all_photos">Zweitprofilgalerie</string>
   <string name="disable">Ausschalten</string>
   <string name="disagree">Nicht einverstanden</string>
@@ -183,7 +183,7 @@ Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akze
   <string name="finger_print_num">Fingerabdruck %d</string>
   <string name="finger_print_of_use">Fingerabdruck verwenden</string>
   <string name="fingerprint_number_upper_limit">Zu viele falsche Entsperrversuche</string>
-  <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht gelöscht werden</string>
+  <string name="fingerprint_removal_failed">Fingerabdruck wurde nicht gelöscht</string>
   <string name="fmt_chinese_date">d.M.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>

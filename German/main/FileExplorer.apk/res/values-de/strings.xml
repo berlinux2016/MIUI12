@@ -128,7 +128,7 @@
   <string name="close">Schließen</string>
   <string name="comment_delete_message">Kommentar wird dauerhaft gelöscht.</string>
   <string name="comment_delete_title">Kommentar löschen</string>
-  <string name="comment_fail">Kommentar konnte nicht veröffentlicht werden, erneut versuchen</string>
+  <string name="comment_fail">Kommentar wurde nicht veröffentlicht, erneut versuchen</string>
   <string name="comment_fail_banned_forever">Sie sind wegen unangemessener Kommentare dauerhaft gesperrt. Kontaktieren Sie unsere QQ Gruppe (374463568) für mehr Informationen.</string>
   <string name="comment_fail_banned_forever_positive">Verstanden</string>
   <string name="comment_fail_banned_temporary">Sie wurden wegen unangemessener Kommentare vorübergehend gesperrt.</string>
@@ -242,9 +242,9 @@
   <string name="eras_bc">v. Chr.</string>
   <string name="error">Fehler~</string>
   <string name="error_contains_sharer_path">Dateien im Ordner /MIUI/Gallery/cloud/sharer können nicht verschlüsselt werden. Verschieben Sie die Dateien in einen anderen Ordner und versuchen Sie es erneut.</string>
-  <string name="error_create_dir">Ordner konnte nicht erstellt werden</string>
-  <string name="error_create_file">Datei konnte nicht erstellt werden</string>
-  <string name="error_delete_failed">Datei konnte nicht gelöscht werden</string>
+  <string name="error_create_dir">Ordner wurde nicht erstellt</string>
+  <string name="error_create_file">Datei wurde nicht erstellt</string>
+  <string name="error_delete_failed">Datei wurde nicht gelöscht</string>
   <string name="error_file_already_exists">Diese Datei existiert bereits</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="error_folder_already_exists">Datei existiert bereits</string>
@@ -371,7 +371,7 @@
   <string name="hottest_sticker_str">Beliebt</string>
   <string name="icon_content_description">Dialogsymbol</string>
   <string name="if_cancel">Diese Aktion abbrechen?</string>
-  <string name="image_loading_error">Bild konnte nicht geladen werden</string>
+  <string name="image_loading_error">Bild wurde nicht geladen</string>
   <string name="imm_str_storage">Speicher</string>
   <string name="input_memo_hint">Geben Sie weitere Gründe an (optional)</string>
   <string name="install_btn_download_install_text">Öffnen, um das Video und mehr zu sehen</string>
@@ -609,7 +609,7 @@
   <string name="notification_dialog_title">Benachrichtigungen</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_wechat_expired_empty">WeChat hat diese Videos bereits gelöscht</string>
-  <string name="oauth_failed_tip">Autorisierung konnte nicht abgeschlossen werden</string>
+  <string name="oauth_failed_tip">Autorisierung wurde nicht abgeschlossen</string>
   <string name="one_account_bind_needed">Fügen Sie zumindest ein Konto hinzu</string>
   <string name="online_not_support">Datei kann im Moment nicht online angezeigt werden</string>
   <string name="open_app">Öffnen</string>

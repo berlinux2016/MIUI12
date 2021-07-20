@@ -203,7 +203,7 @@
   <string name="hour_unit">Std +</string>
   <string name="hours">%d Std</string>
   <string name="install_news_app_error">Sprung fehlgeschlagen</string>
-  <string name="install_weather_app_error">App konnte nicht geladen werden</string>
+  <string name="install_weather_app_error">App wurde nicht geladen</string>
   <string name="install_weather_app_loading">Einen Moment…</string>
   <string name="invalid_time">Ungültige Uhrzeit: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">Ungültige Timerlänge</string>

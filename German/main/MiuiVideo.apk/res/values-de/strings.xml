@@ -246,7 +246,7 @@ Bitte diesen Code an den Techniker senden."</string>
   <string name="gallery_video_save_video">Video erstellen…</string>
   <string name="gallery_video_slow_edit">Zeitlupe</string>
   <string name="gallery_view_tags">Markierte anzeigen</string>
-  <string name="get_product_failed_please_retry">Bestellinfo konnte nicht geladen werden, versuchen Sie es erneut</string>
+  <string name="get_product_failed_please_retry">Bestellinfo wurde nicht geladen, versuchen Sie es erneut</string>
   <string name="geting_product_wait">Bestellinfo laden…</string>
   <string name="go_and_see">Gehen und Sehen</string>
   <string name="go_to_live_core_plugin">Initialisierung</string>
@@ -393,7 +393,7 @@ Bitte diesen Code an den Techniker senden."</string>
   <string name="online_live_no_login_hint">Melden Sie sich in Ihrem Mi-Konto an, um Livestreams zu sehen</string>
   <string name="online_live_no_network">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="online_live_pay_record_no_data">Keine Elemente vorhanden</string>
-  <string name="online_live_plugin_install_failure">Plugin konnte nicht installiert werden</string>
+  <string name="online_live_plugin_install_failure">Plugin wurde nicht installiert</string>
   <string name="online_live_popular">Follower</string>
   <string name="online_live_unbind_failure">Entfernen nicht möglich, erneut versuchen.</string>
   <string name="online_live_unbind_success">Erfolgreich entfernt</string>
@@ -683,7 +683,7 @@ Bitte diesen Code an den Techniker senden."</string>
   <string name="priority_storage">Speichern auf SD-Karte</string>
   <string name="priority_storage_summary">Automatische Speicherung auf externe SD-Karte, falls verfügbar</string>
   <string name="privacy">Datenschutzerklärung</string>
-  <string name="products_info_error">Bestellinfo konnte nicht geladen werden, versuchen Sie es erneut</string>
+  <string name="products_info_error">Bestellinfo wurde nicht geladen, versuchen Sie es erneut</string>
   <string name="program_menu">Programmvorschau</string>
   <string name="provid_online_server">Einschalten, um Zugriff auf Onlinedienste zu erhalten</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Zum Aktualisieren herunterziehen…</string>
@@ -916,7 +916,7 @@ Sie können versuchen, nach etwas anderem zu suchen."</string>
   <string name="v_addon">Beliebt</string>
   <string name="v_agree">Zustimmen</string>
   <string name="v_all_episode">Alle Episoden</string>
-  <string name="v_app_check_failed">App konnte nicht verifiziert werden</string>
+  <string name="v_app_check_failed">App wurde nicht verifiziert</string>
   <string name="v_app_click_to_install">Zum Installieren antippen</string>
   <string name="v_app_download_failed">App herunterladen nicht möglich, um es erneut zu versuchen berühren</string>
   <string name="v_app_downloaded">Mi Video wurde erfolgreich heruntergeladen</string>
@@ -1094,7 +1094,7 @@ Nach etwas Anderem suchen.</string>
   <string name="vertical_video_auto_play_hint">Nächste</string>
   <string name="video_bbs">Zum Forum gehen</string>
   <string name="video_bbs_url">Unserer Community beitreten, um Xiaomi-Videos zu optimieren</string>
-  <string name="video_id_empty">Video-URL konnte nicht ermittelt werden</string>
+  <string name="video_id_empty">Video-URL wurde nicht ermittelt</string>
   <string name="video_info_audio_bitrate_label">"Audio-Bitrate: "</string>
   <string name="video_info_audio_coding_label">"Audio-Kodierungsformat: "</string>
   <string name="video_info_audio_null">Keine</string>

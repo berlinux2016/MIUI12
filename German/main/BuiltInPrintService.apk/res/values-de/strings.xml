@@ -44,7 +44,7 @@
   <string name="searching">Suchen…</string>
   <string name="security">Sicherheit</string>
   <string name="title_activity_add_printer">Manuell hinzugefügte Drucker</string>
-  <string name="unreadable_input">Dokument konnte nicht gelesen werden</string>
+  <string name="unreadable_input">Dokument wurde nicht gelesen</string>
   <string name="waiting_to_send">Warten auf Senden</string>
   <string name="wifi_direct">WLAN Direct</string>
   <string name="wifi_direct_permission_rationale">Standard-Druckservice benötigt Standortzugriff, um Geräte in der Nähe zu finden.</string>

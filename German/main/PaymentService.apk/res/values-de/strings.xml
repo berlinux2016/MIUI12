@@ -202,7 +202,7 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_error_auth_summary">Erneut am Mi-Konto anmelden</string>
   <string name="mibi_error_cert_date_summary">Datumsfehler Zertifikat. Bitte prüfen Sie Ihr lokales Datum und versuchen Sie es erneut.</string>
   <string name="mibi_error_common_summary">Systemfehler. Bitte später erneut versuchen.</string>
-  <string name="mibi_error_deduct">Automatisches Zahlungsprotokoll konnte nicht aktiviert werden</string>
+  <string name="mibi_error_deduct">Automatisches Zahlungsprotokoll wurde nicht aktiviert</string>
   <string name="mibi_error_expired_summary">Ihre Bestellung ist abgelaufen</string>
   <string name="mibi_error_frozen_service_time">Montag bis Sonntag</string>
   <string name="mibi_error_frozen_summary">Ihr Konto ist gesperrt. Bitte kontaktieren Sie den Xiaomi Kundenservice.</string>
@@ -556,8 +556,8 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="passport_error_user_agreement_error">Erst die allgemeinen Geschäftsbedingungen akzeptieren</string>
   <string name="passport_error_user_name">Eingegebener Benutzername ist ungültig</string>
   <string name="passport_error_verify_activator_phone_message">Stellen Sie sicher, dass Ihr SIM-Kartendienst aktiviert ist und das Gerät mit dem Netzwerk verbunden ist.</string>
-  <string name="passport_error_verify_activator_phone_title">Rufnummer konnte nicht verifiziert werden</string>
-  <string name="passport_failed_to_send_activate_email">Aktivierungsmail konnte nicht gesendet werden</string>
+  <string name="passport_error_verify_activator_phone_title">Rufnummer wurde nicht verifiziert</string>
+  <string name="passport_failed_to_send_activate_email">Aktivierungsmail wurde nicht gesendet</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie account.mi.com, um Ihr Passwort zurückzusetzen.</string>
   <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
@@ -602,7 +602,7 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="passport_phone_ticket_login">Mit SMS anmelden</string>
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutzerklärung</string>
-  <string name="passport_pwd_generate_failure">Passwort konnte nicht erstellt werden</string>
+  <string name="passport_pwd_generate_failure">Passwort wurde nicht erstellt</string>
   <string name="passport_pwd_generating">Erstellen…</string>
   <string name="passport_querying_phone_info">Kontoinfo abrufen…</string>
   <string name="passport_quick_login">Anmelden</string>

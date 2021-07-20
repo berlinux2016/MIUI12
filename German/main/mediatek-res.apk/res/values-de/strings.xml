@@ -93,7 +93,7 @@
   <string name="fdnFailMmi">FDN-Prüfung fehlgeschlagen</string>
   <string name="free_memory_btn">Freier Speicher</string>
   <string name="gallery_camera_mutex">Galerie, Kamera oder Videoplayer können nicht gleichzeitig verwendet werden</string>
-  <string name="gps_time_sync_fail_str">GPS-Zeitangabe konnte nicht abgerufen werden</string>
+  <string name="gps_time_sync_fail_str">GPS-Zeitangabe wurde nicht abgerufen</string>
   <string name="hdmi_audio_output">Audioausgabe</string>
   <string name="hdmi_audio_output_multi_channel">Mehrkanalig</string>
   <string name="hdmi_hdvideo_toast">HDMI kann das 4K-Video nicht abspielen, Verbindung wird unterbrochen</string>

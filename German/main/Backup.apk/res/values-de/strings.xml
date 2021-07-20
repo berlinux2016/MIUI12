@@ -169,7 +169,7 @@ https://appleid.apple.com/#!&amp;page=signin zum Schließen"</string>
   <string name="enable_local_backup_tips">Diese Funktion einschalten, um Sicherungen auf diesem Gerät zu speichern und sie auf Ihren Computer oder ein USB-Speichergerät zu kopieren. Jetzt einschalten?</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
-  <string name="err_acquire_system_service">Systemdienst konnte nicht gestartet werden</string>
+  <string name="err_acquire_system_service">Systemdienst wurde nicht gestartet</string>
   <string name="err_authentication_failed">Authentifikation fehlgeschlagen</string>
   <string name="err_bakfile_broken">Diese Sicherung kann nicht verwendet werden</string>
   <string name="err_bakfile_not_exist">Sicherungsdatei existiert nicht</string>
@@ -498,7 +498,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="prompt_reading">Lesen…</string>
   <string name="prompt_sending">Hochladen…</string>
   <string name="prompt_writing">Speichern…</string>
-  <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
+  <string name="read_encrypt_fail">Verschlüsselte Sicherung wurde nicht gelesen</string>
   <string name="reconnect">Erneut verbinden</string>
   <string name="recreate_soft_ap_tips">Unten auf die Taste tippen, um es erneut zu versuchen.</string>
   <string name="refresh">Aktualisieren</string>

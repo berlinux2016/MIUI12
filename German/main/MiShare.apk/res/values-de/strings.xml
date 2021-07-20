@@ -60,7 +60,7 @@
   <string name="error_mirror_working">Elemente können bei Bildschirm teilen nicht freigegeben werden</string>
   <string name="error_msg_network_error">Ein Netzwerkfehler ist aufgetreten. Erneut versuchen.</string>
   <string name="error_permission_denied">Um diese Funktion nutzen zu können, Mi Share alle erforderlichen Berechtigungen in den Einstellungen erteilen.</string>
-  <string name="error_receive_file_cannot_read">Datei konnte nicht empfangen werden</string>
+  <string name="error_receive_file_cannot_read">Datei wurde nicht empfangen</string>
   <string name="error_receive_file_changed">Nichts empfangen. Das Element hat sich geändert.</string>
   <string name="error_receive_file_file_opened">Element nicht empfangen. Anscheinend wird es gerade benutzt.</string>
   <string name="error_receive_file_no_enough_space">Nichts empfangen. Nicht genügend Speicherplatz.</string>

@@ -4543,7 +4543,7 @@ Wollen Sie es übernehmen?"</string>
   <string name="traffic_config_alert_setted">Einstellungen übernommen</string>
   <string name="traffic_config_alert_title">%s Korrektur</string>
   <string name="traffic_correction_failed">Info nicht verfügbar</string>
-  <string name="traffic_correction_failed_tips">Datentarif konnte nicht geprüft werden. Stellen Sie sicher, dass die Anbietereinstellungen korrekt sind, oder stellen Sie Ihren Tarif manuell ein.</string>
+  <string name="traffic_correction_failed_tips">Datentarif wurde nicht geprüft. Stellen Sie sicher, dass die Anbietereinstellungen korrekt sind, oder stellen Sie Ihren Tarif manuell ein.</string>
   <string name="traffic_correction_start_correction">Mit Mobilfunkanbieterserver verbinden…</string>
   <string name="traffic_correction_start_correction_failed">Anforderung fehlgeschlagen. Bitte Mobilfunkanbietereinstellungen prüfen.</string>
   <string name="traffic_correction_success">Datennutzung aktualisiert</string>

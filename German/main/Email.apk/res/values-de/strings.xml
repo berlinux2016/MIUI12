@@ -1455,7 +1455,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="sign_in_no_useful_provider_error">Protokollkonfigurationen von Microsoft nicht abrufbar. Ein anderes Protokoll verwenden oder das Protokoll von Microsoft aktualisieren.</string>
   <string name="signature_black_shark">Gesendet von meinem Blackshark Telefon</string>
   <string name="silent_ringtone">Lautlos</string>
-  <string name="sms_not_found_tip">"Ihre Standard-SMS-App konnte nicht geöffnet werden. 
+  <string name="sms_not_found_tip">"Ihre Standard-SMS-App wurde nicht geöffnet. 
 App öffnen und Bestätigungs-SMS manuell senden."</string>
   <string name="sms_tip">Authentifizierung fehlgeschlagen. Prüfen Sie, ob die Antiviren-Software Ihre SMS abfängt.</string>
   <string name="smtp_password_error">Passwort des Postausgangsservers ist ungültig</string>
@@ -1676,7 +1676,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="wait_for_sync_title">Auf Synchronisation warten</string>
   <string name="wait_help_context">warten</string>
   <string name="wait_while_update_db">Datenbank aktualisieren…</string>
-  <string name="web_view_load_error_tip">"Dieser E-Mail-Text konnte nicht korrekt angezeigt werden. Dieses Problem in unserer QQ-Gruppe (952315061) melden.</string>
+  <string name="web_view_load_error_tip">"Dieser E-Mail-Text wurde nicht korrekt angezeigt. Dieses Problem in unserer QQ-Gruppe (952315061) melden.</string>
   <string name="webview_logout">Sie können versuchen, sich erneut anzumelden</string>
   <string name="webview_logout_cancel">Jetzt nicht</string>
   <string name="webview_logout_sure">Erneut versuchen</string>

@@ -153,7 +153,7 @@ So können Sie z. B. die Bildschirmzeit für Kinder einschränken oder den Stand
   <string name="user_agreement">Nutzungsvereinbarung</string>
   <string name="user_private_policy">Datenschutzerklärung</string>
   <string name="verify_fingerprint">Bestätigen Sie Ihren Fingerabdruck</string>
-  <string name="verify_fingerprint_retry">Fingerabdruck konnte nicht verifiziert werden. Erneut versuchen.</string>
+  <string name="verify_fingerprint_retry">Fingerabdruck wurde nicht verifiziert. Erneut versuchen.</string>
   <string name="verify_password">Passwort eingeben</string>
   <string name="wes">Mi</string>
   <string name="what_app_can_use">Verfügbare Apps</string>

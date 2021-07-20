@@ -22,7 +22,7 @@
   <string name="action_sign_in">Anmelden</string>
   <string name="action_sign_in_short">Anmelden</string>
   <string name="actionbar_button_up_description">Zurück</string>
-  <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
+  <string name="activity_not_found">Anhang wurde nicht geöffnet</string>
   <string name="activity_not_found_uri">Keine App zum Öffnen der Datei gefunden</string>
   <string name="ad_close_button_text">Werbung</string>
   <string name="ad_notification_title">Unwichtige Mitteilungen</string>
@@ -70,9 +70,9 @@
   <string name="attach_take_photo">Bild aufnehmen</string>
   <string name="attach_transaction">Geld überweisen</string>
   <string name="attach_video_call">Videoanruf</string>
-  <string name="audio_download_failed">Audio konnte nicht heruntergeladen werden</string>
+  <string name="audio_download_failed">Audio wurde nicht heruntergeladen</string>
   <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
-  <string name="audio_message_mx_offline">Sprachnachricht konnte nicht geladen werden. Mi Message ist offline oder nicht verfügbar.</string>
+  <string name="audio_message_mx_offline">Sprachnachricht wurde nicht geladen. Mi Message ist offline oder nicht verfügbar.</string>
   <string name="audio_sim_card_mismatching">Keine Netzwerkverbindung oder falsche SIM-Karte installiert. Installieren Sie die SIM-Karte, von der die Nachricht gesendet wurde, und stellen Sie eine Netzwerkverbindung her.</string>
   <string name="auto_identify_btn_text_only_smart_messaging">Intelligente Nachrichten einschalten</string>
   <string name="auto_identify_btn_text_when_all_disabled">Sender-ID automatisch identifizieren</string>
@@ -113,7 +113,7 @@
   <string name="cannot_add_slide_anymore">Weiteren Folien können nicht hinzugefügt werden</string>
   <string name="cannot_forward_drm_obj">Das in der Nachricht enthaltene DRM-Objekt kann nicht weitergeleitet werden</string>
   <string name="cannot_get_details">Details nicht abrufbar</string>
-  <string name="cannot_resend_audio">Aufnahme konnte nicht gesendet werden</string>
+  <string name="cannot_resend_audio">Aufnahme wurde nicht gesendet</string>
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
   <string name="cannot_send_message_reason">Für die Nachricht sind keine gültigen Empfänger vorhanden.</string>
   <string name="card_insert_to_contact">Kontakte importieren</string>
@@ -189,12 +189,12 @@
   <string name="conversation_style">Sprechblase</string>
   <string name="converting_to_picture_message">In MMS umwandeln…</string>
   <string name="converting_to_text_message">In SMS umwandeln…</string>
-  <string name="converting_vcard_failed">Kontakt konnte nicht konvertiert werden</string>
+  <string name="converting_vcard_failed">Kontakt wurde nicht konvertiert</string>
   <string name="copy">Kopieren</string>
   <string name="copy_message_text">Text kopieren</string>
   <string name="copy_message_text_success">Erfolgreich kopiert</string>
   <string name="copy_to_sdcard">Anhang speichern</string>
-  <string name="copy_to_sdcard_fail">Anhang konnte nicht gespeichert werden</string>
+  <string name="copy_to_sdcard_fail">Anhang wurde nicht gespeichert</string>
   <string name="copy_to_sdcard_success">Anhang gespeichert als %s</string>
   <string name="copy_verification_code_tip">Erfolgreich kopiert</string>
   <string name="current_data_version">Mi Message Version</string>
@@ -247,7 +247,7 @@
   <string name="discard_message">Verwerfen</string>
   <string name="discard_message_reason">Ihre Nachricht wird verworfen, da sie keine gültigen Empfänger hat.</string>
   <string name="discard_slideshow">Diashow verwerfen</string>
-  <string name="dl_failure_notification">Nachricht %1$s konnte nicht von %2$s heruntergeladen werden</string>
+  <string name="dl_failure_notification">Nachricht %1$s wurde nicht von %2$s heruntergeladen</string>
   <string name="done">Fertig</string>
   <string name="download">Herunterladen</string>
   <string name="download_later">Herunterladen momentan nicht möglich. Später erneut versuchen.</string>
@@ -288,9 +288,9 @@
   <string name="expand_button_title">Erweitert</string>
   <string name="expire_on">Ablaufdatum: %s</string>
   <string name="exporting_progress_private_message">Exportieren…</string>
-  <string name="fail_to_add_attachment">"Anhang konnte nicht hinzugefügt werden"</string>
-  <string name="fail_to_view_attachment">"Anhang nicht verfügbar"</string>
-  <string name="failed_to_add_media">%1$s konnte nicht zur Nachricht hinzugefügt werden</string>
+  <string name="fail_to_add_attachment">Anhang wurde nicht hinzugefügt</string>
+  <string name="fail_to_view_attachment">Anhang nicht verfügbar</string>
+  <string name="failed_to_add_media">%1$s wurde nicht zur Nachricht hinzugefügt</string>
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
   <string name="failed_to_send">Senden fehlgeschlagen</string>
   <string name="fake_cell_alert_detect_error">Das wurde nicht von einer gefälschten Basiszelle geschickt.</string>
@@ -376,7 +376,7 @@
   <string name="home_tab_common">Normal</string>
   <string name="hybrid_check_network">Netzwerkeinstellungen</string>
   <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
-  <string name="hybrid_locating_fail">Ihr Standort konnte nicht bestimmt werden</string>
+  <string name="hybrid_locating_fail">Ihr Standort wurde nicht bestimmt</string>
   <string name="hybrid_network_access_denied">Netzwerkzugriff verweigert</string>
   <string name="hybrid_network_unavaliable">Keine Netzwerkverbindung</string>
   <string name="hybrid_pull_to_refresh_pull_label">Zum Aktualisieren herunterziehen…</string>
@@ -562,11 +562,11 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_activate_network_allow_notice">Dieser Dienst benötigt Zugang zu mobilen Daten, um normal zu arbeiten.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivieren…</string>
   <string name="mx_activate_status_desc_check_net_connection">Keine Netzwerkverbindung</string>
-  <string name="mx_activate_status_desc_fail">Mi Message konnte nicht aktiviert werden</string>
+  <string name="mx_activate_status_desc_fail">Mi Message wurde nicht aktiviert</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">Aktivierungsnachricht senden…</string>
   <string name="mx_activate_status_desc_query_activte_info">SIM-Karteninformationen prüfen…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Eingegebene Rufnummer ist ungültig</string>
-  <string name="mx_activate_status_desc_wait_for_sms_fail">Mi Message konnte nicht aktiviert werden</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">Mi Message wurde nicht aktiviert</string>
   <string name="mx_auto_resend_mms">Als MMS senden</string>
   <string name="mx_auto_resend_mms_summary">Als MMS senden wenn WLAN nicht verfügbar ist (providerabhängige Gebühr)</string>
   <string name="mx_auto_resend_sms">Als SMS senden</string>
@@ -1011,7 +1011,7 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="save_to_sim_failed">Speichern fehlgeschlagen</string>
   <string name="saved_label">"Gespeichert: "</string>
   <string name="saved_ringtone">Klingelton gespeichert</string>
-  <string name="saved_ringtone_fail">Klingelton konnte nicht gespeichert werden</string>
+  <string name="saved_ringtone_fail">Klingelton wurde nicht gespeichert</string>
   <string name="saved_to_sim">Gespeichert</string>
   <string name="sdcard_has_not_enough_space">Ungenügend Speicherplatz auf der SD-Karte</string>
   <string name="search">SMS/MMS</string>
@@ -1103,10 +1103,10 @@ Schauen Sie sich die empfohlenen an!"</string>
   <string name="sms_rejected_body">Eingehende Nachricht wurde aus unbekanntem Grund zurückgewiesen</string>
   <string name="sms_rejected_title">SMS abgelehnt</string>
   <string name="sms_report">Spam-Nachricht melden</string>
-  <string name="sms_report_dialog_content">Bericht konnte nicht gesendet werden, versuchen Sie es erneut.</string>
+  <string name="sms_report_dialog_content">Bericht wurde nicht gesendet, versuchen Sie es erneut.</string>
   <string name="sms_report_dialog_retry">Erneut versuchen</string>
   <string name="sms_report_dialog_title">Erneut versuchen</string>
-  <string name="sms_report_failed">Bericht konnte nicht gesendet werden</string>
+  <string name="sms_report_failed">Bericht wurde nicht gesendet</string>
   <string name="sms_report_success">Bericht gesendet</string>
   <string name="snippet_picture">[Bild]</string>
   <string name="snippet_red_package">[Rot-Paket]</string>
@@ -1287,10 +1287,10 @@ Wenn Sie nicht damit einverstanden sind, solche Genehmigungen zu erteilen oder I
   <string name="unable_connect_camera">Sie sind inkognito. Kamera kann jetzt nicht verwendet werden.</string>
   <string name="unable_get_location">Sie sind inkognito. Standortdienste können jetzt nicht verwendet werden.</string>
   <string name="unable_use_microphone">Sie sind inkognito. Mikrofon kann jetzt nicht verwendet werden.</string>
-  <string name="undelivered_msg_dialog_body">"Nachricht konnte nicht gesendet werden.
+  <string name="undelivered_msg_dialog_body">"Nachricht wurde nicht gesendet.
 Bisherige Versuche: %s."</string>
   <string name="undelivered_msg_dialog_title">Nicht zugestellte Nachricht</string>
-  <string name="undelivered_sms_dialog_body">Nachricht konnte nicht gesendet werden</string>
+  <string name="undelivered_sms_dialog_body">Nachricht wurde nicht gesendet</string>
   <string name="unknown_num">Unbekannte Nummer</string>
   <string name="unknown_sender">Sie haben eine neue Nachricht</string>
   <string name="unstick">Lösen</string>
@@ -1314,7 +1314,7 @@ Bisherige Versuche: %s."</string>
   <string name="verification_code_safety_warning">Geben Sie diese Codes nicht an andere Personen weiter</string>
   <string name="view">Anzeigen</string>
   <string name="view_bookmark">Originalnachricht anzeigen</string>
-  <string name="view_hms_attachment_fail">Bild konnte nicht geladen werden</string>
+  <string name="view_hms_attachment_fail">Bild wurde nicht geladen</string>
   <string name="view_message_details">Zeige Details</string>
   <string name="voice_report_anytime">Immer</string>
   <string name="voice_report_off">Aus</string>

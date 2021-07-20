@@ -78,7 +78,7 @@
   <string name="cope_provisioning_summary">Arbeits-Apps werden in Ihrem Arbeitsprofil aufbewahrt und von Ihrem IT-Admin verwaltet. Persönliche Apps sind von den Arbeits-Apps getrennt und versteckt. Ihr IT-Admin kann dieses Gerät steuern und bestimmte Apps sperren.</string>
   <string name="copy">Kopieren</string>
   <string name="copying_certs">Richte CA-Zertifikate ein</string>
-  <string name="couldnt_set_up_device">Gerät konnte nicht eingerichtet werden. Für Hilfe kontaktieren Sie Ihren Admin.</string>
+  <string name="couldnt_set_up_device">Gerät wurde nicht eingerichtet. Für Hilfe kontaktieren Sie Ihren Admin.</string>
   <string name="creditor_capabilities_header">%1$s kann:</string>
   <string name="cross_profile_consent_summary">Mit verbundenen Apps können Sie sowohl auf geschäftliche als auch auf private Daten zugreifen. Sie können dies jederzeit in den Einstellungen ändern.</string>
   <string name="cross_profile_consent_title">Berufliche und private Apps verknüpfen</string>
@@ -155,7 +155,7 @@
   <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">Dieser Link ist nicht sicher und kann nicht geöffnet werden, bis die Geräteeinrichtung beendet ist: %1$s</string>
   <string name="lock_device_description">Zugriff auf dieses Gerät einschränken, wenn Sie keine Zahlungen leisten</string>
   <string name="managed_device_info">Info Geräteverwaltung</string>
-  <string name="managed_provisioning_error_text">Arbeitsprofil konnte nicht eingerichtet werden. Kontaktieren Sie Ihre IT-Abteilung oder versuchen Sie es später erneut.</string>
+  <string name="managed_provisioning_error_text">Arbeitsprofil wurde nicht eingerichtet. Kontaktieren Sie Ihre IT-Abteilung oder versuchen Sie es später erneut.</string>
   <string name="managed_provisioning_not_supported">Ihr Gerät unterstützt kein Arbeitsprofil</string>
   <string name="managed_provisioning_not_supported_by_launcher">Ihr Arbeitsprofil wird von Ihrem Launcher nicht unterstützt. Wechseln Sie auf einen Launcher, der Ihr Arbeitsprofil unterstützt.</string>
   <string name="maximum_user_limit_reached">Arbeitsprofil kann nicht erstellt werden, da Sie die maximale Anzahl von Benutzern auf Ihrem Gerät erreicht haben. Entfernen Sie mindestens einen Benutzer und versuchen Sie es erneut.</string>

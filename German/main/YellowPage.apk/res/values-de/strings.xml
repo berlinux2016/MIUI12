@@ -112,7 +112,7 @@
   <string name="hms_notification">Nachrichten</string>
   <string name="homepage_barcode_prompt">Scannen, um die Startseite zu öffnen</string>
   <string name="info_divider">|</string>
-  <string name="locating_fail">Standort konnte nicht lokalisiert werden</string>
+  <string name="locating_fail">Standort wurde nicht lokalisiert</string>
   <string name="login_before_use">Anmeldung erforderlich</string>
   <string name="login_ok">Anmelden</string>
   <string name="mark_number_check_choose_others">Andere auswählen</string>

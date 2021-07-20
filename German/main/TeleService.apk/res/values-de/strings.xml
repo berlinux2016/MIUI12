@@ -574,7 +574,7 @@ Abtastrate"</string>
   <string name="call_recording_notification_message_sd_unmounted">SD-Karte wurde entfernt</string>
   <string name="call_recording_notification_summary">Benachrichtigung nach Anrufaufnahme anzeigen</string>
   <string name="call_recording_notification_title">Anruf aufgenommen</string>
-  <string name="call_recording_notification_title_error">Anruf konnte nicht aufgenommen werden</string>
+  <string name="call_recording_notification_title_error">Anruf wurde nicht aufgenommen</string>
   <string name="call_recording_notification_toggle_title">Anrufaufnahmebenachrichtigung</string>
   <string name="call_recording_setting">Anrufaufnahme</string>
   <string name="call_settings">Anrufeinstellungen</string>
@@ -692,7 +692,7 @@ Abtastrate"</string>
   <string name="change_pin_enter_old_pin_header">Alte PIN bestätigen</string>
   <string name="change_pin_enter_old_pin_hint">PIN für Sprachnachrichten eingeben, um fortzufahren</string>
   <string name="change_pin_succeeded">PIN für Sprachnachrichten aktualisiert</string>
-  <string name="change_pin_system_error">PIN konnte nicht geändert werden</string>
+  <string name="change_pin_system_error">PIN wurde nicht geändert</string>
   <string name="change_pin_title">PIN für Sprachnachrichten ändern</string>
   <string name="charge_length_format">Vor %1$s</string>
   <string name="china_mobile_palm_category">Betreiber-Service</string>
@@ -787,13 +787,13 @@ Abtastrate"</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN Assistent</string>
   <string name="connection_service_default_label">Integrierter Verbindungsdienst</string>
-  <string name="contactAddFailed">Kontakt konnte nicht zu SIM hinzugefügt werden</string>
+  <string name="contactAddFailed">Kontakt wurde nicht zur SIM hinzugefügt</string>
   <string name="contactAddSuccess">Kontakt zu SIM hinzugefügt</string>
   <string name="contactPhoto">Kontaktfoto</string>
   <string name="contactScreen">SIM-Kontakte verwalten</string>
-  <string name="contactUpdateFailed">SIM-Kontakt konnte nicht aktualisiert werden</string>
+  <string name="contactUpdateFailed">SIM-Kontakt wurde nicht aktualisiert</string>
   <string name="contactUpdateSuccess">SIM-Kontakt erfolgreich aktualisiert</string>
-  <string name="contactdeleteFailed">SIM-Kontakt konnte nicht gelöscht werden</string>
+  <string name="contactdeleteFailed">SIM-Kontakt wurde nicht gelöscht</string>
   <string name="contactdeleteSuccess">SIM-Kontakt erfolgreich gelöscht</string>
   <string name="content_description_menu_button">Menü</string>
   <string name="convert_to_fbe_warning">"Datenpartition wird in dateibasierte Verschlüsselung konvertiert.
@@ -1162,7 +1162,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="full_forwarding_option_off">AUS</string>
   <string name="full_forwarding_option_voicemail">Sprachnachricht</string>
   <string name="full_forwarding_settings">Vollständige Weiterleitung</string>
-  <string name="fw_change_failed">"Rufumleitungsnummer konnte nicht geändert werden.
+  <string name="fw_change_failed">"Rufumleitungsnummer wurde nicht geändert.
 Kontaktieren Sie Ihren Mobilfunkanbieter, falls das Problem weiterhin besteht."</string>
   <string name="fw_get_in_vm_failed">"Aktuelle Rufumleitungseinstellungen wurden nicht empfangen oder gespeichert.
 Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
@@ -1733,7 +1733,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
   <string name="osu_sign_up_failed">Anmeldung wurde nicht abgeschlossen. Zum Wiederholen tippen.</string>
   <string name="ota_activate">Aktivieren</string>
   <string name="ota_call_end">Zurück</string>
-  <string name="ota_failure">Ihr Telefon konnte nicht programmiert werden.</string>
+  <string name="ota_failure">Ihr Telefon wurde nicht programmiert.</string>
   <string name="ota_hfa_activation_dialog_message">Mobiler Datendienst wird jetzt auf Ihrem Telefon aktiviert.
   Dies kann bis zu 5 Minuten dauern.</string>
   <string name="ota_hfa_activation_title">Aktivieren…</string>
@@ -2605,8 +2605,8 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
   <string name="tuesday_shortest">D</string>
-  <string name="turn_off_dual_4g_failed">Dual 4G konnte nicht ausgeschaltet werden</string>
-  <string name="turn_on_dual_4g_failed">Dual 4G konnte nicht aktiviert werden</string>
+  <string name="turn_off_dual_4g_failed">Dual 4G wurde nicht ausgeschaltet</string>
+  <string name="turn_on_dual_4g_failed">Dual 4G wurde nicht aktiviert</string>
   <string name="turnover_mute_summary">Wenn sich das Telefon auf einer horizontalen Fläche mit dem Bildschirm nach oben befindet, drehen sie es um, dann wird der Ton, die Vibration und die Benachrichtigungsleuchte ausgeschaltet.</string>
   <string name="turnover_mute_title">Umdrehen für lautlos</string>
   <string name="unblock_pin2">PIN2 entsperren</string>

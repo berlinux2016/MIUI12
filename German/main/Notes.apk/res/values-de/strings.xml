@@ -35,7 +35,7 @@
   <string name="alert_message_delete_excerpt">Diese Notiz löschen? Der Auszug wird ebenfalls gelöscht.</string>
   <string name="alert_message_delete_note">Diese Notiz löschen?</string>
   <string name="alert_message_edit_anyway">Diese Notiz enthält nicht unterstützte Inhalte. Bearbeiten kann zu Datenverlust führen.</string>
-  <string name="alert_message_restore">Diese Notiz konnte nicht geöffnet werden. Sie muss wiederhergestellt werden, um den Inhalt bearbeiten zu können.</string>
+  <string name="alert_message_restore">Diese Notiz wurde nicht geöffnet. Sie muss wiederhergestellt werden, um den Inhalt bearbeiten zu können.</string>
   <string name="alert_title_delete">Notiz löschen?</string>
   <string name="alert_title_edit_anyway">Bearbeiten kann zu Datenverlust führen. Wirklich bearbeiten?</string>
   <string name="alert_title_hidden_note">Eine versteckte Notizerinnerung erhalten</string>

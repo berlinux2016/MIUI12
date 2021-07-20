@@ -207,9 +207,9 @@
   <string name="continue_backup">Fortsetzen</string>
   <string name="copy">Kopieren</string>
   <string name="cp_info_first">Streamingdienst wird von Ultimate Inc. bereitgestellt</string>
-  <string name="create_order_fail">Auftrag konnte nicht erstellt werden, versuchen Sie erneut</string>
+  <string name="create_order_fail">Auftrag wurde nicht erstellt, versuchen Sie erneut</string>
   <string name="create_playlist">Wiedergabeliste erstellen</string>
-  <string name="create_playlist_failure">Wiedergabeliste konnte nicht erstellt werden</string>
+  <string name="create_playlist_failure">Wiedergabeliste wurde nicht erstellt</string>
   <string name="create_playlist_input_hint">Wiedergabelistenname eingeben</string>
   <string name="cta_dialog_text_new_user">Lesen und akzeptieren Sie unsere %1$sNutzervereinbarung%2$s und %3$sDatenschutzerklärung%4$s.</string>
   <string name="current_album">Aktuelles Album</string>
@@ -289,7 +289,7 @@
   <string name="dialog_title_queued_body">Datei noch nicht verfügbar</string>
   <string name="dialog_title_remove_tracks">Entfernen</string>
   <string name="disable_auto_payment_fail">Deaktivierung nicht möglich</string>
-  <string name="disable_auto_payment_fail_message">Automatische Verlängerung konnte nicht deaktiviert werden</string>
+  <string name="disable_auto_payment_fail_message">Automatische Verlängerung wurde nicht deaktiviert</string>
   <string name="disable_auto_payment_success">Deaktiviert</string>
   <string name="disable_auto_payment_success_message">Automatische Verlängerung deaktiviert. Nach dem Ablauf Ihres Abonnements müssen Sie sich erneut anmelden, um wieder Musik herunterladen zu können.</string>
   <string name="disallow_add_to_fm">Titel können nicht von UKW-Radiosendern hinzugefügt werden.</string>
@@ -376,7 +376,7 @@
   <string name="empty_page_no_album">Keine Alben</string>
   <string name="empty_page_no_artist">Keine Interpreten</string>
   <string name="enable_auto_payment_fail">Aktivieren nicht möglich</string>
-  <string name="enable_auto_payment_fail_message">Automatische Verlängerung konnte nicht aktiviert werden</string>
+  <string name="enable_auto_payment_fail_message">Automatische Verlängerung wurde nicht aktiviert</string>
   <string name="enable_auto_payment_success">Automatisch verlängern</string>
   <string name="enable_auto_payment_success_message">Automatische Verlängerung wurde aktiviert. Nächste Zahlung ist fällig am %s.</string>
   <string name="enabled">Aktiviert</string>
@@ -676,7 +676,7 @@
   <string name="login_mi_account_and_gain_more_rights">Mit Mi-Konto anmelden, um auf weitere Funktionen zuzugreifen</string>
   <string name="long_press_to_select_lyric">Gedrückt halten, um die lokale Songtextdatei auszuwählen</string>
   <string name="low_sound_quality">Niedrig</string>
-  <string name="lrc_search_failed">Songtext konnte nicht gefunden werden</string>
+  <string name="lrc_search_failed">Songtext wurde nicht gefunden</string>
   <string name="lrc_searching">Suchen…</string>
   <string name="lyric_is_empty">Keine Songtexte verfügbar</string>
   <string name="lyric_label">Songtexte</string>
@@ -1078,7 +1078,7 @@ Glücklich sein."</string>
   <string name="set_as_ring">Als Klingelton auswählen</string>
   <string name="set_online_home_subtitle">Online-Empfehlungen öffnen, wenn die App gestartet wird</string>
   <string name="set_online_home_title">Online-Empfehlungen beim Start anzeigen</string>
-  <string name="set_ringtones_failed">Klingelton konnte nicht eingestellt werden</string>
+  <string name="set_ringtones_failed">Klingelton wurde nicht eingestellt</string>
   <string name="set_ringtones_successful">%s als Klingelton eingestellt</string>
   <string name="setting_feature_setting">Funktionseinstellung</string>
   <string name="settings">Einstellungen</string>

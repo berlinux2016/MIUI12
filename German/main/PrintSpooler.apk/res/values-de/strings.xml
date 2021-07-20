@@ -205,7 +205,7 @@
   <string name="print_services_disabled_toast">Einige Druckdienste sind deaktiviert</string>
   <string name="print_submited">Druckbereit</string>
   <string name="print_title">Drucken…</string>
-  <string name="print_write_error_message">Datei konnte nicht erstellt werden</string>
+  <string name="print_write_error_message">Datei wurde nicht erstellt</string>
   <string name="printer">Drucker</string>
   <string name="printer_busy">Drucker ist beschäftigt</string>
   <string name="printer_error">Druckerfehler</string>

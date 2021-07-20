@@ -239,7 +239,7 @@
   <string name="copyright_song_ten_thousand">%1$s k</string>
   <string name="cp_frequency_error">zu oft</string>
   <string name="cp_other_error">Dieses Element ist derzeit aus Copyright-Gründen nicht verfügbar. Bleiben Sie dran!</string>
-  <string name="create_order_fail">Bestellung konnte nicht erstellt werden, erneut versuchen.</string>
+  <string name="create_order_fail">Bestellung wurde nicht erstellt, erneut versuchen.</string>
   <string name="create_playlist">Wiedergabeliste erstellen</string>
   <string name="create_playlist_failure">Wiedergabeliste erstellen fehlgeschlagen</string>
   <string name="cross_talk">Stand-up Comedy</string>
@@ -265,7 +265,7 @@ Um normal arbeiten zu können, benötigt diese App eine Internetverbindung und d
 "</string>
   <string name="default_songtab_name">Wiedergabelistenkategorien</string>
   <string name="delete">Löschen</string>
-  <string name="delete_comment_failed">Kommentar konnte nicht gelöscht werden</string>
+  <string name="delete_comment_failed">Kommentar wurde nicht gelöscht</string>
   <string name="delete_comment_successfully">Kommentar erfolgreich gelöscht</string>
   <string name="delete_download">Löschen</string>
   <string name="delete_downloads_records">Downloads löschen</string>
@@ -289,7 +289,7 @@ Diesen Code bitte an den Techniker senden."</string>
   <string name="dialog_confirm_delete_checkbox_message">Auch lokale Dateien löschen</string>
   <string name="dialog_failed_body">Später versuchen herunterzuladen oder die Datei aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Herunterladen fehlgeschlagen, Datei existiert bereits.</string>
-  <string name="dialog_file_missing_body">Heruntergeladene Datei konnte nicht gefunden werden.</string>
+  <string name="dialog_file_missing_body">Heruntergeladene Datei wurde nicht gefunden.</string>
   <string name="dialog_file_missing_title">Datei öffnen fehlgeschlagen</string>
   <string name="dialog_insufficient_space_on_cache">Nicht genügend Platz auf internen Speicher</string>
   <string name="dialog_insufficient_space_on_external">Nicht genügend Platz auf externen Speicher</string>
@@ -314,7 +314,7 @@ Diesen Code bitte an den Techniker senden."</string>
   <string name="dialog_title_queued_body">Datei noch nicht verfügbar</string>
   <string name="dialog_title_remove_tracks">Entfernen</string>
   <string name="disable_auto_payment_fail">Ausschalten fehlgeschlagen</string>
-  <string name="disable_auto_payment_fail_message">Automatische Verlängerung konnte nicht ausgeschaltet werden</string>
+  <string name="disable_auto_payment_fail_message">Automatische Verlängerung wurde nicht ausgeschaltet</string>
   <string name="disable_auto_payment_success">Abgeschaltet</string>
   <string name="disable_auto_payment_success_message">Automatische Verlängerung wurde ausgeschaltet. Wenn Ihr aktuelles Abonnement abgelaufen ist, müssen Sie sich erneut anmelden, um Titel herunterzuladen.</string>
   <string name="disallow_add_to_fm">Titel kann nicht zum FM-Radio hinzugefügt werden</string>
@@ -953,7 +953,7 @@ Diesen Code bitte an den Techniker senden."</string>
   <string name="please_plug_headset">Kopfhörer verbinden</string>
   <string name="please_select_song">Zuerst einen Titel auswählen</string>
   <string name="poor_signal_due_to_no_headset">Kopfhörer anschließen, um das Signal zu verbessern</string>
-  <string name="post_comment_failed">Kommentar konnte nicht veröffentlicht werden</string>
+  <string name="post_comment_failed">Kommentar wurde nicht veröffentlicht</string>
   <string name="post_comment_success">Kommentar erfolgreich veröffentlicht</string>
   <string name="power_save_mode_dialog_msg">Stromsparmodus ist an. Jetzt mit dem Herunterladen beginnen?</string>
   <string name="pre_station">Vorheriger Sender</string>
@@ -1068,7 +1068,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="set_id3_not_have_read_or_write_permission">Sie haben keine Berechtigung, diese Datei zu bearbeiten.</string>
   <string name="set_id3_not_support_format">Dieses Dateiformat kann nicht bearbeitet werden</string>
   <string name="set_id3_successful">Titelinfo erfolgreich gespeichert</string>
-  <string name="set_ringtones_failed">Klingelton konnte nicht festgelegt werden</string>
+  <string name="set_ringtones_failed">Klingelton wurde nicht festgelegt</string>
   <string name="set_ringtones_successful">%s als Klingelton festlegen</string>
   <string name="set_success">Erfolgreich geändert</string>
   <string name="setting_feature_setting">Funktionseinstellungen</string>

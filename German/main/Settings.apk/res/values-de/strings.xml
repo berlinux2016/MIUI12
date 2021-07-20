@@ -409,7 +409,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
   <string name="add_fingerprint_done_title">Fertig</string>
   <string name="add_fingerprint_edge_instruction_msg">Bewegen Sie den Finger, damit der Sensor die Kanten des Fingerabdrucks aufnehmen kann</string>
   <string name="add_fingerprint_edge_instruction_title">Bewegen Sie Ihren Finger ein wenig</string>
-  <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es noch mal</string>
+  <string name="add_fingerprint_failed_retry_text">Fingerabdruck wurde nicht hinzugefügt, versuchen Sie es noch mal</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Home-Taste Ihres Geräts eingebaut</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
@@ -2563,7 +2563,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_miui_version_for_POCO">MIUI Version (Für POCO)</string>
   <string name="device_miui_version_parameters">MIUI-Version</string>
   <string name="device_name">Gerätename</string>
-  <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
+  <string name="device_name_input_error">Gerätename wurde nicht gespeichert</string>
   <string name="device_name_input_hint">Name eingeben</string>
   <string name="device_name_input_overlength">Wortgrenze überschritten</string>
   <string name="device_name_usage_point">Dieser Name wird bei Bluetooth-Verbindungen, Tethering usw. angezeigt</string>
@@ -3085,7 +3085,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="erase_sd_data">Emulierte SD-Karte formatieren</string>
   <string name="erase_sd_data_description">Beim Formatieren werden sämtliche Daten auf der SD-Karte gelöscht</string>
   <string name="erase_sure">Erforderlich</string>
-  <string name="err_acquire_system_service">Systemdienst konnte nicht gestartet werden</string>
+  <string name="err_acquire_system_service">Systemdienst wurde nicht gestartet</string>
   <string name="err_authentication_failed">Authentifikation fehlgeschlagen</string>
   <string name="err_bakfile_broken">Diese Sicherung kann nicht verwendet werden</string>
   <string name="err_bakfile_not_exist">Sicherungsdatei existiert nicht</string>
@@ -3212,13 +3212,13 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="factory_reset_summary">Alle Daten aus dem internen Telefonspeicher löschen</string>
   <string name="fail">Fehlgeschlagen</string>
   <string name="failed_description">Fehlgeschlagen</string>
-  <string name="failed_to_check_find_device_status_content">Status Gerät finden konnte nicht geprüft werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
-  <string name="failed_to_check_find_device_status_title">Status Gerät finden konnte nicht geprüft werden</string>
+  <string name="failed_to_check_find_device_status_content">Status Gerät finden wurde nicht geprüft. Einen Moment warten und erneut versuchen.</string>
+  <string name="failed_to_check_find_device_status_title">Status Gerät finden wurde nicht geprüft</string>
   <string name="failed_to_erase_text">Bitte Passwort für den Sperrbildschirm ausschalten, bevor Sie die Funktion \"1217\" eingeben.</string>
   <string name="failed_to_erase_title">Aktion kann nicht abgeschlossen werden</string>
   <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
-  <string name="failed_to_shut_down_find_device_content">Gerät finden konnte nicht deaktiviert werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
-  <string name="failed_to_shut_down_find_device_title">Gerät finden konnte nicht deaktiviert werden</string>
+  <string name="failed_to_shut_down_find_device_content">Gerät finden wurde nicht deaktiviert. Einen Moment warten und erneut versuchen.</string>
+  <string name="failed_to_shut_down_find_device_title">Gerät finden wurde nicht deaktiviert</string>
   <string name="fallback_home_title">Einen Moment…</string>
   <string name="fcc_equipment_id">Geräte-ID</string>
   <string name="feature_flags_dashboard_title">Merkmal-Flags</string>
@@ -3305,7 +3305,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_others_title">Andere</string>
   <string name="fingerprint_password_unlock">Fingerabdrücke &amp; Bildschirmsperre</string>
   <string name="fingerprint_payment">Fingerabdruckzahlung</string>
-  <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>
+  <string name="fingerprint_removal_failed">Fingerabdruck wurde nicht entfernt</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Benachrichtigungen schnell sehen</string>
   <string name="fingerprint_swipe_for_notifications_summary">Um Ihre Benachrichtigungen zu prüfen, tippen Sie auf den Fingerabdrucksensor auf der Rückseite Ihres Telefons.</string>
   <string name="fingerprint_swipe_for_notifications_title">Fingerabdruck wischen für Benachrichtigungen </string>
@@ -4019,7 +4019,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="internal_storage_sentence">Interner Speicher</string>
   <string name="internet_connectivity_panel_title">Internetkonnektivität</string>
   <string name="invalid_location">Installationspfad ungültig</string>
-  <string name="invalid_size_value">Paketgröße konnte nicht berechnet werden</string>
+  <string name="invalid_size_value">Paketgröße wurde nicht berechnet</string>
   <string name="ipv4_congertion_control">TCP-Überlaststeuerung wählen</string>
   <string name="ipv4_congertion_xontrol_chose">Algorithmus TCP-Überlaststeuerung</string>
   <string name="isv_settings_title">Intel Smart Video</string>
@@ -4729,7 +4729,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
 
 Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
   <string name="master_clear_erase_application_progress">Apps löschen…</string>
-  <string name="master_clear_failed">Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist</string>
+  <string name="master_clear_failed">Zurücksetzung wurde nicht durchgeführt, weil der Dienst zur Systembereinigung nicht verfügbar ist</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
   <string name="master_clear_final_desc">Alle persönlichen Daten und heruntergeladenen Apps löschen? Sie können diese Aktion nicht rückgängig machen.</string>
   <string name="master_clear_final_desc_esim">Alle Ihre persönlichen Daten, inkl. der heruntergeladenen Apps und SIMs, werden gelöscht. Sie können diese Aktion nicht rückgängig machen.</string>
@@ -5032,7 +5032,7 @@ Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
   <string name="miui_sos_exit_dialog_title">SOS-Notfallhilfe ausschalten</string>
   <string name="miui_sos_green_guard_summary">Standortinformationen in Echtzeit teilen</string>
   <string name="miui_sos_green_guard_title">Elterliche Kontrolle</string>
-  <string name="miui_sos_launch_error">SOS-Notfallhilfe konnte nicht aktiviert werden</string>
+  <string name="miui_sos_launch_error">SOS-Notfallhilfe wurde nicht aktiviert</string>
   <string name="miui_sos_launch_error_confirm">Verstanden</string>
   <string name="miui_sos_launch_error_message">Verbindung zum Mobilfunknetz ist nicht möglich. SOS-Notfallhilfe kann nicht verwendet werden.</string>
   <string name="miui_sos_launching_summary">Aktivierung SOS-Notfallhilfe in %ds</string>
@@ -5389,7 +5389,7 @@ Betriebssystem auswählen:"</string>
   <string name="network_id">Netzwerk-ID</string>
   <string name="network_lte">LTE (empfohlen)</string>
   <string name="network_name_displayed_summary">Netzwerkname in der Statusleiste anzeigen</string>
-  <string name="network_name_input_error">SSID konnte nicht gespeichert werden. Erneut versuchen.</string>
+  <string name="network_name_input_error">SSID wurde nicht gespeichert. Erneut versuchen.</string>
   <string name="network_operator_category">Netzwerk</string>
   <string name="network_operator_display_title">Mobilfunkanbieter anzeigen</string>
   <string name="network_operators_settings">Mobilfunkanbieter</string>
@@ -6315,7 +6315,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="privacy_authorize_revoke">Widerrufen</string>
   <string name="privacy_authorize_revoke_dialog_msg">Wenn Sie die Autorisierung widerrufen, stoppt die App die Datenerfassung, und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Autorisierung trotzdem widerrufen?</string>
   <string name="privacy_authorize_revoke_dialog_title">Berechtigung widerrufen</string>
-  <string name="privacy_authorize_revoke_failed">Autorisierung konnte nicht widerrufen werden.</string>
+  <string name="privacy_authorize_revoke_failed">Autorisierung wurde nicht widerrufen.</string>
   <string name="privacy_authorize_revoke_success">Berechtigung widerrufen erfolgreich</string>
   <string name="privacy_authorize_revoke_time">Widerrufen (%1$d Sek)</string>
   <string name="privacy_authorize_revoke_title">Autorisierung &amp; Widerruf</string>
@@ -6352,9 +6352,9 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="privacy_password_confirm_use_finger">Per Fingerabdruck entsperren</string>
   <string name="privacy_password_enter_privacy">Datenschutzpasswort eingeben</string>
   <string name="privacy_password_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
-  <string name="privacy_password_fingerprint_confirm_failed">Fingerabdruck konnte nicht verifiziert werden</string>
+  <string name="privacy_password_fingerprint_confirm_failed">Fingerabdruck wurde nicht verifiziert</string>
   <string name="privacy_password_fingerprint_confirm_succes">Fingerabdruck verifiziert</string>
-  <string name="privacy_password_fingerprint_dialog_error_title">Fingerabdruck konnte nicht gescannt werden, versuchen Sie es erneut</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">Fingerabdruck wurde nicht gescannt, versuchen Sie es erneut</string>
   <string name="privacy_password_fingerprint_dialog_message">Legen Sie Ihren Finger auf den Sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Fingerabdruck scannen</string>
   <string name="privacy_password_login_and_add_account">Anmelden &amp; Hinzufügen</string>
@@ -6533,7 +6533,7 @@ UT Interface: %5$s"</string>
   <string name="ram_total_size">Gesamtgröße RAM</string>
   <string name="rank_title">Rangliste</string>
   <string name="rarely_running">Läuft selten (%s)</string>
-  <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
+  <string name="read_encrypt_fail">Verschlüsselte Sicherung wurde nicht gelesen</string>
   <string name="reading_data">Info lesen…</string>
   <string name="reading_settings">Einstellungen lesen…</string>
   <string name="really_remove_account_message">Durch das Entfernen dieses Kontos werden alle Nachrichten, Kontakte und andere Daten vom Telefon gelöscht!</string>
@@ -7953,7 +7953,7 @@ Erst einrichten, um ^1 mit diesem Gerät zu verwenden."</string>
   <string name="storage_external_title">Tragbares Speichermedium</string>
   <string name="storage_files">Dateien</string>
   <string name="storage_format">Formatierung</string>
-  <string name="storage_format_failure">%1$s konnte nicht formatiert werden</string>
+  <string name="storage_format_failure">%1$s wurde nicht formatiert</string>
   <string name="storage_format_success">%1$s ist formatiert</string>
   <string name="storage_games">Spiele</string>
   <string name="storage_internal_forget_confirm">Alle Apps, Fotos und Daten, die ^1 enthält, gehen für immer verloren</string>
@@ -7990,7 +7990,7 @@ Alle Apps auf ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese
   <string name="storage_menu_rename">Umbenennen</string>
   <string name="storage_menu_set_up">Einrichten</string>
   <string name="storage_menu_unmount">Auswerfen</string>
-  <string name="storage_mount_failure">%1$s konnte nicht eingebunden werden</string>
+  <string name="storage_mount_failure">%1$s wurde nicht eingebunden</string>
   <string name="storage_mount_success">%1$s ist eingebunden</string>
   <string name="storage_movies_tv">Film- &amp; TV-Apps</string>
   <string name="storage_music_audio">Musik &amp; Audio</string>
@@ -8011,7 +8011,7 @@ Alle Apps auf ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese
   <string name="storage_title_usb">USB-Verbindung (PC)</string>
   <string name="storage_type_external">Externer Speicher</string>
   <string name="storage_type_internal">Interner Speicher</string>
-  <string name="storage_unmount_failure">%1$s konnte nicht sicher ausgeworfen werden</string>
+  <string name="storage_unmount_failure">%1$s wurde nicht sicher ausgeworfen</string>
   <string name="storage_unmount_success">%1$s wurde sicher ausgeworfen</string>
   <string name="storage_usb">USB-Speicher</string>
   <string name="storage_usb_settings">Speicher &amp; USB</string>
@@ -9874,7 +9874,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_p2p_disconnect_multiple_message">Wenn Sie trennen, wird Ihre Verbindung mit %1$s und %2$s anderen Geräten beendet</string>
   <string name="wifi_p2p_disconnect_title">Verbindung trennen?</string>
   <string name="wifi_p2p_failed_connect_message">Verbindung nicht möglich</string>
-  <string name="wifi_p2p_failed_rename_message">Gerät konnte nicht umbenannt werden</string>
+  <string name="wifi_p2p_failed_rename_message">Gerät wurde nicht umbenannt</string>
   <string name="wifi_p2p_menu_rename">Gerät umbenennen</string>
   <string name="wifi_p2p_menu_search">Nach Geräten suchen</string>
   <string name="wifi_p2p_menu_searching">Suchen….</string>

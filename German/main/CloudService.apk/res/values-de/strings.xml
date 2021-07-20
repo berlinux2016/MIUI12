@@ -327,7 +327,7 @@ Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
   <string name="micloud_find_device_guide_progress">Gerät finden aktivieren…</string>
   <string name="micloud_find_device_guide_title">Auf &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> anmelden, um Ihr Gerät zu lokalisieren, sperren oder löschen. Dies könnte Ihnen helfen, Ihr verlorenes Gerät zu finden.</string>
   <string name="micloud_find_device_inter_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> wird automatisch gesendet, um diesen Dienst zu aktivieren. Wenn Sie die SIM-Karte wechseln, wird &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> automatisch zur Reaktivierung versendet.&lt;br/>Alle SMS-Gebühren, die durch die oben genannten Aktionen entstehen, werden von Ihrem Anbieter eingezogen. Xiaomi wird Ihnen diese Nachrichten nicht in Rechnung stellen.</string>
-  <string name="micloud_find_device_open_fail">Gerät finden konnte nicht aktiviert werden</string>
+  <string name="micloud_find_device_open_fail">Gerät finden wurde nicht aktiviert</string>
   <string name="micloud_find_device_opened">Gerät finden ist an</string>
   <string name="micloud_find_device_opened_content">Lokalisieren Sie Ihr Gerät auf %s</string>
   <string name="micloud_find_device_sms_alert">Zur Aktivierung dieses Dienstes kann eine ausgehende SMS-Nachricht erforderlich sein. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen. Wenn Sie Ihre SIM-Karte wechseln, wird möglicherweise automatisch eine Nachricht gesendet, um diese Funktion wieder zu aktivieren.</string>
@@ -726,7 +726,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
   <string name="quick_service_maintenance_price_title">Reparaturen</string>
   <string name="quick_service_title">Schnellservice</string>
   <string name="reading_status">Status laden…</string>
-  <string name="reading_status_failure">Status konnte nicht geladen werden</string>
+  <string name="reading_status_failure">Status wurde nicht geladen</string>
   <string name="recommend_open_all_sync">Alle Inhalte synchronisieren</string>
   <string name="recommend_service_cloudservice_description">Synchronisieren von System-App-Daten, Sichern von Einstellungen, Startbildschirm-Layout und mehr</string>
   <string name="recommend_service_sharelocation_description">Lokalisieren, sperren und löschen Sie Daten auf verlorenen Geräten und teilen Sie den Standort mit Ihren Freunden und Ihrer Familie</string>
