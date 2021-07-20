@@ -3345,6 +3345,8 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter aus ist.</string>
   <string name="firmware_version">Android-Version</string>
+  <string name="fiveg_sa_switch_summary">SA-Netzwerk auf sekundärer SIM verwenden (nur zum Testen)</string>
+  <string name="fiveg_sa_vice_switch_title">SA auf sekundärer SIM</string>
   <string name="fiveg_switch_title">5G Netzwerk</string>
   <string name="flash_drive_backup_btn">Sichern auf USB-Laufwerk</string>
   <string name="flash_drive_backup_disable">Zuerst USB-Laufwerk anschließen</string>

@@ -202,6 +202,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
   <string name="cit_button_light_off">Beleuchtete Tasten AUS</string>
   <string name="cit_button_light_on">Beleuchtete Tasten AN</string>
   <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
+  <string name="cit_calibration_finish">Schreiben der Kalibrierungsdaten abgeschlossen</string>
   <string name="cit_calibration_pass">Kalibrierung bestanden</string>
   <string name="cit_camera_cali_title">Kamera-Kalibrierungstest</string>
   <string name="cit_camera_calibration_summary">"Testanleitung:
@@ -727,6 +728,13 @@ Test fehlgeschlagen!"</string>
   <string name="cit_usb_OTG_plug_re_plugin">USB OTG-Test abgeschlossen, erneuter Test nicht nötig</string>
   <string name="cit_usb_charger_in">Über USB laden</string>
   <string name="cit_usb_charger_out">USB-Ladegerät entfernt</string>
+  <string name="cit_uwb_calibrate_color_black">Schwarz</string>
+  <string name="cit_uwb_calibrate_color_cali_tip">Bitte wählen Sie die hintere Hülle des Geräts, bevor Sie die Datenkalibrierung durchführen</string>
+  <string name="cit_uwb_calibrate_color_gray">Grau</string>
+  <string name="cit_uwb_calibrate_color_white">Weiß</string>
+  <string name="cit_uwb_calibrate_data_cali_tip">Datenkalibrierung</string>
+  <string name="cit_uwb_calibrate_summary">Dieser Test ist für Wartungstechniker gedacht, bitte nutzen Sie ihn mit Bedacht</string>
+  <string name="cit_uwb_calibrate_title">UWB-Kalibrierungstest</string>
   <string name="cit_version_check_summary">Unten finden Sie Informationen zur OS-Version. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
   <string name="cit_version_check_title">Versionsinfo prüfen</string>
   <string name="cit_vga_camera_cameraid_fail">Fehler: cameraid nicht konfiguriert</string>
@@ -757,6 +765,7 @@ Bestätigen Sie, dass die Farben auf dem gesamten Bildschirm einheitlich dargest
   <string name="cit_wifi_address_check_title">WLAN-Adresse</string>
   <string name="cit_wifi_address_error">WLAN-Adresse nicht erhalten. Stellen Sie sicher, dass WLAN aktiviert ist.</string>
   <string name="cit_wifi_ap_scan_check_summary">Nachfolgend finden Sie die WLAN-AP-Informationen der erkannten Geräte in der Umgebung. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
+  <string name="cit_wifi_ap_scan_check_title">WLAN-AP-Scan</string>
   <string name="cit_wifi_ap_scan_retry">Erneut scannen…</string>
   <string name="cit_wifi_ap_scanning">Scannen…</string>
   <string name="cit_wifi_fail_to_scan">Nach Netzwerken scannen nicht möglich</string>

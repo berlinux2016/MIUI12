@@ -1100,7 +1100,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="fiveg_restrict_dcnr1">DCNR beschränken:</string>
   <string name="fiveg_sa_switch_open_dialog_content">5G-Verbindung kann im Standalone-Modus instabil sein, was sich auf die Telefonie auswirken kann. SA-Modus trotzdem einschalten?</string>
   <string name="fiveg_sa_switch_open_dialog_title">Achtung</string>
-  <string name="fiveg_sa_switch_summary">Verbindung mit 5G im Standalone-Modus zulassen</string>
+  <string name="fiveg_sa_switch_summary">SA-Netzwerk auf sekundärer SIM verwenden (nur zum Testen)</string>
   <string name="fiveg_sa_switch_title">SA-Netzwerk nutzen</string>
   <string name="fiveg_sa_switch_title_slot0">SIM %d SA-Modus</string>
   <string name="fiveg_sa_switch_title_slot1">SIM %d SA-Modus</string>

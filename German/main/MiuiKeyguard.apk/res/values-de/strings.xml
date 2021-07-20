@@ -187,11 +187,11 @@ innerhalb des Kreises befindet"</string>
   <string name="phone_locked_foget_password_header">Was soll ich tun, wenn ich mein Passwort vergessen habe?</string>
   <string name="phone_locked_foget_password_mehod_back">Zurück</string>
   <string name="phone_locked_foget_password_method">Passwort vergessen?</string>
-  <string name="phone_locked_foget_password_method_content"><Data>Sie müssen &lt;font color=#a5220e>alle Daten &lt;/font> auf Ihrem Telefon löschen., including photos and contacts, and then set a new Lock screen password.</Data></string>
+  <string name="phone_locked_foget_password_method_content"><Data>Sie müssen &lt;font color=#a5220e>alle Daten&lt;/font> auf Ihrem Telefon löschen, inkl. Fotos und Kontakte, und dann ein neues Passwort für die Bildschirmsperre festlegen.</Data></string>
   <string name="phone_locked_foget_password_method_next">Weiter</string>
   <string name="phone_locked_foget_password_ok">Verstanden</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Gleichzeitig &lt;font color=#e6e6e6&gt;[Power-Taste]&lt;/font&gt; und &lt;font color=#e6e6e6&gt;[Laustärke+]&lt;/font&gt;gedrückt halten, bis Sie das Mi Logo sehen&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Wählen Sie &lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; und warten Sie, bis das Telefon neu gestartet wird&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Gerät ausschalten, dann die Tasten &lt;font color=#e6e6e6>[Power]&lt;/font> und &lt;font color=#e6e6e6>[Lautstärke +]&lt;/font> drücken und gedrückt halten, bis Sie &lt;img src="\">.</Data> sehen.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; wählen und warten, bis das Telefon neu startet.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="phone_locked_string">Dieses Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %d Minuten erneut versuchen</string>
