@@ -842,8 +842,20 @@ um den Akku zu schonen"</item>
     <item quantity="other">%d Viren entfernt</item>
     <item quantity="one">%d Virus entfernt</item>
   </plurals>
+  <plurals name="sim_lock_puk_dialog_message">
+    <item quantity="other">Sie haben nur noch %d Versuche, Ihren SIM-PUK zu verifizieren. Wenn Sie das Limit für die Eingabe falscher PUKs erreichen, wird Ihre SIM-Karte gesperrt. Trotzdem fortfahren?</item>
+    <item quantity="one">Sie haben nur noch %d Versuch, Ihren SIM-PUK zu verifizieren. Wenn Sie das Limit für die Eingabe falscher PUKs erreichen, wird Ihre SIM-Karte gesperrt. Trotzdem fortfahren?</item>
+  </plurals>
+  <plurals name="simlock_set_pin_error">
+    <item quantity="other">Die eingegebene PIN ist falsch. %d Versuche bleiben.</item>
+    <item quantity="one">Die eingegebene PIN ist falsch. %d Versuch bleibt.</item>
+  </plurals>
   <plurals name="simlock_set_pin_tips">
     <item quantity="other">Bitte SIM-PIN eingeben. Sie haben noch %d Versuche.</item>
+  </plurals>
+  <plurals name="simlock_set_puk_error">
+    <item quantity="other">SIM-PUK eingeben. %d Versuche bleiben.</item>
+    <item quantity="one">SIM-PUK eingeben. %d Versuche bleibt.</item>
   </plurals>
   <plurals name="simlock_set_puk_tips">
     <item quantity="other">Bitte SIM-PUK eingeben. Sie haben noch %d Versuche.</item>

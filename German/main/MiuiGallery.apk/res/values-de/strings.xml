@@ -2740,7 +2740,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="welcome_to_micloud">Willkommen bei Xiaomi Cloud</string>
   <string name="where_is_barcode">Wo ist der QR-Code?</string>
   <string name="who_is_this">Wer?</string>
-  <string name="widget_custom_store_detail_desc">Die Bilder wählen, die Sie sehen möchten</string>
+  <string name="widget_custom_store_detail_desc">Bilder wählen, die Sie sehen möchten</string>
   <string name="widget_editor_confirm">Fertig</string>
   <string name="widget_editor_reselect">Erneut wählen</string>
   <string name="widget_editor_title">Bearbeiten</string>
