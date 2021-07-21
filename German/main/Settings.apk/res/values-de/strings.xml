@@ -4239,6 +4239,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="launch_noapp_dialog_replace">Einstellungen</string>
   <string name="launch_notification_center">Benachrichtigungsleiste</string>
   <string name="launch_recents">Zuletzt verwendet</string>
+  <string name="launch_smarthome">Xiaomi Magische Steuerung</string>
   <string name="launch_voice_assistant">Sprachassistenten starten</string>
   <string name="launch_wechat_health_code">WeChat-Gesundheitscode</string>
   <string name="launch_wechat_health_code_auto_close">Verknüpfung zum WeChat-Gesundheitscode ist nicht mehr verfügbar. Sie können zu einer anderen Verknüpfung wechseln.</string>
