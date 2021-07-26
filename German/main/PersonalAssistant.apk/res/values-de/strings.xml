@@ -479,6 +479,12 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_news_default_title">Neuigkeiten</string>
   <string name="app_note_add">Hinzufügen</string>
   <string name="app_note_title_empty">Notizen</string>
+  <string name="app_olympic_card_service_des">Ranglisten werden in Echtzeit aktualisiert</string>
+  <string name="app_olympic_card_service_title">Medaillenspiegel Olympia</string>
+  <string name="app_olympic_card_title">Medaillenspiegel Olympia</string>
+  <string name="app_olympic_card_title_info">Daten werden von Drittanbietern bereitgestellt, es kann zu Verzögerungen kommen</string>
+  <string name="app_olympic_gold_medal_country_region">Team</string>
+  <string name="app_olympic_gold_medal_total">Gesamt</string>
   <string name="app_pa_more">Weitere</string>
   <string name="app_pa_search">Suchen</string>
   <string name="app_pa_setting_global_display">Bildschirm</string>
