@@ -376,6 +376,10 @@
     <item quantity="other">%d Fotos übersprungen, die nicht auf dem Gerät sind</item>
     <item quantity="one">%d Foto übersprungen, das nicht auf dem Gerät ist</item>
   </plurals>
+  <plurals name="photo_editor_talkback_crop_scale_value">
+    <item quantity="other">%d Grad drehen</item>
+    <item quantity="one">%d Grad drehen</item>
+  </plurals>
   <plurals name="quickly_discovery_message_format">
     <item quantity="other">%1$d neue Fotos gefunden</item>
     <item quantity="one">%1$d neues Foto gefunden</item>
@@ -512,13 +516,33 @@
     <item quantity="other">%d Fotos optimiert</item>
     <item quantity="one">%d Foto optimiert</item>
   </plurals>
+  <plurals name="slim_complete_photo_count_v2">
+    <item quantity="other">%d Fotos optimiert</item>
+    <item quantity="one">%d Foto optimiert</item>
+  </plurals>
+  <plurals name="slim_complete_video_count">
+    <item quantity="other">%d Videos optimiert</item>
+    <item quantity="one">%d Video optimiert</item>
+  </plurals>
   <plurals name="slim_exit_dialog_message">
     <item quantity="other">%d Fotos wurden nicht optimiert. Jetzt aufhören?</item>
     <item quantity="one">%d Foto wurde nicht optimiert. Jetzt aufhören?</item>
   </plurals>
+  <plurals name="slim_photo_count">
+    <item quantity="other">%d Fotos</item>
+    <item quantity="one">%d Foto</item>
+  </plurals>
   <plurals name="slim_remain_photo_count">
     <item quantity="other">%d Fotos übrig</item>
     <item quantity="one">%d Foto übrig</item>
+  </plurals>
+  <plurals name="slim_remain_photo_count_v2">
+    <item quantity="other">%d zu optimierende Elemente übrig</item>
+    <item quantity="one">%d zu optimierende Element übrig</item>
+  </plurals>
+  <plurals name="slim_videos_count">
+    <item quantity="other">%d Videos</item>
+    <item quantity="one">%d Video</item>
   </plurals>
   <plurals name="sync_error_title">
     <item quantity="other">%d Fotos/Videos wurden nicht gesichert</item>

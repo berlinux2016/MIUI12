@@ -139,6 +139,7 @@
   <string name="album_rubbish_page_title">Papierkorb</string>
   <string name="album_rubbish_tip_title">Eventuell überflüssige Alben</string>
   <string name="album_screen_recorder">Bildschirmaufnahme</string>
+  <string name="album_screenshot_and_screen_recorder_name">Screenshots &amp; Bildschirmaufnahmen</string>
   <string name="album_share_cant_move_to_rubbish_tip">Geteilte Alben in den Papierkorb verschieben nicht möglich</string>
   <string name="album_share_exit_confirm">Album schließen?</string>
   <string name="album_share_kicked">%1$s ist geschlossen</string>
@@ -199,6 +200,7 @@
   <string name="art_still_load_data_fail">Daten laden fehlgeschlagen</string>
   <string name="art_still_module_finish">\"Kunst\"-Plugin erfolgreich heruntergeladen</string>
   <string name="art_still_module_loading">\"Kunst\"-Plugin herunterladen…</string>
+  <string name="assistant_page_community">Gemeinschaft</string>
   <string name="assistant_page_discovery">Entdecken</string>
   <string name="assistant_page_label">Momente</string>
   <string name="assistant_page_server_error">Netzwerkeinstellungen prüfen</string>
@@ -730,6 +732,7 @@
   <string name="error_unknown_msg">Ein Fehler ist aufgetreten. Senden Sie uns ein Feedback.</string>
   <string name="error_unknown_tip">Ein Fehler ist aufgetreten</string>
   <string name="evening">Nachmittag</string>
+  <string name="exif_title_smart_fusion">Bildverbesserung:</string>
   <string name="exit">Beenden</string>
   <string name="exit_choice_mode">Teilen-Dialog beendet</string>
   <string name="exit_share">Album beenden</string>
@@ -2036,8 +2039,16 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="slideshow_interval_title">Jedes Foto anzeigen für</string>
   <string name="slideshow_interval_value">%1$d Sekunden</string>
   <string name="slideshow_loop_title">Schleife für alle Dias</string>
+  <string name="slim_action">Optimieren</string>
+  <string name="slim_action_auto_backup">Einschalten</string>
+  <string name="slim_action_auto_backup_disable_description">Originalfotos und -videos in der Cloud speichern und gleichzeitig kleinere, hochwertige Kopien auf diesem Gerät behalten.</string>
+  <string name="slim_action_auto_backup_enable_description">Elemente in die Cloud hochladen…</string>
+  <string name="slim_action_auto_backup_sub_tip">Speicherplatz freigeben</string>
+  <string name="slim_action_auto_backup_tip">Synchronisierung mit der Cloud einschalten</string>
   <string name="slim_complete">Fertig</string>
   <string name="slim_complete_action_title">Erfolgreich optimiert</string>
+  <string name="slim_complete_count">"%1$s und %2$s optimiert "</string>
+  <string name="slim_complete_download_tip">Hochwertige Kopien werden automatisch anstelle der Originale heruntergeladen.</string>
   <string name="slim_cost_time_minute">%dm übrig</string>
   <string name="slim_cost_time_minute_and_second">%1$dm %2$ds übrig</string>
   <string name="slim_cost_time_second">%ds übrig</string>
@@ -2045,10 +2056,20 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="slim_description_dialog_ok">Fertig</string>
   <string name="slim_description_dialog_slim_after">Danach: %d KB</string>
   <string name="slim_description_dialog_slim_before">Davor: %.2f MB</string>
+  <string name="slim_dialog_empty_message">Keine Elemente zum Optimieren vorhanden.</string>
+  <string name="slim_dialog_empty_positive">Verstanden</string>
+  <string name="slim_dialog_empty_title">Attention</string>
+  <string name="slim_dialog_message" formatted="false">Originalfotos und -videos durch hochwertige Kopien %d Tage nach der Erstellung der Elemente ersetzen. Die Originaldateien werden in der Cloud gespeichert. Sie können etwa %s an lokalem Speicherplatz freigeben.</string>
+  <string name="slim_dialog_positive">Optimieren</string>
+  <string name="slim_dialog_title">Speicher optimieren</string>
   <string name="slim_exit_dialog_positive">Abbrechen</string>
   <string name="slim_exit_dialog_title">Optimierung abbrechen</string>
+  <string name="slim_preference_scanning">Fotos und Videos analysieren…</string>
+  <string name="slim_preference_summery">Originalfotos und -videos in der Cloud speichern, während kleinere, hochwertige Kopien auf diesem Gerät aufbewahrt werden. Kleinere Kopien ersetzen die Originaldateien %d Tage nach der Erstellung der Elemente.</string>
+  <string name="slim_preference_title">Speicher optimieren</string>
   <string name="slim_running">Optimieren…</string>
   <string name="slim_space">freigegeben</string>
+  <string name="slim_stop_v2">Stopp</string>
   <string name="slim_stop">Optimierung anhalten</string>
   <string name="solar_term_autumn_begins">Herbstanfang</string>
   <string name="solar_term_autumn_equinox">Herbsttagundnachtgleiche</string>
