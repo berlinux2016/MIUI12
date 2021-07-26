@@ -46,6 +46,8 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
   <string name="evening">Nachmittag</string>
   <string name="expand_button_title">Erweitert</string>
   <string name="find_device">Gerät finden</string>
+  <string name="find_device_capture_done_notification_content">Sie können die aufgenommenen Fotos in der Suchfunktion von i.mi.com anzeigen, indem Sie sich am Gerät anmelden</string>
+  <string name="find_device_capture_done_notification_title">Herausfinden, ob das Telefon Bilder aus der Ferne aufnehmen beendet hat</string>
   <string name="find_device_capture_notification_content">Das am Telefon angemeldete Konto bedient i.mi.com aus der Ferne, um das Mobiltelefon zu finden und Bilder aufzunehmen. Tippen, um mehr zu sehen.</string>
   <string name="find_device_capture_notification_title">Herausfinden, ob das Telefon Bilder aus der Ferne aufnimmt</string>
   <string name="find_device_crash">Gerät finden wurde unerwartet beendet</string>

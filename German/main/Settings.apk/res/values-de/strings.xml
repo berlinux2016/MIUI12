@@ -5860,6 +5860,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="pad_backup_summary">Sichern und Wiederherstellen von Elementen auf diesem Gerät</string>
   <string name="pad_backup_title">Mobilgerät</string>
   <string name="pad_computer_backup_summary">Sichern und Wiederherstellen von Elementen mit einem Computer</string>
+  <string name="pad_flash_drive_backup_enable">USB-Laufwerk zum Sichern oder Wiederherstellen von Elementen verwenden</string>
   <string name="pad_how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem Mobilgerät, Computer oder USB-Laufwerk gespeichert werden.
 
 Mobilgerät

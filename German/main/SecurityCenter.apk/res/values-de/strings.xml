@@ -3613,8 +3613,8 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="read_clipboard_op_title">Benachrichtigen, wenn Apps auf Elemente in der Zwischenablage zugreifen</string>
   <string name="read_clipboard_tip_content">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Informationen enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
   <string name="read_clipboard_tip_title">Zugriff auf Elemente in der Zwischenablage</string>
-  <string name="real_location_off">Genauer Standort ist aus</string>
-  <string name="real_location_on">Genauer Standort ist an</string>
+  <string name="real_location_off">Ungefährer Standort ist an</string>
+  <string name="real_location_on">Ungefährer Standort ist aus</string>
   <string name="receive_now">Erhalten</string>
   <string name="recently_reject_message">Installation von %1$s und %2$d weiteren Apps verweigert</string>
   <string name="recently_reject_message_one">Installationsanfrage von %1$s verweigert</string>

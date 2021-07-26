@@ -447,6 +447,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="passport_error_ssl_hand_shake">Netzwerkverbindung fehlgeschlagen</string>
   <string name="passport_error_unknown">Unbekannter Fehler</string>
   <string name="passport_error_user_name">Ungültiger Benutzername</string>
+  <string name="passport_error_user_agreement_error">Zuerst den Bedingungen zustimmen</string>
   <string name="passport_error_verify_activator_phone_message">Stellen Sie sicher, dass die SIM-Karte aktiv und Ihr Gerät mit dem Internet verbunden ist</string>
   <string name="passport_error_verify_activator_phone_title">Nummer wurde nicht verifiziert</string>
   <string name="passport_extra_gdpr_license">Erstellen Ihres Mi-Kontos bedeutet, dass Sie damit einverstanden sind, dass Xiaomi Ihre persönlichen Daten sammelt, verarbeitet und nutzt, inkl. Verifizierungsdaten (z. B. Verifizierungscodes), Zweitprofildaten (z. B. Informationen über die Art und Weise, wie Sie das Zweitprofil nutzen, IDs, die im Haupt- und Zweitprofil verwendet werden) und andere Daten, die in unserer Datenschutzerklärung angegeben sind. In unserer Datenschutzerklärung erfahren Sie, wie wir personenbezogene Daten verarbeiten und nutzen.</string>

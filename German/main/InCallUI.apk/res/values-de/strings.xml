@@ -182,7 +182,7 @@
   <string name="incall_error_supp_service_transfer">Anruf weiterleiten nicht möglich</string>
   <string name="incall_error_supp_service_unknown">Nicht unterstützter Dienst</string>
   <string name="incoming_answer_voice_text">Sprachantwort</string>
-  <string name="incoming_call_forwarded_title">Ankommenden Anruf weiterleiten</string>
+  <string name="incoming_call_forwarded_title">Weitergeleiteter Anruf</string>
   <string name="incoming_circle_text_answer">Freigeben</string>
   <string name="incoming_circle_text_answer_p">Hochwischen</string>
   <string name="incoming_circle_text_message">Freigeben</string>
