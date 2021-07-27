@@ -2648,6 +2648,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disable_overlays">HW-Overlays ausschalten</string>
   <string name="disable_overlays_summary">Immer GPU zur Darstellung verwenden</string>
   <string name="disable_power_key_long_press_under_keyguard">Powertaste deaktivieren</string>
+  <string name="disable_quick_start">Schnellstart ausschalten</string>
   <string name="disable_service_message">Wenn Sie OK drücken, wird %1$s beendet</string>
   <string name="disable_service_title">%1$s beenden?</string>
   <string name="disable_text">Deaktivieren</string>
@@ -2929,6 +2930,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="enable_multi_window_summary">Mehrere Aktivitäten gleichzeitig am Bildschirm anzeigen</string>
   <string name="enable_opengl_traces_title">OpenGL-Traces einschalten</string>
   <string name="enable_quick_setting">Schnelleinstellungen anzeigen lassen</string>
+  <string name="enable_quick_start">Schnellstart einschalten</string>
   <string name="enable_receiving_mms_notification_title">Eingehende MMS-Nachricht</string>
   <string name="enable_screen_projection_summary">Bildschirminhalt auf einen externen Monitor übertragen</string>
   <string name="enable_sending_mms_notification_title">MMS-Nachricht senden nicht möglich</string>
