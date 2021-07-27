@@ -538,7 +538,7 @@
   </plurals>
   <plurals name="slim_remain_photo_count_v2">
     <item quantity="other">%d zu optimierende Elemente übrig</item>
-    <item quantity="one">%d zu optimierende Element übrig</item>
+    <item quantity="one">%d zu optimierendes Element übrig</item>
   </plurals>
   <plurals name="slim_videos_count">
     <item quantity="other">%d Videos</item>
