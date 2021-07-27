@@ -261,7 +261,11 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Mi Coin Coupon verfügbar&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="mibi_header_network_error">Netzwerkverbindung nicht möglich</string>
   <string name="mibi_illegal_intent">Illegale Absichtserklärung</string>
-   <string name="mibi_is_what">Was können Sie mit Mi Coins kaufen?</string>
+  <string name="mibi_incognito_mode_dialog_cancel">Abbrechen</string>
+  <string name="mibi_incognito_mode_dialog_summary_camera">Kamera kann jetzt nicht verwendet werden. Inkognito-Modus in den Einstellungen ausschalten, um die Kamera zu verwenden.</string>
+  <string name="mibi_incognito_mode_dialog_title">Sie sind inkognito</string>
+  <string name="mibi_incognito_mode_dialog_to_close">Einstellungen</string>
+  <string name="mibi_is_what">Was können Sie mit Mi Coins kaufen?</string>
   <string name="mibi_label_balance">Kontostand</string>
   <string name="mibi_label_giftcard">Coupon</string>
   <string name="mibi_label_pay_remain">Fälliger Betrag: %1$s Mi Coins</string>
