@@ -115,7 +115,7 @@
   <string name="fastboot_status_locked_summary">Root-Zugriff nicht möglich</string>
   <string name="fastboot_unlock_web_title">Gehen Sie auf die offizielle MIUI Webseite und holen Sie sich das Unlock Tool</string>
   <string name="fingerprint_not_remind">Nicht wieder fragen</string>
-  <string name="fmt_chinese_date">d.M.</string>
+  <string name="fmt_chinese_date">dd.MM.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
@@ -124,10 +124,10 @@
   <string name="fmt_date_numeric_month_day">dd.MM.</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-  <string name="fmt_date_short_month">MM.</string>
-  <string name="fmt_date_short_month_day">dd.MM.</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d. MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_short_year_month_day">d. MMM yyyy</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
   <string name="fmt_time_12hour">"h 'Uhr'"</string>

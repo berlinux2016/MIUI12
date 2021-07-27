@@ -510,7 +510,7 @@ Wenn es für Sie nach 30 Minuten im Bett immer noch schwierig ist, einzuschlafen
   <string name="finish_stand">Stehen beenden</string>
   <string name="finish_stand2">Aufstehen</string>
   <string name="finished_rate">%1$d%% abgeschlossen</string>
-  <string name="fmt_chinese_date">d.M.</string>
+  <string name="fmt_chinese_date">dd.MM.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
@@ -519,10 +519,10 @@ Wenn es für Sie nach 30 Minuten im Bett immer noch schwierig ist, einzuschlafen
   <string name="fmt_date_numeric_month_day">dd.MM.</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-  <string name="fmt_date_short_month">MM.</string>
-  <string name="fmt_date_short_month_day">dd.MM.</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d. MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_short_year_month_day">d. MMM yyyy</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
   <string name="fmt_time_12hour">"h 'Uhr'"</string>
