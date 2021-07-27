@@ -4791,7 +4791,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="videobox_settings_title">Video-Toolbox</string>
   <string name="view_traffic_details">Datennutzungsstatistik anzeigen</string>
   <string name="virus_ad_icon_text">Adware</string>
-  <string name="virus_app_delete_installed">Uninstallieren</string>
+  <string name="virus_app_delete_installed">Deinstallieren</string>
   <string name="virus_app_delete_uninstalled">Löschen</string>
   <string name="virus_app_ignore">Ignorieren</string>
   <string name="virus_app_size_text">Größe: %s</string>
