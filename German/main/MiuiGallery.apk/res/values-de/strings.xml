@@ -506,7 +506,7 @@
   <string name="collage_talkback_margin_non">Keine Ränder</string>
   <string name="collage_talkback_margin_small">Dünner Rand</string>
   <string name="collage_talkback_ratio_1_1">Seitenverhältnis: quadratisch</string>
-  <string name="collage_talkback_ratio_3_4">Seitenverhältnis: drei mal vier</string>
+  <string name="collage_talkback_ratio_3_4">Seitenverhältnis: 3:4</string>
   <string name="collage_title_stitching">Filmrolle</string>
   <string name="collaps_people">Ausblenden</string>
   <string name="confirm_cancel_task_files">Dateien nach %1$s senden abbrechen?</string>

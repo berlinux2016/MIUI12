@@ -941,7 +941,7 @@ Aktualisieren Sie Mi Video erst auf die neueste Version."</string>
   <string name="passport_error_phone_error">Rufnummer ungültig</string>
   <string name="passport_error_server">Serverfehler</string>
   <string name="passport_error_unknown">Unbekannter Fehler</string>
-  <string name="passport_error_user_agreement_error">Erst die allgemeinen Geschäftsbedingungen akzeptieren</string>
+  <string name="passport_error_user_agreement_error">Erst den allgemeinen Geschäftsbedingungen zustimmen</string>
   <string name="passport_error_user_name">Eingegebener Benutzername ist ungültig</string>
   <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_get_verify_code">Code abrufen</string>

@@ -574,7 +574,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="passport_error_sim_not_ready">SIM-Karte kann nicht gefunden werden</string>
   <string name="passport_error_ssl_hand_shake">Verbindung zum Server nicht möglich</string>
   <string name="passport_error_unknown">Unbekannter Fehler</string>
-  <string name="passport_error_user_agreement_error">Erst die allgemeinen Geschäftsbedingungen akzeptieren</string>
+  <string name="passport_error_user_agreement_error">Erst den allgemeinen Geschäftsbedingungen zustimmen</string>
   <string name="passport_error_user_name">Eingegebener Benutzername ist ungültig</string>
   <string name="passport_failed_to_send_activate_email">E-Mail zum Aktivieren wurde nicht gesendet</string>
   <string name="passport_find_password_on_web_msg">Account.mi.com besuchen, um Ihr Passwort zurückzusetzen.</string>
