@@ -20,7 +20,7 @@
   <string name="accessibility_fingerprint_dialog_help_area">Bereich für Hilfemitteilungen</string>
   <string name="actionbar_button_up_description">Zurück</string>
   <string name="afternoon">Nachmittag</string>
-  <string name="app_name">MIUI+ Beta</string>
+  <string name="app_name">MIUI+</string>
   <string name="cancel">Abbrechen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="clipboard_tip">Von %1$s kopiert</string>
@@ -158,7 +158,7 @@
   <string name="notify_connected_title">Mit %1$s verbunden</string>
   <string name="open_folder">Anzeigen</string>
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-  <string name="privacy_all_purpose">Willkommen bei MIUI+ Beta! Mit dieser App können Sie Ihr Telefon mit einem Computer verbinden und zwei Geräte zu einer Arbeitsstation kombinieren.</string>
+  <string name="privacy_all_purpose">Willkommen bei MIUI+! Mit dieser App können Sie Ihr Telefon mit einem Computer verbinden und zwei Geräte zu einer Arbeitsstation kombinieren.</string>
   <string name="privacy_describe_change_wifi_state">Um Geräte zu verbinden und Dateien über WLAN zu übertragen</string>
   <string name="privacy_describe_location">Um PC in der Nähe zu finden und Dateien zu übertragen</string>
   <string name="privacy_describe_record_audio">Um die Audiowiedergabe auf Ihren PC umzuleiten</string>
@@ -179,7 +179,7 @@
   <string name="settings_connect">So verbinden Sie sich</string>
   <string name="settings_connect_more_help"><u>Hilfe</u></string>
   <string name="settings_connect_pc_group">Mit Ihrem Computer arbeiten</string>
-  <string name="settings_connect_summary1">MIUI+ Beta herunterladen und auf Ihrem Computer installieren: https://plus.miui.com.</string>
+  <string name="settings_connect_summary1">MIUI+ herunterladen und auf Ihrem Computer installieren: https://plus.miui.com.</string>
   <string name="settings_connect_summary2">Scannen Sie den QR-Code auf dem PC-Bildschirm mit Ihrem Mobilgerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
   <string name="settings_connect_title1">Schritt 1</string>
   <string name="settings_connect_title2">Schritt 2</string>
@@ -208,7 +208,7 @@
   <string name="settings_history_none">Noch keine Elemente hier</string>
   <string name="settings_history_today_connect_time">Heute %1$s</string>
   <string name="settings_history_yesterday_connect_time">Gestern %1$s</string>
-  <string name="settings_home">MIUI+ Beta</string>
+  <string name="settings_home">MIUI+</string>
   <string name="settings_home_device_disconnect">Trennen</string>
   <string name="settings_home_device_group">Verbundenes Gerät</string>
   <string name="settings_home_sub_title">Ihr Telefon und Ihren Computer zu einer Arbeitsstation kombinieren</string>
