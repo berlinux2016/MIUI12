@@ -80,7 +80,7 @@
   <string name="app_permission_never_accessed_summary">Noch nie aufgerufen</string>
   <string name="app_permission_title">Berechtigung \"%1$s\"</string>
   <string name="app_permission_usage_filter_label">Gefiltert nach: %1$s</string>
-  <string name="app_permission_usage_remove_filter">Alles im Dashboard ansehen</string>
+  <string name="app_permission_usage_remove_filter">Alle im Dashboard ansehen</string>
   <string name="app_permission_usage_summary">Zugriff: %1$s-mal. Gesamtdauer: %2$s. Zuletzt verwendet vor %3$s.</string>
   <string name="app_permission_usage_summary_no_duration">Zugriff: %1$s-mal. Zuletzt verwendet vor %2$s</string>
   <string name="app_permission_usage_title">Nutzung von App-Berechtigungen</string>
