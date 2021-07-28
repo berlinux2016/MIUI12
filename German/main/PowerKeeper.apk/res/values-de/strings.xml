@@ -114,7 +114,7 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
   <string name="hide_mode_desc">Wenn eine App im Hintergrund läuft, werden ihre Aktivitäten überwacht, um den Akkuverbrauch zu reduzieren. Diese Funktion liefert und verwendet Benutzerdaten gemäß %s</string>
   <string name="hide_system_app">System-Apps ausblenden</string>
   <string name="high_temp_benchmark_state">Überhitzung</string>
-  <string name="high_temp_benchmark_state_message">Ihr Gerät ist überhitzt. Bitte später versuchen, wenn das Gerät abgekühlt ist:</string>
+  <string name="high_temp_benchmark_state_message">"Anscheinend ist das Gerät jetzt zu heiß. Verwenden Sie diese App, wenn das Gerät abgekühlt ist: "</string>
   <string name="high_temp_state">Überhitzung</string>
   <string name="high_temp_state_message">Ihr Gerät wird zu heiß. Mobile Daten, WLAN-Hotspots, GPS und Kamera werden eingeschränkt.</string>
   <string name="hints_loading_text">Laden…</string>

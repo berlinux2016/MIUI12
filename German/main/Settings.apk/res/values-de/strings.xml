@@ -3167,7 +3167,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="face_data_siggesstion_next">Weiter</string>
   <string name="face_data_siggesstion_next_time">Weiter (%ds)</string>
   <string name="face_data_suggesstion_first">Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto sowie von Personen oder Objekten mit ähnlichem Aussehen entsperrt werden.</string>
-  <string name="face_data_suggesstion_second">Achten Sie darauf, dass Teile Ihres Gesichts nicht von Objekten verdeckt werden und deutlich sichtbar sind. Ihr Gesicht sollte auch gut ausgeleuchtet sein.</string>
+  <string name="face_data_suggesstion_second">Achten Sie darauf, dass alle Teile Ihres Gesichts gut sichtbar sind. Tragen Sie keine Accessoires, die Ihr Gesicht verdecken könnten. Beleuchten Sie Ihr Gesicht gleichmäßig und vermeiden Sie direktes Licht.</string>
   <string name="face_intro_error_max">Sie haben die Maximalzahl an Gesichtern hinzugefügt</string>
   <string name="face_intro_error_unknown">Weitere Gesichter hinzufügen nicht möglich</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Schützen Sie Ihr Telefon mit einer Bildschirmsperre, damit es bei Verlust oder Diebstahl nicht benutzt werden kann. Sie benötigen auch eine Bildschirmsperroption, um die Gesichtserkennung einzurichten. Abbrechen antippen, dann PIN, Muster oder Passwort festlegen.</string>
