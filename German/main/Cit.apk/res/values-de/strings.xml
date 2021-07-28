@@ -267,7 +267,7 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
   <string name="cit_emergencycall_check_title">Notruf</string>
   <string name="cit_exit_test_summary">Beim Beenden werden alle zugehörigen Textdaten gelöscht</string>
   <string name="cit_exit_test_title">Test beenden</string>
-  <string name="cit_external_keyboard_test_get_sn">Tippen, um die SN-Seriennummer der externen Tastatur zu erhalten (bitte lassen Sie die Tastatur und das Gerät angeschlossen)</string>
+  <string name="cit_external_keyboard_test_get_sn">Tippen, um die SN-Seriennummer der externen Tastatur zu erhalten (bitte Tastatur und Gerät angeschlossen lassen)</string>
   <string name="cit_external_keyboard_test_summary">Nach Anschluss der Tastatur bitte willkürlich Zeichen eingeben und das Testergebnis beobachten</string>
   <string name="cit_external_keyboard_test_title">Test externe Tastatur</string>
   <string name="cit_f2_cali">Kalibrierung</string>
