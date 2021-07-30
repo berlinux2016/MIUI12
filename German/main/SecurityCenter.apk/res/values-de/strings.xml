@@ -1497,9 +1497,9 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="face_unlock_guide_confirm">Einschalten</string>
   <string name="face_unlock_guide_dialog_summary">Sie können Gesichtsdaten verwenden, um Ihr Gerät freizuschalten. Gesichtsentsperrung einschalten?</string>
   <string name="face_unlock_not_found">Sie wurden nicht erkannt</string>
-  <string name="face_unlock_open_eye">Öffnen Sie Ihre Augen etwas mehr</string>
-  <string name="face_unlock_reveal_eye">Machen Sie Ihre Augen sichtbar</string>
-  <string name="face_unlock_reveal_mouth">Machen Sie Ihre Lippen sichtbar</string>
+  <string name="face_unlock_open_eye">Augen etwas mehr öffnen</string>
+  <string name="face_unlock_reveal_eye">Augen sichtbar machen</string>
+  <string name="face_unlock_reveal_mouth">Lippen sichtbar machen</string>
   <string name="face_unlock_toast_verity_failed">Gesichtsdaten wurden nicht geprüft. Gehen Sie zu App-Sperre Einstellungen und versuchen Sie es dort erneut, Ihre Gesichtsdaten zu prüfen.</string>
   <string name="face_unlock_verity_dialog_summary">Gesichtsdaten prüfen</string>
   <string name="face_unlock_verity_dialog_title_failed">Sie wurden nicht erkannt</string>
@@ -2700,7 +2700,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="open_callwait">An</string>
   <string name="open_dnd_mode">Nicht stören</string>
   <string name="open_extreme_power_save_mode_title">Extrem-Stromsparmodus einschalten</string>
-  <string name="open_game">Öffnen</string>
+  <string name="open_game">Spiel starten</string>
   <string name="open_now">App erlauben, mobile Datenverbindung zu nutzen</string>
   <string name="open_right_now">Jetzt öffnen</string>
   <string name="operator_diagnostic">Mobilfunkanbieterdiagnose</string>
