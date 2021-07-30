@@ -1818,7 +1818,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_first_window_gamebox_summary_six">Cache leeren, Bildschirmaufnahmen und Screenshots erstellen</string>
   <string name="gb_first_window_handsfree_summary">Lautsprecher automatisch einschalten</string>
   <string name="gb_first_window_handsfree_title">Freisprechen</string>
-  <string name="gb_first_window_start">Wiedergabe starten</string>
+  <string name="gb_first_window_start">Spiel jetzt starten</string>
   <string name="gb_first_window_summary">Steigerung von Geschwindigkeit und Leistung auf Systemebene</string>
   <string name="gb_game_end_toast">Gehen Sie die Schlüsselmomente Ihrer Spiele noch einmal durch</string>
   <string name="gb_game_video_ai_record_finish_tips">KI hat %d Videos aufgenommen, die zur Spielbeschleunigung gespeichert wurden</string>
