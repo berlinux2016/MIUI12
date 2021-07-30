@@ -893,8 +893,8 @@ um den Akku zu schonen"</item>
     <item quantity="one">Datennutzungsstatistik seit %d Tag nicht synchronisiert</item>
   </plurals>
   <plurals name="system_check_content">
-    <item quantity="other">%1$d sicher</item>
-    <item quantity="one">%d sicher</item>
+    <item quantity="other">%1$d Pkt. sicher</item>
+    <item quantity="one">%d Pkt. sicher</item>
   </plurals>
   <plurals name="title_app_update_cn">
     <item quantity="other">&lt;Data>&lt;font color=#F22424>%d&lt;/font> Apps aktualisieren&lt;/Data></item>
