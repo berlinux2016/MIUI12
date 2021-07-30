@@ -4531,7 +4531,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="title_dark_mode">Einige Elemente werden nicht korrekt angezeigt</string>
   <string name="title_data_flow">Datennutzungskontrolle</string>
   <string name="title_data_flow_monitor">Datennutzungsüberwachung ist aktiviert</string>
-  <string name="title_dev_model_off">Entwickleroptionen sind aus</string>
+  <string name="title_dev_model_off">Entwickleroptionen aus</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
   <string name="title_device_not_root">Root-Zugriff wurde nicht gewährt</string>
@@ -4544,8 +4544,8 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
   <string name="title_flow_rank">Mobile Datennutzung</string>
   <string name="title_flow_verify">Abrechnung vergleichen</string>
   <string name="title_flow_verify_failed">Prüfung 5 Tage in Folge fehlgeschlagen</string>
-  <string name="title_garbage_clean">Appcache-Größe ist %s</string>
-  <string name="title_garbage_less">Appcache gering</string>
+  <string name="title_garbage_clean">App-Cache ist %s groß</string>
+  <string name="title_garbage_less">App-Cache gering</string>
   <string name="title_garbage_lib">Mülldefinitionen aktualisieren</string>
   <string name="title_install_virus_no">Installationsmonitor aus</string>
   <string name="title_install_virus_yes">Installationsmonitor an</string>
