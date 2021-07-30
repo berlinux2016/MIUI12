@@ -471,6 +471,7 @@
   <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
   <string name="preparing_sd">SD-Karte vorbereiten…</string>
   <string name="previous">Zurück</string>
+  <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="processing">Bearbeiten…</string>
   <string name="prompt">Achtung</string>
   <string name="qr_code_details">QR-Code Details:</string>
