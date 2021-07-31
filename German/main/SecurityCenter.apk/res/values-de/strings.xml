@@ -4091,9 +4091,9 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="st_message_phone_AntiSpam">Anrufe blockieren</string>
   <string name="st_message_phonepass">Anrufe erlauben</string>
   <string name="st_msg_intercept_contacts">Nachrichten von Kontakten blockieren</string>
-  <string name="st_msg_keyword_black">Schlüsselwortsperrliste</string>
+  <string name="st_msg_keyword_black">Sperrliste</string>
   <string name="st_msg_keyword_group">Schlüsselwörter</string>
-  <string name="st_msg_keyword_white">Schlüsselwortausnahmen</string>
+  <string name="st_msg_keyword_white">Ausnahmen</string>
   <string name="st_msg_other_group">Andere</string>
   <string name="st_msg_settings">SMS-Sperrliste</string>
   <string name="st_msg_stranger_group">SMS von Fremden blockieren</string>
@@ -4124,8 +4124,8 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="st_title_call_wait_setting">Anklopfen</string>
   <string name="st_title_editblacklist">Sperrliste bearbeiten</string>
   <string name="st_title_editwhitelist">Ausnahmen bearbeiten</string>
-  <string name="st_title_keywords_blacklist">Schlüsselwortsperrliste</string>
-  <string name="st_title_keywords_whitelist">Schlüsselwortausnahmen</string>
+  <string name="st_title_keywords_blacklist">Sperrliste</string>
+  <string name="st_title_keywords_whitelist">Ausnahmen</string>
   <string name="st_title_man_addblacklist">Nummer zur Sperrliste hinzufügen</string>
   <string name="st_title_man_addwhitelist">Nummer zu Ausnahmen hinzufügen</string>
   <string name="st_title_man_editblacklist">Vorwahl zur Sperrliste hinzufügen</string>
