@@ -94,7 +94,7 @@ dd. MM."</string>
   <string name="icon_content_description">Dialogsymbol</string>
   <string name="letter_space">Zeichenabstand</string>
   <string name="line_space">Zeilenabstand</string>
-  <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+  <string name="material_clock_toggle_content_description">Vormittags oder nachmittags auswählen</string>
   <string name="material_hour_selection">Stunde auswählen</string>
   <string name="material_hour_suffix">%1$s Uhr</string>
   <string name="material_minute_selection">Minuten auswählen</string>
