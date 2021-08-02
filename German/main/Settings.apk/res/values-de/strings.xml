@@ -8161,6 +8161,8 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="style_and_wallpaper_settings_title">Stile &amp; Hintergrundbilder</string>
   <string name="style_suggestion_summary">Verschiedene Stile, Hintergrundbilder, Uhren und mehr ausprobieren</string>
   <string name="style_suggestion_title">Gestalten Sie Ihr Pixel</string>
+  <string name="stylus_ota_check_failed_battery">Prüfen nicht möglich. Akku des Stiftes ist fast leer.</string>
+  <string name="stylus_ota_check_failed_info">Firmware-Version wurde nicht geprüft. Stift neu anschließen.</string>
   <string name="stylus_ota_check_update">Auf Aktualisierungen prüfen</string>
   <string name="stylus_ota_current_firmware_version">Firmware-Version</string>
   <string name="stylus_ota_demands">Gerät über Bluetooth mit dem Eingabestift verbunden lassen. Beide Geräte sollten während der Aktualisierung mindestens zu %1$s geladen sein.</string>
