@@ -8177,7 +8177,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="stylus_ota_hava_new_version">"Neue Version: "</string>
   <string name="stylus_ota_latest">Aktuelle Version</string>
   <string name="stylus_ota_model">Modell</string>
-  <string name="stylus_ota_net_error">Nach Updates suchen nicht möglich. Netzwerkverbindung herstellen und erneut versuchen.</string>
+  <string name="stylus_ota_net_error">Bluetooth während der Aktualisierung an lassen. Sicherstellen, dass der Akku nicht unter %1$s sinkt.</string>
   <string name="stylus_ota_new_version">Aktualisieren</string>
   <string name="stylus_ota_serial_number">Seriennummer</string>
   <string name="stylus_ota_timeout_failed">Sitzung abgelaufen</string>
