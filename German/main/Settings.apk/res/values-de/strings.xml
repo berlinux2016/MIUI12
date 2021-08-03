@@ -8169,7 +8169,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="stylus_ota_completed">Erfolgreich aktualisiert</string>
   <string name="stylus_ota_completed_tip">Firmware erfolgreich aktualisiert. Stift zum Koppeln anschließen.</string>
   <string name="stylus_ota_current_firmware_version">Firmware-Version</string>
-  <string name="stylus_ota_demands">Gerät über Bluetooth mit dem Eingabestift verbunden lassen. Beide Geräte sollten während der Aktualisierung mindestens zu %1$s geladen sein.</string>
+  <string name="stylus_ota_demands">Bluetooth während der Aktualisierung anlassen. Akku sollte nicht unter %1$s sinken.</string>
   <string name="stylus_ota_download_failed">Firmware herunterladen fehlgeschlagen</string>
   <string name="stylus_ota_downloading_firmware">Firmware herunterladen</string>
   <string name="stylus_ota_firmware_update">Firmware aktualisieren</string>
@@ -8177,7 +8177,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="stylus_ota_hava_new_version">"Neue Version: "</string>
   <string name="stylus_ota_latest">Aktuelle Version</string>
   <string name="stylus_ota_model">Modell</string>
-  <string name="stylus_ota_net_error">Bluetooth während der Aktualisierung an lassen. Sicherstellen, dass der Akku nicht unter %1$s sinkt.</string>
+  <string name="stylus_ota_net_error">Nach Updates suchen nicht möglich. Netzwerkverbindung herstellen und erneut versuchen.</string>
   <string name="stylus_ota_new_version">Aktualisieren</string>
   <string name="stylus_ota_serial_number">Seriennummer</string>
   <string name="stylus_ota_timeout_failed">Sitzung abgelaufen</string>

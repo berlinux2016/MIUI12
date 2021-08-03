@@ -152,7 +152,7 @@
   <string name="input_hint_prefix">Eingabe %1$s</string>
   <string name="keep_sound">Voreinstellung speichern</string>
   <string name="low_pitch">Niedrige Tonhöhe</string>
-  <string name="material_clock_toggle_content_description">Vor- oder Nachmittags auswählen</string>
+  <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
   <string name="material_hour_selection">Stunde auswählen</string>
   <string name="material_hour_suffix">%1$s Uhr</string>
   <string name="material_minute_selection">Minuten auswählen</string>
