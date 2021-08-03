@@ -296,7 +296,7 @@ Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
   <string name="micloud_dspt_provision_v2">Xiaomi Cloud verwenden, um Daten zu synchronisieren, Ihr Gerät zu orten und Dinge mit Freunden zu teilen.</string>
   <string name="micloud_dspt_provision_xms">Xiaomi Cloud nutzen, um Daten zu synchronisieren</string>
   <string name="micloud_dspt_provision_xms_china">Xiaomi Cloud nutzen, um Daten zu synchronisieren</string>
-  <string name="micloud_find_device_close_alert_content">Wenn Sie Gerät finden ausschalten, können Sie Ihr Gerät mit dieser Funktion nicht mehr finden. Personen, mit denen Sie Ihren Standort teilen, können auch keine Updates über Ihren Aufenthaltsort erhalten.</string>
+  <string name="micloud_find_device_close_alert_content">Wenn Sie Gerät finden ausschalten, können Sie es mit dieser Funktion nicht mehr orten. Personen, mit denen Sie Ihren Standort teilen, können auch keine Updates über Ihren Aufenthaltsort erhalten.</string>
   <string name="micloud_find_device_close_alert_negtive">Trotzdem deaktivieren</string>
   <string name="micloud_find_device_close_alert_positive">Aktiviert lassen</string>
   <string name="micloud_find_device_close_alert_title">Gerät finden deaktivieren?</string>
@@ -349,7 +349,7 @@ Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
   <string name="micloud_main_head_menu_cloud_backup">Cloud-Sicherung</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Systemeinstellungen und Startbildschirm-Layout</string>
   <string name="micloud_main_head_menu_finddevice_summary">Finden und sperren Sie Ihr Gerät</string>
-  <string name="micloud_main_head_menu_finddevice_unavailable">Gerät finden ist nicht möglich im Zweitprofil, Sie können es im Hauptprofil nutzen.</string>
+  <string name="micloud_main_head_menu_finddevice_unavailable">Gerät finden ist im Zweitprofil nicht möglich, Sie können es im Hauptprofil nutzen.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Kontakt und Fotos wiederherstellen</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Gelöschte Objekte</string>
   <string name="micloud_main_head_menu_state_close">Aus</string>
