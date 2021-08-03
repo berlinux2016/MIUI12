@@ -1260,6 +1260,7 @@ Weiterhin zeigen?"</string>
   <string name="keyguard_carrier_default">Kein Dienst</string>
   <string name="keyguard_charged">Aufgeladen</string>
   <string name="keyguard_charging_back_to_lockscreen">Zurück zum Sperrbildschirm</string>
+  <string name="keyguard_charging_double_fast_and_level_tip">Ladegeschwindigkeit erhöhen %s</string>
   <string name="keyguard_charging_info_battery_used_time_text">Akkubetrieb</string>
   <string name="keyguard_charging_info_click_to_detail">Details anzeigen</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Entladen</string>
@@ -1574,7 +1575,7 @@ Screenshot zu erstellen"</string>
   <string name="mobile_data">Mobile Daten</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Daten immer aktiv lassen, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung)</string>
-  <string name="mobile_data_disable_message">Sie haben keinen Zugriff auf Daten oder das Internet über %s. Das Internet wird nur über WLAN verfügbar sein.</string>
+  <string name="mobile_data_disable_message">Sie haben keinen Zugriff auf Daten oder Internet über %s. Internet wird nur über WLAN verfügbar sein.</string>
   <string name="mobile_data_disable_message_default_carrier">Ihr Anbieter</string>
   <string name="mobile_data_disable_title">Mobile Daten ausschalten?</string>
   <string name="mock_location_app">App für Scheinstandorte auswählen</string>
