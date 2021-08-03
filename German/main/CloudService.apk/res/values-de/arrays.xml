@@ -30,7 +30,7 @@
     <item>App-Daten synchronisieren</item>
     <item>Sichern des Startbildschirm-Layouts</item>
     <item>Sichern der Systemeinstellungen</item>
-    <item>Gerät suchen</item>
+    <item>Gerät finden</item>
   </string-array>
   <string-array name="micloud_entrance_subtitleArray_china">
     <item>Kontakte, Nachrichten, Notizen, Kalender und mehr synchronisieren</item>
