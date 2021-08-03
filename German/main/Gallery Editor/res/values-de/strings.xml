@@ -64,8 +64,8 @@
   <string name="agreement_quit">Beenden</string>
   <string name="agreement_required_tip">(Obligatorisch)</string>
   <string name="agreement_summary">Rechtliche Dokumente</string>
-  <string name="app_name">Galerie</string>
-    <string name="app_summary">Videos und Fotos bearbeiten</string>
+  <string name="app_name">Galerie Editor</string>
+  <string name="app_summary">Videos und Fotos bearbeiten</string>
   <string name="art_still_cancel_download">Abbrechen</string>
   <string name="art_still_download">Herunterladen</string>
   <string name="art_still_download_failed_for_notwork">Herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -262,7 +262,7 @@
   <string name="filter_sky_download_with_metered_network_title">Verwendung mobiler Daten</string>
   <string name="filter_sky_dusk">Dunkelheit</string>
   <string name="filter_sky_dynamic_duoyun">Wolkig</string>
-    <string name="filter_sky_dynamic_jiyun">Kumulus</string>
+  <string name="filter_sky_dynamic_jiyun">Kumulus</string>
   <string name="filter_sky_dynamic_muguang">Dämmerung</string>
   <string name="filter_sky_dynamic_note">Elemente mit diesem Filter werden als Videos gespeichert</string>
   <string name="filter_sky_dynamic_qingtian">Klar</string>
@@ -342,7 +342,7 @@
   <string name="grant_permission_text">Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.\nTippen Sie auf Einstellen, um zu Berechtigungen zu gelangen.</string>
   <string name="grant_permission_title">Zugriff erlauben</string>
   <string name="grant_permission_unlock_and_set">Entsperren und einstellen</string>
-    <string name="have_known">Verstanden</string>
+  <string name="have_known">Verstanden</string>
   <string name="help">Geräte nicht gefunden?</string>
   <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
   <string name="home_menu_cleaner">Speicherplatz freigeben</string>
@@ -743,11 +743,11 @@
   <string name="send_files_to">Elemente senden nach</string>
   <string name="share_album_qr_code">Alben QR-Code</string>
   <string name="share_and_delete_screenshot">Nach Teilen löschen</string>
-    <string name="signature_dialog_clear">Clear</string>
-    <string name="signature_manage_dialog_title_string">Signature</string>
-    <string name="signature_view_add_signature_String">Add signature</string>
-    <string name="signature_view_max_signature_limit_string">Delete older items to be able to add new ones</string>
-    <string name="signature_view_signature_with_finger">Sign here</string>
+  <string name="signature_dialog_clear">Löschen</string>
+  <string name="signature_manage_dialog_title_string">Signatur</string>
+  <string name="signature_view_add_signature_String">Signatur hinzufügen</string>
+  <string name="signature_view_max_signature_limit_string">Ältere Einträge löschen, um neue hinzufügen zu können</string>
+  <string name="signature_view_signature_with_finger">Hier signieren</string>
   <string name="sky_dynamic">Dynamisch</string>
   <string name="sky_night">Abend</string>
   <string name="sky_nocturne">Nacht</string>
@@ -777,7 +777,6 @@
   <string name="solar_term_white_dews">Weißer Tau</string>
   <string name="solar_term_winter_begins">Winteranfang</string>
   <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
   <string name="sticker_ad">Prospekte</string>
   <string name="sticker_baibai">Pflanzen</string>
   <string name="sticker_beard">Friseursalon</string>
@@ -928,8 +927,8 @@
   <string name="video_editor_audio">Audio</string>
   <string name="video_editor_audio_custom">Lokal</string>
   <string name="video_editor_audio_dream">Traum</string>
-    <string name="video_editor_audio_electronics">Elektro</string>
-    <string name="video_editor_audio_none">Keine</string>
+  <string name="video_editor_audio_electronics">Elektro</string>
+  <string name="video_editor_audio_none">Keine</string>
   <string name="video_editor_audio_summertime">Sommer</string>
   <string name="video_editor_audio_young">Jung</string>
   <string name="video_editor_auto_trim">Automatisch schneiden</string>
@@ -1019,8 +1018,8 @@
   <string name="video_with_time">Video aufgenommen %s</string>
   <string name="video_with_time_and_location">Video aufgenommen %1$s | Standort: %2$s</string>
   <string name="view_by_gallery_tip">MIUI Galerie</string>
-    <string name="vivo">Vivo</string>
-    <string name="vivo_phone">Vivo</string>
+  <string name="vivo">Vivo</string>
+   <string name="vivo_phone">Vivo</string>
   <string name="vlog_audio_changyang">Freizeit</string>
   <string name="vlog_audio_close_toast">Original-Soundtrack ist aus</string>
   <string name="vlog_audio_fulan">Nebel</string>
@@ -1132,7 +1131,7 @@
   <string name="vlog_save_stop_tips">Erneut tippen, um Speichern abzubrechen</string>
   <string name="vlog_saving">Video exportieren…</string>
   <string name="vlog_support_max_duration">Ein Projekt kann bis zu %1$d Stunden lang sein</string>
-    <string name="vlog_support_max_number">You can add up to %1$d videos to a project</string>
+  <string name="vlog_support_max_number">Sie können bis zu %1$d Videos zu einem Projekt hinzufügen</string>
   <string name="vlog_template_baobao">Kind</string>
   <string name="vlog_template_city">Stadt</string>
   <string name="vlog_template_food">Essen</string>
