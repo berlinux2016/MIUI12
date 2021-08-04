@@ -1713,10 +1713,11 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Telefon auf, bevor es sich abschaltet</string>
   <string name="gamebooster_lowbattery_notification_title">Akku ist niedriger als 5%</string>
   <string name="gamebooster_main_activity_back">Zurück</string>
-  <string name="gamebooster_network_dialog_message">Netzwerkverbindung für Sicherheits-App erlauben, um alle Funktionen des Game Turbos nutzen zu können?</string>
   <string name="gamebooster_network_dialog_cn_message">Sie können Game Turbo nicht verwenden, wenn Sicherheit keine Internetverbindung und keinen Standortzugriff zulässt. Jetzt zulassen?</string>
+  <string name="gamebooster_network_dialog_message">Netzwerkverbindung für Sicherheits-App erlauben, um alle Funktionen des Game Turbos nutzen zu können?</string>
   <string name="gamebooster_network_dialog_title">Einige Funktionen sind nicht verfügbar</string>
   <string name="gamebox_app_not_find">Erst die App installieren</string>
+  <string name="gamebox_brightness">Helligkeit</string>
   <string name="gamebox_browser_not_find">Erst Mi Browser installieren</string>
   <string name="gamebox_collimator">Visier</string>
   <string name="gamebox_display_1">Keine</string>
@@ -1740,17 +1741,18 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_immersion_tips_title">Achtung</string>
   <string name="gamebox_immerson_open">Immersive Mode einschalten, Netzwerk nicht wechseln…</string>
   <string name="gamebox_macro">Kombinationen</string>
-  <string name="gb_game_macro_bubble_tips">Kombinationen ausprobieren</string>
-  <string name="gb_game_macro_toast_tips">Kombinationen ausprobieren!\nSequenzen aufnehmen und sie jederzeit verwenden!</string>
+  <string name="gamebox_manual_record">Aufnahme</string>
+  <string name="gamebox_mem_clean">Speicher bereinigen</string>
   <string name="gamebox_micharge">Ladetemperatur überwachen</string>
   <string name="gamebox_micharge_dialog_message">Funktion einschalten, um den Ladevorgang einzuschränken, wenn das Ladegerät angeschlossen ist. Das Ladegerät wird nur zur Stromversorgung verwendet, wodurch Sie eine Überhitzung während des Spielens vermeiden können.</string>
   <string name="gamebox_micharge_dialog_title">Ladetemperatur überwachen</string>
   <string name="gamebox_micharge_settings_summray">Um Überhitzung zu vermeiden, Ladegerät nur zur Stromversorgung verwenden</string>
   <string name="gamebox_micharge_toast">Temperaturregelung beim Laden ist an</string>
-  <string name="gamebox_manual_record">Aufnahme</string>
   <string name="gamebox_milink">Übertragen</string>
   <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
   <string name="gamebox_recent_task_expand_fail">Apps, die mit Verknüpfungen arbeiten, werden nicht installiert</string>
+  <string name="gamebox_screenrecord">Bildschirmaufnahmen</string>
+  <string name="gamebox_screenshot">Srceenshot</string>
   <string name="gamebox_simcard">SIM-Karten wechseln</string>
   <string name="gamebox_time">Timer</string>
   <string name="gamebox_type_close">Nicht anzeigen</string>
@@ -1761,6 +1763,8 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_wifi">WLAN</string>
   <string name="gamecenter_install_fail">Installieren nicht möglich</string>
   <string name="gamecenter_install_sucessfull">Erfolgreich installiert</string>
+  <string name="gb_game_macro_bubble_tips">Kombinationen ausprobieren</string>
+  <string name="gb_game_macro_toast_tips">Kombinationen ausprobieren!\nSequenzen aufnehmen und sie jederzeit verwenden!</string>
   <string name="gateway_exception_summary">Prüfen Sie Ihren Router und versuchen Sie es erneut</string>
   <string name="gateway_exception_summary2">Verbindung zum Server fehlgeschlagen</string>
   <string name="gateway_exception_title">Routertest</string>
@@ -1866,6 +1870,11 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_new_feature">Neue Funktion</string>
   <string name="gb_not_support_on_device">App kann auf dem äußeren Bildschirm nicht verwendet werden</string>
   <string name="gb_operat_frequently">Nicht so schnell!</string>
+  <string name="gb_performance_balance">Ausgeglichener Modus</string>
+  <string name="gb_performance_high">Leistungsmodus</string>
+  <string name="gb_performance_mode">Spielmodus</string>
+  <string name="gb_performance_tips">"Leistungsmodus kann die Telefonleistung verbessern,
+Er erhöht auch den Stromverbrauch und die Wärmeerzeugung, daher wird eine langfristige Verwendung nicht empfohlen"</string>
   <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
   <string name="gb_shoulder_key">Schultertasten</string>
   <string name="gb_shoulder_key_add_show_btn">Virtuelle Tasten während Spielen anzeigen</string>
@@ -1895,7 +1904,14 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_storage_game_uninstall">Spiele deinstallieren</string>
   <string name="gb_storage_summary">Der Gamebox hinzugefügte Spiele auf dem Startbildschirm nicht anzeigen</string>
   <string name="gb_storage_title">Hinzugefügte Spiele vom Startbildschirm entfernen</string>
+  <string name="gb_turbo_collimator_subtitle">Comes with shooting micromirror</string>
+  <string name="gb_turbo_macro_subtitle">Einfacher Betrieb auf gutem Level</string>
   <string name="gb_turbo_new_flag">NEU</string>
+  <string name="gb_turbo_shoulder_subtitle">Exklusive Steuerelemente einrichten</string>
+  <string name="gb_turbo_time_subtitle">Zusatzprotokoll der Spielzeit</string>
+  <string name="gb_turbo_voice_subtitle">Lustige Show mit Mikrofon</string>
+  <string name="gb_turbo_wonder_subtitle">Intelligente Aufzeichnung wunderbarer Vorgänge</string>
+  <string name="gb_voice_change_audition_tip">Nur Vorsprechen</string>
   <string name="gb_voice_change_settinged">Sprachwandler ist an</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Ihr Abo erneuern, um Echtzeit-Feedback nutzen zu können.</string>
   <string name="gb_voice_changer_dlg_button_agree">Erlauben</string>
@@ -1936,6 +1952,8 @@ und unseren Voice Changer erkunden!"</string>
   <string name="gb_voice_changer_user_status_remain_time">Ablaufdatum: %s</string>
   <string name="gb_voice_changer_user_status_renew">Erneuern</string>
   <string name="gb_voice_changer_user_tips_info_vip_expire">Ihre Abos sind abgelaufen. Abo jetzt erneuern, um von den Vorteilen zu profitieren!</string>
+  <string name="gb_voice_changer_user_vip_expired">Abgelaufen</string>
+  <string name="gb_voice_changer_user_vip_remain_time">Ablaufzeit: %s</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Schlüsselmomente Ihrer
 Spielsitzungen aufzeichnen"</string>
   <string name="gb_wonderful_video_cancel">Abbrechen</string>
@@ -2015,6 +2033,15 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gtb_dialog_title_smart_5g">5G-Netz-Optimierung</string>
   <string name="gtb_exit_game_to_gtb">Gamebox öffnen</string>
   <string name="gtb_exit_game_to_home">Zurück zum Startbildschirm</string>
+  <string name="gtb_guide_finish">Überspringen</string>
+  <string name="gtb_guide_gtb_button_done">Fertig</string>
+  <string name="gtb_guide_gtb_community_desc">Sammlung von Expertentipps und spannenden Momenten</string>
+  <string name="gtb_guide_gtb_community_title">Spielegemeinschaft</string>
+  <string name="gtb_guide_gtb_func_desc">Mehr Spielspaß erleben</string>
+  <string name="gtb_guide_gtb_func_title">Spieleassistent</string>
+  <string name="gtb_guide_gtb_line_new">Neuen GAME TURBO für das beste Spielerlebnisse aufrufen</string>
+  <string name="gtb_guide_small_window_app_desc">Sprechen und Spielen in einem Schritt</string>
+  <string name="gtb_guide_small_window_app_title">Kleines Fenster-App</string>
   <string name="gtb_setting_item_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren.</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Verbindungsgeschwindigkeit um 10%%-20%% bei Verbindung mit Mi-/Redmi-Routern erhöhen</string>
   <string name="gtb_setting_item_title_brightness">Bildschirmhelligkeit automatisch verringern</string>
