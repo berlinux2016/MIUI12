@@ -3000,7 +3000,7 @@ Stromverbrauch"</string>
   <string name="power_center_batteryscan_normal">Keine Akkuverbrauch-Probleme. Ergebnisse anzeigen.</string>
   <string name="power_center_charge_status">Laden</string>
   <string name="power_center_charge_time">Restladezeit: %1$s</string>
-  <string name="power_center_consume_fast">Entladen den Akku</string>
+  <string name="power_center_consume_fast">Akku entladen</string>
   <string name="power_center_dialog_msg_bottom">Sie können die Akkulaufzeit um bis zu %1$d Std %2$d Min verlängern. Stromsparmodus einschalten?</string>
   <string name="power_center_dialog_msg_title">%1$s einschalten, um zusätzliche Zeit zu erhalten. Die folgenden Aktionen werden durchgeführt, um den Akku zu schonen:</string>
   <string name="power_center_dialog_msg_top">Wenn der Stromsparmodus eingeschaltet ist, führt MIUI die folgenden Optimierungen durch:</string>
