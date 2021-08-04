@@ -274,6 +274,7 @@
   <string name="grayscale">Graustufen</string>
   <string name="half_covered_mode">Nicht verdeckt</string>
   <string name="hand_query">Bestellung prüfen</string>
+  <string name="hint_no_permissions_text">Auf die Taste Einstellungen tippen und Berechtigungsverwaltung eingeben, um die Speicherberechtigung der Kamera und des Mobiltelefons für die normale Nutzung zu aktivieren. Scannen</string>
   <string name="history">Verlauf</string>
   <string name="history_empty">Noch keine Elemente hier</string>
   <string name="hold_down">Gedrückt halten, um das Wort zu übernehmen</string>
