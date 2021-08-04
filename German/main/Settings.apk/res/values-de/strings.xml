@@ -6712,7 +6712,7 @@ UT Interface: %5$s"</string>
   <string name="roaming_reenable_title">Daten-Roaming zulassen?</string>
   <string name="roaming_turn_it_on_button">Aktivieren</string>
   <string name="roaming_warning">Ihnen können erhebliche Kosten entstehen</string>
-  <string name="roaming_warning_multiuser">Wenn Sie Daten-Roaming zulassen, können erhebliche Roaminggebühren entstehen. Diese Einstellung betrifft alle Benutzer auf diesem Telefon.</string>
+  <string name="roaming_warning_multiuser">Wenn Sie Daten-Roaming zulassen, können erhebliche Roamingkosten entstehen. Diese Einstellung betrifft alle Benutzer auf diesem Telefon.</string>
   <string name="rom_total_size">Gesamtgröße ROM</string>
   <string name="root">Root-Zugang</string>
   <string name="router_backup_hint">Lassen Sie Ihr Gerät eingeschaltet</string>
@@ -9807,7 +9807,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK tragbarer WLAN-Hotspot</string>
   <string name="wifi_hotspot_connect">VERBINDEN</string>
   <string name="wifi_hotspot_footer_info_local_only">Apps können einen Hotspot erstellen, um Inhalte mit nahen Geräten zu teilen</string>
-  <string name="wifi_hotspot_footer_info_regular">Mit Hotspot erstellen Sie ein WLAN für Ihre anderen Geräte. Hotspot bietet Internet über Ihre mobile Datenverbindung. Zusätzliche Mobilfunkgebühren können anfallen.</string>
+  <string name="wifi_hotspot_footer_info_regular">Mit Hotspot erstellen Sie ein WLAN für Ihre anderen Geräte. Hotspot bietet Internet über Ihre mobile Datenverbindung. Zusätzliche Mobilfunkkosten können anfallen.</string>
   <string name="wifi_hotspot_message">%1$s erfordert, dass Sie sich online anmelden, bevor Sie sich mit dem Netzwerk verbinden</string>
   <string name="wifi_hotspot_name_summary_connected">Andere Geräte können sich mit %1$s verbinden</string>
   <string name="wifi_hotspot_name_summary_connecting">%1$s einschalten…</string>

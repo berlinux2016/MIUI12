@@ -4907,7 +4907,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="warningcenter_mijia_page_title">Warnungen</string>
   <string name="warningcenter_mijia_search_keywords">Mi Home-Alarme</string>
   <string name="warningcenter_mijia_title">Warnungen von Smart Home-Geräten</string>
-  <string name="warningcenter_policeassist_charge_tips">*Für ausgehende Textnachrichten fallen evtl. Gebühren an. Wenden Sie sich an Ihren Anbieter, um die Tarife zu erfahren.</string>
+  <string name="warningcenter_policeassist_charge_tips">*Für ausgehende Textnachrichten fallen evtl. Kosten an. Wenden Sie sich an Ihren Anbieter, um die Tarife zu erfahren.</string>
   <string name="warningcenter_policeassist_close_btn">Ausschalten</string>
   <string name="warningcenter_policeassist_flow_locating">Info abrufen…</string>
   <string name="warningcenter_policeassist_flow_locfailed">Standort wurde nicht geteilt</string>

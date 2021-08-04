@@ -250,7 +250,7 @@
   <string name="cta_runtime_perm_desc_storage">Speicherzugriff, um auf Titelbilder und heruntergeladene Dateien zuzugreifen und sie zu speichern</string>
   <string name="cta_runtime_perm_desc_storage_single">Speicherzugriff, um auf Titelbilder und heruntergeladene Dateien zuzugreifen und sie zu speichern.</string>
   <string name="data_usage_warning">Datennutzung</string>
-  <string name="data_usage_warning_summary">Die Verwendung Ihrer mobilen Datenverbindung zum Streamen von hochwertiger Musik kann Ihre Datennutzungsgebühren erhöhen.</string>
+  <string name="data_usage_warning_summary">Die Verwendung Ihrer mobilen Datenverbindung zum Streamen von hochwertiger Musik kann Ihre Datennutzungskosten erhöhen.</string>
   <string name="date_format_str">dd.MM.yyyy</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="declaration_main_content">"Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.

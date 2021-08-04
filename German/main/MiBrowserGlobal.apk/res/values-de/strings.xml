@@ -376,7 +376,7 @@ werden nicht im Verlauf angezeigt."</string>
   <string name="data_traffic_download_prompt">Sie können dieses Video nur herunterladen, wenn Ihr Gerät mit WLAN verbunden ist.</string>
   <string name="data_traffic_download_setting">Einstellungen</string>
   <string name="data_traffic_goto">Datenpaket</string>
-  <string name="data_traffic_prompt_free_data">Verwendung mobiler Daten zum Streamen von Videos kann zusätzliche Datengebühren verursachen. Versuchen Sie, ein entsprechendes Datenpaket zu verwenden.</string>
+  <string name="data_traffic_prompt_free_data">Verwendung mobiler Daten zum Streamen von Videos kann zusätzliche Datenkosten verursachen. Versuchen Sie, ein entsprechendes Datenpaket zu verwenden.</string>
   <string name="data_traffic_prompt_message">Verwendung mobiler Daten zum Durchsuchen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_title">Sie verwenden mobile Daten</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
@@ -1982,7 +1982,7 @@ Sie können sich jederzeit unter Einstellungen > Datenschutz &amp; Sicherheit ab
   <string name="version_check_button_no_network">Netzwerkverbindung fehlgeschlagen</string>
   <string name="version_check_button_resume_download">Download fortsetzen</string>
   <string name="version_check_failed">Suche nach Updates fehlgeschlagen</string>
-  <string name="version_dialog_4G_checkbox">Sie können System-Apps über mobile Daten aktualisieren. Dies kann zusätzliche Datengebühren verursachen.</string>
+  <string name="version_dialog_4G_checkbox">Sie können System-Apps über mobile Daten aktualisieren. Dies kann zusätzliche Datenkosten verursachen.</string>
   <string name="version_update_file_download_toast">Herunterladen…</string>
   <string name="version_update_file_not_found">Updates suchen nicht möglich</string>
   <string name="video_activity_name">Favoriten</string>

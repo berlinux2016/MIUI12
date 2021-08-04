@@ -605,7 +605,7 @@ Schritt 3: Auf die Schaltfläche Aktivieren tippen, um den ausgewählten MBN zu 
 2. Der Standard-MBN des Wiederherstellungssystems kann durch Tippen auf die Schaltfläche Standard-MBN wiederherstellen aktiviert werden.
 3. Nun können die Informationen der im aktuellen Modem geladenen MBN angezeigt werden.
 Die erste Zeile zeigt an, ob der vom aktuellen Modem geladene MBN der Standard-MBN des Systems ist. (Einige Produkte sind möglicherweise nicht in die entsprechende Schnittstelle integriert, wie diese Zeile zeigt: Nicht unterstützt)
-Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des Träger-MBN, die derzeit im Modem geladen sind. Unsere benutzerdefinierte MBN ist Carrier MBN, SUB0 ist Karte 1, SUB1 ist Karte 2."</string>
+Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des Netzbetreiber-MBN, die derzeit im Modem geladen sind. Unsere benutzerdefinierte MBN ist Netzbetreiber-MBN, SUB0 ist Karte 1, SUB1 ist Karte 2."</string>
   <string name="cit_tool_mbn_path_select_hit">Wählen Sie den gesamten Pfad von mbn:</string>
   <string name="cit_tool_mbn_path_select_notice">Oben nicht gefunden? Hier suchen? Betrifft mcfg, ct, eps etc.</string>
   <string name="cit_tool_mbn_recovery_default">Standard-MBN wiederherstellen</string>

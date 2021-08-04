@@ -226,7 +226,7 @@
   <string name="dialog_message_correct_as_ad">Alle Nachrichten von %s (außer Verifikationscodes) werden zu den Werbungen verschoben.</string>
   <string name="dialog_message_correct_as_normal">Nachrichten zum Verschieben auswählen</string>
   <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Rufnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
-  <string name="dialog_message_mx">Mi Message ermöglicht Ihnen, Nachrichten an andere MIUI-Benutzer zu senden, ohne dass Ihnen Kosten entstehen. Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht eine Gebühr in Rechnung stellen. Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie Mi Message nutzen können.</string>
+  <string name="dialog_message_mx">Mi Message ermöglicht Ihnen, Nachrichten an andere MIUI-Benutzer zu senden, ohne dass Ihnen Kosten entstehen. Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht Kosten in Rechnung stellen. Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie Mi Message nutzen können.</string>
   <string name="dialog_message_mx_rcs">Mit Mi Message können Sie Nachrichten an andere China Mobile-Benutzer auf dem chinesischen Festland senden, ohne dass Ihnen Kosten entstehen. Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie Mi Message nutzen können.</string>
   <string name="dialog_message_networking">Messaging muss Gelbe Seiten verwenden, um die Sender-ID-Erkennung anbieten zu können. Messaging und Gelbe Seiten müssen eine Internetverbindung herstellen und auf Ihren Standort zugreifen, um normal zu arbeiten. Zustimmen?</string>
   <string name="dialog_message_networking_mx">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte senden, ohne dass dafür Kosten anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie Mi Message verwenden können. Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Zustimmen?</string>
@@ -553,12 +553,12 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_activate_error_server">Aktivierung fehlgeschlagen</string>
   <string name="mx_activate_error_sim_change">SIM-Karte getauscht. Mi Message reaktivieren.</string>
   <string name="mx_activate_error_title">Aktivierung fehlgeschlagen</string>
-  <string name="mx_activate_hint_malformed_info">Zum Reaktivieren von Mi Message wird eine evtl. gebührenpflichtige (providerabhängig) SMS versendet</string>
-  <string name="mx_activate_hint_server">Zum Reaktivieren von Mi Message wird eine evtl. gebührenpflichtige (providerabhängig) SMS versendet</string>
-  <string name="mx_activate_hint_sim_change">Zum Reaktivieren von Mi Message wird eine evtl. gebührenpflichtige (providerabhängig) SMS versendet</string>
-  <string name="mx_activate_int_hint_malformed_info">Zum Reaktivieren von Mi Message wird eine evtl. gebührenpflichtige (providerabhängig) Auslands-SMS versendet</string>
-  <string name="mx_activate_int_hint_server">Zum Reaktivieren von Mi Message wird eine evtl. gebührenpflichtige (providerabhängig) Auslands-SMS versendet</string>
-  <string name="mx_activate_int_hint_sim_change">SIM-Karte getauscht. Zum Reaktivieren von Mi Message wird eine evtl. gebührenpflichtige (providerabhängig) SMS versendet</string>
+  <string name="mx_activate_hint_malformed_info">Zum Reaktivieren von Mi Message wird eine evtl. kostenpflichtige (providerabhängig) SMS versendet</string>
+  <string name="mx_activate_hint_server">Zum Reaktivieren von Mi Message wird eine evtl. kostenpflichtige (providerabhängig) SMS versendet</string>
+  <string name="mx_activate_hint_sim_change">Zum Reaktivieren von Mi Message wird eine evtl. kostenpflichtige (providerabhängig) SMS versendet</string>
+  <string name="mx_activate_int_hint_malformed_info">Zum Reaktivieren von Mi Message wird eine evtl. kostenpflichtige (providerabhängig) Auslands-SMS versendet</string>
+  <string name="mx_activate_int_hint_server">Zum Reaktivieren von Mi Message wird eine evtl. kostenpflichtige (providerabhängig) Auslands-SMS versendet</string>
+  <string name="mx_activate_int_hint_sim_change">SIM-Karte getauscht. Zum Reaktivieren von Mi Message wird eine evtl. kostenpflichtige (providerabhängig) SMS versendet</string>
   <string name="mx_activate_network_allow_notice">Dieser Dienst benötigt Zugang zu mobilen Daten, um normal zu arbeiten.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivieren…</string>
   <string name="mx_activate_status_desc_check_net_connection">Keine Netzwerkverbindung</string>
@@ -568,9 +568,9 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Eingegebene Rufnummer ist ungültig</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Mi Message wurde nicht aktiviert</string>
   <string name="mx_auto_resend_mms">Als MMS senden</string>
-  <string name="mx_auto_resend_mms_summary">Als MMS senden wenn WLAN nicht verfügbar ist (providerabhängige Gebühr)</string>
+  <string name="mx_auto_resend_mms_summary">Als MMS senden wenn WLAN nicht verfügbar ist (providerabhängige Kosten)</string>
   <string name="mx_auto_resend_sms">Als SMS senden</string>
-  <string name="mx_auto_resend_sms_summary">Als SMS senden wenn WLAN nicht verfügbar ist (providerabhängige Gebühr)</string>
+  <string name="mx_auto_resend_sms_summary">Als SMS senden wenn WLAN nicht verfügbar ist (providerabhängige Kosten)</string>
   <string name="mx_btn_enable">Einschalten</string>
   <string name="mx_btn_enable_now">Einschalten</string>
   <string name="mx_count_dspt">Sie haben %1$d SMS und %2$d MMS gesendet</string>
@@ -586,7 +586,7 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Message von unbekannten Nummern blockieren</string>
   <string name="mx_filter_message_from_stranger_summary">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen"</string>
   <string name="mx_main_purpose">"Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer über das Internet senden, ohne dass Ihnen Kosten entstehen.
-Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht eine Gebühr in Rechnung stellen."</string>
+Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht Kosten in Rechnung stellen."</string>
   <string name="mx_main_purpose_short">Mi Message ermöglicht es MIUI-Benutzern, kostenlose SMS- und MMS-Nachrichten zu senden und zu empfangen.</string>
   <string name="mx_msg_pageview_setting_title">Einstellungen Mi Message </string>
   <string name="mx_on_sim_1">Mi Message mit SIM-Steckplatz 1</string>

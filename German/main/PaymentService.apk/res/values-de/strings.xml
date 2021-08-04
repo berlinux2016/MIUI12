@@ -282,15 +282,15 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_msg_order_hint_1_1">Wenn Sie \"Kauf bestätigen\" getippt haben, wird Ihr Telefon</string>
   <string name="mibi_msg_order_hint_1_2">automatisch Ihren Mobilfunkanbieter kontaktieren.</string>
   <string name="mibi_msg_picker_hint_1_2">Aufladen per Text kann teurer sein: &lt;font color=red&gt;￥%1$d = %2$d Mi Coin&lt;/font&gt;</string>
-  <string name="mibi_msg_picker_hint_2_2">Mobilfunkanbieter berechnen eine Servcegebühr von ￥%1$s pro Aufladung</string>
-  <string name="mibi_msg_picker_hint_2_a">Mobilfunkanbieter berechnen eine Servicegebühr von ￥%1$s pro Aufladung</string>
+  <string name="mibi_msg_picker_hint_2_2">Mobilfunkanbieter berechnen Kosten von ￥%1$s pro Aufladung</string>
+  <string name="mibi_msg_picker_hint_2_a">Mobilfunkanbieter berechnen Kosten von ￥%1$s pro Aufladung</string>
   <string name="mibi_msg_picker_hint_2_b">Eine SMS wird an Ihren Mobilfunkanbieter gesendet, wenn Sie auf \"Aufladen\" getippt haben. Der Mobilfunkanbieter wird Ihnen eine reguläre SMS berechnen.</string>
   <string name="mibi_msg_picker_hint_3_2">Maximale monatliche Aufladung: ￥%1$s</string>
   <string name="mibi_msg_send_no_net_error">Nachricht senden fehlgeschlagen: Verbindung mit Mobilfunkanbieter nicht möglich.</string>
   <string name="mibi_msg_send_no_sim_error">Nachricht senden fehlgeschlagen: Versuchen Sie, Ihre SIM-Karte neu einzulegen.</string>
   <string name="mibi_msg_send_parameter_error">Nachricht senden fehlgeschlagen, es gibt einen Fehler im Inhalt.</string>
   <string name="mibi_msg_send_send_fail_error">Nachricht senden fehlgeschlagen</string>
-  <string name="mibi_msg_telecom_order_denom">￥%1s (exkl. Datengebühren für das Mobilfunknetz)</string>
+  <string name="mibi_msg_telecom_order_denom">￥%1s (exkl. Datenkosten für das Mobilfunknetz)</string>
   <string name="mibi_msg_telecom_order_denom_label">Betrag</string>
   <string name="mibi_msg_telecom_order_goods_label">Artikel</string>
   <string name="mibi_msg_telecom_picker_hint_1_1">Wenn Sie \"Kauf bestätigen\" getippt haben, wird Ihr Telefon folgendes tun</string>

@@ -2056,8 +2056,8 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
   <string name="verify_apps_over_usb_title">Apps über USB verifizieren</string>
   <string name="vibrate_after_connected_summary">Beim Annehmen vibieren</string>
   <string name="vibrate_after_connected_title">Vibrieren wenn verbunden</string>
-  <string name="vice_card_data_in_use_alert">Es können zusätzliche Datengebühren anfallen.</string>
-  <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit SIM2 während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datengebühren entstehen. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
+  <string name="vice_card_data_in_use_alert">Es können zusätzliche Datenkosten anfallen.</string>
+  <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit SIM2 während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datenkosten entstehen. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
   <string name="vice_slot_volte_data_switch_summary">Während VoLTE-Anrufen verbindet sich das Gerät mit einem mobilen Datennetz mit SIM2.</string>
   <string name="vice_slot_volte_data_switch_title">Nutzung mobiler Daten bei VoLTE-Anrufen mit SIM2</string>
   <string name="video_calling_settings_title">Mobilfunkanbieter Videoanruf</string>

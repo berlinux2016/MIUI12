@@ -1611,7 +1611,7 @@ App öffnen und Bestätigungs-SMS manuell senden."</string>
   <string name="train_card_title_change">Ticketwechsel war erfolgreich</string>
   <string name="train_card_title_change_arrival">Ticketwechsel war erfolgreich</string>
   <string name="train_card_title_refund">Ticketrückerstattung war erfolgreich</string>
-  <string name="train_travel_refund_info" formatted="false">Rückerstattungsgebühr ¥%s, erstattungsfähige Gebühr ¥%s</string>
+  <string name="train_travel_refund_info" formatted="false">Rückerstattungskosten ¥%s, erstattungsfähige Kosten ¥%s</string>
   <string name="translation_loading">Einen Moment…</string>
   <string name="translation_no_result">Keine Ergebnisse</string>
   <string name="translation_pronunciation_other">Modul</string>

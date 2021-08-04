@@ -803,7 +803,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="no_recommend_data">Aktuell kein Video empfohlen</string>
   <string name="no_subscriptions">Hier keine Elemente</string>
   <string name="noon">Mittag</string>
-  <string name="not_connect_wifi_tip">Elemente herunterladen mit mobilen Daten könnte zusätzliche Anbietergebühren verursachen. Trotzdem herunterladen?</string>
+  <string name="not_connect_wifi_tip">Elemente herunterladen mit mobilen Daten könnte zusätzliche Anbieterkosten verursachen. Trotzdem herunterladen?</string>
   <string name="not_show">Nicht wieder anzeigen</string>
   <string name="not_support_share">Dieses Element kann zurzeit nicht geteilt werden.</string>
   <string name="notice_comment_action">%s kommentierte Ihren Beitrag</string>

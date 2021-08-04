@@ -1415,8 +1415,8 @@ Notrufe sind nur in Gebieten mit Mobilfunkversorgung möglich."</string>
 Nummer, wenn nicht erreichbar"</string>
   <string name="messageCFNRy">Nummer falls unbeantwortet</string>
   <string name="messageCFU">Immer diese Nummer verwenden</string>
-  <string name="messageCFU_kr" formatted="false">Netzdienst, der alle eingehenden Anrufe und Textnachrichten an eine bestimmte Nummer umleitet. Sie müssen diesen Dienst abonnieren. Ihnen wird eine monatliche Grundgebühr berechnet. Wenden Sie sich an das Kundenzentrum (114+[Senden]), um diesen Dienst zu abonnieren oder abzubestellen. %s+[Nummer zum Anrufe weiterleiten][Senden] eingeben zum Aktivieren oder %s[Senden] zum Deaktivieren.</string>
-  <string name="messageCFU_kr_kt">"Netzdienst, der alle eingehenden Anrufe und Textnachrichten an eine bestimmte Nummer umleitet. Sie müssen diesen Dienst abonnieren. Ihnen wird eine monatliche Grundgebühr berechnet. Wenden Sie sich ans Kundenzentrum (114+[Senden]), um diesen Dienst zu abonnieren oder abzubestellen. *71+[Nummer zur Weiterleitung von Anrufen an][Senden] eingeben zum Aktivieren oder *710[Senden] zum Deaktivieren.
+  <string name="messageCFU_kr" formatted="false">Netzdienst, der alle eingehenden Anrufe und Textnachrichten an eine bestimmte Nummer umleitet. Sie müssen diesen Dienst abonnieren. Ihnen wird ein monatlicher Grundpreis berechnet. Wenden Sie sich an das Kundenzentrum (114+[Senden]), um diesen Dienst zu abonnieren oder abzubestellen. %s+[Nummer zum Anrufe weiterleiten][Senden] eingeben zum Aktivieren oder %s[Senden] zum Deaktivieren.</string>
+  <string name="messageCFU_kr_kt">"Netzdienst, der alle eingehenden Anrufe und Textnachrichten an eine bestimmte Nummer umleitet. Sie müssen diesen Dienst abonnieren. Ihnen wird ein monatlicher Grundpreis berechnet. Wenden Sie sich ans Kundenzentrum (114+[Senden]), um diesen Dienst zu abonnieren oder abzubestellen. *71+[Nummer zur Weiterleitung von Anrufen an][Senden] eingeben zum Aktivieren oder *710[Senden] zum Deaktivieren.
 
 Immer diese Nummer verwenden"</string>
   <string name="messageCW_kr" formatted="false">Kostenloser Netzdienst, mit dem Sie während eines Anrufs einen zweiten annehmen können, wobei der erste Anruf gehalten wird. %s[Senden] eingeben zum Aktivieren oder %s[Senden] zum Deaktivieren.</string>
@@ -2325,7 +2325,7 @@ UT-Schnittstelle: %5$s"</string>
   <string name="skt_msim_emm_cause_7_8_15">SIM %d wurde nicht am Netz angemeldet. Gerät ausschalten, wieder einschalten und erneut versuchen. Wenn dieses Problem danach immer noch auftritt, wenden Sie sich an den Kundendienst (1599-0011).</string>
   <string name="smart_divert_summary">CFNRc Einstellungen</string>
   <string name="smart_divert_title">Smart Divert/Kluge Rufumleitung</string>
-  <string name="smart_dual_sim_prompt">Ihr Gerät stellt über die zweite SIM-Karte eine Verbindung zu einem mobilen Datennetz her, wenn die aktuelle Verbindung schlecht ist. Dies kann zusätzliche Datengebühren verursachen. Legen Sie ein Limit für die Datennutzung fest, um zusätzliche Kosten zu vermeiden.</string>
+  <string name="smart_dual_sim_prompt">Ihr Gerät stellt über die zweite SIM-Karte eine Verbindung zu einem mobilen Datennetz her, wenn die aktuelle Verbindung schlecht ist. Dies kann zusätzliche Datenkosten verursachen. Legen Sie ein Limit für die Datennutzung fest, um zusätzliche Kosten zu vermeiden.</string>
   <string name="smart_dual_sim_prompt_ok">Einstellungen</string>
   <string name="smart_dual_sim_prompt_title">Datenverbrauchswarnung (SIM %s)</string>
   <string name="smart_dual_sim_summary">Auf die zweite SIM-Karte wechseln und deren mobile Daten automatisch nutzen, wenn die aktuelle Konnektivität schlecht ist. Wenn sich die Konnektivität verbessert, wieder auf die ursprüngliche SIM-Karte wechseln.</string>
@@ -2666,8 +2666,8 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
   <string name="vibrate_after_connected_title">Vibrieren wenn verbunden</string>
   <string name="vibrating_for_outgoing_call_accepted_summary">Vibrationsmodus für ausgehenden angenommenen Anruf aktivieren</string>
   <string name="vibrating_for_outgoing_call_accepted_title">Vibration für ausgehenden angenommenen Anruf</string>
-  <string name="vice_card_data_in_use_alert">Es können zusätzliche Datengebühren anfallen.</string>
-  <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit SIM2 während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datengebühren entstehen. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
+  <string name="vice_card_data_in_use_alert">Es können zusätzliche Datenkosten anfallen.</string>
+  <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit SIM2 während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datenkosten entstehen. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
   <string name="vice_slot_volte_data_switch_summary">Während VoLTE-Anrufen verbindet sich das Gerät mit einem mobilen Datennetz mit SIM2.</string>
   <string name="vice_slot_volte_data_switch_title">Nutzung mobiler Daten bei VoLTE-Anrufen mit SIM2</string>
   <string name="video_calling_settings_title">Mobilfunkanbieter Videoanruf</string>
