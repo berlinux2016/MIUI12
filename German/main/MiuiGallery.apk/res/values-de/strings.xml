@@ -753,7 +753,7 @@
   <string name="ext_sdcard_permission_request_button_text">Verstanden</string>
   <string name="ext_sdcard_permission_request_reason">Galerie benötigt Ihre Erlaubnis, auf die SD-Karte zuzugreifen. Dann können Sie Fotos und Videos, die auf Ihrer SD-Karte gespeichert sind, löschen und bearbeiten.</string>
   <string name="ext_sdcard_permission_request_title">Galerie den Zugriff auf die SD-Karte erlauben</string>
-  <string name="ext_sdcard_request_succeed_toast_text">Sie sind bist bereit zu rocken!</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Sie sind bereit zu rocken!</string>
   <string name="face_album_empty">Leer</string>
   <string name="face_album_empty_syncing">Daten synchronisieren, später wiederkommen</string>
   <string name="face_album_empty_syncing_when_connect_wifi">Mit dem Netzwerk verbinden, um Informationen zu synchronisieren</string>
