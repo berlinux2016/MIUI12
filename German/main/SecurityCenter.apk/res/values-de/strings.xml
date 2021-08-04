@@ -1752,7 +1752,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
   <string name="gamebox_recent_task_expand_fail">Apps, die mit Verknüpfungen arbeiten, werden nicht installiert</string>
   <string name="gamebox_screenrecord">Bildschirmaufnahmen</string>
-  <string name="gamebox_screenshot">Srceenshot</string>
+  <string name="gamebox_screenshot">Screenshot</string>
   <string name="gamebox_simcard">SIM-Karten wechseln</string>
   <string name="gamebox_time">Timer</string>
   <string name="gamebox_type_close">Nicht anzeigen</string>
@@ -1873,8 +1873,8 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_performance_balance">Ausgeglichener Modus</string>
   <string name="gb_performance_high">Leistungsmodus</string>
   <string name="gb_performance_mode">Spielmodus</string>
-  <string name="gb_performance_tips">"Leistungsmodus kann die Telefonleistung verbessern,
-Er erhöht auch den Stromverbrauch und die Wärmeerzeugung, daher wird eine langfristige Verwendung nicht empfohlen"</string>
+  <string name="gb_performance_tips">"Leistungsmodus kann die Telefonleistung verbessern.
+Er erhöht auch den Stromverbrauch und die Wärmeerzeugung, daher wird eine langfristige Verwendung nicht empfohlen."</string>
   <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
   <string name="gb_shoulder_key">Schultertasten</string>
   <string name="gb_shoulder_key_add_show_btn">Virtuelle Tasten während Spielen anzeigen</string>
@@ -1904,7 +1904,7 @@ Er erhöht auch den Stromverbrauch und die Wärmeerzeugung, daher wird eine lang
   <string name="gb_storage_game_uninstall">Spiele deinstallieren</string>
   <string name="gb_storage_summary">Der Gamebox hinzugefügte Spiele auf dem Startbildschirm nicht anzeigen</string>
   <string name="gb_storage_title">Hinzugefügte Spiele vom Startbildschirm entfernen</string>
-  <string name="gb_turbo_collimator_subtitle">Comes with shooting micromirror</string>
+  <string name="gb_turbo_collimator_subtitle">Mit Schießmikrospiegel</string>
   <string name="gb_turbo_macro_subtitle">Einfacher Betrieb auf gutem Level</string>
   <string name="gb_turbo_new_flag">NEU</string>
   <string name="gb_turbo_shoulder_subtitle">Exklusive Steuerelemente einrichten</string>
