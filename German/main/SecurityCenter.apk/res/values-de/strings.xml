@@ -1837,7 +1837,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_first_window_gamebox_summary_six">Cache leeren, Bildschirmaufnahmen und Screenshots erstellen</string>
   <string name="gb_first_window_handsfree_summary">Lautsprecher automatisch einschalten</string>
   <string name="gb_first_window_handsfree_title">Freisprechen</string>
-  <string name="gb_first_window_start">Spiel jetzt starten</string>
+  <string name="gb_first_window_start">Spiele öffnen</string>
   <string name="gb_first_window_summary">Steigerung von Geschwindigkeit und Leistung auf Systemebene</string>
   <string name="gb_game_end_toast">Gehen Sie die Schlüsselmomente Ihrer Spiele noch einmal durch</string>
   <string name="gb_game_video_ai_record_finish_tips">KI hat %d Videos aufgenommen, die zur Spielbeschleunigung gespeichert wurden</string>
@@ -2739,7 +2739,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="once_settings_title">Privatsphäre schützen</string>
   <string name="open_activity_err">App wurde nicht gefunden</string>
   <string name="open_alarm_right_now">Jetzt öffnen</string>
-  <string name="open_app">Öffnen</string>
+  <string name="open_app">Spiel starten</string>
   <string name="open_callwait">An</string>
   <string name="open_dnd_mode">Nicht stören</string>
   <string name="open_extreme_power_save_mode_title">Extrem-Stromsparmodus einschalten</string>
