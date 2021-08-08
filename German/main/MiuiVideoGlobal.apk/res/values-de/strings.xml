@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Earlier">Früher</string>
+  <string name="HA_SERVICE_ID">SPIELEN</string>
   <string name="Subscribe">Abonnieren</string>
   <string name="This_week">Diese Woche</string>
   <string name="Today">Heute</string>
@@ -160,6 +161,7 @@
   <string name="click_to_retry">Erneut versuchen</string>
   <string name="close">Schließen</string>
   <string name="cloud_auto_pip_play_switch">Bild-in-Bild automatisch verwenden</string>
+  <string name="cloud_online_player">Spieler</string>
   <string name="cloud_online_switch">Personalisierte Empfehlungen</string>
   <string name="cloud_online_switch_close_time">Personalisierte Inhaltsempfehlungen können Sie in %s einschalten</string>
   <string name="cloud_online_switch_open_time">Personalisierte Inhaltsempfehlungen anzeigen</string>
@@ -200,7 +202,7 @@
   <string name="com_mixpanel_android_exit">Beenden</string>
   <string name="com_mixpanel_android_logo">Von Mixpanel</string>
   <string name="com_mixpanel_android_notification_image">Bild wird nicht angezeigt</string>
-  <string name="com_permission_desc">Mi Video kann nicht auf Videos auf Ihrem Gerät zugreifen. Erlauben Sie den Zugriff in den Einstellungen.</string>
+  <string name="com_permission_desc">Mi Video kann nicht auf Videos auf Ihrem Gerät zugreifen. Zugriff in den Einstellungen erlauben.</string>
   <string name="com_permission_title">Berechtigungen erforderlich</string>
   <string name="comment_model_add_comment">Kommentar hinzufügen</string>
   <string name="comment_model_bg_add_comment">Teilen Sie Ihre Ansichten mit unserer Community</string>
@@ -352,6 +354,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="failed_dup_secure_phone_number">Diese Rufnummer ist bereits mit einem anderen Mi-Konto verbunden.</string>
   <string name="failed_to_fetch_data">Info nicht geladen</string>
   <string name="failure">Herunterladen nicht möglich</string>
+  <string name="favor_movie">Filme</string>
   <string name="favor_playlist">Playlisten</string>
   <string name="favorite">Favoriten</string>
   <string name="favorite_cancel_fail">Aus Favoriten entfernen nicht möglich </string>
@@ -474,6 +477,8 @@ Senden Sie diesen Code an den Supervisor."</string>
 
 1. Speicherzugriff
 2. Zugriff auf Geräte-ID"</string>
+  <string name="galleryplus_permission_content_opt">Mi Video benötigt Berechtigungen, um normal zu funktionieren. Alle App-Daten in den Einstellungen löschen und die App erneut öffnen.</string>
+  <string name="galleryplus_permission_content_xms">Mi Video benötigt Berechtigungen, um normal zu funktionieren. Zu den Einstellungen gehen und Mi Video die erforderlichen Berechtigungen geben.</string>
   <string name="galleryplus_permission_open_settings">Einstellungen</string>
   <string name="galleryplus_permission_refuse">Nein danke</string>
   <string name="galleryplus_permission_retry">Berechtigungen</string>
@@ -576,6 +581,9 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="logo_neverthink">Kuratiert von Neverthink.tv</string>
   <string name="logout">Abmelden</string>
   <string name="logout_account">Abmelden</string>
+  <string name="long_video_no_more_content">Das ist alles für den Moment</string>
+  <string name="long_video_watch_on">Weiter schauen</string>
+  <string name="long_video_you_may_also_like">Das könnte Ihnen auch gefallen</string>
   <string name="lp_advance_sound">Klangverbesserung</string>
   <string name="lp_base_folder">SD-Karte</string>
   <string name="lp_brightness">Helligkeit</string>
@@ -589,8 +597,8 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="lp_speed_title">Wiedergabegeschwindigkeit</string>
   <string name="lp_speed_toast">Wiedergabe mit %sx-Geschwindigkeit…</string>
   <string name="lp_videoView_error_button">Fertig</string>
-  <string name="lp_videoView_error_text_unknown">Kann dieses Video nicht abspielen</string>
-  <string name="lp_videoView_error_title">Kann nicht abspielen</string>
+  <string name="lp_videoView_error_text_unknown">Abspielen dieses Video nicht möglich</string>
+  <string name="lp_videoView_error_title">Abspielen nicht möglich</string>
   <string name="lp_video_zoom_crop">Zuschneiden</string>
   <string name="lp_video_zoom_fit_screen">Anpassen</string>
   <string name="lp_video_zoom_stretch">Dehnen</string>
@@ -687,7 +695,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="lv_subtitle_onlinesub_size_string_b">Größe: %sB</string>
   <string name="lv_subtitle_onlinesub_title">Online-Untertitel</string>
   <string name="lv_subtitle_open_subtitle_file_title">Untertiteldatei suchen</string>
-  <string name="lv_subtitle_preoffset_max">Kann nicht weiter als 5s</string>
+  <string name="lv_subtitle_preoffset_max">Weiter als 5s nicht möglich</string>
   <string name="lv_subtitle_subonline_non_network">Netzwerkverbindung nicht möglich. Verbinden und erneut versuchen.</string>
   <string name="lv_subtitle_synchronization_title">Synchronisieren</string>
   <string name="lv_subtitle_title">Untertitel</string>
@@ -695,7 +703,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="lv_unhide_prompt">Erfolgreich gesetzt. Sie können jetzt nicht versteckte Elemente anzeigen.</string>
   <string name="lv_updating">Aktualisieren…</string>
   <string name="lv_use_notch">Notch anzeigen</string>
-  <string name="lv_videoView_error_text_invalid_progressive_playback">Dieses Video kann nicht auf Ihrem Gerät abgespielt werden.</string>
+  <string name="lv_videoView_error_text_invalid_progressive_playback">Dieses Video kann auf Ihrem Gerät nichabgespielt werden.</string>
   <string name="lv_videoView_error_text_unknown">Video kann nicht abgespielt werden</string>
   <string name="lv_videoView_error_title">Video kann nicht abgespielt werden</string>
   <string name="lv_video_null">Keine Videos</string>
@@ -829,6 +837,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="open_settings">Einstellungen</string>
   <string name="order_recently_subscribe">Aktuelle Abos</string>
   <string name="order_recently_updated">Zuletzt aktualisiert</string>
+  <string name="out_of_memory_background_playback_is_suspended">Hintergrundwiedergabe wegen unzureichendem Speicher angehalten</string>
   <string name="ovp_alert_dialog_download_install_task">HD-Plugin herunterladen…</string>
   <string name="ovp_buffering_video_netplay_label_v5">Zwischenspeichern…</string>
   <string name="ovp_category">Kategorien</string>
@@ -1384,7 +1393,7 @@ Es zeigt nichts an."</string>
   <string name="subtitle_onlinesub_title">Online-Untertitel</string>
   <string name="subtitle_open_subtitle_file_title">Untertitel finden</string>
   <string name="subtitle_padding_default_hint">Untertitel anpassen…</string>
-  <string name="subtitle_preoffset_max">Kann nicht weiter als 5s gehen</string>
+  <string name="subtitle_preoffset_max">Weiter als 5s nicht möglich</string>
   <string name="subtitle_subonline_non_network">Netzwerkverbindung nicht möglich. Verbinden und erneut versuchen</string>
   <string name="subtitle_synchronization_title">Sync</string>
   <string name="subtitle_title">Untertitel</string>
