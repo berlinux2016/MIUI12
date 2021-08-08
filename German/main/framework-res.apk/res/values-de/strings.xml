@@ -1404,7 +1404,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_subscribedFeedsRead">Abonnierte Feeds lesen</string>
   <string name="permlab_systemAlertWindow">Diese App kann über anderen Apps erscheinen</string>
   <string name="permlab_systemCamera">Erlaubt einer App oder einem Dienst den Zugriff auf Systemkameras, um Bilder und Videos aufzunehmen</string>
-  <string name="permlab_transmitIr">kann Infrarot übertragen</string>
+  <string name="permlab_transmitIr">Kann Infrarot übertragen</string>
   <string name="permlab_trust_listener">Änderungen des Trust-Status überwachen</string>
   <string name="permlab_uninstall_shortcut">Verknüpfungen deinstallieren</string>
   <string name="permlab_useBiometric">Biometrische Hardware verwenden</string>

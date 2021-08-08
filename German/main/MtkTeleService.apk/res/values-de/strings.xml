@@ -313,9 +313,9 @@
   <string name="bluetooth_pairing_accept">Gekoppelt</string>
   <string name="bluetooth_pairing_accept_all_caps">KOPPELN</string>
   <string name="bluetooth_pairing_decline">Abbrechen</string>
-  <string name="bluetooth_pairing_device_down_error_message">Kann nicht mit %1$s kommunizieren</string>
-  <string name="bluetooth_pairing_error_message">Kann nicht mit %1$s koppeln</string>
-  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit %1$s koppeln, weil Passwort oder Schlüssel falsch</string>
+  <string name="bluetooth_pairing_device_down_error_message">Kommunizieren mit %1$s nicht möglich</string>
+  <string name="bluetooth_pairing_error_message">Koppeln mit %1$s nicht möglich</string>
+  <string name="bluetooth_pairing_pin_error_message">Koppeln mit %1$s wegen falschen Passworts oder Schlüssels nicht möglich</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppeln ermöglicht Zugriff auf Ihre Kontakte und die Anrufliste, wenn verbunden</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Gemeinsame Nutzung der lokalen Internetverbindung mit dem Gerät</string>
@@ -530,7 +530,7 @@ Abtastrate"</string>
   <string name="caller_id_title">Rufnummernanzeige</string>
   <string name="calling_via_template">Via %s anrufen</string>
   <string name="callwait_open_hint">\"Anklopfen\" ist eine Funktion, die von Ihrem Mobilfunkanbieter bereitgestellt wird. Wenn Sie eine Fehlermeldung erhalten, kontaktieren Sie Ihren Mobilfunkanbieter und stellen Sie sicher, dass diese Funktion unterstützt wird.</string>
-  <string name="can_not_use_for_not_data_sim">(Kann nicht verwendet werden: Muss als Standarddaten-SIM festgelegt sein)</string>
+  <string name="can_not_use_for_not_data_sim">(Verwenden nicht möglich: Muss als Standarddaten-SIM festgelegt sein)</string>
   <string name="cancel">Abbrechen</string>
   <string name="card_title_MOcall_forwarding">Ausgehender umgeleiteter Anruf</string>
   <string name="card_title_MTcall_forwarding">Eingehender Anruf ist umgeleitet</string>
@@ -697,8 +697,8 @@ Abtastrate"</string>
   <string name="close_profile">Schließen</string>
   <string name="close_volte">VoLTE ausschalten</string>
   <string name="cloud_antispam_title">Unbekannte Nummern identifizieren</string>
-  <string name="cloud_sim_enabled_dual_4g_summary">Kann Dual 4G nicht ausschalten, während Mi Roaming verwendet wird</string>
-  <string name="cloud_sim_enabled_preferred_network_summary">Kann Netzwerkeinstellungen während der Verwendung von Mi Roaming nicht ändern</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">Dual 4G ausschalten nicht möglich, während Mi Roaming verwendet wird</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">Netzwerkeinstellungen ändern nicht möglich, während Mi Roaming verwendet wird</string>
   <string name="cmcc_ut_data_enable_prompt">Dieser Dienst erfordert eine mobile Datenverbindung, Eisnchalten zum Fortfahren.</string>
   <string name="command_error_fdn_failure">Sie müssen erst Rufnummernbeschränkung (FDN) ausschalten</string>
   <string name="config_default_data_sim">Einstellungen</string>
@@ -1065,7 +1065,7 @@ Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
   <string name="incall_error_promote_wfc">WLAN-Anrufe einschalten, um einen Anruf zu tätigen</string>
   <string name="incall_error_supp_service_conference">Telefonkonferenz nicht möglich</string>
   <string name="incall_error_supp_service_hangup">Gespräch beenden nicht möglich</string>
-  <string name="incall_error_supp_service_hold">Kann keine Anrufe halten</string>
+  <string name="incall_error_supp_service_hold">Anrufe halten nicht möglich</string>
   <string name="incall_error_supp_service_reject">Gespräche abweisen nicht möglich</string>
   <string name="incall_error_supp_service_resume">Anruf kann nicht wieder aufgenommen werden</string>
   <string name="incall_error_supp_service_separate">Gespräche trennen nicht möglich</string>
@@ -1281,7 +1281,7 @@ Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
   <string name="msim_not_set_summary">Nicht eingerichtet</string>
   <string name="msim_pref_title_voice">Wählen</string>
   <string name="msim_set_icc_card_error">ICC-Kartenfehler</string>
-  <string name="msim_set_sub_not_supported_phone_in_call">Kann während eines Anrufs nicht eingestellt werden</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">Einstellen während eines Anrufs nicht möglich</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM-Kartenfehler</string>
   <string name="msim_setting_categery_title">SIM-Karteneinstellungen</string>
   <string name="msim_setting_no_sim_indicator">Keine SIM-Karte</string>
@@ -1321,7 +1321,7 @@ Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
   <string name="network_settings_next">Weiter</string>
   <string name="network_settings_query_failed_message">Suche nach Mobilfunknetzen nicht möglich</string>
   <string name="network_settings_sel_sub">SUBS-Einstellungen</string>
-  <string name="network_settings_select_automatic_hint">Kann nicht mit dem ausgewählten Netz verbinden. Werde stattdessen bevorzugtes Netz nutzen.</string>
+  <string name="network_settings_select_automatic_hint">Verbindung mit dem ausgewählten Netz nicht möglich. Stattdessen bevorzugtes Netz nutzen.</string>
   <string name="network_settings_title">Mobilfunknetze</string>
   <string name="network_settings_turn_off">Aus</string>
   <string name="network_settings_warn_message">Ihr Gerät wird sich nur mit manuell gewählten Netzen verbinden.</string>

@@ -333,7 +333,7 @@
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Standardhintergrund wiederherstellen?</string>
   <string name="cancel_download_btn_text">Beenden</string>
   <string name="cancel_hint">Vorgang abgebrochen</string>
-  <string name="cannot_remove_creator">Kann Ersteller nicht entfernen</string>
+  <string name="cannot_remove_creator">Ersteller entfernen nicht möglich</string>
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
   <string name="cannot_send_message_reason">Keine gültigen Empfänger</string>
   <string name="card_delete_description">Diese Erinnerung wird nicht mehr auftauchen. Trotzdem löschen?</string>
@@ -578,7 +578,7 @@
   <string name="delete_in_home_page">Ausgewählte Elemente werden aus der Cloud und allen angeschlossenen Geräten gelöscht und %d Tage lang im Cloud-Papierkorb gespeichert, wenn Sie einen kostenlosen Cloud-Speichertarif haben. Trotzdem löschen?</string>
   <string name="delete_in_process">Löschen</string>
   <string name="delete_origin">Fotos im Originalalbum löschen</string>
-  <string name="delete_other_shared_images">Kann keine von anderen geteilten Fotos löschen</string>
+  <string name="delete_other_shared_images">Von anderen geteilte Fotos löschen nicht möglich</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d gelöscht, %2$d behalten</string>
   <string name="delete_third_party_photo">Dieses Foto löschen?</string>
   <string name="delete_third_party_video">Dieses Video löschen?</string>
@@ -1833,7 +1833,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="remove_from_favorites_failed">Aus Favoriten entfernen nicht möglich</string>
   <string name="remove_from_other_albums_tip">Synchronisation mit Xiaomi Cloud sollte aktiviert werden, wenn Sie es aus den anderen Alben entfernen. Album jetzt entfernen?</string>
   <string name="remove_from_secret_fail">Entfernen aus verstecktem Album fehlgeschlagen</string>
-  <string name="remove_from_secret_failed_with_reason">Kann nicht aus verstecktem Album entfernt werden. %1$s.</string>
+  <string name="remove_from_secret_failed_with_reason">Aus verstecktem Album entfernen nicht möglich. %1$s.</string>
   <string name="remove_from_secret_successful">Aus verstecktem Album entfernt</string>
   <string name="remove_hidden_status_success">%s aus versteckten Alben entfernt</string>
   <string name="remove_hidden_status_tip">Dieses Album wird neben anderen Alben angezeigt, wenn Sie es einblenden.</string>
@@ -1969,7 +1969,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="secret_reason_too_large">Datei ist zu groß</string>
   <string name="secret_reason_type_not_support">Dieser Dateityp wird nicht unterstützt</string>
   <string name="secret_reason_unknow_reasons">Unbekannter Fehler</string>
-  <string name="secret_reason_video_not_support">Kann keine Videos zum versteckten Album hinzufügen</string>
+  <string name="secret_reason_video_not_support">Videos zum versteckten Album hinzufügen nicht möglich</string>
   <string name="security_share_subtitle_default">Datenschutz</string>
   <string name="security_share_subtitle_hide">Standortinfo wurde entfernt</string>
   <string name="security_share_subtitle_no_hide">Enthält Standortinfos</string>

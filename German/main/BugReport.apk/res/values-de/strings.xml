@@ -330,7 +330,7 @@
   <string name="passport_error_server">Serverfehler</string>
   <string name="passport_error_sim_not_ready">SIM-Karte wird nicht gefunden</string>
   <string name="passport_error_ssl_hand_shake">Verbindung zum Server nicht möglich</string>
-  <string name="passport_error_unknown">Kann mich nicht anmelden</string>
+  <string name="passport_error_unknown">Anmelden nicht möglich</string>
   <string name="passport_error_user_name">Der von Ihnen eingegebene Benutzername ist ungültig.</string>
   <string name="passport_failed_to_send_activate_email">E-Mail zum Aktivieren wurde nicht gesendet</string>
   <string name="passport_find_password_on_web_msg">Account.mi.com besuchen, um Ihr Passwort zurückzusetzen.</string>
@@ -351,7 +351,7 @@
   <string name="passport_license_host_unreachable">Netzwerkverbindung nicht möglich. Sie können diese Seite unter %s ansehen.</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Anmelden</string>
-  <string name="passport_login_failed">Kann mich nicht anmelden</string>
+  <string name="passport_login_failed">Anmelden nicht möglich</string>
   <string name="passport_login_instead_reg">Diese Nummer benuzten</string>
   <string name="passport_login_instead_reg_with_email">Diese E-Mail benutzen</string>
   <string name="passport_login_prompt">Ein Mi-Konto. Alle Mi Dienstleistungen.</string>

@@ -179,7 +179,7 @@
   <string name="commit_done">Übertragen</string>
   <string name="commit_thanks">Vielen Dank für Ihr Feedback.</string>
   <string name="common_use">Häufig verwendet</string>
-  <string name="connect_to_retry">Kann mit dem Netzwerk nicht verbinden. Bitte Verbindung prüfen und noch mal probieren.</string>
+  <string name="connect_to_retry">Netzwerkverbindung nicht möglich. Verbindung prüfen und erneut versuchen.</string>
   <string name="connected">Verbunden</string>
   <string name="connected_stb">Set-Top-Box</string>
   <string name="continue_to_add_other_rc">Mehr Geräte hinzufügen</string>
@@ -813,10 +813,10 @@ Berechtigungen prüfen oder Gerät neu starten."</string>
   <string name="passport_error_login">Anmeldung nicht möglich</string>
   <string name="passport_error_network">Netzwerkverbindung nicht möglich</string>
   <string name="passport_error_no_password_user">Sie haben das Passwort noch nicht festgelegt. Melden Sie sich mit SMS an.</string>
-  <string name="passport_error_no_sms_service">Kann keine Textnachricht versenden. Telefonnetz nicht verfügbar.</string>
+  <string name="passport_error_no_sms_service">Textnachricht versenden nicht möglich. Telefonnetz nicht verfügbar.</string>
   <string name="passport_error_phone_error">Ungültige Rufnummer</string>
   <string name="passport_error_server">Serverfehler</string>
-  <string name="passport_error_sim_not_ready">Kann SIM-Karte nicht finden</string>
+  <string name="passport_error_sim_not_ready">SIM-Karte nicht gefunden</string>
   <string name="passport_error_ssl_hand_shake">Fehler bei der Server-Verbindung. Versuchen Sie, Ihr System in Datum/Uhrzeit auf die aktuelle Zeit umzustellen.</string>
   <string name="passport_error_unknown">Anmeldung fehlgeschlagen</string>
   <string name="passport_error_user_name">Ungültiger Benutzername</string>

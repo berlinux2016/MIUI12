@@ -105,7 +105,7 @@ Bevor Sie das Gerät kalibrieren, legen Sie es auf eine ebene Fläche."</string>
   <string name="cit_audio_cali_done">Kalibrierung abgeschlossen!</string>
   <string name="cit_audio_cali_failed">Kalibrierung fehlgeschlagen, bitte wiederholen!</string>
   <string name="cit_audio_cali_fast_test_title">Lautsprecherverstärker Kalibrierungsschnelltest</string>
-  <string name="cit_audio_cali_file_existed">Keine Musikdatei vorhanden, kann nicht kalibriert werden!</string>
+  <string name="cit_audio_cali_file_existed">Keine Musikdatei vorhanden, kalibrieren nicht möglich!</string>
   <string name="cit_audio_cali_playing">Kalibrierte Daten prüfen</string>
   <string name="cit_audio_cali_summary">Lautsprecher PA kalibrieren</string>
   <string name="cit_audio_cali_test_summary">Bevor Sie den Lautsprecher kalibrieren, stellen Sie sicher, dass der Lautsprecher nicht läuft.</string>
@@ -1008,7 +1008,7 @@ Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weite
   <string name="set_dsi_tips">DSI festlegen</string>
   <string name="show_log">Protokoll anzeigen</string>
   <string name="slave_battery_authentic">Zweitakku authentisch</string>
-  <string name="sound_file_delete">Sounddatei ist nicht beendet, kann nicht abgespielt werden!</string>
+  <string name="sound_file_delete">Sounddatei ist nicht beendet, Abspielen nicht möglich!</string>
   <string name="speak_from_mic">Ins Mikrofon sprechen, der Lautsprecher gibt es wieder. Beurteilen Sie, ob es Geräusche gibt.</string>
   <string name="start">Starten</string>
   <string name="start_extract_sample">Mit der Musterentnahme beginnen</string>

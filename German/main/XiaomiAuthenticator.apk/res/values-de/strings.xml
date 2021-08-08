@@ -48,7 +48,7 @@ Bei account.xiaomi.com anmelden und Reactivate antippen."
   <string name="enter_pin">Geben Sie diesen Bestätigungscode ein, wenn Sie während der Kontoanmeldung dazu aufgefordert werden:</string>
   <string name="error_empty_secret">Leeres Geheimnis kann nicht gespeichert werden</string>
   <string name="error_exists">Dieser Name wird schon verwendet</string>
-  <string name="error_qr">Kann den QR-Code nicht interpretieren</string>
+  <string name="error_qr">QR-Code interpretieren nicht möglich</string>
   <string name="error_title">Synchronisation fehlgeschlagen</string>
   <string name="error_uri">Schlüssel nicht erkannt</string>
   <string name="forget_password"><u>Passwort vergessen</u></string>

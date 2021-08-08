@@ -1346,7 +1346,7 @@ Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
   <string name="bluetooth_pairing_error_message">Koppeln mit %1$s nicht möglich</string>
   <string name="bluetooth_pairing_key_msg">Pairing-Code</string>
   <string name="bluetooth_pairing_page_title">Neues Gerät koppeln</string>
-  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit %1$s koppeln wegen falscher PIN oder falschen Schlüssels</string>
+  <string name="bluetooth_pairing_pin_error_message">Koppeln mit %1$s wegen falschen Passworts oder Schlüssels nicht möglich</string>
   <string name="bluetooth_pairing_pref_title">Neues Gerät koppeln</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
   <string name="bluetooth_pairing_request">Mit %1$s koppeln?</string>
@@ -7622,8 +7622,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="sim_other_call_settings">Andere Anrufeinstellungen</string>
   <string name="sim_outgoing_call_title">SIM-Karte für ausgehende Anrufe</string>
   <string name="sim_pin_change">SIM-PIN ändern</string>
-  <string name="sim_pin_disable_failed">Kann PIN nicht deaktivieren</string>
-  <string name="sim_pin_enable_failed">Kann PIN nicht aktivieren</string>
+  <string name="sim_pin_disable_failed">PIN deaktivieren nicht möglich</string>
+  <string name="sim_pin_enable_failed">PIN aktivieren nicht möglich</string>
   <string name="sim_pin_toggle">SIM-Karte sperren</string>
   <string name="sim_pins_dont_match">PINs stimmen nicht überein</string>
   <string name="sim_pref_divider">Aktivitäten</string>

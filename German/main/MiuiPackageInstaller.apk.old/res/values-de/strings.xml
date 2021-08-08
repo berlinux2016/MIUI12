@@ -64,7 +64,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_store_missing_title">App Store ist nicht installiert</string>
   <string name="auto_startup_dialog_msg">Nach dem Öffnen läuft das Programm automatisch im Hintergrund, es kann zu zusätzlichen Strom- und Datenverbrauch kommen.
 Sind Sie sicher, dass Sie ihm erlauben wollen, selbstständig zu beginnen?</string>
-  <string name="available_via_carrier">Kann über %1$s verbunden werden</string>
+  <string name="available_via_carrier">Vebinden über %1$s möglich</string>
   <string name="available_via_passpoint">Verfügbar über %1$s</string>
   <string name="battery_info_status_charging">Laden</string>
   <string name="battery_info_status_charging_ac">Laden mit Netzteil</string>
@@ -218,7 +218,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) wird die derzeit installierte Version (%3$s) ersetzen. Existierende App Daten bleiben erhalten.</string>
   <string name="dlg_app_replacement_title">App ersetzen?</string>
   <string name="dlg_appstore_notice">Wir können die Echtheit oder Sicherheit von Apps aus anderen Quellen als dem &lt;u&gt;App Store&lt;/u&gt; nicht prüfen</string>
-  <string name="dlg_msg_unoffical">Kann System-Apps nicht von inoffiziellen Kanälen aus installieren.</string>
+  <string name="dlg_msg_unoffical">System-Apps von inoffiziellen Kanälen installieren nicht möglich.</string>
   <string name="dlg_msg_unoffical_ok">OK</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-App.
@@ -393,7 +393,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_message_staging_2">"Richte App aus.. "</string>
   <string name="miui_message_staging_3">Richte App aus…</string>
   <string name="miui_no_perms">Keine Berechtigungen erforderlich</string>
-  <string name="miui_not_uninstall_system_app">Kann System-Apps nicht deinstallieren</string>
+  <string name="miui_not_uninstall_system_app">System-Apps deinstallieren nicht möglich</string>
   <string name="miui_other_relative">Andere</string>
   <string name="miui_permission_detail">Berechtigungen</string>
   <string name="miui_permission_manage_title">%s Details</string>

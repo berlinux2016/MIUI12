@@ -686,7 +686,7 @@ um Tabs von anderen Geräten zu sehen"</string>
   <string name="media_error_format">Videoformat wird nicht unterstützt</string>
   <string name="media_error_network_unreachable">Netzwerk nicht erreichbar</string>
   <string name="media_error_nomemory">Nicht genügend Speicher</string>
-  <string name="media_error_source">Kann Quelle nicht finden</string>
+  <string name="media_error_source">Quelle nicht gefunden</string>
   <string name="media_error_timeout">Zeitüberschreitung der Netzwerkverbindung</string>
   <string name="media_error_video_not_exist">Video existiert nicht</string>
   <string name="menu_addtodesk">Zum Startbildschirm hinzufügen</string>
@@ -1697,7 +1697,7 @@ Es zeigt nichts an."</string>
   <string name="today">Heute</string>
   <string name="tomorrow">Morgen</string>
   <string name="too_many_windows_dialog_message">Browser kann keinen neuen Tab öffnen, solange kein anderer geschlossen wird</string>
-  <string name="too_many_windows_dialog_title">Kann keine weiteren Tabs öffnen</string>
+  <string name="too_many_windows_dialog_title">Weitere Tabs öffnen nicht möglich</string>
   <string name="topic_content_default">Thema</string>
   <string name="transfer_prompt_0">Video abspielen</string>
   <string name="transfer_restart">Neu starten</string>

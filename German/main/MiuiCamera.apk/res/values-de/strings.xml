@@ -555,7 +555,7 @@ auswahl"</string>
   <string name="confirm_location_alert">Aufnahmestandort speichern</string>
   <string name="confirm_location_message"><Data>Willkommen bei Kamera! Durch Markierung Ihrer Fotos und Videos mit den Orten, an denen sie aufgenommen wurden, wird Ihre Galerie übersichtlicher und hilft Ihnen, Objekte schneller zu finden. Einige Funktionen sind möglicherweise nicht verfügbar, wenn Sie das Hinzufügen von Ortsangaben einschränken.&lt;br/>&lt;br/>Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.</Data></string>
   <string name="confirm_location_title">Aufnahmestandort speichern?</string>
-  <string name="confirm_recording_fail_calling_alert">Kann während eines Anrufs nicht aufnehmen</string>
+  <string name="confirm_recording_fail_calling_alert">Aufnahme während eines Anrufs nicht möglich</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Eine andere App benutzt vermutlich das Gerätemikrofon, um etwas aufzunehmen</string>
   <string name="confirm_recording_fail_title">Aufnahme nicht möglich</string>
   <string name="confirm_reset_manually_parameter_message">Alle Parameter auf die Standardwerte zurücksetzen?</string>

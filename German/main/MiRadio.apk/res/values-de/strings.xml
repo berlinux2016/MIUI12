@@ -216,7 +216,7 @@
   <string name="comment_count">Kommentare: %s</string>
   <string name="comment_delete_hint">Erfolgreich gelöscht</string>
   <string name="comment_empty">Diese Songs, welche Art von Geschichte ist in Ihrem Herzen?</string>
-  <string name="comment_input_empty">Kann keine leeren Kommentare hinzufügen.</string>
+  <string name="comment_input_empty">Leere Kommentare hinzufügen nicht möglich.</string>
   <string name="comment_input_hint">Kommentar eingeben</string>
   <string name="comment_list_title">Alle Kommentare</string>
   <string name="comment_trend_title">Wunderbarer Kommentar</string>
@@ -285,7 +285,7 @@ Um normal arbeiten zu können, benötigt diese App eine Internetverbindung und d
   <string name="diagnosis_log_sent_format">"Diagnoseprotokoll wurde gesendet.
 ID:%s
 Diesen Code bitte an den Techniker senden."</string>
-  <string name="dialog_cannot_resume">Download unterbrochen. Kann nicht wieder fortgesetzt werden.</string>
+  <string name="dialog_cannot_resume">Download unterbrochen. Fortsetzen nicht möglich.</string>
   <string name="dialog_confirm_delete_checkbox_message">Auch lokale Dateien löschen</string>
   <string name="dialog_failed_body">Später versuchen herunterzuladen oder die Datei aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Herunterladen fehlgeschlagen, Datei existiert bereits.</string>
@@ -1028,7 +1028,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="retry_download">Erneut versuchen</string>
   <string name="ringtone_not_support">Titelformat wird nicht unterstützt</string>
   <string name="runtime_permission_ungranted">Aufnahme kann wegen fehlender Berechtigungen nicht gestartet werden</string>
-  <string name="same_new_and_old_pwd">Kann nicht dasselbe wie das aktuelle Passwort sein</string>
+  <string name="same_new_and_old_pwd">Passwort kann nicht dasselbe wie das aktuelle sein</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>

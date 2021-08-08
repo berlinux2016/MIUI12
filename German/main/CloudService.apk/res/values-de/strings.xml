@@ -85,10 +85,10 @@
   <string name="device_activation_card_no_network_error">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="device_activation_card_title">Erste Aktivierung</string>
   <string name="device_activation_page_title">Geräteaktivierung</string>
-  <string name="disable_find_device_error">Kann Gerätesuche nicht ausschalten. %1$s</string>
+  <string name="disable_find_device_error">Gerätesuche ausschalten nicht möglich %1$s</string>
   <string name="do_not_merge">Nicht zusammenführen</string>
   <string name="early_morning">Morgen</string>
-  <string name="enable_find_device_error">Kann Gerätesuche nicht einschalten. %1$s</string>
+  <string name="enable_find_device_error">Gerätesuche einschalten nicht möglich. %1$s</string>
   <string name="enable_find_device_success">Gerät finden ist an</string>
   <string name="enable_micloud">Xiaomi Cloud nutzen</string>
   <string name="enable_sync_setting_title">Konfigurieren von Cloud-Diensten…</string>
@@ -388,7 +388,7 @@ Nutzen Sie ein anderes Konto."</string>
   <string name="micloud_main_sync_pending">Warte auf Synchronisation</string>
   <string name="micloud_main_syncing">Synchronisieren…</string>
   <string name="micloud_main_title_master_sync_off">Auto-Synchronisation ist aus</string>
-  <string name="micloud_main_title_sync_fail">Kann nicht synchronisieren</string>
+  <string name="micloud_main_title_sync_fail">Synchronisation nicht möglich</string>
   <string name="micloud_main_title_sync_off">Synchronisation ist aus</string>
   <string name="micloud_main_update_space">Holen Sie sich mehr Speicherplatz</string>
   <string name="micloud_main_wait_charge">Gerät vollständig laden, um die Synchronisation fortzusetzen</string>
@@ -446,7 +446,7 @@ Nutzen Sie ein anderes Konto."</string>
   <string name="micloud_notif_content_multi_user_error">Sie sind mit dem gleichen Konto auf dem Hauptprofil angemeldet</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Details anzeigen</string>
   <string name="micloud_notif_content_sync_with_off">Tippen, um Ihr Gerät jetzt zu synchronisieren</string>
-  <string name="micloud_notif_title_battery_low">Kann nicht mit Xiaomi Cloud synchronisieren</string>
+  <string name="micloud_notif_title_battery_low">Synchronisation mit Xiaomi Cloud nicht möglich</string>
   <string name="micloud_notif_title_dirty_data">Sie haben nicht synchronisierte Daten</string>
   <string name="micloud_notif_title_master_depend_wifi">Synchronisation wird angehalten, während Sie mobile Daten nutzen</string>
   <string name="micloud_notif_title_memory_low">Synchronisation mit Xiaomi Cloud nicht möglich</string>

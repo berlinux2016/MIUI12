@@ -823,7 +823,7 @@ Sie können versuchen, nach etwas anderem zu suchen."</string>
   <string name="subtitle_onlinesub_title">Online-Untertitel</string>
   <string name="subtitle_open_subtitle_file_title">Untertiteldatei finden</string>
   <string name="subtitle_padding_default_hint">Untertitel anpassen…</string>
-  <string name="subtitle_preoffset_max">Kann nicht weiter als 5 Sek gehen</string>
+  <string name="subtitle_preoffset_max">Weiter als 5s nicht möglich</string>
   <string name="subtitle_recognized_empty_subtitles">Sprache wurde während der Aufnahme nicht erkannt</string>
   <string name="subtitle_subonline_non_network">Netzwerkverbindung nicht möglich. Verbinden und erneut versuchen</string>
   <string name="subtitle_synchronization_title">Synchronisation</string>
@@ -868,7 +868,7 @@ Sie können versuchen, nach etwas anderem zu suchen."</string>
   <string name="to_be_play_label_v5">"Zum Nächsten: "</string>
   <string name="toast_add_collect">Zu Favoriten hinzugefügt</string>
   <string name="toast_back_key_pressed_notice">Zum Beenden Zurücktaste erneut drücken</string>
-  <string name="toast_can_not_withdraw">Kann nach 1 Minute nicht mehr rückgängig machen werden</string>
+  <string name="toast_can_not_withdraw">Rückgängig nach 1 Min nicht mehr möglich</string>
   <string name="toast_cancel_collect">Von Favoriten entfernt</string>
   <string name="toast_close_engine_mode">Entwickleroptionen sind aus</string>
   <string name="toast_downloading">Herunterladen:</string>

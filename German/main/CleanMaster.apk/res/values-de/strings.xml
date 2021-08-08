@@ -210,7 +210,7 @@
   <string name="dc_activity_title">Tiefenreinigung</string>
   <string name="dc_advise_delete">Speicherplatz schaffen</string>
   <string name="dc_group_title_appclean">Apps deinstallieren</string>
-  <string name="dc_header_can_clean">Kann gelöscht werden</string>
+  <string name="dc_header_can_clean">Löschen möglich</string>
   <string name="dc_header_can_not_clean">Verwendet</string>
   <string name="dc_header_used_space_text">Verwendeter Speicherplatz</string>
   <string name="dc_item_summary_wechat_chat">Verlauf Chat für Chat löschen, um mehr Platz zu schaffen</string>

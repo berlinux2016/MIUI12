@@ -143,10 +143,10 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="dlg_appstore_notice">Wir können die Authentizität oder Sicherheit von Apps aus Quellen außerhalb des &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt; nicht prüfen.</string>
   <string name="dlg_game_center_intercept_game_center_install">Von Mi Games installieren</string>
   <string name="dlg_game_center_intercept_install">Trotzdem installieren</string>
-  <string name="dlg_game_center_intercept_msg">Installieren von Drittanbieterspielen kann Sicherheitsrisiken mit sich bringen. Mi Games herunterladen und installieren, um auf sichere App-Versionen zuzugreifen.</string>
+  <string name="dlg_game_center_intercept_msg">Installation von Drittanbieterspielen kann Sicherheitsrisiken mit sich bringen. Mi Games herunterladen und installieren, um auf sichere App-Versionen zuzugreifen.</string>
   <string name="dlg_game_center_intercept_title">Vorsicht</string>
   <string name="dlg_mimarket_intercept_mimarket_install">Aus Mi App Store installieren</string>
-  <string name="dlg_mimarket_intercept_msg">Installation von Drittanbieter-Apps kann Sicherheitsrisiken mit sich bringen. Laden Sie Mi App Store herunter und installieren Sie ihn, um auf sichere App-Versionen zuzugreifen.</string>
+  <string name="dlg_mimarket_intercept_msg">Installation von Drittanbieter-Apps kann Sicherheitsrisiken mit sich bringen. Mi App Store herunterladen und installieren, um auf sichere App-Versionen zuzugreifen.</string>
   <string name="dlg_msg_unoffical">System-Apps aus inoffiziellen Kanälen installieren nicht möglich</string>
   <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-App.
 

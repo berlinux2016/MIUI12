@@ -293,7 +293,7 @@
   <string name="disable_auto_payment_success">Deaktiviert</string>
   <string name="disable_auto_payment_success_message">Automatische Verlängerung deaktiviert. Nach dem Ablauf Ihres Abonnements müssen Sie sich erneut anmelden, um wieder Musik herunterladen zu können.</string>
   <string name="disallow_add_to_fm">Titel können nicht von UKW-Radiosendern hinzugefügt werden.</string>
-  <string name="disallow_add_to_personal_radio">Kann nicht zu benutzerdefiniertem Radio hinzugefügt werden</string>
+  <string name="disallow_add_to_personal_radio">Zu benutzerdefiniertem Radio hinzufügen nicht möglich</string>
   <string name="discover_more_music">Weitere Titel entdecken</string>
   <string name="do_not_remind_this_version">Nicht an diese Version erinnnern</string>
   <string name="do_not_support_google_voice_search">Google-Sprachsuche wird auf Ihrem Gerät nicht unterstützt.</string>

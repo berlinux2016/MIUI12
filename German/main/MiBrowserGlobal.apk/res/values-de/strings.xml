@@ -790,7 +790,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
   <string name="media_error_format">Videoformat wird nicht unterstützt</string>
   <string name="media_error_network_unreachable">Netzwerk nicht erreichbar</string>
   <string name="media_error_nomemory">Nicht genügend Speicher</string>
-  <string name="media_error_source">Kann Quelle nicht finden</string>
+  <string name="media_error_source">Quelle nicht gefunden</string>
   <string name="media_error_timeout">Zeitüberschreitung der Netzwerkverbindung</string>
   <string name="media_error_video_not_exist">Video existiert nicht</string>
   <string name="menu_addtodesk">Zum Startbildschirm hinzufügen</string>
