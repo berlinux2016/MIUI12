@@ -703,7 +703,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="lv_unhide_prompt">Erfolgreich gesetzt. Sie können jetzt nicht versteckte Elemente anzeigen.</string>
   <string name="lv_updating">Aktualisieren…</string>
   <string name="lv_use_notch">Notch anzeigen</string>
-  <string name="lv_videoView_error_text_invalid_progressive_playback">Dieses Video kann auf Ihrem Gerät nichabgespielt werden.</string>
+  <string name="lv_videoView_error_text_invalid_progressive_playback">Dieses Video kann auf Ihrem Gerät nicht abgespielt werden.</string>
   <string name="lv_videoView_error_text_unknown">Video kann nicht abgespielt werden</string>
   <string name="lv_videoView_error_title">Video kann nicht abgespielt werden</string>
   <string name="lv_video_null">Keine Videos</string>
