@@ -360,7 +360,7 @@
   <string name="copy_url">URL kopieren</string>
   <string name="create_qr_code">QR-Code</string>
   <string name="current_version_pad">Tablet</string>
-  <string name="current_version_phone">Smartphone</string>
+  <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">Immer daran glauben, dass etwas Wunderbares passieren wird</string>
   <string name="custom_head_card_text_incognito">Sie sind inkognito! Seiten, die Sie besuchen, werden nicht im Verlauf angezeigt.</string>
   <string name="custom_head_content_pull_down_text">herunterziehen</string>
