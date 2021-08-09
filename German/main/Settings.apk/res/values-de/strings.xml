@@ -2652,6 +2652,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disable_service_message">Wenn Sie OK drücken, wird %1$s beendet</string>
   <string name="disable_service_title">%1$s beenden?</string>
   <string name="disable_text">Deaktivieren</string>
+  <string name="disable_uft">UFT ausschalten</string>
   <string name="disable_wifi_hotspot_title">Keinen WLAN-Hotspot verwenden</string>
   <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Internet nur über Bluetooth und Ethernet teilen</string>
   <string name="disable_wifi_hotspot_when_bluetooth_on">Internet nur über Bluetooth teilen</string>
@@ -2661,7 +2662,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Internet nur über USB und Ethernet teilen</string>
   <string name="disable_wifi_hotspot_when_usb_on">Internet nur über USB teilen</string>
   <string name="disabled">Deaktiviert</string>
-  <string name="disabled_authorised_apps_title">Widerruf der Berechtigung</string>
+  <string name="disabled_authorised_apps_title">Widerruf Berechtigung</string>
   <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
   <string name="disabled_by_admin">Vom Administrator deaktiviert</string>
   <string name="disabled_by_admin_summary_text">Durch Administrator überwacht</string>
@@ -2673,7 +2674,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disabled_by_policy_title_screen_capture">Screenshot nicht erlaubt</string>
   <string name="disabled_by_policy_title_sms">SMS nicht erlaubt</string>
   <string name="disabled_by_policy_title_suspend_packages">Öffnen der App nicht möglich</string>
-  <string name="disabled_by_policy_title_turn_off_backups">Sicherunegn ausschalten nicht möglich</string>
+  <string name="disabled_by_policy_title_turn_off_backups">Sicherungen ausschalten nicht möglich</string>
   <string name="disabled_dependent_setting_summary">Abhängig von anderer Einstellung</string>
   <string name="disabled_feature">Funktion nicht verfügbar</string>
   <string name="disabled_feature_reason_slow_down_phone">Diese Funktion wurde ausgeschaltet, weil sie Ihr Telefon verlangsamt</string>
@@ -2947,6 +2948,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="enable_terminal_summary">Terminal-App aktivieren, die den lokalen Shell-Zugriff bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_text">Aktivieren</string>
+  <string name="enable_uft">UFT einschalten</string>
   <string name="enable_verbose_vendor_logging">Ausführliche Vendor-Protokollierung aktivieren</string>
   <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Informationen enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
@@ -8216,6 +8218,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="sunday_shortest">S</string>
   <string name="sunlight_mode">Sonnenlicht-Modus</string>
   <string name="sunlight_mode_summary">Helligkeit auf starkes Umgebungslicht einstellen bei ausgeschalteter automatischer Helligkeit</string>
+  <string name="sunlight_mode_summary_new">Helligkeit an starkes Umgebungslicht anpassen, um zu verhindern, dass der Bildschirm zu dunkel wird. Ein kleines Sonnensymbol erscheint am oberen Bildschirmrand, wenn das Umgebungslicht stark ist.</string>
   <string name="super_resolution_access_title">Zugängliche Apps</string>
   <string name="super_resolution_desc">Bilder mit einem KI-Algorithmus schärfer machen</string>
   <string name="super_resolution_maintain">Superauflösung ist noch nicht verfügbar</string>
