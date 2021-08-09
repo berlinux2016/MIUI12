@@ -2880,6 +2880,8 @@ Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
   <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
   <string name="window_animation_scale_title">Fensteranimation</string>
   <string name="wrong_password">Eingegebenes Passwort ist falsch</string>
+  <string name="xcap_setting_summary">Anrufsperre, Sprachnachricht &amp; Anrufweiterleitung und Anklopfen</string>
+  <string name="xcap_setting_title">Einstellungen Anrufdienste</string>
   <string name="xdivert_summary">CFNRc-Einstellungen</string>
   <string name="xdivert_title">Rufumleitung</string>
   <string name="yesterday">Gestern</string>
