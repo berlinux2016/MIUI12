@@ -2662,7 +2662,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Internet nur über USB und Ethernet teilen</string>
   <string name="disable_wifi_hotspot_when_usb_on">Internet nur über USB teilen</string>
   <string name="disabled">Deaktiviert</string>
-  <string name="disabled_authorised_apps_title">Widerruf Berechtigung</string>
+  <string name="disabled_authorised_apps_title">Berechtigung widerrufen</string>
   <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
   <string name="disabled_by_admin">Vom Administrator deaktiviert</string>
   <string name="disabled_by_admin_summary_text">Durch Administrator überwacht</string>

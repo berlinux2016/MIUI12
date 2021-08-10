@@ -934,9 +934,9 @@
   <string name="video_clean_auto_clean">Automatisch löschen</string>
   <string name="video_clean_auto_clean_summary">Videos im Cache nach dem Scannen automatisch löschen</string>
   <string name="video_clean_cache_tip">Gelöschte Videos können danach wieder geladen werden</string>
-  <string name="video_clean_create_desktop_icon">Startbildschirmverknüpfung</string>
-  <string name="video_clean_create_desktop_icon_summary">Startbildschirmverknüpfung hinzufügen zum Löschen von Videos im Cache mit einem Fingertipp</string>
-  <string name="video_clean_desktop_icon_created">Startbildschirmverknüpfung erfolgreich hinzugefügt</string>
+  <string name="video_clean_create_desktop_icon">Startbildschirm-Verknüpfung</string>
+  <string name="video_clean_create_desktop_icon_summary">Startbildschirm-Verknüpfung hinzufügen zum Löschen von Videos im Cache mit einem Fingertipp</string>
+  <string name="video_clean_desktop_icon_created">Startbildschirm-Verknüpfung erfolgreich hinzugefügt</string>
   <string name="video_clean_garbage">Videos im Cache</string>
   <string name="video_clean_garbage_cleared">Videos im Cache erfolgreich gelöscht</string>
   <string name="video_clean_image_clean_summary">Doppelte Fotos löschen, um Speicherplatz freizugeben</string>

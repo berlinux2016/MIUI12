@@ -27,7 +27,7 @@
   <string name="account_logout">Abmelden</string>
   <string name="account_title">Konto</string>
   <string name="account_user_agreement">Nutzervereinbarung</string>
-  <string name="ad_count_down">Werbung: %1$s Sek…</string>
+  <string name="ad_count_down">Werbung: %1$s s…</string>
   <string name="ad_moredetail">Weitere Details</string>
   <string name="add_offline_task_success">Datei zu den Downloads hinzugefügt</string>
   <string name="add_shortcut">Verknüpfung hinzufügen</string>
@@ -805,11 +805,11 @@ Sie können versuchen, nach etwas anderem zu suchen."</string>
   <string name="subtitle_manual_add_sub">Untertitel erfolgreich hinzugefügt</string>
   <string name="subtitle_no_subtitle">Untertitel nicht verfügbar</string>
   <string name="subtitle_non_subtitle_file">Keine Untertitel-Dateien</string>
-  <string name="subtitle_offset_add_1s">+1 Sek</string>
-  <string name="subtitle_offset_add_dot5s">+0.5 Sek</string>
+  <string name="subtitle_offset_add_1s">+1 s</string>
+  <string name="subtitle_offset_add_dot5s">+0.5 s</string>
   <string name="subtitle_offset_normal">Untertitel nicht verschieben</string>
-  <string name="subtitle_offset_sub_1s">-1 Sek</string>
-  <string name="subtitle_offset_sub_dot5s">-0.5 Sek</string>
+  <string name="subtitle_offset_sub_1s">-1 s</string>
+  <string name="subtitle_offset_sub_dot5s">-0.5 s</string>
   <string name="subtitle_onlinesub_language">Sprache: %s</string>
   <string name="subtitle_onlinesub_loading">Untertitel laden…</string>
   <string name="subtitle_onlinesub_loading_wait">Untertitel laden…</string>
@@ -823,7 +823,7 @@ Sie können versuchen, nach etwas anderem zu suchen."</string>
   <string name="subtitle_onlinesub_title">Online-Untertitel</string>
   <string name="subtitle_open_subtitle_file_title">Untertiteldatei finden</string>
   <string name="subtitle_padding_default_hint">Untertitel anpassen…</string>
-  <string name="subtitle_preoffset_max">Weiter als 5s nicht möglich</string>
+  <string name="subtitle_preoffset_max">Weiter als 5 s nicht möglich</string>
   <string name="subtitle_recognized_empty_subtitles">Sprache wurde während der Aufnahme nicht erkannt</string>
   <string name="subtitle_subonline_non_network">Netzwerkverbindung nicht möglich. Verbinden und erneut versuchen</string>
   <string name="subtitle_synchronization_title">Synchronisation</string>
@@ -877,7 +877,7 @@ Sie können versuchen, nach etwas anderem zu suchen."</string>
   <string name="toast_message_continue_play_from">"Abspielen von "</string>
   <string name="toast_message_continue_play_hour">Std</string>
   <string name="toast_message_continue_play_minute">Min</string>
-  <string name="toast_message_continue_play_second_and_play">%1$s Sek</string>
+  <string name="toast_message_continue_play_second_and_play">%1$s s</string>
   <string name="toast_open_engine_mode">Entwickleroptionen sind an</string>
   <string name="toast_operate_message_delete_success">Erfolgreich gelöscht</string>
   <string name="toast_remind_no_enough_room_and_stop_task">Nicht genügend Speicherplatz. Laufende Downloads anhalten.</string>
@@ -1131,8 +1131,8 @@ Nach etwas Anderem suchen.</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Dieser Dateityp wird vom Gerät nicht unterstützt</string>
   <string name="vp_VideoView_error_text_unknown">Ein unbekannter Fehler ist aufgetreten</string>
   <string name="vp_VideoView_error_title">Unbekannter Fehler</string>
-  <string name="vp_ad_countdown_m_s">Werbung %1$d Min %2$s Sek</string>
-  <string name="vp_ad_countdown_s">%1$ Sek</string>
+  <string name="vp_ad_countdown_m_s">Werbung %1$d Min %2$s s</string>
+  <string name="vp_ad_countdown_s">%1$ s</string>
   <string name="vp_ad_skip">Werbung überspringen</string>
   <string name="vp_ad_skip_at">Werbung nach %1$d überspringen</string>
   <string name="vp_adapt_height">Höhe anpassen</string>
@@ -1207,7 +1207,7 @@ Nach etwas Anderem suchen.</string>
   <string name="vp_mobile_network_using_auto_play">Videos automatisch abspielen, wenn das Gerät diese Woche nicht mit WLAN verbunden ist</string>
   <string name="vp_mobile_network_using_free_service">Weitere Optionen</string>
   <string name="vp_mobile_network_using_negative">Abbrechen</string>
-  <string name="vp_mobile_network_using_playing">Wird mobile Daten verwenden, um dieses Video in %1$ Sek wiederzugeben</string>
+  <string name="vp_mobile_network_using_playing">Wird mobile Daten verwenden, um dieses Video in %1$ s wiederzugeben</string>
   <string name="vp_mobile_network_using_positive">Weiter</string>
   <string name="vp_mobile_network_using_positive_data_comsume">%1$s mobile Daten nutzen</string>
   <string name="vp_mobile_network_using_positive_new">Trotzdem abspielen</string>

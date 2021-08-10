@@ -657,7 +657,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="set_lock_password_dialog_title">Neues Passwort festlegen</string>
   <string name="set_success">Erfolgreich geändert</string>
   <string name="setting_clear_cache">Cache löschen</string>
-  <string name="setting_create_shortcut">Startbildschirmverknüpfung</string>
+  <string name="setting_create_shortcut">Startbildschirm-Verknüpfung</string>
   <string name="setting_default_download_dir">Standard-Download-Ort</string>
   <string name="setting_default_download_dir_title">Standard-Download-Ort wählen</string>
   <string name="setting_no_download_path">Erst Standard-Download-Ort wählen</string>
