@@ -547,6 +547,10 @@
   <string name="navigation_guide_recent_title">Aktuelle öffnen</string>
   <string name="navigation_guide_recent_title_spec_with_quotation_pad">\"Letzte Aufgaben umschalten\"</string>
   <string name="navigation_guide_settings">Gestendemos</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">Abbrechen</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">Nicht-System-Desktops unterstützen die Vollbild-Gesten nicht. Zum System-Desktop wechseln und Vollbild-Gesten aktivieren?</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">Zustimmen</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Hinweis</string>
   <string name="navigation_type_full_screen">Gesten</string>
   <string name="navigation_type_title">Systemnavigation</string>
   <string name="navigation_type_title_synonyms_1">Vollbildschirm</string>
