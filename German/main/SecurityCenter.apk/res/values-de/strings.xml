@@ -875,6 +875,11 @@ Sie verlieren keine App-Daten."</string>
   <string name="battery_status_overheat">Überhitzt</string>
   <string name="battery_status_unknown">Unbekannter Fehler</string>
   <string name="battery_temperature_title">Temperatur</string>
+  <string name="behavior_widget_get_installed_apps">App-Zugriff</string>
+  <string name="behavior_widget_get_location">Standortzugriff</string>
+  <string name="behavior_widget_read_clipboard">Zwischenablagezugriff</string>
+  <string name="behavior_widget_read_contact">Kontaktzugriff</string>
+  <string name="behavior_widget_read_write_external_storage">Dateizugriff</string>
   <string name="bottom_func_guide_default_text">Weitere Funktionen</string>
   <string name="begin_date">Zurückgesetzt am</string>
   <string name="best_booster_status">Spielgeschwindigkeit ist die beste, die derzeit verfügbar ist.</string>
@@ -1751,7 +1756,7 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gamebox_milink">Übertragen</string>
   <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
   <string name="gamebox_recent_task_expand_fail">Apps, die mit Verknüpfungen arbeiten, werden nicht installiert</string>
-  <string name="gamebox_screenrecord">Bildschirmaufnahmen</string>
+  <string name="gamebox_screenrecord">Aufnahme</string>
   <string name="gamebox_screenshot">Screenshot</string>
   <string name="gamebox_simcard">SIM-Karten wechseln</string>
   <string name="gamebox_time">Timer</string>
@@ -1870,11 +1875,11 @@ Sie müssen verstehen, dass diese Funktion nur zu Ihrer Information dient. Die W
   <string name="gb_new_feature">Neue Funktion</string>
   <string name="gb_not_support_on_device">App kann auf dem äußeren Bildschirm nicht verwendet werden</string>
   <string name="gb_operat_frequently">Nicht so schnell!</string>
-  <string name="gb_performance_balance">Ausgeglichener Modus</string>
-  <string name="gb_performance_high">Leistungsmodus</string>
+  <string name="gb_performance_balance">Ausgeglichen</string>
+  <string name="gb_performance_high">Leistung</string>
   <string name="gb_performance_mode">Spielmodus</string>
-  <string name="gb_performance_tips">"Leistungsmodus kann die Telefonleistung verbessern.
-Er erhöht auch den Stromverbrauch und die Wärmeerzeugung, daher wird eine langfristige Verwendung nicht empfohlen."</string>
+  <string name="gb_performance_tips">"Die Verwendung des Leistungsmodus über einen längeren Zeitraum
+kann den Akku entladen und zu Überhitzung führen"</string>
   <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
   <string name="gb_shoulder_key">Schultertasten</string>
   <string name="gb_shoulder_key_add_show_btn">Virtuelle Tasten während Spielen anzeigen</string>
@@ -1907,10 +1912,10 @@ Er erhöht auch den Stromverbrauch und die Wärmeerzeugung, daher wird eine lang
   <string name="gb_turbo_collimator_subtitle">Mit Schießmikrospiegel</string>
   <string name="gb_turbo_macro_subtitle">Einfacher Betrieb auf gutem Level</string>
   <string name="gb_turbo_new_flag">NEU</string>
-  <string name="gb_turbo_shoulder_subtitle">Exklusive Steuerelemente einrichten</string>
-  <string name="gb_turbo_time_subtitle">Zusatzprotokoll der Spielzeit</string>
-  <string name="gb_turbo_voice_subtitle">Lustige Show mit Mikrofon</string>
-  <string name="gb_turbo_wonder_subtitle">Intelligente Aufzeichnung wunderbarer Vorgänge</string>
+  <string name="gb_turbo_shoulder_subtitle">Steuerelemente einrichten</string>
+  <string name="gb_turbo_time_subtitle">Zeitplan Ihrer Sitzungen</string>
+  <string name="gb_turbo_voice_subtitle">Schwung in Ihre Unterhaltungen bringen</string>
+  <string name="gb_turbo_wonder_subtitle">Schlüsselmomente aufzeichnen</string>
   <string name="gb_voice_change_audition_tip">Nur Vorsprechen</string>
   <string name="gb_voice_change_settinged">Sprachwandler ist an</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Ihr Abo erneuern, um Echtzeit-Feedback nutzen zu können.</string>
@@ -1953,7 +1958,7 @@ und unseren Voice Changer erkunden!"</string>
   <string name="gb_voice_changer_user_status_renew">Erneuern</string>
   <string name="gb_voice_changer_user_tips_info_vip_expire">Ihre Abos sind abgelaufen. Abo jetzt erneuern, um von den Vorteilen zu profitieren!</string>
   <string name="gb_voice_changer_user_vip_expired">Abgelaufen</string>
-  <string name="gb_voice_changer_user_vip_remain_time">Ablaufzeit: %s</string>
+  <string name="gb_voice_changer_user_vip_remain_time">Ablaufdatum: %s</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Schlüsselmomente Ihrer
 Spielsitzungen aufzeichnen"</string>
   <string name="gb_wonderful_video_cancel">Abbrechen</string>
@@ -2035,13 +2040,15 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gtb_exit_game_to_home">Zurück zum Startbildschirm</string>
   <string name="gtb_guide_finish">Überspringen</string>
   <string name="gtb_guide_gtb_button_done">Fertig</string>
-  <string name="gtb_guide_gtb_community_desc">Sammlung von Expertentipps und spannenden Momenten</string>
-  <string name="gtb_guide_gtb_community_title">Spielegemeinschaft</string>
-  <string name="gtb_guide_gtb_func_desc">Mehr Spielspaß erleben</string>
+  <string name="gtb_guide_gtb_community_desc">Ihre Erfahrungen mit anderen Spielern teilen</string>
+  <string name="gtb_guide_gtb_community_title">Gemeinschaft</string>
+  <string name="gtb_guide_gtb_func_desc">Ihr Spiel verbessern</string>
   <string name="gtb_guide_gtb_func_title">Spieleassistent</string>
-  <string name="gtb_guide_gtb_line_new">Neuen GAME TURBO für das beste Spielerlebnisse aufrufen</string>
-  <string name="gtb_guide_small_window_app_desc">Sprechen und Spielen in einem Schritt</string>
-  <string name="gtb_guide_small_window_app_title">Kleines Fenster-App</string>
+  <string name="gtb_guide_gtb_game_effected">Angewandt</string>
+  <string name="gtb_guide_gtb_game_new">Neu</string>
+  <string name="gtb_guide_gtb_line_new">Ihr Spiel mit dem brandneuen Game Turbo steigern!</string>
+  <string name="gtb_guide_small_window_app_desc">Andere Apps während des Spiels verwenden</string>
+  <string name="gtb_guide_small_window_app_title">Popups</string>
   <string name="gtb_setting_item_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren.</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Verbindungsgeschwindigkeit um 10%%-20%% bei Verbindung mit Mi-/Redmi-Routern erhöhen</string>
   <string name="gtb_setting_item_title_brightness">Bildschirmhelligkeit automatisch verringern</string>
@@ -4962,7 +4969,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="warningcenter_policeassist_noti_send">Standort mit der Polizei geteilt</string>
   <string name="warningcenter_policeassist_noti_title">Standort bei Notrufen teilen</string>
   <string name="warningcenter_policeassist_open_btn">Einschalten</string>
-  <string name="warningcenter_policeassist_open_content">Ihre Standortinformationen über SMS oder mobile Daten automatisch an die Polizei senden, während Sie 110, 120, 119, 122 oder 12122 anrufen.</string>
+  <string name="warningcenter_policeassist_open_content">Ihre Standortinformationen über SMS oder mobile Daten automatisch an die Polizei senden, während Sie 110, 120, 119, oder 122 anrufen.</string>
   <string name="warningcenter_policeassist_open_title">Standort bei Notrufen mit der Polizei teilen</string>
   <string name="warningcenter_policeassist_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
   <string name="warningcenter_policeassist_title">Notfallstandort</string>

@@ -2510,6 +2510,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="demote_conversation_title">Keine Unterhaltung</string>
   <string name="deny">Ablehnen</string>
   <string name="deselect_all">Alle abwählen</string>
+  <string name="desktop_widget_authorization">Tippen, um Berechtigungen für die Statistikanzeigen zu erteilen.</string>
+  <string name="desktop_widget_not_support">Bildschirmzeitstatistiken werden\nnicht im Zweitprofil erstellt</string>
+  <string name="desktop_widget_screen_use_time">Bildschirmzeit</string>
   <string name="detail_app_button">App-Info</string>
   <string name="details_subtitle">Nutzungsdetails</string>
   <string name="details_title">Nutzungsdetails</string>
@@ -8939,6 +8942,7 @@ Deaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Gerät
   <string name="usage_access">Nutzungszugriff</string>
   <string name="usage_access_description">Mit Nutzungszugriff können Apps sowohl verfolgen, welche anderen Apps Sie wie oft benutzen, als auch Ihren Anbieter, die Spracheinstellungen und andere Details.</string>
   <string name="usage_access_title">Apps mit Nutzungszugriff</string>
+  <string name="usage_app_desktop_widget_limit">%s übrig</string>
   <string name="usage_app_get_it">Verstanden</string>
   <string name="usage_app_limit_alter_summary">Anscheinend ist dieses Zeitlimit kürzer als die Zeit, die Sie heute diese App benutzt haben. Trotzdem Limit setzen?</string>
   <string name="usage_app_limit_alter_title">Bildschirmzeitlimit prüfen</string>
