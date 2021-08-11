@@ -2926,6 +2926,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="enable_local_backup">Einschalten</string>
   <string name="enable_local_backup_cancel">Abbrechen</string>
   <string name="enable_local_backup_message">Diese Funktion einschalten, um Sicherungen auf diesem Gerät zu speichern und sie auf Ihren Computer oder ein USB-Speichergerät zu kopieren. Jetzt einschalten?</string>
+  <string name="enable_local_backup_message_intledition">Funktion einschalten, um Sicherungen auf diesem Gerät zu speichern und auf Ihren Computer zu kopieren. Jetzt einschalten?</string>
   <string name="enable_local_backup_title">Lokale Sicherungen</string>
   <string name="enable_mms_notification_channel_title">MMS-Nachricht</string>
   <string name="enable_mms_notification_summary">Tippen, um MMS-Nachrichten auf %1$s zu erlauben, wenn mobile Daten ausgeschaltet sind</string>
@@ -7440,6 +7441,11 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="settings_backup">Einstellungen sichern</string>
   <string name="settings_backup_summary">Meine Einstellungen sichern</string>
   <string name="settings_button">Einstellungen</string>
+  <string name="settings_charging_at_fast_speed">Schnelles Laden</string>
+  <string name="settings_charging_at_normal_speed">Laden</string>
+  <string name="settings_charging_at_top_speed">Laden mit Höchstgeschwindigkeit</string>
+  <string name="settings_charging_fully_charged">Vollständig geladen</string>
+  <string name="settings_charging_not_charging">Nicht laden</string>
   <string name="settings_forbidden_message">Diese Einstellung ist eingeschränkt</string>
   <string name="settings_label">Einstellungen</string>
   <string name="settings_label_launcher">Einstellungen</string>
