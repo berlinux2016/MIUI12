@@ -145,6 +145,10 @@
     <item quantity="other">Vor %d Minuten</item>
     <item quantity="one">Vor 1 Minute</item>
   </plurals>
+  <plurals name="pa_edit_text_min_length">
+    <item quantity="other">Mindestens %1$d Zeichen</item>
+    <item quantity="one">Mindestens %1$d Zeichen</item>
+  </plurals>
   <plurals name="payment_record_menu_select_num">
     <item quantity="other">%s Elemente ausgewählt</item>
     <item quantity="one">%s Element ausgewählt</item>
