@@ -3076,7 +3076,9 @@ Stromverbrauch"</string>
   <string name="power_center_scan_item_title_hide">Akkuverbrauch verwalten</string>
   <string name="power_center_scan_item_title_power_saver">Stromsparen einschalten</string>
   <string name="power_center_scan_item_title_running_app">Im Hintergrund laufende Apps</string>
-  <string name="power_center_scan_result_safe">Keine Akkuprobleme gefunden</string>
+  <string name="power_center_scan_result_safe">Keine Akkuprobleme vorhanden</string>
+  <string name="power_center_super_wireless_charge_enter_noti_summary">Lüftergeschwindigkeit des Kühlers erhöhen, um schneller zu laden</string>
+  <string name="power_center_super_wireless_charge_enter_noti_title">Kabelloses Schnellladen ausprobieren</string
   <string name="power_center_state_off">Aus</string>
   <string name="power_center_state_on">An</string>
   <string name="power_center_stop_scan_title">Scannen stoppen</string>
@@ -3090,7 +3092,7 @@ Stromverbrauch"</string>
   <string name="power_center_super_wireless_charge_noti_summary">Tippen, um Einstellungen zu öffnen</string>
   <string name="power_center_super_wireless_charge_noti_switch">Über kabelloses Schnellladen benachrichtigen</string>
   <string name="power_center_super_wireless_charge_noti_title">Kabelloses Schnellladen ist an</string>
-  <string name="power_center_super_wireless_charge_summary">Erhöhen Sie die Lüftergeschwindigkeit des Kühlers des kabellosen Ladegeräts</string>
+  <string name="power_center_super_wireless_charge_summary">Lüftergeschwindigkeit des Kühlers erhöhen, um schneller zu laden</string>
   <string name="power_center_super_wireless_charge_toast_close">Kabelloses Schnellladen ist aus</string>
   <string name="power_center_time_to_boot">Einschaltzeit</string>
   <string name="power_center_time_to_shutdown">Ausschaltzeit</string>
