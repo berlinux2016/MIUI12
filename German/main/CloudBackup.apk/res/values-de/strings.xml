@@ -53,12 +53,12 @@
   <string name="backup_warning_reason_app_usage_denied">"Daten wurden nicht synchronisiert.
 Berechtigungen erforderlich."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">Zurück nicht möglich</string>
-  <string name="backup_warning_reason_disk_space_not_enough">"Nicht genügend Speicherplatz
-vorhanden, sichern nicht möglich "</string>
-  <string name="backup_warning_reason_network_error">"Netzwerkfehler,
-sichern nicht möglich"</string>
-  <string name="backup_warning_reason_no_server_response">"Verbindung wurde unterbrochen,
-erneut versuchen"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Sichern nicht möglich.
+Nicht genügend Speicherplatz."</string>
+  <string name="backup_warning_reason_network_error">"Netzwerkfehler.
+Sichern nicht möglich"</string>
+  <string name="backup_warning_reason_no_server_response">"Verbindung wurde unterbrochen.
+Erneut versuchen"</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_continue">Fortfahren</string>
   <string name="btn_restore_abort">Abbrechen</string>
@@ -86,7 +86,7 @@ erneut versuchen"</string>
   <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Mit Xiaomi Cloud verbinden…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
-  <string name="cloud_app_dont_restore">Nicht wiederherstellen</string>
+  <string name="cloud_app_dont_restore">Als neues Gerät verwenden</string>
   <string name="cloud_app_no_data">Keine vorherigen App-Installationen gefunden</string>
   <string name="cloud_app_no_network">Netzwerkverbindung nicht möglich</string>
   <string name="cloud_app_other_devices">Andere Geräte</string>
@@ -143,7 +143,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="confirm_cancel_restore_title">Wiederherstellen abbrechen?</string>
   <string name="confirm_restore">Wiederherstellen</string>
   <string name="confirm_restore_app_data">App-Daten überschreiben</string>
-  <string name="confirm_restore_app_data_summary">Wiederherstellen von WeChat-Daten überschreibt die aktuelle Version der App-Daten auf diesem Gerät. Trotzdem wiederherstellen?</string>
+  <string name="confirm_restore_app_data_summary">Anscheinend hat WeChat bereits Daten auf diesem Gerät erstellt. Mit den Daten aus der Sicherung überschreiben?</string>
   <string name="confirm_restore_summary">Ihr Startbildschirm wird neu gestartet. Gesicherte Apps werden automatisch heruntergeladen.</string>
   <string name="confirm_restore_title">Wiederherstellen</string>
   <string name="copy">Kopieren</string>
@@ -359,6 +359,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="restore_init_description">Wiederherstellung starten</string>
   <string name="restore_network_pause">Angehalten, um mobile Daten zu sparen. Tippen, um fortzufahren.</string>
   <string name="restore_network_unconnect">%s (auf Verbindung warten)</string>
+  <string name="restore_prepare_item_type_enable">Verfügbare Sicherungen</string>
+  <string name="restore_prepare_item_type_other">Andere Sicherungen</string>
   <string name="restore_task_cancelling">Abbrechen…</string>
   <string name="restore_task_in_process">Wiederherstellen…</string>
   <string name="restore_task_unfinished">Wiederherstellen nicht möglich</string>
@@ -376,8 +378,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="second_space">Zweitprofil</string>
   <string name="selected">Ausgewählt</string>
   <string name="self_device">" dieses Telefons"</string>
-  <string name="self_device_main_space">Hauptprofil des Telefons</string>
-  <string name="self_device_second_space">Zweitprofil des Telefons</string>
+  <string name="self_device_main_space">Hauptprofil</string>
+  <string name="self_device_second_space">Zweitprofil</string>
   <string name="self_phone">Dieses Telefon</string>
   <string name="self_phone_home">Dieses Telefon: %s</string>
   <string name="send">Senden</string>
