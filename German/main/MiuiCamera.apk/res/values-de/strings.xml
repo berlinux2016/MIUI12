@@ -2221,7 +2221,7 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="video_effect_entry_summer_day_describe">Niedriger Kontrast und helle Töne funktionieren gut, wenn Sie Hauttöne beibehalten müssen. Dieser Filter ist für sonnige Außenaufnahmen geeignet.</string>
   <string name="video_effect_entry_wind_sing">Brise</string>
   <string name="video_err">Videowiedergabe fehlgeschlagen</string>
-  <string name="video_overheat_tip_content">Sieht so aus, als wäre Ihr Gerät zu heiß. Versuchen Sie, Videos mit einer niedrigeren Auflösung aufzunehmen.</string
+  <string name="video_overheat_tip_content">Sieht so aus, als wäre Ihr Gerät zu heiß. Versuchen Sie, Videos mit einer niedrigeren Auflösung aufzunehmen.</string>
   <string name="video_reach_size_limit">Maximale Größe erreicht</string>
   <string name="video_shortcut_long">Video</string>
   <string name="video_shortcut_short">Video</string>

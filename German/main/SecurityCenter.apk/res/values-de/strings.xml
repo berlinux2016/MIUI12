@@ -3078,7 +3078,7 @@ Stromverbrauch"</string>
   <string name="power_center_scan_item_title_running_app">Im Hintergrund laufende Apps</string>
   <string name="power_center_scan_result_safe">Keine Akkuprobleme vorhanden</string>
   <string name="power_center_super_wireless_charge_enter_noti_summary">Lüftergeschwindigkeit des Kühlers erhöhen, um schneller zu laden</string>
-  <string name="power_center_super_wireless_charge_enter_noti_title">Kabelloses Schnellladen ausprobieren</string
+  <string name="power_center_super_wireless_charge_enter_noti_title">Kabelloses Schnellladen ausprobieren</string>
   <string name="power_center_state_off">Aus</string>
   <string name="power_center_state_on">An</string>
   <string name="power_center_stop_scan_title">Scannen stoppen</string>
