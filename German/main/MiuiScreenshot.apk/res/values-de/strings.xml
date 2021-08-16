@@ -58,6 +58,7 @@
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
+  <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
   <string name="long_screenshot_guide_text">"Hier tippen, um einen
 Screenshot mit Bildlauf zu erstellen"</string>
   <string name="long_screenshot_out_of_memory_error">Bild ist zu groß</string>
@@ -65,6 +66,7 @@ Screenshot mit Bildlauf zu erstellen"</string>
   <string name="long_screenshot_stop">Fertig</string>
   <string name="long_screenshot_top_msg">Screenshot erstellen…</string>
   <string name="long_screenshot_top_msg_manual">Screenshot zurechtschneiden und zum Abschließen Taste drücken</string>
+  <string name="memory_leak">Speicherleck</string>
   <string name="midnight">Nacht</string>>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
@@ -119,6 +121,7 @@ Screenshot mit Bildlauf zu erstellen"</string>
   <string name="morning">Morgen</string>
   <string name="night">Abend</string>
   <string name="noon">Mittag</string>
+  <string name="notification_channel_alerts">Warnungen</string>
   <string name="partial_screenshot_edit">Bearbeiten</string>
   <string name="partial_screenshot_failed_to_capture_title">Diese App gestattet keine Screenshots</string>
   <string name="partial_screenshot_failed_to_save_title">Speichern nicht möglich. Nicht genug Speicherplatz.</string>

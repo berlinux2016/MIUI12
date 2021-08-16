@@ -445,6 +445,8 @@
   <string name="clip_menu_speedx">Geschwindigkeit</string>
   <string name="close">Schließen</string>
   <string name="close_dialog_desc">Dialogbox schließen</string>
+  <string name="cloud_action_open">Einschalten</string>
+  <string name="cloud_action_view">Anzeigen</string>
   <string name="cloud_authorize_to_share_to_device">Autorisierung der Anzeige von Elementen auf TVs, die mit Ihrem Mi-Konto verknüpft sind</string>
   <string name="cloud_authorizing_to_device">Autorisieren…</string>
   <string name="cloud_backup_enable_title">Synchronisieren</string>
@@ -883,6 +885,7 @@
   <string name="filter_popular_coffee">Kaffee</string>
   <string name="filter_popular_coldsmoke">Kalter Nebel</string>
   <string name="filter_popular_comic">Comic</string>
+  <string name="filter_popular_cyan">Immergrün</string>
   <string name="filter_popular_dream">Träumerei</string>
   <string name="filter_popular_gingertea">Ingwer</string>
   <string name="filter_popular_hill">Berge</string>
@@ -890,9 +893,11 @@
   <string name="filter_popular_icesnow">Schneefall</string>
   <string name="filter_popular_kamakura">Kamakura</string>
   <string name="filter_popular_lnk">Tinte</string>
+  <string name="filter_popular_polaroid">Sofortbildfilm</string>
   <string name="filter_popular_purple">Purpur</string>
   <string name="filter_popular_shallow_summer">Juni</string>
   <string name="filter_popular_smokegreen">Sage</string>
+  <string name="filter_popular_sunset">Abendzeit</string>
   <string name="filter_popular_watergreen">Smaragd</string>
   <string name="filter_popular_windchime">Glockenspiel</string>
   <string name="filter_popular_wintersun">Mittwinterzeit</string>
@@ -1577,6 +1582,8 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="photo_editor_crop_auto">Automatisch</string>
   <string name="photo_editor_crop_auto_tips">Automatisches Zuschneiden</string>
   <string name="photo_editor_crop_reset">Zurücksetzen</string>
+  <string name="photo_editor_crop_size_free">Benutzerdefiniert</string>
+  <string name="photo_editor_crop_size_fullscreen">Vollbild</string>
   <string name="photo_editor_doodle">Malen</string>
   <string name="photo_editor_font_default">&gt;Mi Lanting (Regulär)</string>
   <string name="photo_editor_frame">Rahmen</string>
@@ -1896,6 +1903,18 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="screen_save_dialog_btn_cancel">Abbrechen</string>
   <string name="screen_save_dialog_btn_delete">Screenshot löschen</string>
   <string name="screen_save_dialog_btn_save">In Galerie speichern</string>
+  <string name="screen_talkback_a_little_large">Groß</string>
+  <string name="screen_talkback_a_little_small">Klein</string>
+  <string name="screen_talkback_alpha_x">Deckkraft %s</string>
+  <string name="screen_talkback_color_x">Farbe %d</string>
+  <string name="screen_talkback_eraser">Radierer</string>
+  <string name="screen_talkback_large">Extra groß</string>
+  <string name="screen_talkback_mosaic">Mosaik</string>
+  <string name="screen_talkback_mosaic_size_x">Mosaikbereich: %s</string>
+  <string name="screen_talkback_pen">Stift</string>
+  <string name="screen_talkback_row_x_column_x">Reihe %1$d. Position %2$d.</string>
+  <string name="screen_talkback_shape">Form</string>
+  <string name="screen_talkback_small">Extra klein</string>
   <string name="search_backup_full_screen">Synchronisation mit der Cloud einschalten, um mehr Objekte und Personen zu finden</string>
   <string name="search_backup_full_screen_new">Synchronisation mit der Cloud einschalten, um die Suche effektiver zu machen</string>
   <string name="search_backup_now">Einschalten</string>
@@ -2071,6 +2090,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="slim_space">freigegeben</string>
   <string name="slim_stop_v2">Stopp</string>
   <string name="slim_stop">Optimierung anhalten</string>
+  <string name="slim_success_tip">%s Speicherplatz freigegeben</string>
   <string name="solar_term_autumn_begins">Herbstanfang</string>
   <string name="solar_term_autumn_equinox">Herbsttagundnachtgleiche</string>
   <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -2200,6 +2220,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="talkback_portrait_with_time_and_location">Porträt, %1$s, %2$s</string>
   <string name="talkback_signature_delete">Diese Signatur löschen</string>
   <string name="talkback_signature_select_color_1">Schwarz</string>
+  <string name="talkback_signature_select_color_2">Rot</string>
   <string name="talkback_signature_select_color_4">Blau</string>
   <string name="talkback_story_album_playicon">Diese Erinnerung abspielen</string>
   <string name="text_append_color">Farbe</string>
@@ -2763,6 +2784,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="who_is_this">Wer?</string>
   <string name="widget_custom_store_detail_desc">Bilder wählen, die Sie sehen möchten</string>
   <string name="widget_editor_confirm">Fertig</string>
+  <string name="widget_editor_load_fail">Foto wurde nicht geladen</string>
   <string name="widget_editor_reselect">Erneut wählen</string>
   <string name="widget_editor_title">Bearbeiten</string>
   <string name="widget_label_custom">Bilder</string>
@@ -2773,6 +2795,8 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="widget_recommend_default_title_on_story">Erinnerungen</string>
   <string name="widget_recommend_default_title_open_story">\"Erinnerungen\" einschalten</string>
   <string name="widget_recommend_store_detail_desc">Aktuelle Fotos und schöne Momente aus der Vergangenheit</string>
+  <string name="widget_talkback_custom">Galerie. Ausgewählte Bilder.</string>
+  <string name="widget_talkback_recommend">Galerie. Erinnerungen.</string>
   <string name="xiaomi_account_not_exists_toast">Xiaomi-Konto existiert nicht</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gestern</string>
