@@ -732,7 +732,7 @@ Diesen Code bitte an den Techniker senden."</string>
   <string name="never_subscribe_radio">Sind Sie sicher, dass Sie diese FM nie abonniert haben?</string>
   <string name="new_comment">Letzter Kommentar (%s Artikel)</string>
   <string name="new_frequency">Neue Frequenz</string>
-  <string name="new_search_instant_title">Suchen： %1$s</string>
+  <string name="new_search_instant_title">Suchen: %1$s</string>
   <string name="news">Neuigkeiten</string>
   <string name="news_not_interest_positive">Nicht interessiert</string>
   <string name="next_station">Nächster Sender</string>
@@ -1351,7 +1351,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="user_id_hint">E-Mail/Telefon</string>
   <string name="usercenter_store_button_text">Einlösen</string>
   <string name="usercenter_task_check_in">Aufgabe einchecken</string>
-  <string name="usercenter_task_complete_toast">Abgeschlossen： %1$s</string>
+  <string name="usercenter_task_complete_toast">Abgeschlossen: %1$s</string>
   <string name="usercenter_task_status_finished">Abgeschlossen</string>
   <string name="usercenter_task_status_start">Beginn</string>
   <string name="usercenter_task_title">Missionen</string>

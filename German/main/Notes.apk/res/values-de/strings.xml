@@ -301,7 +301,7 @@
   <string name="loading_text">Einen Moment…</string>
   <string name="login_sync">Anmelden &amp; Synchronisieren</string>
   <string name="lunar_day">Mond-%1$s</string>
-  <string name="material_clock_toggle_content_description">Vormittags oder nachmittags auswählen</string>
+  <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
   <string name="material_hour_selection">Stunde auswählen</string>
   <string name="material_hour_suffix">%1$s Uhr</string>
   <string name="material_minute_selection">Minuten auswählen</string>

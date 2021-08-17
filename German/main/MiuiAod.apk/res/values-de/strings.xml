@@ -139,12 +139,14 @@ dd.MM."</string>
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
+  <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
   <string name="icon_content_description">Dialogsymbol</string>
   <string name="large_time">Große Uhr</string>
   <string name="letter_space">Buchstabenabstand</string>
   <string name="line_space">Zeilenabstand</string>
   <string name="material_slider_range_end">Bereichsende,</string>
   <string name="material_slider_range_start">Bereichsanfang,</string>
+  <string name="memory_leak">Speicherleck</string>
   <string name="midnight">Nacht</string>
   <string name="mini_time">Kleine Uhr</string>
   <string name="minimalist_clock">Einfache Uhr</string>
@@ -238,6 +240,7 @@ dd.MM."</string>
   <string name="notification_anim_pulse">Pulsieren</string>
   <string name="notification_anim_rhythm">Rhythmus</string>
   <string name="notification_anim_star">Sternenlicht</string>
+  <string name="notification_channel_alerts">Warnungen</string>
   <string name="notification_nothing">Nichts</string>
   <string name="notification_screen_on">Beleuchteter Bildschirm</string>
   <string name="only_show_bg_description">Uhrzeit, Datum und andere Elemente nicht anzeigen</string>
