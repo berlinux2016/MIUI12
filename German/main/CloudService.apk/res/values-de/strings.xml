@@ -126,7 +126,7 @@
   <string name="find_device_operation_failure_rpc">Aktion wurde wegen eines RPC Fehlers nicht ausgeführt</string>
   <string name="find_device_send_sms_alert">Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS versendet, um diese Funktion zu reaktivieren</string>
   <string name="find_device_service_title">Gerät finden</string>
-  <string name="find_device_status_summary">Gerät orten und sperren, Daten per Fernzugriff löschen oder Fotos machen</string>
+  <string name="find_device_status_summary">Gerät orten und sperren sowie Daten aus der Ferne löschen</string>
   <string name="find_device_status_title_pad">Gerät finden</string>
   <string name="find_device_status_title_phone">Gerät finden</string>
   <string name="finddevice_miservice_notification_content">Gerät ferngesteuert sperren, wenn es verloren geht</string>
@@ -325,7 +325,7 @@ Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Aktivieren Sie Gerät finden, um Ihre WeChat-Daten zu schützen</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Aktivieren Sie Gerät finden, um Ihre Alipay-Daten zu schützen</string>
   <string name="micloud_find_device_guide_progress">Gerät finden aktivieren…</string>
-  <string name="micloud_find_device_guide_title">Auf &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> bei Ihrem Mi-Konto anmelden, um Ihr Gerät zu orten und zu sperren, es als verloren zu markieren, Daten zu löschen oder aus der Ferne Fotos zu machen. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Hier&lt;/a> Details anzeigen.</string>
+  <string name="micloud_find_device_guide_title">Auf &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> bei Ihrem Mi-Konto anmelden, um Ihr Gerät zu orten und zu sperren, es als verloren zu markieren oder Daten aus der Ferne zu löschen. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Hier&lt;/a> Details anzeigen.</string>
   <string name="micloud_find_device_inter_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> wird automatisch gesendet, um diesen Dienst zu aktivieren. Wenn Sie die SIM-Karte wechseln, wird &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> automatisch zur Reaktivierung versendet.&lt;br/>Alle SMS-Kosten, die durch die oben genannten Aktionen entstehen, werden von Ihrem Anbieter eingezogen. Xiaomi wird Ihnen diese Nachrichten nicht in Rechnung stellen.</string>
   <string name="micloud_find_device_open_fail">Gerät finden wurde nicht aktiviert</string>
   <string name="micloud_find_device_opened">Gerät finden ist an</string>
@@ -750,8 +750,8 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
   <string name="recommend_service_cloudservice_description">Synchronisieren von System-App-Daten, Sichern von Einstellungen, Startbildschirm-Layout und mehr</string>
   <string name="recommend_service_sharelocation_description">Orten, sperren und löschen Sie Daten auf verlorenen Geräten und teilen Sie den Standort mit Ihren Freunden und Ihrer Familie</string>
   <string name="recommend_service_title">Empfohlene Leistungen</string>
-  <string name="retain_data_high_quality_photo_waring_message">Bilder in hoher Qualität werden nach der Abmeldung aus Ihrer Galerie gelöscht. Entsprechende Originaldateien werden weiterhin in der Cloud gespeichert. Sie können auch Originaldateien herunterladen, bevor Sie sich abmelden.</string>
-  <string name="retain_data_high_quality_photo_waring_title">Bilder in hoher Qualität werden nicht verfügbar sein</string>
+  <string name="retain_data_high_quality_photo_waring_message">Hochwertige Kopien Ihrer Fotos und Videos werden aus der Galerie gelöscht, wenn Sie sich abmelden. Entsprechende Originaldateien werden weiterhin in der Cloud gespeichert. Sie können auch Originaldateien herunterladen, bevor Sie sich abmelden.</string>
+  <string name="retain_data_high_quality_photo_waring_title">Hochwertige Bilder werden nicht verfügbar sein</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>

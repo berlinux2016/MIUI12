@@ -161,6 +161,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="desktop_waiting">Warten</string>
   <string name="device_delete_prompt">Sicherung von %s löschen?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+  <string name="dialog_app_usage_consent_message">Diese Funktion muss auf die App-Nutzungsdaten zugreifen, um die Größe der WeChat-Backups abschätzen zu können.</string>
+  <string name="dialog_app_usage_consent_title">Zugriff auf App-Nutzungsdaten zulassen</string>
   <string name="dialog_app_usage_denied">Sicherung die Berechtigung \"Nutzungszugriff\" in den Einstellungen gewähren, um Elemente sichern zu können.</string>
   <string name="dialog_backup_failed">Sichern nicht möglich</string>
   <string name="dialog_btn_cancel_backup">Abbrechen</string>
@@ -169,6 +171,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="dialog_btn_next">Weiter</string>
   <string name="dialog_btn_overwrite_backup">Überschreiben</string>
   <string name="dialog_btn_restore_skip">Später wiederherstellen</string>
+  <string name="dialog_button_agree">Zulassen</string>
+  <string name="dialog_button_disagree">Verweigern</string>
   <string name="dialog_cancel_backup_cancel">Abbrechen</string>
   <string name="dialog_cancel_backup_msg">Durch Umschalten werden laufende Sicherungen beendet</string>
   <string name="dialog_cancel_backup_title">Laufende Sicherung abbrechen?</string>
@@ -188,6 +192,11 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="download_meta_failed">Daten laden fehlgeschlagen</string>
   <string name="download_settings">Startbildschirmeinstellungen herunterladen %s%%</string>
   <string name="download_settings_fail">Startbildschirmeinstellungen herunterladen fehlgeschlagen</string>
+  <string name="dump_app_data_record_complete_msg">Dateispeicherort: %s</string>
+  <string name="dump_app_data_record_complete_title">WeChat-Daten erfolgreich gesichert</string>
+  <string name="dump_app_data_record_not_found_msg">Anscheinend haben Sie die WeChat-Daten noch nicht gesichert</string>
+  <string name="dump_app_data_record_not_found_title">WeChat-Backups nicht gefunden</string>
+  <string name="dump_app_data_record_running_title">Sichern von WeChat-Daten…</string>
   <string name="early_morning">Morgen</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>

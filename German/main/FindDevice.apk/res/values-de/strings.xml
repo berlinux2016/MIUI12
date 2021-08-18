@@ -59,14 +59,14 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
   <string name="find_device_error_server">Serverfehler (%s)</string>
   <string name="find_device_error_unknown">Unbekannter Fehler (%s)</string>
   <string name="find_device_noise_title">Gerät finden-Alarm</string>
-  <string name="find_device_notice">Gehen Sie auf&lt;br /&gt;&lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;,um Ihr Gerät zu finden und zu sperren, es als verloren zu markieren, Daten zu löschen oder Fotos aus der Ferne aufzunehmen.</string>
+  <string name="find_device_notice">Gehen Sie auf&lt;br /&gt;&lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;, um Ihr Gerät zu orten, zu sperren oder wiederherzustellen.</string>
   <string name="find_device_notice_sms_alert">Wenn Sie die SIM-Karten wechseln, wird eventuell automatisch eine weitere SMS gesendet, um diese Funktion wieder zu aktivieren.</string>
   <string name="find_device_notice_sms_alert_with_common_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, nachdem Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>inländische kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, nachdem Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, nachdem Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
   <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
   <string name="find_device_storage_corrupted">Gerät finden-Speicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
-  <string name="find_device_success_title">Gerät finden</string>
+  <string name="find_device_success_title">Gerät finden ist an</string>
   <string name="find_device_telephony_fault">Gerät finden: Telefoniefehler (%s).</string>
   <string name="fmt_chinese_date">dd.MM.</string>
   <string name="fmt_date_day">d.</string>
@@ -268,7 +268,7 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
   <string name="unlock_error_passport_sdk_timeout">Mi-Konto SDK antwortet nicht</string>
   <string name="unlock_error_rpc">RPC-Fehler</string>
   <string name="unlock_error_server">Serverfehler</string>
-  <string name="unlock_error_ssl_hand_shake">Keine Verbindung zum Server, stellen Sie Datum und Uhrzeit manuell ein</string>
+  <string name="unlock_error_ssl_hand_shake">Keine Server-Verbindung. Datum und Uhrzeit manuell einstellen.</string>
   <string name="unlock_error_unknown">Anmeldung nicht möglich</string>
   <string name="unlock_error_user_name">Ungültiger Benutzername</string>
   <string name="unlock_error_wrong_vcode">Eingegebener Code ist falsch</string>

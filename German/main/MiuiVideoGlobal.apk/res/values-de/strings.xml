@@ -507,6 +507,7 @@ für Videos"</string>
   <string name="live_now">Jetzt live</string>
   <string name="loading">Einen Moment…</string>
   <string name="local_play_tip">Lokales Video abspielen</string>
+  <string name="local_push_setting_power_tag">Benachrichtigungen über lokale Videos</string>
   <string name="local_push_title">Heute beliebt</string>
   <string name="local_video_create_a_new_playlist">Neue Wiedergabeliste</string>
   <string name="local_video_date">Datum</string>
@@ -1357,6 +1358,7 @@ Es zeigt nichts an."</string>
   <string name="type_issue">Thema</string>
   <string name="type_suggestion">Empfehlung</string>
   <string name="ugc_no_net">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="ui_common_title_back">Zurück</string>
   <string name="ui_log_tip">Auf diesen Bereich tippen, um alte Logs auszublenden; gedrückt halten, um sie zu löschen. Logs manuell ziehen.</string>
   <string name="unknow">Unbekannt</string>
   <string name="unknown_error_info">Unbekannter Fehler</string>
