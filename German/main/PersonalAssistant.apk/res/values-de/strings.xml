@@ -2034,7 +2034,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="pa_setting_privacy_auth">Allow analyzing app usage</string>
   <string name="pa_setting_privacy_auth_summary">"You'll receive suggestions based on your usage habits"</string>
   <string name="pa_setting_privacy_policy">Privacy Policy</string>
-  <string name="pa_setting_version">Version：%1$s</string>
+  <string name="pa_setting_version">Version: %1$s</string>
   <string name="pa_shortcut_accessibility_description">"App vault provides shortcuts for selected third party apps. These shortcuts won't work if you turn the feature off."</string>
   <string name="pa_shortcut_accessibility_service">App vault</string>
   <string name="pa_shortcut_add_limit">You can add up to %1$d shortcuts</string>
