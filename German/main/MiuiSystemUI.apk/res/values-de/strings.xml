@@ -1809,6 +1809,7 @@ Screenshot zu erstellen"</string>
   <string name="open_lock_screen_magazine_hint_text">Für mehr Optionen nach rechts wischen</string>
   <string name="open_remote_center_hint_text">Nach re. wischen für Verknüpfungen</string>
   <string name="open_saver_setting_action">Einstellungen</string>
+  <string name="open_xmyzl_hint_text">Nach rechts wischen, um Xiaomi Magic Control zu öffnen</string>
   <string name="orb_search_action">Aktion suchen</string>
   <string name="osu_completing_sign_up">Anmeldung abschließen…</string>
   <string name="osu_connect_failed">Verbindung nicht möglich</string>
