@@ -621,8 +621,8 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="noon">Mittag</string>
   <string name="not_set">Nicht festgelegt</string>
   <string name="notification_reinstall_key_text">Identität verifizieren und erneut versuchen</string>
-  <string name="notification_sync_fail_title">Synchronisation nicht möglich</string>
-  <string name="notification_update_key_text">Ihr Passcode wurde zurückgesetzt</string>
+  <string name="notification_sync_fail_title">Passwörter synchronisieren nicht möglich</string>
+  <string name="notification_update_key_text">Passwortmanager-Passcode geändert. Prüfen Sie den neuen Passcode.</string>
   <string name="other_sync_item">Andere Inhalte zur Synchronisation</string>
   <string name="pay_info_dialog_confirm_to_pay">%s zahlen</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Verbleibende Mi Coins nutzen: %s</string>

@@ -4432,8 +4432,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="lock_profile_wipe_warning_content_pin">Wenn Sie bei diesem Versuch eine falsche PIN eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
   <string name="lock_profile_wipe_warning_title">Letzter Versuch</string>
   <string name="lock_screen_action">Elemente, die nach Herunterziehen am Sperrbildschirm angezeigt werden</string>
-  <string name="lock_screen_after_fold_screen_summary">Gerät wird gesperrt, wenn Sie es zusammengeklappt haben, außer in den Fällen, in denen Sie die Frontkamera oder den Lautsprecher verwenden.</string>
-  <string name="lock_screen_after_fold_screen_title">Zum Sperren zusammenklappen</string>
+  <string name="lock_screen_after_fold_screen_summary">Bei Verwendung der Frontkamera oder der Hörmuschel wird der Bildschirm nach dem Umklappen nicht gesperrt</string>
+  <string name="lock_screen_after_fold_screen_title">Bildschirm nach dem Falten sperren</string>
   <string name="lock_screen_display_category_name">Sperrbildschirm</string>
   <string name="lock_screen_intro_skip_dialog_text">Gerätschutzfunktionen wurden nicht aktiviert. Sie können andere nicht daran hindern, Ihr Telefon zu verwenden, wenn es verloren geht oder gestohlen wird.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Gerätschutzfunktionen wurden nicht aktiviert. Sie können andere nicht daran hindern, Ihr Telefon zu verwenden, wenn es verloren geht, gestohlen oder zurückgesetzt wird.</string>
@@ -5953,6 +5953,7 @@ Xiaomi Cloud öffnen und Elemente von dort wiederherstellen."</string>
   <string name="paper_mode_summary">Zu wärmeren Farben wechseln und dem Hintergrund eine Papierstruktur hinzufügen, um die Augenbelastung zu verringern</string>
   <string name="paper_mode_title">Papier</string>
   <string name="papger_effect_category">Modus</string>
+  <string name="params_interpretation">Detaillierte Spezifikationen</string>
   <string name="partial_connectivity_text">Einige Apps und Dienste funktionieren evtl. wegen eingeschränkter Konnektivität nicht. Trotzdem verwenden?</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
@@ -9277,6 +9278,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="view_password_description">Passwort anzeigen</string>
   <string name="view_saved_network">Zur Ansicht das gespeicherte Netzwerk wählen</string>
   <string name="vip_list">Bei Anruf benachrichtigen</string>
+  <string name="vip_service_settings">Meine Dienste</string>
   <string name="virtual_keyboard_category">Virtuelle Tastatur</string>
   <string name="virtual_keyboards_for_work_title">Virtuelle Tastatur für die Arbeit</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>

@@ -39,6 +39,8 @@
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
   <string name="default_device_name">Unbekanntes Gerät</string>
+  <string name="device_list_all">Alle Geräte</string>
+  <string name="device_list_more">Mehr</string>
   <string name="device_name">Gerätename</string>
   <string name="device_offline">Anderes Gerät ist offline. Von vorn beginnen.</string>
   <string name="device_status_failed">Senden nicht möglich</string>
@@ -326,9 +328,12 @@ Bevor Sie Mi Share nutzen können, müssen Sie die folgenden Berechtigungen erte
   <string name="tomorrow">Morgen</string>
   <string name="transfer_intercept_to_remote">Senden fehlgeschlagen: %1$s</string>
   <string name="transfer_to_pc_summary">Sie können Mi Share verwenden, um Elemente direkt an Mi Notebooks zu senden. Auf anderen Laptops müssen Sie Mi Share zuerst installieren.</string>
+  <string name="transfer_to_pc_summary_new"><Data>Die auf Mi Notebooks installierte neueste Version von MIUI+ ist mit Mi Share kompatibel. Sie können die Liste der unterstützten Laptop-Modelle auf der MIUI+-Website (&lt;a href=%1$s>%2$s&lt;/a>) prüfen. Wenn Ihr Laptop auf der Liste steht, aber MIUI+ nicht darauf installiert ist, aktualisieren Sie das BIOS und den Netzwerkkartentreiber Ihres Laptops und laden Sie MIUI+ herunter.</Data></string>
   <string name="transfer_to_pc_title">Dateien an Computer senden</string>
   <string name="transfer_to_phone_summary">Mi Share ermöglicht es Ihnen, Bilder und Dateien an Mi Telefone in der Nähe und andere kompatible Android-Geräte zu senden.</string>
   <string name="transfer_to_phone_title">Dateien an Telefone senden</string>
+  <string name="transfer_to_summary">Aktivieren Sie Mi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie ein Foto oder eine Datei teilen. Tippen Sie auf das Gerät des Empfängers, um das Element zu senden, das Sie teilen</string>
+  <string name="transfer_to_title">Dateien an mobile Geräte senden</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
   <string name="tuesday_shortest">D</string>
@@ -336,6 +341,14 @@ Bevor Sie Mi Share nutzen können, müssen Sie die folgenden Berechtigungen erte
   <string name="unrecognized_manufacture">Unbekannt</string>
   <string name="unrecognized_model">Unbekanntes Model</string>
   <string name="user_instructions">Achtung</string>
+  <string name="uwb_guide_summary_1">"Wenn Sie das Zielgerät nicht finden, bitten Sie die andere Person, in ihrem Kontrollzentrum auf die Mi Share-Schaltfläche zu tippen.</string>
+  <string name="uwb_guide_title_1">Andere Person bitten, Mi Share einzuschalten</string>
+  <string name="uwb_guide_title_2">Schnelleres Finden des Zielgeräts mit Beam</string>
+  <string name="uwb_setting_guide">Mehr erfahren</string>
+  <string name="uwb_setting_guide_summary">Beam nutzt die UWB-Technologie, um Zielgeräte drahtlos zu erkennen. Sobald das Zielgerät erkannt wurde, wird sein Symbol in den Vordergrund treten.</string>
+  <string name="uwb_setting_guide_title">Halten Sie dieses Gerät direkt vor das kompatible Zielgerät</string>
+  <string name="uwb_summary">Beam nutzt die UWB-Technologie, um Zielgeräte drahtlos zu erkennen. Die Übertragung von Elementen zwischen Geräten, die mit UWB-Technologie arbeiten, ist schneller und bequemer.</string>
+  <string name="uwb_support_device">"Kompatible Geräte: "</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">EIN</string>
   <string name="view_file">Anzeigen</string>
