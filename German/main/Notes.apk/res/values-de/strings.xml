@@ -45,6 +45,7 @@
   <string name="app_name">Notizen</string>
   <string name="app_notification_info">Notizen arbeiten im Hintergrund</string>
   <string name="app_widget">Notizen</string>
+  <string name="app_widget_name_new">Notizen</string>
   <string name="application_icon">App-Symbol</string>
   <string name="audio_btn_mode_meeting">Konferenz</string>
   <string name="audio_btn_mode_single">1 Teilnehmer</string>
@@ -280,6 +281,7 @@
   <string name="gesture_guide_message">Sie können tippen, Elemente gedrückt halten sowie ziehen, um Notizen zu erstellen und neu anzuordnen. Diese Gesten jetzt lernen?</string>
   <string name="gesture_guide_ok">Lernen</string>
   <string name="gesture_guide_title">Gesten</string>
+  <string name="hand_write_only_support_tablet_editing">Handschriftliche Notizen können nur auf Tablets bearbeitet werden</string>
   <string name="handwrite_description">Handschriftliche Notiz</string>
   <string name="hear_note">Diktierte Notizen</string>
   <string name="hidden_notes_fragment_title">Versteckte Notizen</string>
@@ -660,6 +662,7 @@
   <string name="solar_term_white_dews">Weißer Tau</string>
   <string name="solar_term_winter_begins">Winteranfang</string>
   <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+  <string name="splash_note">Stift</string>
   <string name="sunday">Sonntag</string>
   <string name="sunday_short">So</string>
   <string name="sunday_shortest">S</string>
@@ -863,6 +866,7 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="widget_havenot_content">Tippen, um eine Notiz zu erstellen. Widget halten, um die Größe zu ändern.</string>
   <string name="widget_havenot_content_new">Tippen, um eine Notiz zu erstellen. Gedrückt halten, um die Größe zu ändern.</string>
   <string name="widget_note_list_page_title">Notiz wählen</string>
+  <string name="widget_take_notes_title">Notizen</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>

@@ -671,6 +671,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="applock_add_account_setting">Konto &amp; Datenschutz</string>
   <string name="applock_add_account_tips">Mit Mi-Konto können Sie Ihre App-Sperre wiederherstellen, wenn Sie sie vergessen haben.</string>
   <string name="applock_add_account_title">Ihr Mi-Konto hinzufügen</string>
+  <string name="applock_add_account_title_part">Mi-Konto hinzufügen, um das Passwort zurückzusetzen</string>
   <string name="applock_already_add_account">Aktuelles Konto: %s</string>
   <string name="applock_app_recommend_lock_title">Sie können folgende Apps sperren</string>
   <string name="applock_bind_account_dialog_content">Ihr Mi-Konto ist die einzige Möglichkeit, Ihre App-Sperre wiederherzustellen, falls Sie sie vergessen haben. Melden Sie sich an, um Ihr Mi-Konto hinzuzufügen.</string>
@@ -681,6 +682,8 @@ Sie verlieren keine App-Daten."</string>
   <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
   <string name="applock_face_unlock_summary">Apps mit Gesichtsdaten entsperren</string>
   <string name="applock_face_unlock_title">Gesichtsentsperrung</string>
+  <string name="applock_fingerprint_detect">Fingerabdruck verwenden</string>
+  <string name="applock_fingerprint_unlock">Fingerabdruck verwenden</string>
   <string name="applock_function_base_settings">App-Sperre</string>
   <string name="applock_function_pwd_settings">Bildschirmsperre</string>
   <string name="applock_go_to">Einstellungen</string>
@@ -699,6 +702,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="applock_guide_tip3">Benachrichtigungsinhalt ausblenden</string>
   <string name="applock_guide_tip3_global">Benachrichtigungsinhalt ausblenden</string>
   <string name="applock_guide_title">Privatsphäre mit App-Sperren schützen</string>
+  <string name="applock_gulide_third_part">Konto wird gelöscht, wenn Sie sich abmelden</string>
   <string name="applock_header_text_less_than_half">Zu wenig Platz. Etwas weiter ziehen.</string>
   <string name="applock_lock_all">Alle sperren</string>
   <string name="applock_login_and_add_account">Anmelden &amp; hinzufügen</string>
@@ -706,6 +710,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="applock_mixtype_showpwd_icon">Anzeigen</string>
   <string name="applock_no_account_login">Sie sind nicht mit Ihrem Mi-Konto angemeldet</string>
   <string name="applock_not_add_account"><u>Nicht jetzt</u></string>
+  <string name="applock_not_add_account_normal">Konto nicht hinzufügen</string>
   <string name="applock_not_login_account">Sie sind nicht angemeldet</string>
   <string name="applock_numeric_pwd_type_line">Gesamtzeichen im Passwort: %1$d. Eingegebene Zeichen: %2$d.</string>
   <string name="applock_operate_faceunlock_summary">Apps durch einfaches Betrachten des Bildschirms entsperren</string>
@@ -902,6 +907,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="block_phone_number">Anrufe: &lt;font color=#5fab1b>%d&lt;/font></string>
   <string name="boost_done">Erfolgreich optimiert</string>
   <string name="boost_stop">Game Turbo deaktivieren</string>
+  <string name="booster_immediately">Erhöhen</string>
   <string name="booster_suc">Erfolgreich optimiert</string>
   <string name="boostering">Geschwindigkeit optimieren…</string>
   <string name="boosting">Geschwindigkeit optimieren…</string>
@@ -909,6 +915,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="boot_time">An um %1$s</string>
   <string name="boot_time_day">An in %1$d T um %2$s</string>
   <string name="boot_time_day_tomorrow">An morgen um %1$s</string>
+  <string name="bottom_notice_title">Hochwischen zum Öffnen der Toolbox</string>
   <string name="brand_diagnostic">Netzbtreiber-Markentypdiagnose</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_start_diagnostic">Netzwerkdiagnose</string>
@@ -1052,9 +1059,11 @@ Sie verlieren keine App-Daten."</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
+  <string name="commonly_used_func_card_title">Allgemeine Funktionen</string>
+  <string name="commonly_used_func_edit_too_many_func">Weitere Elemente können nicht hinzugefügt werden</string>
   <string name="comprehensive_protection_measures">Umfangreicher Schutz</string>
-  <string name="confirm_allow_all_permission">Allen Apps erlauben, diese Funktion zu nutzen?</string>
   <string name="confirmSecondSpacePassword">Passwort Zweitprofil bestätigen</string>
+  <string name="confirm_allow_all_permission">Allen Apps erlauben, diese Funktion zu nutzen?</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Mi-Konto hinzufügen</string>
   <string name="confirm_fingerprint_msg">Fingerabdruck verifizieren</string>
   <string name="confirm_leave">Nein danke</string>
@@ -1305,6 +1314,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="ew_alert_earthquake_feel_title">Geschätzte Intensität</string>
   <string name="ew_alert_earthquake_level_title">Geschätzte Größe</string>
   <string name="ew_alert_emergency_text">Krankenversicherungskarte zeigen</string>
+  <string name="ew_alert_emergency_text_single">Krankenkarte anzeigen</string>
   <string name="ew_alert_help_earthquake_title">Seismische Welle angekommen</string>
   <string name="ew_alert_help_place_navigation">Navigieren</string>
   <string name="ew_alert_help_place_text">Bei Bedarf in den nächstgelegenen Schutzraum gehen, um die Sicherheit zu gewährleisten und die notwendige Unterstützung zu erhalten.</string>
@@ -2844,6 +2854,18 @@ Stromverbrauch"</string>
   <string name="pc_battery_history_rank_percent_menu_item">Prozent</string>
   <string name="pc_battery_history_total_consumption_title">Gesamte Leistungsaufnahme</string>
   <string name="pc_battery_history_usetime_title">Aktiv</string>
+  <string name="pc_fast_charge_notifi_action_text_on">Erhöhen</string>
+  <string name="pc_fast_charge_notifi_power_threshold_title">Akkustand für Erinnerungen einstellen</string>
+  <string name="pc_fast_charge_notifi_summary">Bis zu %s schneller als üblich aufladen…</string>
+  <string name="pc_fast_charge_notifi_summary_on">Diese Funktion kann Ihr Gerät aufheizen</string>
+  <string name="pc_fast_charge_notifi_switch_summary">Über die Erhöhung der Ladegeschwindigkeit benachrichtigen, wenn das mitgelieferte %d W-Ladegerät angeschlossen ist und der Akku unter dem eingestellten Wert liegt</string>
+  <string name="pc_fast_charge_notifi_switch_title">Über Erhöhung benachrichtigen</string>
+  <string name="pc_fast_charge_notifi_title">%d W-Laden</string>
+  <string name="pc_fast_charge_notifi_title_on">Erhöhung der Ladegeschwindigkeit beenden</string>
+  <string name="pc_fast_charge_switch_summary">Einschalten, um den Ladevorgang zu beschleunigen. MIUI priorisiert die Ladegeschwindigkeit und gewährleistet gleichzeitig die Sicherheit Ihres Geräts. Je schwächer Ihr Akku ist, desto schneller wird er geladen. Diese Funktion kann Ihr Gerät erwärmen.</string>
+  <string name="pc_fast_charge_switch_title">Ladegeschwindigkeit erhöhen</string>
+  <string name="pc_fast_charge_switch_toast_message">Änderungen werden beim nächsten Laden des Geräts übernommen</string>
+  <string name="pc_fast_charge_title">Ladegeschwindigkeit erhöhen</string>
   <string name="pc_hidemode_normal">Ausgeglichen</string>
   <string name="pc_hidemode_normal_title">Ausgeglichen</string>
   <string name="pc_hidemode_performance">Leistung</string>
@@ -2987,6 +3009,7 @@ Stromverbrauch"</string>
   <string name="phone_manage_special_summary">Unsere zusätzlichen Funktionen entdecken</string>
   <string name="phone_manage_special_title">Spezielle Funktionen</string>
   <string name="phone_manage_system_tool_summary">Nützliche Tools auf Systemebene</string>
+  <string name="phone_manager_edit_commonly_used_func_title">Allgemeine Funktionen bearbeiten</string>
   <string name="pkg_traffic">Datenlimit einstellen</string>
   <string name="pm_auto_start_by_other">Getriggerter Start</string>
   <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
@@ -3320,6 +3343,7 @@ Stromverbrauch"</string>
   <string name="pp_private_photo_album_detail">Elemente mit einer Bildschirmsperre verschlüsseln und schützen</string>
   <string name="pp_prohibit_use_camera_in_background">Kameraverwendung im Hintergrund einschränken</string>
   <string name="pp_prohibit_use_camera_in_background_detail">Apps können die Kamera im Hintergrund standardmäßig nicht verwenden</string>
+  <string name="pp_read_phone_info_summary">Zugriff auf SIM-Infos</string>
   <string name="pp_record_msg">Audioaufzeichnung</string>
   <string name="pp_safe_box">Privates Profil</string>
   <string name="pp_safe_box_detail">Private Elemente werden verschlüsselt und nur auf diesem Gerät gespeichert. Andere Nutzer können nicht auf sie zugreifen, während sie dieses Gerät verwenden und das Gerät selbst kann nicht auf verschlüsselte Elemente zugreifen und sie in irgendeiner Weise verwenden.</string>
@@ -3329,6 +3353,7 @@ Stromverbrauch"</string>
   <string name="pp_safe_save_pwd_and_account">Passwörter in einer sicheren Umgebung speichern</string>
   <string name="pp_safe_share_img_detail">Fotos ohne Standortinfo und Metadaten teilen</string>
   <string name="pp_smart_manager_pwd">Passwort</string>
+  <string name="pp_sms_and_contacts">Kontakte und Nachrichten</string>
   <string name="pp_special_permission_settings">Spezielle Berechtigungen</string>
   <string name="pp_special_permission_settings_detail">Steuern, wie Apps spezielle Berechtigungen verwenden</string>
   <string name="pp_storage_msg">Speicher</string>
@@ -3793,7 +3818,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="security_center_slogan">Sicherheit - immer auf der Hut</string>
   <string name="security_center_title">Sicherheit</string>
   <string name="security_guide_bubble_text">Öffnen</string>
-  <string name="security_guide_summary">Zentrale Anlaufstelle für Tools und Dienstleistungen</string>
+  <string name="security_guide_summary">Alle Werkzeuge an einem Ort</string>
   <string name="security_scan_optimizing">Optimieren…</string>
   <string name="securityadd_install_fail">Plugin wurde nicht aktualisiert. Erneut versuchen.</string>
   <string name="securityadd_update_tips_cancle">Nicht jetzt</string>
@@ -3859,6 +3884,18 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="signed_rule_one">1. 10, 20 oder 28 Tage hintereinander jeden Monat anmelden, um einen Xunyou-Boost für 1, 2 oder 3 Tage zu erhalten.</string>
   <string name="signed_rule_three">3. Anmeldetage werden zu Beginn eines jeden Monats zurückgesetzt. Die verbliebenen Tage werden nicht übernommen.</string>
   <string name="signed_rule_two">2. Sie können nur eine Xunyou Erhöhung pro Monat erhalten.</string>
+  <string name="sim_car_absent__tip">Bildschirmsperre bestätigen, um den Verloren-Modus auszuschalten</string>
+  <string name="sim_car_absent_intercept_action">Bildschirmsperre bestätigen (%d)</string>
+  <string name="sim_car_absent_intercept_action_last">Bildschirmsperre bestätigen</string>
+  <string name="sim_car_absent_intercept_item_summary">Gerät finden ist eingeschaltet. Bestätigung der Bildschirmsperre ist erforderlich, um das Gerät auszuschalten oder die SIM-Karte zu entfernen.</string>
+  <string name="sim_car_absent_intercept_item_summary_last">Gerät suchen ist eingeschaltet. Bestätigung der Bildschirmsperre ist erforderlich, um das Gerät auszuschalten oder die SIM-Karte zu entfernen. Verloren-Modus wurde aktiviert.</string>
+  <string name="sim_car_absent_intercept_item_title">Schutzmechanismen wurden ausgelöst</string>
+  <string name="sim_car_absent_intercept_summary">SIM-Karte wurde entfernt. Bildschirmsperre bestätigen, um dieses Gerät verwenden zu können.</string>
+  <string name="sim_car_absent_intercept_title">Bildschirmsperre bestätigen</string>
+  <string name="sim_car_absent_summary">Bildschirmsperre bestätigen, um dieses Gerät verwenden zu können.</string>
+  <string name="sim_car_absent_title">Dieses Gerät wurde verloren</string>
+  <string name="sim_card_absent_intercept_tip">Wenn Sie die Bildschirmsperre nicht bestätigen, wird der Verloren-Modus aktiviert.</string>
+  <string name="sim_card_absent_warning_voice">SIM-Karte wurde entfernt. Bildschirmsperre bestätigen.</string>
   <string name="sim_location_diagnostic">Standortdiagnose</string>
   <string name="sim_location_error_dialog_message">Die SIM-Karte, die Sie benutzen, ist von %1$s. Das unterscheidet sich von Ihrem manuell eingestellten Slot (%2$s). Wollen Sie den SIM-Slot auf %3$s ändern?</string>
   <string name="sim_location_error_notify_message">Tippen Sie auf SIM-Slot ändern</string>
