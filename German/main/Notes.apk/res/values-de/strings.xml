@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="miui_penengine_tool_brush">Ausgewähltes Werkzeug</string>
+  <string name="miui_penengine_tool_brush_stroke1">Strichbreite 1</string>
+  <string name="miui_penengine_tool_brush_stroke2">Strichbreite 2</string>
+  <string name="miui_penengine_tool_brush_stroke3">Strichbreite 3</string>
+  <string name="miui_penengine_tool_brush_stroke4">Strichbreite 4</string>
+  <string name="miui_penengine_tool_brush_stroke5">Strichbreite 5</string>
+  <string name="miui_penengine_tool_color_center">Farbe 2</string>
+  <string name="miui_penengine_tool_color_left">Farbe 1</string>
+  <string name="miui_penengine_tool_color_right">Farbe 3</string>
+  <string name="miui_penengine_tool_color_select">Farbe wählen</string>
+  <string name="miui_penengine_tool_done">Speichern</string>
+  <string name="miui_penengine_tool_eraser">Radierer</string>
+  <string name="miui_penengine_tool_eraser_stroke1">Radierer 1</string>
+  <string name="miui_penengine_tool_eraser_stroke2">Radierer 2</string>
+  <string name="miui_penengine_tool_eraser_stroke3">Radierer 3</string>
+  <string name="miui_penengine_tool_eraser_stroke4">Radierer 4</string>
+  <string name="miui_penengine_tool_ink">Stift</string>
+  <string name="miui_penengine_tool_mark">Marker</string>
+  <string name="miui_penengine_tool_more">Mehr</string>
+  <string name="miui_penengine_tool_pencil">Pinsel</string>
+  <string name="miui_penengine_tool_rect_select">Werkzeug wählen</string>
+  <string name="miui_penengine_tool_redo">Wiederherstellen</string>
+  <string name="miui_penengine_tool_ruler">Lineal</string>
+  <string name="miui_penengine_tool_undo">Rückgängig</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
