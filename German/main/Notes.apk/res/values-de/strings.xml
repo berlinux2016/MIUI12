@@ -362,8 +362,8 @@
   <string name="miui_penengine_ppw_shortcut_long_click">Gedrückt halten</string>
   <string name="miui_penengine_ppw_shortcut_pk_long_click_tip">Zum Radiergummi wechseln. Zum Löschen halten.</string>
   <string name="miui_penengine_ppw_shortcut_pk_single_click_tip">Werkzeuge ändern</string>
-  <string name="miui_penengine_ppw_shortcut_primary_key">Schreiben-Schaltfläche</string>
-  <string name="miui_penengine_ppw_shortcut_secondary_key">Screenshot-Schaltfläche</string>
+  <string name="miui_penengine_ppw_shortcut_primary_key">Schreiben-Taste</string>
+  <string name="miui_penengine_ppw_shortcut_secondary_key">Screenshot-Taste</string>
   <string name="miui_penengine_ppw_shortcut_single_click">Drücken</string>
   <string name="miui_penengine_ppw_shortcut_sk_single_click_tip">Zwischen aktuellen Farben wechseln</string>
   <string name="miui_penengine_setting_select_background">Hintergrund</string>

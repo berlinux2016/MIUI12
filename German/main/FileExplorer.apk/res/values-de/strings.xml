@@ -114,6 +114,7 @@
   <string name="choose_report_comment_reason">Warum melden Sie diesen Kommentar?</string>
   <string name="choose_report_reason">Warum melden Sie dieses Video?</string>
   <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
+  <string name="clean_hint_pad">Tippen, um Speicherplatz freizugeben</string>
   <string name="clear_record">Verlauf leeren</string>
   <string name="clear_text_end_icon_content_description">Text löschen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
