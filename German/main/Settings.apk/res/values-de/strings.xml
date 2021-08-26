@@ -9221,7 +9221,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="user_lockscreen_settings">Sperrbildschirmeinstellungen</string>
   <string name="user_name">Apple ID oder E-Mail</string>
   <string name="user_name_null">Benutzername kann nicht leer sein</string>
-  <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, um Ihre Apps und persönlichen Daten zu schützen</string>
+  <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Bildschirmsperre einrichten, um Ihre Apps und persönlichen Daten zu schützen</string>
   <string name="user_new_profile_name">Neues Profil</string>
   <string name="user_new_user_name">Neuer Benutzer</string>
   <string name="user_nickname">Spitzname</string>
