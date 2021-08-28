@@ -382,7 +382,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
   <string name="restoring_file_title_no_progress">Apps wiederherstellen…</string>
   <string name="restoring_home_screen_apps">Aus Xiaomi Cloud wiederherstellen…</string>
   <string name="restoring_settings">Einstellungen wiederherstellen…</string>
-  <string name="retry">Wiederholen</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>

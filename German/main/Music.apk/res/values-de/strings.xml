@@ -1015,7 +1015,7 @@ Glücklich sein."</string>
   <string name="request_share_info">Nur eine Sekunde…</string>
   <string name="request_subscription_status">Nur eine Sekunde…</string>
   <string name="restart_immediate">Jetzt neustarten</string>
-  <string name="retry">Wiederholen</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="retry_after_network_available">Keine Netzwerkverbindung. Prüfen Sie Ihre Datenverbindung und versuchen Sie es erneut.</string>
   <string name="retry_download">Wiederholen</string>
   <string name="revoke_upload_playlist_to_hungama_toast">Online-Titel werden nicht mit Hungama synchronisiert</string>

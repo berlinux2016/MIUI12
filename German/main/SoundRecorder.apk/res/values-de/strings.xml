@@ -455,7 +455,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="rename_duplicate">Bitte neu eingeben: Eine Aufnahme mit demselben Namen ist bereit vorhanden.</string>
   <string name="rename_fail_tip">Nicht umbenannt. Ein Element mit diesem Namen existiert bereits.</string>
   <string name="rename_no_more_tip">Nicht wieder anzeigen</string>
-  <string name="retry">Wiederholen</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="runtime_permission_ungranted">Rekorder kann ohne erteilte Berechtigungen nicht verwendet werden</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>

@@ -1023,7 +1023,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="restart_phone_bind_message">Der Empfang der SMS kann einige Zeit dauern. Trotzdem neu beginnen?</string>
   <string name="restart_phone_bind_title">Wiederherstellungstelefon ändern</string>
   <string name="resume_download">Fortsetzen</string>
-  <string name="retry">Wiederholen</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="retry_after_network_available">Netzwerkverbindung fehlgeschlagen. Verbindung prüfen und erneut versuchen.</string>
   <string name="retry_download">Erneut versuchen</string>
   <string name="ringtone_not_support">Titelformat wird nicht unterstützt</string>
