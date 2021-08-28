@@ -1280,7 +1280,7 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="push_wps_better_confirm_title">Versuchen Sie WPS Office</string>
   <string name="push_wps_confirm_cancel">Jetzt nicht</string>
   <string name="push_wps_confirm_download">Herunterladen</string>
-  <string name="push_wps_confirm_message">Probieren Sie WPS Office zum Öffnen dieses Anhangs.</string>
+  <string name="push_wps_confirm_message">Keine App für diesen Anhang vorhanden. Mit WPS Office versuchen.</string>
   <string name="push_wps_confirm_title">WPS Office ausprobieren</string>
   <string name="push_wps_no_response_app">Keine App installiert, um diese Aktion auszuführen</string>
   <string name="qq_authorization_help_get">Code erhalten</string>
