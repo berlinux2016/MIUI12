@@ -522,7 +522,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="passport_input_vcode_hint">Verifikationscode eingeben</string>
   <string name="passport_input_voice_captcha_hint">Sprach-Verifikationscode eingeben</string>
   <string name="passport_input_voice_hint">Sprachcode eingeben</string>
-  <string name="passport_international_phone_password_login_tip">(Benutzer außerhalb Chinas sollten die Mobiltelefonnummer in folgendem Format eingeben: +[Ländervorwahl][Rufnummer], z. B.: +91 817282982)</string>
+  <string name="passport_international_phone_password_login_tip">(Benutzer außerhalb Chinas sollten die Mobilrufnummer in folgendem Format eingeben: +[Ländervorwahl][Rufnummer], z. B.: +91 817282982)</string>
   <string name="passport_log_detail">Details anzeigen</string>
   <string name="passport_login_failed">Anmelden nicht möglich</string>
   <string name="passport_next">Weiter</string>

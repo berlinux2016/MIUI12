@@ -23,7 +23,7 @@
   <string name="account">Konto</string>
   <string name="account_bind_devices">Geräte</string>
   <string name="account_bind_secure_email_title">Wiederherstellungs-E-Mail hinzufügen</string>
-  <string name="account_bind_secure_phone_title">Wiederherstellungstelefonnummer hinzufügen</string>
+  <string name="account_bind_secure_phone_title">Wiederherstellungsrufnummer hinzufügen</string>
   <string name="account_bind_settings">Konten</string>
   <string name="account_crop_user_avatar">Foto zuschneiden</string>
   <string name="account_empty_user_name">Mi-Konto-Benutzername eingeben</string>

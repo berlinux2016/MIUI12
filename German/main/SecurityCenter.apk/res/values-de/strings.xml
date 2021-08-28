@@ -3329,7 +3329,7 @@ Stromverbrauch"</string>
   <string name="pp_privacy_lab_operator_get_number">Genehmigung für den Zugriff auf die Rufnummer anfordern</string>
   <string name="pp_privacy_lab_operator_get_number_summary">Apps verpflichten, Sie um Erlaubnis zu fragen, wenn sie zur Anmeldung auf Ihre Rufnummer zugreifen wollen</string>
   <string name="pp_privacy_lab_operator_introduction">Vorsicht</string>
-  <string name="pp_privacy_lab_operator_introduction_summary">Apps können Ihre Rufnummer speichern, wenn sie zuvor abgerufen wurde. Wenn Sie diese Berechtigung ändern, werden die zuvor ermittelten Telefonnummern nicht gelöscht.</string>
+  <string name="pp_privacy_lab_operator_introduction_summary">Apps können Ihre Rufnummer speichern, wenn sie zuvor abgerufen wurde. Wenn Sie diese Berechtigung ändern, werden die zuvor ermittelten Rufnummern nicht gelöscht.</string>
   <string name="pp_privacy_protection">Schutz</string>
   <string name="pp_privacy_protection_function">Schutzfunktionen für Privatsphäre</string>
   <string name="pp_privacy_protection_lab">Datenschutzlabor</string>
