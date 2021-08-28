@@ -39,7 +39,7 @@
   <string name="recommendation_enable_summary">Zum Aktivieren auswählen</string>
   <string name="recommendation_install_summary">Zum Installieren auswählen</string>
   <string name="recommendation_manage">Dienste verwalten</string>
-  <string name="recommendation_summary">Der Standarddruckdienst bietet grundlegende Optionen. Andere Optionen für diesen Drucker sind möglicherweise von einem anderen Druckdienst erhältlich.</string>
+  <string name="recommendation_summary">Der Standard-Druckdienst bietet grundlegende Optionen. Andere Optionen für diesen Drucker sind möglicherweise von einem anderen Druckdienst erhältlich.</string>
   <string name="recommendations_heading">Empfohlene Dienstleistungen</string>
   <string name="reject">Verwerfen</string>
   <string name="saved_printers">Gespeicherte Drucker</string>
@@ -49,7 +49,7 @@
   <string name="unreadable_input">Dokument wurde nicht gelesen</string>
   <string name="waiting_to_send">Warten auf Senden</string>
   <string name="wifi_direct">WLAN Direct</string>
-  <string name="wifi_direct_location_rationale">Für den Standarddruckdienst müssen die Standortdienste aktiviert sein, um Geräte in der Nähe zu finden.</string>
+  <string name="wifi_direct_location_rationale">Für den Standard-Druckdienst müssen die Standortdienste aktiviert sein, um Geräte in der Nähe zu finden.</string>
   <string name="wifi_direct_permission_rationale">Standard-Druckdienst benötigt Standortzugriff, um Geräte in der Nähe zu finden.</string>
   <string name="wifi_direct_printers">WLAN Direct-Drucker</string>
   <string name="wifi_direct_printing">WLAN Direct-Drucken</string>
