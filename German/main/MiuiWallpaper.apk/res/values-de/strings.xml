@@ -279,6 +279,6 @@ mm"</string>
   <string name="wednesday_shortest">M</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisierung</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Eine Aktualisierung ist verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
   <string name="yesterday">Gestern</string>
 </resources>
