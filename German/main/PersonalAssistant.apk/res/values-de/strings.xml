@@ -506,6 +506,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="app_pa_setting_private_auth">Sammeln von Nutzungsstatistiken erlauben</string>
   <string name="app_pa_setting_private_auth_summary">Nutzungsstatistiken werden verwendet, um Ihnen relevante Produkte zu empfehlen</string>
   <string name="app_pa_setting_private_policy">Datenschutzerklärung</string>
+  <string name="app_pa_setting_service_airstar_summary">Finanz-, Kredit- und Versicherungsinfos anzeigen</string>
   <string name="app_pa_setting_service_commute">Pendeln</string>
   <string name="app_pa_setting_service_commute_summary">Für die Rotenplanung und die Bereitstellung von Autoreparaturdiensten</string>
   <string name="app_pa_setting_service_covid">Info COVID-19</string>
@@ -763,6 +764,7 @@ Sie können Expresszustellungen auch auf den offiziellen Websites der Lieferfirm
   <string name="btn_back">Zurück</string>
   <string name="btn_more">Mehr</string>
   <string name="bus_code">Öffentliche Verkehrsmittel</string>
+  <string name="calc_convert">Umrechnen</string>
   <string name="calc_currency">Währung</string>
   <string name="calc_name">Rechner</string>
   <string name="calc_num">Finanzzeichen</string>

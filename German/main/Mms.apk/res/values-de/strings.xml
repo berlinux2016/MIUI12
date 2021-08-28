@@ -1306,8 +1306,8 @@ Bisherige Versuche: %s."</string>
   <string name="url_result_safe">Diese URL ist sicher</string>
   <string name="url_scan_again">Nochmals prüfen</string>
   <string name="url_scanning">URL prüfen…</string>
-  <string name="user_term">Nutzervereinbarung</string>
   <string name="user_agreement">Nutzervereinbarung</string>
+  <string name="user_term">Nutzervereinbarung</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">EIN</string>
   <string name="verification_code_list_title">Verifizierungscodes</string>
@@ -1326,6 +1326,8 @@ Bisherige Versuche: %s."</string>
   <string name="wednesday_shortest">M</string>
   <string name="wild_msg_processing">Verarbeiten…</string>
   <string name="wild_msg_title">Wählen Sie die Rufnummern für die Synchronisation</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yesterday">Gestern</string>
   <string name="you_have_new_message">Sie haben neue Nachrichten</string>
