@@ -155,6 +155,7 @@
   <string name="actionBarCFVoice">Videorufumleitung (%s)</string>
   <string name="actionbar_button_up_description">Zurück</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
+  <string name="activity_title_fakecell">Vor gefälschten Basisstationen schützen</string>
   <string name="adb_device_fingerprint_title_format">Gerätefingerabdruck: %1$s</string>
   <string name="adb_device_forget">Vergessen</string>
   <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
@@ -888,6 +889,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="description_image_button_two">Zwei</string>
   <string name="description_image_button_zero">Null</string>
   <string name="description_voicemail_button">Anrufbeantworter</string>
+  <string name="detect_fakecell">SMS von gefälschten Basisstationen erkennen</string>
   <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
   <string name="dev_logpersist_clear_warning_title">Löschen der dauerhaften Protokollspeicherung?</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler gedacht. Sie können Ihr Gerät und die installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
@@ -1138,6 +1140,8 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="fmt_weekday_timezone">W z</string>
   <string name="fold_answer_pref_summary">Gerät zuklappen, um einen eingehenden Anruf automatisch anzunehmen</string>
   <string name="fold_answer_pref_title">Zuklappen, um Anrufe anzunehmen</string>
+  <string name="forbidden_fakecell">Keine Verbindung zu gefälschten Basisstationen herstellen</string>
+  <string name="forbidden_fakecell_summary">Verhindern, dass sich Ihr Telefon mit gefälschten Basisstationen verbindet</string>
   <string name="forbidden_network">(verboten)</string>
   <string name="force_allow_on_external">Erzwingen, dass Apps auf externen Speicher schreiben</string>
   <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
@@ -1447,6 +1451,8 @@ Immer diese Nummer verwenden"</string>
   <string name="miui_network_selection_reset_text">Zurücksetzen</string>
   <string name="miui_notification_network_selection_title">SIM: Kein Service</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: Kein Service</string>
+  <string name="miuix_access_state_desc">Ausgewählt</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -1461,6 +1467,7 @@ Immer diese Nummer verwenden"</string>
   <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
   <string name="miuix_appcompat_select_item">Elemente wählen</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -1674,6 +1681,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
   <string name="not_a_valid_port">Portnummer muss zwischen %1$d und %2$d liegen.</string>
   <string name="not_allowed">Ihre SIM-Karte verbietet eine Verbindung mit diesem Netzwerk</string>
   <string name="not_set">Nicht festgelegt</string>
+  <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt keinen Schutz vor gefälschten Basisstationen auf Chipebene.</string>
   <string name="not_voice_capable">Sprachanruf wird nicht unterstützt</string>
   <string name="notification_channel_demo">Demo-Gerät</string>
   <string name="notification_demo_version_text">Telefonieren oder mobile Daten nutzen nicht möglich</string>
@@ -2139,8 +2147,11 @@ UT-Schnittstelle: %5$s"</string>
   <string name="respond_via_sms_setting_summary">Vorlagen bearbeiten</string>
   <string name="respond_via_sms_setting_title">Kurzantworten</string>
   <string name="response_error">Unerwartete Antwort von Netzwerk</string>
-  <string name="restaurants_disable">Restaurants ausgeschaltet</string>
-  <string name="restaurants_enable">Restaurants eingeschaltet</string>
+  <string name="restart_details">Um diese Funktion ein- oder auszuschalten, muss das Gerät neu gestartet werden. Jetzt neu starten?</string>
+  <string name="restart_later">Später</string>
+  <string name="restart_now">Jetzt neu starten</string>
+  <string name="restaurants_disable">Restaurants dektiviert</string>
+  <string name="restaurants_enable">Restaurants aktiviert</string>
   <string name="retail_demo_reset_message">Passwort eingeben, um im Demomodus auf Werkseinstellungen zurückzusetzen</string>
   <string name="retail_demo_reset_next">Weiter</string>
   <string name="retail_demo_reset_title">Passwort erforderlich</string>
@@ -2440,6 +2451,7 @@ UT-Schnittstelle: %5$s"</string>
   <string name="supp_service_over_ut_precautions_dual_sim">Um %1$s zu verwenden, müssen mobile Daten für SIM%2$d eingeschaltet sein. Sie können dies in den Mobilfunkeinstellungen ändern.</string>
   <string name="supp_service_over_ut_precautions_roaming">Um %s zu verwenden, müssen mobile Daten und Daten-Roaming eingeschaltet sein. Sie können dies in den Mobilfunkeinstellungen ändern.</string>
   <string name="supp_service_over_ut_precautions_roaming_dual_sim">TUm %1$s zu verwenden, müssen mobile Daten und Daten-Roaming für SIM%2$d eingeschaltet sein. Sie können dies in den Mobilfunkeinstellungen ändern.</string>
+  <string name="support_forbidden_fakecell">Hinweis: Die Verbindungseinschränkung zu gefälschten Basisstationen kann das Signal in Gebieten mit schlechter Abdeckung verringern.</string>
   <string name="switch_dds_to_sub_alert">Legen Sie diese Karte als Standard-Datenkarte fest.</string>
   <string name="switch_dds_to_sub_alert_msg">Bitte mobile Daten auf CT SIM umstellen</string>
   <string name="switch_off">Aus</string>

@@ -4669,7 +4669,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="magic_list_empty_text">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
   <string name="magic_list_empty_text_pad">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
   <string name="magic_window_name">Parallelfenster</string>
-  <string name="magic_window_name_pad">Apps für die Querformatansicht optimieren</string>
+  <string name="magic_window_name_pad">Querformatansicht optimieren</string>
   <string name="main_netcheck_summary">Verbindung bei Netzwerkproblemen testen</string>
   <string name="main_running_process_description">Hauptprozess wird verwendet</string>
   <string name="main_toolbar_statistic">Datennutzungsstatistik</string>
