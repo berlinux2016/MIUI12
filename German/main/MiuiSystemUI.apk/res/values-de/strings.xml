@@ -1550,6 +1550,8 @@ Screenshot zu erstellen"</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Zum Lautlosmodus gewechselt, Anruf-, Benachrichtigungs- und Medientöne sind jetzt aus.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Lautlosmodus ist an. Benachrichtigungen und Medien werden lautlos gestellt und die Vibration ausgeschaltet.</string>
   <string name="miui_unimportant_notifications">Unwichtige Benachrichtigungen</string>
+  <string name="miuix_access_state_desc">Ausgewählt</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -1564,6 +1566,7 @@ Screenshot zu erstellen"</string>
   <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
   <string name="miuix_appcompat_select_item">Elemente wählen</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
