@@ -402,7 +402,7 @@
   <string name="goto_set">Einrichten</string>
   <string name="grabage_rank_title">Heute bereinigt</string>
   <string name="guide_dc_dialog_message">Weniger als 2 GB freier Speicherplatz verfügbar. Dies könnte Ihr Gerät verlangsamen. Führen Sie eine Tiefenreinigung durch, um Speicherplatz zu sparen.</string>
-  <string name="guide_dc_dialog_message_new">Es sind weniger als %d GB freier Speicher verfügbar. Dies könnte Ihr Gerät verlangsamen. Tiefenreinigung durchführen, um Speicherplatz freizugeben.</string>
+  <string name="guide_dc_dialog_message_new">Weniger als %d GB freier Speicher verfügbar. Dies könnte Ihr Gerät verlangsamen. Tiefenreinigung durchführen, um Speicherplatz freizugeben.</string>
   <string name="guide_dc_dialog_negative">Abbrechen</string>
   <string name="guide_dc_dialog_title">Speicherplatz wird knapp</string>
   <string name="guide_secure_dialog_message">Optimierungswert Ihres Gerätes liegt unter 80 Punkten. Jetzt optimieren?</string>
