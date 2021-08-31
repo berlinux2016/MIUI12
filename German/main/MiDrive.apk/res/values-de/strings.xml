@@ -254,7 +254,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="file_sort_size">Nach Größe sortieren</string>
   <string name="file_too_large">Diese Datei ist zu groß zum Hochladen</string>
   <string name="file_upload_dialog_cancel">Abbrechen</string>
-  <string name="file_upload_dialog_title">Kategorie wählen</string>
+  <string name="file_upload_dialog_title">Hinzufügen</string>
   <string name="files">Dateien</string>
   <string name="find_psw">Passwort vergessen</string>
   <string name="finished">Beendet</string>

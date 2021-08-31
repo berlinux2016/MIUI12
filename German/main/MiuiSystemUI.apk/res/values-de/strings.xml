@@ -2079,7 +2079,7 @@ Screenshot zu erstellen"</string>
   <string name="quick_settings_rotation_locked_landscape_label">Querformat</string>
   <string name="quick_settings_rotation_locked_portrait_label">Hochformat</string>
   <string name="quick_settings_rotation_unlocked_label">Automatisch drehen</string>
-  <string name="quick_settings_rotationlock_label">Drehen aus</string>
+  <string name="quick_settings_rotationlock_label">Ausrichtung sperren</string>
   <string name="quick_settings_rssi_emergency_only">Nur Notrufe</string>
   <string name="quick_settings_screen_record_label">Bildschirmaufnahme</string>
   <string name="quick_settings_screenbutton_label">Tasten</string>

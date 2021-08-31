@@ -199,7 +199,9 @@ zum Ansehen tippen"</string>
   <string name="settings_other">Andere</string>
   <string name="settings_privacy">Datenschutzerklärung</string>
   <string name="show_hard_key">Navigationstasten darstellen</string>
+  <string name="show_hard_key_new">Tastentipps anzeigen</string>
   <string name="show_hard_key_summary">Anzeigen einblenden, wenn die Navigationstasten gedrückt werden</string>
+  <string name="show_hard_key_summary_new">Navigationstastentipps visualisieren</string>
   <string name="show_screen_touch">Berührungsgesten darstellen</string>
   <string name="show_screen_touch_summary">Gesten mit einem weißen Punkt darstellen</string>
   <string name="solar_term_autumn_begins">Herbstanfang</string>
