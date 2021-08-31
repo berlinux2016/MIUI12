@@ -33,7 +33,7 @@
   <string name="activity_title_contacts_filter">Anzuzeigende Kontakte</string>
   <string name="activity_title_settings">Einstellungen</string>
   <string name="addPeopleToGroup">Um Kontakte hinzuzufügen, Gruppe bearbeiten</string>
-  <string name="add_2sec_pause">2 Sek. Pause einfügen</string>
+  <string name="add_2sec_pause">2 Sek Pause einfügen</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="add_blacklist">Blockieren</string>
   <string name="add_blacklist_dialog_message">Diese Nummer blockieren?</string>

@@ -2385,11 +2385,11 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="menu_summary_antivirus_2">Mögliche Risiken gefunden</string>
   <string name="menu_summary_antivirus_3">Gerät wurde nicht gescannt</string>
   <string name="menu_summary_app_manager">Aktualisieren &amp; deinstallieren</string>
-  <string name="menu_summary_app_manager_2">Updates sind verfügbar</string>
+  <string name="menu_summary_app_manager_2">Updates verfügbar</string>
   <string name="menu_summary_garbage_cleanup">Kein Müll gefunden</string>
   <string name="menu_summary_garbage_cleanup_2">Papierkorbgröße</string>
   <string name="menu_summary_garbage_cleanup_3">Papierkorb löschen</string>
-  <string name="menu_summary_garbage_cleanup_ex">%s frei machen</string>
+  <string name="menu_summary_garbage_cleanup_ex">%s freigeben</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% Speicherplatz belegt</string>
   <string name="menu_summary_networkassistants">Datentarif verwalten</string>
   <string name="menu_summary_networkassistants_2">Limit überschritten</string>

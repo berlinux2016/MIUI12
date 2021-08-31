@@ -242,7 +242,7 @@ tägig"</string>
   <string name="alipay_reg_manual_sms_error">Verifikationscode ist falsch. Erneut eingeben.</string>
   <string name="alipay_reg_manual_sms_missed">Verifikations-SMS kann nicht abgerufen werden</string>
   <string name="alipay_reg_manual_sms_resend">Verifikations-SMS erneut senden</string>
-  <string name="alipay_reg_manual_sms_time">Verifikations-SMS in %1$d Sek. erneut senden</string>
+  <string name="alipay_reg_manual_sms_time">Verifikations-SMS in %1$d Sek erneut senden</string>
   <string name="alipay_reg_manual_sms_tip">Wir haben eine Verifikations-SMS an %1$s gesendet. Nachricht öffnen und Verifikationscode eingeben.</string>
   <string name="alipay_reg_manual_sms_title">Verifikationscode eingeben</string>
   <string name="alipay_reg_phone_hint">Rufnummer eingeben</string>

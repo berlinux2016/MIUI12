@@ -170,7 +170,7 @@
   <string name="columbus_player_unit_sec">Sek</string>
   <string name="com_facebook_device_auth_instructions">Besuchen Sie &lt;b&gt;facebook.com/device&lt;/b&gt; und geben Sie den oben gezeigten Code ein.</string>
   <string name="com_facebook_image_download_unknown_error">Unerwarteter Fehler beim Herunterladen eines Bildes</string>
-  <string name="com_facebook_internet_permission_error_message">WebView Login erfordert INTERNET-Berechtigung</string>
+  <string name="com_facebook_internet_permission_error_message">WebView-Anmeldung erfordert INTERNET-Berechtigung</string>
   <string name="com_facebook_like_button_liked">Gefällt mir</string>
   <string name="com_facebook_like_button_not_liked">Gefällt mir</string>
   <string name="com_facebook_loading">Laden…</string>
@@ -645,7 +645,7 @@ für Videos"</string>
   <string name="lv_subtitle_onlinesub_size_string_b">Größe: %sB</string>
   <string name="lv_subtitle_onlinesub_title">Online-Untertitel</string>
   <string name="lv_subtitle_open_subtitle_file_title">Untertiteldatei suchen</string>
-  <string name="lv_subtitle_preoffset_max">Weiter als 5 s nicht möglich</string>
+  <string name="lv_subtitle_preoffset_max">Weiter als 5 Sek nicht möglich</string>
   <string name="lv_subtitle_subonline_non_network">Netzwerkverbindung nicht möglich. Verbinden und erneut versuchen.</string>
   <string name="lv_subtitle_synchronization_title">Synchronisieren</string>
   <string name="lv_subtitle_title">Untertitel</string>

@@ -1220,7 +1220,7 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="permission_read_attachment_label">E-Mailanhänge lesen</string>
   <string name="permission_tip">Konfiguration fehlgeschlagen, bitte Anrufe und Textnachrichten während der Konfiguration der Berechtigung erlauben</string>
   <string name="personal_data_collection_summary">Wenn der Schalter eingeschaltet ist, stimmen Sie zu, dass wir Ihre personenbezogenen Daten erfassen dürfen. Sie können den Schalter jederzeit ausschalten, Ihre Berechtigung widerrufen und Ihre Daten von unseren Servern löschen.</string>
-  <string name="personal_data_collection_title">Erfassen personenbezogener Daten</string>
+  <string name="personal_data_collection_title">Erfassen personenbezogener Daten erlauben</string>
   <string name="phone">Telefon</string>
   <string name="photo_load_failed">Bild wurde nicht geladen</string>
   <string name="photo_view_count">%1$d von %2$d</string>
@@ -1741,7 +1741,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="wait_for_sync_title">Auf Synchronisation warten</string>
   <string name="wait_help_context">warten</string>
   <string name="wait_while_update_db">Datenbank aktualisieren…</string>
-  <string name="web_view_load_error_tip">"Dieser E-Mail-Text wurde nicht korrekt angezeigt. Dieses Problem in unserer QQ-Gruppe (952315061) melden.</string>
+  <string name="web_view_load_error_tip">Dieser E-Mail-Text wurde nicht korrekt angezeigt. Dieses Problem in unserer QQ-Gruppe (952315061) melden.</string>
   <string name="webview_logout">Sie können versuchen, sich erneut anzumelden</string>
   <string name="webview_logout_cancel">Jetzt nicht</string>
   <string name="webview_logout_sure">Erneut versuchen</string>

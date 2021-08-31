@@ -1153,11 +1153,11 @@ Apps:
   <string name="bluetooth_advanced_titlebar">Erweitertes Bluetooth</string>
   <string name="bluetooth_ask_disablement">%1$s will Bluetooth ausschalten</string>
   <string name="bluetooth_ask_disablement_no_name">Eine App will Bluetooth ausschalten</string>
-  <string name="bluetooth_ask_discovery">%1$s versucht, Ihr Telefon für %2$d Sek. für andere Bluetooth-Geräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_discovery">%1$s versucht, Ihr Telefon für %2$d Sek für andere Bluetooth-Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_discovery_no_name">Eine App möchte Ihr Telefon für %1$d Sekunden für andere Bluetooth-Geräte sichtbar machen</string>
   <string name="bluetooth_ask_enablement">%1$s versucht, Bluetooth zu aktivieren</string>
-  <string name="bluetooth_ask_enablement_and_discovery">%1$s versucht, Bluetooth zu aktivieren und Ihr Telefon für %2$d Sek. für andere Telefone sichtbar zu machen. Erlauben?</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte %1$d Sek. lang sichtbar machen"</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s versucht, Bluetooth zu aktivieren und Ihr Telefon für %2$d Sek für andere Telefone sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte %1$d Sek lang sichtbar machen"</string>
   <string name="bluetooth_ask_enablement_and_discovery_no_name">Eine App möchte Bluetooth einschalten und Ihr Telefon für %1$d Sekunden für andere Geräte sichtbar machen</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s versucht Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte sichtbar machen. Sie können das in den Bluetooth-Einstellungen ändern."</string>
@@ -8825,7 +8825,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="turn_on_keyguard_password_alert_choose">Merken Sie sich Ihre Eingabe genau. Wenn Sie Muster, PIN oder Passwort vergessen, müssen Sie alle Daten auf Ihrem Gerät löschen (Wipe Data), um ein neues einzurichten.</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Jetzt nicht</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Fertig</string>
-  <string name="turn_on_keyguard_password_alert_foget_ok_time">OK (%d Sek.)</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">OK (%d Sek)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">Merken Sie sich Ihre Bildschirmsperre genau. Wenn Sie Muster, PIN oder Passwort vergessen, müssen Sie alle Daten auf Ihrem Gerät wie Fotos und Kontakte löschen (Wipe Data), um ein neues einzurichten.</string>
   <string name="turn_on_keyguard_password_alert_forget_title">!! ACHTUNG - NICHT VERGESSEN !!</string>
   <string name="turn_on_radio">Radio einschalten</string>
