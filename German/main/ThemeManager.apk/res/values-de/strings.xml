@@ -254,6 +254,8 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
   <string name="detail_reward_user_limited_to_display">Nur die ersten 100 Personen werden angezeigt</string>
   <string name="dev_options">Entwickleroptionen</string>
   <string name="dev_options_summary">Web-Quellen</string>
+  <string name="dialog_apply_lock_screen_wallpaper_content">Das aktuelle Thema unterstützt möglicherweise nicht das Ändern des Sperrbildschirmhintergrunds.</string>
+  <string name="dialog_apply_lock_screen_wallpaper_warning">Sperrbildschirmhintergrund</string>
   <string name="dialog_show_never">Nicht wieder anzeigen</string>
   <string name="display">Bildschirm</string>
   <string name="download_failed">Herunterladen fehlgeschlagen</string>
@@ -1052,7 +1054,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
   <string name="system_cta_main_purpose">Verwalten und Verwenden von Online- und Offline-Themen, Hintergründen, Klingeltönen, Fonts und Video-Hintergründen</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Für den Zugriff auf die IMEI und die Bereitstellung von Download-Diensten</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Zur Anmeldung und Verwaltung von Systemkonten</string>
-  <string name="system_cta_runtime_perm_desc_storage">Zum Speichern von gespeicherten Themen, Klingeltönen, Fonts, Hintergründen und Video-Hintergründen</string>
+  <string name="system_cta_runtime_perm_desc_storage">Zur Verwendung der auf Ihrem Gerät gespeicherten Elemente zur Personalisierung und zum Speichern gekaufter Elemente</string>
   <string name="system_precust">Vorinstalliert</string>
   <string name="tag_ad">Werbung</string>
   <string name="task_already_exist">Diese Aufgabe existiert bereits</string>
