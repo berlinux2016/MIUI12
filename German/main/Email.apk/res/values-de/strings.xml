@@ -576,7 +576,6 @@
   <string name="error">Fehler</string>
   <string name="error_icon_content_description">Fehler</string>
   <string name="evening">Nachmittag</string>
-  <string name="exchange_name">Unternehmen (Exchange)</string>
   <string name="exception_cancel">Dieses Ereignis wurde abgebrochen für: %s</string>
   <string name="exception_updated">Details für dieses Ereignis wurden geändert für: %s</string>
   <string name="exchange_login_hint">Tippen, um sich bei einem Exchange-Konto anzumelden</string>
@@ -1049,6 +1048,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentifizierung des Kontos ver
   <string name="network_unavailable">Netzwerk nicht verfügbar</string>
   <string name="new_incoming_messages_one">Neue Nachricht von %s. Anzeigen.</string>
   <string name="new_mail_notification">Über neue Nachrichten benachrichtigen</string>
+  <string name="new_mail_notification_str">Benachrichtigungen zulassen</string>
   <string name="new_messages">%1$d neue Nachrichten</string>
   <string name="new_signature_has_saved">Erfolgreich gespeichert</string>
   <string name="next_action">Weiter</string>
