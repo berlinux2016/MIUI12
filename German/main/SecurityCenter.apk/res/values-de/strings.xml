@@ -2039,6 +2039,8 @@ Spielsitzungen aufzeichnen"</string>
   <string name="gs_slip_gamebox_detail">Verwenden Sie den Slider oder wischen Sie vom oberen Bildschirmrand, damit das Tastenfeld angezeigt wird.</string>
   <string name="gtb_brightness_dialog_right_btn">Weitermachen</string>
   <string name="gtb_brightness_dialog_sub_message">*Sie können diese Funktion in den Einstellungen ein- und ausschalten.</string>
+  <string name="gtb_content_switch">Inhaltsempfehlungen</string>
+  <string name="gtb_content_switch_summary">Spielbezogene Inhaltsempfehlungen erhalten</string>
   <string name="gtb_dialog_btn_close">Ausschalten</string>
   <string name="gtb_dialog_btn_open">Einschalten</string>
   <string name="gtb_dialog_hint_smart_5g">Sie können diese Funktion unter Game Turbo &gt; Einstellungen ein- und ausschalten.</string>
@@ -2428,6 +2430,8 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="midrop_post_notification_contentTitle">Sie müssen Dateien übertragen?</string>
   <string name="miui_optimization_close_final_tip">MIUI-Optimierung ausschalten?</string>
   <string name="miui_optimization_close_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Benutzer möglicherweise nicht geeignet. Abschalten der MIUI-Optimierung könnte die folgenden Änderungen mit sich bringen:</string>
+  <string name="miuix_access_state_desc">Ausgewählt</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
@@ -2442,6 +2446,7 @@ Ihr Gerät ist jetzt %d%% schneller."</string>
   <string name="miuix_appcompat_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
   <string name="miuix_appcompat_select_item">Elemente auswählen</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
