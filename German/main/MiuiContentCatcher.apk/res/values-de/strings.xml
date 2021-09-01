@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name">App-Erweiterungsdienst</string>
   <string name="auth_activity_label">Bestätigungscodes</string>
-  <string name="auth_fingerprint_content">Fingerabdruck lesen...</string>
+  <string name="auth_fingerprint_content">Fingerabdruck lesen…</string>
   <string name="auth_fingerprint_content_message">Legen Sie Ihren Finger auf den Sensor</string>
   <string name="auth_fingerprint_content_message_error">Fingerabdruck wurde nicht gescannt, erneut versuchen</string>
   <string name="auth_fingerprint_title">Fingerabdruck prüfen</string>
