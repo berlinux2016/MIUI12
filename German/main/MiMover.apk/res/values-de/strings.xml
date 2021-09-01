@@ -811,6 +811,9 @@ Videos, Dokumente und Apps auf ein neues Gerät verschieben"</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung Download-Manager fehlgeschlagen, bitte Status des Download-Managers in App-Verwaltung prüfen.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s

@@ -21,6 +21,7 @@
   <string name="access_token_expired_warning">Weibo-Konto abgelaufen</string>
   <string name="access_token_invalid_warning">Weibo-Konto ungültig</string>
   <string name="account">Konto</string>
+  <string name="account_and_password">Passwort</string>
   <string name="account_bind_devices">Geräte</string>
   <string name="account_bind_secure_email_title">Wiederherstellungs-E-Mail hinzufügen</string>
   <string name="account_bind_secure_phone_title">Wiederherstellungsrufnummer hinzufügen</string>
@@ -69,10 +70,14 @@ Ihre Konto ID: %s"</string>
   <string name="account_user_name_dialog_title">Benutzernamen eingeben</string>
   <string name="account_user_other_info">Weitere Informationen</string>
   <string name="account_user_phone">Telefon zum Wiederherstellen</string>
+  <string name="account_user_phone_show">Telefon: %s</string>
   <string name="account_user_recovery_phone">Notfalltelefon</string>
   <string name="account_user_using_facebook_avatar">Facebook-Profilfoto verwenden</string>
   <string name="account_user_using_qq_avatar">QQ-Profilfoto verwenden</string>
   <string name="account_user_using_weibo_avatar">Sina Weibo-Profilfoto verwenden</string>
+  <string name="account_verify_guide_bind_mail_desc">Wiederherstellungs-E-Mail hinzufügen</string>
+  <string name="account_verify_guide_bind_phone_desc">Wiederherstellungstelefon hinzufügen</string>
+  <string name="account_verify_guide_set_password_desc">Passwort festlegen</string>
   <string name="account_xiaomi_service">Dienste</string>
   <string name="action_add_phone">Rufnummer hinzufügen</string>
   <string name="action_retry">Erneut versuchen</string>
@@ -226,6 +231,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="find_device_set_lost_model">Verlustmodus</string>
   <string name="find_device_title">Gerät finden</string>
   <string name="find_device_unknown_error">Status kann nicht geprüft werden. Später erneut versuchen.</string>
+  <string name="find_equipment">Gerät finden</string>
   <string name="first_login_time">Erster Anmeldeversuch: %s</string>
   <string name="fmt_chinese_date">dd.MM.</string>
   <string name="fmt_date_day">d.</string>
@@ -255,6 +261,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
+  <string name="get_back_password">Passwort zurücksetzen</string>
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_identity_auth_url_failed">ID verifizieren fehlgeschlagen</string>
@@ -366,14 +373,18 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="my_device_title">Aktuelles Gerät</string>
   <string name="need_install_wechat">WeChat zuerst installieren</string>
   <string name="night">Abend</string>
+  <string name="no_install">Nicht installiert</string>
   <string name="no_network_btn">Aktualisieren</string>
   <string name="no_network_title">Keine Netzwerkverbindung</string>
+  <string name="no_password_set">Nicht festgelegt</string>
   <string name="no_phone">Keine Rufnummer</string>
   <string name="no_response_retry">Keine Rückmeldung. Erneut versuchen.</string>
   <string name="no_sim_card_or_unactivated">SIM-Karte nicht installiert oder aktiviert</string>
   <string name="nobind">Nicht verbunden</string>
   <string name="noon">Mittag</string>
   <string name="not_set">Nicht festgelegt</string>
+  <string name="notify_bind_security_phone">Wiederherstellungstelefon hinzufügen</string>
+  <string name="notify_complete_security_info">Wiederherstellungsinfos hinzufügen</string>
   <string name="notify_network_restricted_content_bg_network">Internetzugriff für Mi-Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
   <string name="notify_network_restricted_content_hidden_state">Hintergrundaktivität für Mi-Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
   <string name="notify_network_restricted_content_mobile_network">Internetzugriff für Mi-Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
@@ -637,6 +648,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="permission_group_contacts">Kontakte</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_storage">Speicher</string>
+  <string name="personal_info_desc">Foto, Spitzname und mehr</string>
   <string name="phone_activated">%s aktiviert</string>
   <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
   <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
@@ -688,6 +700,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="search_user_detail_top_key_words">Persönliche Infos,Profilbild ändern,Benutzername ändern,Spitzname ändern,Geburtsdatum ändern,Geschlecht ändern</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_location_title">Wählen Sie Ihren Standort</string>
+  <string name="self_account_info">Persönliche Daten</string>
   <string name="send">Senden</string>
   <string name="send_diagnosis_log">Protokolle senden</string>
   <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich versendet</string>
@@ -777,6 +790,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
   <string name="the_valentines_day">Valentinstag</string>
   <string name="the_water_lantern_festival">Laternenfestival</string>
+  <string name="third_party_login">Konten von Drittanbietern</string>
   <string name="thursday">Donnerstag</string>
   <string name="thursday_short">Do</string>
   <string name="thursday_shortest">D</string>
