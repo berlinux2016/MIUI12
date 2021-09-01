@@ -3033,10 +3033,10 @@ Stromverbrauch"</string>
   <string name="popular_action_app_manager_title">App-Verwaltung</string>
   <string name="popular_action_auto_launch_manager_summary">Selbststartende App</string>
   <string name="popular_action_auto_launch_manager_title">Mit einem Klick verwalten</string>
-  <string name="popular_action_card_title">Jeder benutzt </string>
+  <string name="popular_action_card_title">"Jeder benutzt "</string>
   <string name="popular_action_first_aid_summary">Ein-Klick-Erkennung</string>
   <string name="popular_action_first_aid_title">Telefonproblem</string>
-  <string name="popular_action_hb_assistant_summary">Schnapp Sie sich die roten Umschläge einen Schritt schneller</string>
+  <string name="popular_action_hb_assistant_summary">Schnappen Sie sich die roten Umschläge einen Schritt schneller</string>
   <string name="popular_action_video_box_summary">Beim Chatten</string>
   <string name="popular_action_video_box_title">Video ansehen</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in %d Sekunden aus</string>
