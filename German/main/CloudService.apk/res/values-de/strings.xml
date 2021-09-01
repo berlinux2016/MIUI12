@@ -351,7 +351,7 @@ Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
   <string name="micloud_main_error_activated_fail">SIM-Karte aktivieren</string>
   <string name="micloud_main_error_network_disallowed">Stellen Sie sicher, dass Sie Zugang zum Internet haben</string>
   <string name="micloud_main_error_permission_limit">Xiaomi Cloud den Speicherzugriff erlauben</string>
-  <string name="micloud_main_head_menu_cloud_backup">Cloud-Sicherung</string>
+  <string name="micloud_main_head_menu_cloud_backup">Sicherungen</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Systemeinstellungen und Startbildschirm-Layout</string>
   <string name="micloud_main_head_menu_finddevice_summary">Finden und sperren Sie Ihr Gerät</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Gerät finden ist im Zweitprofil nicht möglich. Sie können es im Hauptprofil nutzen.</string>

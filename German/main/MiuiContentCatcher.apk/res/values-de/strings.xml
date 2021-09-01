@@ -25,7 +25,7 @@
   <string name="delete">Löschen</string>
   <string name="invalid_package_signature">Ungültige App-Signatur</string>
   <string name="login_mi_account_alert">Achtung</string>
-  <string name="login_mi_account_summary">Passwortmanager synchronisiert Passwörter mit Ihrem Mi Konto. Jetzt anmelden?</string>
+  <string name="login_mi_account_summary">Synchronisieren Sie Ihre Kennwörter mit der Cloud</string>
   <string name="password_manager">Passwortmanager</string>
   <string name="password_manager_summary">Synchronisieren Sie Ihre Passwörter mit der Cloud</string>
   <string name="save_content_tip">"Folgenden Elemente werden gespeichert: "</string>
