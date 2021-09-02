@@ -22,12 +22,15 @@
   <string name="common_open_on_phone">Auf Telefon öffnen</string>
   <string name="common_signin_button_text">Anmelden</string>
   <string name="common_signin_button_text_long">Mit Google anmelden</string>
+  <string name="folder_list_current_account">Aktuelles Postfach</string>
   <string name="gamil_login_failed_1">Anmeldung fehlgeschlagen. Bitte später erneut versuchen.</string>
   <string name="gamil_login_failed_2">Anmeldung fehlgeschlagen. Bitte Google-Dienst aktualisieren und erneut versuchen.</string>
   <string name="gamil_login_failed_3">Anmeldung fehlgeschlagen. Netzwerkeinstellungen überprüfen und erneut versuchen.</string>
   <string name="gamil_login_failed_4">Anmeldung aufgrund eines Serverfehlers fehlgeschlagen. Bitte erneut versuchen.</string>
   <string name="gamil_login_failed_other">Anmeldung fehlgeschlagen. Bitte später erneut versuchen.</string>
+  <string name="hide_attachment">Anhang ausblenden</string>
   <string name="jumping_google_login">Auf Google-Autorisierungsseite weiterleiten…</string>
+  <string name="show_attachment">Anhang anzeigen</string>
 
   <string name="SMTP_independent_verification_text">SMTP-unabhängige Verifizierung</string>
   <string name="SMTP_password_text">Passwort</string>
