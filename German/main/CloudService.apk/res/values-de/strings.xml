@@ -507,11 +507,11 @@ Nutzen Sie ein anderes Konto."</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Sie müssen Ihr Abo verlängern</string>
   <string name="micloud_storage_expires_soon_title">Xiaomi Cloud-Speicher läuft bald ab</string>
   <string name="micloud_storage_expires_very_soon_title">Xiaomi Cloud-Speicher läuft bald ab</string>
-  <string name="micloud_storage_family_quota">Teilen mit der Familie</string>
+  <string name="micloud_storage_family_quota">Mit der Familie teilen</string>
   <string name="micloud_storage_full">Xiaomi Cloud ist voll</string>
   <string name="micloud_storage_full_tip">Speicher ist voll</string>
   <string name="micloud_storage_normal_tip">%s übrig</string>
-  <string name="micloud_storage_share_family">Teilen mit der Familie</string>
+  <string name="micloud_storage_share_family">Mit der Familie teilen</string>
   <string name="micloud_sync_alert_dialog_message">Synchronisieren Sie Ihre Fotos, Kontakte, Notizen und mehr auf all Ihren Geräten</string>
   <string name="micloud_sync_alert_dialog_message_pad">Fotos, Notizen und mehr auf all Ihren Geräten synchronisieren</string>
   <string name="micloud_sync_alert_dialog_message_v2">Ihre Fotos, Kontakte, Notizen und mehr über alle Ihre Geräte hinweg synchronisieren.</string>
