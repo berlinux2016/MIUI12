@@ -188,6 +188,7 @@
   <string name="app_name_view_picture">Zeige Fotos</string>
   <string name="app_name_view_video">Videos ansehen</string>
   <string name="app_summary">Ihre Fotos und Videos auf dem Gerät und in der Xiaomi Cloud verwalten und bearbeiten</string>
+  <string name="app_summary_2">Speichern, Verwalten und Bearbeiten von Fotos und Videos auf diesem Gerät</string>
   <string name="apply">Übernehmen</string>
   <string name="art_still_cancel_download">Abbrechen</string>
   <string name="art_still_download">Herunterladen</string>
@@ -546,6 +547,8 @@
   <string name="create_quick_icon_on_desk">Verknüpfung erstellen</string>
   <string name="creating_baby_album">Album erstellen…</string>
   <string name="crop_label">Zuschneiden</string>
+  <string name="cta_agreement_declare"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor Sie diese App nutzen.</Data></string>
+  <string name="cta_network_declare">Um Fotos und Videos mit der Xiaomi Cloud zu synchronisieren, benötigt diese App eine Internetverbindung.</string>
   <string name="custom_select_title_deselect_all">Keine auswählen</string>
   <string name="custom_select_title_quickly_share">Teilen</string>
   <string name="custom_select_title_select_all">Alle auswählen</string>
@@ -1021,9 +1024,16 @@
   <string name="generate_story_title">Story-Alben</string>
   <string name="get_album_info_in_process">Albumdetails laden…</string>
   <string name="grant_permission_go_and_set">Einstellen</string>
+  <string name="grant_permission_go_and_set_2">Einstellungen</string>
+  <string name="grant_permission_go_and_set_3">Einstellungen</string>
+  <string name="grant_permission_shortcut">Erst zulassen, dass diese App Startbildschirmverknüpfungen erstellt.</string>
+  <string name="grant_permission_storage">Erst den Speicherzugriff für diese App zulassen.</string>
+  <string name="grant_permission_storage_unlock">Gerät entsperren und erst für diese App den Speicherzugriff zulassen.</string>
   <string name="grant_permission_text">Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.\nAuf Einstellen tippen, um zur Rechteverwaltung zu gelangen.</string>
   <string name="grant_permission_title">Zugriff erlauben</string>
   <string name="grant_permission_unlock_and_set">Entsperren und einstellen</string>
+  <string name="grant_permission_unlock_and_set_2">Entsperren</string>
+  <string name="grant_permission_write_clipboard">Zulassen, dass diese App Elemente in der Zwischenablage speichert, um sie kopieren zu können.</string>
   <string name="has_invalid_recipient">Ungültiger Empfänger: &lt;%1$s&gt;</string>
   <string name="have_known">Bekannt</string>
   <string name="help">Geräte nicht gefunden?</string>
@@ -1559,8 +1569,14 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Unbenannt</string>
   <string name="permissin_contract_desc">Für die Benennung von Personen auf Fotos</string>
+  <string name="permission_account_desc">Zur Anmeldung und Verwaltung des Systemkontos</string>
+  <string name="permission_account_name">Zugriff auf Konten</string>
+  <string name="permission_clipboard_desc">Zum Abrufen und Speichern von Elementen in der Zwischenablage</string>
+  <string name="permission_clipboard_name">Zugriff auf oder Speichern von Elementen in der Zwischenablage</string>
   <string name="permission_contacts_desc">Für die Zuordnung von Kontakten zu Personen auf Fotos</string>
+  <string name="permission_contacts_desc_2">Zum Zuordnen von Personen auf Fotos zu Kontakten</string>
   <string name="permission_contacts_name">Kontakte</string>
+  <string name="permission_contacts_name_2">Zugriff auf Kontakte</string>
   <string name="permission_contract_name">Kontakte</string>
   <string name="permission_optional_category">Optionale Berechtigungen</string>
   <string name="permission_phone_desc">Für Netzwerkanfragen basierend auf der Geräte-ID</string>
@@ -1568,6 +1584,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
   <string name="permission_require_category">Obligatorische Berechtigungen</string>
   <string name="permission_storage_desc">Zum Anzeigen, Bearbeiten und Speichern von Fotos</string>
   <string name="permission_storage_name">Speicher</string>
+  <string name="permission_storage_name_2">Zugriff auf und Speicherung von Fotos und Dateien auf dem Gerät</string>
   <string name="permission_use_desc">Berechtigungen</string>
   <string name="pet_album_display_name">Tierfotos</string>
   <string name="photo">Fotos</string>
