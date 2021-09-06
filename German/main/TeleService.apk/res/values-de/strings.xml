@@ -1049,6 +1049,8 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
   <string name="error_updating_title">Anrufeinstellungsfehler</string>
+  <string name="esim_inactive_notification_message">SIM-Karte wird nicht erkannt. Tippen, um die SIM-Karte zu aktivieren.</string>
+  <string name="esim_inactive_settings_title">Netzwerkeinstellungen</string>
   <string name="evening">Nachmittag</string>
   <string name="exception_error">Netzwerk- oder SIM-Kartenfehler</string>
   <string name="expand_button_title">Erweitert</string>

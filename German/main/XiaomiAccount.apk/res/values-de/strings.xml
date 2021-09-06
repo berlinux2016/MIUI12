@@ -609,7 +609,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="passport_title_reg">Konto erstellen</string>
   <string name="passport_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
   <string name="passport_trying_read_verify_code_sms">Verifikationscode erhalten…</string>
-  <string name="passport_tz_invalid">Sicherheitsrisiken gefunden. Dieses Gerät wurde möglicherweise gerootet oder geflasht. Andere Anmeldemöglichkeiten versuchen.</string>
+  <string name="passport_tz_invalid">Sicherheitsrisiken gefunden. Dieses Gerät wurde evtl. gerootet oder geflasht. Andere Anmeldemöglichkeiten versuchen.</string>
   <string name="passport_uplink_reg">Rufnummer verwenden</string>
   <string name="passport_uplink_send_sms_hint">Tippen Sie auf \"Senden\", wenn Sie auf die Seite mit einer verfassten Nachricht umgeleitet wurden.</string>
   <string name="passport_uplink_slot1_reg">SIM1 verwenden</string>

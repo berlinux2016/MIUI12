@@ -2602,6 +2602,7 @@ Um dieses Problem zu beheben, stoppen Sie %1$s und verhindern die Hintergrundakt
   <string name="dialog_check_title">Internetverbindung herstellen nicht möglich</string>
   <string name="dialog_chose_item">Wählen Sie ein Element aus, das angezeigt werden soll</string>
   <string name="dialog_content_login">Für das Update mit Ihrem Mi-Konto anmelden?</string>
+  <string name="dialog_esim_button_negative">Abbrechen</string>
   <string name="dialog_location_message">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s immer wieder Ihren Standort abfragt, wenn Sie die App nicht verwenden.
 
 Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese App."</string>
@@ -2616,6 +2617,12 @@ Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese App."</st
   <string name="dialog_restrict_all_wlan_title">WLAN-Verbindung einschränken</string>
   <string name="dialog_restrict_negative">Einschränken…</string>
   <string name="dialog_restrict_positive">Abbrechen</string>
+  <string name="dialog_softbank_esim_wipe_cancel">Abbrechen</string>
+  <string name="dialog_softbank_esim_wipe_info">Wenn Sie fortfahren, werden alle eSIM-Daten gelöscht. Trotzdem fortfahren?</string>
+  <string name="dialog_softbank_esim_wipe_ok">Fortfahren</string>
+  <string name="dialog_softbank_esim_wipe_title">eSIM-Daten löschen</string>
+  <string name="dialog_softbank_esime_context">Dieses Gerät benötigt eine Internetverbindung, um die eSIM aktivieren zu können. Auch die eSIM-Aktivierung überspringen?</string>
+  <string name="dialog_softbank_esime_title">eSIM-Aktivierung überspringen</string>
   <string name="dialog_speaker_auto_clean_button">Verstanden</string>
   <string name="dialog_speaker_auto_clean_content">Reinigung dauert 30 Sekunden. Diese Seite nicht verlassen. Klanglautstärke für den besten Effekt maximieren.</string>
   <string name="dialog_speaker_auto_clean_title">Achtung</string>
