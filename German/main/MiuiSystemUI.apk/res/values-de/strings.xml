@@ -1849,6 +1849,8 @@ Screenshot zu erstellen"</string>
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; wählen und warten, bis das Telefon neu startet.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="phone_locked_string">Dieses Gerät ist gesperrt</string>
+  <string name="phone_locked_string_owner_user">Zu viele Fehlversuche bei der Passworteingabe für das Hauptprofil. Dieses Gerät ist jetzt gesperrt.</string>
+  <string name="phone_locked_string_second_user">Zu viele Fehlversuche bei der Passworteingabe für das Zweitprofil. Dieses Gerät ist jetzt gesperrt.</string>
   <string name="picture_color_mode">Bildfarbenmodus</string>
   <string name="picture_color_mode_desc">sRGB verwenden</string>
   <string name="pip_close">BIB schließen</string>

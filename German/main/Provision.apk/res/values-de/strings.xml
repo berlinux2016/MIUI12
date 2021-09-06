@@ -237,7 +237,7 @@
   <string name="other_settings_enhanced_lockscreen_summary">"Lassen Sie sich täglich kuratierte Bilder und Geschichten auf Ihrem Sperrbildschirm anzeigen. %1$s und %2$s"</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Allgemeine Geschäftsbedingungen</string>
   <string name="other_settings_location">Standort</string>
-  <string name="other_settings_location_summary">Apps haben Standortzugriff</string>
+  <string name="other_settings_location_summary">Apps und Webseiten den Standortzugriff erlauben, um standortbezogene Dienste anzubieten.</string>
   <string name="other_settings_upload_debug_log_detail">"Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.
 Die Daten, die Sie senden, enthalten allgemeine Infos über Ihr Gerät und wie Sie es verwenden (z. B. Akkustand, System- und App-Aktivität und Fehler). Die Daten werden verwendet, um MIUI-Geräte zu verbessern.
 Deaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigten Infos zu senden.

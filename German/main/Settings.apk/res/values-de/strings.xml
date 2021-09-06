@@ -1309,6 +1309,7 @@ BT-Audiogeräte"</string>
 
 Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
   <string name="bluetooth_message_access_dialog_title">Zugriff auf Nachrichten zulassen?</string>
+  <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Kontaktzugriff erlauben</string>
   <string name="bluetooth_phonebook_access_dialog_title">Zugriff auf Kontakte und Anrufliste zulassen?</string>
   <string name="bluetooth_phonebook_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Kontakte und die Anrufliste zugreifen. Auf Details tippen.</string>
   <string name="bluetooth_message_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Nachrichten zugreifen. Auf Details tippen.</string>

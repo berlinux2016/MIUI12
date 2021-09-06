@@ -302,6 +302,8 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
   <string name="install_failed_verify_failed">Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden.</string>
   <string name="install_failed_verify_timeout">Bei der Paketprüfung ist eine Zeitüberschreitung aufgetreten. Wiederholen Sie die Installation.</string>
   <string name="install_other_apps">Unbekannte Apps installieren</string>
+  <string name="install_package_error">Installationspaket ist nicht mit Ihrem System kompatibel</string>
+  <string name="install_package_error_des">Bitte kontaktieren Sie den entsprechenden Entwickler oder gehen Sie zum Xiaomi App Store, um die kompatibilitätsgeprüfte App zu installieren</string>
   <string name="installing">Installieren…</string>
   <string name="installing_app">%1$s installieren…</string>
   <string name="keep_screen_on">Eingeschaltet lassen</string>
@@ -547,6 +549,7 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="unknown_apps_user_restriction_dlg_text">Unbekannte Apps können von diesem Benutzer nicht installiert werden</string>
   <string name="untrusted_external_source_warning">Zu Ihrer Sicherheit darf Ihr Telefon keine unbekannten Apps von dieser Quelle installieren.</string>
+  <string name="uri_no_permission">Datei lesen nicht möglich, Berechtigung verweigert</string>
   <string name="usb_audio_disable_routing">USB Audio Routing deaktivieren</string>
   <string name="usb_audio_disable_routing_summary">Automatisches Routing to USB Audio Peripherien deaktivieren</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache nutzen</string>

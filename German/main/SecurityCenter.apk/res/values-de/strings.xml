@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_GetInstall_Desc">Informationen über die auf diesem Gerät installierten Apps abrufen</string>
   <string name="antivirus_browser_check">Webseiten im Mi Browser prüfen</string>
   <string name="antivirus_browser_check_summary">Webseiten im Mi Browser automatisch prüfen und Warnungen über mögliche Risiken erhalten</string>
   <string name="antivirus_monitored_tips">Zahlungsumgebung automatisch auf mögliche Risiken prüfen</string>
