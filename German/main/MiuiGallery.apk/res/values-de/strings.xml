@@ -1026,7 +1026,7 @@
   <string name="grant_permission_go_and_set">Einstellen</string>
   <string name="grant_permission_go_and_set_2">Einstellungen</string>
   <string name="grant_permission_go_and_set_3">Einstellungen</string>
-  <string name="grant_permission_shortcut">Erst zulassen, dass diese App Startbildschirmverknüpfungen erstellt.</string>
+  <string name="grant_permission_shortcut">Erst zulassen, dass diese App Startbildschirm-Verknüpfungen erstellt.</string>
   <string name="grant_permission_storage">Erst den Speicherzugriff für diese App zulassen.</string>
   <string name="grant_permission_storage_unlock">Gerät entsperren und erst für diese App den Speicherzugriff zulassen.</string>
   <string name="grant_permission_text">Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.\nAuf Einstellen tippen, um zur Rechteverwaltung zu gelangen.</string>
