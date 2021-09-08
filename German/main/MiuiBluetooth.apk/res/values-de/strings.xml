@@ -405,6 +405,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="headset_fw_file_position_failed">Dateizugriff nicht möglich</string>
   <string name="headset_fw_file_readfailed">Aktualisierungsinfo erhalten nicht möglich</string>
   <string name="headset_loss_notify_summary">Anscheinend ist mindestens einer Ihrer Ohrhörer nicht in der Ladehülle. Sehen Sie nach!</string>
+  <string name="headset_loss_notify_summary1">Anscheinend sind Ihre Kopfhörer nicht in der Hülle. Legen Sie sie zurück, um sie aufzuladen.</string>
   <string name="headset_loss_notify_title">Warnung bei fehlendem Ohrhörer</string>
   <string name="headset_read_fw_state">Aktualisierungsinfo erhalten nicht möglich</string>
   <string name="headset_update_failed">Aktualisieren nicht möglich</string>

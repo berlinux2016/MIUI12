@@ -1040,6 +1040,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="enhanced_connectivity_summary">Aktiviert die Funktion Erweiterte Konnektivität</string>
   <string name="enterNumber">Rufnummer</string>
   <string name="enter_callbarring_password">Passwort für Anrufsperre eingeben (%d Ziffern)</string>
+  <string name="enter_esim_manager">eSIM verwalten</string>
   <string name="enter_input" formatted="false">USSD-Mitteilung muss zwischen %d und %d Zeichen lang sein. Bitte erneut versuchen.</string>
   <string name="entertainment_news_settings">Unterhaltungsnachrichten</string>
   <string name="eo_disable">Jobangebote aus</string>
@@ -1049,8 +1050,10 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
   <string name="error_updating_title">Anrufeinstellungsfehler</string>
-  <string name="esim_inactive_notification_message">SIM-Karte wird nicht erkannt. Tippen, um die SIM-Karte zu aktivieren.</string>
-  <string name="esim_inactive_settings_title">Netzwerkeinstellungen</string>
+  <string name="esim_goto_active">Aktivieren</string>
+  <string name="esim_inactive_message">eSIM inaktiv</string>
+  <string name="esim_inactive_notification_message">Keine SIM-Karte erkannt. Tippen, um eSIM zu aktivieren.</string>
+  <string name="esim_inactive_settings_title">Dual-SIM &amp; Mobilfunknetze</string>
   <string name="evening">Nachmittag</string>
   <string name="exception_error">Netzwerk- oder SIM-Kartenfehler</string>
   <string name="expand_button_title">Erweitert</string>

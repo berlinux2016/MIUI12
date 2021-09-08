@@ -175,6 +175,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster vollständig</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
+  <string name="lockscreen_carrier_customized">Eingeschränkter Dienst</string>
   <string name="magic_window_toast">App-Multiplikator aktiviert</string>
   <string name="maml_component_customization_title">Einstellungen</string>
   <string name="memory_clear_nothing_result">Nichts zum Löschen im Cache vorhanden</string>
