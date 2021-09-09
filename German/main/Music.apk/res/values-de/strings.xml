@@ -1280,6 +1280,7 @@ Glücklich sein."</string>
   <string name="toast_download_in_process">Download in Bearbeitung</string>
   <string name="toast_favorite_has_been_added">Erfolgreich zur Wiedergabeliste hinzugefügt</string>
   <string name="toast_follow_success">Erfolgreich gefolgt</string>
+  <string name="toast_hungama_vip_song">Dieser Titel ist nur für PRO-Mitglieder verfügbar. Holen Sie sich ein Abo, um ihn herunterzuladen.</string>
   <string name="toast_is_pro">Sie sind bereits PRO-Mitglied</string>
   <string name="toast_my_playlist_illegal_name">Name dieser Wiedergabeliste ist ungültig. Benennen Sie diese Wiedergabeliste um.</string>
   <string name="toast_my_playlist_set_to_private">Diese Wiedergabeliste ist jetzt privat. Andere Leute können sie nicht sehen.</string>
