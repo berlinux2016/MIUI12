@@ -218,7 +218,7 @@
   <string name="app_behavior_audio_now">%1s-Audioaufnahmen jetzt im Hintergrund</string>
   <string name="app_behavior_audio_single">Diese App nahm Audio auf</string>
   <string name="app_behavior_autostart">%1s autom. gestartet</string>
-  <string name="app_behavior_autostart_single">Diese App startete automatisch</string>#
+  <string name="app_behavior_autostart_single">Diese App startete automatisch</string>
   <string name="app_behavior_calendar">%1s-Zugriff auf Ihren Terminkalender</string>
   <string name="app_behavior_calendar_bg">%1s-Zugriff auf Ihren Terminkalender im Hintergrund</string>
   <string name="app_behavior_calendar_bg_single">Diese App griff im Hintergrund auf Ihre Kalenderteinträge zu</string>

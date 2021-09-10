@@ -578,6 +578,9 @@
   <string name="open_personal_assistant_dialog_title">Infoassistent deaktivieren</string>
   <string name="open_personal_assistant_title">Infoassistent aktivieren</string>
   <string name="open_personal_assistant_title_synonyms">Negativer Bildschirm</string>
+  <string name="ota_layout_adjustment_button_text">Verstanden</string>
+  <string name="ota_layout_adjustment_content">Innere und äußere Startbildschirm-Layouts wurden in der neuen Version synchronisiert.</string>
+  <string name="ota_layout_adjustment_title">Startbilschirm-Layout</string>
   <string name="out_of_space">Kein Platz auf Startbildschirm</string>
   <string name="perfect_icons_switch_summary">Drittanbieter-App-Symbole neu zeichnen</string>
   <string name="perfect_icons_switch_title">Globale Symbolanimationen</string>
