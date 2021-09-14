@@ -245,7 +245,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
   <string name="other_settings_upload_debug_log_summary">Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.</string>
   <string name="other_settings_upload_debug_log_title">Nutzungs- und Diagnosedaten senden</string>
   <string name="other_settings_user_experience">Programm zur Benutzererfahrung</string>
-  <string name="other_settings_user_experience_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken mitteilen.</string>
+  <string name="other_settings_user_experience_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken und Analysen mitteilen.</string>
   <string name="other_settings_user_experience_summary_index">Details anzeigen</string>
   <string name="permission_MIUIDaemon_introduction">MIUI Daemon ermöglicht Ihnen, Daten von Ihrem Gerät zu übertragen, wenn dessen Bildschirm beschädigt ist.</string>
   <string name="permission_account">Kontenzugriff auf Ihrem Gerät:</string>
