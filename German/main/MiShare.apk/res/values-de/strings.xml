@@ -146,6 +146,8 @@ OPPO, Vivo, Realme und andere Marken werden auch bald mit Mi Share kompatibel se
   <string name="mishare_state_protection_summary">Mi Share automatisch wieder einschalten, wenn Bluetooth oder WLAN wieder eingeschaltet ist</string>
   <string name="mishare_state_protection_summary_china">Mi Share automatisch wieder einschalten, wenn Bluetooth oder WLAN wieder eingeschaltet ist</string>
   <string name="mishare_transefer_channel_desc">Benachrichtigungen über von Mi Share gesendete und empfangene Elemente</string>
+  <string name="miuix_access_state_desc">Ausgewählt</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -160,6 +162,7 @@ OPPO, Vivo, Realme und andere Marken werden auch bald mit Mi Share kompatibel se
   <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
   <string name="miuix_appcompat_select_item">Elemente wählen</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>

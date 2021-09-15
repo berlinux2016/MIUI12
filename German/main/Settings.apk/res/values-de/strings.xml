@@ -2434,11 +2434,11 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="date_time_set_timezone_title">Zeitzone</string>
   <string name="date_time_settings">Datum &amp; Uhrzeit</string>
   <string name="day_of_week">Wochentag</string>
-  <string name="dc_light_dialog_summary">Bildqualität kann beeinträchtigt werden, wenn der Anti-Flacker-Modus aktiviert ist. Trotzdem einschalten?</string>
+  <string name="dc_light_dialog_summary">Bildqualität kann beeinträchtigt werden, wenn der Antiflimmer-Modus aktiviert ist. Trotzdem einschalten?</string>
   <string name="dc_light_summary">DC Dimming anwenden, um die Augenbelastung zu reduzieren</string>
-  <string name="dc_light_summary_new">Ausgedehntes Flackern und Augenbelastung bei schlechten Lichtverhältnissen reduzieren</string>
-  <string name="dc_light_title">Anti-Flacker-Modus</string>
-  <string name="dclight_unavailable_prompt">Anti-Flicker-Modus wird nur vom 2. Bildschirm unterstützt</string>
+  <string name="dc_light_summary_new">Ausgedehntes Flimmern und Augenbelastung bei schlechten Lichtverhältnissen reduzieren</string>
+  <string name="dc_light_title">Antiflimmer-Modus</string>
+  <string name="dclight_unavailable_prompt">Antiflimmer-Modus wird nur vom 2. Bildschirm unterstützt</string>
   <string name="debug_app">Debug-App auswählen</string>
   <string name="debug_app_not_set">Keine Debug-App ausgewählt</string>
   <string name="debug_app_set">Debug-App: %1$s</string>
@@ -4666,6 +4666,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lost_internet_access_switch">Auf mobil umstellen</string>
   <string name="lost_internet_access_text">Sie können auf Mobilfunknetz umschalten, wenn WLAN eine schlechte Verbindung hat. Kosten für die Datennutzung können anfallen.</string>
   <string name="lost_internet_access_title">WLAN ist nicht mit Internet verbunden</string>
+  <string name="low_dc_light_title">Antiflimmer-Modus bei schwachem Licht</string>
   <string name="low_label">Gering</string>
   <string name="low_storage_summary">Geringer Speicherplatz, %1$s belegt - %2$s frei</string>
   <string name="lte_4g_settings_4gdisable_summary">4G deaktiviert</string>

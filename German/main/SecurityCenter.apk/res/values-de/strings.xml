@@ -941,6 +941,10 @@ Sie verlieren keine App-Daten."</string>
   <string name="cetus_invisible_mode_warn_location">Sie sind inkognito. Die Standortberechtigungen sind aufgehoben.</string>
   <string name="cetus_invisible_mode_warn_open">Inkognito-Modus setzt Mikrofon-, Kamera- und ortsbezogene Berechtigungen für alle Apps aus. Jetzt einschalten?</string>
   <string name="cetus_invisible_mode_warn_record_audio">Sie sind inkognito. Die Mikrofonberechtigungen sind aufgehoben.</string>
+  <string name="charge_high_temp_warning_dialog_ok">Verstanden</string>
+  <string name="charge_high_temp_warning_dialog_text">Anscheinend ist der Ladeanschluss jetzt überhitzt. Trennen Sie das Ladegerät und lassen Sie den Akku abkühlen, bevor Sie wieder mit dem Laden beginnen.</string>
+  <string name="charge_high_temp_warning_text">Trennen Sie das Ladegerät und lassen Sie den Akku abkühlen</string>
+  <string name="charge_high_temp_warning_title">Ladeanschluss ist zu heiß</string>
   <string name="charger_detect_button_ok">Verstanden</string>
   <string name="charger_detect_info1">Überprüfen Sie, ob Netzadapter und Kabel richtig angeschlossen sind.</string>
   <string name="charger_detect_info2">Das Aufladen kann sich auch verlangsamen, wenn Sie nicht standardmäßige oder alte Netzteile und Kabel verwenden.</string>
@@ -3410,11 +3414,12 @@ Stromverbrauch"</string>
   <string name="priority_storage_settings_summary">Wenn keine SD-Karte erkannt wird, werden Ihre Daten automatisch im internen Speicher Ihres Geräts gespeichert.</string>
   <string name="priority_storage_summary">Einen Ort zum Speichern Ihrer Daten auswählen</string>
   <string name="priority_storage_title">Speichereinstellungen</string>
-  <string name="privacy_apps">Versteckte Apps</string>
   <string name="privacy_app_behavior_summary">Autostart, Berechtigungen und mehr</string>
   <string name="privacy_app_behavior_title">App-Verhaltensverlauf</string>
   <string name="privacy_app_permission_manage_summary">Berechtigungen von installierten Apps verwalten</string>
   <string name="privacy_app_permission_manage_title">Berechtigungen verwalten</string>
+  <string name="privacy_apps">Versteckte Apps</string>
+  <string name="privacy_apps_add">Hinzufügen</string>
   <string name="privacy_apps_button_know">Verstanden</string>
   <string name="privacy_apps_category_title">Versteckte Apps</string>
   <string name="privacy_apps_checkbox_remind_choice">Nicht mehr anzeigen</string>
@@ -3425,9 +3430,13 @@ Stromverbrauch"</string>
   <string name="privacy_apps_manage_dialog_title">Über versteckte Apps</string>
   <string name="privacy_apps_manager_dialog_message">Dieses App-Symbol wird nicht am Startbildschirm angezeigt, wenn Sie die App verstecken. Jetzt verstecken?</string>
   <string name="privacy_apps_next_stup">Weiter</string>
+  <string name="privacy_apps_password_enable_summay">Private Dateien mit App-Sperre schützen</string>
+  <string name="privacy_apps_password_enable_title">App-Sperre</string>
   <string name="privacy_apps_shield_message_summary">Keine Benachrichtigungen für geschützte Apps anzeigen</string>
   <string name="privacy_apps_shield_message_title">Keine Benachrichtigungen anzeigen</string>
   <string name="privacy_apps_tutorial">Anleitung</string>
+  <string name="privacy_apps_tutorial_dlg_message_1">Zwei Finger auf dem Startbildschirm spreizen, um versteckte Apps anzuzeigen</string>
+  <string name="privacy_apps_tutorial_dlg_message_2">Hinweis: Wenn Sie eine App ausblenden, wird nur ihre Verknüpfung auf dem Startbildschirm ausgeblendet.</string>
   <string name="privacy_apps_tutorial_dlg_title">Wie man versteckte Apps findet</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Wenn Sie eine App ausblenden, wird sie in einen versteckten Ordner verschoben. Die Startbildschirm-Verknüpfung ist auch versteckt.
 Diese Funktion wird bei System-Apps nicht unterstützt."</string>
@@ -3598,6 +3607,12 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
   <string name="privacy_search_key_7">Standortinfo</string>
   <string name="privacy_search_key_8">Nicht verfolgen</string>
   <string name="privacy_search_key_9">Virtuelle ID</string>
+  <string name="privacy_search_keyword_1">Datenschutz</string>
+  <string name="privacy_search_keyword_2">Apps ausblenden</string>
+  <string name="privacy_search_keyword_3">Symbole ausblenden</string>
+  <string name="privacy_search_keyword_4">Startbildschirm-Verknüpfungen ausblenden</string>
+  <string name="privacy_search_keyword_5">Private Apps</string>
+  <string name="privacy_search_keyword_6">Ausblenden</string>
   <string name="privacy_show_other_permissions">Andere Berechtigungen anzeigen</string>
   <string name="privacy_show_password">Passwörter anzeigen</string>
   <string name="privacy_show_password_summary">Passwörter für kurze Zeit sichtbar machen</string>
