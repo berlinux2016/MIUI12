@@ -24,7 +24,7 @@
   <string name="cancel_download">Herunterladen abgebrochen</string>
   <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
-    <string name="close">Schließen</string>
+  <string name="close">Schließen</string>
   <string name="copy">Kopieren</string>
   <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
@@ -120,9 +120,9 @@ mm"</string>
   <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
   <string name="miuix_appcompat_search_input_description">Suche</string>
-  <string name="miuix_appcompat_select_all">Alle auswählen</string>
-  <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
-  <string name="miuix_appcompat_select_item">Elemente auswählen</string>
+  <string name="miuix_appcompat_select_all">Alle wählen</string>
+  <string name="miuix_appcompat_select_all_description">Alle wählen</string>
+  <string name="miuix_appcompat_select_item">Elemente wählen</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
