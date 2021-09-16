@@ -589,7 +589,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="applock_bind_account_dialog_content">Ihr Mi-Konto ist die einzige Möglichkeit, Ihre App-Sperre wiederherzustellen, falls Sie sie vergessen haben. Melden Sie sich an, um Ihr Mi-Konto hinzuzufügen.</string>
   <string name="applock_bind_account_dialog_title">Ihr Mi-Konto hinzufügen</string>
   <string name="applock_bind_account_title">Passwort zurücksetzen</string>
-  <string name="applock_close_dialog_summary">Alle versteckten Apps werden sichtbar, deren Startbildschirm-Verknüpfungen werden wiederhergestellt und Ihr App-Sperre-Passwort wird gelöscht. App-Sperre ausschalten?</string>
+  <string name="applock_close_dialog_summary">Ihr Passwort für die App-Sperre wird gelöscht. App-Sperre jetzt ausschalten?</string>
   <string name="applock_close_dialog_title">App-Sperre deaktivieren?</string>
   <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
   <string name="applock_face_unlock_summary">Apps mit Gesichtsdaten entsperren</string>
@@ -3433,8 +3433,8 @@ Stromverbrauch"</string>
   <string name="privacy_apps_password_enable_summay">Private Dateien mit App-Sperre schützen</string>
   <string name="privacy_apps_password_enable_title">App-Sperre</string>
   <string name="privacy_apps_shield_message_summary">Keine Benachrichtigungen für geschützte Apps anzeigen</string>
-  <string name="privacy_apps_shield_message_title">Keine Benachrichtigungen anzeigen</string>
-  <string name="privacy_apps_tutorial">Anleitung</string>
+  <string name="privacy_apps_shield_message_title">Benachrichtigungen ausblenden</string>
+  <string name="privacy_apps_tutorial">Gesten</string>
   <string name="privacy_apps_tutorial_dlg_message_1">Zwei Finger auf dem Startbildschirm spreizen, um versteckte Apps anzuzeigen</string>
   <string name="privacy_apps_tutorial_dlg_message_2">Hinweis: Wenn Sie eine App ausblenden, wird nur ihre Verknüpfung auf dem Startbildschirm ausgeblendet.</string>
   <string name="privacy_apps_tutorial_dlg_title">Wie man versteckte Apps findet</string>
