@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accept">Erlauben</string>
+  <string name="cancel">Abbrechen</string>
+  <string name="deny">Verweigern</string>
+  <string name="enable">Einstellungen</string>
+  <string name="permission_desc_read_sms">Für automatisches Prüfcode ausfüllen</string>
+  <string name="permission_desc_write_external_storage">Zum Hochladen von Feedback-Protokollen</string>
+  <string name="permission_read_sms">Nachrichtenzugriff</string>
+  <string name="permission_write_external_storage">Zugriff auf und Speichern von Elementen im Speicher</string>
+  <string name="request_open_permission">Erforderliche Berechtigungen</string>
+  <string name="request_use_camera_message">Mi-Konto Kamerazuriff auf Ihrem Telefon erlauben?</string>
+  <string name="request_use_camera_title">Kamerazugriff</string>
+  <string name="request_use_gallery_message">Mi-Konto Galeriezugriff erlauben?</string>
+  <string name="request_use_gallery_title">Galeriezugriff</string>
+  <string name="request_use_writing_clipboard_message">Um Ihre Mi Konto-ID zu kopieren, Mi-Konto erlauben, Elemente in der Zwischenablage zu speichern.</string>
+  <string name="user_instruction_all_purpose">Willkommen bei Mi-Konto! Sie können ein Konto erstellen, sich anmelden und auf die Dienste von Xiaomi und seinen verbundenen Unternehmen zugreifen, wie Mi.com, Xiaomi Cloud und GetApps. Sie können Mi-Coins erhalten, virtuelle Waren kaufen und Mehrwertdienste wie Spiele, Themen und E-Books nutzen.</string>
+  <string name="user_instruction_tip">Um sich anzumelden, die Allgemeinen Geschäftsbedingungen lesen und zustimmen.</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>

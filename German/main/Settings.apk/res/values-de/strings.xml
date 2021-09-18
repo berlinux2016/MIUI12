@@ -1312,6 +1312,7 @@ Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
   <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Kontaktzugriff erlauben</string>
   <string name="bluetooth_phonebook_access_dialog_title">Zugriff auf Kontakte und Anrufliste zulassen?</string>
   <string name="bluetooth_phonebook_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Kontakte und die Anrufliste zugreifen. Auf Details tippen.</string>
+  <string name="bluetooth_plugins_check_summary_new">Neue Bluetooth-Plugin-Version gefunden</string>
   <string name="bluetooth_message_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Nachrichten zugreifen. Auf Details tippen.</string>
   <string name="bluetooth_message_move_out_of_blacklist">%1$s jetzt entsperren?</string>
   <string name="bluetooth_mi_fast_connect">Kompatible Geräte koppeln</string>
@@ -3685,7 +3686,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="handy_mode">Einhandmodus</string>
   <string name="handy_mode_enable">Einhandmodus</string>
   <string name="handy_mode_size">Bildschirmgröße</string>
-  <string name="handy_mode_tips">Wischen Sie von der Home-Taste aus nach links oder rechts, um den Einhandmodus zu aktivieren.</string>
+  <string name="handy_mode_tips">Aktivieren Sie den Einhandmodus, indem Sie von der Mitte des Navigationsfelds aus nach links oder rechts wischen.</string>
   <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Schaltflächen anstelle von Vollbildgesten umschalten.</string>
   <string name="haptic_agent_completion_01_content_description">Erledigte Aufgabe</string>
   <string name="haptic_cursor_movement_07_content_description">Helligkeit einstellen</string>
