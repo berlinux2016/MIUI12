@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="filter_popular_agave">Agave</string>
+  <string name="filter_popular_navy">Navy</string>
+  <string name="filter_popular_pearl">Pearl</string>
+  <string name="filter_popular_retro_powder">Pulver</string>
+  <string name="filter_portrait_holiday">Urlaub</string>
+  <string name="filter_portrait_light_oxygen">Oxygen</string>
+  <string name="filter_portrait_mint">Mint</string>
+  <string name="filter_portrait_pink_orange">Zitrus</string>
+  <string name="filter_portrait_protist">Original</string>
+  <string name="group_header_title_immutable_album">Fotos ordnen</string>
+  <string name="group_header_title_third_album">Mehr Alben</string>
+  <string name="group_header_title_user_create_album">Meine Alben</string>
+  <string name="home_menu_all_photos">Alle Elemente anzeigen</string>
+  <string name="home_menu_camera">Nur Kameraelemente anzeigen</string>
+  <string name="map_album">Karte</string>
+  <string name="map_album_detail_page_title">Standort</string>
+  <string name="map_enable_position_service_message">Um Fotos und Videos auf der Karte anzuzeigen, zuerst Standortdienste einschalten.</string>
+  <string name="map_enable_position_service_title">Standortdienste einschalten</string>
+  <string name="map_grant_position_permission_after_declined_twice_message">Wenn Sie Fotos und Videos auf der Karte anzeigen möchten, müssen Sie der Galerie zunächst Ihren Standortzugriff ermöglichen.</string>
+  <string name="map_grant_position_permission_subtitle">Fotos und Videos in der Nähe auf der Karte anzeigen</string>
+  <string name="map_guide_message">Ihre Fotos und Videos auf der Karte anzeigen</string>
+  <string name="map_positioning_failed_tip">Aufgrund schwachen Signals keine Standortinfos möglich</string>
+  <string name="map_privacy_dialog_message"><Data>Dieser Dienst ermöglicht es Ihnen, Fotos und Videos mit Standortinformationen auf einer Karte anzuzeigen. Wir verwenden Baidu Map Open SDK, um Ihnen diesen Dienst zur Verfügung zu stellen. Lesen Sie &lt;a href=\"%1$s\">Baidu Map Datenschutzerklärung für Produkte und Dienste der offenen Plattform&lt;/a>, um mehr zu erfahren.</Data></string>
+  <string name="map_privacy_dialog_title">Galeriekarte</string>
+  <string name="map_privacy_policy">Datenschutzerklärung Galeriekarte</string>
+  <string name="map_privacy_policy_1">Datenschutzerklärung</string>
+  <string name="photo_purge_dialog_message_cloud">Ausgewählte Elemente werden entgültig aus der Cloud und von allen synchronisierten Geräten gelöscht. Trotzdem löschen?</string>
+  <string name="photo_purge_dialog_message_local">Ausgewählte Elemente werden endgültig gelöscht. Trotzdem löschen?</string>
+  <string name="photo_purge_dialog_title">Ausgewählte Elemente löschen</string>
+  <string name="trash_purge_all_cloud">Alle Elemente im Mülleimer werden endgültig aus der Cloud und von allen synchronisierten Geräten gelöscht. Trotzdem löschen?</string>
+  <string name="trash_purge_all_local">Alle Elemente im Mülleimer werden endgültig gelöscht. Trotzdem löschen?</string>
+  <string name="trash_purge_dialog_title">Mülleimer leeren</string>
+
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
