@@ -95,7 +95,7 @@
   <string name="ai_album_open_switch_button_title">Mit der Analyse von Fotos beginnen</string>
   <string name="ai_album_requesting_title">KI-Algorithmus verarbeitet noch immer Ihre Fotos. Kommen Sie in Kürze wieder.</string>
   <string name="ai_album_setting_key_word">Nach Fotos suchen</string>
-  <string name="ai_album_setting_sub_title">Ermöglichen Sie dem KI-Algorithmus, Personen, Orte und Objekte auf Ihren Fotos zu identifizieren, damit Sie sie schneller finden können.</string>
+  <string name="ai_album_setting_sub_title">Erlauben Sie dem KI-Algorithmus, Personen, Orte und Objekte auf Ihren Fotos zu identifizieren, damit Sie sie schneller finden können.</string>
   <string name="ai_album_setting_title">Objekte auf Fotos identifizieren</string>
   <string name="album_ai_description">Menschen, Orte, Objekte</string>
   <string name="album_ai_international_description">Menschen</string>
@@ -1282,11 +1282,11 @@
   <string name="map_album_detail_page_title">Standort</string>
   <string name="map_enable_position_service_message">Um Fotos und Videos auf der Karte anzuzeigen, zuerst Standortdienste einschalten.</string>
   <string name="map_enable_position_service_title">Standortdienste einschalten</string>
-  <string name="map_grant_position_permission_after_declined_twice_message">Wenn Sie Fotos und Videos auf der Karte anzeigen möchten, müssen Sie der Galerie zunächst Standortzugriff ermöglichen.</string>
+  <string name="map_grant_position_permission_after_declined_twice_message">Wenn Sie Fotos und Videos auf der Karte anzeigen möchten, müssen Sie der Galerie zunächst Standortzugriff erlauben.</string>
   <string name="map_grant_position_permission_subtitle">Fotos und Videos in der Nähe auf der Karte anzeigen</string>
   <string name="map_guide_message">Ihre Fotos und Videos auf der Karte anzeigen</string>
   <string name="map_positioning_failed_tip">Wegen Signalschwäche keine Standortinfos möglich</string>
-  <string name="map_privacy_dialog_message"><Data>Dieser Dienst ermöglicht es Ihnen, Fotos und Videos mit Standortinfos auf einer Karte anzuzeigen. Wir verwenden Baidu Map Open SDK, um Ihnen diesen Dienst zur Verfügung zu stellen. Lesen Sie &lt;a href=\"%1$s\">Baidu Map Datenschutzerklärung für Produkte und Dienste der offenen Plattform&lt;/a>, um mehr zu erfahren.</Data></string>
+  <string name="map_privacy_dialog_message"><Data>Dieser Dienst erlaubt es Ihnen, Fotos und Videos mit Standortinfos auf einer Karte anzuzeigen. Wir verwenden Baidu Map Open SDK, um Ihnen diesen Dienst zur Verfügung zu stellen. Lesen Sie &lt;a href=\"%1$s\">Baidu Map Datenschutzerklärung für Produkte und Dienste der offenen Plattform&lt;/a>, um mehr zu erfahren.</Data></string>
   <string name="map_privacy_dialog_title">Galeriekarte</string>
   <string name="map_privacy_policy">Datenschutzerklärung Galeriekarte</string>
   <string name="map_privacy_policy_1">Datenschutzerklärung</string>

@@ -369,7 +369,7 @@
   <string name="bluetooth_pairing_error_message">Koppeln mit %1$s nicht möglich</string>
   <string name="bluetooth_pairing_pin_error_message">Koppeln mit %1$s wegen falschen Passworts oder Schlüssels nicht möglich</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
-  <string name="bluetooth_pairing_will_share_phonebook">Koppeln ermöglicht Zugriff auf Ihre Kontakte und die Anrufliste, wenn verbunden</string>
+  <string name="bluetooth_pairing_will_share_phonebook">Koppeln erlaubt Zugriff auf Ihre Kontakte und die Anrufliste, wenn verbunden</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Gemeinsame Nutzung der lokalen Internetverbindung mit dem Gerät</string>
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetzugriff verwenden</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Für Internetzugriff mit dem Gerät verbunden</string>
@@ -941,7 +941,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="dtmf_tone_entries_long">Lang</string>
   <string name="dtmf_tones_summary">Länge der DTMF-Töne festlegen</string>
   <string name="dtmf_tones_title">DTMF-Töne</string>
-  <string name="dual_4g_switch_summary">4G-Konnektivität für beide SIM-Slots ermöglichen</string>
+  <string name="dual_4g_switch_summary">4G-Konnektivität für beide SIM-Slots erlauben</string>
   <string name="dual_mic_summary">Unterdrücken Sie Hintergrundgeräusche während des Gesprächs</string>
   <string name="dual_mic_title">Geräuschreduzierung</string>
   <string name="duration_disable_summary">Anzeigedauer ist AUS</string>
@@ -1018,7 +1018,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="enable_proximity_summary">Bildschirm automatisch ausschalten, wenn Sie das Gerät während eines Anrufs ans Ohr halten</string>
   <string name="enable_proximity_title">Näherungssensor</string>
   <string name="enable_sim_pin">SIM-PIN festlegen</string>
-  <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugriff ermöglicht</string>
+  <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugriff erlaubt</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_verbose_vendor_logging">Ausführliches Vendor-Logging aktivieren</string>
   <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Logs in Fehlerberichte aufnehmen, die private Infos enthalten, mehr Akku und/oder mehr Speicherplatz benötigen können</string>
@@ -1150,7 +1150,7 @@ Mobile Daten trotzdem nutzen?"</string>
   <string name="forbidden_fakecell_summary">Verhindern, dass sich Ihr Telefon mit gefälschten Basisstationen verbindet</string>
   <string name="forbidden_network">(verboten)</string>
   <string name="force_allow_on_external">Erzwingen, dass Apps auf externen Speicher schreiben</string>
-  <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
+  <string name="force_allow_on_external_summary">Erlaubt das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
   <string name="force_hw_ui">GPU Rendering erzwingen</string>
   <string name="force_hw_ui_summary">Nutzung der GPU für 2D-Zeichnen erzwingen</string>
   <string name="force_msaa">4x MSAA erzwingen</string>

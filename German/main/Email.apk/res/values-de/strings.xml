@@ -1219,7 +1219,7 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="permission_des_external_storage">Zum Erstellen neuer E-Mails sowie zum Speichern und Hinzufügen von Anhängen</string>
   <string name="permission_des_phone_status">Für den IMEI-Zugriff zur Identifizierung Ihres Gerätes</string>
   <string name="permission_des_storage">Zum Erstellen neuer E-Mails sowie zum Speichern und Hinzufügen von Anhängen</string>
-  <string name="permission_read_attachment_desc">Ermöglicht der App, Ihre E-Mailanhänge zu lesen</string>
+  <string name="permission_read_attachment_desc">Erlaubt der App, Ihre E-Mailanhänge zu lesen</string>
   <string name="permission_read_attachment_label">E-Mailanhänge lesen</string>
   <string name="permission_tip">Konfiguration fehlgeschlagen, bitte Anrufe und Textnachrichten während der Konfiguration der Berechtigung erlauben</string>
   <string name="personal_data_collection_summary">Wenn der Schalter eingeschaltet ist, stimmen Sie zu, dass wir Ihre personenbezogenen Daten erfassen dürfen. Sie können den Schalter jederzeit ausschalten, Ihre Berechtigung widerrufen und Ihre Daten von unseren Servern löschen.</string>
@@ -1569,7 +1569,7 @@ App öffnen und Bestätigungs-SMS manuell senden."</string>
   <string name="sync_calendra_fail_per_content">Tippen, um Kalenderzugriff zu erlauben</string>
   <string name="sync_calendra_fail_per_title">Kalender synchronisieren nicht möglich</string>
   <string name="sync_calendra_fail_permission">Kalender synchronisieren nicht möglich, Mail zuerst den Kalenderzugriff in den Einstellungen erlauben.</string>
-  <string name="sync_contacts_fail_per_content">Tippen, um Kontaktezugriff zu ermöglichen</string>
+  <string name="sync_contacts_fail_per_content">Tippen, um Kontaktezugriff zu erlauben</string>
   <string name="sync_contacts_fail_per_title">Kontakte wurden nicht synchronisiert</string>
   <string name="sync_contacts_fail_permission">Kontakte wurden nicht synchronisiert, E-Mail den Kontaktezugriff in den Einstellungen erlauben</string>
   <string name="sync_contacts_req_per_ignored">E-Mail den Kontaktezugriff zum Synchronisieren erlauben</string>

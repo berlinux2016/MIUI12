@@ -184,7 +184,7 @@
   <string name="keybag_password_screen_lock_unknown">Bildschirmsperre jetzt nicht verifizierbar. Stattdessen einen Passcode festlegen.</string>
   <string name="keybag_password_screen_lock_wrong">Die eingegebene Bildschirmsperre ist falsch</string>
   <string name="keybag_password_too_short">Passcode-Format ist falsch</string>
-  <string name="keybag_set_password_content">Um den Passwort-Manager zu verwenden, legen Sie einen Passcode fest. Dieser Passcode ermöglicht uns, Ihre Identität zu verifizieren, wenn Sie die Geräte wechseln.</string>
+  <string name="keybag_set_password_content">Um den Passwort-Manager zu verwenden, legen Sie einen Passcode fest. Dieser Passcode erlaubt uns, Ihre Identität zu verifizieren, wenn Sie die Geräte wechseln.</string>
   <string name="keybag_set_password_negative">Festlegen</string>
   <string name="keybag_set_password_positive">Bildschirmsperre verwenden</string>
   <string name="keybag_set_password_success_close">Schließen</string>

@@ -64,8 +64,8 @@
   <string name="ad_download">Herunterladen</string>
   <string name="ad_join">Der Community beitreten</string>
   <string name="ad_more">Mehr</string>
-  <string name="add_local_shortcut_add">+Hinzufügen</string>
-  <string name="add_local_shortcut_des">\"Mein Video\" zum Desktop hinzufügen, um Ihre lokalen Videos einfach abzuspielen</string>
+  <string name="add_local_shortcut_add">Hinzufügen</string>
+  <string name="add_local_shortcut_des">\"Mein Video\" zum Startbildschirme hinzufügen, um mit einem Tipp auf lokale Videodateien zuzugreifen.</string>
   <string name="add_search_channel_tip">Suchen Sie auf der Ziel-Webseite nach \"%s\", kopieren Sie dann die URL und fügen Sie sie hier ein.</string>
   <string name="add_to_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
   <string name="add_website">Webseite hinzufügen</string>
@@ -260,6 +260,11 @@ Mi Video Team"</string>
   <string name="diagnosis_log_sent_format">"Protokolle erfolgreich gesendet.
 ID:%s
 Senden Sie diesen Code an den Supervisor."</string>
+  <string name="dialog_app_comment_cancel">Abbrechen</string>
+  <string name="dialog_app_comment_default_content">Was halten Sie von Mi Video?</string>
+  <string name="dialog_app_comment_select_feedback">Könnten Sie uns auch Ihr Feedback geben?</string>
+  <string name="dialog_app_comment_select_praise">Super! Bewerten Sie Mi Video auch im Play Store?</string>
+  <string name="dialog_app_comment_title">Bewerten Sie unsere App</string>
   <string name="dialog_disagree_privacychange_info">Sie können die Online-Streaming-Dienste von Mi Video nicht nutzen, wenn Sie unserer Datenschutzerklärung nicht zustimmen. Tippen Sie auf \"Abbrechen\", um zurückzugehen, oder auf \"Ablehnen\", um fortzufahren und Mi Video nur als lokalen Player zu verwenden.</string>
   <string name="dialog_disagree_privacychange_title">"Ablehnen?"</string>
   <string name="dialog_privacy_change_info">Wir haben die Mi Video Datenschutzerklärung wegen der Anpassungen der von uns angebotenen Dienste aktualisiert. Um Ihre Rechte als Benutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, bevor Sie die App verwenden.</string>
@@ -427,6 +432,12 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="galleryplus_network_connect_confirm">Mit WLAN verbinden oder mobile Daten in den Netzwerkeinstellungen einschalten.</string>
   <string name="galleryplus_network_error">Keine Netzwerkverbindung</string>
   <string name="galleryplus_network_not_wifi">Nutzung mobiler Daten zum Streamen von Videos kann zusätzliche Kosten beim Anbieter verursachen</string>
+  <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Dateien verwalten %$s. Untertitel hinzufügen %$s. Videos abspielen %$s.</string>
+  <string name="galleryplus_notification_linkvideo_subtitle2">Schützen Sie Ihre privaten Videos mit einem Passwort %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle3">Videos von TikTok, Instagram und Twitter herunterladen %$s</string>
+  <string name="galleryplus_notification_linkvideo_title1">%$s Entdecken Sie alle coolen Funktionen von Mi Video!</string>
+  <string name="galleryplus_notification_linkvideo_title2">%$s Tippen, um Ihre Videos zu verwalten</string>
+  <string name="galleryplus_notification_linkvideo_title3">%1$s Videos kostenlos herunterladen %2$s. Dateien verwalten.</string>
   <string name="galleryplus_online_cta">Mi Video benötigt eine Internetverbindung, um normal zu funktionieren. Zustimmen?</string>
   <string name="galleryplus_online_cta_agree">Zustimmen</string>
   <string name="galleryplus_online_cta_disagree">Ablehnen</string>
@@ -444,6 +455,9 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="galleryplus_permission_open_settings">Einstellungen</string>
   <string name="galleryplus_permission_refuse">Nein danke</string>
   <string name="galleryplus_permission_retry">Berechtigungen</string>
+  <string name="galleryplus_permission_storage_content_reshowable_video_player">Um den lokalen Videoplayer verwenden zu können, muss diese App zunächst auf den Speicher zugreifen dürfen.</string>
+  <string name="galleryplus_permission_storage_content_unreshowable_video_player">Um den lokalen Videoplayer verwenden zu können, erlauben Sie dieser App den Speicherzugriff im Bereich \"Berechtigungen\" in den Einstellungen.</string>
+  <string name="galleryplus_permission_storage_title">Speicherzugriff erforderlich</string>
   <string name="galleryplus_permission_title">Vorsicht</string>
   <string name="galleryplus_restore_play_speed">Wiedergabe aktuell in normaler Geschwindigkeit</string>
   <string name="galleryplus_save_cancel_toast">Erneut auf \"Zurück\" tippen, um das Speichern des Videos abzubrechen</string>
@@ -517,6 +531,7 @@ für Videos"</string>
   <string name="local_video_create_a_new_playlist">Neue Wiedergabeliste</string>
   <string name="local_video_date">Datum</string>
   <string name="local_video_dialog_default">Standard</string>
+  <string name="local_video_edit_playlist">Wiedergabeliste bearbeiten</string>
   <string name="local_video_from_a_to_z">A bis Z</string>
   <string name="local_video_from_big_to_small">Groß nach klein</string>
   <string name="local_video_from_long_to_short">Lang nach kurz</string>
@@ -528,6 +543,7 @@ für Videos"</string>
   <string name="local_video_notification_btn">In Mi Video ansehen</string>
   <string name="local_video_notification_title">Neues lokales Video gefunden</string>
   <string name="local_video_number_of_selected">%1$d/%2$d gewählt</string>
+  <string name="local_video_shortcut_name">Meine Videos</string>
   <string name="local_video_size">Größe</string>
   <string name="local_video_space">Belegt: %s</string>
   <string name="local_video_time">Dauer</string>
@@ -840,6 +856,7 @@ für Videos"</string>
   <string name="ovp_navigation_language">Sprache</string>
   <string name="ovp_navigation_localvideo">Lokal</string>
   <string name="ovp_navigation_notice">Benachrichtigungen</string>
+  <string name="ovp_navigation_score">Bewerten Sie unsere App</string>
   <string name="ovp_navigation_setting">Einstellungen</string>
   <string name="ovp_navigation_subscribe">Abonnieren</string>
   <string name="ovp_navigation_version_update">Nach Aktualisierungen suchen</string>
@@ -1321,6 +1338,7 @@ Es zeigt nichts an."</string>
   <string name="the_forth_day">Vierter Tag</string>
   <string name="the_hksar_establishment_day">HKSAR Gründungstag</string>
   <string name="the_international_womens_day">Weltfrauentag</string>
+  <string name="the_item_choosed_tint">%s gewählt</string>
   <string name="the_laba_festival">Laba Festival</string>
   <string name="the_labour_day">1. Mai</string>
   <string name="the_lantern_festival">Laternenfest</string>
@@ -1369,6 +1387,7 @@ Es zeigt nichts an."</string>
   <string name="tool_bar_notification_setting_title">Symbolleiste Benachrichtigungleiste</string>
   <string name="top_bar_game_desc">Entdecken Sie hier viele neue Spiele</string>
   <string name="top_bar_game_title">Spielekanal</string>
+  <string name="trending_scroll_load_more">Hochwischen für mehr Videos</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
   <string name="tuesday_shortest">D</string>

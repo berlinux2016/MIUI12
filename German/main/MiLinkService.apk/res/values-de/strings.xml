@@ -121,7 +121,7 @@ Für weitere Fragen lesen Sie bitte die Hilfe."</string>
   <string name="hang_up_alert_dialog_title">Im Begriff, bei ausgeschaltetem Bildschirm zu übertragen…</string>
   <string name="help_page_text_01">Hilfe</string>
   <string name="help_page_text_02">Was ist Übertragung</string>
-  <string name="help_page_text_03">Beim Übertragen werden die Elemente vom Bildschirm Ihres Geräts auf einen größeren externen Monitor projiziert. Es ermöglicht Ihnen, Bilder und Videos mit Ihren Freunden und Ihrer Familie zu teilen, ohne mobile Daten zu verwenden.</string>
+  <string name="help_page_text_03">Beim Übertragen werden die Elemente vom Bildschirm Ihres Geräts auf einen größeren externen Monitor projiziert. Es erlaubt Ihnen, Bilder und Videos mit Ihren Freunden und Ihrer Familie zu teilen, ohne mobile Daten zu verwenden.</string>
   <string name="help_page_text_04">Wie kann ich Elemente auf einem größeren Bildschirm übertragen?</string>
   <string name="help_page_text_05">Schritt %1$d: Prüfen Sie Ihre Geräte und Netzwerkumgebung</string>
   <string name="help_page_text_06">"%1$d. Sie müssen keine Verbindung zum Internet herstellen, wenn Sie etwas von einem Xiaomi-Gerät zu einem Xiaomi-Fernseher übertragen möchten.
@@ -268,7 +268,7 @@ Verbinden Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) m
   <string name="privacy_agree">Zustimmen</string>
   <string name="privacy_detail"><Data>Diese App muss sich mit dem Internet verbinden und die erforderlichen persönlichen Daten sammeln, um normal arbeiten zu können. Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> and &lt;a href=%2$s>Datenschutzerklärung&lt;/a>.</Data></string>
   <string name="privacy_detail_extra"><Data>Einige Funktionen werden von einem Drittanbieter, HappyCast, zur Verfügung gestellt. Bevor Sie diese Funktion verwenden, lesen und akzeptieren Sie unsere &lt;a href=%1$s>HappyCast-Datenschutzerklärung&lt;/a> und &lt;a href=%2$s>HappyCast-Rechtserklärung&lt;/a>.</Data></string>
-  <string name="privacy_explain">"Willkommen bei Übertragung! Übertragung ermöglicht die Projektion der Elemente vom Bildschirm Ihres Telefons auf einen größeren externen Monitor. Diese App muss mit dem Internet verbunden sein und benötigt die folgenden Berechtigungen, um normal arbeiten zu können:"</string>
+  <string name="privacy_explain">"Willkommen bei Übertragung! Übertragung erlaubt die Projektion der Elemente vom Bildschirm Ihres Telefons auf einen größeren externen Monitor. Diese App muss mit dem Internet verbunden sein und benötigt die folgenden Berechtigungen, um normal arbeiten zu können:"</string>
   <string name="privacy_negative">Verlassen</string>
   <string name="privacy_permission_ble">Bluetooth ein- und ausschalten</string>
   <string name="privacy_permission_ble_desc">Verfügbare Geräte in der Nähe finden</string>
@@ -284,7 +284,7 @@ Verbinden Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) m
   <string name="privacy_permission_wlan_desc">Verfügbare Geräte in der Nähe finden</string>
   <string name="privacy_permission_wlan_desc_china">Verfügbare Geräte in der Nähe finden</string>
   <string name="privacy_positive">Zustimmen</string>
-  <string name="privacy_text_1"><Data>"Willkommen bei Übertragung! Übertragung ermöglicht die Projektion der Elemente vom Telefonbildschirm auf einen größeren externen Monitor.
+  <string name="privacy_text_1"><Data>"Willkommen bei Übertragung! Übertragung erlaubt die Projektion der Elemente vom Telefonbildschirm auf einen größeren externen Monitor.
 Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den relevanten Gesetzen, Vorschriften und Datenschutzrichtlinien. Einige Funktionen werden von dem Drittanbieter HappyCast bereitgestellt. Bevor Sie diese Funktion nutzen, lesen und akzeptieren Sie <a href="%2$s">HappyCast Rechtliche Hinweise</a> und <a href="%1$s">HappyCast Datenschutzerklärung</a>.
 Um normal arbeiten zu können, benötigt diese App eine Internetverbindung und die folgenden Berechtigungen, um Ihre persönlichen Daten zu erfassen:"</Data></string>
   <string name="privacy_text_2"><Data>"Wenn Sie solche Genehmigungen nicht erteilen oder Ihre persönlichen Daten nicht teilen und hochladen, können Sie diese App nicht nutzen. In solchen Fällen können Sie diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken.
@@ -314,7 +314,7 @@ Bevor Sie diese App nutzen, lesen und akzeptieren Sie unsere <a href="%1$s">Nutz
   <string name="screen_projection_example_document_title">Dokumente</string>
   <string name="screen_projection_example_gallery_summary">Tippen Sie auf Teilen unter einem Element in der Galerie-App, um es auf einem externen Monitor anzuzeigen.</string>
   <string name="screen_projection_example_gallery_title">Fotos &amp; Videos</string>
-  <string name="screen_projection_example_game_summary">Game Turbo ermöglicht Ihnen, Spiele auf einen externen Monitor zu übertragen. Verwenden Sie die Verknüpfung in der Toolbox von Game Turbo, um diese Funktion einzuschalten.</string>
+  <string name="screen_projection_example_game_summary">Game Turbo erlaubt Ihnen, Spiele auf einen externen Monitor zu übertragen. Verwenden Sie die Verknüpfung in der Toolbox von Game Turbo, um diese Funktion einzuschalten.</string>
   <string name="screen_projection_example_game_title">Spiele</string>
   <string name="screen_projection_help">Hilfe</string>
   <string name="screen_projection_sample_summary">Dokumente, Spiele, Fotos und Videos übertragen</string>

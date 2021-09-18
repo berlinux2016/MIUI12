@@ -333,7 +333,7 @@ Bevor Sie Mi Share nutzen können, müssen Sie die folgenden Berechtigungen erte
   <string name="transfer_to_pc_summary">Sie können Mi Share verwenden, um Elemente direkt an Mi Notebooks zu senden. Auf anderen Laptops müssen Sie Mi Share zuerst installieren.</string>
   <string name="transfer_to_pc_summary_new"><Data>Die auf Mi Notebooks installierte neueste Version von MIUI+ ist mit Mi Share kompatibel. Sie können die Liste der unterstützten Laptop-Modelle auf der MIUI+-Website (&lt;a href=%1$s>%2$s&lt;/a>) prüfen. Wenn Ihr Laptop auf der Liste steht, aber MIUI+ nicht darauf installiert ist, aktualisieren Sie das BIOS und den Netzwerkkartentreiber Ihres Laptops und laden Sie MIUI+ herunter.</Data></string>
   <string name="transfer_to_pc_title">Dateien an Computer senden</string>
-  <string name="transfer_to_phone_summary">Mi Share ermöglicht es Ihnen, Bilder und Dateien an Mi Telefone in der Nähe und andere kompatible Android-Geräte zu senden.</string>
+  <string name="transfer_to_phone_summary">Mi Share erlaubt es Ihnen, Bilder und Dateien an Mi Telefone in der Nähe und andere kompatible Android-Geräte zu senden.</string>
   <string name="transfer_to_phone_title">Dateien an Telefone senden</string>
   <string name="transfer_to_summary">Aktivieren Sie Mi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie ein Foto oder eine Datei teilen. Tippen Sie auf das Gerät des Empfängers, um das Element zu senden, das Sie teilen</string>
   <string name="transfer_to_title">Dateien an mobile Geräte senden</string>

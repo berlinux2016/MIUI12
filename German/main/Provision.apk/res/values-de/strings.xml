@@ -86,8 +86,8 @@
   <string name="eras_bc">v. Chr.</string>
   <string name="evening">Nachmittag</string>
   <string name="expand_button_title">Erweitert</string>
-  <string name="fast_application_introduction">Quick Apps Framework ermöglicht Ihnen, Dienste in Quick Apps zu erstellen und bereitzustellen.</string>
-  <string name="fast_pairing_introduction">Mi Link ermöglicht Ihrem Gerät, sich mit Bluetooth-Geräten in der Nähe zu verbinden. Um Geräte in der Nähe zu finden, erlauben Sie Mi Link, eine Internetverbindung herzustellen.</string>
+  <string name="fast_application_introduction">Quick Apps Framework erlaubt Ihnen, Dienste in Quick Apps zu erstellen und bereitzustellen.</string>
+  <string name="fast_pairing_introduction">Mi Link erlaubt Ihrem Gerät, sich mit Bluetooth-Geräten in der Nähe zu verbinden. Um Geräte in der Nähe zu finden, erlauben Sie Mi Link, eine Internetverbindung herzustellen.</string>
   <string name="fmt_chinese_date">dd.MM.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -114,12 +114,12 @@
   <string name="fmt_weekday_timezone">W z</string>
   <string name="font_hint_large">Standardtextgröße</string>
   <string name="font_hint_normal">Größerer Text</string>
-  <string name="framework_introduction">Mi Services Framework ermöglicht Ihnen, Mi Account, Mi Push, Mi Stats und MIUI BI zu verwenden.</string>
-  <string name="framwork_base_service">Um Ihnen diese Dienste anbieten zu können, muss sich Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät ermöglichen, Push-Benachrichtigungen zu erhalten</string>
+  <string name="framework_introduction">Mi Services Framework erlaubt Ihnen, Mi Account, Mi Push, Mi Stats und MIUI BI zu verwenden.</string>
+  <string name="framwork_base_service">Um Ihnen diese Dienste anbieten zu können, muss sich Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät erlauben, Push-Benachrichtigungen zu erhalten</string>
   <string name="friday">Freitag</string>
   <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
-  <string name="game_introduction">Das Spiele-Plugin ermöglicht Ihnen, sich anzumelden, Bestellungen zu erstellen, Zahlungen abzuschließen, Coupons zu verwenden und an Werbeveranstaltungen teilzunehmen.</string>
+  <string name="game_introduction">Das Spiele-Plugin erlaubt Ihnen, sich anzumelden, Bestellungen zu erstellen, Zahlungen abzuschließen, Coupons zu verwenden und an Werbeveranstaltungen teilzunehmen.</string>
   <string name="google_service_introduction">Um normal arbeiten zu können, muss Google Play eine Internetverbindung herstellen, auf Ihren Standort zugreifen, SMS und MMS senden, Audio aufzeichnen, Anrufe tätigen und auf Kalendereinträge, Anrufliste, Sensoren, Speicher, Kamera, Geräteinformationen und Konten zugreifen.</string>
   <string name="home_settings_miui_home">Klassisch</string>
   <string name="home_settings_poco_launcher">App-Übersicht</string>
@@ -145,7 +145,7 @@
   <string name="location_introduction">Standortbezogene Dienste finden Produkte und Dienstleistungen in Ihrer Nähe.</string>
   <string name="location_location">Notfallrettungsorganisationen können auf Anfrage Ihren aktuellen Standort erfahren</string>
   <string name="location_miui">Um MIUI nutzen zu können, müssen Sie den oben genannten Bedingungen zustimmen</string>
-  <string name="lockscreen_introduction">Hintergrundkarussell ermöglicht Ihnen, täglich frische Bilder an Ihren Sperrbildschirm zu senden.</string>
+  <string name="lockscreen_introduction">Hintergrundkarussell erlaubt Ihnen, täglich frische Bilder an Ihren Sperrbildschirm zu senden.</string>
   <string name="midnight">Nacht</string>
   <string name="mint_keyboard_oobe_checkbox">Ich habe die Datenschutzerklärung von Mint Keyboard gelesen und bin damit einverstanden</string>
   <string name="mint_keyboard_oobe_terms">Datenschutzerklärung von Mint Keyboard</string>
@@ -203,7 +203,7 @@
   <string name="month_september_shortest">S</string>
   <string name="more">Mehr</string>
   <string name="morning">Morgen</string>
-  <string name="move_data_dialog_box_le">Dies ermöglicht die Nutzung mobiler Daten und einer GPS-Verbindung je nach Wunsch des Nutzers. Synchronisation von Konten und anderen Elementen kann je nach Telefonspezifikationen die Nutzung mobiler Daten erfordern.</string>
+  <string name="move_data_dialog_box_le">Dies erlaubt die Nutzung mobiler Daten und einer GPS-Verbindung je nach Wunsch des Nutzers. Synchronisation von Konten und anderen Elementen kann je nach Telefonspezifikationen die Nutzung mobiler Daten erfordern.</string>
   <string name="move_data_dialog_box_title">Sofern Sie keinen Tarif mit unbegrenzter Datennutzung haben, können bei der Nutzung mobiler Daten zusätzliche Anbieterkosten anfallen. Mobile Daten trotzdem nutzen?</string>
   <string name="move_data_dialog_cancel">Abbrechen</string>
   <string name="move_data_dialog_title">Sie können die mobile Datenverbindung später in den Einstellungen einschränken</string>
@@ -247,7 +247,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
   <string name="other_settings_user_experience">Programm zur Benutzererfahrung</string>
   <string name="other_settings_user_experience_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken und Analysen mitteilen.</string>
   <string name="other_settings_user_experience_summary_index">Details anzeigen</string>
-  <string name="permission_MIUIDaemon_introduction">MIUI Daemon ermöglicht Ihnen, Daten von Ihrem Gerät zu übertragen, wenn dessen Bildschirm beschädigt ist.</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon erlaubt Ihnen, Daten von Ihrem Gerät zu übertragen, wenn dessen Bildschirm beschädigt ist.</string>
   <string name="permission_account">Kontenzugriff auf Ihrem Gerät:</string>
   <string name="permission_account_introduction">Für Anmelden mit Mi-Konto</string>
   <string name="permission_application_package_introduction">Für den Speicherzugriff, um Installationspakete zu analysieren und zu scannen</string>
@@ -540,7 +540,7 @@ Sie müssen die Kika Datenschutzerklärung akzeptieren, bevor Sie diese Funktion
   <string name="user_agreement_declare_wifi_device">Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Während Ihr Gerät aktiviert wird, verbinden sich Xiaomi Cloud, Sicherungsdienst, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet-Kommunikationsdienst, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI-Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI-Einstellung und Updater mit dem Netzwerk. Smart Cards, Berechtigungsmanager und Smart Services verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu.</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
-  <string name="voice_assist_advice">Mi KI ermöglicht die Verwendung von Sprachsteuerung, verbraucht aber mehr Strom (+1% pro Stunde).</string>
+  <string name="voice_assist_advice">Mi KI erlaubt die Verwendung von Sprachsteuerung, verbraucht aber mehr Strom (+1% pro Stunde).</string>
   <string name="voice_assist_condition">"In diesen Fällen können Sie Mi KI verwenden:
 1. Wenn der Bildschirm an ist.
 2. Wenn Sie bei ausgeschaltetem Bildschirm Musik hören."</string>

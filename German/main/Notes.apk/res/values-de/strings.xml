@@ -792,13 +792,13 @@
   <string name="toast_refuse_to_record_when_in_multi_window">Diese Funktion kann nicht in geteiltem Bildschirm verwendet werden.</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">Diese Funktion kann nicht in geteiltem Bildschirm oder Popups verwendet werden.</string>
   <string name="toast_refuse_to_use_contact">"Berechtigungen für Kontakte sind eingeschränkt.
-Ermöglichen Sie Notizen, Ihre Kontakte zu lesen und Konten auf dem Gerät zu finden."</string>
+Erlauben Sie Notizen, Ihre Kontakte zu lesen und Konten auf dem Gerät zu finden."</string>
   <string name="toast_refuse_to_use_external_storage">"Speicherrechte sind eingeschränkt.
 Erlauben Sie Notizen, den Inhalt Ihrer SD-Karte zu lesen."</string>
   <string name="toast_refuse_to_use_phone_state">"Telefonberechtigungen sind eingeschränkt.
-Ermöglichen Sie Notizen, den Status und die Identität des Telefons zu lesen."</string>
+Erlauben Sie Notizen, den Status und die Identität des Telefons zu lesen."</string>
   <string name="toast_refuse_to_use_record_audio">"Mikrofonrechte sind eingeschränkt.
-Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
+Erlauben Sie Notizen, Audio aufzunehmen."</string>
   <string name="toast_refuse_to_use_storage_in_excerpt">Notizen den Speicherzugriff erlauben, um Bilder zu Ihren Notizen hinzufügen zu können</string>
   <string name="today">Heute</string>
   <string name="todo_alert_title_delete">Erledigte Aufgaben löschen</string>
