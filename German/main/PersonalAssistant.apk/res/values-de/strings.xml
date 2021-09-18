@@ -1885,17 +1885,12 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="order_product_name_label">Produktname: %1$s</string>
   <string name="order_status_label">Bestellstatus: %1$s</string>
   <string name="order_type_recharge">Aufladen</string>
-
-  <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element %s. Enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
-  <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element %s. Enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
-  <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element. %s enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
-  <string name="pa_edit_apply">App</string>
-  <string name="pa_picker_detail_bottom_bt_text_to_home">Zum Startbildschirm hinzufügen</string>
-  <string name="pa_picker_detail_bottom_bt_text_to_minus">Zum Infoassistent hinzufügen</string>
-
   <string name="pa_accessibility_picker_back">Widget Store. Aktion zum Zurückgehen ausgewählt. Doppeltipp, um zurückzugehen.</string>
   <string name="pa_accessibility_picker_search_cancel">Widget-Suchleiste. Zum Abbrechen doppelt tippen.</string>
   <string name="pa_accessibility_picker_search_tips">Widget-Suchleiste. Zum Suchen doppelt tippen.</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element %s. Enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element %s. Enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
+  <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element. %s enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
   <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">%s. Schaltfläche am unteren Rand ausgewählt. Doppeltipp, um dieses Element zum Startbildschirm hinzuzufügen.</string>
   <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">%s. Schaltfläche am unteren Rand ausgewählt. Doppeltipp, um dieses Element zu Infoassistent hinzuzufügen.</string>
   <string name="pa_accessibility_picker_widget_detail_edit">Bearbeiten</string>
@@ -1915,6 +1910,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="pa_cta_dialog_desc_phone_state">Zur Identifizierung Ihres Geräts anhand der IMEI</string>
   <string name="pa_cta_dialog_desc_storage">Zum Zwischenspeicherung von Elementen</string>
   <string name="pa_edit">Bearbeiten</string>
+  <string name="pa_edit_apply">App</string>
   <string name="pa_edit_color">Farbschema</string>
   <string name="pa_edit_color_group">Farbschema</string>
   <string name="pa_edit_every_month">Monatlich</string>
@@ -1974,6 +1970,8 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="pa_picker_detail_bottom_bt_source_home">Startbildschirm</string>
   <string name="pa_picker_detail_bottom_bt_source_minus">Infoassistent</string>
   <string name="pa_picker_detail_bottom_bt_text">Zu %s hinzufügen</string>
+  <string name="pa_picker_detail_bottom_bt_text_to_home">Zum Startbildschirm hinzufügen</string>
+  <string name="pa_picker_detail_bottom_bt_text_to_minus">Zum Infoassistent hinzufügen</string>
   <string name="pa_picker_detail_bottom_bt_text_un_install">App installieren, um ihre Widgets zu verwenden</string>
   <string name="pa_picker_detail_bottom_bt_text_upgrade">App aktualisieren, um ihre Widgets zu verwenden</string>
   <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Infoassistent öffnen, um dort Widgets hinzuzufügen</string>
