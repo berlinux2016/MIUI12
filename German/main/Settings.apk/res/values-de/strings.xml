@@ -3463,9 +3463,9 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
   <string name="force_resizable_activities_summary">Größenänderung von Aktivitäten für Multifenster unabhängig von vorgeschriebenen Werten erzwingen</string>
   <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
   <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
-  <string name="force_stop">Stopp erzwingen</string>
+  <string name="force_stop">Stoppen erzwingen</string>
   <string name="force_stop_dlg_text">Beenden der App erzwingen kann zu unerwünschtem Verhalten führen</string>
-  <string name="force_stop_dlg_title">Stopp erzwingen?</string>
+  <string name="force_stop_dlg_title">Stoppen erzwingen?</string>
   <string name="force_touch">3D-Touch</string>
   <string name="force_touch_demo">Demo zeigen</string>
   <string name="force_touch_enable">3D-Touch aktivieren</string>
@@ -6201,7 +6201,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
   <string name="pre_install_question_disable_title">Wie deaktiviere ich die Funktion?</string>
   <string name="pre_install_question_query_summary">Sie können zu Einstellungen - Weitere Apps gehen, die gewünschte App auswählen und in den App-Infos auf "Berechtigungen" tippen, um die von der Software benötigten Berechtigungen anzuzeigen. Sie können auch die Menütaste auf dem Desktop drücken und die App lange drücken halten, um schnell die Seite mit den App-Infos aufzurufen, und dann direkt auf die Berechtigungen tippen, um sie anzuzeigen. Sie können auch schnell alle Informationen zur Software-Installation und die Liste der erforderlichen Berechtigungen auf der Seite mit der Boot-Anleitung des Benutzers anzeigen.</string>
   <string name="pre_install_question_query_title">Wie prüft man die für die Installation und den Betrieb der Software erforderliche Berechtigungsliste?</string>
-  <string name="pre_install_question_uninstall_summary">Sie können zu Einstellungen auf \"Mehrere Apps\" gehen, eine App auswählen, die die Deinstallation unterstützt und auf Deinstallieren tippen. Die Deinstallation der voreingestellten Komponenten des Systems kann dazu führen, dass einige Systemfunktionen ausfallen oder abnormal laufen. Es wird empfohlen, mit Vorsicht vorzugehen. Bei Drittanbieter-Apps, die deinstalliert werden können, können Sie auch lange auf das Symbol auf dem Desktop drücken und es dann in den Mülleimer am oberen Bildschirmrand ziehen, um die App zu deinstallieren.</string>
+  <string name="pre_install_question_uninstall_summary">Sie können zu Einstellungen auf \"Mehrere Apps\" gehen, eine App auswählen, die die Deinstallation unterstützt und auf Deinstallieren tippen. Die Deinstallation der voreingestellten Komponenten des Systems kann dazu führen, dass einige Systemfunktionen ausfallen oder abnormal laufen. Es wird empfohlen, mit Vorsicht vorzugehen. Bei Drittanbieter-Apps, die deinstalliert werden können, können Sie auch lange auf das Symbol auf dem Desktop drücken und es dann in den Papierkorb am oberen Bildschirmrand ziehen, um die App zu deinstallieren.</string>
   <string name="pre_install_question_uninstall_title">Wie kann ich die App deinstallieren?</string>
   <string name="pre_installed_application">Vorinstallierte Apps</string>
   <string name="pref_bg_network_title">Hintergrundverbindung</string>

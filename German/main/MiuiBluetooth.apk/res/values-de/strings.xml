@@ -1,26 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="plugin_alert_cancel">Später</string>
-  <string name="plugin_alert_kill">Stopp</string>
-  <string name="plugin_alert_text">Einstellungen beenden und Bluetooth-Dienst neu starten, um die Änderungen zu übernehmen.</string>
-  <string name="plugin_alert_title">Plugin-Aktualisierung</string>
-  <string name="plugin_download_create_client_failed">Client erstellen fehlgeschlagen.</string>
-  <string name="plugin_download_get_object_failed">Informationen vom Server abrufen nicht möglich.</string>
-  <string name="plugin_download_network_timeout">Netzwerk-Zeitüberschreitung</string>
-  <string name="plugin_download_no_storage">Kein Speicher.</string>
-  <string name="plugin_download_rejected">Aufgrund der gebührenpflichtigen Traffic-Begrenzung.</string>
-  <string name="plugin_download_unexpected_files">Unerwartete Dateien herunterladen.</string>
-  <string name="plugin_download_unknown_error">Unbekannter Fehler.</string>
-  <string name="plugin_install_failed">Ein Teil der Plugins wurde nicht aktualisiert.</string>
-  <string name="plugin_install_timeout">Installation Zeitüberschreitung.</string>
-  <string name="plugin_last_update_going">Letzte Aktualisierung läuft.</string>
-  <string name="plugin_no_update">Es ist bereits die neueste Version.</string>
-  <string name="plugin_start_update">Plugins aktualisieren starten…</string>
-  <string name="plugin_update_failed">Aktualisierung fehlgeschlagen:</string>
-  <string name="plugin_update_notification_summary">Bluetooth-Plugins aktulisieren abgeschlossen. Einstellungen und Bluetooth neu starten, um die Änderungen zu übernehmen.</string>
-  string name="plugin_update_notification_title">Bluetooth-Plugin-Aktualisierung</string>
-  <string name="plugin_update_success">Bluetooth-Plugins aktualisieren erfolgreich.</string>
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -631,6 +610,25 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="picture_color_mode_desc">sRGB verwenden</string>
   <string name="play_decode_audio">Audio abspielen</string>
   <string name="plmn_failure_radio_off">Auswahl bei Netzwerkausfall aufgrund von Funk \"AUS\" oder nicht verfügbar</string>
+  <string name="plugin_alert_cancel">Später</string>
+  <string name="plugin_alert_text">Einstellungen beenden und Bluetooth-Dienst neu starten, um die Änderungen zu übernehmen</string>
+  <string name="plugin_alert_title">Plugin-Aktualisierung</string>
+  <string name="plugin_download_create_client_failed">Client erstellen fehlgeschlagen.</string>
+  <string name="plugin_download_get_object_failed">Informationen vom Server abrufen nicht möglich</string>
+  <string name="plugin_download_network_timeout">Zeitüberschreitung Netzwerk</string>
+  <string name="plugin_download_no_storage">Kein Speicher</string>
+  <string name="plugin_download_rejected">Wegen kostenpflichtiger Traffic-Begrenzung</string>
+  <string name="plugin_download_unexpected_files">Unerwartete Dateien herunterladen</string>
+  <string name="plugin_download_unknown_error">Unbekannter Fehler</string>
+  <string name="plugin_install_failed">Plugins wurden tlw. nicht aktualisiert</string>
+  <string name="plugin_install_timeout">Zeitüberschreitung Installation</string>
+  <string name="plugin_last_update_going">Letzte Aktualisierung läuft</string>
+  <string name="plugin_no_update">Es ist bereits die neueste Version</string>
+  <string name="plugin_start_update">Plugins aktualisieren starten…</string>
+  <string name="plugin_update_failed">Aktualisierung fehlgeschlagen</string>
+  <string name="plugin_update_notification_summary">Bluetooth-Plugins aktualisieren abgeschlossen. Einstellungen und Bluetooth neu starten, um die Änderungen zu übernehmen.</string>
+  <string name="plugin_update_notification_title">Bluetooth-Plugin-Aktualisierung</string>
+  <string name="plugin_update_success">Bluetooth-Plugins aktualisieren erfolgreich</string>
   <string name="pointer_location">Zeigerposition</string>
   <string name="pointer_location_summary">Bildschirm-Overlay mit aktuellen Touch-Daten</string>
   <string name="power_charging_duration">%1$s - %2$s bis voll</string>

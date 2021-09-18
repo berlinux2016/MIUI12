@@ -647,7 +647,7 @@
   <string name="recents_task_screening">Übertragung</string>
   <string name="recents_title_app_manager">Apps</string>
   <string name="recents_title_game">Spiele</string>
-  <string name="recents_title_garbage_cleanup">Mülleimer</string>
+  <string name="recents_title_garbage_cleanup">Papierkorb</string>
   <string name="recents_title_garbage_deepclean">Säubern</string>
   <string name="recents_title_market">Apps finden</string>
   <string name="recents_title_security_scan">Virenscan</string>

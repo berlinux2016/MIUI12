@@ -621,7 +621,7 @@
   <string name="notification_memory_clean_hint">Tippen, um die Geschwindigkeit zu erhöhen</string>
   <string name="notification_memory_clean_used_size">%s Speicher ist belegt</string>
   <string name="notification_qq_clean_hint">Müll verlangsamt Ihr Gerät</string>
-  <string name="notification_qq_clean_text">QQ Mülleimer leeren</string>
+  <string name="notification_qq_clean_text">QQ-Papierkorb leeren</string>
   <string name="notification_summary_after_auto_cleanup">%s bereinigt</string>
   <string name="notification_summary_of_garbage_cleanup">Tippen, um Speicher freizugeben</string>
   <string name="notification_title_of_garbage_cleanup">%s Datenmüll</string>
@@ -635,7 +635,7 @@
   <string name="notification_wechat_clean_high_level_text_b">WeChat-Müll verlangsamt Ihr Gerät</string>
   <string name="notification_wechat_clean_low_level_hint">Speicherplatz freigeben</string>
   <string name="notification_wechat_clean_low_level_text">WeChat-Müll entfernen</string>
-  <string name="notification_wechat_clean_middle_level_hint">Mülleimer leeren, um Benachrichtigungen ohne Verzögerung zu erhalten</string>
+  <string name="notification_wechat_clean_middle_level_hint">Papierkorb leeren, um Benachrichtigungen ohne Verzögerung zu erhalten</string>
   <string name="notification_wechat_clean_middle_level_text_a">WeChat-Müll belegt viel Speicherplatz</string>
   <string name="notification_wechat_clean_middle_level_text_b">WeChat-Müll verlangsamt die App</string>
   <string name="notification_whatsapp_clean_button_text">Löschen</string>

@@ -1204,7 +1204,7 @@ Sind Sie sicher, dass Sie diese Seite verlassen wollen?"</string>
   <string name="play_pause_video">Video abspielen oder anhalten</string>
   <string name="play_retry">Wiederholen</string>
   <string name="play_video">Video abspielen</string>
-  <string name="player_3g_tip_sub_title">Spiel erzeugt Transfergebühren</string>
+  <string name="player_3g_tip_sub_title">Spiel erzeugt Transferkosten</string>
   <string name="player_3g_tip_title">Aktuell über das Mobilfunknetz, weiter spielen verbraucht Daten.</string>
   <string name="player_data_error_tip">Das Video ist vorübergehend nicht verfügbar. Bitte später erneut versuchen.</string>
   <string name="player_net_error">Nicht mit dem Netzwerk verbunden, bitte Netzwerkeinstellungen prüfen.</string>
