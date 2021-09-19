@@ -44,7 +44,6 @@ Gleichzeitig Ein/Aus- und Lautertaste drücken."</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Sie und Ihr Kind können ihre Fingerabdruckbilder und -modelle löschen oder die Fingerabdrucksperre jederzeit in den Einstellungen deaktivieren. Fingerabdruckbilder und -modelle werden auf dem Telefon gespeichert, bis sie gelöscht werden.</string>
   <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">Das Telefon Ihres Kindes kann entsperrt werden, wenn es dies nicht beabsichtigt, z. B. wenn jemand es an seinen Finger hält.</string>
   <string name="usb_transcode_files_summary">Videos werden auf mehr Mediaplayern abgespielt, aber die Qualität kann beeinträchtigt sein.</string>
-  <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
 
   <string name="Accounts_settings_title">Konten</string>
   <string name="Data_set">"Daten: "</string>
