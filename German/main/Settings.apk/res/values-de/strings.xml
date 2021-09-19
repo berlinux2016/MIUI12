@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_button_gesture_description">"Quickly access accessibility features from any screen.
-
-To get started, go to accessibility settings and select a feature. Tap on the shortcut and select the accessibility button.
-
-To use the accessibility button in the navigation bar instead, switch to 2-button navigation or 3-button navigation."</string>
-  <string name="adaptive_connectivity_switch_off">Off</string>
-  <string name="adaptive_connectivity_switch_on">On</string>
+  <string name="adaptive_connectivity_switch_off">Aus</string>
+  <string name="adaptive_connectivity_switch_on">Ein</string>
   <string name="app_notification_field_summary">Control notifications from individual apps</string>
   <string name="biometric_settings_hand_back_to_guardian">Hand the phone back to your parent</string>
   <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Allow to access contacts</string>
@@ -26,8 +21,8 @@ To use the accessibility button in the navigation bar instead, switch to 2-butto
   <string name="my_device_info_device_details_category_title">Device details</string>
   <string name="my_device_info_device_identifiers_category_title">Device identifiers</string>
   <string name="my_device_info_legal_category_title">Legal &amp; regulatory</string>
-  <string name="nfc_setting_off">Off</string>
-  <string name="nfc_setting_on">On</string>
+  <string name="nfc_setting_off">Aus</string>
+  <string name="nfc_setting_on">Ein</string>
   <string name="one_handed_mode_use_shortcut_category">Use the shortcut to</string>
   <string name="power_menu_power_prevent_ringing_hint">"Prevent ringing:
 Shortcut available in the volume menu."</string>
@@ -133,9 +128,9 @@ Press Power and Volume up at the same time."</string>
   <string name="accessibility_back">Zurück</string>
   <string name="accessibility_button_gesture_description">"Barrierefreie Funktionen sind von jedem Bildschirm aus schnell zugänglich.
 
-Gehen Sie zu den Eingabehilfen-Einstellungen und wählen Sie eine Funktion aus. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfen-Schaltfläche.
+Gehen Sie zu den Eingabehilfen-Einstellungen und wählen Sie eine Funktion aus. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfetaste.
 
-Um stattdessen die Eingabehilfen-Schaltfläche in der Navigationsleiste zu verwenden, wechseln Sie zur 2- oder 3-Tasten-Navigation."</string>
+Um stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wechseln Sie zur 2- oder 3-Tasten-Navigation."</string>
 
   <string name="accessibility_caption_master_switch_summary">Nur für unterstützte Apps</string>
   <string name="accessibility_caption_master_switch_title">Untertitel verwenden</string>
