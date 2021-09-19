@@ -1910,7 +1910,6 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="pa_cta_dialog_desc_phone_state">Zur Identifizierung Ihres Geräts anhand der IMEI</string>
   <string name="pa_cta_dialog_desc_storage">Zum Zwischenspeicherung von Elementen</string>
   <string name="pa_edit">Bearbeiten</string>
-  <string name="pa_edit_apply">App</string>
   <string name="pa_edit_color">Farbschema</string>
   <string name="pa_edit_color_group">Farbschema</string>
   <string name="pa_edit_every_month">Monatlich</string>
@@ -1963,7 +1962,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="pa_picker_classic_widget">Android-Widgets</string>
   <string name="pa_picker_detail_add_maml_net_unavailable">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="pa_picker_detail_add_to_home">Zum Startbildschirm hinzufügen</string>
-  <string name="pa_picker_detail_add_to_minus">Zum Infoassistent hinzufügen</string>
+  <string name="pa_picker_detail_add_to_minus">Zu Infoassistent hinzufügen</string>
   <string name="pa_picker_detail_add_widget_success">Erfolgreich hinzugefügt</string>
   <string name="pa_picker_detail_app_not_in_market">Diese App bietet derzeit keine Widgets an</string>
   <string name="pa_picker_detail_app_not_off_shelf">Widgets dieser App sind nicht mehr verfügbar</string>
@@ -1971,7 +1970,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
   <string name="pa_picker_detail_bottom_bt_source_minus">Infoassistent</string>
   <string name="pa_picker_detail_bottom_bt_text">Zu %s hinzufügen</string>
   <string name="pa_picker_detail_bottom_bt_text_to_home">Zum Startbildschirm hinzufügen</string>
-  <string name="pa_picker_detail_bottom_bt_text_to_minus">Zum Infoassistent hinzufügen</string>
+  <string name="pa_picker_detail_bottom_bt_text_to_minus">Zu Infoassistent hinzufügen</string>
   <string name="pa_picker_detail_bottom_bt_text_un_install">App installieren, um ihre Widgets zu verwenden</string>
   <string name="pa_picker_detail_bottom_bt_text_upgrade">App aktualisieren, um ihre Widgets zu verwenden</string>
   <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Infoassistent öffnen, um dort Widgets hinzuzufügen</string>

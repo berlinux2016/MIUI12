@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="download_automatic_message_cn">Funktion-Plugins automatisch herunterladen, wenn das Gerät mit WLAN verbunden ist?</string>
-  <string name="download_automatic_summary_cn">Funktion-Plugins automatisch über WLAN herunterladen</string>
-  <string name="mode_edit_hold_on">Einen Element abgeholt</string>
+  <string name="download_automatic_message_cn">Funktions-Plugins automatisch herunterladen, wenn das Gerät mit WLAN verbunden ist?</string>
+  <string name="download_automatic_summary_cn">Funktions-Plugins automatisch über WLAN herunterladen</string>
+  <string name="mode_edit_hold_on">Ein Element abgeholt</string>
   <string name="mode_edit_moved">In Zeile %1$d, Position %2$d einfügen</string>
   <string name="mode_edit_moving">In Zeile %1$d, Position %2$d verschoben</string>
   <string name="mode_edit_photo_disable">Nicht mehr fotografieren</string>
@@ -15,8 +15,8 @@
   <string name="accessibility_flash_screen_halo">Ringlicht ist eingeschaltet</string>
   <string name="download_automatic_cancel">Abbrechen</string>
   <string name="download_automatic_confirm">Herunterladen</string>
-  <string name="download_automatic_message">Funktion-Plugins automatisch herunterladen, wenn das Gerät mit WLAN verbunden ist?</string>
-  <string name="download_automatic_summary">Funktion-Plugins automatisch über WLAN herunterladen</string>
+  <string name="download_automatic_message">Funktions-Plugins automatisch herunterladen, wenn das Gerät mit WLAN verbunden ist?</string>
+  <string name="download_automatic_summary">Funktions-Plugins automatisch über WLAN herunterladen</string>
   <string name="download_automatic_title">Automatisch herunterladen</string>
   <string name="manually_raw_tip">Zoom wird im RAW-Format nicht unterstützt</string>
   <string name="pref_camera_flashmode_entry_screen_halo">Ringlicht</string>
