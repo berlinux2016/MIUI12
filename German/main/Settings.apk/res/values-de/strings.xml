@@ -7271,7 +7271,7 @@ App-Pinning verwenden: \u0009
   <string name="search_wifi_advanced_mac_address_title">WLAN-MAC-Adresse;WLAN MAC Adresse;WLAN MAC address</string>
   <string name="search_wifi_enable">WLAN;WLAN aktivieren</string>
   <string name="search_wifi_install_credentials">Zertifikate installieren;Zertifikate</string>
-  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
+  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLANDirect</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN-Eingabe;WPS;WPS PIN</string>
   <string name="search_wifi_scan_always_available">Scannen immer verfügbar;Netzwerke scannen;WLAN scannen</string>
   <string name="search_wifi_setting_frequency_band_title">WLAN-Frequenzband;WLAN Frequenzband;WLAN Frequenz;Frequenzband</string>
@@ -9764,8 +9764,8 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_details_subnet_mask">Subnetzmaske</string>
   <string name="wifi_details_title">Netzwerkdetails</string>
   <string name="wifi_dialog_remind_type_title">Mobile Datennetzwerke</string>
-  <string name="wifi_direct_close_hotspot_hint">Portablen Hotspot vor der Nutzung von WLAN Direct ausschalten</string>
-  <string name="wifi_direct_close_slave_wifi_hint">Verbindung zum Hilfs-WLAN trennen, bevor Sie WLAN Direct verwenden</string>
+  <string name="wifi_direct_close_hotspot_hint">Portablen Hotspot vor der Nutzung von Wi-Fi Direct ausschalten</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Verbindung zum Hilfs-WLAN trennen, bevor Sie Wi-Fi Direct verwenden</string>
   <string name="wifi_disabled_by_recommendation_provider">Nicht verbunden wegen schlechter Netzwerkqualität</string>
   <string name="wifi_disabled_generic">Deaktiviert</string>
   <string name="wifi_disabled_help">WLAN wurde wegen schlechter Verbindung getrennt</string>
@@ -9933,7 +9933,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_menu_forget">Netzwerk entfernen</string>
   <string name="wifi_menu_modify">Passwort ändern</string>
   <string name="wifi_menu_more_options">Weitere Optionen</string>
-  <string name="wifi_menu_p2p">WLAN Direct</string>
+  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_remember">Netzwerk merken</string>
   <string name="wifi_menu_scan">Suchen</string>
   <string name="wifi_menu_wfd">WLAN-Anzeige</string>
@@ -9980,7 +9980,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_p2p_peer_devices">Verbundene Geräte</string>
   <string name="wifi_p2p_persist_network">Diese Verbindung speichern</string>
   <string name="wifi_p2p_remembered_groups">Gespeicherte Gruppen</string>
-  <string name="wifi_p2p_settings_title">WLAN Direct</string>
+  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">WPS-Einrichtung</string>
   <string name="wifi_passpoint_expired">Abgelaufen</string>
   <string name="wifi_password">Passwort</string>
