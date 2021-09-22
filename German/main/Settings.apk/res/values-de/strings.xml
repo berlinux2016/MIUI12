@@ -1129,6 +1129,7 @@ Apps:
   <string name="beauty_camera">Videoanrufe verschönern</string>
   <string name="beauty_camera_summary">Verschönerung für WeChat-Videoanrufe verwenden</string>
   <string name="beauty_camera_switch">Verschönern</string>
+  <string name="beauty_fc_assistant">Frontkamera-Assistent</string>
   <string name="billing_cycle">Abrechnungszeitraum</string>
   <string name="billing_cycle_fragment_summary">Monatlich am %1$s anfangen</string>
   <string name="billing_cycle_less_than_one_day_left">Weniger als 1 Tag übrig</string>

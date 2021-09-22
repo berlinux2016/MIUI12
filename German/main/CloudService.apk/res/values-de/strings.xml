@@ -633,6 +633,14 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="no_sim">Keine SIM-Karte gefunden</string>
   <string name="noon">Mittag</string>
   <string name="not_set">Nicht festgelegt</string>
+  <string name="noti_quota_full_sum">Aktualisieren Sie Ihren Speichertarif, um die Synchronisierung von Elementen fortzusetzen.</string>
+  <string name="noti_quota_full_sum_without_button">Erhöhen Sie den Speicherplatz, um die Synchronisierung von Elementen fortzusetzen.</string>
+  <string name="noti_quota_full_title">Cloud-Speicher ist voll</string>
+  <string name="noti_quota_full_title_without_button">Cloud-Speicher ist voll</string>
+  <string name="noti_quota_low_sum">Aktualisieren Sie Ihren Speichertarif, um die Synchronisierung von Elementen fortzusetzen.</string>
+  <string name="noti_quota_low_sum_without_button">Erhöhen Sie den Speicherplatz, um die Synchronisierung von Elementen fortzusetzen.</string>
+  <string name="noti_quota_low_title">Nicht genug Cloud-Speicher</string>
+  <string name="noti_quota_low_title_without_button">Nicht genug Cloud-Speicher</string>
   <string name="notification_reinstall_key_text">Identität verifizieren und erneut versuchen</string>
   <string name="notification_sync_fail_title">Passwörter synchronisieren nicht möglich</string>
   <string name="notification_update_key_text">Passwortmanager-Passcode geändert. Prüfen Sie den neuen Passcode.</string>
