@@ -1324,7 +1324,9 @@ Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
   <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Kontaktzugriff erlauben</string>
   <string name="bluetooth_phonebook_access_dialog_title">Zugriff auf Kontakte und Anrufliste zulassen?</string>
   <string name="bluetooth_phonebook_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Kontakte und die Anrufliste zugreifen. Auf Details tippen.</string>
-  <string name="bluetooth_plugins_check_summary_new">Neue Bluetooth-Plugin-Version gefunden</string>
+  <string name="bluetooth_plugins_check_summary">Netzwerkverbindung herstellen, um nach Updates zu suchen</string>
+  <string name="bluetooth_plugins_check_summary_new">Aktualisierung verfügbar</string>
+  <string name="bluetooth_plugins_check_title">Bluetooth-Plugin aktulisieren</string>
   <string name="bluetooth_message_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Nachrichten zugreifen. Auf Details tippen.</string>
   <string name="bluetooth_message_move_out_of_blacklist">%1$s jetzt entsperren?</string>
   <string name="bluetooth_mi_fast_connect">Kompatible Geräte koppeln</string>
@@ -8243,6 +8245,11 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="style_and_wallpaper_settings_title">Stile &amp; Hintergrundbilder</string>
   <string name="style_suggestion_summary">Verschiedene Stile, Hintergrundbilder, Uhren und mehr ausprobieren</string>
   <string name="style_suggestion_title">Gestalten Sie Ihr Pixel</string>
+  <string name="stylus_connect_fail">Verbinden nicht möglich. Erneut anhängen.</string>
+  <string name="stylus_connect_fail_no_battery">Stift jetzt aufladen</string>
+  <string name="stylus_connect_fail_no_reason">Verbinden nicht möglich</string>
+  <string name="stylus_connect_fail_not_open_gps">Verbinden nicht möglich. Schalten Sie die Standortdienste ein und versuchen Sie es erneut.</string>
+  <string name="stylus_connecting">Verbinden…</string>
   <string name="stylus_ota_check_failed_battery">Prüfen nicht möglich. Akku des Stiftes ist fast leer.</string>
   <string name="stylus_ota_check_failed_info">Firmware-Version wurde nicht geprüft. Stift neu anschließen.</string>
   <string name="stylus_ota_check_update">Auf Aktualisierungen prüfen</string>

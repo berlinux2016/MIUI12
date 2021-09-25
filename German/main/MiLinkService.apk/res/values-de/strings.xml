@@ -403,6 +403,7 @@ Bevor Sie diese App nutzen, lesen und akzeptieren Sie unsere <a href="%1$s">Nutz
   <string name="time_picker_label_minute">Min</string>
   <string name="toast_guide_show_more">Mehr erfahren</string>
   <string name="toast_guide_title">Unsere neuen Funktionen hier entdecken</string>
+  <string name="toast_invisible_mode">Sie sind inkognito. Übertragung nicht möglich.</string>
   <string name="toast_msg">Bitte das kleine Popoup-Fenster nutzen, um den Bildschirm in der App darzustellen.</string>
   <string name="toast_msg_for_multi_window">Diese Funktion kann nicht mit Splitscreen verwendet werden</string>
   <string name="toast_msg_for_small_window">Sie können das Fenster, das übertragen wird, minimieren, um andere Funktionen Ihres Telefons nutzen zu können, ohne den Übertragungsprozess zu unterbrechen.</string>

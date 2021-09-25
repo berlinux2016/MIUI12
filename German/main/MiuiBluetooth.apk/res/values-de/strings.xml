@@ -611,6 +611,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="play_decode_audio">Audio abspielen</string>
   <string name="plmn_failure_radio_off">Auswahl bei Netzwerkausfall aufgrund von Funk \"AUS\" oder nicht verfügbar</string>
   <string name="plugin_alert_cancel">Später</string>
+  <string name="plugin_alert_kill">Neustart</string>
   <string name="plugin_alert_text">Einstellungen beenden und Bluetooth-Dienst neu starten, um die Änderungen zu übernehmen</string>
   <string name="plugin_alert_title">Plugin-Aktualisierung</string>
   <string name="plugin_download_create_client_failed">Client erstellen fehlgeschlagen.</string>

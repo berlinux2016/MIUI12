@@ -44,6 +44,15 @@ dd. MM."</string>
   <string name="component_battery">Akku</string>
   <string name="component_date_time">Datum und Uhrzeit</string>
   <string name="component_notification">Benachrichtigungen</string>
+  <string name="contentDescripton_back">Zurück</string>
+  <string name="contentDescripton_horizontal_center">Horizontal zentriert</string>
+  <string name="contentDescripton_horizontal_left">Horizontal links</string>
+  <string name="contentDescripton_horizontal_right">Horizontal rechts</string>
+  <string name="contentDescripton_increase">Erhöhen</string>
+  <string name="contentDescripton_reduce">Reduzieren </string>
+  <string name="contentDescripton_vertical_center">Vertikal zentriert</string>
+  <string name="contentDescripton_vertical_left">Vertikal links</string>
+  <string name="contentDescripton_vertical_right">Vertikal rechts</string>
   <string name="copy">Kopieren</string>
   <string name="date_picker_lunar">Traditioneller chinesischer Kalender</string>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit festlegen</string>
