@@ -2321,8 +2321,8 @@ Screenshot zu erstellen"</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
   <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
   <string name="show_notification_channel_warnings_summary">Bildschirmwarnung anzeigen, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
-  <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
-  <string name="show_screen_updates_summary">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
+  <string name="show_screen_updates">Bildschirmaktualisierungen anzeigen</string>
+  <string name="In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
   <string name="show_silently">Benachrichtigungen lautlos anzeigen</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>

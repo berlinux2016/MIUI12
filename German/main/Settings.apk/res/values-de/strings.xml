@@ -7628,8 +7628,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_refresh_rate_summary">Aktuelle Bildwiederholrate anzeigen</string>
   <string name="show_rounded_corners">Runde Ecken anzeigen</string>
   <string name="show_running_services">Aktive Dienste anzeigen</string>
-  <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
-  <string name="show_screen_updates_summary">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
+  <string name="show_screen_updates">Bildschirmaktualisierungen anzeigen</string>
+  <string name="In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
   <string name="show_silently">Benachrichtigungen lautlos anzeigen</string>
   <string name="show_silently_summary">Keinen Ton machen, nicht vibrieren oder keine Benachrichtigungen im aktuellen Bildschirm zeigen</string>
   <string name="show_system_app">System-Apps anzeigen</string>
