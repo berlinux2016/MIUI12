@@ -668,7 +668,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
   <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung auf dem Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
   <string name="show_screen_updates">Bildschirmaktualisierungen anzeigen</string>
-  <string name="In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
+  <string name="show_screen_updates_summary">In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="select_private_dns_configuration_dialog_title">Private DNS-Modus wählen</string>
