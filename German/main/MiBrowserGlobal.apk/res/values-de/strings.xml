@@ -1131,7 +1131,7 @@ Diese Seite jetzt wirklich verlassen?"</string>
   <string name="net_error">Netzwerkfehler</string>
   <string name="network_show_wifi_setting_tip_dialog_description">WLAN-Hotspot in der Nähe gefunden. Verbindung herstellen?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">WLAN verfügbar</string>
-  <string name="new_update_available">Aktualisierung verfügbar</string>
+  <string name="new_update_available">Update verfügbar</string>
   <string name="new_version_name">Neue Version %s</string>
   <string name="news_flow_more_recommend">Weitere empfohlene Elemente</string>
   <string name="news_load_failed">Tippen, um es erneut zu versuchen</string>

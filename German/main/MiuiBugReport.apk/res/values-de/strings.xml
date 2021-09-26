@@ -918,7 +918,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
 %1$s
 Größe: %2$s"</string>
   <string name="update_dialog_content_version">Sie können jetzt auf die Version %1$s updaten.</string>
-  <string name="update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="update_dialog_title">Update verfügbar</string>
   <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>
   <string name="update_email_address_dialog_title">Wiederherstellungs-E-Mail aktualisieren</string>
   <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>

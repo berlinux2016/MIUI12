@@ -1711,7 +1711,7 @@ Konto entfernen?"</string>
   <string name="update_domain_summary">Liste der verfügbaren Domains und Konfigurationen aktualisieren</string>
   <string name="update_domain_title">Domain-Einstellungen aktualisieren</string>
   <string name="update_to_wps_mail">Mehr Funktionen mit WPS genießen</string>
-  <string name="updated_at">Letzte Aktualisierung: %1$s</string>
+  <string name="updated_at">Letztes Update %1$s</string>
   <string name="upload_log">Senden</string>
   <string name="upload_log_failed">Protokolldaten wurden nicht gesendet</string>
   <string name="upload_log_no">Abbrechen</string>

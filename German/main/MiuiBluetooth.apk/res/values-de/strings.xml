@@ -398,7 +398,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="headset_download_fw">Aktualisierung</string>
   <string name="headset_downloading">Herunterladen</string>
   <string name="headset_downloading_indicate">Heruntergeladen…</string>
-  <string name="headset_find_new_version">Aktualisierung verfügbar</string>
+  <string name="headset_find_new_version">Update verfügbar</string>
   <string name="headset_finish_fw">Erfolgreich aktualisiert</string>
   <string name="headset_finish_fw_failed">Fehler aufgetreten</string>
   <string name="headset_fw_error_failed">Aktualisieren nicht möglich. Firmware-Info ist falsch.</string>

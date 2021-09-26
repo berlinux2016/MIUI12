@@ -402,7 +402,7 @@
   <string name="like_toast_3">Melden Sie sich an, um Videos, die Sie mögen, in Ihrem Profil anzusehen</string>
   <string name="list_mode">Listenansicht</string>
   <string name="list_refreshing_text">Aktualisieren…</string>
-  <string name="list_refreshing_time">Letzte Aktualisierung: %1$s</string>
+  <string name="list_refreshing_time">Letztes Update %1$s</string>
   <string name="load_more">Mehr anzeigen</string>
   <string name="load_more_load_end">Mehr gibt es nicht</string>
   <string name="load_more_load_failed">Laden fehlgeschlagen, erneut versuchen</string>

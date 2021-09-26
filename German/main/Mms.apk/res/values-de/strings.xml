@@ -1327,7 +1327,7 @@ Bisherige Versuche: %s."</string>
   <string name="wild_msg_processing">Verarbeiten…</string>
   <string name="wild_msg_title">Wählen Sie die Rufnummern für die Synchronisation</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yesterday">Gestern</string>
   <string name="you_have_new_message">Sie haben neue Nachrichten</string>

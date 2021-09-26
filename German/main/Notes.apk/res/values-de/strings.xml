@@ -139,7 +139,7 @@
   <string name="db_downgrade_clear_button">App-Daten löschen</string>
   <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere MIUI Version wechseln, müssen Sie die App-Daten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen in der Cloud gesichert haben.</string>
   <string name="default_folder_name">Ordner nicht benannt</string>
-  <string name="default_update_documents">Aktualisierung verfügbar. Jetzt aktualisieren?</string>
+  <string name="default_update_documents">Update verfügbar. Jetzt aktualisieren?</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
   <string name="dialog_button_cancel">Abbrechen</string>
   <string name="dialog_button_close">Schließen</string>
@@ -168,7 +168,7 @@
   <string name="dlg_unhide_message">Sichtbar machen…</string>
   <string name="dlg_update_cancel">Jetzt nicht</string>
   <string name="dlg_update_checkbox_title">Diese Version ignorieren</string>
-  <string name="dlg_update_title">Aktualisierung verfügbar</string>
+  <string name="dlg_update_title">Update verfügbar</string>
   <string name="dlg_update_update_now">Aktualisierung</string>
   <string name="done">Fertig</string>
   <string name="doodle_action_enter_immersion_mode">Umschalten auf Immersiv-Modus</string>
@@ -898,6 +898,6 @@ Erlauben Sie Notizen, Audio aufzunehmen."</string>
   <string name="widget_take_notes_title">Notizen</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="yesterday">Gestern</string>
 </resources>

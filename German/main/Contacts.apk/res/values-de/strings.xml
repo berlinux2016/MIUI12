@@ -1716,7 +1716,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="update_sim_contact_photo_toast">Profilfotos für SIM-Kontakte nicht möglich</string>
   <string name="upgrade_in_progress">Kontaktliste wird gerade aktualisiert</string>
   <string name="upgrade_out_of_memory">Ihre Kontakte werden momentan aktualisiert. Für den Aktualisierungsvorgang sind ca. %s MB interner Speicher erforderlich. Wählen Sie eine der folgenden Optionen:</string>
-  <string name="upgrade_out_of_memory_retry">Aktualisierung wiederholen</string>
+  <string name="upgrade_out_of_memory_retry">Update wiederholen</string>
   <string name="upgrade_out_of_memory_uninstall">Deinstallieren Sie einige Apps</string>
   <string name="use_photo_as_primary">Dieses Bild verwenden</string>
   <string name="use_photo_as_primary2">"Benutze %1$s's Kontaktbild"</string>

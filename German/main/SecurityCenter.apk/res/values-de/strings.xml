@@ -5085,7 +5085,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
   <string name="wrong_password">Falsches Passwort</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="xiaomi_privacy_protection_measures">Maßnahmen zum Datenschutz</string>
   <string name="xspace_warning_dialog_button">Verstanden</string>
   <string name="xspace_warning_dialog_message">Wegen der in Android %d eingeführten Einschränkungen können alle Dual Apps nur auf die Fotos und Videos zugreifen, die in der entsprechenden Dual App selbst erstellt und gespeichert wurden.</string>

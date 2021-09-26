@@ -357,7 +357,7 @@ Xiaomi Health wird Sie nur über wichtige Dinge informieren."</string>
   <string name="dialog_keep">Behalten</string>
   <string name="dialog_known">Verstanden</string>
   <string name="dialog_menstruation_purpose">Willkommen bei Xiaomi Health! Mit \"Menstruation\" können Sie Ihre Periode erfassen, die ungefähren Daten der kommenden Perioden bestimmen und Erinnerungen erhalten. Alle zugehörigen Daten werden lokal auf Ihrem Gerät gespeichert, sodass Sie sie einfach verwalten können.</string>
-  <string name="dialog_new_version_title">Aktualisierung verfügbar</string>
+  <string name="dialog_new_version_title">Update verfügbar</string>
   <string name="dialog_no_more_prompt">Nicht mehr anzeigen</string>
   <string name="dialog_open">Zustimmen</string>
   <string name="dialog_permission_loading_msg">Prüfen…</string>
@@ -1003,7 +1003,7 @@ mit einem Finger"</string>
   <string name="preference_update_current_version">Aktuelle Version: %1$s</string>
   <string name="preference_update_default_title">App-Version</string>
   <string name="preference_update_find_new_version">Auf Updates prüfen</string>
-  <string name="preference_update_find_newer_version">Aktualisierung verfügbar: %1$s</string>
+  <string name="preference_update_find_newer_version">Update verfügbar: %1$s</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="privacy_setting">Datenschutz</string>
   <string name="prompt_more_than_3h">Mehr als 3 Std</string>
@@ -1801,7 +1801,7 @@ Delta-Update-Größe: %2$s"</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="year">Jahr</string>
   <string name="yesterday">Gestern</string>
   <string name="yoga">Yoga</string>

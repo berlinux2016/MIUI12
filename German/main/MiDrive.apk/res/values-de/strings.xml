@@ -785,7 +785,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="update_dialog_button_ok">Aktualisierung</string>
   <string name="update_dialog_content">"Neue Version: %1$s
 %2$s"</string>
-  <string name="update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="update_dialog_title">Update verfügbar</string>
   <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>
   <string name="update_email_address_dialog_title">Wiederherstellungs-E-Mail aktualisieren</string>
   <string name="update_failed">Serverfehler aufgetreten, etwas warten und erneut versuchen.</string>
@@ -839,7 +839,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
   <string name="xiaomi_drive_description_title">Über Mi Drive</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yesterday">Gestern</string>
 </resources>

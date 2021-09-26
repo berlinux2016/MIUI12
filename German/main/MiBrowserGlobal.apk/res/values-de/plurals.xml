@@ -195,7 +195,7 @@
   </plurals>
   <plurals name="video_push_multi_message">
     <item quantity="other">%1$d Aktulisierungen verfügbar</item>
-    <item quantity="one">%1$d Aktualisierung verfügbar</item>
+    <item quantity="one">%1$d Update verfügbar</item>
   </plurals>
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d Minuten übrig</item>

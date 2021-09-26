@@ -163,7 +163,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
   <string name="dialog_tip_upgrade_summary">Anscheinend ist Mi Mover zu alt. Aktualisieren Sie Mi Mover auf die neueste Version, um Dateien übertragen zu können.</string>
   <string name="dialog_tip_upgrade_title">Mi Mover aktualisieren</string>
   <string name="dialog_version_summary_tip">"Was ist neu:"</string>
-  <string name="dialog_version_title_tip">Aktualisierung verfügbar</string>
+  <string name="dialog_version_title_tip">Update verfügbar</string>
   <string name="dialog_wechat_data_transfer_fail_button">Verstanden</string>
   <string name="dialog_wechat_data_transfer_fail_message">"WeChat-App-Daten und der Chat-Verlauf wurden wegen App-Beschränkungen nicht übertragen. Probieren Sie die In-App-Sicherungsfunktion aus.
 Öffnen Sie WeChat und gehen Sie zu Ich &gt; Einstellungen &gt; Allgemein &gt; Sicherung &amp; Chats migrieren."</string>
@@ -830,7 +830,7 @@ Videos, Dokumente und Apps auf ein neues Gerät verschieben"</string>
   <string name="wednesday_shortest">M</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung Download-Manager fehlgeschlagen, bitte Status des Download-Managers in App-Verwaltung prüfen.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s

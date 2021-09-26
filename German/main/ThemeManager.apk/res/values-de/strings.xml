@@ -550,7 +550,7 @@ dd.MM."</string>
   <string name="miuix_compat_dialog_checkbox">Nicht mehr anzeigen</string>
   <string name="miuix_compat_dialog_content">Die aktuelle Version von \"%s\" ist mit diesem Thema nicht kompatibel.</string>
   <string name="miuix_compat_dialog_title">Standardthema auf \"%s\" angewendet</string>
-  <string name="miuix_compat_dialog_update_title">Eine Aktualisierung ist erforderlich</string>
+  <string name="miuix_compat_dialog_update_title">Eine Update ist erforderlich</string>
   <string name="miuix_compat_mms">Nachrichten</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
@@ -1409,7 +1409,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
   <string name="xiaoai_speech_not_installed_title">Mi KI Sprachassistent ist nicht installiert</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen. Status des Download-Managers im App-Management prüfen.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s
 Größe: %2$s"</string>

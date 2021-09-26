@@ -194,7 +194,7 @@
   <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="go_back">Zurück</string>
   <string name="holiday_update">Aktualisierung gesetzlicher Feiertage</string>
-  <string name="holiday_update_fail">Aktualisierung nicht möglich</string>
+  <string name="holiday_update_fail">Update nicht möglich</string>
   <string name="holiday_update_loading">Aktualisieren…</string>
   <string name="holiday_update_success">Alle Elemente sind auf dem neuesten Stand</string>
   <string name="holiday_update_title">Feiertaginformationen aktualisieren</string>
@@ -608,7 +608,7 @@ Mi Health genügend Daten analysiert hat."</string>
   <string name="v7_preference_on">AN</string>
   <string name="version_update_dialog_negative_desc">Jetzt nicht</string>
   <string name="version_update_dialog_positive_desc">Aktualisierung</string>
-  <string name="version_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="version_update_dialog_title">Update verfügbar</string>
   <string name="vibrate_pref_summary">Vibrieren bei Weckton</string>
   <string name="vibrate_when_ringing">Vibrieren beim Klingeln</string>
   <string name="voice_add_alarm">Wecker über Sprachbefehl hinzufügen</string>
@@ -642,6 +642,6 @@ Mi Health genügend Daten analysiert hat."</string>
   <string name="worldcolock_timezone_local">- wie Ortszeit</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Aktualisierung verfügbar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
   <string name="yesterday">Gestern</string>
 </resources>
