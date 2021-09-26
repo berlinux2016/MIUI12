@@ -1381,8 +1381,6 @@ Sie haben bisher keine Verbindung zu %2$s hergestellt."</string>
   <string name="bluetooth_phonebook_request">Zugriffanfrage für Telefonbuch</string>
   <string name="bluetooth_pin_values_hint">Meistens 0000 oder 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Muss 16-stellig sein</string>
-  <string name="bluetooth_plugins_check_summary">Aktualisierungen von Bluetooth-Plugins prüfen</string>
-  <string name="bluetooth_plugins_check_title">Bluetooth-Plugins prüfen</string>
   <string name="bluetooth_pref_summary">Telefon erlauben, mit Bluetooth-Geräten in der Nähe zu kommunizieren</string>
   <string name="bluetooth_preference_connected_devices">Verbundene Geräte</string>
   <string name="bluetooth_preference_device_settings">Geräteeinstellungen</string>
