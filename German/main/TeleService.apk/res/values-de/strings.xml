@@ -1246,6 +1246,8 @@ Sie können weiterhin Notrufe tätigen."</string>
   <string name="incall_error_supp_service_unknown">Service wird nicht unterstützt</string>
   <string name="incall_error_wfc_only_no_wireless_network">Mit WLAN verbinden zum Telefonieren</string>
   <string name="incall_number_anonymous">Unbekannte Nummer</string>
+  <string name="incall_number_anonymous_kd">ID nicht gesendet</string>
+  <string name="incall_number_unavailable_kd">Nicht unterstützt</string>
   <string name="incall_status_dialed_mmi">MMI Sequenz starten…</string>
   <string name="input_password">Passwort eingeben</string>
   <string name="install_other_apps">Unbekannte Apps installieren</string>
