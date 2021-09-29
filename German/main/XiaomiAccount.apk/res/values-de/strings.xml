@@ -844,7 +844,7 @@ Senden Sie diesen Code an den Supervisor."</string>
   <string name="used_cloud_storage_info">Genutzt: %s</string>
   <string name="user_avatar_update_title">Profilbild ändern</string>
   <string name="user_avatar_uploading">Einen Moment…</string>
-  <string name="user_instruction_all_purpose">Willkommen bei Mi-Konto! Sie können ein Konto erstellen, sich anmelden und auf die Dienste von Xiaomi und seinen verbundenen Unternehmen zugreifen, wie Mi.com, Xiaomi Cloud und GetApps. Sie können Mi-Coins erhalten, virtuelle Waren kaufen und Mehrwertdienste wie Spiele, Themen und E-Books nutzen.</string>
+  <string name="user_instruction_all_purpose">Willkommen bei Mi-Konto! Sie können Ihr Konto nutzen, um auf Dienstleistungen von Xiaomi und seinen verbundenen Unternehmen zuzugreifen, wie Mi.com, Xiaomi Cloud und GetApps. Sie können Mi-Coins erhalten, virtuelle Waren kaufen und Mehrwertdienste wie Spiele, Themen und E-Books nutzen.</string>
   <string name="user_instruction_tip">Um sich anzumelden, lesen und akzeptieren Sie die Allgemeinen Geschäftsbedingungen .</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>

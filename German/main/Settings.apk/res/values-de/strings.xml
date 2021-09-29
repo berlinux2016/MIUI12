@@ -3704,6 +3704,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gxzw_quick_open_title">Verknüpfungen</string>
   <string name="handy_mode">Einhandmodus</string>
   <string name="handy_mode_enable">Einhandmodus</string>
+  <string name="handy_mode_no_touch_assistant">Einhandmodus funktioniert nur, wenn Sie für die Systemnavigation Tasten verwenden. Sie können unter Einstellungen im Abschnitt \"Systemnavigation\" zwischen Gesten und Tasten umschalten.</string>
   <string name="handy_mode_size">Bildschirmgröße</string>
   <string name="handy_mode_tips">Aktivieren Sie den Einhandmodus, indem Sie von der Mitte des Navigationsfelds aus nach links oder rechts wischen.</string>
   <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Schaltflächen anstelle von Vollbildgesten umschalten.</string>
@@ -4000,6 +4001,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
   <string name="input_settings">Eingabeeinstellungen</string>
   <string name="input_text">Texteingabeleiste</string>
+  <string name="insert_sim_card_and_try_again">SIM-Karte einlegen und erneut versuchen</string>
   <string name="install_all_warning">Apps aus unbekannten Quellen können gefährlich für Ihr Telefon und Ihre persönlichen Daten sein. Sie stimmen zu, dass Sie die Verantwortung für alle Schäden an Ihrem Telefon und jegliche Datenverluste tragen, die aus der Verwendung dieser Apps entstehen können.</string>
   <string name="install_applications">Unbekannte Herkunft</string>
   <string name="install_applications_title">Alle App-Quellen zulassen</string>
@@ -4387,7 +4389,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
   <string name="location_agps_reset_type">Resettypen</string>
   <string name="location_agps_reset_type_choose_dialog_title">Resettypen</string>
   <string name="location_agps_reset_type_summary">Bevorzugten Resettyp auswählen</string>
-  <string name="location_agps_roaming_help">Auswahl aller Netzwerke kann die Datennutzung beim Roaming erhöhen. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+  <string name="location_agps_roaming_help">Auswahl aller Netzwerke kann die Datennutzung beim Roaming erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
   <string name="location_agps_si_mode">AGPS-SI-Modus</string>
   <string name="location_agps_si_mode_dialog_title">AGPS-Methode</string>
   <string name="location_agps_si_mode_summary">Bevorzugte AGPS-Methode auswählen</string>
@@ -8000,6 +8002,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten erlaubt, die auf Ihrem Gerät in
   <string name="status_network_type">Mobilfunktyp</string>
   <string name="status_number">Meine Rufnummer</string>
   <string name="status_number_sim_slot">Rufnummer (SIM-Slot %1$d)</string>
+  <string name="status_number_sim_softbank">Rufnummer %1$d</string>
   <string name="status_number_sim_status">Rufnummer der SIM</string>
   <string name="status_operator">Netzwerk</string>
   <string name="status_prl_version">PRL-Version</string>
@@ -9003,6 +9006,7 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="unrestricted_app_title">Uneingeschränkte Datennutzung</string>
   <string name="unrestricted_data_saver">Uneingeschränkte Daten</string>
   <string name="unsupported_setting_summary">Einstellung wird von diesem Telefon nicht unterstützt</string>
+  <string name="unsupported_usim_card">Nicht unterstützte USIM-Karte</string>
   <string name="untitled_apn">Unbenannt</string>
   <string name="update_new_version">Update ist verfügbar</string>
   <string name="update_progress_for_updates">Aktualisieren (%s)</string>
@@ -9745,7 +9749,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters."</string>
   <string name="wifi_connect">Verbinden</string>
   <string name="wifi_connect_channel">WLAN-Kanal:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Abbrechen</string>
-  <string name="wifi_connect_cmcc_dialog_content">Mit dem mobilen Datennetz verbunden. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+  <string name="wifi_connect_cmcc_dialog_content">Mit dem mobilen Datennetz verbunden. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Nicht noch mal anzeigen</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC verbunden</string>
   <string name="wifi_connect_failed_message">Telefon konnte sich nicht mit diesem WLAN verbinden</string>

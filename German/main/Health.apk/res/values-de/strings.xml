@@ -93,6 +93,7 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
   <string name="average_menstruation_days">Ø-Periodendauer</string>
   <string name="avg_altitude">Ø-Höhe</string>
   <string name="avg_day">Durchschnitt</string>
+  <string name="avg_earphone_listening_duration">Kopfhörer</string>
   <string name="avg_finish_stand">Ø tägl. Stehen</string>
   <string name="avg_freq">Ø-Frequenz</string>
   <string name="avg_heart_rate">Ø-Puls</string>
@@ -101,6 +102,7 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
   <string name="avg_low_pressure">Ø diastolisch (unterer)</string>
   <string name="avg_pace">Ø-Tempo</string>
   <string name="avg_steps">Tägliche Schritte</string>
+  <string name="avg_treble_duration">Laute Geräusche</string>
   <string name="awake_count">Aufgewacht</string>
   <string name="awake_count_abnormal_description">Sie sind in der Nacht sehr oft aufgewacht.</string>
   <string name="awake_count_normal_description">Sie sind in der Nacht einmal aufgewacht. Das ist normal.</string>
@@ -186,6 +188,7 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
   <string name="clear_text_end_icon_content_description">Text löschen</string>
   <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="click_finish_stand">Tippen, um Stehen zu beenden</string>
+  <string name="click_to_solve">Hilfe</string>
   <string name="climb">Treppensteigen</string>
   <string name="climbing">Klettern</string>
   <string name="close">Ausschalten</string>
@@ -394,12 +397,15 @@ Lesen Sie unsere &lt;font color=\"#0000FF\">&lt;a href=\"%1$s\">Nutzervereinbaru
   <string name="each_week_day_format3">Alle %1$s bis %2$s</string>
   <string name="early">Zeitig</string>
   <string name="early_morning">Morgen</string>
+  <string name="earphone_listening_duration">Kopfhörer</string>
   <string name="edit_aid_file">Bearbeiten</string>
   <string name="edit_basic_info_desc">Basisinfo</string>
   <string name="edit_immediately">Informationen eingeben</string>
   <string name="edit_sleep_record_button">Bearbeiten</string>
   <string name="elliptical_machine">Elliptisch</string>
   <string name="emergency_contact">Notfallkontakte</string>
+  <string name="emergency_lock_show_subtitle">Finden Sie Ihre medizinische Notfall-ID, indem Sie bei gesperrtem Bildschirm auf \"Notfall\" und \"Medizinische Notfall-ID\" tippen.</string>
+  <string name="emergency_lock_show_title">Anzeigen, wenn gesperrt</string>
   <string name="enable">Ein</string>
   <string name="enable_go_now">Einschalten</string>
   <string name="enable_not_now">Jetzt nicht</string>
@@ -415,6 +421,7 @@ Lesen Sie unsere &lt;font color=\"#0000FF\">&lt;a href=\"%1$s\">Nutzervereinbaru
   <string name="equivalent_exercise">≈%1$s km spazieren gehen (%2$s kcal)</string>
   <string name="eras_ad">n. Chr.</string>
   <string name="eras_bc">v. Chr.</string>
+  <string name="evaluation_origin_health">Vorschläge werden von Gesundheit bereitgestellt.</string>
   <string name="evening">Nachmittag</string>
   <string name="every_day">Jeden Tag</string>
   <string name="excessive">Zu viel</string>
@@ -497,6 +504,7 @@ Wenn es für Sie nach 30 Minuten im Bett immer noch schwierig ist, einzuschlafen
   <string name="finish_stand">Stehen beenden</string>
   <string name="finish_stand2">Aufstehen</string>
   <string name="finished_rate">%1$d%% abgeschlossen</string>
+  <string name="first_aid_card">Medizinische Notfall-ID</string>
   <string name="fmt_chinese_date">dd.MM.</string>
   <string name="fmt_date_day">d.</string>
   <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -574,6 +582,7 @@ Wenn es für Sie nach 30 Minuten im Bett immer noch schwierig ist, einzuschlafen
   <string name="health_setting">Einstellungen Gesundheit</string>
   <string name="health_uninstall_dialog_content">Xiaomi Health ist eine System-App. Mit dieser App können Sie Schritte zählen, Schlaf, Menstruation und Gewicht verfolgen sowie Ihre Statistik mit der Cloud synchronisieren. Nach der Deinstallation können Sie diese App nicht mehr verwenden.</string>
   <string name="health_uninstall_dialog_title">Xiaomi Health deinstallieren?</string>
+  <string name="hearing">Gehör</string>
   <string name="heart_rate">Puls</string>
   <string name="height">Höhe</string>
   <string name="high">Hoch</string>
@@ -719,6 +728,7 @@ mit einem Finger"</string>
   <string name="light_sleep_time_decrease_description">Ihr Halbschlaf ist zu kurz</string>
   <string name="light_sleep_time_increase_description">Ihr Halbschlaf ist zu lang</string>
   <string name="light_sleep_time_normal_description">Sie haben ausreichend Halbschlaf</string>
+  <string name="listening_duration">Kopfhörer</string>
   <string name="load_failed">Elemente wurden nicht geladen. Einen Moment warten und erneut versuchen.</string>
   <string name="loading">Einen Moment…</string>
   <string name="location_perm_description">Zur Verfolgung von Outdoor-Training und Aufzeichnung von Routen</string>
@@ -732,6 +742,16 @@ mit einem Finger"</string>
   <string name="location_service_dialog_title">Standortdienste sind aus</string>
   <string name="location_service_ntfc_content">Xiaomi Health</string>
   <string name="location_service_ntfc_title">Nach GPS suchen…</string>
+  <string name="lock_not_support_description">Um Ihre medizinische Notfall-ID auf dem Sperrbildschirm verfügbar zu machen, tippen Sie auf Mehr &gt; Bearbeiten und aktivieren Sie \"Bei Sperre anzeigen\".</string>
+  <string name="lock_show_dialog_content">"Auf Ihre medizinische Notfall-ID können Sie zugreifen, ohne Ihr Telefon zu entsperren.
+Wenn Sie Ihre Daten nicht weitergeben möchten, können Sie diese Funktion deaktivieren."</string>
+  <string name="lock_show_dialog_title">Achtung</string>
+  <string name="lock_show_solve_description">Um die medizinische Notfall-ID auf dem Sperrbildschirm anzuzeigen, erlauben Sie der App Gesundheit die Anzeige dort.</string>
+  <string name="lock_show_solve_go">Einstellungen</string>
+  <string name="lock_show_solve_path">Unten auf \"Einstellungen\" tippen, \"Auf dem Sperrbildschirm anzeigen\" wählen und \"Immer zulassen\" wählen.</string>
+  <string name="lock_show_solve_title">Daten auf Ihrem Sperrbildschirm hinzufügen</string>
+  <string name="lock_support_description">Ihre medizinische Notfall-ID wird angezeigt, wenn Sie bei gesperrtem Bildschirm auf \"Notfall\" und \"Medizinische Notfall-ID\" tippen.</string>
+  <string name="lock_support_description2">Sie können die medizinische Notfall-ID nicht auf Ihrem Sperrbildschirm finden?</string>
   <string name="login_and_open_sync">Anmelden und Synchronisieren einschalten</string>
   <string name="login_and_open_sync2">Anmelden und Synchronisieren einschalten</string>
   <string name="low">Niedrig</string>
@@ -836,6 +856,8 @@ mit einem Finger"</string>
   <string name="min_low_pressure">Min. diastolisch (unterer)</string>
   <string name="min_pace">Niedrigstes Tempo</string>
   <string name="minute">Min</string>
+  <string name="miuix_access_state_desc">Ausgewählt</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle auswählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
@@ -853,6 +875,7 @@ mit einem Finger"</string>
   <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle auswählen</string>
   <string name="miuix_appcompat_select_item">Elemente wählen</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -1555,6 +1578,10 @@ auf Ihren persönlichen Daten beraten."</string>
   <string name="tb_go_next_a_day">Vorheriger Tag</string>
   <string name="tb_go_on_detection">Fortsetzen </string>
   <string name="tb_has_snore_dream_talk">Sprechen und Schnarchen entdeckt</string>
+  <string name="tb_hearing_card">Gehör | Kopfhörerbelastung: %1$s | Aufgenommen: %2$s.</string>
+  <string name="tb_hearing_column">%1$s | Kopfhörerbelastung: %2$s | Laute Geräusche: %3$s.</string>
+  <string name="tb_hearing_daily_card">%1$s | Kopfhörerbelastung: %2$s | Laute Geräusche: %3$s.</string>
+  <string name="tb_hearing_wm_card">%1$s | Kopfhörerbelastung Ø : %2$s | Laute Geräusche-Belastung Ø: %3$s.</string>
   <string name="tb_heart_rate_max_min">Puls. Höchste: %1$d. Niedrigste: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Blutdruck - Systolisch %1$d | Diastolisch %2$d | Aufgezeichnet: %3$s | Zustand: %4$</string>
   <string name="tb_home_blood_pressure_card_no_data">Blutdruck, keine Daten.</string>
@@ -1631,6 +1658,7 @@ auf Ihren persönlichen Daten beraten."</string>
   <string name="tb_user_step_card_info">Tägliches Ziel: %1$s, über %2$s oder %3$s.</string>
   <string name="tb_user_step_target_btn">Ziel ändern</string>
   <string name="tb_user_weight_card_info">BMI %1$s, %2$s. Empfohlenes Gewicht: %3$s.</string>
+  <string name="tb_volume_list_item">%1$s | Umgebungsgeräusche: %3$s (%2$d dB).</string>
   <string name="tb_weight_choice">%2$s von %1$s ist %3$s</string>
   <string name="tb_weight_decrease">Abgenommen</string>
   <string name="tb_weight_has_record">Gewichtsaufzeichnung gefunden</string>
@@ -1731,6 +1759,8 @@ auf Ihren persönlichen Daten beraten."</string>
   <string name="tracking_progress_labe_up_nodata">keine Daten</string>
   <string name="tracking_progress_labe_up_refresh">Zum Aktualisieren ziehen</string>
   <string name="treadmill">Laufband</string>
+  <string name="treble_duration">Laute Geräusche</string>
+  <string name="treble_sum_duration">Laute Geräusche</string>
   <string name="try_again">Erneut versuchen</string>
   <string name="tuesday">Dienstag</string>
   <string name="tuesday_short">Di</string>
@@ -1769,6 +1799,11 @@ Jetzt aktualisieren?"</string>
   <string name="visceral_fat">Viszerales Fett</string>
   <string name="visceral_fat_descripe_content">Viszerales Fett ist für die Stabilisierung und den Schutz der inneren Organe unerlässlich. Allerdings erhöht ein hoher viszeraler Fettanteil das Risiko von Herz-Kreislauf- und Stoffwechselerkrankungen.</string>
   <string name="voice_remind">Wir haben die Lautstärke erhöht, damit Sie die Anweisungen besser hören.</string>
+  <string name="volume_high_description">Verwenden Sie Kopfhörer mit Geräuschunterdrückung, um Ihr Gehör nicht zu schädigen. Nicht die Lautstärke aufdrehen, um den Lärm zu übertönen.</string>
+  <string name="volume_level">Umgebungsgeräusche</string>
+  <string name="volume_normal_description">Die Belastung mit leisen Geräuschen sollte keine Hörschäden verursachen. Sie können die Konzentration fördern.</string>
+  <string name="volume_too_high">Sehr laut</string>
+  <string name="volume_too_high_description">Wiederholte, lang anhaltende Belastung durch sehr laute Geräusche kann zu Gehörschäden führen. Um Ihr Gehör zu schützen, halten Sie sich von lauten Geräuschen fern oder tragen Sie Ohrstöpsel oder Kopfhörer mit Geräuschunterdrückung.</string>
   <string name="walk">Wandern</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>

@@ -280,7 +280,7 @@
   <string name="tuesday_shortest">D</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
-  <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Wenn Sie Ihre mobile Datenverbindung nutzen, um diesen Download abzuschließen, erhöht sich Ihren Datenverbrauch. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten in Rechnung stellen.</string>
+  <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Wenn Sie Ihre mobile Datenverbindung nutzen, um diesen Download abzuschließen, erhöht sich Ihren Datenverbrauch. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten in Rechnung stellen.</string>
   <string name="warning_tip_title">Warnhinweis Datennutzung</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>

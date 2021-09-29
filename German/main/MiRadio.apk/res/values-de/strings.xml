@@ -1372,7 +1372,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
   <string name="vip_tomorrow_renew_message">Sie werden nicht in der Lage sein, Audio in hoher Qualität zu streamen, aber einige Titel werden in normaler Qualität verfügbar sein.</string>
   <string name="voice_ass">Sprachassistent</string>
   <string name="warning_tip_cancel">Herunterladen</string>
-  <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Die Verwendung Ihrer mobilen Datenverbindung zum Abschluss dieses Downloads wird Ihre Datennutzung erhöhen. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+  <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Die Verwendung Ihrer mobilen Datenverbindung zum Abschluss dieses Downloads wird Ihre Datennutzung erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
   <string name="warning_tip_title">Warnung zur Datennutzung</string>
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>

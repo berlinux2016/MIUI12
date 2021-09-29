@@ -211,6 +211,8 @@ OPPO, Vivo, Realme und andere Marken werden in Kürze auch mit Mi Share kompatib
   <string name="miui_mine_repair_mode_sub_title">Bewahren Sie Ihre Daten während der Wartung nach dem Kauf sicher auf.</string>
   <string name="miui_mine_repair_mode_title">Wartungsmodus</string>
   <string name="miui_mine_top_bar_title">Kundendienst</string>
+  <string name="miuix_access_state_desc">Ausgewählt</string>
+  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
   <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
   <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -228,6 +230,7 @@ OPPO, Vivo, Realme und andere Marken werden in Kürze auch mit Mi Share kompatib
   <string name="miuix_appcompat_select_all">Alle wählen</string>
   <string name="miuix_appcompat_select_all_description">Alle wählen</string>
   <string name="miuix_appcompat_select_item">Elemente auswählen</string>
+  <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -285,6 +288,8 @@ OPPO, Vivo, Realme und andere Marken werden in Kürze auch mit Mi Share kompatib
   <string name="permission_privacy">Datenschutzerklärung (obligatorisch)</string>
   <string name="permission_region_version_msg"><Data>Vor der Verwendung von Dienste &amp; Feedback, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und zustimmen.</Data></string>
   <string name="permission_select_all">Alles auswählen</string>
+   <string name="public_open_feedback_service">Service öffnen</string>
+   <string name="public_welcome_use_feedback_service">Willkommen bei Service und Feedback. Wenn Sie Fragen zur Verwendung von Xiaomi-Produkten haben, können Sie im Bereich \"Service und Feedback\" Benutzer-Feedback abgeben, häufige Probleme einsehen und Anträge beim Kundendienst stellen.</string>
   <string name="permission_storage">Speicher</string>
   <string name="permission_storage_introduce">Zum Speichern von Elementen auf Ihrem Gerät</string>
   <string name="permission_user_protocol">Nutzervereinbarung (obligatorisch)</string>
