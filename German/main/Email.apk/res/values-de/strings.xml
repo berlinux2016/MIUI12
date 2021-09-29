@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="copy_toast_msg">Link copied to clipboard</string>
-    <string name="fallback_menu_item_copy_link">Copy link</string>
-    <string name="fallback_menu_item_open_in_browser">Open in browser</string>
-    <string name="fallback_menu_item_share_link">Share link</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook for business (without calendar)</string>
-    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (with calendar)</string>
-    <string name="sign_in_dialog_outlook_imap">IMAP (without calendar)</string>
     <string name="gmail_invalid_tip_cancel">Verstanden</string>
     <string name="gmail_invalid_tip_confirm">Anmelden</string>
     <string name="gmail_invalid_tip_message">Entschuldigen Sie vielmals! Aufgrund der neuesten Google-Sicherheitsvereinbarung müssen Sie die Gmail-Anmeldung-Autorisierung erneut durchführen</string>
@@ -477,6 +470,7 @@
     <string name="copy">Kopieren</string>
     <string name="copy_email">E-Mail-Adresse kopieren</string>
     <string name="copy_number">Rufnummer kopieren</string>
+    <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="create_action">Neu</string>
     <string name="credit_limit_text">Kreditlimit</string>
     <string name="cur_debt">Kontostand</string>
@@ -595,6 +589,9 @@
     <string name="failed_read_phone_state_permission">Zugriff auf Gerätestatus erlauben</string>
     <string name="failed_read_write_calendar_permission">Zugriff auf Kalender ist eingeschränkt</string>
     <string name="failed_read_write_contacts_permission">Zugriff auf Kontakte ist eingeschränkt</string>
+    <string name="fallback_menu_item_copy_link">Link kopieren</string>
+    <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
+    <string name="fallback_menu_item_share_link">Link teilen</string>
     <string name="feedback">Feedback senden</string>
     <string name="feedback_body">Nachricht</string>
     <string name="feedback_sent">Danke für Ihr Feedback</string>
@@ -1531,6 +1528,9 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
     <string name="show_more_attachment">Weitere Anhänge</string>
     <string name="show_password">Passwort anzeigen</string>
     <string name="show_server_cet">Zertificat anzeigen</string>
+    <string name="sign_in_dialog_outlook_enterprise">Outlook for Business (ohne Kalender)</string>
+    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (mit Kalender)</string>
+    <string name="sign_in_dialog_outlook_imap">IMAP (ohne Kalender)</string>
     <string name="sign_in_graph_error">Sie können sich nur dann mit den Protokollen IMAP oder EXCHANGE anmelden, wenn Ihre Firma die allgemeine Serverkonfiguration nicht geändert hat. Wenn Ihre Serveradresse von der Firma angepasst wurde oder die entsprechenden Protokolle deaktiviert sind, melden Sie sich mit dem neuen Protokoll von Microsoft an.</string>
     <string name="sign_in_no_useful_provider_error">Protokollkonfigurationen von Microsoft nicht abrufbar. Ein anderes Protokoll verwenden oder das Protokoll von Microsoft aktualisieren.</string>
     <string name="signature_black_shark">Gesendet von meinem Blackshark Telefon</string>
@@ -1783,8 +1783,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
     <string name="xiaomi_auth_toastbar">Anmelden, um Ihr Gerät zu autorisieren</string>
     <string name="xiaomi_email">E-Mail</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s neue Version</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
     <string name="xiaomi_under_certification">Autorisieren…</string>
     <string name="yes">Ja</string>
     <string name="yesterday">Gestern</string>
