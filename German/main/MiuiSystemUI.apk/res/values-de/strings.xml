@@ -494,7 +494,7 @@ In %d Sekunden erneut versuchen."</string>
     <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff) %1$s</string>
     <string name="bluetooth_connecting">Verbinden…</string>
     <string name="bluetooth_disable_absolute_volume">Absolute Volume deaktivieren</string>
-    <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die Bluetooth Absolute Volume-Funktion, wenn es bei Remote-Geräten zu Lautstärkeproblemen kommt, wie z. B. bei unzulässig hoher Lautstärke oder mangelnder Kontrolle.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Absolute Lautstärke für Bluetooth deaktivieren im Falle von Lautstärkeproblemen mit Remote-Geräten, wie z. B. inakzeptabel laute Lautstärke oder fehlende Kontrollmöglichkeit.</string>
     <string name="bluetooth_disconnected">Getrennt</string>
     <string name="bluetooth_disconnecting">Trennen…</string>
     <string name="bluetooth_dun_profile_summary_connected">Mit DFÜ-Server verbunden</string>
