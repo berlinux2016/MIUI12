@@ -29,12 +29,12 @@
     <string name="accessibility_manual_zen_more_time">Mehr Zeit</string>
     <string name="accessibility_no_calling">Keine Anrufe</string>
     <string name="accessibility_no_data">Keine Daten</string>
-    <string name="accessibility_no_phone">Kein Telefon</string>
+    <string name="accessibility_no_phone">Keine Telefonie</string>
     <string name="accessibility_no_wifi">WLAN getrennt</string>
-    <string name="accessibility_phone_one_bar">Telefonieren 1 Balken</string>
-    <string name="accessibility_phone_signal_full">Telefonieren volles Signal</string>
-    <string name="accessibility_phone_three_bars">Telefonieren 3 Balken</string>
-    <string name="accessibility_phone_two_bars">Telefonieren 2 Balken</string>
+    <string name="accessibility_phone_one_bar">Telefonie 1 Balken</string>
+    <string name="accessibility_phone_signal_full">Telefonie volles Signal</string>
+    <string name="accessibility_phone_three_bars">Telefonie 3 Balken</string>
+    <string name="accessibility_phone_two_bars">Telefonie 2 Balken</string>
     <string name="accessibility_tutorial_pager">Seite %1$d von %2$d</string>
     <string name="accessibility_wifi_off">WLAN aus</string>
     <string name="accessibility_wifi_one_bar">WLAN 1 Balken</string>

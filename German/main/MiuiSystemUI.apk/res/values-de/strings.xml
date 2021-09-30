@@ -180,7 +180,7 @@
     <string name="accessibility_no_battery">Kein Akku</string>
     <string name="accessibility_no_calling">Keine Anrufe</string>
     <string name="accessibility_no_data">Keine Daten</string>
-    <string name="accessibility_no_phone">Kein Telefon</string>
+    <string name="accessibility_no_phone">Keine Telefonie</string>
     <string name="accessibility_no_signal">Kein Signal</string>
     <string name="accessibility_no_sim">Keine SIM</string>
     <string name="accessibility_no_sims">Keine SIM-Karte</string>
@@ -193,11 +193,11 @@
     <string name="accessibility_one_bar">1 Balken</string>
     <string name="accessibility_output_chooser">Ausgabegerät wechseln</string>
     <string name="accessibility_overflow_action">Alle Benachrichtigungen anzeigen</string>
-    <string name="accessibility_phone_button">Telefon</string>
-    <string name="accessibility_phone_one_bar">Telefon 1 Balken</string>
-    <string name="accessibility_phone_signal_full">Voller Telefonempfang</string>
-    <string name="accessibility_phone_three_bars">Telefon 3 Balken</string>
-    <string name="accessibility_phone_two_bars">Telefon 2 Balken</string>
+    <string name="accessibility_phone_button">Telefonie</string>
+    <string name="accessibility_phone_one_bar">Telefonie 1 Balken</string>
+    <string name="accessibility_phone_signal_full">Telefonie volles Signal</string>
+    <string name="accessibility_phone_three_bars">Telefonie 3 Balken</string>
+    <string name="accessibility_phone_two_bars">Telefonie 2 Balken</string>
     <string name="accessibility_qs_edit_add_tile_label">%1$s. 2x tippen zum Hinzufügen.</string>
     <string name="accessibility_qs_edit_move_tile">%1$s verschieben</string>
     <string name="accessibility_qs_edit_position_label">Position %1$d. 2x tippen zum Auswählen.</string>

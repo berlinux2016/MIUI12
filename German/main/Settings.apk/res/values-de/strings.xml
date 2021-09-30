@@ -60,6 +60,7 @@
     <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
     <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi-Konto an</string>
     <string name="access_point_names">Zugangspunktnamen</string>
+    <string name="accessibility_audio_adjustment_title">Audio-Anpassung</string>
     <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
     <string name="accessibility_autoclick_default_title">Aus</string>
     <string name="accessibility_autoclick_delay_preference_title">Vor dem Tippen verzögern</string>
@@ -75,15 +76,31 @@
     <string name="accessibility_autoclick_short_title">Kurz</string>
     <string name="accessibility_autoclick_shorter_desc">Kürzer</string>
     <string name="accessibility_back">Zurück</string>
+    <string name="accessibility_banner_message_dismiss">Verwerfen</string>
+    <string name="accessibility_button_description">"Eingabehilfen können von jedem Bildschirm aus schnell genutzt werden.
+
+Gehen Sie dazu zu den Eingabehilfeneinstellungen und wählen Sie eine Funktion. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfentaste aus."</string>
+    <string name="accessibility_button_fade_summary">Blendet nach ein paar Sekunden aus, damit man den Bildschirm besser sehen kann</string>
+    <string name="accessibility_button_fade_title">Ausblenden bei Nichtgebrauch</string>
     <string name="accessibility_button_gesture_description">"Barrierefreie Funktionen sind von jedem Bildschirm aus schnell zugänglich.
 
 Gehen Sie zu den Eingabehilfen-Einstellungen und wählen Sie eine Funktion aus. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfetaste.
 
 Um stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wechseln Sie zur 2- oder 3-Tasten-Navigation."</string>
-
+    <string name="accessibility_button_gesture_title">Eingabehilfentaste &amp; -geste</string>
+    <string name="accessibility_button_high_label">Nicht transparent</string>
+    <string name="accessibility_button_intro">Eingabehilfentaste verwenden. Die Geste ist bei der 3-Tasten-Navigation nicht verfügbar.</string>
+    <string name="accessibility_button_location_title">Standort</string>
+    <string name="accessibility_button_opacity_title">Durchsichtigkeit bei Nichtgebrauch</string>
+    <string name="accessibility_button_or_gesture_title">Taste oder Geste verwenden</string>
+    <string name="accessibility_button_size_title">Größe</string>
+    <string name="accessibility_button_summary">Schnell auf Eingabehilfen zugreifen</string>
+    <string name="accessibility_button_title">Eingabehilfentaste</string>
     <string name="accessibility_caption_master_switch_summary">Nur für unterstützte Apps</string>
     <string name="accessibility_caption_master_switch_title">Untertitel verwenden</string>
     <string name="accessibility_caption_preference_summary">Nicht alle Apps unterstützen diese Untertiteleinstellungen</string>
+    <string name="accessibility_caption_primary_switch_summary">Nur für unterstützte Apps</string>
+    <string name="accessibility_caption_primary_switch_title">Untertitel anzeigen</string>
     <string name="accessibility_captioning_title">Untertitel</string>
     <string name="accessibility_category_personal">Persönliche Profilkonten</string>
     <string name="accessibility_category_work">Arbeitsprofilkonten - %s</string>
@@ -94,6 +111,11 @@ Um stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wech
 Nicht alle Apps unterstützen diese Einstellung."</string>
     <string name="accessibility_control_timeout_preference_title">Zeit zum Handeln</string>
     <string name="accessibility_daltonizer_master_switch_title">Farbkorrektur verwenden</string>
+    <string name="accessibility_daltonizer_primary_switch_title">Farbkorrektur verwenden</string>
+    <string name="accessibility_data_one_bar">Daten 1 Balken</string>
+    <string name="accessibility_data_signal_full">Daten volles Signal</string>
+    <string name="accessibility_data_three_bars">Daten 3 Balken</string>
+    <string name="accessibility_data_two_bars">Daten 2 Balken</string>
     <string name="accessibility_description_state_stopped">Dieser Dienst ist fehlerhaft.</string>
     <string name="accessibility_dialog_button_allow">Zustimmen</string>
     <string name="accessibility_dialog_button_cancel">Abbrechen</string>
@@ -106,6 +128,7 @@ Nicht alle Apps unterstützen diese Einstellung."</string>
     <string name="accessibility_display_inversion_switch_title">Farbumkehr verwenden</string>
     <string name="accessibility_display_title">Bildschirm</string>
     <string name="accessibility_enable">Eingabehilfen</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet getrennt</string>
     <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Firma nicht erlaubt</string>
     <string name="accessibility_feature_state_off">Aus</string>
     <string name="accessibility_feature_state_on">An</string>
@@ -133,11 +156,22 @@ verknüpfung"</string>
     <string name="accessibility_magnification_area_settings_full_screen">Gesamten Bildschirm vergrößern</string>
     <string name="accessibility_magnification_area_settings_full_screen_summary">Vollbild</string>
     <string name="accessibility_magnification_area_settings_message">Wählen Sie den/die Vergrößerungsbereich(e), den/die Sie bei der Vergrößerung des Bildschirms verwenden möchten</string>
+    <string name="accessibility_magnification_area_settings_mode_switch_summary">Umschalttaste drücken, um zwischen beiden Optionen zu wechseln</string>
     <string name="accessibility_magnification_area_settings_window_screen">Bildschirmteil vergrößern</string>
     <string name="accessibility_magnification_area_settings_window_screen_summary">Bildschirmteil</string>
     <string name="accessibility_magnification_enable_mode_title">Vergrößerung aktivieren</string>
+    <string name="accessibility_magnification_mode_dialog_option_full_screen">Vollbildschirm vergrößern</string>
+    <string name="accessibility_magnification_mode_dialog_option_switch">Umschalten zwischen Voll- und Teilbildschirm</string>
+    <string name="accessibility_magnification_mode_dialog_option_window">Teilbildschirm vergrößern</string>
+    <string name="accessibility_magnification_mode_dialog_title">Wählen, wie vergrößert werden soll</string>
     <string name="accessibility_magnification_mode_title">Vergrößerungsbereich</string>
     <string name="accessibility_magnification_service_settings_title">Vergrößerungseinstellungen</string>
+    <string name="accessibility_magnification_switch_shortcut_message">"Vergrößerung des Teilbildschirms durch Dreifach-Tipp verursacht Verzögerungen beim Tippen und anderen Dingen.
+
+Die Eingabehilfentaste schwebt auf Ihrem Bildschirm über anderen Apps. Antippen zum Vergrößern."</string>
+    <string name="accessibility_magnification_switch_shortcut_negative_button">Dreifach-Tipp verwenden</string>
+    <string name="accessibility_magnification_switch_shortcut_positive_button">Auf Eingabehilfentaste umschalten</string>
+    <string name="accessibility_magnification_switch_shortcut_title">Auf Eingabehilfentaste umschalten?</string>
     <string name="accessibility_manual_zen_less_time">Weniger Zeit</string>
     <string name="accessibility_manual_zen_more_time">Mehr Zeit</string>
     <string name="accessibility_menu_description">"Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.
@@ -147,12 +181,19 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
     <string name="accessibility_menu_service_name">Menü Eingabehilfen</string>
     <string name="accessibility_menu_summary">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</string>
     <string name="accessibility_more_settings">Weitere Einstellungen</string>
+    <string name="accessibility_no_calling">Keine Anrufe</string>
+    <string name="accessibility_no_data">Keine Daten</string>
+    <string name="accessibility_no_phone">Keine Telefonie</string>
     <string name="accessibility_no_service_selected">Kein Dienst gewählt</string>
     <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
     <string name="accessibility_no_wifi">WLAN getrennt</string>
     <string name="accessibility_notification_vibration_title">"Klingeln &amp; vibrieren
 bei Benachrichtigung"</string>
     <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
+    <string name="accessibility_phone_one_bar">Telefonie 1 Balken</string>
+    <string name="accessibility_phone_signal_full">Telefonie volles Signal</string>
+    <string name="accessibility_phone_three_bars">Telefonie 3 Balken</string>
+    <string name="accessibility_phone_two_bars">Telefonie 2 Balken</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Power-Taste beendet Anruf</string>
     <string name="accessibility_preference_magnification_summary">Bildschirm vergrößern</string>
     <string name="accessibility_ring_vibration_title">Klingelvibration</string>
@@ -193,6 +234,8 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="accessibility_service_default_description">Keine Beschreibung verfügbar</string>
     <string name="accessibility_service_master_open_title">%1$s öffnen</string>
     <string name="accessibility_service_master_switch_title">Dienst verwenden</string>
+    <string name="accessibility_service_primary_open_title">%1$s öffnen</string>
+    <string name="accessibility_service_primary_switch_title">%1$s verwenden</string>
     <string name="accessibility_service_screen_control_description">Alle Inhalte auf dem Bildschirm können gelesen und Inhalte über andere Apps angezeigt werden.</string>
     <string name="accessibility_service_screen_control_title">Bildschirm anzeigen und steuern</string>
     <string name="accessibility_service_warning">%1$s fordert die volle Kontrolle über dieses Gerät. Der Dienst kann den Bildschirm lesen und im Namen von Benutzern mit der Eingabehilfe handeln. Diese Kontrollstufe ist für die meisten Apps nicht geeignet.</string>
@@ -221,10 +264,12 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
     <string name="accessibility_shortcut_edit_dialog_title_advance">Erweitert</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Lautstärketasten halten</string>
     <string name="accessibility_shortcut_edit_dialog_title_software">Eingabehilfentaste antippen</string>
+    <string name="accessibility_shortcut_edit_dialog_title_software_by_gesture">Eingabehilfengeste verwenden</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Mit 2 Fingern hochwischen</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Mit 3 Fingern hochwischen</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Bildschirm dreifach antippen</string>
     <string name="accessibility_shortcut_edit_summary_software">Eingabehilfentaste</string>
+    <string name="accessibility_shortcut_edit_summary_software_gesture">Eingabehilfengeste</string>
     <string name="accessibility_shortcut_hardware_keyword">Lautstärketasten halten</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Am Sperrbildschirm erlauben</string>
     <string name="accessibility_shortcut_service_title">Verknüpfungsdienst</string>
@@ -235,6 +280,7 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
     <string name="accessibility_shortcut_type_software">Eingabehilfentaste</string>
     <string name="accessibility_shortcut_type_software_gesture">2-Finger-Hochwischen von unten</string>
     <string name="accessibility_shortcut_type_triple_tap">Bildschirm dreifach antippen</string>
+    <string name="accessibility_shortcuts_settings_title">Eingabehilfen-Verknüpfungen</string>
     <string name="accessibility_summary_shortcut_disabled">Aus</string>
     <string name="accessibility_summary_shortcut_enabled">Verknüpfung an</string>
     <string name="accessibility_summary_source">Zur Verfügung gestellt von %s</string>
@@ -245,6 +291,9 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
     <string name="accessibility_sync_enabled">Synchronisation an</string>
     <string name="accessibility_sync_error">Synchronisationsfehler</string>
     <string name="accessibility_sync_in_progress">Synchronisiert jetzt</string>
+    <string name="accessibility_system_controls_title">Systemsteuerung</string>
+    <string name="accessibility_tap_assistance_title">Zeitsteuerung</string>
+    <string name="accessibility_text_and_display_title">Text und Anzeige</string>
     <string name="accessibility_timeout_10secs">10 Sekunden</string>
     <string name="accessibility_timeout_1min">1 Minute</string>
     <string name="accessibility_timeout_2mins">2 Minuten</string>
@@ -258,15 +307,22 @@ Um zwischen Funktionen zu wechseln, mit 3 Fingern hochwischen und halten."</stri
     <string name="accessibility_toggle_master_balance_title">Audio-Balance</string>
     <string name="accessibility_toggle_master_mono_summary">Kanäle bei der Wiedergabe von Audiodaten kombinieren</string>
     <string name="accessibility_toggle_master_mono_title">Mono-Audio</string>
+    <string name="accessibility_toggle_primary_balance_left_label">Links</string>
+    <string name="accessibility_toggle_primary_balance_right_label">Rechts</string>
+    <string name="accessibility_toggle_primary_balance_title">Audio-Balance</string>
+    <string name="accessibility_toggle_primary_mono_summary">Kanäle bei der Audiowiedergabe kombinieren</string>
+    <string name="accessibility_toggle_primary_mono_title">Mono-Audio</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Vergrößerung bei App-Übergängen aktualisieren</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Vergrößerung autom. aktualisieren</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Bildschirmvergrößerung</string>
     <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
     <string name="accessibility_touch_vibration_title">Vibration bei Berührung</string>
+    <string name="accessibility_turn_screen_darker_title">Bildschirm abdunkeln</string>
     <string name="accessibility_tutorial_dialog_button">Verstanden</string>
     <string name="accessibility_tutorial_dialog_message_button">"Um diese Funktion zu verwenden, tippen Sie auf die Eingabehilfentaste %s am unteren Bildschirmrand.
 
 Um zwischen Diensten zu wechseln, halten Sie die Eingabehilfentaste gedrückt."</string>
+    <string name="accessibility_tutorial_dialog_message_floating_button">Um diese Funktion zu nutzen, tippen Sie auf die Eingabehilfentaste auf Ihrem Bildschirm.</string>
     <string name="accessibility_tutorial_dialog_message_gesture">"Um diese Funktion zu verwenden, wischen Sie vom unteren Bildschirmrand mit 2 Fingern hoch.
 
 Um zwischen Funktionen zu wechseln, mit 2 Fingern hochwischen und halten."</string>
@@ -349,6 +405,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="action_drag_label_remove">Sprache entfernen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activating">Aktivieren…</string>
+    <string name="active">Aktiv</string>
     <string name="active_device_admin_msg">Geräteadministrator</string>
     <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
     <string name="activity_check_context">Ihr Gerät versucht gerade, eine Internetverbindung herzustellen. Dieser Prozess kann länger als erwartet dauern, wenn Sie mobile Daten verwenden. Sie können stattdessen zurückgehen und eine WLAN-Verbindung herstellen oder warten, bis die mobile Datenverbindung hergestellt ist.</string>
@@ -360,11 +417,17 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="activity_title_permissions_manager">Rechte</string>
     <string name="activity_title_power_manager">Stromsparen;Akku sparen</string>
     <string name="ad_service">Werbedienstleistungen</string>
+    <string name="adaptive_battery_main_switch_title">Adaptiven Akku verwenden</string>
+    <string name="adaptive_brightness_main_switch_title">Adaptive Helligkeit verwenden</string>
+    <string name="adaptive_connectivity_summary">Verlängert die Akkulaufzeit und verbessert die Geräteleistung durch automatische Verwaltung der Netzwerkverbindungen</string>
     <string name="adaptive_connectivity_switch_off">Aus</string>
     <string name="adaptive_connectivity_switch_on">Ein</string>
+    <string name="adaptive_connectivity_title">Adaptive Konnektivität</string>
+    <string name="adaptive_sleep_camera_lock_summary">Kamera muss für Screen Attention entsperrt sein</string>
     <string name="adaptive_sleep_contextual_slice_summary">Bildschirm beim Betrachten eingeschaltet lassen</string>
     <string name="adaptive_sleep_contextual_slice_title">Bildschirm-Aufmerksamkeit einschalten</string>
     <string name="adaptive_sleep_description">Verhindert, dass sich Ihr Bildschirm ausschaltet, wenn Sie ihn sich ansehen</string>
+    <string name="adaptive_sleep_manage_permission_button">Berechtigungen verwalten</string>
     <string name="adaptive_sleep_privacy">Bildschirmwahrnehmung verwendet die Frontkamera, um zu sehen, ob jemand auf den Bildschirm schaut. Es funktioniert auf dem Gerät, und Bilder werden niemals gespeichert oder an Google gesendet.</string>
     <string name="adaptive_sleep_summary_no_permission">Tippen, um Berechtigungen für Gerätepersonalisierungsdienste zu verwalten</string>
     <string name="adaptive_sleep_summary_off">Aus</string>
@@ -408,6 +471,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="add_account_label">Konto hinzufügen</string>
     <string name="add_auto_startup_application">Autostart-Apps hinzufügen</string>
     <string name="add_back_fingerprint_instruction_msg">Platzieren Sie Ihren Finger auf dem Sensor</string>
+    <string name="add_broadcast_audio_source">Rundfunk-Audioquelle hinzufügen</string>
     <string name="add_broadsize_fingerprint_instruction_msg">Fingerabdrucksensor befindet sich am rechten Rand Ihres Gerätes</string>
     <string name="add_device_admin">Aktivieren</string>
     <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
@@ -434,11 +498,16 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="add_front_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Home-Taste Ihres Geräts</string>
     <string name="add_new">Hinzufügen</string>
     <string name="add_one_text_app_name_once">Sie können jeweils ein Paket hinzufügen</string>
+    <string name="add_rule">Regeln hinzufügen</string>
+    <string name="add_source_button_text">Rundfunkquelle hinzufügen</string>
+    <string name="add_source_group">Rundfunkquelle zur Gruppe hinzufügen</string>
     <string name="add_text_app_name">Test-App-Paket hinzufügen</string>
     <string name="add_text_app_name_here">Paketname eingeben</string>
     <string name="add_text_app_package_name">Test-App-Paket hinzufügen</string>
-    <string name="add_rule">Regeln hinzufügen</string>
+    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>
     <string name="add_virtual_keyboard">Tastaturen verwalten</string>
+    <string name="added_sources_dashboard_title">Rundfunkquellen hinzugefügt</string>
+    <string name="added_sources_title">Rundfunkquellen</string>
     <string name="adding_profile_owner_warning">Wenn Sie weitermachen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugehörige Daten neben Ihren persönlichen Daten speichern kann. Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu überwachen und zu verwalten, die mit diesem Benutzerkonto verknüpft sind, inkl. Netzwerkaktivität und Standortinformationen Ihres Geräts.</string>
     <string name="additional_battery_info">Verbrauchswarnungen</string>
     <string name="additional_permissions">Weitere Berechtigungen</string>
@@ -451,12 +520,16 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="adjust_temperature_title">Farbtemperatur</string>
     <string name="admin_device_owner_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Gerät verknüpft sind, inkl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts.</string>
     <string name="admin_disabled_other_options">Weitere Optionen sind von Ihrem Administrator deaktiviert</string>
+    <string name="admin_financed_message">Ihr Geräteadministrator kann auf die mit diesem Gerät verbundenen Daten zugreifen, Apps verwalten und die Geräteeinstellungen ändern.</string>
     <string name="admin_more_details">Mehr Details</string>
     <string name="admin_profile_owner_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Arbeitsprofil verknüpft sind, inkl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts</string>
     <string name="admin_profile_owner_user_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Benutzer verknüpft sind, inkl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts</string>
     <string name="admin_support_more_info">Mehr Details</string>
     <string name="advanced_apps">Erweiterte Einstellungen</string>
     <string name="advanced_battery_graph_subtext">Schätzung für verbleibende Akkuladung basiert auf der Nutzung Ihres Geräts</string>
+    <string name="advanced_battery_preference_summary">Verbrauch seit der letzten vollen Ladung anzeigen</string>
+    <string name="advanced_battery_preference_summary_with_hours">Verbrauch der letzten 24 Stunden anzeigen</string>
+    <string name="advanced_battery_preference_title">Akkuverbrauch</string>
     <string name="advanced_battery_title">Erweiterter Akkuverbrauch</string>
     <string name="advanced_gesture">Benutzerdefinierte Gesten</string>
     <string name="advanced_screen_paper_mode_title">Lesemodus</string>
@@ -499,6 +572,10 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="alarm_template_far">um %1$s</string>
     <string name="alarm_volume_option_title">Wecker</string>
     <string name="alarm_volume_title">Wecker</string>
+    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Alarme zu setzen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Alarme und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
+    <string name="alarms_and_reminders_label">Alarme und Erinnerungen</string>
+    <string name="alarms_and_reminders_switch_title">Einstellen von Alarmen und Erinnerungen zulassen</string>
+    <string name="alarms_and_reminders_title">Alarme &amp; Erinnerungen</string>
     <string name="alert_button_agree_and_continue">Erlauben</string>
     <string name="alert_button_deny">Ablehnen</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite bittet um Erlaubnis, eine Sicherung auf einem Computer zu erstellen. Erlauben?</string>
@@ -511,6 +588,8 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="alert_show_screensaver_when_not_charging_title">Akkuverbrauch</string>
     <string name="alert_title_backup_to_miasist">Sichern von Elementen mit Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Elemente auf Ihrem Telefon wiederherstellen?</string>
+    <string name="all_apps">Alle Apps</string>
+    <string name="all_network_unavailable">Keine Netzwerke verfügbar</string>
     <string name="all_volume_title">Lautstärke</string>
     <string name="allow">Zulassen</string>
     <string name="allow_all_rotations_title">Alle Drehungen zulassen</string>
@@ -540,10 +619,13 @@ benachrichtigungen erlauben"</string>
     <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
     <string name="always">Immer</string>
     <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf deren Daten erlaubt</string>
+    <string name="always_on">Immer an</string>
     <string name="always_running">Immer in Betrieb (%s)</string>
     <string name="always_style">Immer</string>
     <string name="amber_alerts_summary">Erhalten Sie Meldungen über Kindesentführungen</string>
     <string name="amber_alerts_title">AMBER-Warnmeldungen</string>
+    <string name="ambient_camera_battery_saver_off">Stromsparen ausschalten</string>
+    <string name="ambient_camera_summary_battery_saver_on">Temporär deaktiviert durch Stromsparen</string>
     <string name="ambient_display_category_triggers">Wann zeigen</string>
     <string name="ambient_display_pickup_summary">Um Zeit, Benachrichtigungen und andere Infos zu prüfen, heben Sie Ihr Telefon hoch</string>
     <string name="ambient_display_pickup_title">Anheben, um das Telefon zu prüfen</string>
@@ -593,6 +675,7 @@ benachrichtigungen erlauben"</string>
     <string name="apn_mms_proxy">MMS-Proxy</string>
     <string name="apn_new">Neuer APN</string>
     <string name="apn_not_set">Nicht festgelegt</string>
+    <string name="apn_not_set_for_mvno">Nicht festgelegt</string>
     <string name="apn_password">Passwort</string>
     <string name="apn_ppp_number">APN-PPP-Rufnummer</string>
     <string name="apn_protocol">APN-Protokoll</string>
@@ -629,11 +712,20 @@ benachrichtigungen erlauben"</string>
     <string name="app_install_location_summary">Bevorzugten Installationspfad für neue Apps ändern</string>
     <string name="app_install_location_title">Bevorzugter Installationspfad</string>
     <string name="app_invisible">Unsichtbare Apps</string>
+    <string name="app_launch_add_link">Link hinzufügen</string>
+    <string name="app_launch_checking_links_title">Andere unterstützte Links prüfen…</string>
+    <string name="app_launch_dialog_cancel">Abbrechen</string>
     <string name="app_launch_domain_links_title">Links zum Öffnen</string>
+    <string name="app_launch_footer">Eine App kann Links prüfen, um sie automatisch in der App zu öffnen.</string>
+    <string name="app_launch_links_category">Links zum Öffnen in dieser App</string>
     <string name="app_launch_open_domain_urls_summary">Ohne Nachfragen öffnen</string>
     <string name="app_launch_open_domain_urls_title">Unterstützte Links öffnen</string>
     <string name="app_launch_other_defaults_title">Andere Standardeinstellungen</string>
     <string name="app_launch_supported_domain_urls_title">Unterstützte Links</string>
+    <string name="app_launch_supported_links_add">Hinzufügen</string>
+    <string name="app_launch_supported_links_subtext">Wird in %s geöffnet</string>
+    <string name="app_launch_top_intro_message">Öffnen von Weblinks in dieser App zulassen</string>
+    <string name="app_launch_verified_links_info_description">Liste verifizierter Links anzeigen</string>
     <string name="app_link_open_always">Öffnen</string>
     <string name="app_link_open_ask">Jedes Mal nachfragen</string>
     <string name="app_link_open_never">Nicht öffnen</string>
@@ -647,6 +739,7 @@ benachrichtigungen erlauben"</string>
     <string name="app_not_found_dlg_text">App wurde nicht in der Liste der installierten Apps gefunden</string>
     <string name="app_notification_block_summary">Diese Benachrichtigungen niemals anzeigen</string>
     <string name="app_notification_block_title">Alle blockieren</string>
+    <string name="app_notification_field">App-Einstellungen</string>
     <string name="app_notification_field_summary">Benachrichtigungen aus einzelnen Apps steuern</string>
     <string name="app_notification_importance_title">Wichtigkeit</string>
     <string name="app_notification_listing_summary_zero">Für alle Apps eingeschaltet</string>
@@ -678,6 +771,8 @@ benachrichtigungen erlauben"</string>
     <string name="app_permissions_group_summary" formatted="false">%d von %d Apps erlaubt</string>
     <string name="app_permissions_summary">Apps nutzen %1$s</string>
     <string name="app_permissions_summary_more">Apps, die %1$s verwenden, und mehr</string>
+    <string name="app_pinning_intro">Apps anheften erlaubt Ihnen, die aktuelle App so lange anzuzeigen, bis Sie die Anheftung aufheben. Diese Funktion kann z. B. verwendet werden, um einen vertrauenswürdigen Freund ein bestimmtes Spiel spielen zu lassen.</string>
+    <string name="app_pinning_main_switch_title">Apps anheften verwenden</string>
     <string name="app_process_limit_title">Hintergrundprozesslimit</string>
     <string name="app_restrictions_custom_label">App-Beschränkungen festlegen</string>
     <string name="app_sees_restricted_accounts">Diese App darf auf Ihre Konten zugreifen</string>
@@ -688,8 +783,8 @@ benachrichtigungen erlauben"</string>
     <string name="app_switch_key">Zuletzt verwendet</string>
     <string name="app_uninstall_sounds_enable_title">Ton beim Apps deinstallieren abspielen</string>
     <string name="app_usage_cycle">Datennutzungszyklus der App</string>
-    <string name="app_wifi">WLAN</string>
     <string name="app_usage_preference">App-Nutzungseinstellungen</string>
+    <string name="app_wifi">WLAN</string>
     <string name="application_forbid_auto_startup">%s das Starten im Hintergrund verweigern</string>
     <string name="application_info_label">App-Info</string>
     <string name="application_item_already_permission">Erlaubt</string>
@@ -730,6 +825,9 @@ benachrichtigungen erlauben"</string>
     <string name="assist_footer">Assistenten können Ihnen helfen, indem Sie auf dem Bildschirm angezeigte Inhalte verarbeiten. Einige Apps unterstützen sowohl den Launcher als auch die Spracheingabe, um Sie zu unterstützen.</string>
     <string name="assist_gesture_sensitivity_title">Empfindlichkeit</string>
     <string name="assist_gesture_title">Hilfsgeste</string>
+    <string name="assistant_corner_gesture_summary">Von einer unteren Ecke nach oben wischen, um die digitale Assistenten-App aufzurufen</string>
+    <string name="assistant_corner_gesture_title">Wischen zum Aufrufen des Assistenten</string>
+    <string name="assistant_gesture_category_title">Digitaler Assistent</string>
     <string name="assistant_security_warning">Assistent kann Informationen über Apps lesen, die auf Ihrem System verwendet werden, inkl. Informationen, die auf Ihrem Bildschirm oder innerhalb der Apps sichtbar sind.</string>
     <string name="assistant_security_warning_agree">Zustimmen</string>
     <string name="assistant_security_warning_disagree">Ablehnen</string>
@@ -743,6 +841,10 @@ benachrichtigungen erlauben"</string>
     <string name="asst_capability_prioritizer_title">Benachrichtigungsprio anpassbar</string>
     <string name="asst_capability_ranking_summary">Benachrichtigungen automatisch nach Relevanz einstufen</string>
     <string name="asst_capability_ranking_title">Adaptive Benachrichtigungsreihenfolge</string>
+    <string name="asst_feedback_indicator_summary">Anpassungen von Benachrichtigungen und die Option anzeigen, dem System Feedback zu geben</string>
+    <string name="asst_feedback_indicator_title">Adaptives Benachrichtigungs-Feedback</string>
+    <string name="asst_importance_reset_summary">Vom Benutzer geänderte Wichtigkeitseinstellungen zurücksetzen und dem Benachrichtigungsassistenten erlauben, Prioritäten zu setzen</string>
+    <string name="asst_importance_reset_title">Wichtigkeit der Benachrichtigung zurücksetzen</string>
     <string name="attempt_other_network">Netzwerk wechseln</string>
     <string name="audio_and_captions_category_title">Audio &amp; Bildschirmtext</string>
     <string name="audio_files_title">Audiodateien</string>
@@ -795,6 +897,7 @@ benachrichtigungen erlauben"</string>
     <string name="auto_clean_summary">Ein 30-Sekunden-Audio abspielen, um den Lautsprecher zu reinigen</string>
     <string name="auto_clean_title">Lautsprecher reinigen</string>
     <string name="auto_connect_disable">Auto-Verbinden ist aus</string>
+    <string name="auto_disable_broadcast_audio">Automatisches Ausschalten des Rundfunks</string>
     <string name="auto_disable_screenbuttons_ask">Nachfragen</string>
     <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
     <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
@@ -816,6 +919,15 @@ benachrichtigungen erlauben"</string>
     <string name="auto_replace_summary">Tippfehler korrigieren</string>
     <string name="auto_restore_summary">Nach der Neuinstallation einer App gesicherte Einstellungen und Daten wiederherstellen</string>
     <string name="auto_restore_title">Autom. Wiederherstellung</string>
+    <string name="auto_rotate_camera_lock_summary">Kamera muss für die Gesichtserkennung entsperrt sein</string>
+    <string name="auto_rotate_camera_lock_title">Kamera ist gesperrt</string>
+    <string name="auto_rotate_manage_permission_button">Berechtigungen verwalten</string>
+    <string name="auto_rotate_option_face_based">Ein - Gesichtsbasiert</string>
+    <string name="auto_rotate_option_off">Aus</string>
+    <string name="auto_rotate_option_on">An</string>
+    <string name="auto_rotate_settings_primary_switch_title">Autom. Drehen verwenden</string>
+    <string name="auto_rotate_summary_no_permission">Kamerazugriff ist für die Gesichtserkennung erforderlich. Tippen, um die Berechtigungen für Gerätepersonalisierungsdienste zu verwalten</string>
+    <string name="auto_rotate_switch_face_based">Gesichtserkennungsfunktion aktivieren</string>
     <string name="auto_silent">Zeitplan für Einschaltzeit</string>
     <string name="auto_startup_count">%d Apps Autostart erlaubt</string>
     <string name="auto_sync_account_summary">Daten durch Apps automatisch aktualisieren</string>
@@ -828,6 +940,7 @@ benachrichtigungen erlauben"</string>
     <string name="autofill_logging_level_title">Protokollebene</string>
     <string name="autofill_max_partitions">Max. Anfragen pro Sitzung</string>
     <string name="autofill_max_visible_datasets">Max. sichtbare Datensätze</string>
+    <string name="autofill_passwords">Passwörter</string>
     <string name="autofill_reset_developer_options">Auf Standardwerte zurücksetzen</string>
     <string name="autofill_reset_developer_options_complete">Autofill-Entwickleroptionen wurden zurückgesetzt</string>
     <string name="automatic_brightness">Automatische Helligkeit</string>
@@ -839,6 +952,7 @@ benachrichtigungen erlauben"</string>
 Zuletzt am %2$s ausgeführt"</string>
     <string name="automatic_storage_manager_master_switch_title">Speichermanager verwenden</string>
     <string name="automatic_storage_manager_preference_title">Speichermanager</string>
+    <string name="automatic_storage_manager_primary_switch_title">Speichermanager verwenden</string>
     <string name="automatic_storage_manager_settings">Speicher verwalten</string>
     <string name="automatic_storage_manager_text">Um Speicher freizugeben, entfernt der Speichermanager gesicherte Fotos und Videos von Ihrem Gerät.</string>
     <string name="automatic_system_heap_dump_summary">Automatisch Heap-Dump für das Android-System erfassen, wenn es zu viel Speicher verbraucht</string>
@@ -852,18 +966,30 @@ Zuletzt am %2$s ausgeführt"</string>
     <string name="average_used">Durchschnittlich verwendet (%)</string>
     <string name="avoid_ui">Berührung sperren</string>
     <string name="awake">Aktive Zeit des Geräts</string>
+    <string name="aware_summary_when_bedtime_on">Nicht verfügbar, weil der Schlafenszeitmodus eingeschaltet ist</string>
+    <string name="ba_high_security_level">16-stellige PIN</string>
+    <string name="ba_high_security_level_summary">Sicherheitsrisiko: niedrig</string>
+    <string name="ba_low_security_level">Unverschlüsselt</string>
+    <string name="ba_low_security_level_summary">Sicherheitsrisiko: hoch</string>
+    <string name="ba_mid_security_level">4-stellige PIN</string>
+    <string name="ba_mid_security_level_summary">Sicherheitsrisiko: mittel</string>
+    <string name="ba_security_settings">Sicherheitseinstellungen</string>
+    <string name="ba_security_summary">Passcode:</string>
+    <string name="ba_security_summary_no_pin">Kein Passcode</string>
+    <string name="ba_security_summary_pin_unavailable">Nicht verfügbar</string>
     <string name="back">Zurück</string>
     <string name="back_button">Zurück</string>
     <string name="back_double_tap">Rückseite doppelt antippen</string>
     <string name="back_key">Zurück</string>
-    <string name="back_tap">Rückseite antippen</string>
-    <string name="back_triple_tap">Rückseite dreifach antippen</string>
     <string name="back_sensitivity_dialog_message">Höhere Empfindlichkeit kann mit allen App-Gesten an den Bildschirmrändern kollidieren</string>
     <string name="back_sensitivity_dialog_title">Empfindlichkeit Rückseite</string>
+    <string name="back_tap">Rückseite antippen</string>
+    <string name="back_triple_tap">Rückseite dreifach antippen</string>
     <string name="background_activity_disabled_dialog_text">"Da diese App nicht auf Akkuoptimierung eingestellt ist, können Sie sie nicht einschränken.
 
 Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</string>
     <string name="background_activity_summary">App im Hintergrund laufen lassen</string>
+    <string name="background_activity_summary_allowlisted">Hintergrundnutzung kann nicht eingeschränkt werden</string>
     <string name="background_activity_summary_disabled">App darf nicht im Hintergrund laufen</string>
     <string name="background_activity_summary_off">Hintergrundaktivität der App ist begrenzt, wenn sie nicht genutzt wird</string>
     <string name="background_activity_summary_on">App kann im Hintergrund laufen, wenn sie nicht genutzt wird</string>
@@ -882,6 +1008,8 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
     <string name="background_traffic">Hintergrund-%s</string>
     <string name="backtouch_enable_title">Lautstärke auf der Rückseite anpassen</string>
     <string name="backup_at_once">Sichern</string>
+    <string name="backup_calling_setting_summary">Wenn %1$s nicht verfügbar ist oder Roaming betreibt, verwenden Sie Ihre mobile Daten-SIM für %1$s Anrufe.</string>
+    <string name="backup_calling_settings_title">Sicherungsanruf</string>
     <string name="backup_configure_account_default_summary">Gesicherte Daten werden zurzeit in keinem Konto gespeichert</string>
     <string name="backup_configure_account_title">Konto sichern</string>
     <string name="backup_data">Sicherungen</string>
@@ -967,8 +1095,16 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="battery_action_stop">Beenden erzwingen</string>
     <string name="battery_action_wifi">WLAN-Einstellungen</string>
     <string name="battery_active_for">Aktiv für ^1</string>
+    <string name="battery_app_usage_for">App-Verbrauch für %s</string>
+    <string name="battery_app_usage_for_past_24">App-Verbrauch der letzten 24 Std</string>
     <string name="battery_auto_restriction_summary">Erkennen, wenn Apps Akku entleeren</string>
     <string name="battery_auto_restriction_title">Akkumanager verwenden</string>
+    <string name="battery_bg_usage">^1 Hintergründe seit der letzten vollen Ladung</string>
+    <string name="battery_bg_usage_24hr">^1 Hintergründe der letzten 24 Std</string>
+    <string name="battery_bg_usage_less_minute">Hintergründe weniger als 1 Min nach der letzten vollen Ladung</string>.
+    <string name="battery_bg_usage_less_minute_24hr">Hintergründe weniger als 1 Min in den letzten 24 Std</string>
+    <string name="battery_bg_usage_less_minute_with_period">Hintergründe weniger als 1 Min seit ^1</string>
+    <string name="battery_bg_usage_with_period">^1 Hintergründe für ^2</string>
     <string name="battery_desc_apps">Akkuverbrauch durch Apps</string>
     <string name="battery_desc_bluetooth">Akkuverbrauch durch Bluetooth</string>
     <string name="battery_desc_camera">Akkuverbrauch durch Kamera</string>
@@ -1036,7 +1172,12 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="battery_light_title">LED-Ladeanzeige</string>
     <string name="battery_manager_off">Aus</string>
     <string name="battery_manager_on">An/Erkennen, wenn Apps Akku entleeren</string>
+    <string name="battery_manager_summary">Erkennen, wenn Apps Akku verbrauchen</string>
+    <string name="battery_missing_link_a11y_message">Tippen, um mehr über diesen Fehler zu erfahren</string>
+    <string name="battery_missing_message">Problem beim Ablesen der Akkuanzeige</string>
     <string name="battery_msg_unaccounted">Akkuverbrauch zeigt den ungefähren Stromverbrauch und umfasst nicht jede Ursache einer Akkuentladung. Sonstiges ist die Differenz des berechneten ungefähren Stromverbrauchs und der tatsächlich beobachteten Akkuentladung.</string>
+    <string name="battery_not_usage">Kein Verbrauch seit der letzten vollen Ladung</string>
+    <string name="battery_not_usage_24hr">Kein Verbrauch in den letzten 24 Std</string>
     <string name="battery_overall_usage">%1$s des Gesamtakkus</string>
     <string name="battery_percentage">Akku-Prozentsatz</string>
     <string name="battery_percentage_description">Akku-Prozentsatz in Statuszeile anzeigen</string>
@@ -1052,10 +1193,13 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="battery_saver_button_turn_on">Jetzt einschalten</string>
     <string name="battery_saver_desc_turn_on_auto_never">Nie automatisch einschalten</string>
     <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akku einschalten</string>
+    <string name="battery_saver_link_a11y">Erfahren Sie mehr über Stromsparen</string>
+    <string name="battery_saver_main_switch_title">Stromsparen verwenden</string>
     <string name="battery_saver_master_switch_title">Stromsparen verwenden</string>
     <string name="battery_saver_off_scheduled_summary">Wird bei %1$s eingeschaltet</string>
     <string name="battery_saver_off_summary">Aus</string>
     <string name="battery_saver_on_summary">An</string>
+    <string name="battery_saver_pref_auto_routine_summary">Wird auf der Grundlage Ihrer Routine eingeschaltet</string>
     <string name="battery_saver_schedule_settings_title">Zeitplan festlegen</string>
     <string name="battery_saver_seekbar_title">Bei %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Einschalten</string>
@@ -1091,6 +1235,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit ausschalten</string>
     <string name="battery_suggestion_title">Akkulaufzeit des Telefons verbessern</string>
     <string name="battery_summary">%1$s verwendet seit der letzten Vollladung</string>
+    <string name="battery_summary_24hr">%1$s Verbrauch in den letzten 24 Std</string>
+    <string name="battery_system_usage_for">Systemverbrauch seit %s</string>
+    <string name="battery_system_usage_for_past_24">Systemverbrauch der letzten 24 Std</string>
     <string name="battery_tip_dialog_message">"Ihr Telefon wurde mehr als üblich benutzt. Ihr Akku kann schneller leer sein als erwartet.
 
 Top %1$d Apps, die seit der Vollladung benutzt wurden:"</string>
@@ -1104,6 +1251,8 @@ Sie können Stromsparen jederzeit einschalten, wenn der Akku knapp wird."</strin
     <string name="battery_tip_early_heads_up_title">Stromsparen einschalten</string>
     <string name="battery_tip_high_usage_summary">Akku könnte bald leer sein</string>
     <string name="battery_tip_high_usage_title">Telefon mehr als üblich benutzt</string>
+    <string name="battery_tip_limited_temporarily_summary">Um Ihren Akku zu schonen. Mehr erfahren.</string>
+    <string name="battery_tip_limited_temporarily_title">Laden temporär eingeschränkt</string>
     <string name="battery_tip_low_battery_summary">Akku kann keine gute Akkulaufzeit bieten</string>
     <string name="battery_tip_low_battery_title">Niedrige Akkukapazität</string>
     <string name="battery_tip_restrict_app_dialog_message">Um Akku zu schonen, halten Sie %1$s von der Akkunutzung im Hintergrund ab. Diese App funktioniert eventuell nicht richtig und Benachrichtigungen können sich verzögern.</string>
@@ -1123,8 +1272,44 @@ Apps:
     <string name="battery_tip_unrestrict_app_dialog_message">Diese App kann Akku im Hintergrund verwenden. Ihr Akku kann schneller leer sein als erwartet.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Entfernen</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Einschränkung entfernen?</string>
+    <string name="battery_total_and_bg_usage">"^1 insgesamt • ^2 Hintergründe
+seit der letzten vollen Ladung"</string>
+    <string name="battery_total_and_bg_usage_24hr">"^1 insgesamt • ^2 Hintergründe
+der letzten 24 Std"</string>
+    <string name="battery_total_and_bg_usage_with_period">"^^1 insgesamt • ^2 Hintergründe
+seit ^3"</string>
+    <string name="battery_total_usage">^1 insgesamt seit der letzten vollen Ladung</string>
+    <string name="battery_total_usage_24hr">^1 insgesamt der letzten 24 Std</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage">"^1 insgesamt • Hintergründe weniger als 1 Min
+seit der letzten vollen Ladung"</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage_24hr">"^1 insgesamt • Hintergründe weniger als 1 Min
+in den letzten 24 Std"</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage_with_period">"^1 insgesamt • Hintergründe weniger als 1 Min
+seit ^2"</string>
+    <string name="battery_total_usage_less_minute">Insgesamt weniger als 1 Min nach der letzten vollen Ladung</string>
+    <string name="battery_total_usage_less_minute_24hr">Insgesamt weniger als 1 Min in den letzten 24 Stunden</string>
+    <string name="battery_total_usage_less_minute_with_period">Insgesamt weniger als 1 Min seit ^1</string>
+    <string name="battery_total_usage_with_period">^1 insgesamt seit ^2</string>
+    <string name="battery_usage_background_less_than_one_minute">Hintergründe: weniger als 1 Min</string>
+    <string name="battery_usage_chart">Übersicht Akkuverbrauch</string>
+    <string name="battery_usage_chart_graph_hint">Akkustand der letzten 24 Std</string>
+    <string name="battery_usage_for_background_time">Hintergründe: %s</string>
+    <string name="battery_usage_screen_footer">Akkuverbrauchsdaten sind ungefähre Angaben und messen nicht den Verbrauch, wenn das Telefon geladen wird.</string>
+    <string name="battery_usage_screen_footer_empty">Akkuverbrauchsdaten sind verfügbar, wenn Sie Ihr Telefon einige Stunden lang benutzt haben.</string>
+    <string name="battery_usage_total_less_than_one_minute">Insgesamt: weniger als 1 Min</string>
     <string name="battery_used_by">%1$s genutzt von %2$s</string>
     <string name="battery_used_for">Genutzt für ^1</string>
+    <string name="bcast_audio_sync_state">Audio-Synchronisationsstatus</string>
+    <string name="bcast_enable_audio_sync">Audio-Synchronisation</string>
+    <string name="bcast_enable_metadata_sync">Metadaten-Synchronisation</string>
+    <string name="bcast_info_update">Quellenangaben aktualisieren</string>
+    <string name="bcast_metadata_sync_state">Metadaten-Synchronisationsstatus</string>
+    <string name="bcast_sink_volume_title">Lautstärke Rundsendeanlage</string>
+    <string name="bcast_source_address">Rundfunkquellgerät</string>
+    <string name="bcast_source_enc_status">Verschlüsselungsstatus</string>
+    <string name="bcast_source_info_sid">Rundfunkquellen-ID</string>
+    <string name="bcast_update_code_summary">Fügen Sie hier den Rundfunk-Code ein und klicken Sie auf Quellenangaben aktualisieren</string>
+    <string name="bcast_update_code_title">Rundfunk-Code aktualisieren</string>
     <string name="bearer">Eigentümer</string>
     <string name="beauty_camera">Videoanrufe verschönern</string>
     <string name="beauty_camera_summary">Verschönerung für WeChat-Videoanrufe verwenden</string>
@@ -1138,10 +1323,20 @@ Apps:
     <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
     <string name="bind_xiaomi_account_dialog_summery">Sie sind dabei, %s zum Mi-Konto hinzuzufügen. Falls Sie Ihr Passwort vergessen, können Sie dieses Konto zum Zurücksetzen verwenden.</string>
     <string name="bind_xiaomi_account_success">Erfolgreich zum Mi-Konto hinzugefügt</string>
+    <string name="biometric_settings_category_ways_to_unlock">Arten der Entsperrung</string>
+    <string name="biometric_settings_category_ways_to_use">Gesicht und Fingerabdruck verwenden für</string>
     <string name="biometric_settings_hand_back_to_guardian">Telefon an deine Eltern zurückgeben</string>
+    <string name="biometric_settings_intro">Wenn Sie Gesichtsentsperrung und Fingerabdruckentsperrung einrichten, fragt Ihr Telefon nach Ihrem Fingerabdruck, wenn Sie eine Maske tragen oder sich in einem dunklen Bereich befinden.</string>
+    <string name="biometric_settings_use_biometric_for_apps">Authentifizierung in Apps</string>
+    <string name="biometric_settings_use_biometric_unlock_phone">Telefon entsperren</string>
     <string name="biometric_weak_improve_matching_title">Gesichtserkennung verbessern</string>
     <string name="biometric_weak_liveliness_summary">Augenzwinkern beim Entsperren erforderlich</string>
     <string name="biometric_weak_liveliness_title">Personenechtheitsprüfung</string>
+    <string name="biometrics_unlock_set_unlock_password">Passwort • Gesicht • Fingerabdruck</string>
+    <string name="biometrics_unlock_set_unlock_pattern">Muster • Gesicht • Fingerabdruck</string>
+    <string name="biometrics_unlock_set_unlock_pin">PIN • Gesicht • Fingerabdruck</string>
+    <string name="biometrics_unlock_skip_biometrics">Weiter ohne Gesicht oder Fingerabdruck</string>
+    <string name="biometrics_unlock_title">Sie können Ihr Telefon mit Ihrem Gesicht oder Ihrem Fingerabdruck entsperren. Aus Sicherheitsgründen erfordert diese Option eine Backup-Bildschirmsperre.</string>
     <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können System-Apps und -dienste nach wie vor Bluetooth-Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
     <string name="blob_expires_text">Läuft ab am %s</string>
     <string name="blob_id_text">Gemeinsame Daten-ID: %d</string>
