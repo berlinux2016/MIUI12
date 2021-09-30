@@ -1573,8 +1573,8 @@ Screenshot zu erstellen"</string>
     <string name="magnification_controls_title">Fenstersteuerung vergrößern</string>
     <string name="magnification_mode_switch_click_label">Umschalten</string>
     <string name="magnification_mode_switch_description">Vergrößerungsschalter</string>
-    <string name="magnification_mode_switch_state_full_screen">Ganzen Bildschirm vergrößern</string>
-    <string name="magnification_mode_switch_state_window">Bildschirmteil vergrößern</string>
+    <string name="magnification_mode_switch_state_full_screen">Vollbildschirm vergrößern</string>
+    <string name="magnification_mode_switch_state_window">Teilbildschirm vergrößern</string>
     <string name="magnification_overlay_title">Fensterüberlagerung vergrößern</string>
     <string name="magnification_window_title">Fenster vergrößern</string>
     <string name="manage_bubbles_text">Verwalten</string>
@@ -1605,7 +1605,7 @@ Screenshot zu erstellen"</string>
     <string name="media_output_dialog_add_output">Ausgänge hinzufügen</string>
     <string name="media_output_dialog_connect_failed">Verbinden nicht möglich. Erneut versuchen.</string>
     <string name="media_output_dialog_disconnected">%1$s (getrennt)</string>
-    <string name="media_output_dialog_group">Gruppieren</string>
+    <string name="media_output_dialog_group">Gruppe</string>
     <string name="media_output_dialog_multiple_devices">%1$d Geräte gewählt</string>
     <string name="media_output_dialog_pairing_new">Neues Gerät koppeln</string>
     <string name="media_output_dialog_single_device">1 Gerät gewählt</string>
@@ -1800,7 +1800,7 @@ dd.MM."</string>
     <string name="mr_controller_no_media_selected">Keine Medien gewählt</string>
     <string name="mr_controller_stop_casting">Übertragen stoppen</string>
     <string name="mr_controller_volume_slider">Lautstärkeregler</string>
-    <string name="mr_dialog_default_group_name">Gruppieren</string>
+    <string name="mr_dialog_default_group_name">Gruppe</string>
     <string name="mr_dialog_groupable_header">Gerät hinzufügen</string>
     <string name="mr_dialog_transferable_header">In einer Gruppe spielen</string>
     <string name="mr_user_route_category_name">Geräte</string>
