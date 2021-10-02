@@ -1716,7 +1716,7 @@ Immer diese Nummer verwenden"</string>
     <string name="multi_category_enable">Multikategorie aktiviert</string>
     <string name="national_disable">Nationale Nachrichten ausgeschaltet</string>
     <string name="national_enable">Nationale Nachrichten eingeschaltet</string>
-    <string name="netcheck_title">Mobilfunknetzdiagnostik</string>
+    <string name="netcheck_title">Diagnostik Mobilfunknetz</string>
     <string name="network_4G">4G (empfohlen)</string>
     <string name="network_active">Aktive Netzwerke</string>
     <string name="network_available">Verfügbare Netzwerke</string>
@@ -1783,7 +1783,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
     <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt keinen Schutz vor gefälschten Basisstationen auf Chipebene.</string>
     <string name="not_voice_capable">Sprachanruf wird nicht unterstützt</string>
     <string name="notification_channel_demo">Demo-Gerät</string>
-    <string name="notification_channel_sip_account">Deprecated SIP accounts</string>
+    <string name="notification_channel_sip_account">Veraltete SIP-Konten</string>
     <string name="notification_demo_version_text">Telefonieren oder mobile Daten nutzen nicht möglich</string>
     <string name="notification_demo_version_title">Dies ist ein Demogerät</string>
     <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
