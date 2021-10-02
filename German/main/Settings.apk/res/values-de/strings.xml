@@ -1405,7 +1405,7 @@ Gruppenmitgliedern."</string>
     <string name="bluetooth_companion_app_remove_association_confirm_button">App trennen</string>
     <string name="bluetooth_companion_app_remove_association_dialog_title">App trennen?</string>
     <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit <b>%1$s</b> stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: <b>%2$s</b></string>
-    <string name="bluetooth_connect_access_dialog_content">"%1$s möchte sich mit diesem Telefon verbinden..
+    <string name="bluetooth_connect_access_dialog_content">"%1$s möchte sich mit diesem Telefon verbinden.
 
 Sie haben sich noch nicht mit %2$s verbunden."</string>
     <string name="bluetooth_connect_access_dialog_negative">Nicht verbinden</string>
@@ -8574,7 +8574,7 @@ Durch den Wechsel wird Ihr %1$s-Dienst nicht gekündigt."</string>
     <string name="smart_forwarding_input_mdn_dialog_title">Rufnummer eingeben</string>
     <string name="smart_forwarding_input_mdn_title">Rufnummern eingeben</string>
     <string name="smart_forwarding_missing_mdn_text">Rufnummer fehlt</string>
-    <string name="smart_forwarding_ongoing_text">Einstellungen aktualisieren...</string>
+    <string name="smart_forwarding_ongoing_text">Einstellungen aktualisieren…</string>
     <string name="smart_forwarding_ongoing_title">Anrufeinstellungen</string>
     <string name="smart_forwarding_summary_disabled">Intelligente Weiterleitung deaktiviert</string>
     <string name="smart_forwarding_summary_enabled">Intelligente Weiterleitung aktiviert</string>
