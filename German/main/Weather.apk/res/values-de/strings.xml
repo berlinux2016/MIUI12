@@ -67,6 +67,7 @@
     <string name="aqi_48_hours_desc">%d-Stunden LQI-Vorhersage</string>
     <string name="aqi_5_days_desc">%d-Tage LQI-Vorhersage</string>
     <string name="aqi_alert_channel_name">LQI-Warnungen</string>
+    <string name="aqi_data_source">Unterstützt durch Colorful Clouds</string>
     <string name="aqi_desc">Luftqualität</string>
     <string name="aqi_detail_24_hours">24-Stunden-Vorhersage</string>
     <string name="aqi_detail_5_days">5-Tage-Vorhersage</string>
@@ -160,8 +161,8 @@
     <string name="daily_forecast_add_city_title">Folgen Sie dem Wetter in %1$s</string>
     <string name="daily_forecast_detail">Vorhersage</string>
     <string name="daily_forecast_detail_date">dd.MM.</string>
-    <string name="daily_forecast_no_data">"Daten wurden nicht geladen.
-Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellungen."</string>
+    <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ssz"</string>
+    <string name="daily_forecast_no_data">"Daten wurden nicht geladen.\nNach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellungen."</string>
     <string name="data_provided_by">Zur Verfügung gestellt von</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -172,6 +173,7 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
     <string name="dialog_msg_score_perfect">Prima! Bewerten Sie Wetter auch im Play Store?</string>
     <string name="dialog_title_score">Wetter bewerten</string>
     <string name="dislike_alert_dialog_title">Warum wollen Sie diesen Inhalt nicht sehen?</string>
+    <string name="dynamic_weather">Wetter</string>
     <string name="download_rsc_tips">Hintergrundaudio laden…</string>
     <string name="dynamic_weather">Wetter</string>
     <string name="early_morning">Morgen</string>
@@ -187,7 +189,6 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
     <string name="exo_controls_fastforward_description">Schnellvorlauf</string>
     <string name="exo_controls_fullscreen_description">Vollbildmodus</string>
     <string name="exo_controls_next_description">Nächster Titel</string>
-    <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_previous_description">Vorheriger Titel</string>
     <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
@@ -195,7 +196,6 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
     <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
-    <string name="exo_controls_stop_description">Stop</string>
     <string name="exo_download_completed">Herunterladen abgeschlossen</string>
     <string name="exo_download_description">Herunterladen</string>
     <string name="exo_download_downloading">Herunterladen</string>
@@ -579,7 +579,6 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
     <string name="the_forth_day">Vierter Tag</string>
     <string name="the_hksar_establishment_day">HKSAR Gründungstag</string>
     <string name="the_international_womens_day">Weltfrauentag</string>
-    <string name="the_laba_festival">Laba Festival</string>
     <string name="the_labour_day">1. Mai</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mitte-Herbst-Festival</string>
