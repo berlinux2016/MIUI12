@@ -4515,9 +4515,6 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_add_an_account">Arbeitsprofil</string>
     <string name="keywords_add_language">Sprache hinzufügen, eine Sprache hinzufügen</string>
     <string name="keywords_airplane">Flugzeug;Flugmodus;Flugzeugmodus;Flug;Flug-Modus</string>
-    <string name="keywords_airplane_safe_networks">Flugzeug, flugzeugsicheroup</string>
-    <string name="groupaudio_unpair_dialog_title">Gruppe vergessen</string>
-    <string name="keywords_accessibility">Benutzerfreundlichkeit, leichter Zugang, Unterstützung, Hilfsmittel</string>
     <string name="keywords_airplane_safe_networks">Flugzeug, flugzeugsicher, flugsicher</string>
     <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
     <string name="keywords_all_apps">Apps;Download;Anwendungen;System;App</string>
@@ -5283,7 +5280,6 @@ zugriff"</string>
     <string name="managed_profile_not_available_label">Arbeitsprofil ist noch nicht verfügbar</string>
     <string name="managed_profile_settings_title">Arbeitsprofileinstellungen</string>
     <string name="managed_user_title">Alle Arbeits-Apps</string>
-    <string name="manage_notification_access_summary">Steuern, welche Apps und Geräte Benachrichtigungen lesen können</string>
     <string name="manager_battery_usage_footer">Ändern, wie eine App Ihren Akku nutzt, kann sich auf ihre Leistung auswirken.</string>
     <string name="manager_battery_usage_footer_limited">Diese App verbraucht %1$s Akku.</string>
     <string name="manager_battery_usage_link_a11y">Mehr über die Akkuverbrauchoptionen erfahren</string>
@@ -9632,7 +9628,6 @@ Gefällt Ihnen Mi Mover?"</string>
     <string name="trans_wlan_tips_message">Während der Übertragung WLAN nicht ausschalten oder auf andere WLAN wechseln. Andernfalls kann Mi Mover keine Daten übertragen.</string>
     <string name="trans_wlan_tips_title"> WLAN nicht ausschalten</string>
     <string name="transcode_default">Annehmen, dass Apps moderne Formate unterstützen</string>
-    <string name="transcode_default">Assume apps support modern formats</string>
     <string name="transcode_disable_cache">Transcodierungs-Cache deaktivieren</string>
     <string name="transcode_enable_all">Transcodierung aktivieren</string>
     <string name="transcode_notification">Transcodierungsbenachrichtigungen anzeigen</string>
