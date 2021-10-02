@@ -1067,12 +1067,12 @@ innerhalb des Kreises befindet"</string>
     <string name="face_unlock_swipe_up_retry">Nach oben wischen, um es erneut zu versuchen</string>
     <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
     <string name="fake_cell_alert_detect_error">Das wurde nicht von einer gefälschten Basiszelle geschickt.</string>
-    <string name="feedback_alerted">Diese Benachrichtigung wurde automatisch vom System &lt;b>als Standard&lt;/b> eingestuft.</string>
-    <string name="feedback_demoted">Diese Benachrichtigung wurde automatisch &lt;b>niedriger eingestuft&lt;/b>in Ihrer Leiste.</string>
-    <string name="feedback_promoted">Diese Benachrichtigung wurde automatisch &lt;b>höher eingestuft&lt;/b>in Ihrer Leiste.</string>
+    <string name="feedback_alerted">Diese Benachrichtigung wurde automatisch vom System &lt;b>als Standard eingestuft&lt;/b>.</string>
+    <string name="feedback_demoted">Diese Benachrichtigung wurde automatisch &lt;b>als niedriger eingestuft&lt;/b> in Ihrer Leiste.</string>
+    <string name="feedback_promoted">Diese Benachrichtigung wurde automatisch &lt;b>als höher eingestuft&lt;/b> in Ihrer Leiste.</string>
     <string name="feedback_prompt">Teilen Sie dem Entwickler Ihr Feedback mit. War das richtig?</string>
     <string name="feedback_response">Danke für Ihr Feedback!</string>
-    <string name="feedback_silenced">Diese Benachrichtigung wurde automatisch vom System &lt;b>auf Stumm&lt;/b>gestellt.</string>
+    <string name="feedback_silenced">Diese Benachrichtigung wurde automatisch vom System &lt;b>als stumm eingestuft&lt;/b>.</string>
     <string name="fguest_reset_guest_confirm_button">Zurücksetzen</string>
     <string name="finger_error_single_mode">Fingerabdruckscanner im Einhandmodus verwenden nicht möglich. Einhandmodus beenden und erneut versuchen.</string>
     <string name="fingerprint_add_text">Fingerabdruckschnittstelle wurde aktualisiert. Fügen Sie Ihren Fingerabdruck erneut hinzu.</string>
