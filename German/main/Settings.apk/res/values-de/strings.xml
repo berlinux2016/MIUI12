@@ -2683,11 +2683,11 @@ Der Datenverbrauch wird von Ihrem Gerät berechnet und kann von der Abrechnung I
     <string name="data_usage_metered_auto">Automatisch</string>
     <string name="data_usage_metered_body">Wählen Sie WLAN aus, die mobile Hotspots sind. Apps können von der Nutzung dieser Netzwerke im Hintergrund eingeschränkt werden. Apps benachrichtigen Sie auch, bevor Sie diese Netzwerke für große Downloads nutzen.</string>
     <string name="data_usage_metered_mobile">Mobilfunknetze</string>
-    <string name="data_usage_metered_no">Nicht dosiert</string>
+    <string name="data_usage_metered_no">Kostenfrei</string>
     <string name="data_usage_metered_title">Mobile Hotspots</string>
     <string name="data_usage_metered_wifi">WLAN</string>
     <string name="data_usage_metered_wifi_disabled">WLAN aktivieren, um mobile Hotspots auszuwählen</string>
-    <string name="data_usage_metered_yes">Dosiert</string>
+    <string name="data_usage_metered_yes">Kostenpflichtig</string>
     <string name="data_usage_ota">Systemaktualisierungen</string>
     <string name="data_usage_other_apps">Andere Apps in Nutzung inbegriffen</string>
     <string name="data_usage_pick_cycle_day">Tag, an dem Datenverbrauchszyklus zurückgesetzt wird:</string>
@@ -10835,7 +10835,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
     <string name="wifi_menu_wps_pbc">WPS-Pushtaste</string>
     <string name="wifi_menu_wps_pin">WPS-PIN-Eingabe</string>
     <string name="wifi_menu_write_to_nfc">An NFC-Tag schreiben</string>
-    <string name="wifi_metered_label">Gemessen</string>
+    <string name="wifi_metered_label">Kostenpflichtig</string>
     <string name="wifi_metered_title">Netzwerknutzung</string>
     <string name="wifi_modify">Ändern</string>
     <string name="wifi_more">Mehr</string>
@@ -11078,7 +11078,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN herzustell
     <string name="wifi_type_approval_title">Genehmigungstyp</string>
     <string name="wifi_type_title">Typ</string>
     <string name="wifi_unchanged">(Nicht geändert)</string>
-    <string name="wifi_unmetered_label">Nicht gemessen</string>
+    <string name="wifi_unmetered_label">Kostenfrei</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - Auto-Verbindung</string>
     <string name="wifi_unsaved_network_linking_summary">Autom. Verbindungsversuche zu einer neuen WPA/WPA2-PSK 5GHz SSID mit aktuell verbundenen WPA/WPA2-PSK 2GHz SSID-Zugangsdaten auf SSID und BSSID mit teilweiser Übereinstimmung aktivieren</string>
     <string name="wifi_unspecified">Bitte wählen</string>
