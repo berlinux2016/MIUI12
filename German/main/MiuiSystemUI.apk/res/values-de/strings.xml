@@ -1904,9 +1904,9 @@ dd.MM."</string>
     <string name="notification_channel_storage">Speicher</string>
     <string name="notification_channel_summary_automatic">System bestimmt, ob diese Benachrichtigung einen Ton oder eine Vibration erzeugen soll</string>
     <string name="notification_channel_summary_automatic_alerted">&lt;b>Status:&lt;/b> Als Standard eingestuft</string>
-    <string name="notification_channel_summary_automatic_demoted">&lt;b>Status:&lt;/b> Niedriger eingetuft</string>
+    <string name="notification_channel_summary_automatic_demoted">&lt;b>Status:&lt;/b> Niedriger eingestuft</string>
     <string name="notification_channel_summary_automatic_promoted">&lt;b>Status:&lt;/b> Höher eingestuft</string>
-    <string name="notification_channel_summary_automatic_silenced">&lt;b>Status:&lt;/b> Zu Stumm eingestuft</string>
+    <string name="notification_channel_summary_automatic_silenced">&lt;b>Status:&lt;/b> Als Stumm eingestuft</string>
     <string name="notification_channel_summary_bubble">Hält Ihre Aufmerksamkeit mit einer schwebenden Verknüpfung zu diesem Inhalt aufrecht</string>
     <string name="notification_channel_summary_default">Kann je nach Telefoneinstellungen klingeln oder vibrieren</string>
     <string name="notification_channel_summary_default_with_bubbles">Kann je nach Telefoneinstellung klingeln oder vibrieren. Unterhaltungen von %1$s standardmäßig als Sprechblase.</string>
