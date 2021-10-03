@@ -91,7 +91,7 @@ Um stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wech
     <string name="accessibility_button_high_label">Nicht transparent</string>
     <string name="accessibility_button_intro">Eingabehilfentaste verwenden. Die Geste ist bei der 3-Tasten-Navigation nicht verfügbar.</string>
     <string name="accessibility_button_location_title">Standort</string>
-    <string name="accessibility_button_opacity_title">Durchsichtigkeit bei Nichtgebrauch</string>
+    <string name="accessibility_button_opacity_title">Transparenz bei Nichtgebrauch</string>
     <string name="accessibility_button_or_gesture_title">Taste oder Geste verwenden</string>
     <string name="accessibility_button_size_title">Größe</string>
     <string name="accessibility_button_summary">Schnell auf Eingabehilfen zugreifen</string>
