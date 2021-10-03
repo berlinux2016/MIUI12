@@ -104,10 +104,7 @@
     <string name="audio_ad_countdown">Werbung in %s Sek überspringen</string>
     <string name="audio_ad_pass">Werbung überspringen</string>
     <string name="audio_picker_title">Titel wählen</string>
-    <string name="auto_recommend">Automatisch (empfohlen)</string>
     <string name="auto_sound_quality">Automatisch</string>
-    <string name="auto_update">Automatisch aktualisieren</string>
-    <string name="auto_update_tip">Sie können System-Apps mit mobilen Daten aktualisieren. Dabei können zusätzliche Kosten anfallen.</string>
     <string name="asset_sync_alert_not_now">Nicht jetzt</string>
     <string name="asset_sync_network_data_alert_message">Sichern von Titeln über mobile Datenverbindung kann zusätzliche Kosten verursachen, trotzdem fortsetzen?</string>
     <string name="asset_sync_network_data_alert_title">Sie verwenden eine mobile Datenverbindung</string>
@@ -115,9 +112,6 @@
     <string name="asset_sync_network_unavailable_alert_title">Netzwerkverbindung fehlgeschlagen</string>
     <string name="asset_sync_power_alert_message">Ladegerät anschließen, um Titel zu sichern</string>
     <string name="asset_sync_power_alert_title">Akku zu schwach</string>
-    <string name="audio_ad_countdown">Werbung in %ss überspringen</string>
-    <string name="audio_ad_pass">Werbung überspringen</string>
-    <string name="audio_picker_title">Titel auswählen</string>
     <string name="auto_payment">Automatisch erneuern</string>
     <string name="auto_payment_date">Nächste Zahlung: %s</string>
     <string name="auto_recommend">Automatisch (empfohlen)</string>
@@ -383,7 +377,6 @@
     <string name="edit_playlist_info">Info Wiedergabeliste bearbeiten</string>
     <string name="empty_page_no_album">Keine Alben</string>
     <string name="empty_page_no_artist">Keine Interpreten</string>
-    <string name="enabled">Aktiviert</string>
     <string name="enable_auto_payment_fail">Aktivieren nicht möglich</string>
     <string name="enable_auto_payment_fail_message">Automatische Verlängerung wurde nicht aktiviert</string>
     <string name="enable_auto_payment_success">Automatisch verlängern</string>
@@ -391,7 +384,6 @@
     <string name="enabled">Aktiviert</string>
     <string name="enter_garbage_clean">Internen Speicher aufräumen</string>
     <string name="enjoy_hungama_pro">Hungama PRO genießen</string>
-    <string name="enter_garbage_clean">Internen Speicher bereinigen.</string>
     <string name="eq_auto">Benutzerdefiniert</string>
     <string name="eq_classical">Klassik</string>
     <string name="eq_delete">Entfernen</string>
@@ -1343,10 +1335,9 @@ Glücklich sein."</string>
     <string name="user_privacy_setting_title">Schalter umlegen, um Ihre Genehmigung zu erteilen oder zu widerrufen</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">EIN</string>
-    <string name="video_play_cellular">Ihr Gerät ist nicht mit WLAN verbunden. Mobile Daten nutzen?</string>
+    <string name="video_play_cellular">Ihr Gerät ist nicht mit WLAN verbunden. Mobile Daten verwenden?</string>
     <string name="video_replay_btn">Erneut abspielen</string>
     <string name="video_retry_btn">Erneut versuchen</string>
-    <string name="video_play_cellular">Ihr Gerät ist nicht mit WLAN verbunden. Mobile Daten verwenden?</string>
     <string name="view_album">Album anzeigen</string>
     <string name="vip_after_tomorrow_auto_renew_message">Ihr Musikabo wird übermorgen Abend automatisch verlängert.Stellen Sie sicher, dass Sie genügend Mi Coins für die Bezahlung besitzen.</string>
     <string name="vip_after_tomorrow_renew_message">Sie werden nicht mehr in hoher Audioqualität streamen können, aber einige Titel werden in Standardqualität verfügbar sein.</string>
