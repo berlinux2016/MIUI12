@@ -963,6 +963,7 @@
     <string name="privacy_authorize_revoking">Genehmigung widerrufen…</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="privacy_policy_url">https://privacy.mi.com/all/de_DE</string>
     <string name="privacy_request_desc"><Data>"Mi Music muss notwendige persönliche Daten sammeln, um Ihnen Online-Streaming-Dienste anbieten zu können. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen.
 Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen.
 Wenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung."</Data></string>
@@ -1324,6 +1325,7 @@ Glücklich sein."</string>
     <string name="upload_playlist_to_hungama_title">Synchronisieren Sie Online-Titel mit Hungama, um auf sie auf anderen Geräten, auf denen Sie Ihr Mi-Konto verwenden, zugreifen zu können.</string>
     <string name="upload_playlist_to_hungama_toast">Online-Titel werden mit Hungama synchronisiert</string>
     <string name="user_agreement">Nutzervereinbarung</string>
+    <string name="user_agreement_url">https://www.miui.com/res/doc/eula/de.html</string>
     <string name="user_playlist_plaza">Wiedergabelisten</string>
     <string name="user_privacy_dialog_negative_text">Abbrechen</string>
     <string name="user_privacy_dialog_positive_count_down_text">Widerrufen (%ss)</string>
