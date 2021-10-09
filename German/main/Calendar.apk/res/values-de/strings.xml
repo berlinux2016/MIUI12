@@ -178,6 +178,7 @@
     <string name="click_for_create_event">Tippen auf: Eintrag erstellen für %s</string>
     <string name="click_paste">Tippen zum Einfügen</string>
     <string name="click_to_share">Tippen zum Teilen</string>
+    <string name="close">Schließen</string>
     <string name="close_alarm">Ausschalten</string>
     <string name="common_google_play_services_enable_button">Aktivieren</string>
     <string name="common_google_play_services_enable_text">%1$s funktioniert nicht, wenn Sie die Google Play-Dienste nicht aktivieren.</string>
@@ -248,6 +249,7 @@
     <string name="date_jump_title">Zum Datum springen</string>
     <string name="date_pattern_mm_dd">dd.MM.</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
+    <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="date_today">" (heute)"</string>
     <string name="day">Tag</string>
     <string name="day_view_new_event_hint">Neuer Termin</string>
@@ -505,8 +507,9 @@
     <string name="guide_card_primary_text">Geburtstag eines Freundes importieren</string>
     <string name="guide_card_second_fb_text">Geburtstage Ihrer Freunde nicht verpassen</string>
     <string name="guide_card_second_text">Stapelimport, kein Geburtstag eines Freundes fehlt</string>
-    <string name="guide_card_title">Importiere Geburtstage</string>
+    <string name="guide_card_title">Geburtstage importieren</string>
     <string name="guide_setting">Folgende Infos geben, um eine genaue Menstruationsstatistik zu erhalten</string>
+    <string name="hide_menstruation_info">Menstruationsinfo ausblenden</string>
     <string name="hint_attendees">Gäste</string>
     <string name="hint_description">Beschreibung</string>
     <string name="hint_what">Bezeichnung</string>

@@ -49,8 +49,10 @@
     <string name="battery_reverse_wireless_charge_title">Kabelloses Umkehrladen</string>
     <string name="battery_value">Strom</string>
     <string name="begin_to_save_finger_data">Beginn der Speicherung der Fingerdaten</string>
+    <string name="bottom_high_speaker_title">Test unterer Hochtöner</string>
     <string name="bottom_left_high_speaker">Test unterer Hochtöner links</string>
     <string name="bottom_left_low_speaker">Test unterer Tieftöner links</string>
+    <string name="bottom_low_speaker_title">Test unterer Tieftöner</string>
     <string name="bottom_right_high_speaker">Test unterer Hochtöner rechts</string>
     <string name="bottom_right_low_speaker">Test unterer Tieftöner rechts</string>
     <string name="bt_address">Adresse:</string>
@@ -88,6 +90,7 @@ Ende Ladegerättest, bitte das Ladegerät herausziehen"</string>
     <string name="cit_accdata_sensor_check_summary">Werte für X/Y/Z-Koordinaten sollten unten stehen</string>
     <string name="cit_accdata_sensor_check_title">Beschleunigungsmesser</string>
     <string name="cit_accdata_sensor_second_screen_check_title">Zweiter Bildschirm Beschleunigungssensor</string>
+    <string name="cit_accelermeter_second_cali_title">Zweiter Kalibrierungstest Beschleunigungssensor</string>
     <string name="cit_accelermeter_sensor_cali_title">Kalibrierungstest Beschleunigungssensor</string>
     <string name="cit_accelermeter_sensor_check_summary">"Bewegen Sie das Gerät schnell in eine Richtung. X/Y/Z-Koordinatenwerte werden unten angezeigt (wenn das Gerät in Bewegung ist: X steht für links/rechts, Y für vorn/hinten, Z für oben/unten).
 Bevor Sie das Gerät kalibrieren, legen Sie es auf eine ebene Fläche."</string>
@@ -340,7 +343,8 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_gyrodata_sensor_check_summary">Werte für X/Y/Z-Koordinaten sollten unten stehen</string>
     <string name="cit_gyrodata_sensor_check_title">Gyroskop</string>
     <string name="cit_gyrodata_sensor_second_screen_check_title">Zweiter Bildschirm Gyroskop</string>
-    <string name="cit_gyroscope_sensor_cali_title">Gyroskopsensor-Kalibrierungstest</string>
+    <string name="cit_gyroscope_second_cali_title">Zweiter Kalibrierungstest Gyroskopsensor</string>
+    <string name="cit_gyroscope_sensor_cali_title">Kalibrierungstest Gyroskopsensor</string>
     <string name="cit_gyroscope_sensor_check_summary">Werte für X/Y/Z-Koordinaten sollten unten stehen</string>
     <string name="cit_gyroscope_sensor_check_title">Gyroskop</string>
     <string name="cit_hall_far">entfernt</string>
@@ -1058,8 +1062,10 @@ Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="title_bad_point">Negativer Punkt</string>
     <string name="title_extract_data">Daten extrahieren</string>
     <string name="title_open_short_pixel">ShortPixel öffnen</string>
+    <string name="top_high_speaker_title">Test oberer Hochtöner</string>
     <string name="top_left_high_speaker">Test oberer Hochtöner links</string>
     <string name="top_left_low_speaker">Test oberer Tieftöner links</string>
+    <string name="top_low_speaker_title">Test oberer Tieftöner</string>
     <string name="top_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO oben im Gerät.</string>
     <string name="top_right_high_speaker">Test oberer Hochtöner rechts</string>
     <string name="top_right_low_speaker">Test oberer Tieftöner rechts</string>
