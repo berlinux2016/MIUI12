@@ -1521,13 +1521,13 @@ Weiterhin zeigen?"</string>
     <string name="location_status">Standort teilen</string>
     <string name="location_status_content_description">%1$s teilt den Standort</string>
     <string name="lock_screen_access_to_5G">Zugriff auf 5G</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Flugmodus</string>
     <string name="lock_screen_date">EEEE, d. MMMM</string>
     <string name="lock_screen_date_12">EEEE, d. MMMM</string>
     <string name="lock_screen_date_two_lines">"EEEE
 d. MMMM"</string>
     <string name="lock_screen_date_two_lines_12">"EEEE
 d. MMMM"</string>
-    <string name="lock_screen_carrier_airplane_mode_on">Flugmodus</string>
     <string name="lock_screen_magazine_default_content">Tägliche Dosis an frischen Bildern</string>
     <string name="lock_screen_magazine_default_entry_title">Hintergrundbild-Details</string>
     <string name="lock_screen_magazine_default_title">Musik</string>
