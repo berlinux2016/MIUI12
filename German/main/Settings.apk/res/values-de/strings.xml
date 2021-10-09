@@ -7417,6 +7417,7 @@ UT Interface: %5$s"</string>
     <string name="restore_telephony_hit">Wiederherstellung startet die Telefon-App neu</string>
     <string name="restr_pin_enter_admin_pin">Admin-PIN eingeben</string>
     <string name="restrict_background_blacklisted">Hintergrunddaten ausgeschaltet</string>
+    <string name="restrict_background_blocklisted">Hintergrunddaten ausgeschaltet</string>
     <string name="restrict_bg_app">Beschränken</string>
     <string name="restrict_max_aspect_ratio_title">Diese Apps funktionieren nicht richtig im Vollbildmodus</string>
     <string name="restricted_app_detail_footer">Diese Apps haben den Akku im Hintergrund benutzt. Beschränkte Apps funktionieren evtl. nicht richtig und Benachrichtigungen können sich verzögern.</string>

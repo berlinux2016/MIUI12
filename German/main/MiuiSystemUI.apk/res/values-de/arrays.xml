@@ -426,7 +426,7 @@
         <item>Getrennt</item>
         <item>Erfolglos</item>
         <item>Blockiert</item>
-        <item>Vorübergehende schlechte Verbindung vermeiden</item>
+        <item>Temporär schlechte Verbindung vermeiden</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -440,7 +440,7 @@
         <item>Getrennt</item>
         <item>Erfolglos</item>
         <item>Blockiert</item>
-        <item>Vorübergehende schlechte Verbindung vermeiden</item>
+        <item>Temporär schlechte Verbindung vermeiden</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
