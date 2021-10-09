@@ -830,7 +830,6 @@ einstellungen"</string>
     <string name="no_network">"Netzwerkverbindung herstellen nicht möglich.
 Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
     <string name="no_network_btn">Nochmals versuchen</string>
-     <string name="revoke_confirmation_dialog_confirm">Widerrufen</string>
     <string name="no_records">Noch keine Elemente hier</string>
     <string name="no_storage">Nicht genug Speicherplatz</string>
     <string name="no_title_label">(Kein Titel)</string>
@@ -1014,6 +1013,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
     <string name="response_yes">Ja</string>
     <string name="rest_day_indication_chinese_calendar">Ausruhen</string>
     <string name="retrocession_day_tradition">Befreiungsfest</string>
+     <string name="revoke_confirmation_dialog_confirm">Widerrufen</string>
     <string name="revoke_confirmation_dialog_message">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Kalender. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und aufbewahrten persönlichen Daten werden innerhalb der von den geltenden Gesetzen vorgeschriebenen Frist gelöscht. Kalender muss die notwendigen persönlichen Daten sammeln, um Ihnen grundlegende Dienste anbieten zu können. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Verweigerung der Annahme der Dienste auf der Grundlage der gesammelten personenbezogenen Daten betrachtet.</string>
     <string name="revoke_confirmation_dialog_title">Zustimmung widerrufen</string>
     <string name="revoke_fail_message">Netzwerkverbindung nicht möglich</string>
@@ -1144,6 +1144,7 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="solar_to_lunar_chinese_calendar">Gregorianisch in Chinesisch</string>
     <string name="start_date_calculate">Berechnen</string>
+    <string name="stats_title">Statistik</string>
     <string name="storage_permission_denied">Erst Speicherzugriff zulassen</string>
     <string name="subscribe_card">Jetzt abonnieren</string>
     <string name="subscribe_card_success">Erfolgreich abonniert! Sehen Sie sich die Details auf der Startseite an.</string>
@@ -1159,8 +1160,8 @@ Netzwerkeinstellungen überprüfen und erneut versuchen."</string>
 Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
     <string name="subscribe_channel_subscribe">Abonnieren</string>
     <string name="subscribe_channel_subscribing">Abonnieren</string>
-    <string name="subscribe_failed">Abo fehlgeschlagen, Netzwerkproblem, später erneut versuchen</string>
     <string name="subscribe_channel_title">Kanal</string>
+    <string name="subscribe_failed">Abo fehlgeschlagen, Netzwerkproblem, später erneut versuchen</string>
     <string name="subscribe_text">Hinzufügen</string>
     <string name="subscribing_card">Jetzt abonnieren</string>
     <string name="subscription_service_unsupported">Abo-Dienst nicht möglich, ohne den Netzwerkberechtigungen zuzustimmen</string>
