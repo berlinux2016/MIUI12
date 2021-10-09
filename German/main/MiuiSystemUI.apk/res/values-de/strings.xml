@@ -1418,6 +1418,7 @@ Weiterhin zeigen?"</string>
     <string name="keyguard_try_fingerprint">Zum Öffnen Fingerabdruck verwenden</string>
     <string name="keyguard_unlock">Zum Entsperren hochwischen</string>
     <string name="keyguard_unlock_press">Zum Öffnen drücken</string>
+    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
     <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
     <string name="kg_face_not_recognized">Nicht erkannt</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Sie haben %1$d-mal das Telefon nicht korrekt entsperrt. Nach %2$d weiteren erfolglosen Versuchen wird das Arbeitsprofil entfernt, wodurch alle Profildaten gelöscht werden.</string>

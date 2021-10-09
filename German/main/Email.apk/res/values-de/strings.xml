@@ -1533,7 +1533,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (ohne Kalender)</string>
     <string name="sign_in_graph_error">Sie können sich nur dann mit den Protokollen IMAP oder EXCHANGE anmelden, wenn Ihre Firma die allgemeine Serverkonfiguration nicht geändert hat. Wenn Ihre Serveradresse von der Firma angepasst wurde oder die entsprechenden Protokolle deaktiviert sind, melden Sie sich mit dem neuen Protokoll von Microsoft an.</string>
     <string name="sign_in_no_useful_provider_error">Protokollkonfigurationen von Microsoft nicht abrufbar. Ein anderes Protokoll verwenden oder das Protokoll von Microsoft aktualisieren.</string>
-    <string name="signature_black_shark">Gesendet von meinem Blackshark Telefon</string>
+    <string name="signature_black_shark">Gesendet von meinem Black Shark Telefon</string>
     <string name="silent_ringtone">Lautlos</string>
     <string name="sms_not_found_tip">"Ihre Standard-SMS-App wurde nicht geöffnet. 
 App öffnen und Bestätigungs-SMS manuell senden."</string>

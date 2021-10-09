@@ -17,6 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
+    <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agree_desc">Die oben aufgeführten obligatorischen Genehmigungen erteilen.</string>
     <string name="btn_cancel">Abbrechen</string>
