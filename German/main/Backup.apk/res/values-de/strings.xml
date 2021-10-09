@@ -718,8 +718,8 @@ Mindestens %s freigeben."</string>
     <string name="trans_detail_category_user_app_data">App-Daten</string>
     <string name="trans_detail_category_wechat_qq">WeChat- und QQ-Daten (inkl. Chatverlauf)</string>
     <string name="trans_detail_item_app_data_selected_tip">Ausgewählte entsprechende Apps ebenso</string>
-    <string name="trans_detail_item_app_data_skip_data">App-Daten können nicht übertragen werden</string>
     <string name="trans_detail_item_app_data_too_large_tip">ieht so aus, als wäre das Element zu groß zum Übertragen.</string>
+    <string name="trans_detail_item_app_data_skip_data">App-Daten können nicht übertragen werden</string>
     <string name="trans_detail_list_footer">"1. Sie können einzelne Apps auswählen, die Sie übertragen möchten.
 2. Wenn Sie App-Daten auswählen, werden auch die entsprechenden Apps ausgewählt.
 3. WeChat- und QQ-App-Daten werden möglicherweise aus Kompatibilitätsgründen nicht übertragen. Sie können In-App-Transfer-Funktionen ausprobieren."</string>
