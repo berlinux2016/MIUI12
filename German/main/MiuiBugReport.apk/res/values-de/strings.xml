@@ -526,7 +526,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="passport_account_not_activated">Konto wurde nicht aktiviert</string>
     <string name="passport_account_not_actived">Ihr Konto wurde nicht aktiviert</string>
     <string name="passport_activate_token_expired">Verifizierungscode abgelaufen. Erneut versuchen</string>
-    <string name="passport_active_email_visit">Überüfen Sie Ihren Posteingang unter %s</string>
+    <string name="passport_active_email_visit">Posteingang unter %s prüfen</string>
     <string name="passport_activing_account">Aktivieren…</string>
     <string name="passport_area_code_hot">HÄUFIG VERWENDET</string>
     <string name="passport_area_code_title">Vorwahl</string>

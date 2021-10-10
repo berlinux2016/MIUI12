@@ -639,7 +639,7 @@ auswahl"</string>
     <string name="document_mode_use_hint_text_body">"Gescannte Dokumente automatisch
 ausrichten und verbessern"</string>
     <string name="document_mode_use_hint_text_title">Dokumente scannen</string>
-    <string name="document_origin">Original Bild</string>
+    <string name="document_origin">Originalbild</string>
     <string name="document_strengthen">Verbessern</string>
     <string name="dolly_zoom_capture_tip1">Motiv im Rahmen platzieren</string>
     <string name="dolly_zoom_capture_tip2">Motiv in der Mitte halten und Gerät gleichmäßig wegbewegen</string>

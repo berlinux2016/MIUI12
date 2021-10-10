@@ -1371,7 +1371,7 @@
 zu wechseln."</string>
     <string name="month_view_tip_title">Monatsansicht</string>
     <string name="more">Mehr</string>
-    <string name="more_album_hint"> usw.</string>
+    <string name="more_album_hint">" usw."</string>
     <string name="more_album_tip">Mehr Alben</string>
     <string name="more_face">Weitere Personen, die sich ähnlich sehen</string>
     <string name="more_face_album_name">Mehr Personen</string>
