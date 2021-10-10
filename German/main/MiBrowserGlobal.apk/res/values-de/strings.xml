@@ -1789,7 +1789,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="ssl_bad_clock_date_settings">Datum einstellen</string>
     <string name="ssl_bad_clock_warning" formatted="false">Private Verbindung zu %s1 kann nicht hergestellt werden, da Ihre Datums- und Zeiteinstellungen (%s2) falsch sind</string>
     <string name="ssl_bad_expired_warning">Dieser Kanal wird von %1$s bereitgestellt. Das auf Ihrem Gerät eingestellte Datum und die Uhrzeit (%2$s) erlauben es jedoch nicht, eine sichere Verbindung mit %1$s herzustellen. Sie können das richtige Datum und die richtige Uhrzeit einstellen oder auf \"Fortfahren\" tippen, wenn Sie diesen Kanal dennoch verwenden möchten.</string>
-    <string name="ssl_bad_warning">Dieser Kanal wird von %1$s bereitgestellt. Mi Browser kann jedoch nicht überprüfen, ob dieser Server zu %1$s gehört, da sein Zertifikat ungültig ist oder widerrufen wurde. Dieses Problem kann durch falsche Konfigurationen oder eine blockierte Verbindung verursacht werden. Auf \"Fortfahren\" tippen, wenn Sie diesen Kanal trotzdem verwenden möchten.</string>
+    <string name="ssl_bad_warning">Dieser Kanal wird von %1$s bereitgestellt. Mi Browser kann jedoch nicht prüfen, ob dieser Server zu %1$s gehört, da sein Zertifikat ungültig ist oder widerrufen wurde. Dieses Problem kann durch falsche Konfigurationen oder eine blockierte Verbindung verursacht werden. Auf \"Fortfahren\" tippen, wenn Sie diesen Kanal trotzdem verwenden möchten.</string>
     <string name="ssl_certificate">Sicherheitszertifikat</string>
     <string name="ssl_certificate_is_valid">Dieses Zertifikat ist gültig</string>
     <string name="ssl_continue">Fortfahren</string>

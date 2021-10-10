@@ -2494,7 +2494,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="video_analytic_download_failed_for_notwork">Herunterladen nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="video_analytic_download_sdk_without_wifi_msg">Verbindung zu WLAN nicht möglich. Sie können das Plugin auch mit mobilen Daten herunterladen.</string>
     <string name="video_analytic_download_sdk_without_wifi_title">Plugin herunterladen…</string>
-    <string name="video_compress_download_failed_for_notwork">Herunterladen nicht möglich. Netzwerkeinstellungen überprüfen und erneut versuchen.</string>
+    <string name="video_compress_download_failed_for_notwork">Herunterladen nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="video_compress_encode_video">Video komprimieren…</string>
     <string name="video_compress_lib_download">Videokompressions-Plugin herunterladen</string>
     <string name="video_compress_lib_download_without_wifi">Anscheinend ist Ihr Gerät nicht mit WLAN verbunden. Sie können mobile Daten verwenden, um das Videokomprimierungs-Plugin (%.1f MB) herunterzuladen.</string>

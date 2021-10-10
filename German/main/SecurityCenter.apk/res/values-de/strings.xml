@@ -946,7 +946,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="charge_high_temp_warning_text">Trennen Sie das Ladegerät und lassen Sie den Akku abkühlen</string>
     <string name="charge_high_temp_warning_title">Ladeanschluss ist zu heiß</string>
     <string name="charger_detect_button_ok">Verstanden</string>
-    <string name="charger_detect_info1">Überprüfen Sie, ob Netzadapter und Kabel richtig angeschlossen sind.</string>
+    <string name="charger_detect_info1">Prüfen Sie, ob Netzadapter und Kabel richtig angeschlossen sind.</string>
     <string name="charger_detect_info2">Das Aufladen kann sich auch verlangsamen, wenn Sie nicht standardmäßige oder alte Netzteile und Kabel verwenden.</string>
     <string name="charger_detect_no_remind">Nicht mehr anzeigen</string>
     <string name="charger_detect_title">Aufladen ist langsam</string>
@@ -1895,7 +1895,7 @@ kann den Akku entladen und zu Überhitzung führen"</string>
     <string name="gb_voice_changer_setting_become_vip">Abonnieren</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Anpassung der Auswirkungen und Empfehlungen an das ausgewählte Geschlecht</string>
     <string name="gb_voice_changer_setting_gender_title">Geschlecht</string>
-    <string name="gb_voice_changer_setting_realtime_subtitle">Überprüfen Sie, wie sich Ihre Stimme in Echtzeit verändert</string>
+    <string name="gb_voice_changer_setting_realtime_subtitle">Prüfen Sie, wie sich Ihre Stimme in Echtzeit verändert</string>
     <string name="gb_voice_changer_setting_realtime_title">Echtzeit-Feedback</string>
     <string name="gb_voice_changer_setting_rights">Nutzungsbedingungen und Datenschutzerklärung</string>
     <string name="gb_voice_changer_toast_window_bubble_tips">"Voice Changer jetzt ausprobieren,

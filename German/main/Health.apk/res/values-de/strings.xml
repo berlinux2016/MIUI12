@@ -642,8 +642,8 @@ Fangen Sie von vorne an.</string>
     <string name="hr_phone_detect_records">Verlauf der Telefonmessungen</string>
     <string name="hr_pre_detect">"Vollständige Abdeckung von Blitz und Kamera
 mit einem Finger"</string>
-    <string name="hr_pre_detect_finger">Überprüfen…</string>
-    <string name="hr_pre_detect_finger_desc">Überprüfen, ob Blitz und Kamera vollständig abgedeckt sind. Bewegen Sie Ihren Finger nicht.</string>
+    <string name="hr_pre_detect_finger">Prüfen…</string>
+    <string name="hr_pre_detect_finger_desc">Prüfen, ob Blitz und Kamera vollständig abgedeckt sind. Bewegen Sie Ihren Finger nicht.</string>
     <string name="hr_re_detect_title">Neu anfangen</string>
     <string name="hr_report_active_desc">Messung Ihrer Herzfrequenz direkt nach dem Training kann Ihnen helfen, Ihre Trainingsgewohnheiten anzupassen, da Trainings mit unterschiedlicher Intensität unterschiedliche optimale Herzfrequenzbereiche haben. Wenn Ihre Herzfrequenz zu hoch ist, kann sich die Aktivität nachteilig auf Ihre Gesundheit auswirken und zu Schwindel, Engegefühl in der Brust und anderen Risiken führen. Eine niedrige Herzfrequenz kann ein Zeichen für die geringe Wirksamkeit eines bestimmten Trainings sein.</string>
     <string name="hr_report_active_high_desc">Ihre aktuelle Herzfrequenz ist eine Trainingsherzfrequenz mit hoher Intensität. Die kardiopulmonale Funktion wird stimuliert.</string>
@@ -1226,7 +1226,7 @@ Wenn Sie Ihre Daten nicht weitergeben möchten, können Sie diese Funktion deakt
     <string name="sleep_detection_question_four_answer">Verschiedene Arten von Mobilgeräten sind mit unterschiedlichen Sensoren ausgestattet. Die Werte für die Leistungsaufnahme können für verschiedene Hardware-Elemente variieren.</string>
     <string name="sleep_detection_question_four_title">Warum verbrauchen verschiedene Geräte unterschiedlich viel Strom, um den Schlaf zu verfolgen?</string>
     <string name="sleep_detection_question_one_answer">"Wenn Ihr Gerät ausgeschaltet oder neu gestartet wird oder der Akku schwach ist, wird die Schlafverfolgung unterbrochen, da die Sensoren keine Daten erfassen und analysieren können. In solchen Fällen erscheint die Schlafstatistik unvollständig.
-Wenn dieses Problem häufig auftritt, überprüfen Sie Ihr Gerät auf geplante Abschaltaufgaben oder nächtliche Systemaktualisierungen."</string>
+Wenn dieses Problem häufig auftritt, prüfen Sie Ihr Gerät auf geplante Abschaltaufgaben oder nächtliche Systemaktualisierungen."</string>
     <string name="sleep_detection_question_one_answer_1">"Tief- und Halbschlafphasen werden auf der Grundlage von Körperbewegungsdaten, die von Ihren Gerätesensoren erfasst werden, erkannt. Hier ist der Grund, warum Sie die Statistik evtl. nicht sehen können:
 1. Xiaomi Health konnte keine Daten sammeln. Dies kann passieren, wenn sich Ihr Gerät im Schlaf ausschaltet, sein Akku zu schwach ist oder die App nicht im Hintergrund arbeiten darf. Erlauben Sie Xiaomi Health einen automatischen Start, fügen Sie es zu den Stromspar-Ausnahmen hinzu und sperren Sie es im Hintergrund, um dies zu verhindern.
 2. Xiaomi Health konnte die gesammelten Daten nicht analysieren. Dies kann passieren, wenn das Telefon zu weit vom Körper entfernt ist, wenn Sie schlafen. Alternativ könnte Ihre Körperbewegung zu subtil sein, um irgendwelche Annahmen über Veränderungen Ihres Schlafzyklus zu treffen. Wir arbeiten ständig an der Verbesserung unserer Algorithmen, damit Xiaomi Health Ihren Schlaf besser analysieren kann."</string>
@@ -1319,7 +1319,7 @@ nicht gefunden"</string>
     <string name="snore_detection_abnormal_state">Sitzung wurde unterbrochen</string>
     <string name="snore_detection_abnormal_state_description">Mikrofon ist aus</string>
     <string name="snore_detection_close_prompt">Schnarch- und Sprecherkennung ist aus</string>
-    <string name="snore_detection_close_prompt_desc">Sie haben Schnarchen und Sprechen schon eine Weile nicht mehr wahrgenommen. Wir haben diese Funktion für Sie abgeschaltet, um Strom zu sparen. Tippen, um die Einstellungen zu überprüfen.</string>
+    <string name="snore_detection_close_prompt_desc">Sie haben Schnarchen und Sprechen schon eine Weile nicht mehr wahrgenommen. Wir haben diese Funktion für Sie abgeschaltet, um Strom zu sparen. Tippen, um die Einstellungen zu prüfen.</string>
     <string name="snore_detection_close_title">Schnarch- und Sprecherkennung ausschalten?</string>
     <string name="snore_detection_enable">Schnarch- und Sprecherkennung</string>
     <string name="snore_detection_guide_one_description">Der Ton wird aufgenommen, während Sie schlafen. Durch maschinelles Lernen kann Xiaomi Health Schnarchen, Sprechen und laute Geräusche erkennen und die Aufnahmen auf Ihrem Gerät speichern.</string>

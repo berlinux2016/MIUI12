@@ -1139,7 +1139,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="theme_changing_dialog_title">"Anwenden "</string>
     <string name="theme_comment_detail_no_more">Das ist alles für den Moment</string>
     <string name="theme_comment_detail_sub_comment_title">Alle Antworten</string>
-    <string name="theme_comment_detail_title">Details überprüfen</string>
+    <string name="theme_comment_detail_title">Details prüfen</string>
     <string name="theme_comment_dialog_cancel">Nicht jetzt</string>
     <string name="theme_comment_dialog_message">Bewerten Sie diese App und sagen Sie uns, was Sie davon halten.</string>
     <string name="theme_comment_dialog_ok">Bewerten</string>

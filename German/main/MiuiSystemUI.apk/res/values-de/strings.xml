@@ -2823,7 +2823,7 @@ Ihr Telefon läuft jetzt normal. Ihr Telefon könnte zu heiß werden, wenn Sie:
     <string name="torch_closed">Lampe aus</string>
     <string name="torch_high_temperature_warning">Ihr Gerät ist überhitzt. Sie können die Lampe nicht mehr verwenden.</string>
     <string name="torch_opened">Lampe an</string>
-    <string name="touch_filtered_warning">Da eine App eine Berechtigungsanfrage verdeckt, können die Einstellungen Ihre Antwort nicht überprüfen.</string>
+    <string name="touch_filtered_warning">Da eine App eine Berechtigungsanfrage verdeckt, können die Einstellungen Ihre Antwort nicht prüfen.</string>
     <string name="track_frame_time">Profil HWUI Rendering</string>
     <string name="transcode_default">Annehmen, dass Apps moderne Formate unterstützen</string>
     <string name="transcode_disable_cache">Transcodierungs-Cache deaktivieren</string>

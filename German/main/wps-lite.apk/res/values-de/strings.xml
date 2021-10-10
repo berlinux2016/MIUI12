@@ -182,7 +182,7 @@
     <string name="public_chart_category">Kategorien</string>
     <string name="public_chart_series">Serie</string>
     <string name="public_checkPasswdFaild">Passwort ist falsch</string>
-    <string name="public_check_new_version">Auf neue Version überprüfen</string>
+    <string name="public_check_new_version">Auf neue Version prüfen</string>
     <string name="public_clear_selectAll">Alle löschen auswählen</string>
     <string name="public_close">Schließen</string>
     <string name="public_comment">Kommentar</string>

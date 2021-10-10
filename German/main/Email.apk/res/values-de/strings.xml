@@ -692,7 +692,7 @@
     <string name="from_heading">"Von: "</string>
     <string name="gamil_login_failed_1">Anmeldung fehlgeschlagen. Bitte später erneut versuchen.</string>
     <string name="gamil_login_failed_2">Anmeldung fehlgeschlagen. Bitte Google-Dienst aktualisieren und erneut versuchen.</string>
-    <string name="gamil_login_failed_3">Anmeldung fehlgeschlagen. Netzwerkeinstellungen überprüfen und erneut versuchen.</string>
+    <string name="gamil_login_failed_3">Anmeldung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="gamil_login_failed_4">Anmeldung aufgrund eines Serverfehlers fehlgeschlagen. Bitte erneut versuchen.</string>
     <string name="gamil_login_failed_other">Anmeldung fehlgeschlagen. Bitte später erneut versuchen.</string>
     <string name="general_preference_confirm_delete_label">Vor dem Löschen bestätigen</string>
