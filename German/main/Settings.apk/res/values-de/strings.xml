@@ -1415,7 +1415,7 @@ Sie haben sich noch nicht mit %2$s verbunden."</string>
     <string name="bluetooth_connect_access_notification_content">Ein Gerät möchte sich verbinden. Tippen für Details.</string>
     <string name="bluetooth_connect_access_notification_title">Bluetooth-Gerät verfügbar</string>
     <string name="bluetooth_connect_failed">Verbinden nicht möglich, erneut versuchen</string>
-    <string name="bluetooth_connect_settings">Bluetooth-Verbindungseinstellungen</string>
+    <string name="bluetooth_connect_settings">Verbindung</string>
     <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
     <string name="bluetooth_connected">Verbunden %1$s</string>
     <string name="bluetooth_connected_battery_level">Verbunden %2$s | Akku %1$s</string>
@@ -1483,7 +1483,7 @@ Sie haben sich noch nicht mit %2$s verbunden."</string>
     <string name="bluetooth_disconnected">Getrennt</string>
     <string name="bluetooth_disconnecting">Trennen…</string>
     <string name="bluetooth_display_passkey_pin_msg">Zum Koppeln mit <b>%1$s</b> tippen Sie auf <b>%2$s</b> und drücken Sie anschließend die Eingabetaste</string>
-    <string name="bluetooth_display_settings">Bluetooth-Anzeigeeinstellungen</string>
+    <string name="bluetooth_display_settings">Angezeigte Elemente</string>
     <string name="bluetooth_dock_settings">Dockeinstellungen</string>
     <string name="bluetooth_dock_settings_a2dp">Für Musik und Medien</string>
     <string name="bluetooth_dock_settings_headset">Als Telefonlautsprecher</string>
@@ -1553,7 +1553,7 @@ Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
     <string name="bluetooth_message_access_notification_content">Nicht vertrauenswürdiges Gerät will auf Ihre Nachrichten zugreifen. Auf Details tippen.</string>
     <string name="bluetooth_message_move_out_of_blacklist">%1$s jetzt entsperren?</string>
     <string name="bluetooth_mi_fast_connect">Kompatible Geräte koppeln</string>
-    <string name="bluetooth_mi_fast_connect_summary">Verbindung zu Geräten in der Nähe mittels eines vereinfachten Kopplungsprozesses</string>
+    <string name="bluetooth_mi_fast_connect_summary">Schnelles Anschließen von Kopfhörern, Lautsprechern und anderen kompatiblen Geräten</string>
     <string name="bluetooth_middle_name">Fall</string>
     <string name="bluetooth_move_out_of_blacklist">Gerät entsperren</string>
     <string name="bluetooth_name_not_set">Kein Name festgelegt, Kontoname wird verwendet</string>
