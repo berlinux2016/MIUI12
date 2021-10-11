@@ -1337,6 +1337,7 @@ seit ^2"</string>
     <string name="biometrics_unlock_set_unlock_pin">PIN • Gesicht • Fingerabdruck</string>
     <string name="biometrics_unlock_skip_biometrics">Weiter ohne Gesicht oder Fingerabdruck</string>
     <string name="biometrics_unlock_title">Sie können Ihr Telefon mit Ihrem Gesicht oder Ihrem Fingerabdruck entsperren. Aus Sicherheitsgründen erfordert diese Option eine Backup-Bildschirmsperre.</string>
+    <string name="blank_screen_no_device">Keine Geräte</string>
     <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können System-Apps und -dienste nach wie vor Bluetooth-Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
     <string name="blob_expires_text">Läuft ab am %s</string>
     <string name="blob_id_text">Gemeinsame Daten-ID: %d</string>
@@ -1569,6 +1570,7 @@ Sie haben noch keine Verbindung zu %2$s hergestellt."</string>
     <string name="bluetooth_opp_profile_summary_connected">Mit Dateiserver verbunden</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Nicht mit Dateiserver verbunden</string>
     <string name="bluetooth_opp_profile_summary_use_for">Für Dateitransfer verwenden</string>
+    <string name="bluetooth_other_settings">Weitere Einstellungen</string>
     <string name="bluetooth_paired">Gespeichert</string>
     <string name="bluetooth_paired_device_title">Ihre Geräte</string>
     <string name="bluetooth_pairing">Koppeln…</string>
@@ -2520,6 +2522,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
     <string name="current_phone_location">Telefon</string>
     <string name="current_screen_lock">Aktuelle Bildschirmsperre</string>
     <string name="current_sim">Aktuelle SIM-Karte</string>
+    <string name="current_use_default_wallet">Automatisch gewählt</string>
     <string name="current_use_ese">Sichere Elemente benutzen</string>
     <string name="current_use_ese_wallet">Mi Pay verwenden (nur in China)</string>
     <string name="current_use_hce_wallet">HCE-App verwenden</string>
@@ -2757,6 +2760,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="debug_app_not_set">Keine Debug-App ausgewählt</string>
     <string name="debug_app_set">Debug-App: %1$s</string>
     <string name="debug_applications_category">Programme</string>
+    <string name="debug_autofill_category">Automatisch ausfüllen</string>
     <string name="debug_drawing_category">Zeichnen</string>
     <string name="debug_hw_drawing_category">Hardware-beschleunigtes Rendering</string>
     <string name="debug_hw_overdraw">GPU-Überzeichnung debuggen</string>
@@ -7780,11 +7784,13 @@ App-Pinning verwenden: \u0009
     <string name="sdcard_settings_used_bytes_label">Verwendete Bytes:</string>
     <string name="sdcard_unmount">USB-Speicher/SD-Karte trennen</string>
     <string name="sdcard_unmounted">SD-Karte jetzt einlegen</string>
+    <string name="se_route_default">Automatisch gewählt</string>
     <string name="se_route_ese">Sicheres Element</string>
     <string name="se_route_uicc">Sicheres Element auf der SIM-Karte</string>
     <string name="se_wallet_ese">Mi Pay und NFC-Transportkarte verwenden</string>
     <string name="se_wallet_hce">HCE Wallet verwenden</string>
     <string name="se_wallet_uicc">SIM%1$s Bezahlung verwenden</string>
+    <string name="se_wallet_uicc_jp">SIM %1$s-Geldbörse (Kann nicht automatisch gewählt werden)</string>
     <string name="search_about_settings">Über das Gerät;Modellnummer;Android-Version;MIUI Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
     <string name="search_accelerometer_title">Bildschirm automatisch drehen;Bildschirm drehen;Ausrichtung;Hochformat;Querformat</string>
     <string name="search_access_control">Datenschutzeinstellungen;Sicherheit Datenschutz; Gast; Gast; Gastmodus</string>

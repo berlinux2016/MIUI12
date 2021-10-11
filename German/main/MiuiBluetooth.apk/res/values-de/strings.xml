@@ -304,6 +304,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="development_settings_summary">Optionen für App-Entwicklung festlegen</string>
     <string name="development_settings_title">Entwickleroptionen</string>
     <string name="device_picker">Bluetooth-Geräteeinstellungen</string>
+    <string name="device_update_plugin">Neue Version</string>
     <string name="dialog_network_priority_title">Priorität</string>
     <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart startet diese App erst, wenn Sie Ihr Gerät entsperren.</string>
     <string name="disable_overlays">HW-Overlays ausschalten</string>
@@ -712,6 +713,11 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="plugin_install_timeout">Zeitüberschreitung Installation</string>
     <string name="plugin_last_update_going">Letzte Aktualisierung läuft</string>
     <string name="plugin_no_update">Es ist bereits die neueste Version</string>
+    <string name="plugin_ota_finish">Bluetooth-Versionsaktualisierung erfolgreich</string>
+    <string name="plugin_ota_indicate">Bluetooth neu starten und Headset anschließen</string>
+    <string name="plugin_ota_messages1">Weitere Quellen für Bluetooth-Headsets hinzufügen</string>
+    <string name="plugin_ota_messages2">Bluetooth-Dienst-Framework aktualisieren</string>
+    <string name="plugin_ota_progress">Jetzt aktualisieren</string>
     <string name="plugin_start_update">Plugins aktualisieren starten…</string>
     <string name="plugin_update_failed">Aktualisierung fehlgeschlagen</string>
     <string name="plugin_update_notification_summary">Bluetooth-Plugins aktualisieren abgeschlossen. Einstellungen und Bluetooth neu starten, um die Änderungen zu übernehmen.</string>
@@ -851,6 +857,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="storage_category">Speicher</string>
     <string name="strict_mode">Strict-Modus aktiv</string>
     <string name="strict_mode_summary">Bildschirm blinkt, wenn Apps lange Operationen ausführen</string>
+    <string name="stylus_ota_check_update">Jetzt aktualisieren</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>

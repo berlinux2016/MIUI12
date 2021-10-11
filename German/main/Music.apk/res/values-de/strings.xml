@@ -185,6 +185,7 @@
     <string name="columbus_player_speed_title">Video überspringen?</string>
     <string name="columbus_player_speed_video">VIDEO überspringen</string>
     <string name="columbus_player_unit_sec">Sek</string>
+    <string name="columbus_skip_ad">Überspringen</string>
     <string name="common_google_play_services_enable_button">Aktivieren</string>
     <string name="common_google_play_services_enable_text">%1$s funktioniert nur, wenn Sie die Google-Play-Dienste aktivieren</string>
     <string name="common_google_play_services_enable_title">Google-Play-Dienste aktivieren</string>

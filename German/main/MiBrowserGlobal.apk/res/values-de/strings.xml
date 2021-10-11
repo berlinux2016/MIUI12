@@ -274,6 +274,7 @@
     <string name="columbus_player_speed_title">Video überspringen?</string>
     <string name="columbus_player_speed_video">VIDEO ÜBERSPRINGEN</string>
     <string name="columbus_player_unit_sec">Sek</string>
+    <string name="columbus_skip_ad">Überspringen</string>
     <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> aufrufen und den oben angezeigten Code eingeben</string>
     <string name="com_facebook_image_download_unknown_error">Unerwarteter Fehler beim Herunterladen eines Bildes</string>
     <string name="com_facebook_internet_permission_error_message">WebView-Anmeldung erfordert INTERNET-Berechtigung</string>
@@ -381,6 +382,7 @@ werden nicht im Verlauf angezeigt."</string>
     <string name="data_traffic_prompt_title">Sie verwenden mobile Daten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit festlegen</string>
+    <string name="debug_youtube_file">Youtube-Datei debuggen</string>
     <string name="debug_youtube_in_release">Youtube im Release debuggen</string>
     <string name="delete">Löschen</string>
     <string name="delete_bookmark">Löschen</string>
@@ -416,6 +418,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="document_open_other">Andere Apps</string>
     <string name="document_open_title">Öffnen mit</string>
     <string name="dont_remind_again">Auswahl merken</string>
+    <string name="download_action">Herunterladen</string>
     <string name="download_btn_select_all">Alles auswählen</string>
     <string name="download_btn_select_none">Alles abwählen</string>
     <string name="download_business_app_new_version">Die neueste Version dieser App ist bereits installiert</string>

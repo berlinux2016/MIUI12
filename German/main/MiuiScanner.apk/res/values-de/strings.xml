@@ -267,6 +267,7 @@
     <string name="general_recognized">"Ergebnis: "</string>
     <string name="general_title">Bitte fotografieren Sie das zu erkennende Objekt</string>
     <string name="general_wifi_data_wrong_data">SSID und Passwort eingeben</string>
+    <string name="go_shut_down">Zum Herunterfahren</string>
     <string name="goods_query">Produkt</string>
     <string name="got_it">Verstanden</string>
     <string name="gps">Navigieren</string>
