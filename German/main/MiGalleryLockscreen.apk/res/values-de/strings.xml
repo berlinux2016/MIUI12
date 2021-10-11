@@ -774,6 +774,8 @@ dd.MM."</string>
     <string name="refresh_network">Aktualisieren</string>
     <string name="remove">Löschen</string>
     <string name="req_permission_dis_tip">Berechtigungen erforderlich</string>
+    <string name="require_permission">Berechtigungen erforderlich</string>
+    <string name="require_permission_text">Hintergrundkarussell den Speicherzugriff erlauben, um Elemente speichern und anzeigen zu können</string>
     <string name="resend_active_email">Erneut senden</string>
     <string name="resend_email_reach_limit_message">Sie haben zu viele Verifizierungs-E-Mails angefordert. Prüfen Sie, ob die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs ist.</string>
     <string name="resend_email_reach_limit_title">Zu viele Versuche</string>
@@ -951,6 +953,9 @@ dd.MM."</string>
     <string name="subscribe_update_time_setting">Anderes Intervall einstellen</string>
     <string name="summary">"Akzeptieren Sie unsere <a href='http://www.miui.com/res/doc/privacy/de.html'>Datenschutzerklärung</a>, um Online-Inhalte anzusehen. Wenn Sie nicht einverstanden sind, werden lokale Hintergrundbilder weiterhin verfügbar sein."</string>
     <string name="summary2">"Mit der Nutzung dieser Funktion stimmen Sie unserer &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Nutzervereinbarung&lt;/font>&lt;/a> und &lt;font color='#0D84FF'>&lt;a href='%2$s'>Datenschutzerklärung&lt;/font>&lt;/a> zu. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren."</string>
+    <string name="summary3">"Willkommen bei Hintergrundkarussell! Hier können Sie Ihre Lieblings-Hintergrundkategorien abonnieren und bekommen regelmäßig neue Bilder auf Ihren Sperrbildschirm geliefert. Diese App benötigt eine Internetverbindung und sammelt die erforderlichen persönlichen Daten, um normal funktionieren zu können.&lt;br>Um zusätzliche Dienste anbieten zu können, bitten wir Sie ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern. Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Nutzervereinbarung&lt;/font>&lt;/a> und &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Datenschutzerklärung&lt;/font>&lt;/a>, bevor Sie diese App verwenden.</string>
+    <string name="summary4">Willkommen bei Hintergrundkarussell! Hier können Sie Ihre Lieblings-Hintergrundkategorien abonnieren und bekommen regelmäßig neue Bilder auf Ihren Sperrbildschirm geliefert.</string>
+    <string name="summary5">Um zusätzliche Dienste anbieten zu können, bitten wir ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern. </string>
     <string name="summary_international">"Mit der Nutzung dieser Funktion stimmen Sie unserer <a href ='http://www.miui.com/res/doc/eula.html?lang=de_DE'>Nutzervereinbarung</a> und <a href='http://www.miui.com/res/doc/privacy/de.html'>Datenschutzerklärung</a> zu. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren."</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
