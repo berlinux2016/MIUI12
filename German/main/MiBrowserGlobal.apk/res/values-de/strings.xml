@@ -382,7 +382,7 @@ werden nicht im Verlauf angezeigt."</string>
     <string name="data_traffic_prompt_title">Sie verwenden mobile Daten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit festlegen</string>
-    <string name="debug_youtube_file">Youtube-Datei debuggen</string>
+    <string name="debug_youtube_file">YouTube-Datei debuggen</string>
     <string name="debug_youtube_in_release">Youtube im Release debuggen</string>
     <string name="delete">Löschen</string>
     <string name="delete_bookmark">Löschen</string>
