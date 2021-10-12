@@ -1338,6 +1338,7 @@ seit ^2"</string>
     <string name="biometrics_unlock_skip_biometrics">Weiter ohne Gesicht oder Fingerabdruck</string>
     <string name="biometrics_unlock_title">Sie können Ihr Telefon mit Ihrem Gesicht oder Ihrem Fingerabdruck entsperren. Aus Sicherheitsgründen erfordert diese Option eine Backup-Bildschirmsperre.</string>
     <string name="blank_screen_no_device">Keine Geräte</string>
+    <string name="blank_screen_no_record">Noch keine Aufnahme hier</string>
     <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können System-Apps und -dienste nach wie vor Bluetooth-Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
     <string name="blob_expires_text">Läuft ab am %s</string>
     <string name="blob_id_text">Gemeinsame Daten-ID: %d</string>
@@ -1763,6 +1764,8 @@ Während der Verbindung empfängt %2$s alle Anrufe an %3$s."</string>
     <string name="bluetooth_unpair_dialog_title">Gerät vergessen?</string>
     <string name="bluetooth_untether_blank">Tethering für %1$s wird ausgeschaltet</string>
     <string name="bluetooth_untethered_unpair_dialog_body">%1$s wird nicht mehr mit einem mit diesem Konto verbundenen Gerät gekoppelt</string>
+    <string name="bluetooth_version">Bluetooth-Version</string>
+    <string name="bluetooth_version_message">Aktualisieren</string>
     <string name="bluetooth_visibility_timeout">Zeit für Sichtbarkeit</string>
     <string name="bluetooth_wake">Mit Bluetooth-Audio wecken</string>
     <string name="boot_sounds_title">Einschalttöne</string>
@@ -3555,6 +3558,8 @@ Gerät neu starten und erneut versuchen."</string>
     <string name="face_data_siggesstion_next">Weiter</string>
     <string name="face_data_siggesstion_next_time">Weiter (%ds)</string>
     <string name="face_data_suggesstion_first">Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto sowie von Personen oder Objekten mit ähnlichem Aussehen entsperrt werden.</string>
+    <string name="face_data_suggesstion_first_cn">"Damit Sie die Gesichtsentsperrung verwenden können, müssen wir Ihre Gesichtsdaten erfassen. Die Gesichtsdaten werden lokal auf diesem Gerät gespeichert. Um sie zu löschen, suchen Sie in den Einstellungen nach \"Gesichtsentsperrung\" und wählen Sie dann Gesichtsentsperrung > Gesichtsdaten.
+Die Gesichtsentsperrung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Ihr Gerät kann mit Ihrem Foto sowie von Personen oder Objekten mit ähnlichem Aussehen entsperrt werden."</string>
     <string name="face_data_suggesstion_second">Achten Sie darauf, dass alle Teile Ihres Gesichts gut sichtbar sind. Tragen Sie keine Accessoires, die Ihr Gesicht verdecken könnten. Beleuchten Sie Ihr Gesicht gleichmäßig und vermeiden Sie direktes Licht.</string>
     <string name="face_intro_error_max">Sie haben die Maximalzahl an Gesichtern hinzugefügt</string>
     <string name="face_intro_error_unknown">Weitere Gesichter hinzufügen nicht möglich</string>
@@ -3666,6 +3671,10 @@ Um mehr zu erfahren, wenden Sie sich an diesen."</string>
     <string name="find_my_device_summary">Diese Funktion erfordert Anmeldung am Mi-Konto</string>
     <string name="findlost_contact">Kontakte wiederherstellen</string>
     <string name="findlost_contact_online">Kontakte aus Xiaomi Cloud wiederherstellen</string>
+    <string name="finger_add_user_info_dialog_cancel">Abbrechen</string>
+    <string name="finger_add_user_info_dialog_message">Damit Sie die Fingerabdruckentsperrung nutzen und Zahlungen per Fingerabdruck vornehmen können, müssen wir Ihren Fingerabdruck erfassen. Der Fingerabdruck wird lokal auf diesem Gerät gespeichert. Um ihn zu löschen, suchen Sie in den Einstellungen nach \"Fingerabdruck entsperren\" und wählen Sie dann Fingerabdruck entsperren > Fingerabdruck. Wenn Sie dem nicht zustimmen, können Sie diese Funktion nicht nutzen.</string>
+    <string name="finger_add_user_info_dialog_next">Zustimmen</string>
+    <string name="finger_add_user_info_dialog_title">Achtung</string>
     <string name="fingerprint_add_max">Sie können bis zu %d Fingerabdrücke hinzufügen</string>
     <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
     <string name="fingerprint_and_password_entrance_title">Sperrbildschirm &amp; Fingerabdruck</string>
@@ -4919,6 +4928,9 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lock_screen_notifications_interstitial_message_profile">Wie sollen Profilbenachrichtigungen bei gesperrtem Gerät angezeigt werden?</string>
     <string name="lock_screen_notifications_interstitial_title">Sperrbildschirm</string>
     <string name="lock_screen_notifications_interstitial_title_profile">Profilbenachrichtigungen</string>
+    <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
+    <string name="lockscreen_access_pattern_detected">Muster fertiggestellt</string>
+    <string name="lockscreen_access_pattern_start">Muster gestartet</string>
     <string name="lock_screen_notifications_summary_disable">Keine Benachrichtigungen</string>
     <string name="lock_screen_notifications_summary_disable_profile">Keine Arbeitsbenachrichtigungen</string>
     <string name="lock_screen_notifications_summary_hide">Benachrichtigung ja, Inhalt nein</string>
@@ -4987,7 +4999,7 @@ Eine PIN schützt das Telefon bei Verlust oder Diebstahl."</string>
     <string name="lock_settings_picker_admin_restricted_personal_message">Diese Sperre kann von Ihrem IT-Administrator nicht zurückgesetzt werden. LINK_BEGINSetzen Sie stattdessen eine separate ArbeitssperreLINK_END</string>
     <string name="lock_settings_picker_biometric_message">Backup-Bildschirmsperre wählen</string>
     <string name="lock_settings_picker_biometrics_added_security_message">Für zusätzliche Sicherheit setzen Sie eine Backup-Bildschirmsperre</string>
-    <string name="lock_settings_picker_face_message">Wählen Sie Ihre Backup-Bildschirmsperre</string>
+    <string name="lock_settings_picker_face_message">Ihre Methode zur Sicherung der Bildschirmsperre wählen</string>
     <string name="lock_settings_picker_fingerprint_added_security_message">Als zusätzliche Sicherheit ein Backup für die Bildschirmsperre setzen</string>
     <string name="lock_settings_picker_fingerprint_message">Alternative Methode zur Bildschirmsperre auswählen</string>
     <string name="lock_settings_picker_new_lock_title">Bildschirmsperre wählen</string>
@@ -5592,6 +5604,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
     <string name="miui_experience_optimization">MIUI-Optimierung einschalten</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Abbrechen</string>
     <string name="miui_face_enroll_risk_warning_title_text">Achtung</string>
+    <string name="miui_face_enroll_risk_warning_title_text_cn">Erklärung zur Sicherheit</string>
     <string name="miui_face_enroll_success">Sie können dieses Gerät jetzt mit Ihren Gesichtsdaten entsperren.
 Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
     <string name="miui_ime_xiaoai_voice_hint">Schnellere und komfortablere Texteingabe</string>
