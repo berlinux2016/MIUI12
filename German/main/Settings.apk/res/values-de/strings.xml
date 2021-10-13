@@ -8695,6 +8695,19 @@ Wenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder 
 Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_dialog_title">AGB</string>
     <string name="sos_privacy_policy">Datenschutzerklärung</string>
+    <string name="sos_privacy_policy_change_endtitle">Lesen und akzeptieren Sie die neue Version von %s, bevor Sie fortfahren.</string>
+    <string name="sos_privacy_policy_change_message_reject">Sie können Notfall-SOS nicht weiter nutzen, wenn Sie der neuen Version der Datenschutzerklärung nicht zustimmen. Der aktualisierten %s jetzt zustimmen?</string>
+    <string name="sos_privacy_policy_change_subtitle">Datenschutzerklärung Notfall-SOS wurde aktualisiert:</string>
+    <string name="sos_privacy_policy_change_title">Aktualisierte Datenschutzerklärung</string>
+    <string name="sos_privacy_policy_change_title_reject">App kann nicht genutzt werden</string>
+    <string name="sos_privacy_policy_no_net_button">Verstanden</string>
+    <string name="sos_privacy_policy_no_net_message">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="sos_privacy_policy_no_net_title">Netzwerkverbindung nicht möglich</string>
+    <string name="sos_privacy_policy_revoke">Widerruf Zustimmung</string>
+    <string name="sos_privacy_policy_revoke_message_reject">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zu der Datenschutzerklärung von Notfall-SOS. Die bereits gesammelten und aufbewahrten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\n\nDa Notfall-SOS seine Dienste auf der Grundlage der Erhebung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Sicherheitsdienste gewertet.\n\nZustimmung %s jetzt widerrufen?</string>
+    <string name="sos_privacy_policy_revoke_title_reject">Achtung</string>
+    <string name="sos_privacy_revoke_failed_dialog_content">Ein Serverfehler ist aufgetreten. Einen Momnet warten und erneut versuchen.</string>
+    <string name="sos_privacy_revoke_failed_dialog_title">Zustimmung widerrufen nicht möglich</string>
     <string name="sound_assist_summary">Toneinstellungen anpassen</string>
     <string name="sound_assist_title">Tonassistent</string>
     <string name="sound_category_call_ringtone_vibrate_title">Klingel- &amp; Benachrichtigungston</string>
