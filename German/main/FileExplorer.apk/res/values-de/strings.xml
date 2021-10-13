@@ -46,6 +46,7 @@
     <string name="app_name_miuimusic">Musik</string>
     <string name="app_name_miuiringtone">Klingeltöne</string>
     <string name="app_name_miuiwallpaper">Hintergründe</string>
+    <string name="app_name_recorder">Rekorder</string>
     <string name="auto_play">Bei WLAN-Verbindung automatisch abspielen</string>
     <string name="auto_play_later">Später</string>
     <string name="auto_play_now">Einschalten</string>

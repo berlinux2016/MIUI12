@@ -353,6 +353,7 @@
     <string name="set_password_action">Passwort festlegen</string>
     <string name="set_password_message">Passwort festlegen zur Nutzung dieser Funktion</string>
     <string name="set_password_title">Passwort festlegen</string>
+    <string name="shortcut_no_support_on_pc_mode">Geste wird im PC-Modus nicht unterstützt</string>
     <string name="shutdown_confirm_title">Telefon wird ausgeschaltet</string>
     <string name="shutdown_progress">Ausschalten…</string>
     <string name="silence_mode">Lautlosmodus</string>
