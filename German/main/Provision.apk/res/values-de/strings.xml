@@ -17,14 +17,18 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
+    <string name="access_non_personal_data">Wenn Sie Ihre Zustimmung zum Zugriff auf und zur Verwendung von nicht-personenbezogenen Daten von Ihrem Gerät widerrufen, werden die Hintergrundkarussell-Dienste deaktiviert und alle erfassten Daten innerhalb der in den geltenden Gesetzen und Vorschriften festgelegten Frist gelöscht.</string>
     <string name="accessibility_enabled">Eingabehilfen aktiviert</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Zustimmen</string>
     <string name="agree_and_next">Zustimmen</string>
+    <string name="agree_cookie">Cookies akzeptieren</string>
     <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzerklärung gelesen und stimme beiden zu.</string>
     <string name="agree_terms_input_method_facemoji">Ich habe die Datenschutzerklärung von Facemoji gelesen und akzeptiert.</string>
     <string name="agree_terms_input_method_kika">Ich habe die Datenschutzerklärung von Kika gelesen und akzeptiert.</string>
+    <string name="agreement_declare_use_network_and_location_china">"Außerdem werden die folgenden Dienste eine Netzverbindung herstellen und auf Ihren Standort zugreifen: "</string>
+    <string name="agreement_declare_use_network_china">wird eine Netzwerkverbindung herstellen.</string>
     <string name="ai_button_desc">Mit der KI-Taste können Sie Mi KI auslösen und Mi KI-Verknüpfungen verwenden.</string>
     <string name="ai_button_double_press">Doppelt drücken</string>
     <string name="ai_button_double_press_desc">Mi KI-Funktionen einstellen</string>
@@ -59,6 +63,9 @@
     <string name="content_description_complete">Fertig</string>
     <string name="content_introduction">Inhaltscenter führt Inhalte und Dienste aus mehreren Kanälen zusammen. Hier können Sie Artikel lesen, Videos ansehen, täglich vorgestellte Artikel ansehen und Inhaltsempfehlungen erhalten.</string>
     <string name="continue_to_enable_accessibility">Zwei Finger gedrückt halten, um Eingabehilfen zu aktivieren</string>
+    <string name="cookies_content_one">Wenn Sie auf die Bilder und Geschichten im Hintergrundkarussell tippen, öffnen wir deren Vollversionen in Ihrem Browser. Taboola, unser vertrauenswürdiger Inhalte-Drittanbieter, kann dann zusätzliche Inhalte und Anzeigen empfehlen, die auf Ihre Interessen zugeschnitten sind. Wenn Sie der Aktivierung dieser Funktion zustimmen, wird Taboola über den Browser Cookies auf Ihrem Gerät platzieren, wie in der &lt;a href =%1$s>Cookie-Richtlinie&lt;/a> von Taboola beschrieben. Wenn Sie die Verwendung von Cookies ablehnen, werden die Hintergrundkarussell-Elemente weiterhin auf Ihrem Sperrbildschirm angezeigt und die vollständigen Geschichten werden in Ihrem Browser geöffnet, aber zusätzliche Empfehlungen werden nicht speziell für Sie ausgewählt. Sie können Ihre Präferenzen jederzeit in den Einstellungen ändern.</string>
+    <string name="cookies_content_two">Entscheiden Sie, ob Sie möchten, dass unsere vertrauenswürdigen Inhalte-Drittanbieter Cookies verwenden, um Inhaltsempfehlungen und Werbung auf der Grundlage Ihrer Interessen zu personalisieren.</string>
+    <string name="cookies_title">Personalisierte Inhalte und Cookies</string>
     <string name="copy">Kopieren</string>
     <string name="data_traffic_enable_dialog_title">Wenn Sie jetzt nicht mit WLAN verbunden sind, verwendet Ihr Gerät mobile Daten. Das kann zusätzliche Anbieterkosten verursachen.</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
@@ -364,11 +371,14 @@ Identifizierung Ihres Geräts
 Ihr Gerät finden und in den Modus für verlorene Geräte wechseln
 Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Dienste nicht nutzen. Sie können in solchen Fällen diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken.
 Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice.user_agreement.license\">Nutzervereinbarung&lt;/a>&lt;/u> und &lt;u>&lt;a href=\"app://com.miui.cloudservice.gdpr.license\">Datenschutzerklärung&lt;/a>&lt;/u>", bevor Sie Gerät finden verwenden."</string>
+    <string name="privacy_content_one">Hintergrundkarussell-Empfehlungen werden von Taboola, unserem vertrauenswürdigen Inhalte-Drittanbieter, bereitgestellt. Um diese Inhalte bereitzustellen, muss Taboola auf nicht-personenbezogene Daten auf Ihrem Gerät zugreifen und diese speichern, einschl. Ihrer Systemsprache und Ihres Browsertyps. Wie Taboola die gesammelten Daten verwendet, erfahren Sie in Taboolas &lt;a href =%1$s>Datenschutzerklärung&lt;/a> und &lt;a href =%2$s>Nutzervereinbarung&lt;/a>. Lesen und akzeptieren Sie die in diesen Dokumenten enthaltenen alggemeinen Geschäftsbedingungen, bevor Sie fortfahren. Wenn Sie nicht zustimmen, werden die Hintergrundkarussell-Dienste deaktiviert.</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_provision_more">Erfahren Sie mehr über Datenschutz</string>
     <string name="privacy_provision_summary">Datenschutz ist die Verpflichtung, die hinter dem Design unserer Produkte steht</string>
     <string name="privacy_provision_text">Wir sind verpflichtet, Ihre Privatsphäre zu respektieren und zu schützen. Mit der Priorität auf Forschung und Entwicklung im Bereich der Informationssicherheit arbeitet Xiaomi ständig an der Verbesserung der Methoden, Praktiken und technischen Lösungen zum Schutz Ihrer Daten. Wir teilen unsere neuesten Errungenschaften auch mit unseren Partnern, um Ihre Privatsphäre auf der ganzen Linie zu gewährleisten.</string>
     <string name="privacy_provision_title">Datenschutz</string>
+    <string name="privacy_refuse">Nicht zustimmen</string>
+    <string name="privacy_title">Bedingungen &amp; Datenschutzerklärung</string>
     <string name="protect_persoanl_info_statement">Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen schützen.</string>
     <string name="provision_back">Zurück</string>
     <string name="provision_inputmethod_policy_description"><Data>&lt;a href=%1$s>Datenschutzerklärung&lt;/a> Ihrer ausgewählten Tastatur anzeigen</Data></string>
@@ -376,6 +386,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="provision_next">Weiter</string>
     <string name="provision_skip_underline">Überspringen</string>
     <string name="recorder_introduction">Mit dieser App können Sie Audio aufnehmen und Aufnahmen in der Cloud sichern.</string>
+    <string name="refuse_cookie">Cookies ablehnen</string>
     <string name="require_authority_statement">Damit wir Ihnen grundlegende Dienstleistungen anbieten können, müssen Sie die folgenden Genehmigungen erteilen, damit wir Ihre personenbezogenen Daten erfassen können:</string>
     <string name="require_miuidaemon_authority_statement">Damit wir Ihnen diesen Dienst zur Verfügung stellen können, müssen Sie die folgenden Berechtigungen erteilen, damit wir Ihre persönlichen Daten erfassen können:</string>
     <string name="require_network_authority_statement">Damit wir Ihnen grundlegenden Dienstleistungen anbieten können, müssen Sie eine Internetverbindung herstellen und die folgenden Berechtigungen erteilen, damit wir Ihre personenbezogenen Daten erfassen können:</string>
@@ -463,13 +474,36 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="system_navigation_mode">Tasten oder Gesten</string>
+    <string name="term_condition_detail">Erhalten Sie täglich atemberaubende Bilder und spannende Geschichten auf Ihren Sperrbildschirm. Diese Funktion verwendet Ihre Daten nicht ohne Ihre Zustimmung zur Personalisierung. Lesen und akzeptieren Sie die &lt;a href =%1$s>Datenschutzerklärung&lt;/a> und &lt;a href =%2$s>Nutzervereinbarung&lt;/a> des Inhalte-Drittanbieters, bevor Sie diese Funktion nutzen.</string>
     <string name="terms_of_use">Allgemeine Geschäftsbedingungen</string>
     <string name="terms_of_use_label">Lesen Sie unsere Nutzungsbedingungen und Datenschutzerklärung, um zu verstehen, welche Informationen wir sammeln, wie wir sie verwenden und welche Möglichkeiten Ihnen zur Verfügung stehen.
 Sie müssen unsere Nutzungsbedingungen und Datenschutzerklärung akzeptieren, bevor Sie MIUI verwenden können.\nBestandteile von %s und Mi-Konto verbinden sich mit dem Internet und erfassen Ihren Standort.</string>
     <string name="terms_of_use_label_Mistore">, Mi Store System-Plugin</string>
+    <string name="terms_of_use_label_RMS">Berechtigungsmanager</string>
+    <string name="terms_of_use_label_ai_assistant">KI-Assistent</string>
+    <string name="terms_of_use_label_app_vault">Infoassistent</string>
+    <string name="terms_of_use_label_back">Sicherungsdienst</string>
+    <string name="terms_of_use_label_ble">Gesicherter Standortanbieter</string>
+    <string name="terms_of_use_label_finddevice">Gerät finden</string>
+    <string name="terms_of_use_label_game">Spiele</string>
+    <string name="terms_of_use_label_home">Startbildschirm</string>
+    <string name="terms_of_use_label_landscape">Optimierungsfunktion für Querformatansicht</string>
+    <string name="terms_of_use_label_mi_account">Mi-Konto-Komponenten</string>
+    <string name="terms_of_use_label_os">OS KI-Einstellung</string>
     <string name="terms_of_use_label_package">, Paket-Installer</string>
-    <string name="terms_of_use_label_phrase">, Häufige Sätze</string>
-    <string name="terms_of_use_label_systemhelper">, Selbstregistrierter Dienst</string>
+    <string name="terms_of_use_label_parallel_windows">Parallele Fenster</string>
+    <string name="terms_of_use_label_phrase">, häufige Sätze</string>
+    <string name="terms_of_use_label_power_detection">Stromdetektor</string>
+    <string name="terms_of_use_label_power_performance">Akku und Leistung</string>
+    <string name="terms_of_use_label_quickapp">Schnell-Apps</string>
+    <string name="terms_of_use_label_simcard">Mi SIM-Aktivierungsdienste</string>
+    <string name="terms_of_use_label_smart_service">Intelligente Dienste</string>
+    <string name="terms_of_use_label_statistics">Statistik</string>
+    <string name="terms_of_use_label_systemhelper">, selbstregistrierter Dienst</string>
+    <string name="terms_of_use_label_translation">Übersetzungsdienst</string>
+    <string name="terms_of_use_label_use_location_and_network_global">"Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Während Ihr Gerät aktiviert wird, werden die folgenden Dienste eine Netzwerkverbindung herstellen und auf Ihren Standort zugreifen: "</string>
+    <string name="terms_of_use_label_use_network_china">"Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Während Ihr Gerät aktiviert wird, werden die folgenden Dienste eine Netzwerkverbindung herstellen: "</string>
+    <string name="terms_of_use_label_wallpaper">Hintergrundbild</string>
     <string name="terms_of_use_lable_apps">Mi Dienste, Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Gerät finden, Startbildschirm, Spiele, MIUI Daemon, MSA-Systemkomponenten, Übersetzungsdienste, Quick Apps, Infoassistent, Statistiken, Mi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Mi Dienste, Xiaomi Cloud, Gerät finden, Startbildschirm, Spiele, MIUI Daemon, MSA-Systemkomponenten, Übersetzungsdienst, MIUI SDK, Quick Apps, Infoassistent, Statistik, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -566,6 +600,7 @@ Sie müssen der Datenschutzerklärung von Mint Keyboard zustimmen, bevor Sie die
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
     <string name="welcome">Willkommen</string>
+    <string name="withdraw_consent">Wenn Sie Ihre Zustimmung widerrufen, werden die Hintergrundkarussell-Dienste deaktiviert.</string>
     <string name="yesterday">Gestern</string>
     <string name="zone_picker_title">Zeitzone auswählen</string>
 </resources>
