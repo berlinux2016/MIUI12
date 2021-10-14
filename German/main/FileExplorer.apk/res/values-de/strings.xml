@@ -793,7 +793,7 @@
     <string name="save_name_success">Änderung erfolgreich</string>
     <string name="search_app">Quelle</string>
     <string name="search_app_more">Mehr</string>
-    <string name="search_category">Nach Kategorie suchen</string>
+    <string name="search_category">Kategorien</string>
     <string name="search_category_folder">Ordner</string>
     <string name="search_description">Nach allen Dateien auf dem Gerät suchen</string>
     <string name="search_download">Downloads;Neueste Downloads</string>
