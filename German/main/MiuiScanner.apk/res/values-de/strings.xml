@@ -747,7 +747,7 @@
     <string name="word_to_be_recognized_is_aligned_with_cross">Das zu erkennende Wort wird am Kreuz ausgerichtet</string>
     <string name="word_translation">Wortübersetzung</string>
     <string name="wx_not_installed_toast">Diese Funktion muss WeChat öffnen. Zuerst WeChat installieren.</string>
-    <string name="xiaoai_classmate_scan_text">Mi KI scannen</string>
+    <string name="xiaoai_classmate_scan_text">Mit Mi KI scannen</string>
     <string name="xiaoai_dialog">"Versuchen Sie zu sagen, was Sie
 mit Mi KI scannen wollen"</string>
     <string name="yesterday">Gestern</string>

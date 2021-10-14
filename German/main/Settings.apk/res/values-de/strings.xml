@@ -8698,7 +8698,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_policy_change_endtitle">Lesen und akzeptieren Sie die neue Version von %s, bevor Sie fortfahren.</string>
     <string name="sos_privacy_policy_change_message_reject">Sie können Notfall-SOS nicht weiter nutzen, wenn Sie der neuen Version der Datenschutzerklärung nicht zustimmen. Der aktualisierten %s jetzt zustimmen?</string>
     <string name="sos_privacy_policy_change_subtitle">Datenschutzerklärung Notfall-SOS wurde aktualisiert:</string>
-    <string name="sos_privacy_policy_change_title">Aktualisierte Datenschutzerklärung</string>
+    <string name="sos_privacy_policy_change_title">Datenschutzerklärung aktualisiert</string>
     <string name="sos_privacy_policy_change_title_reject">App kann nicht genutzt werden</string>
     <string name="sos_privacy_policy_no_net_button">Verstanden</string>
     <string name="sos_privacy_policy_no_net_message">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

@@ -1194,6 +1194,12 @@ Diese Seite jetzt wirklich verlassen?"</string>
     <string name="notification_download_completed">Erfolgreich heruntergeladen</string>
     <string name="notification_download_failed">Herunterladen fehlgeschlagen</string>
     <string name="notification_wechat_expired_empty">WeChat hat diese Videoclips bereits gelöscht.</string>
+    <string name="offline_notification_text">Zum Öffnen der Anzeige antippen</string>
+    <string name="offline_notification_title">Anzeige anzeigen, die Sie gespeichert hatten, als Sie offline waren</string>
+    <string name="offline_opt_in_confirmation">Sie erhalten eine Benachrichtigung mit dem Link, wenn Sie wieder online sind</string>
+    <string name="offline_opt_in_decline">Nein danke</string>
+    <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Website des Inserenten.</string>
+    <string name="offline_opt_in_title">Anzeige öffnen, wenn Sie wieder online sind</string>
     <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
     <string name="open_private_folder">Loslassen, um versteckte Ordner anzuzeigen</string>
     <string name="open_settings">Zu Einstellungen gehen</string>
@@ -1636,7 +1642,7 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="report_event_refresh">Aktualisieren</string>
     <string name="report_event_select_language">Sprachauswahl</string>
     <string name="report_path_extra">Nicht beigetreten</string>
-    <string name="request_camera_permission_message">Dieser Dienst muss Ihre Erlaubnis einholen, wir werden uns strikt an die einschlägigen Gesetze halten, um Ihre persönlichen Daten zu schützen:: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufzeichnungsdienste zum Einstellen von Avatar &lt;/b>&lt;br>&lt;br> Wenn Sie dem Aufrufen der oben genannten Berechtigungen nicht zustimmen, funktioniert diese Funktion nicht ordnungsgemäß, hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Einwilligung zu widerrufen.</string>
+    <string name="request_camera_permission_message">Dieser Dienst benötigt Ihre Zustimmung. Wir werden uns strikt an die einschlägigen Gesetze halten, um Ihre persönlichen Daten zu schützen: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufzeichnungsdienste zum Einstellen von Avatar &lt;/b>&lt;br>&lt;br> Wenn Sie dem Aufrufen der oben genannten Berechtigungen nicht zustimmen, funktioniert diese Funktion nicht ordnungsgemäß, hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Einwilligung zu widerrufen.</string>
     <string name="request_profile_error">Abrufen von Kontoinformationen fehlgeschlagen</string>
     <string name="resend_active_email">Erneut senden</string>
     <string name="resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Stellen Sie sicher, dass sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
@@ -1647,6 +1653,12 @@ Einige Webseiten verwenden Ihren früheren Browserverlauf nicht, um ihre Werbung
     <string name="restart_phone_bind_message">Der Empfang der SMS kann einige Zeit dauern. Trotzdem neu beginnen?</string>
     <string name="restart_phone_bind_title">Wiederherstellungstelefon ändern</string>
     <string name="return_to_homepage">Zurück zur Startseite</string>
+    <string name="risk_malicious_url">Diese Webseite könnte ein Sicherheitsrisiko darstellen.</string>
+    <string name="risk_protect_browsing">Mi Browser prüft Webseiten auf Sicherheitsprobleme</string>
+    <string name="risk_safe_url">Diese Webseite ist sicher</string>
+    <string name="risk_setting_des">Mi Browser die Prüfung von Webseiten auf Sicherheitsprobleme erlauben</string>
+    <string name="risk_setting_title">Sicheres Surfen</string>
+    <string name="risk_unspecified_url">Es gibt ein Problem mit dem Sicherheitszertifikat dieser Webseite.</string>
     <string name="rlv_last_refreshing_time">%1$s aktualisiert</string>
     <string name="rlv_loading_more">Einen Moment…</string>
     <string name="rlv_pull_to_refresh">Zum Aktualisieren herunterziehen</string>

@@ -26,6 +26,9 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="copy">Kopieren</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Für den Zugriff auf die Rufnummer, um das Gerät zu orten, wenn es nicht mit dem Internet verbunden ist</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Zur Ortung dieses Geräts, wenn es nicht mit dem Internet verbunden ist</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Zum Auffinden Ihres Geräts und zum Umschalten in den Verloren-Modus</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="default_debt_msg_words">"Dieses Gerät ist wegen einer überfälligen Zahlung gesperrt.

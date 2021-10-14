@@ -76,6 +76,11 @@
         <item>Um Ihr Gerät zu identifizieren</item>
         <item>Um Ihr Gerät zu lokalisieren und in den Verlustmodus zu schalten</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Zum Auffinden Ihres Geräts und zum Umschalten in den Verloren-Modus</item>
+        <item>Zur Ortung dieses Geräts, wenn es nicht mit dem Internet verbunden ist</item>
+        <item>Für den Zugriff auf die Rufnummer, um das Gerät zu orten, wenn es nicht mit dem Internet verbunden ist</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Um Einträge zu synchronisieren</item>
         <item>Um Nachrichten zu synchronisieren</item>

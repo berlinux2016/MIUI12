@@ -32,6 +32,14 @@
         <item>in 30 Minuten</item>
         <item>nie</item>
     </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Extra klein</item>
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+        <item>Extra groß</item>
+        <item>XXL</item>
+    </string-array>
     <string-array name="cellular_package_type">
         <item>Monatstarif</item>
         <item>Unbegrenzt</item>
