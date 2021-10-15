@@ -79,7 +79,7 @@
     <string name="adb_wireless_verifying_qrcode_text">Gerät koppeln…</string>
     <string name="adbwifi_warning_message">Wireless-Debugging ist nur für Entwicklungszwecke vorgesehen. Verwenden Sie es, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten zu lesen.</string>
     <string name="adbwifi_warning_title">Wireless-Debugging zulassen?</string>
-    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>
+    <string name="add_user_failed">Neuen Benutzer erstellen nicht möglich</string>
     <string name="afternoon">Nachmittag</string>
     <string name="alarm_template">um %1$s</string>
     <string name="alarm_template_far">um %1$s</string>
@@ -417,7 +417,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="guest_nickname">Gast</string>
     <string name="guest_reset_guest">Gast zurücksetzen</string>
     <string name="guest_reset_guest_confirm_button">Zurücksetzen</string>
-    <string name="guest_reset_guest_dialog_title">Gast zurücksetzen?</string>
+    <string name="guest_reset_guest_dialog_title">Gast jetzt zurücksetzen?</string>
     <string name="guest_resetting">Gast zurücksetzen…</string>
     <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
     <string name="hdcp_checking_title">HDCP-Prüfung</string>
@@ -522,7 +522,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="media_category">Medien</string>
     <string name="media_transfer_this_device_name">Dieses Gerät</string>
-    <string name="media_transfer_this_phone">Dieses Telefon</string>
+    <string name="media_transfer_this_phone">Dieses Gerät</string>
     <string name="media_transfer_wired_device_name">Kabelgebundenes Audiogerät</string>
     <string name="media_transfer_wired_usb_device_name">Kabelgebundener Kopfhörer</string>
     <string name="mi_audio_relay_connect_failed">Erneut versuchen</string>
@@ -996,9 +996,9 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_add_user_type_title">Hinzufügen</string>
     <string name="user_guest">Gast</string>
-    <string name="user_image_choose_photo">Bild wählen</string>
+    <string name="user_image_choose_photo">Galerie</string>
     <string name="user_image_photo_selector">Foto wählen</string>
-    <string name="user_image_take_photo">Foto machen</string>
+    <string name="user_image_take_photo">Kamera</string>
     <string name="user_info_settings_title">Benutzerinfo</string>
     <string name="user_need_lock_message">Vor der Erstellung eines eingeschränkten Profils müssen Sie eine Bildschirmsperre einrichten, um Ihre Apps und persönlichen Daten zu schützen</string>
     <string name="user_new_profile_name">Neues Profil</string>
@@ -1064,7 +1064,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="wifi_disabled_generic">Deaktiviert</string>
     <string name="wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
     <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
-    <string name="wifi_disabled_wifi_failure">WLAN-Verbindungsfehler</string>
+    <string name="wifi_disabled_wifi_failure">Keine WLAN-Verbindung möglich</string>
     <string name="wifi_disconnected">Getrennt</string>
     <string name="wifi_display_certification">Wireless-Display-Zertifizierung</string>
     <string name="wifi_display_certification_summary">Optionen für Wireless-Display-Zertifizierung anzeigen</string>

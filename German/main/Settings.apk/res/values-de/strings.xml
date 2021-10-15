@@ -40,7 +40,7 @@
     <string name="about_ad_service_instructions">Über Werbedienste und Datenschutz</string>
     <string name="about_phone_device_name_warning">Ihr Gerätename ist für Apps auf Ihrem Telefon sichtbar. Er kann auch von anderen Personen gesehen werden, wenn Sie sich mit Bluetooth-Geräten verbinden oder einen WLAN-Hotspot einrichten.</string>
     <string name="about_phone_enter_xiaomi_net">Mehr erfahren</string>
-    <string name="about_settings">Über das Gerät</string>
+    <string name="about_settings">Über das Telefon</string>
     <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
     <string name="about_summary">Auf Android %1$s aktualisiert</string>
     <string name="ac_enable_summary">Passwort erforderlich, um die App zu öffnen</string>
@@ -504,7 +504,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="add_text_app_name">Test-App-Paket hinzufügen</string>
     <string name="add_text_app_name_here">Paketname eingeben</string>
     <string name="add_text_app_package_name">Test-App-Paket hinzufügen</string>
-    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>
+    <string name="add_user_failed">Neuen Benutzer erstellen nicht möglich</string>
     <string name="add_virtual_keyboard">Tastaturen verwalten</string>
     <string name="added_sources_dashboard_title">Rundfunkquellen hinzugefügt</string>
     <string name="added_sources_title">Rundfunkquellen</string>

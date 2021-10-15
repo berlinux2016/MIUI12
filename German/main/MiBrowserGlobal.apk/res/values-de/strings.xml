@@ -918,7 +918,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="mw_actionbar_web_search">Websuche</string>
     <string name="mw_add_to_dictionary">Zum Wörterbuch hinzufügen</string>
     <string name="mw_autofill_popup_content_description">Autofill-Popup-Benachrichtigung anzeigen</string>
-    <string name="mw_chip_remove_icon_content_description">"'%1$s' entfernen"</string>
+    <string name="mw_chip_remove_icon_content_description">\"%1$s\" entfernen"</string>
     <string name="mw_color_picker_button_black">Schwarz</string>
     <string name="mw_color_picker_button_blue">Blau</string>
     <string name="mw_color_picker_button_cancel">Abbrechen</string>
@@ -996,7 +996,7 @@ Diese Seite jetzt wirklich verlassen?"</string>
     <string name="mw_js_dialog_title">Seite \" %s \" sagt:</string>
     <string name="mw_last_month">Letzten Monat</string>
     <string name="mw_license_activity_title">System WebView-Lizenzen</string>
-    <string name="mw_link_copied">Link kopiert</string>
+    <string name="mw_link_copied">Link erfolgreich kopiert</string>
     <string name="mw_low_memory_error">Vorheriger Vorgang kann wegen geringem Speicher nicht abgeschlossen werden</string>
     <string name="mw_menu_refresh">Neu laden</string>
     <string name="mw_miui_content_copy">Kopieren</string>
