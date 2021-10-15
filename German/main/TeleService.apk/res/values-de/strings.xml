@@ -205,7 +205,7 @@
     <string name="add_ecc_number">Notfallnummer hinzufügen</string>
     <string name="add_fdn_contact">Rufnummernbeschränkung hinzufügen</string>
     <string name="add_sip_account">Konto hinzufügen</string>
-    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>>
+    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>
     <string name="add_vm_number_str">Nummer hinzufügen</string>
     <string name="adding_fdn_contact">Rufnummernbeschränkung hinzufügen…</string>
     <string name="additional_cdma_call_settings">Weitere CDMA-Anrufeinstellungen</string>
