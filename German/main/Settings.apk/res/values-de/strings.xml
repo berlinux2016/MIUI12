@@ -2375,6 +2375,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
     <string name="connected_device_see_all_summary">Bluetooth wird eingeschaltet</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, Fahrmodus</string>
     <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, Fahrmodus, NFC</string>
+    <string name="connected_devices_dashboard_default_summary">Bluetooth, koppeln</string>
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, Fahrmodus</string>
     <string name="connected_devices_dashboard_summary">Bluetooth, Fahrmodus, NFC</string>
     <string name="connected_devices_dashboard_title">Verbundene Geräte</string>
@@ -3107,6 +3108,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
     <string name="dndm_vip_list_starred_contact">Favorit</string>
     <string name="dndm_wristband">Aktivieren mit Mi Band</string>
     <string name="dndm_wristband_detailed">Nicht stören einschalten, wenn das Mi Band erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit schlafen</string>
+    <string name="dns_select_dialog_title">Private DNS-Modus wählen</string>
     <string name="do_disclosure_generic">Dieses Gerät wird von Ihrer Firma verwaltet</string>
     <string name="do_disclosure_learn_more">Erfahren Sie mehr</string>
     <string name="do_disclosure_with_name">Dieses Gerät wird von %s verwaltet</string>
@@ -7444,6 +7446,7 @@ UT Interface: %5$s"</string>
     <string name="restore_telephony_hit">Wiederherstellung startet die Telefon-App neu</string>
     <string name="restr_pin_enter_admin_pin">Admin-PIN eingeben</string>
     <string name="restrict_background_blacklisted">Hintergrunddaten ausgeschaltet</string>
+    <string name="restrict_background_blocklisted">Hintergrunddaten ausgeschaltet</string>
     <string name="restrict_bg_app">Beschränken</string>
     <string name="restrict_max_aspect_ratio_title">Diese Apps funktionieren nicht richtig im Vollbildmodus</string>
     <string name="restricted_app_detail_footer">Diese Apps haben den Akku im Hintergrund benutzt. Beschränkte Apps funktionieren evtl. nicht richtig und Benachrichtigungen können sich verzögern.</string>

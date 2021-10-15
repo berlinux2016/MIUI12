@@ -164,6 +164,7 @@
     <string name="notify_connected_message">Sie können mit diesem PC Dateien übertragen und mit Ihrem Telefon interagieren</string>
     <string name="notify_connected_title">Mit %1$s verbunden</string>
     <string name="open_folder">Anzeigen</string>
+    <string name="pcmode_not_support_multi_window">PC-Modus unterstützt nicht die Anzeige mehrerer Fenster</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_all_purpose">Willkommen bei MIUI+! Mit dieser App können Sie Ihr Telefon mit einem Computer verbinden und zwei Geräte zu einer Arbeitsstation kombinieren.</string>
     <string name="privacy_describe_change_wifi_state">Um Geräte zu verbinden und Dateien über WLAN zu übertragen</string>

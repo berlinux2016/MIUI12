@@ -885,7 +885,7 @@ Versuchen Sie es in %3$d Sekunden erneut."</string>
     <string name="kg_invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
     <string name="kg_invalid_puk">Geben Sie den richtigen PUK-Code ein. Bei wiederholten Versuchen wird die SIM-Karte dauerhaft deaktiviert.</string>
     <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-Code sollte aus 8 Ziffern bestehen</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-Code muss %1$d Ziffern enthalten.</string>
     <string name="kg_login_account_recovery_hint">"Benutzernamen oder Passwort vergessen?
 Besuchen Sie <b>google.com/accounts/recovery</b>"</string>
     <string name="kg_login_checking_password">Konto prüfen…</string>

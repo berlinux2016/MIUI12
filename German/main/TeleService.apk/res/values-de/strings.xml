@@ -1126,6 +1126,7 @@ Mobile Daten trotzdem nutzen?"</string>
     <string name="fdn_summary">Ausgehende Anrufe auf Beschränkungsliste oder auf bestimmte Vorwahlen beschränken</string>
     <string name="fdn_with_label">Rufnummernbeschränkung (%s)</string>
     <string name="fire_type_description">Feuer</string>
+    <string name="fiveg_available_status1">NR verfügbar:</string>
     <string name="fiveg_bearer_status1">5G-Bearer-Status:</string>
     <string name="fiveg_carrier_aggregation_title">5G Carrier Aggregation</string>
     <string name="fiveg_endc_available1">NR ENDC verfügbar:</string>
@@ -1328,6 +1329,7 @@ Sie können weiterhin Notrufe tätigen."</string>
     <string name="kddi_sim_lock_status_update_success">Update erfolgreich</string>
     <string name="keep_screen_on">Eingeschaltet lassen</string>
     <string name="keep_screen_on_summary">Bildschirm während des Ladens nicht ausschalten</string>
+    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
     <string name="keywords_carrier_settings_euicc">Mobilfunkanbieter, esim, sim, euicc, Mobilfunkanbieter wechseln, Mobilfunkanbieter hinzufügen</string>
     <string name="kr_emergency_111">Nationale Sicherheit (111)</string>
     <string name="kr_emergency_112">Polizei (112)</string>

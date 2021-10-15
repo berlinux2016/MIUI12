@@ -488,6 +488,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="interact_across_profiles_summary_3">Sie können Apps jederzeit in den Datenschutzeinstellungen Ihres Geräts deaktivieren.</string>
     <string name="keep_screen_on">Bildschirm nicht sperren</string>
     <string name="keep_screen_on_summary">Bildschirm geht beim Laden nicht aus</string>
+    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
     <string name="keywords_storage_menu_free">bereinigen, Speicher</string>
     <string name="keywords_vibrate_for_calls">Vibration</string>
     <string name="keywords_wifi_display_settings">spiegeln</string>
