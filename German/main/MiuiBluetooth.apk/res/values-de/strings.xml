@@ -335,7 +335,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_icon_content_description">Fehler</string>
-    <string name="evening">Nachmittag</string>>
+    <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="external_source_trusted">Zulassen</string>
@@ -620,10 +620,10 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="month_september_shortest">S</string>
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
-    <string name="mr_button_content_description">Übertragungstaste</string>
-    <string name="mr_cast_button_connected">Übertragungstaste. Verbunden.</string>
-    <string name="mr_cast_button_connecting">Übertragungstaste. Verbinden.</string>
-    <string name="mr_cast_button_disconnected">Übertragungstaste. Getrennt.</string>
+    <string name="mr_button_content_description">Übertragen</string>
+    <string name="mr_cast_button_connected">Übertragen. Verbunden.</string>
+    <string name="mr_cast_button_connecting">Übertragen. Verbinden.</string>
+    <string name="mr_cast_button_disconnected">Übertragen. Getrennt.</string>
     <string name="mr_cast_dialog_title_view_placeholder">Keine Info verfügbar</string>
     <string name="mr_chooser_searching">Geräte finden</string>
     <string name="mr_chooser_title">Übertragen auf</string>
@@ -997,7 +997,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_add_user_type_title">Hinzufügen</string>
     <string name="user_guest">Gast</string>
-    <string name="user_image_choose_photo">Galerie</string>
+    <string name="user_image_choose_photo">Bild wählen</string>
     <string name="user_image_photo_selector">Foto wählen</string>
     <string name="user_image_take_photo">Kamera</string>
     <string name="user_info_settings_title">Benutzerinfo</string>
@@ -1076,7 +1076,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="wifi_hotspot_switch_off_text">Aus</string>
     <string name="wifi_hotspot_switch_on_text">An</string>
     <string name="wifi_limited_connection">Eingeschränkte Verbindung</string>
-    <string name="wifi_metered_label">Gemessen</string>
+    <string name="wifi_metered_label">Kostenpflichtig</string>
     <string name="wifi_no_internet">Internetverbindung nicht möglich</string>
     <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
     <string name="wifi_not_in_range">Nicht in Reichweite</string>
