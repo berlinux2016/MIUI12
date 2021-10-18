@@ -1781,7 +1781,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
     <string name="noon">Mittag</string>
     <string name="not_a_valid_port">Portnummer muss zwischen %1$d und %2$d liegen.</string>
     <string name="not_allowed">Ihre SIM-Karte verbietet eine Verbindung mit diesem Netzwerk</string>
-    <string name="not_default_data_content_description">Nicht für die Datenverwendung eingestellt</string>>
+    <string name="not_default_data_content_description">Nicht für die Datenverwendung eingestellt</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt keinen Schutz vor gefälschten Basisstationen auf Chipebene.</string>
     <string name="not_voice_capable">Sprachanruf wird nicht unterstützt</string>

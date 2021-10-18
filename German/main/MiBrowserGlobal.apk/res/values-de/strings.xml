@@ -396,7 +396,7 @@ werden nicht im Verlauf angezeigt."</string>
     <string name="delete_result_success">Erfolgreich gelöscht</string>
     <string name="delete_task_and_file_dialog_msg">Aufgabe wird zusammen mit der zugehörigen Datei gelöscht. Sie können gelöschte Elemente nicht wiederherstellen.</string>
     <string name="delete_task_and_file_dialog_title">Ausgewählte Aufgabe und Datei löschen?</string>
-    <string name="delete_task_dialog_msg">Ausgewählte Aufgabe löschen?</string>>
+    <string name="delete_task_dialog_msg">Ausgewählte Aufgabe löschen?</string>
     <string name="detail_guide_tips">Hochwischen für weitere verwandte Elemente</string>
     <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen</string>
     <string name="diagnosis_log_sent_format">"Diagnoseprotokoll wurde gesendet.

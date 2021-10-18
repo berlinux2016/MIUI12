@@ -5048,7 +5048,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">Um Fingerabdruck zu verwenden, Muster festlegen</string>
     <string name="lockpassword_choose_your_pattern_message">Zur Sicherheit Muster festlegen</string>
     <string name="lockpassword_choose_your_pin_header">PIN festlegen</string>
-    <string name="lockpassword_choose_your_pin_header_for_biometrics">PIN zur Verwendung von Gesicht oder Fingerabdruck festlegen</string>>
+    <string name="lockpassword_choose_your_pin_header_for_biometrics">PIN zur Verwendung von Gesicht oder Fingerabdruck festlegen</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Um Gesichtserkennung zu verwenden, PIN festlegen</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Um Fingerabdruck zu verwenden, PIN festlegen</string>
     <string name="lockpassword_choose_your_pin_header_second_space">PIN für Zweitprofil</string>

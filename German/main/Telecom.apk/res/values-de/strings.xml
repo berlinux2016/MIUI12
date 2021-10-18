@@ -88,7 +88,7 @@
     <string name="adbwifi_warning_title">Wireless-Debugging zulassen?</string>
     <string name="add_blocked_dialog_body">Blockieren Sie Anrufe und Texte aus</string>
     <string name="add_blocked_number_hint">Rufnummer</string>
-    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>>
+    <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>
     <string name="add_vm_number_str">Nummer hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
     <string name="alarm_template">um %1$s</string>

@@ -63,7 +63,7 @@
     <string name="adb_pairing_device_dialog_failed_title">Kopplung erfolglos</string>
     <string name="adb_pairing_device_dialog_pairing_code_label">WLAN-Pairing-Code</string>
     <string name="adb_pairing_device_dialog_title">Mit Gerät koppeln</string>
-    <string name="adb_qrcode_pairing_device_failed_msg">Gerät koppeln fehlgeschlagen. Entweder war der QR-Code falsch, oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>>
+    <string name="adb_qrcode_pairing_device_failed_msg">Gerät koppeln fehlgeschlagen. Entweder war der QR-Code falsch, oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>
     <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke gedacht. Benutzen Sie es, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten zu lesen.</string>
     <string name="adb_warning_title">USB-Debugging erlauben?</string>
     <string name="adb_wireless_connection_failed_message">Sicherstellen, dass %1$s mit dem richtigen Netzwerk verbunden ist</string>
