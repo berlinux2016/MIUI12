@@ -178,10 +178,12 @@ zum Ansehen tippen"</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="operation_delete">Löschen</string>
     <string name="operation_send">Senden</string>
+    <string name="permission_desc">Details Berechtigungen</string>
     <string name="permission_intro_microphone">Zur Aufnahme von Ton, wenn die Tonquelle auf Mikrofon eingestellt ist</string>
     <string name="permission_intro_storage">Zum Speichern von Bildschirmaufnahmen</string>
     <string name="permission_microphone_desc">Mikrofon als Audioquelle für Bildschirmaufnahmen verwenden</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
+    <string name="privacy_settings">Datenschutz</string>
     <string name="quit_recording">Bildschirmaufnahme beenden</string>
     <string name="recording_failure">Aufzeichnung fehlgeschlagen, bitte starten Sie die Bildschirmaufnahme neu</string>
     <string name="recording_max_size">Aufzeichnung wurde gestoppt und gespeichert, da die maximale Videogröße erreicht wurde. Beginnen Sie mit der Aufnahme dort, wo Sie aufgehört haben, wenn Sie noch nicht fertig sind.</string>
@@ -303,6 +305,7 @@ zum Ansehen tippen"</string>
     <string name="using_record_confirm_ok">Zulassen</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
+    <string name="view_privacy">Datenschutzerklärung ansehen</string>
     <string name="view_recorded_file">Tippen, um die aufgezeichnete Datei anzuzeigen</string>
     <string name="view_recorded_videos">Aufnahmen anzeigen</string>
     <string name="warning_recording_when_a2dp_connect">Ihr Gerät unterstützt keine Systemtöne für die Aufnahme, während ein Bluetooth-Headset verwendet wird.</string>

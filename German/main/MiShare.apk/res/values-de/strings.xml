@@ -37,6 +37,8 @@
     <string name="confirm_cancel_task_files">Dateien an %1$s senden abbrechen?</string>
     <string name="confirm_cancel_task_images">Bildern an %1$s senden abbrechen?</string>
     <string name="copy">Kopieren</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Für die Dateiübertragung über Bluetooth und WLAN</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Zum Senden und Empfangen von Dateien</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="default_device_name">Unbekanntes Gerät</string>
@@ -135,6 +137,7 @@
     <string name="hide">Ausblenden</string>
     <string name="i_know">Verstanden</string>
     <string name="location_enabled">Mi Share hat Standortdienste eingeschaltet, um Geräte in der Nähe zu finden</string>
+    <string name="menu_item_permission_title">Details Berechtigungen</string>
     <string name="menu_item_privacy_title">Datenschutzerklärung</string>
     <string name="mi_drop">Mi Share</string>
     <string name="midnight">Nacht</string>

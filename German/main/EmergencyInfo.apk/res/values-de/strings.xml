@@ -82,6 +82,7 @@
     <string name="adbwifi_warning_message">Wireless-Debugging ist nur für Entwicklungszwecke vorgesehen. Verwenden Sie es, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten zu lesen.</string>
     <string name="adbwifi_warning_title">Wireless-Debugging zulassen?</string>
     <string name="add_emergency_contact">Kontakt hinzufügen</string>
+    <string name="add_medical_info">Daten hinzufügen</string>
     <string name="add_user_failed">Neuen Benutzer erstellen nicht möglich</string>
     <string name="address">Adressieren</string>
     <string name="age">Alter: %1$d</string>

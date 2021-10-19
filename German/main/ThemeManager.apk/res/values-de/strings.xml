@@ -75,6 +75,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="app_disable_transparent_wallpaper">Ohne transparenten Hintergrund</string>
     <string name="app_enable_transparent_wallpaper">Mit transparentem Hintergrund</string>
     <string name="app_name">Themen</string>
+    <string name="application_list_permission_desc">Zur Anzeige von Apps, die mit transparenten Hintergrundbildern kompatibel sind</string>
     <string name="apply_choosen_type_resource">Gewählte Elemente anwenden</string>
     <string name="apply_default_font_tip">Aktuellen Systemfont verwenden?</string>
     <string name="apply_failed">Anwenden nicht möglich</string>
@@ -415,6 +416,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="has_mamual_hide_icons">Symbole ausblenden</string>
     <string name="has_mamual_hide_theme">Ausgeblendet</string>
     <string name="has_mamual_hide_wallpaper">Ausgeblendet</string>
+    <string name="head_portraits">Profilfoto</string>
     <string name="hide_free_aod">Kostenlose Themen ausblenden</string>
     <string name="hide_free_font">Kostenlose Fonts ausblenden</string>
     <string name="hide_free_icons">Kostenlose Symbole ausblenden</string>
@@ -638,6 +640,9 @@ dd.MM."</string>
     <string name="my_gifts">Geschenke</string>
     <string name="my_gifts_purchased">"Gekauft "</string>
     <string name="my_gifts_received">"Erhalten "</string>
+    <string name="need_to_open_application_permission_desc">Um zu erfahren, welche Apps mit transparenten Hintergrundbildern kompatibel sind, erlauben Sie Themen den Zugriff auf die Liste der auf Ihrem Gerät installierten Apps.</string>
+    <string name="need_to_open_permission">Berechtigungen erforderlich</string>
+    <string name="need_to_open_storage_permission_desc">Um Elemente in Themen verwenden und herunterladen zu können, erlauben Sie der App zuerst den Speicherzugriff.</string>
     <string name="network_exception">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="night">Abend</string>
     <string name="no_cta_agreed">GetApps hat keine CTA-Berechtigungen</string>
@@ -670,6 +675,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="ota_recovery_theme_notity_content">Sie können zu dem Thema zurückgehen, das Sie vor dem Update genutzt haben.</string>
     <string name="ota_recovery_theme_notity_title">Thema wiederherstellen</string>
     <string name="password_toggle_content_description">Passwortsichtbarkeit umschalten</string>
+    <string name="permission_desc">Details Berechtigungen</string>
     <string name="personalize_alarm_ringtone_title">Alarme</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Klingeltöne</string>
@@ -696,6 +702,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="present_local_themes_subtitle">Passen Sie Ihr Gerät an</string>
     <string name="present_official_themes">Unsere Auswahl</string>
     <string name="present_online_themes">Mehr Online-Themen</string>
+    <string name="privacy_settings">Datenschutz</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_loading_tips">Einen Moment…</string>
     <string name="provision_second_title">Wählen Sie eins aus verschiedenen Standardthemen</string>
@@ -1053,6 +1060,9 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="still_apply">Anwenden</string>
+    <string name="storage_migration_exit_msg">Um Themen mit den kommenden Android-Versionen kompatibel zu machen, haben wir Ihre heruntergeladenen Elemente an einen neuen Ort verschoben. App neu starten, um die Änderungen anzuwenden und die heruntergeladenen Inhalte anzuzeigen.</string>
+    <string name="storage_permission_denied_desc">Themen den Speicherzugriff erlauben, um Elemente anzuzeigen</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
@@ -1315,6 +1325,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="video_not_support_title">Dieses Video ist zu groß</string>
     <string name="video_silence_apply_success">Video ohne Ton erfolgreich konfiguriert</string>
     <string name="video_wallpaper_import">Tippen Sie hier, um Elemente hinzuzufügen</string>
+    <string name="view_privacy">Datenschutzerklärung ansehen</string>
     <string name="vip_level_dialog_positive">Ich weiß</string>
     <string name="vip_level_dialog_title">Tipps</string>
     <string name="wallpaper_apply">Anwenden</string>

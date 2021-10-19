@@ -27,6 +27,8 @@
     <string name="close">Schließen</string>
     <string name="confirm_device_credential_password">Passwort verwenden</string>
     <string name="copy">Kopieren</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Für die Audioübermittlung bei der Übertragung</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Für die Dateiübertragung zwischen Geräten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="default_error_msg">Unbekannter Fehler</string>
@@ -227,6 +229,7 @@
     <string name="settings_pc_history_title">Verbindungsverlauf</string>
     <string name="settings_pc_trusted_title">Automatisch verbinden</string>
     <string name="settings_pc_use_tile">Über diese Funktion</string>
+    <string name="settings_permission_description">Details Berechtigungen</string>
     <string name="settings_privacy_policy">Datenschutzerklärung</string>
     <string name="settings_scanner_summary">Mit MIUI+ über einen QR-Code verbinden</string>
     <string name="settings_trusted">Automatisch verbinden</string>
