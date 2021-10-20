@@ -1,41 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="privacy">Privacy Policy</string>
-    <string name="privacy_cloud_confirm">Turn on sync</string>
-    <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Privacy Policy</string>
-    <string name="privacy_cloud_confirm_content2">User Agreement</string>
-    <string name="privacy_cloud_confirm_detail">&lt;Data&gt;\"After you turn on sync, photos and videos from this device will be uploaded to Xiaomi Cloud and merged with previously synced items (if any). Read and agree to the Xiaomi Cloud\'s &lt;a href=\"%1$s\"&gt;User Agreement&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Privacy Policy&lt;/a&gt; before you continue.\"&lt;/Data&gt;</string>
-    <string name="privacy_cloud_confirm_detail_negative">Exit</string>
-    <string name="privacy_cloud_confirm_detail_positive">Agree</string>
-   <string name="privacy_cloud_confirm_rejected">Consent to the Privacy Policy of Xiaomi Cloud was withdrawn for this account. Try using a different account.</string>
-    <string name="privacy_detail">View Privacy Policy</string>
-    <string name="privacy_detail_map">View Gallery Map Privacy Policy</string>
-    <string name="privacy_entrance">Privacy</string>
-    <string name="privacy_map">Gallery Map</string>
-    <string name="privacy_map_detail">&lt;Data&gt;This service allows you to view photos and videos with location info on a map. We use Baidu Map Open SDK to provide you with this service. Read and agree to &lt;a href=\"%1$s\"&gt;Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a&gt; before you continue.&lt;/Data&gt;</string>
-    <string name="privacy_map_detail_content">Baidu Map Privacy Policy for Open Platform Products and Services</string>
-    <string name="privacy_permission">Permissions</string>
-    <string name="privacy_permission_account">Accounts</string>
-    <string name="privacy_permission_account_detail">For signing in and syncing items with the cloud</string>
-    <string name="privacy_permission_agree">Granted</string>
-    <string name="privacy_permission_clip">Accessing clipboard</string>
-    <string name="privacy_permission_clip_detail">For accessing copied items</string>
-    <string name="privacy_permission_clip_write">Saving items to clipboard</string>
-    <string name="privacy_permission_clip_write_detail">For copying items</string>
-    <string name="privacy_permission_contact">Contacts</string>
-    <string name="privacy_permission_contact_detail">For naming people on photos and videos</string>
-    <string name="privacy_permission_detail">Permissions details</string>
-    <string name="privacy_permission_disagree">Not granted</string>
-    <string name="privacy_permission_location">Location</string>
-    <string name="privacy_permission_location_detail">For displaying photos and videos on the map</string>
-    <string name="privacy_permission_shotcut">Home screen shortcut</string>
-    <string name="privacy_permission_shotcut_detail">For creating Home screen shortcuts</string>
-    <string name="privacy_permission_storage">Storage</string>
-    <string name="privacy_permission_storage_detail">For storing photos and videos</string>
-    <string name="privacy_rejected">Withdrawal of consent</string>
-    <string name="privacy_rejected_map">Withdraw consent to the Privacy Policy of Gallery Map</string>
-    <string name="privacy_rejected_map_detail">Your withdrawal of consent to the Privacy Policy of Gallery Map will be held as refusing to accept its services. Other basic features and services of Gallery won\'t be affected. Withdraw anyway?</string>
-
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -1866,10 +1830,44 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="prepare_to_drop">Speichern in %s</string>
     <string name="preparing_data">Einen Moment…</string>
     <string name="print_log">Protokoll drucken</string>
+    <string name="privacy">Datenschutzerklärung</string>
+    <string name="privacy_cloud_confirm">Synchronisierung einschalten</string>
+    <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Datenschutzerklärung</string>
+    <string name="privacy_cloud_confirm_content2">Nutzervereinbarung</string>
+    <string name="privacy_cloud_confirm_detail"><Data>Wenn Sie die Synchronisierung aktivieren, werden die Fotos und Videos von diesem Gerät in die Xiaomi Cloud hochgeladen und mit den zuvor synchronisierten Elementen (falls vorhanden) zusammengeführt. Lesen und akzeptieren Sie die Xiaomi Cloud &lt;a href=\"%1$s\"&gt;Nutzervereinbarung &lt;/a&gt; und &lt;a href=\"%2$s\"&gt;Datenschutzerklärung &lt;/a&gt;, bevor Sie fortfahren.</Data></string>
+    <string name="privacy_cloud_confirm_detail_negative">Beenden</string>
+    <string name="privacy_cloud_confirm_detail_positive">Zustimmen</string>
+    <string name="privacy_detail">Datenschutzerklärung ansehen</string>
+    <string name="privacy_detail_map">Datenschutzerklärung Galeriekarte anzeigen </string>
+    <string name="privacy_entrance">Datenschutz</string>
+    <string name="privacy_map">Galeriekarte</string>
+    <string name="privacy_map_detail"><Data>Dieser Dienst erlaubt es Ihnen, Fotos und Videos mit Standortdaten auf einer Karte anzuzeigen. Wir verwenden Baidu Map Open SDK, um Ihnen diesen Dienst zur Verfügung zu stellen. Lesen und akzeptieren Sie die &lt;a href=\"%1$s\"&gt;Baidu Map Datenschutzerklärung für Produkte und Dienste der offenen Plattform&lt;/a&gt;, bevor Sie fortfahren.</Data></string>
+    <string name="privacy_map_detail_content">Baidu Map Datenschutzerklärung für Produkte und Dienste der offenen Plattform</string>
+    <string name="privacy_permission">Berechtigungen</string>
+    <string name="privacy_permission_account">Konten</string>
+    <string name="privacy_permission_account_detail">Zur Anmeldung an und Synchronisierung von Elementen mit der Cloud</string>
+    <string name="privacy_permission_agree">Gewährt</string>
+    <string name="privacy_permission_clip">Zugriff auf die Zwischenablage</string>
+    <string name="privacy_permission_clip_detail">Für den Zugriff auf kopierte Elemente</string>
+    <string name="privacy_permission_clip_write">Elemente in der Zwischenablage speichern</string>
+    <string name="privacy_permission_clip_write_detail">Zum Kopieren von Elementen</string>
+    <string name="privacy_permission_contact">Kontakte</string>
+    <string name="privacy_permission_contact_detail">Für die Benennung von Personen auf Fotos und Videos</string>
+    <string name="privacy_permission_detail">Details Berechtigungen</string>
+    <string name="privacy_permission_disagree">Nicht gewährt</string>
+    <string name="privacy_permission_location">Standort</string>
+    <string name="privacy_permission_location_detail">Zur Anzeige von Fotos und Videos auf der Karte</string>
     <string name="privacy_permission_request_message"><Data>Galerie benötigt Zugriff auf %3$s. Die von uns gesammelten Informationen werden in Übereinstimmung mit unseren &lt;a href=\"%1$s\">\"Nutzungsbedingungen\"&lt;/a> und der &lt;a href=\"%2$s\">\"Datenschutzerklärung\"&lt;/a> verwendet. Zulassen?</Data></string>
     <string name="privacy_permission_request_negative">Einschränken</string>
     <string name="privacy_permission_request_positive">Erlauben</string>
     <string name="privacy_permission_request_title">Erforderliche Rechte</string>
+    <string name="privacy_permission_shotcut">Startbildschirm-Verknüpfung</string>
+    <string name="privacy_permission_shotcut_detail">Zum Erstellen von Startbildschirm-Verknüpfungen</string>
+    <string name="privacy_permission_storage">Speicher</string>
+    <string name="privacy_permission_storage_detail">Zum Speichern von Fotos und Videos</string>
+    <string name="privacy_rejected">Zustimmung widerrufen</string>
+    <string name="privacy_rejected_map">Zustimmung zur Datenschutzerklärung von Gallery Map widerrufen</string>
+    <string name="privacy_rejected_map_detail">Der Widerruf Ihrer Zustimmung zur Datenschutzerklärung von Galeriekarte wird als Verweigerung der Annahme der Dienstleistungen betrachtet. Andere grundlegende Funktionen und Dienste von Galerie sind davon nicht betroffen. Trotzdem widerrufen?</string>
     <string name="private_entry_lock_state_activated_text">Loslassen zum Öffnen privater Ordner</string>
     <string name="private_entry_lock_state_enterd_text">Herunterziehen zum Öffnen privater Ordner</string>
     <string name="produce_dialog_text_multi">Mehrere Elemente</string>
@@ -1879,6 +1877,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="projection_device_connection_failed">Verbindung zum Gerät fehlgeschlagen</string>
     <string name="projection_local_mobile">Mobil</string>
     <string name="projection_multi_title">Geräteliste</string>
+   <string name="privacy_cloud_confirm_rejected">Die Zustimmung zu den Datenschutzbestimmungen von Xiaomi Cloud wurde für dieses Konto widerrufen. Versuchen Sie es mit einem anderen Konto.</string>
     <string name="projection_screen_project_in_screening">Sie verwenden Ihr Gerät jetzt zum Übertragen</string>
     <string name="projection_single_title">Auf %s übertragen</string>
     <string name="projection_slide_exit">Diashow beenden</string>

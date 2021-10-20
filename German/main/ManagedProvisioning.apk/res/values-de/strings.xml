@@ -76,10 +76,10 @@
     <string name="continue_button">Fortfahren</string>
     <string name="continue_provisioning_notify_text">Tippen, um Ihr Arbeitsprofil weiter einzurichten</string>
     <string name="continue_provisioning_notify_title">Vollständig verschlüsselt</string>
-    <string name="cope_provisioning_step_1_header">Arbeits-Apps werden in Ihrem Arbeitsprofil aufbewahrt &amp; verwaltet von Ihrem IT-Admin</string>
+    <string name="cope_provisioning_step_1_header">Arbeits-Apps werden in Ihrem Arbeitsprofil gespeichert &amp; verwaltet von Ihrem IT-Admin</string>
     <string name="cope_provisioning_step_2_header">Persönliche Apps sind separat &amp; versteckt vor Arbeits-Apps</string>
     <string name="cope_provisioning_step_3_header">Ihr IT-Admin kann dieses Gerät steuern &amp; bestimmte Apps sperren</string>
-    <string name="cope_provisioning_summary">Arbeits-Apps werden in Ihrem Arbeitsprofil aufbewahrt und von Ihrem IT-Admin verwaltet. Persönliche Apps sind von den Arbeits-Apps getrennt und versteckt. Ihr IT-Admin kann dieses Gerät steuern und bestimmte Apps sperren.</string>
+    <string name="cope_provisioning_summary">Arbeits-Apps werden in Ihrem Arbeitsprofil gespeichert und von Ihrem IT-Admin verwaltet. Persönliche Apps sind von den Arbeits-Apps getrennt und versteckt. Ihr IT-Admin kann dieses Gerät steuern und bestimmte Apps sperren.</string>
     <string name="copy">Kopieren</string>
     <string name="copying_certs">Richte CA-Zertifikate ein</string>
     <string name="couldnt_set_up_device">Gerät wurde nicht eingerichtet. Für Hilfe kontaktieren Sie Ihren Admin.</string>
