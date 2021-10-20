@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="custom_define_permission_desc_android.permission_group.STORAGE">For downloading items, as well as displaying and managing downloads</string>
-  <string name="dialog_privacy_update_button1">Cancel</string>
-  <string name="dialog_privacy_update_button2">Agree</string>
-  <string name="dialog_privacy_update_title">Updated Privacy Policy</string>
-  <string name="dialog_user_know_button1">Exit</string>
-  <string name="dialog_user_know_button2">Agree</string>
-  <string name="dialog_user_know_content"><Data>"You won't be able to keep using this feature unless you agree to the new version of the &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. Agree to the updated Privacy Policy now?"</Data></string>
-  <string name="dialog_user_know_title">Attention</string>
-  <string name="permission">Permissions</string>
-  <string name="pref_permission_description">Permissions details</string>
-  <string name="privacy">Privacy</string>
-  
     <string name="Only_the_wifi">Nur mit WLAN</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -81,6 +69,7 @@
     <string name="copy_info">In die Zwischenablage kopiert. Sie können es mit Freunden teilen!</string>
     <string name="creat_task_success">Zur Warteschlange hinzugefügt</string>
     <string name="create_task">Aufgabe erstellen</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Zum Herunterladen von Elementen sowie zum Anzeigen und Verwalten von Downloads</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="delete">Löschen</string>
@@ -113,6 +102,9 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="dialog_media_not_found">Externen Speicher zum Download anschließen</string>
     <string name="dialog_msg_disabled_net">%1$s eingeschränkte Downloads im aktuellen Netzwerk. Auf Netzwerkeinstellungen tippen, um zur Sicherheits-App zu wechseln.</string>
     <string name="dialog_msg_recommend">Nach Ausschalten können Sie keine empfohlenen Quellen mehr anzeigen. Sie können \"Inhalt nur über WLAN laden\ wählen", um mobile Daten zu sparen.</string>
+    <string name="dialog_privacy_update_button1">Abbrechen</string>
+    <string name="dialog_privacy_update_button2">Zustimmen</string>
+    <string name="dialog_privacy_update_title">Datenschutzerklärung aktualisiert</string>
     <string name="dialog_queued_body">Datei zur Warteschlange hinzugefügt, wird bald heruntergeladen</string>
     <string name="dialog_speed_cancel">Abbrechen</string>
     <string name="dialog_speed_msg">Verwendung mobiler Daten für den Netzwerktest kann große Datenmengen verursachen. Trotzdem fortsetzen?</string>
@@ -122,6 +114,10 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="dialog_title_not_available">Download fehlgeschlagen</string>
     <string name="dialog_title_queued_body">Datei noch nicht fertig</string>
     <string name="dialog_title_recommend">Empfohlene Quellen ausschalten</string>
+    <string name="dialog_user_know_button1">Beenden</string>
+    <string name="dialog_user_know_button2">Zustimmen</string>
+    <string name="dialog_user_know_content"><Data>Sie können diese Funktion nur dann weiter nutzen, wenn Sie der neuen Version der &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> zustimmen. Jetzt zustimmen?</Data></string>
+    <string name="dialog_user_know_title">Achtung</string>
     <string name="disable">Aus</string>
     <string name="display_expire_netiv1">Diesen Monat</string>
     <string name="do_not_support_url">"Dieser URL-Typ wird nicht unterstützt"</string>
@@ -386,9 +382,11 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="paused_waiting_to_retry">Auf erneuten Versuch warten</string>
     <string name="percent_title">%1$s Personen haben heruntergeladen</string>
     <string name="period_of_validity">Gültigkeitsdauer:</string>
+    <string name="permission">Berechtigungen</string>
     <string name="pref_download_revert_default">Speichern an Standardort</string>
     <string name="pref_download_settings_title">Download über mobile Daten ist eingeschränkt</string>
     <string name="pref_download_storage_path">Speichern an eigenem Ort</string>
+    <string name="pref_permission_description">Details Berechtigungen</string>
     <string name="pref_sniff_shortcut">Verknüpfung auf Startbildschirm für Websuche erstellen</string>
     <string name="pref_summary_any_bytes_popup">Immer auf WLAN warten für Downloads</string>
     <string name="pref_summary_enable_max_bytes_popup">Benachrichtigung beim Download über mobile Daten anzeigen</string>
@@ -397,6 +395,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="pref_title_enable_max_bytes_popup">Eingabeaufforderung zum Datenverbrauch anzeigen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preferences_title">Einstellungen</string>
+    <string name="privacy">Datenschutz</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_tip_cancel">Abbrechen</string>
     <string name="privacy_tip_content">Xunlei-Beschleuniger zum schnelleren Download verwenden? Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre Mi-Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie aktive Abos für diesen Dienst haben.</string>
