@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="permission_desc">Permissions details</string>
+    <string name="privacy_settings">Privacy</string>
+    <string name="view_privacy">View Privacy Policy</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

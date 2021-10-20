@@ -3529,6 +3529,7 @@ Gerät neu starten und erneut versuchen."</string>
     <string name="external_ram_dialog_btn_ok">Neustart</string>
     <string name="external_ram_dialog_message">Ihr Gerät neu starten, um die Änderungen zu übernehmen.</string>
     <string name="external_ram_dialog_title">Gerät neu starten</string>
+    <string name="external_ram_remind_toast">Speicherplatz wird knapp. Speichererweiterung wurde vorerst deaktiviert.</string>
     <string name="external_ram_summary">%1$s %2$s an RAM hinzufügen, indem Sie Speicherplatz belegen. Verwenden Sie diese Funktion nur, wenn genügend Speicherplatz auf Ihrem Gerät verfügbar ist.</string>
     <string name="external_ram_title">Speichererweiterung</string>
     <string name="external_ram_toast">Speichererweiterung kann nicht verwendet werden, da der Speicherplatz nicht ausreicht</string>

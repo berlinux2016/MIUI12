@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="agree">Agree</string>
+    <string name="exit">Exit</string>
+    <string name="open_or_close_wlan">Turn Wi-Fi on and off</string>
+    <string name="permission_description">Permissions details</string>
+    <string name="pref_permission_allowed">Granted</string>
+    <string name="pref_permission_manage_key_storage">Access photos and files on device</string>
+    <string name="pref_permission_not_allowed">Not granted</string>
+    <string name="privacy_policy_renew">Updated Privacy Policy</string>
+    <string name="privacy_policy_renew_content"><Data>"File Manager's &lt;a href=\"%1$s\">Privacy Policy&lt;/a> was updated. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to the new version of Privacy Policy before you continue."</Data></string>
+    <string name="withdraw">Withdraw</string>
+    <string name="withdraw_consent">Withdrawal of consent</string>
+    <string name="withdraw_consent_content">"If you continue, you'll withdraw your consent to the Privacy Policy of File Manager. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As File Manager provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept File Manager services."</string>
+    <string name="withdraw_consent_summary">Withdraw consent to the Privacy Policy of File Manager</string>
+
     <string name="a_week_share_rank">Wöchentliche Rangliste</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
