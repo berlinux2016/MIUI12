@@ -492,7 +492,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
     <string name="perm_read_sms">SMS lesen</string>
     <string name="perm_storage">Externen Speicher lesen und beschreiben</string>
     <string name="permission_admitted">Gewährt</string>
-    <string name="permission_backup_calendar">Zum Sichern vonKalendereinträgen</string>
+    <string name="permission_backup_calendar">Zum Sichern von Kalendereinträgen</string>
     <string name="permission_backup_calendar_desc">Um Kalenderereinträge zu sichern, erlauben Sie dieser App zuerst, sie zu bearbeiten.</string>
     <string name="permission_backup_calllog">Zum Sichern der Anrufliste</string>
     <string name="permission_backup_calllog_desc">Um die Anrufliste zu sichern, erlauben Sie dieser App zuerst den Zugriff auf sie.</string>
