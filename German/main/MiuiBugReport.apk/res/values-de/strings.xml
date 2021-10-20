@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="catch_full_log_item_title_camera">Camera</string>
+  <string name="catch_full_log_item_title_charge">Charge</string>
+  <string name="catch_full_log_item_title_trace">Jank</string>
+  <string name="catch_full_log_privacy_content_camera">"You're generating logs and saving them on your device. The logs may contain Camera usage info (including CPU frequency, system call, memory usage etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+  <string name="catch_full_log_privacy_content_charge">"You're generating logs and saving them on your device. The logs may contain Charge info. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+  <string name="catch_full_log_privacy_content_trace">"You're generating logs and saving them on your device. The logs may contain Program running record (including CPU frequency, system call, memory usage etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+  <string name="miuix_access_state_desc">Selected</string>
+  <string name="miuix_alphabet_indexer_name">Index bar</string>
+  <string name="miuix_indexer_selected">Selected %s</string>
+  <string name="withdraw">Withdraw</string>
+  <string name="withdraw_consent">Withdrawal of consent</string>
+  <string name="withdraw_consent_hint">"If you continue, you'll withdraw your consent to the Privacy Policy of %1$s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %2$s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %3$s services. Withdraw consent now?"</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

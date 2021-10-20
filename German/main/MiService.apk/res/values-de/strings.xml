@@ -1,4 +1,8 @@
 <resources>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Zustimmung widerrufen</string>
+    <string name="miui_feedback_main_withdraw">Widerrufen</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzrichtlinie von %1$s. Die bereits gesammelten und aufbewahrten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -297,9 +301,8 @@ OPPO, Vivo, Realme und andere Marken werden in Kürze auch mit Mi Share kompatib
     <string name="public_net_error_retry">Erneut versuchen</string>
     <string name="public_net_error_sub_title">Ihre Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="public_net_error_title">Netzwerkverbindung fehlgeschlagen</string>
-     <string name="public_open_feedback_service">Service öffnen</string>
     <string name="public_please_authorize">Berechtigungen zum Fortfahren erforderlich</string>
-     <string name="public_welcome_use_feedback_service">Willkommen bei Service und Feedback. Wenn Sie Fragen zur Verwendung von Xiaomi-Produkten haben, können Sie im Bereich \"Service und Feedback\" Benutzer-Feedback abgeben, häufige Probleme einsehen und Anträge beim Kundendienst stellen.</string>
+     <string name="public_welcome_use_feedback_service">Willkommen bei Service und Feedback. Mit dieser App können Sie Feedback abgeben, häufig gestellte Fragen einsehen, Rückgabe und Umtausch von Produkten beantragen und vieles mehr.</string>
     <string name="rationale_ask">Diese App funktioniert möglicherweise nicht richtig ohne die erforderlichen Berechtigungen.</string>
     <string name="rationale_ask_again">Diese App funktioniert möglicherweise nicht richtig ohne die erforderlichen Berechtigungen. Öffnen Sie den Bildschirm mit den App-Einstellungen, um die App-Berechtigungen zu ändern.</string>
     <string name="saturday">Samstag</string>

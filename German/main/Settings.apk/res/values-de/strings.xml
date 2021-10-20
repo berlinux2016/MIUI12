@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="gd_setting_title">Smart toolbox</string>
+    <string name="bluetooth_ble_audio_source_remove_fail">Failed to remove the broadcast source, please try again!</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_confirmed">OK</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_message">After stopping, the headset will not be able to listen to the Bluetooth radio audio</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_title">Stop audio synchronization</string>
+
     <string name="Accounts_settings_title">Konten</string>
     <string name="Data_set">"Daten: "</string>
     <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
