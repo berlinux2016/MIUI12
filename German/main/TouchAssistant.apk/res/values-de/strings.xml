@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="permission_desc">Permissions details</string>
-    <string name="privacy_settings">Privacy</string>
-    <string name="view_privacy">View Privacy Policy</string>
-
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -167,12 +163,14 @@
     <string name="open_panel">Kontextmenü öffnen</string>
     <string name="pay_entry_dialog_title_select">App öffnen</string>
     <string name="pay_entry_dialog_title_setting">App auswählen, um zu aktivieren</string>
+    <string name="permission_desc">Berechtigungsdetils</string>
     <string name="pref_category_mipay">NFC-Verknüpfungen</string>
     <string name="pref_category_others">Andere</string>
     <string name="pref_category_quick_pay">Schnellzahlung</string>
     <string name="pref_category_quick_settings">Schnelleinstellungen</string>
     <string name="pref_category_system">Systemeinstellungen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
+    <string name="privacy_settings">Datenschutz</string>
     <string name="restore_default">Einstellungen zurücksetzen</string>
     <string name="restore_intro">Auf Standardeinstellungen zurücksetzen. Auf Ihrem Telefon werden keine Daten gelöscht.</string>
     <string name="saturday">Samstag</string>
@@ -263,6 +261,7 @@
     <string name="tuesday_shortest">D</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
+    <string name="view_privacy">Datenschutzerklärung ansehen</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
