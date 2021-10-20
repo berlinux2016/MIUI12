@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">For downloading items, as well as displaying and managing downloads</string>
+  <string name="dialog_privacy_update_button1">Cancel</string>
+  <string name="dialog_privacy_update_button2">Agree</string>
+  <string name="dialog_privacy_update_title">Updated Privacy Policy</string>
+  <string name="dialog_user_know_button1">Exit</string>
+  <string name="dialog_user_know_button2">Agree</string>
+  <string name="dialog_user_know_content"><Data>"You won't be able to keep using this feature unless you agree to the new version of the &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. Agree to the updated Privacy Policy now?"</Data></string>
+  <string name="dialog_user_know_title">Attention</string>
+  <string name="permission">Permissions</string>
+  <string name="pref_permission_description">Permissions details</string>
+  <string name="privacy">Privacy</string>
+  
     <string name="Only_the_wifi">Nur mit WLAN</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>

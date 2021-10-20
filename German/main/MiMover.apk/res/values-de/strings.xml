@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cancel_tranfer">Cancel</string>
+  <string name="guest_wainting_title">Continue on your new device</string>
+  <string name="host_verify_lock_hint">Enter screen lock</string>
+  <string name="host_verify_lock_retry">Confirm screen lock</string>
+  <string name="host_verify_lock_summary">This will become your new device\'s screen lock</string>
+  <string name="host_verify_lock_title">Enter your old device\'s screen lock</string>
+  <string name="idm_discovery_positive_text">Transfer</string>
+  <string name="idm_discovery_summary">Looks like you\'re activating a new device now. Transfer items from this device to the new one?</string>
+  <string name="idm_discovery_title">Transfer items to your new device</string>
+  <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+  <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+  <string name="lockscreen_access_pattern_start">Pattern started</string>
+  <string name="manual_connection_hint">Tap \"Connect manually\" on your old device.</string>
+  <string name="miuix_access_state_desc">Selected</string>
+  <string name="miuix_alphabet_indexer_name">Index bar</string>
+  <string name="miuix_indexer_selected">Selected %s</string>
+  <string name="provision_cta_title">Transfer from old device</string>
+  <string name="provision_select_data_null">Select items to transfer</string>
+  <string name="receiver">Receive</string>
+  <string name="receiver_video_summary">Unlock your old device, tap \"Transfer\", and scan this image</string>
+  <string name="receiver_video_title">Transfer from old device</string>
+  <string name="revoke">Withdraw consent</string>
+  <string name="revoke_agree">Withdrawal of consent</string>
+  <string name="revoke_confirm_dialog_statement">If you continue, you\'ll withdraw your consent to the Privacy Policy of Mi Mover. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Mi Mover provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Mi Mover services.</string>
+  <string name="revoke_confirm_dialog_yes">OK</string>
+  <string name="sender_scanning_code">Place the image in the frame</string>
+  <string name="sender_scanning_connecting">Connecting with new device…</string>
+  <string name="skip_transfer">Skip</string>
+  <string name="trans_show_qr_code_label_for_pad">Open Mi Mover on the old device</string>
+  <string name="trans_sync_transfer_data_list_hint">Just a sec…</string>
+  <string name="trans_sync_transfer_data_list_summary_for_pad">Select items on your old device and tap \"Send\".</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

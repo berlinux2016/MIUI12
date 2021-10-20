@@ -317,7 +317,7 @@
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="note_introduction">Mit dieser App können Sie Notizen erstellen, anzeigen und bearbeiten.</string>
-    <string name="other_settings">Weitere Einstellungen</string>
+    <string name="other_settings">Grundeinstellungen</string>
     <string name="other_settings_ad_dialog_agree">Einschalten</string>
     <string name="other_settings_ad_dialog_content">Wenn personalisierte Werbung ausgeschaltet ist, sehen Sie immer noch die gleiche Menge an Werbung wie bei eingeschalteter Funktion. Die Werbung ist jedoch nicht mehr relevant, da sie nicht auf Ihren persönlichen Präferenzen basiert.</string>
     <string name="other_settings_ad_dialog_disagree">Ausschalten</string>

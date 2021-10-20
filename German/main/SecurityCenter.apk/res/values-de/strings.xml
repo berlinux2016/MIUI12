@@ -4519,7 +4519,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und Zugang zu weiteren Funktionen</string>
     <string name="summary_cmcc_app_check">Einige Apps wurden nicht geprüft</string>
     <string name="summary_condition_charge_to_target">Wenn der Akku bis zum eingestellten Wert geladen ist</string>
-    <string name="summary_condition_charge_to_target_percent">Wenn der Akku bis %s geladen ist</string>
+    <string name="summary_condition_charge_to_target_percent">Wenn der Akku bis %d %% geladen ist</string>
     <string name="summary_condition_close_absorbed_mode">Nach dem Ausschalten des Fokusmodus</string>
     <string name="summary_condition_in_charge">Beim Laden</string>
     <string name="summary_condition_insert_headset">Kabelgebundene Kopfhörer anschließen</string>
@@ -4527,7 +4527,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="summary_condition_no_in_charge">Wenn nicht geladen wird</string>
     <string name="summary_condition_open_absorbed_mode">Nach dem Einschalten des Fokusmodus</string>
     <string name="summary_condition_reduce_to_target">Wenn der Akku den eingestellten Wert erreicht hat</string>
-    <string name="summary_condition_reduce_to_target_percent">Wenn der Akku bei %s ist</string>
+    <string name="summary_condition_reduce_to_target_percent">Wenn der Akku bei %d %% ist</string>
     <string name="summary_condition_scan_rubbish">Bereinigung</string>
     <string name="summary_condition_scan_virus">Virenscan</string>
     <string name="summary_condition_unplug_headset">Kabelgebundene Kopfhörer trennen</string>
@@ -4628,7 +4628,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="system_permission_declare_no_say_no">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu erfassen und zu verwenden, wird diese App nicht normal funktionieren.</string>
     <string name="system_permission_declare_no_say_no_analytics">Wenn Sie diese Berechtigungen nicht gewähren möchten, können Sie sich unter Einstellungen &gt; Zusätzliche Einstellungen &gt; Datenschutz &gt; Benutzererfahrungsprogramm abmelden.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu sammeln und zu verwenden, kann diese App teilweise nicht funktionieren.</string>
-    <string name="system_permission_declare_optional">Um Ihnen während der Nutzung der App zusätzliche Dienste anbieten zu können, benötigen wir ggf. folgende Berechtigungen: %s.</string>
+    <string name="system_permission_declare_optional">Um Ihnen während der Nutzung der App zusätzliche Dienste anbieten zu können, benötigen wir ggf. folgende Berechtigungen: %s. Sie können Ihre Berechtigungseinstellungen jederzeit in den Einstellungen anpassen.</string>
     <string name="system_permission_declare_privacy_declare">Diese App muss mit dem Internet verbunden sein und benötigt die folgenden Berechtigungen, um normal arbeiten zu können:</string>
     <string name="system_permission_declare_privacy_no_network">Diese App benötigt die folgenden Berechtigungen, um normal zu funktionieren:</string>
     <string name="system_permission_declare_privacy_no_permission">Diese App muss sich mit dem Internet verbinden und die erforderlichen persönlichen Daten sammeln, um normal arbeiten zu können.</string>
