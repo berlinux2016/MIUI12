@@ -1,25 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="agree">Agree</string>
-    <string name="auto_task_now_city">Current location</string>
-    <string name="auto_task_search_address_point">Search for locations</string>
-    <string name="auto_task_select_city">Select city</string>
-    <string name="gtb_dialog_privacy_speed_message">"You're about to use Xunyou Game Booster. This service will collect your Mi Account ID to record your membership duration."</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>"I've read and agreed to Xunyou Game Booster &lt;a href=\"%1$s\">Privacy Policy.&lt;/a>"</Data></string>
-    <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
-    <string name="privacy_name">Privacy Policy</string>
-    <string name="privacy_title">Privacy Policy</string>
-    <string name="privacy_update">Privacy Policy update</string>
-    <string name="privacy_update_content" formatted="false">"The Privacy policy of Children’s Space is updated as follows
+    <string name="agree">Zustimmen</string>
+    <string name="auto_task_now_city">Aktueller Standort</string>
+    <string name="auto_task_search_address_point">Nach Standorten suchen</string>
+    <string name="auto_task_select_city">Stadt auswählen</string>
+    <string name="gtb_dialog_privacy_speed_message">Sie sind dabei, Xunyou Game Booster zu benutzen. Dieser Dienst erfasst Ihre Mi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu registrieren.</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung gelesen und stimme dieser zu.&lt;/a></Data></string>
+    <string name="privacy_name">Datenschutzerklärung</string>
+    <string name="privacy_title">Datenschutzerklärung</string>
+    <string name="privacy_update">Datenschutzerklärung aktualisieren</string>
+    <string name="privacy_update_content" formatted="false">"Die Datenschutzerklärung vom Kinderprofil wird wie folgt aktualisiert
 %s
-Please read and agree to the updated %s."</string>
-    <string name="recall_confirm">Withdraw</string>
-    <string name="recall_failed">Couldn\'t withdraw consent. Wait a minute or two and try again.</string>
-    <string name="recall_kid_mode">Withdrawal of consent</string>
-    <string name="recall_kid_mode_summary">Withdraw consent to the Privacy Policy of the children’s space</string>
-    <string name="recall_kid_mode_tips">If you withdraw your consent to the children’s space privacy policy, we will delete the data collected by the application in accordance with the law, and all data in the space will be lost and cannot be recovered. If you withdraw your consent, it will be deemed that you do not agree that we continue to provide you with children's space services. Do you withdraw consent?</string>
-    <string name="user_notification">Attention</string>
-    <string name="user_notification_content">You need to agree to %s before we can continue to provide services to you. Do you agree to the updated Privacy policy?</string>
+Bitte lesen und akzeptieren Sie die aktualisierten %s."</string>
+    <string name="recall_confirm">Widerrufen</string>
+    <string name="recall_failed">Zustimmung widerrufen nicht möglich. Einen Moment warten und erneut versuchen.</string>
+    <string name="recall_kid_mode">Zustimmung widerrufen</string>
+    <string name="recall_kid_mode_summary">Zustimmung zur Datenschutzerklärung des Kinderprofils widerrufen</string>
+    <string name="recall_kid_mode_tips">Wenn Sie Ihre Zustimmung zur Datenschuterklärung des Kinderprofils zurückziehen, werden wir die von der App gesammelten Daten in Übereinstimmung mit dem Gesetz löschen und alle Daten im Pofil gehen verloren und können nicht wiederhergestellt werden. Wenn Sie Ihre Zustimmung zurückziehen, wird davon ausgegangen, dass Sie nicht damit einverstanden sind, dass wir Ihnen weiterhin die Dienste des Kinderraums zur Verfügung stellen. Zustimmung zurückziehen?</string>
+    <string name="user_notification">Achtung</string>
+    <string name="user_notification_content">Sie müssen %s zustimmen, damit wir Ihnen weiterhin Dienste anbieten können. Sind Sie mit den aktualisierten Datenschutzerklärungen einverstanden?</string>
 
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
