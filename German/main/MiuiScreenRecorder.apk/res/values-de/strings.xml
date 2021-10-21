@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="add_remark_hint">Hier Ihre Bemerkung eingeben</string>
+    <string name="add_remark_tip">Tippen, um eine Bemerkung hinzuzufügen</string>
+    <string name="empty_tips">Taste antippen, um die Aufnahme zu starten</string>
+    <string name="error_remark_too_long">Ihre Bemerkung ist zu lang</string>
+    <string name="no_records">Noch keine Aufnahmen hier</string>
+    <string name="record_item_title_multi_choice">Auswählen</string>
+    <string name="record_item_title_remark">Bemerkung hinzufügen</string>
+    <string name="record_item_title_send">Teilen</string>
+    <string name="tab_all">Alle</string>
+    <string name="tab_call">Anrufe</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
