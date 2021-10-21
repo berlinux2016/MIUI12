@@ -5,18 +5,18 @@
     <string name="auto_task_search_address_point">Nach Standorten suchen</string>
     <string name="auto_task_select_city">Stadt auswählen</string>
     <string name="gtb_dialog_privacy_speed_message">Sie sind dabei, Xunyou Game Booster zu benutzen. Dieser Dienst erfasst Ihre Mi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu registrieren.</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung gelesen und stimme dieser zu.&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="privacy_name">Datenschutzerklärung</string>
     <string name="privacy_title">Datenschutzerklärung</string>
     <string name="privacy_update">Datenschutzerklärung aktualisieren</string>
-    <string name="privacy_update_content" formatted="false">"Die Datenschutzerklärung vom Kinderprofil wird wie folgt aktualisiert
+    <string name="privacy_update_content" formatted="false">"Die Datenschutzerklärung des Kinderprofils wird wie folgt aktualisiert:
 %s
 Bitte lesen und akzeptieren Sie die aktualisierten %s."</string>
     <string name="recall_confirm">Widerrufen</string>
     <string name="recall_failed">Zustimmung widerrufen nicht möglich. Einen Moment warten und erneut versuchen.</string>
     <string name="recall_kid_mode">Zustimmung widerrufen</string>
     <string name="recall_kid_mode_summary">Zustimmung zur Datenschutzerklärung des Kinderprofils widerrufen</string>
-    <string name="recall_kid_mode_tips">Wenn Sie Ihre Zustimmung zur Datenschuterklärung des Kinderprofils zurückziehen, werden wir die von der App gesammelten Daten in Übereinstimmung mit dem Gesetz löschen und alle Daten im Pofil gehen verloren und können nicht wiederhergestellt werden. Wenn Sie Ihre Zustimmung zurückziehen, wird davon ausgegangen, dass Sie nicht damit einverstanden sind, dass wir Ihnen weiterhin die Dienste des Kinderraums zur Verfügung stellen. Zustimmung zurückziehen?</string>
+    <string name="recall_kid_mode_tips">Wenn Sie Ihre Zustimmung zur Datenschutzerklärung des Kinderprofils widerrufen, werden wir die von der App gesammelten Daten in Übereinstimmung mit dem Gesetz löschen. Alle Daten im Profil gehen verloren und können nicht wiederhergestellt werden. Wenn Sie Ihre Zustimmung widerrufen, wird davon ausgegangen, dass Sie nicht damit einverstanden sind, dass wir Ihnen weiterhin die Dienste des Kinderprofils zur Verfügung stellen. Zustimmung widerrufen?</string>
     <string name="user_notification">Achtung</string>
     <string name="user_notification_content">Sie müssen %s zustimmen, damit wir Ihnen weiterhin Dienste anbieten können. Sind Sie mit den aktualisierten Datenschutzerklärungen einverstanden?</string>
 
