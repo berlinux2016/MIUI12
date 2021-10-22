@@ -807,7 +807,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_setting_need_reset">Standard nach Abschluss der Aufgabe wiederherstellen</string>
     <string name="auto_task_setting_show_task_shortcut_in_desktop">Startbildschirm-Verknüpfung</string>
     <string name="auto_task_show_notification_before_exclude">Benachrichtigungen vor der Ausführung</string>
-    <string name="auto_task_show_notification_before_exit">Benachrichtigungen vor Abschluss</string>.
+    <string name="auto_task_show_notification_before_exit">Benachrichtigungen vor Abschluss</string>
     <string name="auto_task_temp_no_exit">Abbrechen</string>
     <string name="auto_task_temp_no_need">Abbrechen</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarme</string>
