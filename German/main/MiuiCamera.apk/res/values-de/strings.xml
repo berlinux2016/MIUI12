@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="beauty_ne">Original</string>
+    <string name="beauty_no_t">Beautify is off</string>
+    <string name="camera_newcta_audio_message">For recording videos with sound</string>
+    <string name="camera_newcta_camera_message">For taking photos and recording videos</string>
+    <string name="camera_newcta_message">"Welcome to Camera! You can use this app to take photos and record videos. "</string>
+    <string name="camera_newcta_other_message">"To provide you with additional services while you're using the app, we might need the permissions to access your location."</string>
+    <string name="camera_newcta_storage_message">For saving and displaying photos and videos</string>
+    <string name="download_hint_cn">"Looks like your device isn't connected to WLAN. Use %1$s MB of mobile data to download items now?"</string>
+    <string name="download_hint_wifi">"Looks like your device isn't connected to Wi-Fi. Use %1$s MB of mobile data to download items now?"</string>
+    <string name="fromkeyguard_not_permission">To be able to use this feature, unlock your device first.</string>
+    <string name="location_fromkeyguard_not_permission">"Camera isn't allowed to access your location now. Unlock your device first."</string>
+    <string name="lunch_audio_permission_des">For recording videos with sound</string>
+    <string name="lunch_audio_permission_not_ask_again">Allow this app to record audio to be able to use this feature.</string>
+    <string name="lunch_camera_audio_permission_not_ask_again">Allow this app to use camera and record audio to be able to use this feature.</string>
+    <string name="lunch_camera_permission_des">For taking photos and recording videos</string>
+    <string name="lunch_camera_permission_not_ask_again">Allow this app to use camera to be able to use this feature.</string>
+    <string name="lunch_camera_storge_permission_not_ask_again">Allow this app to use camera and access storage to be able to use this feature.</string>
+    <string name="lunch_dialog_setting">Settings</string>
+    <string name="lunch_fromkeyguard_not_permission">"Camera doesn't have permission to perform this action now. Unlock your device first."</string>
+    <string name="lunch_fromkeyguard_not_permission_dialog_ok">Got it</string>
+    <string name="lunch_permission_not_ask_again">Allow this app to use camera, access storage, and record audio to be able to use this feature.</string>
+    <string name="lunch_storge_audio_permission_not_ask_again">Allow this app to access storage and record audio to be able to use this feature.</string>
+    <string name="lunch_storge_permission_des">For saving and displaying photos and videos</string>
+    <string name="lunch_storge_permission_not_ask_again">Allow this app to access storage to be able to use this feature.</string>
+    <string name="manually_raw_tip">"Can't use zoom with RAW format"</string>
+    <string name="mode_edit_photo_disable">Stopped taking photos</string>
+    <string name="mode_edit_video_disable">Stopped recording videos</string>
+    <string name="pref_auto_boot">Autostart</string>
+    <string name="pref_auto_boot_summary">Make Camera more responsive by allowing it to autostart. You can manage autostart permissions in app details.</string>
+
+    <string name="pref_retain_ai_scene">KI-Kamera</string>
+    <string name="pref_retain_ai_scene_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand beibehalten</string>
+    <string name="pref_retain_beauty">Schönheitseffekt</string>
+    <string name="pref_retain_beauty_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird die letzte Einstellung von Schönheitsparametern verwendet</string>
+    <string name="pref_retain_camera_mode">Kameramodus</string>
+    <string name="pref_retain_camera_mode_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird der vorherige Aufnahmemodus und der vordere und hintere Status auf dem ersten Bildschirm beibehalten</string>
+    <string name="pref_retain_camera_status_description">Beim Starten der Kamera die letzte Funktionseinstellung verwenden, anstatt jedes Mal in den Ausgangszustand zurückzusetzen</string>
+    <string name="pref_retain_camera_status_title">Kamerastatus beibehalten</string>
+    <string name="pref_retain_live_shot">Dynamisches Foto</string>
+    <string name="pref_retain_live_shot_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand beibehalten</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
