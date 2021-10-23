@@ -24,9 +24,6 @@
     <string name="lunch_storge_audio_permission_not_ask_again">Allow this app to access storage and record audio to be able to use this feature.</string>
     <string name="lunch_storge_permission_des">For saving and displaying photos and videos</string>
     <string name="lunch_storge_permission_not_ask_again">Allow this app to access storage to be able to use this feature.</string>
-    <string name="manually_raw_tip">"Can't use zoom with RAW format"</string>
-    <string name="mode_edit_photo_disable">Stopped taking photos</string>
-    <string name="mode_edit_video_disable">Stopped recording videos</string>
     <string name="pref_auto_boot">Autostart</string>
     <string name="pref_auto_boot_summary">Make Camera more responsive by allowing it to autostart. You can manage autostart permissions in app details.</string>
 
