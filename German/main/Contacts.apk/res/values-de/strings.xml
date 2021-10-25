@@ -1352,7 +1352,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="privacy_password_title3">Ihr Passwort aktualisieren</string>
     <string name="privacy_password_title4">Passwort aktualisiert</string>
     <string name="privacy_policy_and_user_agreement">Datenschutzerklärung und Nutzervereinbarung</string>
-    <string name="privacy_settings_call_phone">Anrufen</string>
+    <string name="privacy_settings_call_phone">Anrufe tätigen</string>
     <string name="privacy_settings_call_phone_description">Für Anrufe in Apps von Drittanbietern</string>
     <string name="privacy_settings_contacts">Kontakte und Telefon</string>
     <string name="privacy_settings_mallowed">Gewährt</string>

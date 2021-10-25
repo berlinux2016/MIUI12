@@ -22,6 +22,7 @@
     <string name="add_remark_hint">Hier Ihre Bemerkung eingeben</string>
     <string name="add_remark_tip">Tippen, um eine Bemerkung hinzuzufügen</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="allowed">Erlaubt</string>
     <string name="app_info">Aufnahme läuft, zum Beenden antippen</string>
     <string name="app_name">Bildschirmaufnahme</string>
     <string name="app_notification_channel_record_complete">Über beendete Aufnahmen benachrichtigen</string>
@@ -174,6 +175,7 @@
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
     <string name="night">Abend</string>
+    <string name="not_allowed">Nicht erlaubt</string>
     <string name="no_recorder_info">Keine Videos gefunden</string>
     <string name="no_recorder_info2">Auf die Kamera tippen, um eine Aufnahme zu starten</string>
     <string name="no_records">Noch keine Aufnahmen hier</string>
@@ -182,10 +184,18 @@
     <string name="not_set">Nicht festgelegt</string>
     <string name="operation_delete">Löschen</string>
     <string name="operation_send">Senden</string>
-    <string name="permission_desc">Details Berechtigungen</string>
+    <string name="permission_desc">Berechtigungsdeteils</string>
+    <string name="permission_dialog_cancel">Abbrechen</string>
+    <string name="permission_dialog_ok">Einstellungen</string>
     <string name="permission_intro_microphone">Zur Aufnahme von Ton, wenn die Tonquelle auf Mikrofon eingestellt ist</string>
     <string name="permission_intro_storage">Zum Speichern von Bildschirmaufnahmen</string>
     <string name="permission_microphone_desc">Mikrofon als Audioquelle für Bildschirmaufnahmen verwenden</string>
+    <string name="permission_record">Audio aufnehmen</string>
+    <string name="permission_record_description">Für Bereitstellung von Audioaufnahmediensten</string>
+    <string name="permission_storage">Speicherzugriff</string>
+    <string name="permission_storage_description">Zur Aufnahmeverwaltung und zum Herunterladen aus der Cloud</string>
+    <string name="permission_storage_description_for_download">Zum Herunterladen von Aufnahmen aus der Cloud</string>
+    <string name="permission_storage_description_for_manage_files">Zur Aufnahmeverwaltung</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_settings">Datenschutz</string>
     <string name="quit_recording">Bildschirmaufnahme beenden</string>
