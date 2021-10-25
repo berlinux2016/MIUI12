@@ -1961,7 +1961,9 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
     <string name="call_settings_title">Anrufeinstellungen</string>
     <string name="call_title">Gesprächsverlauf</string>
     <string name="call_volume_option_title">Anruflautstärke</string>
+    <string name="calls_and_sms">Anrufe &amp; SMS</string>
     <string name="calls_and_sms_ask_every_time">Jedes Mal fragen</string>
+    <string name="calls_and_sms_category">Wi‑Fi-Calling</string>
     <string name="calls_preference">Anrufeinstellung</string>
     <string name="calls_preference_title">Anrufe</string>
     <string name="calls_sms_calls_preferred">Bevorzugt für Anrufe</string>
@@ -7536,6 +7538,7 @@ UT Interface: %5$s"</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Keine Berechtigungen angefragt</string>
     <string name="rx_link_speed_label">Verbindungsgeschwindigkeit erhalten:</string>
     <string name="rx_wifi_speed">Verbindungsgeschwindigkeit erhalten</string>
+    <string name="safe_install_mode_settings">Sicherer Modus</string>
     <string name="safety_and_regulatory_info">Sicherheits- &amp; Regelwerk</string>
     <string name="sar">RF-Belastungsinformation</string>
     <string name="saturday">Samstag</string>
@@ -8745,7 +8748,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="source_info_details_title">Infos Rundfunkquelle</string>
     <string name="speaker">Lautsprecher</string>
     <string name="speaker_clean">Lautsprecher reinigen</string>
-    <string name="special_access">Spezieller Zugang</string>
+    <string name="special_access">Spezielle Berechtigungen</string>
     <string name="special_access_more">Mehr anzeigen</string>
     <string name="special_preview">Demos</string>
     <string name="speed_label_fast">Schnell</string>

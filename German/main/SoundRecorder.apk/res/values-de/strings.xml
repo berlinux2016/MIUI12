@@ -27,6 +27,7 @@
     <string name="alert_message_delete_record">Ausgewählte Aufnahme(n) löschen?</string>
     <string name="alert_message_delete_record_title">Aufnahme löschen</string>
     <string name="all_record">Alle Aufnahmen</string>
+    <string name="allowed">Gewährt</string>
     <string name="app_name">Rekorder</string>
     <string name="app_record">App-Aufnahmen</string>
     <string name="app_record_preference_title">App-Aufnahmen</string>
@@ -284,6 +285,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="no_records">Noch keine Aufnahmen vorhanden</string>
     <string name="noon">Mittag</string>
     <string name="normal_settings_pref_title">Allgemeine Einstellungen</string>
+    <string name="not_allowed">Nicht gewährt</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen</string>
     <string name="notification_playback">Abspielen…</string>
@@ -327,6 +329,15 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="pay_error_cancel">Zahlung abgebrochen</string>
     <string name="pay_error_null">Zahlungsfehler, Konto prüfen</string>
     <string name="pay_error_unknown">Unbekannter Fehler</string>
+    <string name="permission_desc">Details Berechtigungen</string>
+    <string name="permission_dialog_cancel">Abbrechen</string>
+    <string name="permission_dialog_ok">Einstellungen</string>
+    <string name="permission_record">Audio aufnehmen</string>
+    <string name="permission_record_description">Für die Bereitstellung von Audioaufzeichnungsdiensten</string>
+    <string name="permission_storage">Speicherzugriff</string>
+    <string name="permission_storage_description">Zum Verwalten von Aufnahmen und Herunterladen dieser aus der Cloud</string>
+    <string name="permission_storage_description_for_download">Zum Herunterladen von Aufnahmen aus der Cloud</string>
+    <string name="permission_storage_description_for_manage_files">Zum Verwalten von Aufnahmen</string>
     <string name="play_speed">%1$.1fX-Geschwindigkeit</string>
     <string name="playback_delete_records">Aufnahme löschen</string>
     <string name="playback_share_records">Aufnahme teilen</string>
@@ -349,6 +360,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="preference_status_bar_indicator_prompt">Während der Aufnahme eine blaue Anzeige auf dem Sperrbildschirm anzeigen</string>
     <string name="preference_tip_rename">Aufnahmen selbst benennen</string>
     <string name="privacy_policy_title">Datenschutzerklärung</string>
+    <string name="privacy_settings">Datenschutz</string>
     <string name="recognition_button_add_to_queue">Zur Warteschlange hinzufügen</string>
     <string name="recognition_button_cancel">Nicht jetzt</string>
     <string name="recognition_button_start">Umwandeln</string>
@@ -432,6 +444,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
     <string name="record_list_fm">FM-Aufnahmen</string>
     <string name="record_list_item_recognize_text">Text</string>
     <string name="record_mark_point">%s markiert</string>
+    <string name="record_permission_dialog_title">Mikrofonberechtigungen erforderlich</string>
     <string name="record_picker_title">Aufnahme auswählen</string>
     <string name="record_quliaty_preference_title">Aufnahmequalität</string>
     <string name="record_resotre">Datensätze wiederherstellen</string>
@@ -519,6 +532,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
     <string name="status_bar_back">Zurück mit Antippen</string>
     <string name="status_bar_recording">Aufnahme läuft…</string>
     <string name="status_bar_recording_pause">Aufnahme angehalten</string>
+    <string name="storage_permission_dialog_title">Speicherberechtigungen erforderlich</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
@@ -606,6 +620,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
     <string name="usage_description">Audio umwandeln und Elemente mit der Cloud synchronisieren</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
+    <string name="view_privacy">Datenschutzerklärung ansehen</string>
     <string name="webview_check_network">Netzwerkeinstellungen</string>
     <string name="webview_data_error">Ein Fehler ist aufgetreten</string>
     <string name="webview_locating_fail">Standort wurde nicht gefunden</string>
