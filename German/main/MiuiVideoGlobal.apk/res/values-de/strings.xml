@@ -168,6 +168,7 @@
     <string name="columbus_player_speed_title">Video überspringen?</string>
     <string name="columbus_player_speed_video">VIDEO überspringen</string>
     <string name="columbus_player_unit_sec">Sek</string>
+    <string name="columbus_skip_ad">Überspringen</string>
     <string name="com_facebook_device_auth_instructions">Besuchen Sie &lt;b&gt;facebook.com/device&lt;/b&gt; und geben Sie den oben gezeigten Code ein.</string>
     <string name="com_facebook_image_download_unknown_error">Unerwarteter Fehler beim Herunterladen eines Bildes</string>
     <string name="com_facebook_internet_permission_error_message">WebView-Anmeldung erfordert INTERNET-Berechtigung</string>
@@ -1156,6 +1157,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="remaining_space_not_enough">Herunterladen wegen zu wenig Speicher nicht möglich</string>
     <string name="reminder">Vorsicht</string>
     <string name="rename">Umbenennen</string>
+    <string name="rename_word_out">Dieser Dateiname ist zu lang</string>
     <string name="report">Melden</string>
     <string name="report_content_dislike">Gewalt oder unangemessenes Verhalten</string>
     <string name="report_content_fakement">Spam oder Betrug</string>
@@ -1321,6 +1323,7 @@ Es zeigt nichts an."</string>
     <string name="tab_name_me">Profil</string>
     <string name="tab_name_moment">Momente</string>
     <string name="tab_name_trending">Trend</string>
+    <string name="target_sdk_version_30_upgrade_tips">Einige Videos können hier wegen Android 11-Einschränkungen nicht angezeigt werden. Auf \"Dateien\" tippen, um andere Videos zu finden.</string>
     <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>

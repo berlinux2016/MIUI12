@@ -469,6 +469,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="service_agreement">Ich habe die Allgemeinen Geschäftsbedingungen gelesen und akzeptiert.</string>
     <string name="service_company_adjust_content">Xunlei Network Services Nutzervereinbarung</string>
     <string name="service_fast_pairing_policy"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Mi Link Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
+    <string name="service_interconnection_communication">Xiaomi Internet-Kommunikationsdienste</string>
     <string name="service_location_share_policy"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Datenschutzerklärung für Standortdienste&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="service_mi_account">Mi Konto</string>
     <string name="service_name_address_dialing">Kontakte und Telefon</string>
@@ -498,7 +499,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="service_policy_adjust_content">Xunlei Datenschutzerklärung</string>
     <string name="service_policy_download"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Xunlei Datenschutzerklärung&lt;/a> und &lt;a href=%1$s>Xunlei Netzwerkdienste-Nutzervereinbarung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="service_privacy_index">Datenschutzerklärung</string>
-    <string name="service_security_over_r"><Data>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Datenschutzerklärung&lt;/a>vor der Verwendung von Sicherheit.&lt;br/>&lt;br/>In Übereinstimmung mit den Android 11-Standards wird eine einmalige Erlaubnis innerhalb von 5 Sekunden, sobald die entsprechende App nicht mehr läuft, zurückgezogen. Wenn Sie die App während dieser kurzen Zeitspanne öffnen, wird die Erlaubnis dann zurückgezogen.</Data></string>
+    <string name="service_security_over_r"><Data>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.&lt;br/>&lt;br/>In Übereinstimmung mit den Android R-Standards wird eine einmalige Berechtigung innerhalb einer bestimmten Zeitspanne (ca. &lt;xliff:g example=5 seconds id=short>%2$s&lt;/xliff:g>) entzogen, wenn die entsprechende App nicht mehr läuft. Wenn Sie die App während dieser kurzen Zeitspanne öffnen, wird die Erlaubnis dann zurückgezogen.</Data></string>
     <string name="service_sim_activation">SIM-Kartenaktivierung</string>
     <string name="servicestate_title">Erklärung zur Basisdiensten</string>
     <string name="setting_locale">Region einrichten…</string>
@@ -563,6 +564,7 @@ Sie müssen unsere Nutzungsbedingungen und Datenschutzerklärung akzeptieren, be
     <string name="terms_of_use_label_app_vault">Infoassistent</string>
     <string name="terms_of_use_label_back">Sicherungsdienst</string>
     <string name="terms_of_use_label_ble">Gesicherter Standortanbieter</string>
+    <string name="terms_of_use_label_communication_service">Xiaomi Internet-Kommunikationsdienste</string>
     <string name="terms_of_use_label_finddevice">Gerät finden</string>
     <string name="terms_of_use_label_game">Spiele</string>
     <string name="terms_of_use_label_home">Startbildschirm</string>
@@ -594,6 +596,7 @@ Sie müssen die Kika Datenschutzerklärung akzeptieren, bevor Sie diese Funktion
 Sie müssen der Datenschutzerklärung von Mint Keyboard zustimmen, bevor Sie diese Funktion nutzen können."</string>
     <string name="terms_of_use_lable_gms">, Google Play-Dienste</string>
     <string name="terms_of_use_lable_smart_cards">, Chipkarten</string>
+    <string name="terms_of_use_lable_xmsf">Xiaomi Dienst-Framework</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Datenschutzerklärung</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Datenschutzerklärung</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>

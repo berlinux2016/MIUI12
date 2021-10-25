@@ -179,6 +179,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
+    <string name="gallery_auto_sync_fail_noti_content">Nicht genügend Speicher in der Cloud. Aktualisieren Sie Ihren Speichertarif, um Fotos und Videos zu synchronisieren.</string>
     <string name="help_and_feedback">Hilfe &amp; Feedback</string>
     <string name="hybrid_provider">Bereitgestellt durch %1$s</string>
     <string name="input_password_hint">Passwort eingeben</string>
