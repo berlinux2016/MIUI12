@@ -1,100 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="allow">Granted</string>
-    <string name="do_not_allow">Restricted</string>
-    <string name="not_allow">Not granted</string>
-    <string name="pad_fold_exit_wallpaper_warning_content">You won\'t be able to perform the following actions after you sign out:\nView and use the items you purchased or added to favorites.</string>
-    <string name="pad_fold_exit_wallpaper_warning_title">Sign out of Wallpaper and personalization?</string>
-    <string name="pad_fold_log_in_theme_detail">&lt;Data&gt;\"I\'ve read and agreed to Wallpaper and personalization\'s &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;User Agreement&lt;/a&gt;&lt;/font&gt; and &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt;, as well as Mi Account\'s &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;User Agreement&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; and &lt;a href=\"%4$s\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; (for signing in using the system account).\"&lt;/Data&gt;</string>
-    <string name="pad_fold_log_in_wallpaper">Sign in to Wallpaper and personalization</string>
-    <string name="pad_fold_no_permission">Storage permissions required</string>
-    <string name="pad_fold_no_permission_detail">To be able to change personalization preferences and save downloaded items, allow this feature to access storage first.</string>
-    <string name="personalize">Personalization</string>
-    <string name="phone_exit_theme_warning_content">You won\'t be able to perform the following actions after you sign out:\n1. View and use the items you purchased or added to favorites.\n2. Add comments and likes, follow other people and interact with them.</string>
-    <string name="phone_exit_theme_warning_title">Sign out of Themes?</string>
-    <string name="phone_log_in_theme">Sign in to Themes</string>
-    <string name="phone_log_in_theme_detail">&lt;Data&gt;\"I\'ve read and agreed to Themes\' &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;User Agreement&lt;/a&gt;&lt;/font&gt; and &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt;, as well as Mi Account\'s &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;User Agreement&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; and &lt;a href=\"%4$s\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; (for signing in using the system account).\"&lt;/Data&gt;</string>
-    <string name="pref_read_write_function_detail">For changing personalization preferences and saving downloaded items</string>
-    <string name="pref_reading_the_application_list_detail">For using transparent wallpapers</string>
-    <string name="privacy_action_failed_net_content">A network error occurred. Wait a minute or two and try again.</string>
-    <string name="privacy_action_failed_server_content">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="privacy_action_failed_title">Error</string>
-    <string name="privacy_confirm_logoff_and_exit">Cancel services</string>
-    <string name="privacy_confirm_revoke_and_exit_btn">Withdraw consent</string>
-    <string name="privacy_exit_btn">Exit</string>
-    <string name="privacy_give_up_logoff">Back</string>
-    <string name="privacy_give_up_revoke_btn">Back</string>
-    <string name="privacy_i_know_btn">Continue</string>
-    <string name="privacy_important_prompt_title">Attention</string>
-    <string name="privacy_log_off_succeed">Canceled services successfully</string>
-    <string name="privacy_loging_off_warning">Canceling services…</string>
-    <string name="privacy_logoff_services_title">Cancel services</string>
-    <string name="privacy_logoff_theme_content_1">1. All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.</string>
-    <string name="privacy_logoff_theme_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.</string>
-    <string name="privacy_logoff_theme_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_logoff_theme_service_warning">The following items will be deleted permanently after the services are canceled:</string>
-    <string name="privacy_network_exception">A network error occurred. Wait a minute or two and try again.</string>
-    <string name="privacy_pad_fold_entry">Privacy</string>
-    <string name="privacy_pad_fold_logoff_service_content">Cancel Wallpaper and personalization services</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">1. Make sure that you have the right to cancel services before you continue.\n2. Cancelation of Wallpaper and personalization services won\'t affect the normal usage of other Xiaomi products.\n3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won\'t be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.\nAll the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.\nAll the wallpapers, fonts, and ringtones downloaded to this device.\nAll the permissions preferences, settings, and cached items generated on this device.\nAll the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Statement on the Cancelation of Wallpaper and Personalization Services</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Read and agree to the \"Statement on the Cancelation of Wallpaper and Personalization Services\" before canceling our services.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">You\'re about to cancel Wallpaper and personalozation services.</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">&lt;Data&gt;\"I\'ve read and agreed to the \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Statement on the Cancelation of Wallpaper and Personalization Services&lt;/a&gt;&lt;/font&gt;\".\"&lt;/Data&gt;</string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy">&lt;Data&gt;\"I\'ve read and agreed to the \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization&lt;/a&gt;&lt;/font&gt;\".\"&lt;/Data&gt;</string>
-    <string name="privacy_pad_fold_Read_write_storage">Access storage</string>
-    <string name="privacy_pad_fold_revoke_agree_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
-    <string name="privacy_pad_fold_revoke_agree_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization\" before withdrawing your consent.</string>
-    <string name="privacy_pad_fold_revoke_agree_introduce">If you continue, you\'ll withdraw your consent to the Privacy Policy of Wallpaper and personalization. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Wallpaper and personalization provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Wallpaper and personalization services.</string>
-    <string name="privacy_pad_fold_update_content">Wallpaper and personalization Privacy Policy was updated:</string>
-    <string name="privacy_pad_important_prompt_content">Looks like you haven\'t agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Wallpaper and personalization are still available to you.\nWhenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we\'ll ask you to allow this app to access device storage.</string>
-    <string name="privacy_permission_management_description">Permissions details</string>
-    <string name="privacy_permission_related_content">Permissions</string>
-    <string name="privacy_permit_privacy_policy_content">You won\'t be able to keep using our unless you agree to the new version of &lt;font color =\'#37A5FF\'&gt;&lt;a href=\'%1$s\'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. Agree to the updated Privacy Policy now?</string>
-    <string name="privacy_phone_important_prompt_content">Looks like you haven\'t agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Themes are still available to you.\nWhenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we\'ll ask you to allow this app to access device storage.</string>
-    <string name="privacy_phone_logoff_service_content">Cancel Themes services</string>
-    <string name="privacy_phone_logoff_theme_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">1. Make sure that you have the right to cancel services before you continue.\n2. Cancelation of Themes services won\'t affect the normal usage of other Xiaomi products.\n3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won\'t be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_2">All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.\nAll the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.\nAll the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.\nAll the search history records, permissions preferences, settings, and cached items generated on this device.\nAll the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_prompt">Statement on the Cancelation of Themes Services</string>
-    <string name="privacy_phone_logoff_theme_service_detail_title">Read and agree to the \"Statement on the Cancelation of Themes Services\" before canceling our services.</string>
-    <string name="privacy_phone_logoff_theme_service_introduce">You\'re about to cancel Themes services.</string>
-    <string name="privacy_phone_read_and_write_storage">Access storage</string>
-    <string name="privacy_phone_read_theme_logoff_privacy_policy">&lt;Data&gt;\"I\'ve read and agreed to the \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Statement on the Cancelation of Themes Services&lt;/a&gt;&lt;/font&gt;\".\"&lt;/Data&gt;</string>
-    <string name="privacy_phone_read_theme_privacy_policy">&lt;Data&gt;\"I\'ve read and agreed to the \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Statement on the Withdrawal of Consent to the Privacy Policy of Themes&lt;/a&gt;&lt;/font&gt;\".\"&lt;/Data&gt;</string>
-    <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1">1. Make sure that you have the right to withdraw consent before you continue.\n2. Your withdrawal of consent to the Privacy Policy of Themes won\'t affect the normal usage of other Xiaomi products.\n3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won\'t be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.\nAll the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.\nAll the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.\nAll the search history records, permissions preferences, settings, and cached items generated on this device.\nAll the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_3">4. After you withdraw your consent to the Privacy policy of Themes, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. \n5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent.</string>
-    <string name="privacy_phone_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Themes</string>
-    <string name="privacy_phone_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Themes\" before withdrawing your consent.</string>
-    <string name="privacy_phone_revoke_agree_introduce">If you continue, you\'ll withdraw your consent to the Privacy Policy of Themes. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Themes provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Themes services.</string>
-    <string name="privacy_phone_update_content">Themes Privacy Policy was updated:</string>
-    <string name="privacy_read_statement">Agree to the terms and conditions first</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">Read and agree to the new version of &lt;font color =\'#37A5FF\'&gt;&lt;a href=\'%1$s\'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt; before you continue.</string>
-    <string name="privacy_reading_the_application_list">Access the list of apps installed on this device</string>
-    <string name="privacy_revoke_agree_content">Withdrawal of consent</string>
-    <string name="privacy_revoke_agree_content_1">1. All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.</string>
-    <string name="privacy_revoke_agree_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.</string>
-    <string name="privacy_revoke_agree_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_revoke_agree_data_warning">The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
-    <string name="privacy_revoke_succeed">Withdrew consent successfully</string>
-    <string name="privacy_revoking_warning">Withdrawing consent…</string>
-    <string name="privacy_update_prompt_title">Updated Privacy Policy</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_1">1. Make sure that you have the right to withdraw consent before you continue.\n2. Your withdrawal of consent to the Privacy Policy of Wallpaper and personalization won\'t affect the normal usage of other Xiaomi products.\n3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won\'t be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.\nAll the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.\nAll the wallpapers, fonts, and ringtones downloaded to this device.\nAll the permissions preferences, settings, and cached items generated on this device.\nAll the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_3">4. After you withdraw your consent to the Privacy policy of Wallpaper and personalization, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. \n5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent.</string>
-    <string name="theme_log_out">Sign out</string>
-
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -149,6 +54,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="afternoon">Nachmittag</string>
     <string name="all_resources">Alle</string>
     <string name="all_ringtone_resource">Alle</string>
+    <string name="allow">Gewährt</string>
     <string name="already_latest_version">Aktuell</string>
     <string name="already_newest_version">Aktuelle Version ist auf dem neuesten Stand</string>
     <string name="anonymous_resource_link_error">Hinzufügen nicht möglich</string>
@@ -357,6 +263,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="dialog_content_get_device_status">Diese App muss auf Ihre Geräte-ID zugreifen, um die auf Ihren anderen Geräten gekauften Artikel authentifizieren zu können. Evtl. können Sie einige der gekauften Artikel nicht mehr verwenden, wenn Sie diese Funktion deaktivieren. Trotzdem ausschalten?</string>
     <string name="dialog_show_never">Nicht wieder anzeigen</string>
     <string name="display">Bildschirm</string>
+    <string name="do_not_allow">Eingeschränkt</string>
     <string name="download_failed">Herunterladen fehlgeschlagen</string>
     <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
     <string name="download_success">Herunterladen abgeschlossen</string>
@@ -750,6 +657,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="no_network_please_retry">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="no_wallpaper">Noch keine Elemente vorhanden</string>
     <string name="noon">Mittag</string>
+    <string name="not_allow">Nicht gewährt</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="not_support_incall_show">Dieser Hintergrund funktioniert nicht mit Profilvideos</string>
     <string name="online_no_network">Keine Netzwerkverbindung</string>
@@ -769,8 +677,16 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="ota_recovery_theme_notity_btn">Wiederherstellen</string>
     <string name="ota_recovery_theme_notity_content">Sie können zu dem Thema zurückgehen, das Sie vor dem Update genutzt haben.</string>
     <string name="ota_recovery_theme_notity_title">Thema wiederherstellen</string>
+    <string name="pad_fold_exit_wallpaper_warning_content">"Sie können die folgenden Aktionen nicht mehr durchführen, wenn Sie sich abmelden:
+Anzeigen und Verwenden der Elemente, die Sie gekauft oder zu den Favoriten hinzugefügt haben."</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Von Hintergrundbild und Personalisierung abmelden?</string>
+    <string name="pad_fold_log_in_theme_detail"><Data>Ich habe die &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt; /font> von Hintergrundbild und Personalisierung sowie die &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> und &lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a>&lt;/font> von Mi-Konto gelesen und akzeptiert (für die Anmeldung mit dem Systemkonto).</Data></string>
+    <string name="pad_fold_log_in_wallpaper">Bei Hintergrundbild und Personalisierung anmelden</string>
+    <string name="pad_fold_no_permission">Speicherberechtigungen erforderlich</string>
+    <string name="pad_fold_no_permission_detail">Um die Personalisierungseinstellungen zu ändern und heruntergeladene Elemente zu speichern, muss diese Funktion zuerst auf den Speicher zugreifen können.</string>
     <string name="password_toggle_content_description">Passwortsichtbarkeit umschalten</string>
     <string name="permission_desc">Berechtigungsdetails</string>
+    <string name="personalize">Personalisierung</string>
     <string name="personalize_alarm_ringtone_title">Alarme</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Klingeltöne</string>
@@ -786,9 +702,17 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="personalize_title">Hintergründe und persönliche Anpassung</string>
     <string name="personalize_wallpaper_sub_title">Superhintergrundbilder &amp; vorgestellte Bilder</string>
     <string name="personalize_wallpaper_title">Hintergründe</string>
+    <string name="phone_exit_theme_warning_content">"Sie können die folgenden Aktionen nicht mehr durchführen, wenn Sie sich abmelden:
+1. Die von Ihnen gekauften oder zu den Favoriten hinzugefügten Artikel anzeigen und verwenden.
+2. Kommentare und Likes hinzufügen, anderen Personen folgen und mit ihnen interagieren."</string>
+    <string name="phone_exit_theme_warning_title">Von Themen abmelden?</string>
+    <string name="phone_log_in_theme">Bei Themen anmelden</string>
+    <string name="phone_log_in_theme_detail"><Data>Ich habe die &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt; /font> von Themen sowie die &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> und &lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a>&lt;/font> von Mi-Konto gelesen und akzeptiert (für die Anmeldung mit dem Systemkonto).</Data></string>
     <string name="playing_ringtone">Abspielen</string>
     <string name="pref_lockscreen_magazine_summary">Ersetzen von Hintergrundbilden durch Diashows aus verschiedenen Kategorien</string>
     <string name="pref_privacy_policy">Datenschutzerklärung</string>
+    <string name="pref_read_write_function_detail">Zur Änderung der Personalisierungseinstellungen und zum Speichern heruntergeladener Elemente</string>
+    <string name="pref_reading_the_application_list_detail">Für die Verwendung transparenter Hintergrundbilder</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preference_subtitle_get_device_status">Der App den Zugriff auf Ihre Geräte-ID erlauben, um die auf Ihren anderen Geräten gekauften Artikel herunterladen zu können</string>
     <string name="preference_title_get_device_status">Zugriff auf Geräte-ID</string>
@@ -797,7 +721,112 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="present_local_themes_subtitle">Passen Sie Ihr Gerät an</string>
     <string name="present_official_themes">Unsere Auswahl</string>
     <string name="present_online_themes">Mehr Online-Themen</string>
+    <string name="privacy_action_failed_net_content">Ein Netzwerkfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="privacy_action_failed_server_content">Ein Netzwerkfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="privacy_action_failed_title">Fehler</string>
+    <string name="privacy_confirm_logoff_and_exit">Dienste kündigen</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Zustimmung widerrufen</string>
+    <string name="privacy_exit_btn">Verlassen</string>
+    <string name="privacy_give_up_logoff">Zurück</string>
+    <string name="privacy_give_up_revoke_btn">Zurück</string>
+    <string name="privacy_i_know_btn">Fortfahren</string>
+    <string name="privacy_important_prompt_title">Achtung</string>
+    <string name="privacy_log_off_succeed">Dienste erfolgreich gekündigt</string>
+    <string name="privacy_loging_off_warning">Dienste kündigen…</string>
+    <string name="privacy_logoff_services_title">Dienste kündigen</string>
+    <string name="privacy_logoff_theme_content_1">1. Alle Bestellungen ( inkl. bezahlte Bestellungen), die auf den Xiaomi-Geräten getätigt wurden. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.</string>
+    <string name="privacy_logoff_theme_content_2">2. Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten erstellt wurden.</string>
+    <string name="privacy_logoff_theme_content_5">5. Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt.</string>
+    <string name="privacy_logoff_theme_service_warning">Folgende Elemente werden nach Stornierung der Dienste endgültig gelöscht:</string>
+    <string name="privacy_network_exception">Ein Netzwerkfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="privacy_pad_fold_Read_write_storage">Speicherzugriff</string>
+    <string name="privacy_pad_fold_entry">Datenschutz</string>
+    <string name="privacy_pad_fold_logoff_service_content">Hintergrundbild- und Personalisierungsdienste kündigen</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Alle Hintergrundbilder, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Dienste zu kündigen, bevor Sie fortfahren.
+2. Die Kündigung von Hintergrundbild- und Personalisierungsdiensten hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
+3. Die Kündigung des Dienstes ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald die Dienste gekündigt sind. Folgende Daten werden nach der Kündigung des Dienstes dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden vorgeschrieben):"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Alle Bestellungen ( inkl. bezahlte Bestellungen), die auf den Xiaomi-Geräten getätigt wurden. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.
+Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten erstellt wurden.
+Alle Hintergrundbilder, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.
+Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Die Kündigung des Dienstes bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor der Kündigung des Dienstes durchgeführten Handlungen entstanden sind.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Erklärung zur Kündigung von Hintergrundbild- und Personalisierungsdiensten</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Lesen und akzeptieren Sie die \"Erklärung zur Kündigung von Hintergrundbild- und Personalisierungsdiensten\", bevor Sie unsere Dienste kündigen.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">Sie sind dabei, die Dienste für Hintergrundbild und Personalisierung zu kündigen.</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung zur Kündigung von Hintergrundbild- und Personalisierungsdiensten&lt;/a>&lt;/font>\" gelesen und akzeptiert.</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrundbild und Personalisierung&lt;/a>&lt;/font>\" gelesen und akzeptiert.</Data></string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. Alle Hintergrundbilder, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrundbild und Personalisierung</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrundbild und Personalisierung\", bevor Sie Ihre Zustimmung widerrufen.</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Hintergrundbild und Personalisierung. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb der festgelegten Frist in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Hintergrundbild und Personalisierung ihre Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringen, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Hintergrundbild und Personalisierung betrachtet.</string>
+    <string name="privacy_pad_fold_update_content">Hintergrundbild und Personalisierung-Datenschutzerklärung wurde aktualisiert:</string>
+    <string name="privacy_pad_important_prompt_content">"Anscheinend haben Sie unserer Nutzervereinbarung und Datenschutzerklärung noch nicht zugestimmt. Die grundlegenden Funktionen und Dienste von Hintergrundbild und Personalisierung stehen Ihnen jedoch weiterhin zur Verfügung.
+Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwenden (z. B. als Hintergrundbilder oder Klingeltöne einstellen), werden Sie aufgefordert, dieser App den Speicherzugriff zu erlauben."</string>
+    <string name="privacy_permission_management_description">Berechtigungsdetails</string>
+    <string name="privacy_permission_related_content">Berechtigungen</string>
+    <string name="privacy_permit_privacy_policy_content">"Sie können unsere Website nur dann weiter nutzen, wenn Sie der neuen Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a> zustimmen. Jetzt zustimmen?"</string>
+    <string name="privacy_phone_important_prompt_content">"Anscheinend haben Sie unserer Nutzervereinbarung und Datenschutzerklärung noch nicht zugestimmt. Die grundlegenden Funktionen und Dienste von Themen stehen Ihnen jedoch weiterhin zur Verfügung.
+Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwenden (z. B. als Hintergrundbilder oder Klingeltöne einstellen), werden Sie aufgefordert, dieser App den Speicherzugriff zu erlauben."</string>
+    <string name="privacy_phone_logoff_service_content">Themen-Dienste kündigen</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Alle auf dieses Gerät heruntergeladenen Themen, Hintergrundbilder, dynamischen Hintergrundbilder, Schriftarten, Symbole und Klingeltöne.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Dienste zu kündigen, bevor Sie fortfahren.
+2. Die Kündigung von Themen hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
+3. Die Kündigung des Dienstes ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald die Dienste gekündigt sind. Folgende Daten werden nach der Kündigung des Dienstes dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden vorgeschrieben):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Alle Bestellungen ( inkl. bezahlte Bestellungen), die auf den Xiaomi-Geräten getätigt wurden. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.
+Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten erstellt wurden.
+Alle auf dieses Gerät heruntergeladenen Themen, Hintergrundbilder, dynamischen Hintergrundbilder, Schriftarten, Symbole und Klingeltöne.
+Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Die Kündigung des Dienstes bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor der Kündigung des Dienstes durchgeführten Handlungen entstanden sind.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Erklärung zur Kündigung der Themendienste</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Lesen und akzeptieren Sie die \"Erklärung zur Kündigung der Themendienste\", bevor Sie unsere Dienste kündigen.</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">Sie sind dabei, die Themendienste zu kündigen.</string>
+    <string name="privacy_phone_read_and_write_storage">Speicherzugriff</string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung zur Kündigung der Themendienste&lt;/a>&lt;/font>\" gelesen und akzeptiert.</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Themen&lt;/a>&lt;/font>\"gelesen und akzeptiert.</Data></string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Alle auf dieses Gerät heruntergeladenen Themen, Hintergrundbilder, dynamischen Hintergrundbilder, Schriftarten, Symbole und Klingeltöne.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Dienste zu kündigen, bevor Sie fortfahren.
+2. Der Widerruf Ihrer Zustimmung zur Datenschutzerklärung von Themen hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
+3. Der Widerruf Ihrer Zustimmung ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald die Dienste gekündigt sind. Folgende Daten werden nach der Kündigung des Dienstes dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden vorgeschrieben):"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Alle Bestellungen ( inkl. bezahlte Bestellungen), die Sie auf den Xiaomi-Geräten mit Ihrem Mi-Konto getätigt haben. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.
+Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten mit Ihrem Mi-Konto erstellt wurden.
+Alle auf dieses Gerät heruntergeladenen Themen, Hintergrundbilder, dynamischen Hintergrundbilder, Schriftarten, Symbole und Klingeltöne.
+Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. Wenn Sie Ihre Zustimmung zur Datenschutzerklärung von Themen widerrufen, werden wir die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb einer bestimmten Frist gelöscht, sofern nicht anders gefordert. 
+5. Der Widerruf der Zustimmung bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor dem Widerruf der Zustimmung durchgeführten Handlungen entstanden sind."</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Themen</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Themen\", bevor Sie Ihre Zustimmung widerrufen.</string>
+    <string name="privacy_phone_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Themen. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb der festgelegten Frist in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Themen seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Themen betrachtet.</string>
+    <string name="privacy_phone_update_content">Themen-Datenschutzerklärung  wurde aktualisiert:</string>
+    <string name="privacy_read_statement">Erst den Geschäftsbedingungen zustimmen</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Lesen und akzeptieren Sie die neue Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a>, bevor Sie fortfahren."</string>
+    <string name="privacy_reading_the_application_list">Zugriff auf die Liste der auf diesem Gerät installierten Apps</string>
+    <string name="privacy_revoke_agree_content">Zustimmung widerrufen</string>
+    <string name="privacy_revoke_agree_content_1">1. Alle Bestellungen ( inkl. bezahlte Bestellungen), die Sie auf den Xiaomi-Geräten mit Ihrem Mi-Konto getätigt haben. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.</string>
+    <string name="privacy_revoke_agree_content_2">2. Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten mit Ihrem Mi-Konto erstellt wurden.</string>
+    <string name="privacy_revoke_agree_content_5">5. Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt.</string>
+    <string name="privacy_revoke_agree_data_warning">Folgende Daten werden nach Widerruf der Einwilligung dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden gefordert):</string>
+    <string name="privacy_revoke_succeed">Zustimmung erfolgreich widerrufen</string>
+    <string name="privacy_revoking_warning">Zustimmung widerrufen…</string>
     <string name="privacy_settings">Datenschutz</string>
+    <string name="privacy_update_prompt_title">Datenschutzerklärung aktualisiert</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Ihre Zustimmung zu widerrufen, bevor Sie fortfahren.
+2. Der Widerruf Ihrer Zustimmung zur Datenschutzerklärung für Hintergrundbild und Personalisierung hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
+3. Der Widerruf der Zustimmung ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald Sie Ihre Einwilligung widerrufen haben. Folgende Daten werden nach dem Widerruf der Einwilligung dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden gefordert):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Alle Bestellungen ( inkl. bezahlte Bestellungen), die Sie auf den Xiaomi-Geräten mit Ihrem Mi-Konto getätigt haben. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden
+Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten mit Ihrem Mi-Konto erstellt wurden.
+Alle Hintergrundbilder, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.
+Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Wenn Sie Ihre Zustimmung zur Datenschutzerklärung für Hintergrundbild und Personalisierung widerrufen, werden wir die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb einer bestimmten Frist gelöscht, sofern nicht anders gefordert. 
+5. Der Widerruf der Zustimmung bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor dem Widerruf der Zustimmung durchgeführten Handlungen entstanden sind."</string>
     <string name="provision_default_theme_title">Standard</string>
     <string name="provision_loading_tips">Einen Moment…</string>
     <string name="provision_second_title">Wählen Sie eins aus verschiedenen Standardthemen</string>
@@ -1294,6 +1323,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="theme_import_from_sdcard">Importieren</string>
     <string name="theme_is_external_priority_storage">Auf SD-Karte speichern</string>
     <string name="theme_is_external_priority_storage_summary">Themen-App startet nach jeder Änderung neu</string>
+    <string name="theme_log_out">Abmelden</string>
     <string name="theme_multiple_button_title_customize">Anpassen</string>
     <string name="theme_no">Nein</string>
     <string name="theme_not_include_module_desc">Dieses Thema enthält die folgenden Elemente nicht: %s</string>
