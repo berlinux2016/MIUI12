@@ -229,7 +229,7 @@
     <string name="settings_pc_history_title">Verbindungsverlauf</string>
     <string name="settings_pc_trusted_title">Automatisch verbinden</string>
     <string name="settings_pc_use_tile">Über diese Funktion</string>
-    <string name="settings_permission_description">Details Berechtigungen</string>
+    <string name="settings_permission_description">Berechtigungsdetails</string>
     <string name="settings_privacy_policy">Datenschutzerklärung</string>
     <string name="settings_scanner_summary">Mit MIUI+ über einen QR-Code verbinden</string>
     <string name="settings_trusted">Automatisch verbinden</string>

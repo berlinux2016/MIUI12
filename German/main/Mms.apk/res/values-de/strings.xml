@@ -731,7 +731,7 @@ Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderli
     <string name="pref_title_ad_mms_recognition">Werbung erkennen</string>
     <string name="pref_title_allow_si_sl_push">"WAP-Push-Mitteilungen erlauben (SI/SL)"</string>
     <string name="pref_title_allow_upload_message_info">Spam-Nachrichten hochladen</string>
-    <string name="pref_title_authority_management">Details Berechtigungen</string>
+    <string name="pref_title_authority_management">Berechtigungsdetails</string>
     <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>
     <string name="pref_title_card_format">Visitenkarten-Teil-Methode</string>
     <string name="pref_title_collapse_ad_notification">Werbung einklappen</string>

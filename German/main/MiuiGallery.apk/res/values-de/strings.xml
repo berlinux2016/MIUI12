@@ -1857,7 +1857,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="privacy_permission_clip_write_detail">Zum Kopieren von Elementen</string>
     <string name="privacy_permission_contact">Kontakte</string>
     <string name="privacy_permission_contact_detail">Für die Benennung von Personen auf Fotos und Videos</string>
-    <string name="privacy_permission_detail">Details Berechtigungen</string>
+    <string name="privacy_permission_detail">Berechtigungsdetails</string>
     <string name="privacy_permission_disagree">Nicht gewährt</string>
     <string name="privacy_permission_location">Standort</string>
     <string name="privacy_permission_location_detail">Zur Anzeige von Fotos und Videos auf der Karte</string>

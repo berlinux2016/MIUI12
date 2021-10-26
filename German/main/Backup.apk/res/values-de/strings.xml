@@ -504,7 +504,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
     <string name="permission_backup_sms_desc">Um SMS zu sichern, erlauben Sie dieser App zuerst den Zugriff auf sie.</string>
     <string name="permission_content_title">Berechtigungen erforderlich</string>
     <string name="permission_dialog_positive_btn">Einstellungen</string>
-    <string name="permission_intro">Details Berechtigungen</string>
+    <string name="permission_intro">Berechtigungsdetails</string>
     <string name="permission_not_admit">Nicht gewährt</string>
     <string name="permission_purpose">Mit dieser Funktion können Sie Elemente auf Ihrem Mobilgerät, Computer und auf USB-Laufwerken sichern und wiederherstellen.</string>
     <string name="permission_read_apps">Zugriff auf die Liste der auf diesem Gerät installierten Apps</string>

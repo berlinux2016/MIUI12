@@ -675,7 +675,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="ota_recovery_theme_notity_content">Sie können zu dem Thema zurückgehen, das Sie vor dem Update genutzt haben.</string>
     <string name="ota_recovery_theme_notity_title">Thema wiederherstellen</string>
     <string name="password_toggle_content_description">Passwortsichtbarkeit umschalten</string>
-    <string name="permission_desc">Details Berechtigungen</string>
+    <string name="permission_desc">Berechtigungsdetails</string>
     <string name="personalize_alarm_ringtone_title">Alarme</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Klingeltöne</string>

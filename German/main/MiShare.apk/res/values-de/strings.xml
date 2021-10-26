@@ -137,7 +137,7 @@
     <string name="hide">Ausblenden</string>
     <string name="i_know">Verstanden</string>
     <string name="location_enabled">Mi Share hat Standortdienste eingeschaltet, um Geräte in der Nähe zu finden</string>
-    <string name="menu_item_permission_title">Details Berechtigungen</string>
+    <string name="menu_item_permission_title">Berechtigungsdetails</string>
     <string name="menu_item_privacy_title">Datenschutzerklärung</string>
     <string name="mi_drop">Mi Share</string>
     <string name="midnight">Nacht</string>

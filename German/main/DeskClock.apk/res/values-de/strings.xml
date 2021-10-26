@@ -376,7 +376,7 @@
     <string name="other_category_title">Weiteres</string>
     <string name="other_settings">Weitere Einstellungen</string>
     <string name="pause">Pause</string>
-    <string name="permission_desc">Details Berechtigungen</string>
+    <string name="permission_desc">Berechtigungsdetails</string>
     <string name="permission_granted">Gewährt</string>
     <string name="permission_rejected">Nicht gewährt</string>
     <string name="permission_related">Berechtigungen</string>

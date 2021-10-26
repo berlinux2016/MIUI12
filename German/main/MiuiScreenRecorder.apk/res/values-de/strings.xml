@@ -184,14 +184,14 @@
     <string name="not_set">Nicht festgelegt</string>
     <string name="operation_delete">Löschen</string>
     <string name="operation_send">Senden</string>
-    <string name="permission_desc">Berechtigungsdeteils</string>
+    <string name="permission_desc">Berechtigungsdetails</string>
     <string name="permission_dialog_cancel">Abbrechen</string>
     <string name="permission_dialog_ok">Einstellungen</string>
     <string name="permission_intro_microphone">Zur Aufnahme von Ton, wenn die Tonquelle auf Mikrofon eingestellt ist</string>
     <string name="permission_intro_storage">Zum Speichern von Bildschirmaufnahmen</string>
     <string name="permission_microphone_desc">Mikrofon als Audioquelle für Bildschirmaufnahmen verwenden</string>
     <string name="permission_record">Audio aufnehmen</string>
-    <string name="permission_record_description">Für Bereitstellung von Audioaufnahmediensten</string>
+    <string name="permission_record_description">Zur Bereitstellung von Audioaufnahmediensten</string>
     <string name="permission_storage">Speicherzugriff</string>
     <string name="permission_storage_description">Zur Aufnahmeverwaltung und zum Herunterladen aus der Cloud</string>
     <string name="permission_storage_description_for_download">Zum Herunterladen von Aufnahmen aus der Cloud</string>

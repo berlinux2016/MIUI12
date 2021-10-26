@@ -329,7 +329,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="pay_error_cancel">Zahlung abgebrochen</string>
     <string name="pay_error_null">Zahlungsfehler, Konto prüfen</string>
     <string name="pay_error_unknown">Unbekannter Fehler</string>
-    <string name="permission_desc">Details Berechtigungen</string>
+    <string name="permission_desc">Berechtigungsdetails</string>
     <string name="permission_dialog_cancel">Abbrechen</string>
     <string name="permission_dialog_ok">Einstellungen</string>
     <string name="permission_record">Audio aufnehmen</string>

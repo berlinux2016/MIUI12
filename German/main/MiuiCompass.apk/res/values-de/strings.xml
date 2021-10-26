@@ -172,7 +172,7 @@
     <string name="open_perm_msg_no_camera">Kompass muss auf Standortinformationen zugreifen, um die Koordinaten bestimmen zu können. Zustimmen?</string>
     <string name="open_perm_title">Benötigte Berechtigungen</string>
     <string name="permission_camera_desc">Für Azimutanzeige in der Live-Vorschau</string>
-    <string name="permission_description">Details Berechtigungen</string>
+    <string name="permission_description">Berechtigungsdetails</string>
     <string name="permission_location_desc">Zur Koordinatenanzeige</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preference_other">Andere</string>
