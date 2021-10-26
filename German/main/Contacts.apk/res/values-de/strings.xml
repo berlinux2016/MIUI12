@@ -1046,6 +1046,8 @@ Grund: \"%s\""</string>
     <string name="miprofile_switch_on_alertdialog_title">Profilfotoupdate</string>
     <string name="missing_name">(Kein Name)</string>
     <string name="missing_required_permission">Sie haben eine notwendige Berechtigung nicht erteilt</string>
+    <string name="miuix_access_state_desc">Ausgewählt</string>
+    <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -1063,6 +1065,8 @@ Grund: \"%s\""</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
+    <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -1231,6 +1235,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="permission_notice_desc_access_fine_location">Zum Importieren von Kontakten von anderen Geräten über Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Für die Verwendung von Voicemail- und Audionachrichtenfunktionen</string>
     <string name="permission_notice_desc_call_phone">Für Anrufe in Apps von Drittanbietern</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Für Anrufe in Drittanbieter-Apps</string>
     <string name="permission_notice_desc_camera">Für die Aufnahme von Profilfotos</string>
     <string name="permission_notice_desc_read_call_logs">Zur Anzeige der Anrufliste</string>
     <string name="permission_notice_desc_read_contacts">Zum Anzeigen von Kontakten</string>
@@ -1354,7 +1359,10 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="privacy_policy_and_user_agreement">Datenschutzerklärung und Nutzervereinbarung</string>
     <string name="privacy_settings_call_phone">Anrufen</string>
     <string name="privacy_settings_call_phone_description">Für Anrufe in Apps von Drittanbietern</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Für Anrufe in Drittanbieter-Apps</string>
+    <string name="privacy_settings_call_phone_for_pad">Anrufen</string>
     <string name="privacy_settings_contacts">Kontakte und Telefon</string>
+    <string name="privacy_settings_contacts_for_pad">Datenschutz</string>
     <string name="privacy_settings_mallowed">Gewährt</string>
     <string name="privacy_settings_mnotallowed">Nicht gewährt</string>
     <string name="privacy_settings_permission_description">Berechtigungsdetails</string>
@@ -1743,6 +1751,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
     <string name="toast_not_show_read_contacts_perm_req">Um Kontakte anzuzeigen, erlauben Sie dieser App zuerst den Zugriff auf die Kontakte.</string>
     <string name="toast_not_show_read_phone_state_perm_req">Um diese App mit Ihrer SIM-Karte zu verwenden, erlauben Sie dieser App zuerst den Zugriff auf die Geräteinfos.</string>
     <string name="toast_not_show_storage_perm_req">Um Profilfotos hinzuzufügen und vCards zu importieren, erlauben Sie dieser App zuerst den Speicherzugriff.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Um Profilfotos hinzuzufügen und vCards zu importieren, erlauben Sie dieser App zuerst den Speicherzugriff.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Um die Anrufliste auf dem neuesten Stand zu halten, erlauben Sie dieser App zuerst, die Anrufliste zu bearbeiten.</string>
     <string name="toast_not_show_write_contacts_perm_req">Um Kontakte anzuzeigen, erlauben Sie dieser App zuerst, Kontakte zu bearbeiten.</string>
     <string name="toast_start_intent_failed">Keine App zum Ausführen gefunden</string>

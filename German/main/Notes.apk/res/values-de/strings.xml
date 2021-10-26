@@ -17,6 +17,8 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
+    <string name="action_collapse">Verbergen</string>
+    <string name="action_expand">Mehr anzeigen</string>
     <string name="action_folder_description">Ordner anzeigen</string>
     <string name="action_mode_cancel_folder_priority">Ordner nicht zuerst anzeigen</string>
     <string name="action_mode_switcher_folder_priority">Ordner zuerst anzeigen</string>
@@ -103,6 +105,7 @@
     <string name="btn_next">Weiter</string>
     <string name="call_folder_name">Anrufnotizen</string>
     <string name="cancel_alarm_description">Alarm beenden</string>
+    <string name="canvas_is_too_large_to_share_phone">Dieses Element ist zu groß zum Teilen</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
     <string name="check_in_todo_app">Aufgaben anzeigen</string>
@@ -282,6 +285,7 @@
     <string name="gesture_guide_ok">Lernen</string>
     <string name="gesture_guide_title">Gesten</string>
     <string name="hand_write_only_support_tablet_editing">Handschriftliche Notizen können nur auf Tablets bearbeitet werden</string>
+    <string name="hand_write_syncing_phone">Synchronisieren…</string>
     <string name="handwrite_description">Handschriftliche Notiz</string>
     <string name="hear_note">Diktierte Notizen</string>
     <string name="hidden_notes_fragment_title">Versteckte Notizen</string>

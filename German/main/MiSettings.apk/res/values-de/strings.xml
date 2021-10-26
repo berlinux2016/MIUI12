@@ -113,7 +113,7 @@
     <string name="dc_lignt_enable_hint">Im Anti-Flimmer-Modus wird die Bildschirmaktualisierungsrate auf 60 Hz eingestellt. In den Anti-Flimmer-Modus umschalten?</string>
     <string name="delete_first_to_add_animal">Um ein neues Element hinzuzufügen, löschen Sie zuerst eines.</string>
     <string name="desktop_widget_authorization">Tippen, um Berechtigungen für die Statistikanzeige zu erteilen</string>
-    <string name="desktop_widget_authorization_new">Tippen, um die Bildschirmzeitstatistik anzuzeigen.</string>
+    <string name="desktop_widget_authorization_new">Tippen, um die Bildschirmzeitstatistik anzuzeigen</string>
     <string name="desktop_widget_not_support">Bildschirmzeitstatistiken werden\nnicht im Zweitprofil erstellt</string>
     <string name="desktop_widget_screen_use_time">Bildschirmzeit</string>
     <string name="devices_type_pad">Pad</string>

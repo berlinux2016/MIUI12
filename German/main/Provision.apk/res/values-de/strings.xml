@@ -129,8 +129,8 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Standardtextgröße</string>
     <string name="font_hint_normal">Größerer Text</string>
-    <string name="framework_introduction">Mi Services Framework erlaubt Ihnen, Mi Account, Mi Push, Mi Stats und MIUI BI zu verwenden.</string>
-    <string name="framwork_base_service">Um Ihnen diese Dienste anbieten zu können, muss sich Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät erlauben, Push-Benachrichtigungen zu erhalten</string>
+    <string name="framework_introduction">Mit Mi Services Framework können Sie Mi Account, Mi Push, Analytics und MIUI BI verwenden.</string>
+    <string name="framwork_base_service">Um Ihnen diese Dienste anbieten zu können, muss sich Mi Services Framework (MiAccount, Mi Push, Analytics, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät erlauben, Push-Benachrichtigungen zu erhalten</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
