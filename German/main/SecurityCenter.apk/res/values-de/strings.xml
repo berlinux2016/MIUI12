@@ -144,6 +144,8 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Vor 2 Tagen aktualisiert</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Gestern um %s aktualisiert</string>
     <string name="adjust_traffic_data">Datennutzung festlegen</string>
+    <string name="adv_permission_text">Berechtigungen</string>
+    <string name="adv_privacy_text">Datenschutz</string>
     <string name="after_the_lock_screen">Apps zusammen mit dem Bildschirm sperren</string>
     <string name="afternoon">Nachmittag</string>
     <string name="ai_allow_all">In allen Fällen für mich entscheiden</string>
@@ -879,6 +881,15 @@ Sie verlieren keine App-Daten."</string>
     <string name="battery_status_overheat">Überhitzt</string>
     <string name="battery_status_unknown">Unbekannter Fehler</string>
     <string name="battery_temperature_title">Temperatur</string>
+    <string name="beauty_fc_assistant">Frontkamera-Assistent</string>
+    <string name="beauty_fc_assistant_summary">Aufhelllicht und Verschönerung mit der Frontkamera verwenden</string>
+    <string name="beauty_fc_fill_lamp">Aufhelllicht</string>
+    <string name="beauty_fc_light">Helligkeit Aufhelllichts</string>
+    <string name="beauty_fc_video_call">Verschönern für Videoanrufe</string>
+    <string name="beauty_fc_video_call_summary">Verschönerungsoptionen bei WeChat-Videoanrufen anzeigen</string>
+    <string name="beauty_fun_filter">Verschönern</string>
+    <string name="beauty_fun_light">Aufhelllicht</string>
+    <string name="beauty_settings">Einstellungen</string>
     <string name="begin_date">Zurückgesetzt am</string>
     <string name="behavior_widget_get_installed_apps">App-Zugriff</string>
     <string name="behavior_widget_get_location">Standortzugriff</string>
@@ -5128,11 +5139,16 @@ Wollen Sie es übernehmen?"</string>
     <string name="vb_ve_settings_display_style_tips_new">*Effekte werden nur auf den Videowiedergabebereich angewendet</string>
     <string name="vb_ve_settings_pic_border_stronger">Verbesserte Konturen</string>
     <string name="vb_ve_settings_picture_stronger">Verbesserte Animationen</string>
+    <string name="vb_video_effects_3d">Surround Sound</string>
+    <string name="vb_video_effects_3d_summary">Tiefe der Klangwiedergabe für Kopfhörer und Lautsprecher verbessern</string>
+    <string name="vb_video_effects_3d_surround">Surround-Sound</string>
     <string name="vb_video_effects_display_style">Stil</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Verbesserter Dialog</string>
     <string name="vb_video_effects_dolby_headset">" (Nur Kopfhörer)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos ist an</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Erweitertes Stereo</string>
+    <string name="vb_video_effects_liquid_summary">Klarheit von Dialogen in Videos verbessern</string>
+    <string name="vb_video_effects_only_headphone">Funktioniert nur mit Kopfhörern</string>
     <string name="vb_video_effects_setting_black_white">SW</string>
     <string name="vb_video_effects_setting_cinema">Kino</string>
     <string name="vb_video_effects_setting_girl">Erröten</string>
@@ -5147,6 +5163,10 @@ Wollen Sie es übernehmen?"</string>
     <string name="vb_video_effects_setting_warmth">Warm</string>
     <string name="vb_video_effects_settings_liquid">Klarheit</string>
     <string name="vb_video_effects_settings_stereo">Lautstärke</string>
+    <string name="vb_video_effects_some_headphone">Supported by selected earphone models</string>
+    <string name="vb_video_effects_spatial">Kopfbewegung verfolgen</string>
+    <string name="vb_video_effects_spatial_summary">"Anpassen des Surround Sound anhand der Kopfbewegung
+*Wird nur von Gaming-Kopfhörermodellen unterstützt"</string>
     <string name="vb_video_effects_srs_premium_sound">Ton</string>
     <string name="vb_video_super_division">Skalieren</string>
     <string name="vb_video_super_division_desc">"Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.

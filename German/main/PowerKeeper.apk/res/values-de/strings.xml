@@ -128,7 +128,7 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="important_warning">Warnung</string>
     <string name="insert_data">Daten einfügen</string>
-    <string name="kill_pkg_toast_message">Ihr Gerät überhitzt, die App wird beendet</string>
+    <string name="kill_pkg_toast_message">Apps können wegen Überhitzung des Geräts nicht verwendet werden</string>
     <string name="lasttime_applist_cloud">Aktualisierte Apps:</string>
     <string name="lasttime_feature_cloud">Aktualisierte Features:</string>
     <string name="low_battery_percent_summary">bei: %s</string>
@@ -333,7 +333,7 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="stricter_high_temp_state_message">Ihr Gerät überhitzt, Sie können keine anderen Apps außer Anrufen und Kontakte verwenden</string>
+    <string name="stricter_high_temp_state_message">Anscheinend ist das Gerät überhitzt. Sie können im Moment nur Telefon und Kontakte verwenden.</string>
     <string name="sucess">Fertig</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>

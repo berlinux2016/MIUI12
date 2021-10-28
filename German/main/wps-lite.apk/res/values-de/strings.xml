@@ -248,7 +248,7 @@
     <string name="public_mi_other_app_open_save_choose">Auswahl merken</string>
     <string name="public_mi_other_app_open_title">Öffnen mit</string>
     <string name="public_mi_privacy_desc">Zum Anzeigen und Verwalten von Dokumenten auf diesem Gerät</string>
-    <string name="public_mi_privacy_purpose">Willkommen bei Mi Document Viewer. Mit dieser App können Sie verschiedene Dokumentformate anzeigen.</string>
+    <string name="public_mi_privacy_purpose">Willkommen bei Mi Doc Viewer (Powered by WPS)! Dies ist eine angepasste Version der App, die von Kingsoft für Xiaomi entwickelt wurde. Sie können diese App verwenden, um Dokumente auf Ihrem Gerät anzuzeigen.</string>
     <string name="public_more_operate">Mehr Aktionen</string>
     <string name="public_more_operate_fail">Vorgang fehlgeschlagen, es gibt keinen umsetzbaren Inhalt mehr</string>
     <string name="public_no_format">Kein Format</string>

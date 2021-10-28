@@ -4204,6 +4204,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
     <string name="headset_remove_message">Möchten Sie dieses Gerät von Ihrem Konto entfernen?</string>
     <string name="headset_remove_message_indicate">Alle mit dem Xiaomi-Konto verbundenen Geräte werden entfernt</string>
     <string name="headset_settings_title">Audioeffekte</string>
+    <string name="headset_spatial_audio">Raumklang</string>
     <string name="headset_toast_tip_disconnect_others">Anscheinend sind Ihre Kopfhörer jetzt mit einem anderen Gerät verbunden</string>
     <string name="headset_unsaved_device">Gerät entfernen</string>
     <string name="headset_unsaved_devices">Nicht gespeichert, verbinden Sie sich in Ihrem Konto mit einem anderen Telefon</string>
