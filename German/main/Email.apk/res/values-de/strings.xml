@@ -26,6 +26,11 @@
     <string name="account_add_other_sub_des">Andere Konten</string>
     <string name="account_add_title">E-Mailservice wählen</string>
     <string name="account_change">Konten wechseln</string>
+    <string name="account_child_dialog_neg_text">Verlassen</string>
+    <string name="account_child_dialog_pos_text">Erziehungsberechtigter stimmt zu</string>
+    <string name="account_child_dialog_text">Wenn Sie minderjährig sind, informieren Sie Ihren Erziehungsberechtigten, dass er die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\" lesen und akzeptieren muss. Sie müssen auch dessen Zustimmung und Anleitung einholen, bevor Sie unsere Dienste nutzen oder persönliche Daten an uns übermitteln.\nUm Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verarbeiten, vollständig zu verstehen, lesen Sie die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\".</string>
+    <string name="account_child_dialog_title">Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
+    <string name="account_child_save_statement">Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
     <string name="account_duplicate_dlg_message_fmt">Benutzername wird bereits für das Konto \"%s\" verwendet.</string>
     <string name="account_duplicate_dlg_title">Doppeltes Konto</string>
     <string name="account_failure">Sitzung abgelaufen</string>
@@ -34,6 +39,12 @@
     <string name="account_options_actionbar_title">Allgemeine Einstellungen</string>
     <string name="account_options_sync_title">Synchronisieren</string>
     <string name="account_password_spaces_error">Dieses Passwort beginnt oder endet mit einem oder mehreren Leerzeichen. Viele Server unterstützen keine Passwörter mit Leerzeichen.</string>
+    <string name="account_permission_child_statement">Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
+    <string name="account_permission_dialog_cancel_text">Widerrufen</string>
+    <string name="account_permission_dialog_text">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Endbenutzer-Lizenzvereinbarung, zur Datenschutzerklärung und zur Erklärung zum Schutz personenbezogener Daten von Minderjährigen. Danach können Sie WPS Mail nicht mehr verwenden, und alle auf diesem Gerät erzeugten Daten werden gelöscht.</string>
+    <string name="account_permission_dialog_title">Zustimmung widerrufen</string>
+    <string name="account_permission_private_policy">Datenschutzerklärung</string>
+    <string name="account_permission_user_privacy">Endbenutzer-Lizenzvereinbarung</string>
     <string name="account_security_dialog_content_fmt">%s hat eine Aktualisierung Ihrer Sicherheitseinstellungen angefordert.</string>
     <string name="account_security_dialog_title">Sicherheitsupdate</string>
     <string name="account_security_policy_explanation_fmt">Server %s erfordert eine Freigabe, damit er einige Sicherheitsfunktionen Ihres Telefons steuern kann</string>
@@ -1286,6 +1297,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="print">Drucken</string>
     <string name="print_scheduler_title">Alle Planer drucken</string>
     <string name="privacy_and_help">Datenschutz und Hilfe</string>
+    <string name="privacy_and_private_permission">Zustimmung zur Nutzervereinbarung und Datenschutzerklärung</string>
     <string name="privacy_des">Protokolle enthalten Debugging-Infos des E-Mail-Clienten und Ihre Geräteinformationen. Diese Informationen werden verwendet, um Probleme schneller zu lokalisieren. Indem Sie unten auf \"%1$s\" tippen, stimmen Sie unserer \"%2$s\" zu.</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_setting_agree">Zustimmen</string>

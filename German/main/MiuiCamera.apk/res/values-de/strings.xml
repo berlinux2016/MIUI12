@@ -1,31 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="beauty_ne">Original</string>
-    <string name="beauty_no_t">Beautify is off</string>
-    <string name="camera_newcta_audio_message">For recording videos with sound</string>
-    <string name="camera_newcta_camera_message">For taking photos and recording videos</string>
-    <string name="camera_newcta_message">"Welcome to Camera! You can use this app to take photos and record videos. "</string>
-    <string name="camera_newcta_other_message">"To provide you with additional services while you're using the app, we might need the permissions to access your location."</string>
-    <string name="camera_newcta_storage_message">For saving and displaying photos and videos</string>
-    <string name="download_hint_cn">"Looks like your device isn't connected to WLAN. Use %1$s MB of mobile data to download items now?"</string>
-    <string name="download_hint_wifi">"Looks like your device isn't connected to Wi-Fi. Use %1$s MB of mobile data to download items now?"</string>
-    <string name="fromkeyguard_not_permission">To be able to use this feature, unlock your device first.</string>
-    <string name="location_fromkeyguard_not_permission">"Camera isn't allowed to access your location now. Unlock your device first."</string>
-    <string name="lunch_audio_permission_des">For recording videos with sound</string>
-    <string name="lunch_audio_permission_not_ask_again">Allow this app to record audio to be able to use this feature.</string>
-    <string name="lunch_camera_audio_permission_not_ask_again">Allow this app to use camera and record audio to be able to use this feature.</string>
-    <string name="lunch_camera_permission_des">For taking photos and recording videos</string>
-    <string name="lunch_camera_permission_not_ask_again">Allow this app to use camera to be able to use this feature.</string>
-    <string name="lunch_camera_storge_permission_not_ask_again">Allow this app to use camera and access storage to be able to use this feature.</string>
-    <string name="lunch_dialog_setting">Settings</string>
-    <string name="lunch_fromkeyguard_not_permission">"Camera doesn't have permission to perform this action now. Unlock your device first."</string>
-    <string name="lunch_fromkeyguard_not_permission_dialog_ok">Got it</string>
-    <string name="lunch_permission_not_ask_again">Allow this app to use camera, access storage, and record audio to be able to use this feature.</string>
-    <string name="lunch_storge_audio_permission_not_ask_again">Allow this app to access storage and record audio to be able to use this feature.</string>
-    <string name="lunch_storge_permission_des">For saving and displaying photos and videos</string>
-    <string name="lunch_storge_permission_not_ask_again">Allow this app to access storage to be able to use this feature.</string>
-    <string name="pref_auto_boot">Autostart</string>
-    <string name="pref_auto_boot_summary">Make Camera more responsive by allowing it to autostart. You can manage autostart permissions in app details.</string>
 
     <string name="pref_retain_ai_scene">KI-Kamera</string>
     <string name="pref_retain_ai_scene_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand beibehalten</string>
@@ -420,6 +394,7 @@ und optimiert Ihre Fotos anhand dieser Informationen."</string>
     <string name="beauty_makeups_pinkfemale">Blütenblatt</string>
     <string name="beauty_makeups_solid">Kontur</string>
     <string name="beauty_mode_reset_toast">Make-up-Effekte erfolgreich entfernt</string>
+    <string name="beauty_no_t">Verschönern ist aus</string>
     <string name="beauty_reset">Zurücksetzen</string>
     <string name="beauty_reset_toast">Verschönerungseffekte erfolgreich zurücksetzen</string>
     <string name="beauty_skincolor_caramel">Karamell</string>
@@ -477,6 +452,11 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
     <string name="camera_liveshot_off_tip">Dynamische Aufnahmen ausgeschaltet</string>
     <string name="camera_liveshot_on_tip">Dynamische Aufnahmen</string>
     <string name="camera_mode_options">Modus</string>
+    <string name="camera_newcta_audio_message">Für die Aufnahme von Videos mit Ton</string>
+    <string name="camera_newcta_camera_message">Zum Aufnehmen von Fotos und Videos</string>
+    <string name="camera_newcta_message">"Willkommen bei Kamera! Mit dieser App können Sie Fotos und Videos aufnehmen. "</string>
+    <string name="camera_newcta_other_message">Um Ihnen während der Nutzung der App zusätzliche Dienste anbieten zu können, benötigen wir ggf. die Erlaubnis, auf Ihren Standort zuzugreifen.</string>
+    <string name="camera_newcta_storage_message">Zum Speichern und Anzeigen von Fotos und Videos</string>
     <string name="camera_preview_area_long_press_label">Google Lens</string>
     <string name="camera_setting">Kameraeinstellungen</string>
     <string name="camera_settings_category_development">Experimentelle Funktionen</string>
@@ -709,6 +689,8 @@ ausrichten und verbessern"</string>
     <string name="download_cancel_hint">Herunterladen von %1$s abbrechen?</string>
     <string name="download_confirm">Herunterladen</string>
     <string name="download_hint">%1$s MB mobile Daten werden zum Herunterladen verwendet. Trotzdem herunterladen?</string>
+    <string name="download_hint_cn">Anscheinend ist Ihr Gerät nicht mit WLAN verbunden. Jetzt %1$s MB an Mobildaten verwenden, um Elemente herunterzuladen?</string>
+    <string name="download_hint_wifi">Anscheinend ist Ihr Gerät nicht mit WLAN verbunden. Jetzt %1$s MB an Mobildaten verwenden, um Elemente herunterzuladen?</string>
     <string name="download_in_progress">Herunterladen…</string>
     <string name="download_qq">QQ herunterladen</string>
     <string name="download_title">Datennutzungwarnung</string>
@@ -899,6 +881,7 @@ Nach dem Einschalten der Funktion \"Multi-Kamera-Aufnahme\" können Sie eine Ver
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
+    <string name="fromkeyguard_not_permission">Um diese Funktion nutzen zu können, müssen Sie Ihr Gerät zuerst entsperren.</string>
     <string name="front_camera_hint_text_confirm">Verstanden</string>
     <string name="front_camera_hint_text_place">Wenn Sie Ihr Telefon umdrehen, ist es einfacher, Selfies zu machen</string>
     <string name="front_camera_hint_text_rotate">Drehen Sie Ihr Telefon um</string>
@@ -1056,6 +1039,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
     <string name="local_music">Lokale Musik</string>
     <string name="location">Standort</string>
     <string name="location_access_allow">Zustimmen</string>
+    <string name="location_fromkeyguard_not_permission">Kamera kann jetzt nicht auf Ihren Standort zugreifen. Gerät zuerst entsperren.</string>
     <string name="location_permission_des">Standortinformationenen zu einem Foto oder Video hinzufühen</string>
     <string name="location_permission_not_ask_again">Kamera den Standortzugriff in den Einstellungen erlauben</string>
     <string name="location_permission_not_ask_again_go_to_settings">Erlauben</string>
@@ -1064,6 +1048,19 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
     <string name="lpl_dialog_item_name_burst">Für ein Serienbild gedrückt halten</string>
     <string name="lpl_dialog_item_name_record">Zum Aufnehmen eines Videos gedrückt halten</string>
     <string name="lpl_dialog_title">Funktion für den Auslöser wählen</string>
+    <string name="lunch_audio_permission_des">Für die Aufnahme von Videos mit Ton</string>
+    <string name="lunch_audio_permission_not_ask_again">Dieser App die Audioaufnahme erlauben, um diese Funktion nutzen zu können.</string>
+    <string name="lunch_camera_audio_permission_not_ask_again">Dieser App erlauben, die Kamera zu verwenden und Audio aufzunehmen, um diese Funktion nutzen zu können.</string>
+    <string name="lunch_camera_permission_des">Zum Aufnehmen von Fotos und Videos</string>
+    <string name="lunch_camera_permission_not_ask_again">Dieser App die Verwendung der Kamera erlauben, um diese Funktion nutzen zu können.</string>
+    <string name="lunch_camera_storge_permission_not_ask_again">Dieser App die Verwendung der Kamera und den Speicherzugriff erlauben, um diese Funktion nutzen zu können.</string>
+    <string name="lunch_dialog_setting">Einstellungen</string>
+    <string name="lunch_fromkeyguard_not_permission">Kamera hat nicht die Berechtigung, diese Aktion auszuführen. Gerät zuerst entsperren.</string>
+    <string name="lunch_fromkeyguard_not_permission_dialog_ok">Verstanden</string>
+    <string name="lunch_permission_not_ask_again">Dieser App erlauben, die Kamera zu verwenden, auf den Speicher zuzugreifen und Audio aufzunehmen, um diese Funktion nutzen zu können.</string>
+    <string name="lunch_storge_audio_permission_not_ask_again">Dieser App den Speicherzugriff und die Audioaufnahme erlauben, um diese Funktion nutzen zu können.</string>
+    <string name="lunch_storge_permission_des">Zum Speichern und Anzeigen von Fotos und Videos</string>
+    <string name="lunch_storge_permission_not_ask_again">Dieser App den Speicherzugriff erlauben, um diese Funktion nutzen zu können.</string>
     <string name="lying_direct_hint">Aktuelle Ausrichtung</string>
     <string name="macro_mode">Makromodus</string>
     <string name="macro_mode_tip">Bitte platzieren Sie das Motiv innerhalb von 10 cm</string>
@@ -1431,6 +1428,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_audio_focus_title">Audiofokus</string>
     <string name="pref_audio_indicator_entry_off">Audio aus</string>
     <string name="pref_audio_indicator_entry_on">Audio an</string>
+    <string name="pref_auto_boot_summary">Kamera reaktionsschneller machen, indem Sie ihr erlauben, automatisch zu starten. Sie können die Autostart-Berechtigungen in den App-Details verwalten.</string>
     <string name="pref_burst_shoot_title">Serienbilder</string>
     <string name="pref_camcorder_settings">Videoeinstellungen</string>
     <string name="pref_camcorder_settings_category">Kameraeinstellungen</string>

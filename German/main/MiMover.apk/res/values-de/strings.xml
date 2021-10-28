@@ -30,6 +30,7 @@
     <string name="after_reset_need_restore_system_app">Anscheinend haben Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um MIUI normal benutzen zu können.</string>
     <string name="afternoon">Nachmittag</string>
     <string name="antispam">Sperrliste</string>
+    <string name="app_update_title">Alle Apps aktualisieren</string>
     <string name="appname_app_data_suffix">%1$s App-Daten</string>
     <string name="audio_video_document">Audio, Video und Dokumente</string>
     <string name="back">Zurück</string>
