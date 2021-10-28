@@ -5328,7 +5328,7 @@ Versuchen Sie, die Auflösung hochzuskalieren!"</string>
     <string name="wifi_optizition_title">Mehr WLAN-Geschwindigkeit</string>
     <string name="wireless_charging_connected_message">Wenn Ihr Gerät kabellos aufgeladen wird, kann die kabellose Umkehrladung nicht verwendet werden.</string>
     <string name="wireless_charging_fg_control_cancel">Abbrechen</string>
-    <string name="wireless_charging_fg_control_messgae">Kabelloses Umkehrladen wurde ausgeschaltet, weil weniger als %s Akkus übrig sind. Sie können die Einstellungen so anpassen, dass kabelloses Umkehrladen länger funktioniert.</string>
+    <string name="wireless_charging_fg_control_messgae">Kabelloses Umkehrladen wurde ausgeschaltet, weil weniger als %d%% Akku verbleiben. Sie können die Einstellungen anpassen, damit das kabellose Umkehrladen länger funktioniert.</string>
     <string name="wireless_charging_fg_control_ok">Anpassen</string>
     <string name="wireless_charging_low_battery_level_message">Kabelloses Umkehrladen kann nicht verwendet werden, wenn der Akku weniger als %s geladen ist.</string>
     <string name="wireless_charging_ok">Verstanden</string>
