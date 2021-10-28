@@ -2109,9 +2109,9 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gtb_dialog_btn_open">Einschalten</string>
     <string name="gtb_dialog_hint_smart_5g">Sie können diese Funktion unter Game Turbo &gt; Einstellungen ein- und ausschalten.</string>
     <string name="gtb_dialog_privacy_speed_message">Sie sind dabei, Xunyou Game Booster zu nutzen. Dieser Dienst erfasst Ihre Mi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu erfassen.</string>
-    <string name="gtb_dialog_privacy_speed_tips">Ich habe die Datenschutzerklärung von Xunyou Game Booster gelesen und akzeptiert.</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung gelesen und akzeptiert.&lt;/a></Data></string>
     <string name="gtb_dialog_privacy_voice_message">Sie sind dabei, den Xunyou Game Voice Changer zu benutzen. Dieser Dienst erfasst Ihre Mi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu erfassen.</string>
-    <string name="gtb_dialog_privacy_voice_tips">Ich habe die Datenschutzerklärung von Xunyou Game Voice Changer gelesen und akzeptiert.</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Ich habe die Xunyou Game Voice Changer &lt;a href=\"%1$s\">Datenschutzerklärung gelesen und akzeptiert.&lt;/a></Data></string>
     <string name="gtb_dialog_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren. Diese Funktion jetzt einschalten?</string>
     <string name="gtb_dialog_title_smart_5g">5G-Netz-Optimierung</string>
     <string name="gtb_exit_game_to_gtb">Gamebox öffnen</string>
