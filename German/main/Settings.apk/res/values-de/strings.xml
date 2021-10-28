@@ -5559,7 +5559,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
     <string name="miheadset_fitness_check_summary3">Headset nicht entfernen</string>
     <string name="miheadset_game_mode">Spielemodus</string>
     <string name="miheadset_game_mode_summary">Audioverzögerung beim Spielen reduzieren</string>
-    <string name="miheadset_hd_audio_summary">Unterstützt hochauflösende 24-Bit/96kHz-Audiowiedergabe</string>
+    <string name="miheadset_hd_audio_summary">Unterstützt hochauflösende %1$d-Bit/%2$d kHz-Audiowiedergabe</string>
     <string name="miheadset_hd_audio_title">HD-Audio</string>
     <string name="miheadset_ignore">Entkoppeln</string>
     <string name="miheadset_in_ear_check">Ohr erkennen</string>
