@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="album_permission_activity_title">Berechtigungen verwalten</string>
+    <string name="album_permission_state_granted">Gewährt</string>
+    <string name="album_permission_state_non_granted">Gewähren</string>
+    <string name="album_permission_subtitle_single">%2$d Album ( %1$s)</string>
+    <string name="album_permission_tip_text">Galerie benötigt Berechtigungen, um die unten aufgeführten Elemente zu synchronisieren, zu bearbeiten und zu verwalten.</string>
+    <string name="album_permission_title_granted">Gewährt</string>
+    <string name="album_permission_title_non_granted">Nicht gewährt</string>
+    <string name="backup_disable_message">Galerie muss den App-Cache löschen, weil Sie die Synchronisierung mit der Cloud deaktiviert haben.</string>
+    <string name="delete_account_message">Galerie muss den App-Cache löschen, weil Sie sich von Ihrem Mi-Konto abgemeldet haben.</string>
+    <string name="error_storage_no_write_permission_tip_action">Gewähren</string>
+    <string name="error_storage_no_write_permission_tip_title">"Für einige Alben sind Berechtigungen erforderlich, damit sie synchronisiert werden können. "</string>
+    <string name="filter_popular_sunset_gold">Glanz</string>
+    <string name="migrate_msg">Für einige Alben sind Berechtigungen erforderlich, um Elemente nach einer Systemaktualisierung zu verschieben.</string>
+    <string name="motion_photo_enter">Dynamische Aufnahme</string>
+    <string name="onekey_beautify_tag_done">Angewandte Effekte</string>
+    <string name="saf_hyper_link_text">Berechtigungen verwalten</string>
+    <string name="saf_operation_guide_1">"Galerie benötigt Ihre Erlaubnis, um Ihre Daten schützen und verwalten zu können. "</string>
+    <string name="saf_operation_guide_2">Um die Erlaubnis zu erteilen, auf \"%1$s\" tippen und dann \"%2$s\" wählen.</string>
+    <string name="saf_operation_guide_param1">Weiter</string>
+    <string name="saf_operation_guide_param2">Zugriff auf den Ordner</string>
+    <string name="saf_requester_cancel">Abbrechen</string>
+    <string name="saf_requester_title">Galerie den \"%s\"-Zugriff erlauben</string>
+    <string name="saf_secret_album">Privates Album</string>
+    <string name="saf_secret_album_guide">Diese App benötigt Berechtigungen, um Elemente aus Ihrem privaten Album anzuzeigen.</string>
+    <string name="update_apk_size">Paketgröße aktualisieren： %s MB</string>
+    <string name="update_btn_exit">Zurück</string>
+    <string name="update_btn_negative">Verzögern</string>
+    <string name="update_check">Auf Updates prüfen</string>
+    <string name="update_check_title">Aktuelle Version: %s</string>
+    <string name="update_ignore">Ignorieren</string>
+    <string name="update_latest_version">Bereits die neueste Version</string>
+    <string name="update_network_error">Bitte Netzwerk überprüfen und erneut versuchen</string>
+    <string name="update_new_version">Neue Version gefunden</string>
+    <string name="update_title">Neue Version V%s gefunden</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nicht jetzt</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Update ist verfügbar</string>
+
+    <string name="device_storage_space_low_dialog_des">Originalfotos und -videos werden in Mi Cloud gespeichert und das Gerät behält eine kleinere und qualitativ hochwertige Version, um etwa %s des Gerätespeichers freizugeben</string>
+    <string name="device_storage_space_low_dialog_title">Nicht genügend Gerätespeicherplatz</string>
+    <string name="device_storage_space_low_notice_des">Fotos und Videos in die Cloud hochladen, um den lokalen Speicherplatz von %s freizugeben</string>
+    <string name="device_storage_space_low_notice_title">Telefonspeicherplatz wird voll sein</string>
+    <string name="device_storage_space_low_textline_button">One key release</string>
+    <string name="device_storage_space_low_textline_des">Telefonspeicherplatz ist fast voll, %s Speicherplatz freigeben</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -1144,7 +1188,7 @@
     <string name="kick_sharer_successfully">Benutzer erfolgreich entfernt</string>
     <string name="limit_height">Höhe sollte &gt; 0 sein</string>
     <string name="limit_width">Breite sollte &gt; 0 sein</string>
-    <string name="live_photo">Live-Foto</string>
+    <string name="live_photo">Dynamische Aufnahme</string>
     <string name="load_complete">Keine Elemente mehr</string>
     <string name="load_failed">Information kann nicht geladen werden. Tippen, um erneut zu versuchen</string>
     <string name="load_relations">Einen Moment…</string>
