@@ -1975,7 +1975,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="select_image_button_content_description">Vollbild auswählen</string>
     <string name="select_item">Element auswählen</string>
     <string name="select_video">Video auswählen</string>
-    <string name="semantic_lift_feedback_include_message">Inklusive Bild &amp; erkannter Text</string>
+    <string name="semantic_lift_feedback_include_message">Einschließlich Bild &amp; erkannter Text</string>
     <string name="semantic_lift_feedback_include_message_no_text">Kein Text erkannt</string>
     <string name="semantic_lift_help_screen_header">Was Sie auswählen können</string>
     <string name="send">Senden</string>

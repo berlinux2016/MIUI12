@@ -150,8 +150,8 @@
         <item quantity="one">%s App wird mit App-Sperre geschützt</item>
     </plurals>
     <plurals name="behavior_widget_app_text">
-        <item quantity="other">%2$d Apps inklusive %1$s</item>
-        <item quantity="one">%2$d App inklusive %1$s</item>
+        <item quantity="other">%2$d Apps einschließlich %1$s</item>
+        <item quantity="one">%2$d App einschließlich %1$s</item>
     </plurals>
     <plurals name="behavior_widget_perm_counts">
         <item quantity="other">%d-mal</item>

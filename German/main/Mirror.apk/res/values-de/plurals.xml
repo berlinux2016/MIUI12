@@ -38,8 +38,8 @@
         <item quantity="one">%2$d empfangene Datei, einschl. %1$s</item>
     </plurals>
     <plurals name="download_title_multi">
-        <item quantity="other">%2$d Dateien, inklusive %1$s</item>
-        <item quantity="one">%2$d Datei, inklusive %1$s</item>
+        <item quantity="other">%2$d Dateien, einschließlich %1$s</item>
+        <item quantity="one">%2$d Datei, einschließlich %1$s</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">vor einer halben Stunde</item>

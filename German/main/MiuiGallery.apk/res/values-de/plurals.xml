@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+ <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Vor 1 Stunde</item>
@@ -80,6 +80,10 @@
     <plurals name="album_member">
         <item quantity="other">%s Personen können dieses Album ansehen</item>
         <item quantity="one">%s Person kann dieses Album ansehen</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d Alben einschließlich %1$s</item>
+        <item quantity="one">%2$d Album einschließlich %1$s</item>
     </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d Elemente</item>
