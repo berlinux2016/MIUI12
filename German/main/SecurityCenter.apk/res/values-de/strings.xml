@@ -2109,9 +2109,9 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gtb_dialog_btn_open">Einschalten</string>
     <string name="gtb_dialog_hint_smart_5g">Sie können diese Funktion unter Game Turbo &gt; Einstellungen ein- und ausschalten.</string>
     <string name="gtb_dialog_privacy_speed_message">Sie sind dabei, Xunyou Game Booster zu nutzen. Dieser Dienst erfasst Ihre Mi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu erfassen.</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung gelesen und akzeptiert.&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="gtb_dialog_privacy_voice_message">Sie sind dabei, den Xunyou Game Voice Changer zu benutzen. Dieser Dienst erfasst Ihre Mi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu erfassen.</string>
-    <string name="gtb_dialog_privacy_voice_tips"><Data>Ich habe die Xunyou Game Voice Changer &lt;a href=\"%1$s\">Datenschutzerklärung gelesen und akzeptiert.&lt;/a></Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Ich habe die Xunyou Game Voice Changer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="gtb_dialog_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren. Diese Funktion jetzt einschalten?</string>
     <string name="gtb_dialog_title_smart_5g">5G-Netz-Optimierung</string>
     <string name="gtb_exit_game_to_gtb">Gamebox öffnen</string>
@@ -3055,7 +3055,7 @@ Stromverbrauch"</string>
     <string name="permission_instruction_read_sms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Textnachrichten zu lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
     <string name="permission_instruction_read_write_calendar">Diese Berechtigung erlaubt Apps den Zugriff auf Ihren Kalender sowie das Lesen, Hinzufügen, Entfernen, Bearbeiten, Freigeben und Speichern von Kalendereinträgen. Bösartige Anps können diese Berechtigung verwenden, um Nachrichten in Ihrem Namen zu senden oder Kalendereinträge ohne Ihre Zustimmung zu bearbeiten.</string>
     <string name="permission_instruction_receive_mms">Diese Berechtigung erlaubt Apps, alle Multimedia-Nachrichten zu lesen, die auf Ihrem Gerät oder Ihrer SIM-Karte gespeichert sind. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
-    <string name="permission_instruction_record_audio">Diese Berechtigung erlaubt Apps, das Mikrofon für Audioaufnahmen zu verwenden. Bedenken Sie, dass diese Berechtigung Apps erlaubt, alles aufzunehmen, einschl. Ihrer Gespräche mit anderen. Am besten erlauben Sie Apps die Verwendung dieser Berechtigung nur während der App-Nutzung.</string>
+    <string name="permission_instruction_record_audio">Diese Berechtigung erlaubt Apps, das Mikrofon für Audioaufnahmen zu verwenden. Bedenken Sie, dass diese Berechtigung Apps erlaubt, alles aufzunehmen, inkl. Ihrer Gespräche mit anderen. Am besten erlauben Sie Apps die Verwendung dieser Berechtigung nur während der App-Nutzung.</string>
     <string name="permission_instruction_running_background">Diese Berechtigung erlaubt Apps, im Hintergrund zu arbeiten. Dabei können Apps Daten sammeln und Dienste anbieten. Bedenken Sie, dass solche Aktivitäten den Stromverbrauch erhöhen.</string>
     <string name="permission_instruction_running_exceed_data">Diese Berechtigung erlaubt Apps, Nutzungsbeschränkungen für mobile Daten zu ignorieren.</string>
     <string name="permission_instruction_send_mms">Diese Berechtigung erlaubt Apps, Multimedia-Nachrichten zu senden, was zusätzliche Kosten verursachen kann. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtige Nachrichten zu versenden.</string>
@@ -3608,7 +3608,7 @@ Diese Funktion wird bei System-Apps nicht unterstützt."</string>
     <string name="privacy_empty_storage">Heute kein Speicherzugriff</string>
     <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
     <string name="privacy_guide_permission_guide_text">Sie können eine Warnung in der Statusleiste erhalten, wenn Apps auf Ihren Standort zugreifen, Audio aufnehmen oder Fotos machen.</string>
-    <string name="privacy_guide_permission_use_text">MIUI zählt und zeigt an, wie oft eine App sensible Berechtigungen verwendet, einschl. Standort-, Kontakte-, Anruflisten- und Speicherzugriff sowie Audioaufzeichnung. Sie können erfahren, wie oft jede App diese Berechtigungen verwendet, und feststellen, ob Sie Ihre Berechtigungseinstellungen anpassen müssen.</string>
+    <string name="privacy_guide_permission_use_text">MIUI zählt und zeigt an, wie oft eine App sensible Berechtigungen verwendet, inkl. Standort-, Kontakte-, Anruflisten- und Speicherzugriff sowie Audioaufzeichnung. Sie können erfahren, wie oft jede App diese Berechtigungen verwendet, und feststellen, ob Sie Ihre Berechtigungseinstellungen anpassen müssen.</string>
     <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
     <string name="privacy_informed_title">Statistik</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Geschützt</string>
@@ -3740,7 +3740,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="privacy_risk_sensitive_second_title">Sie haben sensible Berechtigungen erteilt</string>
     <string name="privacy_risk_sensitive_storage">App den Zugriff auf oder das Speichern von Dateien erlauben</string>
     <string name="privacy_risk_sensitive_top_tip">Um Ihre Privatsphäre zu schützen, sensible Berechtigungen nur erteilen, wenn es notwendig ist.</string>
-    <string name="privacy_risk_space_uninstall_dialog_msg">Ausgewählte Apps einschließlich ihrer Dual Apps deinstallieren?</string>
+    <string name="privacy_risk_space_uninstall_dialog_msg">Ausgewählte Apps inkl. ihrer Dual Apps deinstallieren?</string>
     <string name="privacy_risk_uninstall_dialog_msg">Ausgewählte Apps jetzt deinstallieren?</string>
     <string name="privacy_risk_uninstall_title">Apps deinstallieren</string>
     <string name="privacy_risk_work_encryption">Social Media und Office-Dateien sind nicht geschützt</string>
@@ -3938,7 +3938,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sd_eject">SD-Karte aushängen</string>
     <string name="sd_eject_summary">SD-Karte zur sicheren Entnahme aushängen</string>
     <string name="sd_format">SD-Karte formatieren</string>
-    <string name="sd_format_summary">Alle Daten auf der SD-Karte löschen (einschl. Lieder und Fotos)</string>
+    <string name="sd_format_summary">Alle Daten auf der SD-Karte löschen (inkl. Lieder und Fotos)</string>
     <string name="sd_insert_summary">SD-Karte zum Einhängen einlegen</string>
     <string name="sd_mount">SD-Karte einhängen</string>
     <string name="search_menu_title">Suchen</string>
@@ -4258,12 +4258,12 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="special_perm_intercept_action_title">Erfahren Sie mehr über Ihr Verhalten und automatisierte Aktionen</string>
     <string name="special_perm_intercept_analyze_msg">Erlauben Sie Apps zu erfahren, welche Apps Sie wie oft benutzen</string>
     <string name="special_perm_intercept_analyze_title">Analysieren Sie Ihre Präferenzen und Ihr Verhalten</string>
-    <string name="special_perm_intercept_app_msg">Einschl. Benachrichtigungen von Social Media- und Banking-Apps</string>
+    <string name="special_perm_intercept_app_msg">Inkl. Benachrichtigungen von Social Media- und Banking-Apps</string>
     <string name="special_perm_intercept_app_title">Alle Benachrichtigungen lesen</string>
     <string name="special_perm_intercept_barrier_free">Eingabehilfen</string>
     <string name="special_perm_intercept_camera_msg">Jegliche Kameraaktivität einschränken</string>
     <string name="special_perm_intercept_camera_title">Kameranutzung einschränken</string>
-    <string name="special_perm_intercept_chat_msg">Einschl. Benachrichtigungen aus WeChat und QQ</string>
+    <string name="special_perm_intercept_chat_msg">Inkl. Benachrichtigungen aus WeChat und QQ</string>
     <string name="special_perm_intercept_chat_title">Benachrichtigungen von Instant Messengern lesen</string>
     <string name="special_perm_intercept_check_tip">"Ich bin mir der möglichen Risiken bewusst und nehme alle möglichen Konsequenzen freiwillig auf mich."</string>
     <string name="special_perm_intercept_concept_control_screen_title">Alle Bildschirminhalte lesen und Bildschirm steuern</string>
@@ -4275,7 +4275,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="special_perm_intercept_file_title">Zugriff auf und Bearbeitung von Dateien über Computer</string>
     <string name="special_perm_intercept_install_msg">Apps ohne Ihre Berechtigung installieren</string>
     <string name="special_perm_intercept_install_title">Apps installieren</string>
-    <string name="special_perm_intercept_note_msg">Einschl. Finanz- oder Kontoinformationen</string>
+    <string name="special_perm_intercept_note_msg">Inkl. Finanz- oder Kontoinformationen</string>
     <string name="special_perm_intercept_note_title">Alle SMS lesen</string>
     <string name="special_perm_intercept_psd_msg">Ändern, überwachen und steuern Sie Ihre Bildschirmsperre</string>
     <string name="special_perm_intercept_psd_title">Bildschirmsperre überwachen und steuern</string>
@@ -4284,7 +4284,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="special_perm_intercept_risk_app_title">Gefährliche Apps installieren</string>
     <string name="special_perm_intercept_screen_msg">Alle auf dem Bildschirm angezeigten Inhalte überwachen und aufzeichnen</string>
     <string name="special_perm_intercept_screen_title"> Bildschirminhalt überwachen und aufzeichnen</string>
-    <string name="special_perm_intercept_setting_msg">Einschl. Anbieter, Sprache und andere Einstellungen</string>
+    <string name="special_perm_intercept_setting_msg">Inkl. Anbieter, Sprache und andere Einstellungen</string>
     <string name="special_perm_intercept_setting_title">Geräteeinstellungen lesen</string>
     <string name="special_perm_intercept_significance_msg">Zugriff auf Geräteinfos (evtl. mit persönlichen Daten)</string>
     <string name="special_perm_intercept_significance_title">Zugriff auf Geräteinfos</string>
@@ -4434,7 +4434,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="storage_activity_title">Speicherplatz</string>
     <string name="storage_app_detail_activity_title">Belegter Speicher</string>
     <string name="storage_app_detail_clear_all_data">Alle Daten löschen</string>
-    <string name="storage_app_detail_clear_all_dialog_message">Alle App-Daten, einschl. Dateien, Einstellungen, Konten und Cache, werden dauerhaft gelöscht.</string>
+    <string name="storage_app_detail_clear_all_dialog_message">Alle App-Daten, inkl. Dateien, Einstellungen, Konten und Cache, werden dauerhaft gelöscht.</string>
     <string name="storage_app_detail_clear_all_dialog_title">Alle Daten löschen?</string>
     <string name="storage_app_detail_clear_cache">Cache löschen</string>
     <string name="storage_app_detail_clear_cache_title">App-Cache jetzt löschen?</string>
@@ -5106,7 +5106,7 @@ Wollen Sie es übernehmen?"</string>
     <string name="usb_eject">USB-Speichergerät aushängen</string>
     <string name="usb_eject_summary">USB-Speichergerät aushängen, um es sicher zu entfernen</string>
     <string name="usb_format">USB-Gerät formatieren</string>
-    <string name="usb_format_summary">Alle Daten auf dem USB-Speichergerät löschen (einschl. Lieder und Fotos)</string>
+    <string name="usb_format_summary">Alle Daten auf dem USB-Speichergerät löschen (inkl. Lieder und Fotos)</string>
     <string name="usb_insert_summary">USB-Gerät verbinden</string>
     <string name="usb_install_desc">Diese App via USB installieren?</string>
     <string name="usb_mount">USB-Gerät einhängen</string>

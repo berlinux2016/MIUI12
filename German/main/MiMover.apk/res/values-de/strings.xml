@@ -552,7 +552,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="phone">Telefon</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
-    <string name="prompt_before_transmission_message1_summary">Wenn Sie sich dafür entscheiden, sie von Ihrem alten Gerät zu übertragen, werden die App-Daten (einschl. Chat-Verlauf) überschrieben.</string>
+    <string name="prompt_before_transmission_message1_summary">Wenn Sie sich dafür entscheiden, sie von Ihrem alten Gerät zu übertragen, werden die App-Daten (inkl. Chat-Verlauf) überschrieben.</string>
     <string name="prompt_before_transmission_message1_title">Diese Apps haben bereits App-Daten auf Ihrem neuen Gerät generiert</string>
     <string name="prompt_before_transmission_message2_summary">Dual Apps können nicht übertragen werden. Sie können jedoch Original-Apps übertragen.</string>
     <string name="prompt_before_transmission_message2_title">Sie verwenden Dual Apps für folgende Elemente</string>
@@ -774,8 +774,8 @@ Mindestens %s freigeben."</string>
     <string name="tomorrow">Morgen</string>
     <string name="trans_detail_item_app_data_skip_data">App-Daten übertragen nicht möglich</string>
     <string name="trans_detail_item_app_skip_data">App verschieben nicht möglich</string>
-    <string name="trans_detail_qq_data">QQ-Daten (einschl. Chat-Verlauf)</string>
-    <string name="trans_detail_wechat_data">WeChat-Daten (einschl. Chat-Verlauf)</string>
+    <string name="trans_detail_qq_data">QQ-Daten (inkl. Chat-Verlauf)</string>
+    <string name="trans_detail_wechat_data">WeChat-Daten (inkl. Chat-Verlauf)</string>
     <string name="trans_install_guide_new_content_first">"Diesen QR-Code mit Ihrem neuen Gerät scannen.
 Mi Mover herunterladen und installieren."</string>
     <string name="trans_install_guide_old_content_first">"1. Diesen QR-Code mit Ihrem alten Gerät scannen.

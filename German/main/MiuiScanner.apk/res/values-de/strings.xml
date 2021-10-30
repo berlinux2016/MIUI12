@@ -648,7 +648,7 @@
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="spaceIsLow_content">Nicht genügend Speicherplatz auf der SD-Karte. Speicherplatz freigeben.</string>
     <string name="store_feedback_prompt">Zuerst Feedback eingeben</string>
-    <string name="store_location_dialog">Dieser Service wird von Dianping angeboten. Alle Fotos, die Sie während der Nutzung des Services machen, einschl. der zugehörigen Standortinfo, werden an Dianping weitergegeben, um Shopinfos zu erhalten.</string>
+    <string name="store_location_dialog">Dieser Service wird von Dianping angeboten. Alle Fotos, die Sie während der Nutzung des Services machen, inkl. der zugehörigen Standortinfo, werden an Dianping weitergegeben, um Shopinfos zu erhalten.</string>
     <string name="store_location_fail">Keine Standortinfo erhalten</string>
     <string name="store_location_prompt">Scanner den Zugriff auf Ihren Standort erlauben, um Shops zu identifizieren</string>
     <string name="store_module_title">Shop</string>

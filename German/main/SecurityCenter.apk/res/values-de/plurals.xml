@@ -150,8 +150,8 @@
         <item quantity="one">%s App wird mit App-Sperre geschützt</item>
     </plurals>
     <plurals name="behavior_widget_app_text">
-        <item quantity="other">%2$d Apps einschließlich %1$s</item>
-        <item quantity="one">%2$d App einschließlich %1$s</item>
+        <item quantity="other">%2$d Apps inkl. %1$s</item>
+        <item quantity="one">%2$d App inkl. %1$s</item>
     </plurals>
     <plurals name="behavior_widget_perm_counts">
         <item quantity="other">%d-mal</item>
@@ -258,8 +258,8 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
         <item quantity="one">%1$d Person spielt</item>
     </plurals>
     <plurals name="gb_dialog_game_uninstall_multi_tips_title">
-        <item quantity="other">%2$d Spiele deinstallieren (einschl. %1$s)</item>
-        <item quantity="one">%2$d Spiel deinstallieren (einschl. %1$s)</item>
+        <item quantity="other">%2$d Spiele deinstallieren (inkl. %1$s)</item>
+        <item quantity="one">%2$d Spiel deinstallieren (inkl. %1$s)</item>
     </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d KI-Aufnahmen in Game Turbo gespeichert</item>
@@ -499,8 +499,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">In der letzten %1$d Min wurden %2$d%% des Akkus entleert</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d Apps, einschl. %1$s, entleeren den Akku</item>
-        <item quantity="one">%2$d App, einschl. %1$s, entleert den Akku</item>
+        <item quantity="other">%2$d Apps, inkl. %1$s, entleeren den Akku</item>
+        <item quantity="one">%2$d App, inkl. %1$s, entleert den Akku</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">%d Installationspakete löschen</item>

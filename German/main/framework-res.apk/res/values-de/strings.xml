@@ -2022,7 +2022,7 @@ Möchten Sie sie schließen?"</string>
     <string name="window_magnification_prompt_content">Sie können jetzt ein Bildschirmteil vergrößern</string>
     <string name="window_magnification_prompt_title">Neue Vergrößerungseinstellungen</string>
     <string name="wireless_display_route_description">Kabellose Anzeige</string>
-    <string name="work_mode_off_message">Arbeitsprofil aktivieren, einschließlich Apps, Hintergrundsynchronisation und damit verbundene Funktionen</string>
+    <string name="work_mode_off_message">Arbeitsprofil aktivieren, inkl. Apps, Hintergrundsynchronisation und damit verbundene Funktionen</string>
     <string name="work_mode_off_title">Arbeitsprofil ist AUS</string>
     <string name="work_mode_turn_on">Einschalten</string>
     <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>

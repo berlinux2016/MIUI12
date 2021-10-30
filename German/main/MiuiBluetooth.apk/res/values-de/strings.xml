@@ -457,7 +457,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="home">Einstellungen Startseite</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. persönlicher Daten wie Passwörter und Kreditkartennummern. Sie gehört zu %1$s. Eingabemethode verwenden?</string>
-    <string name="ime_security_warning_global">Eingabemethoden können ggf. den von Ihnen eingegebenen Text erfassen, einschl. persönlicher Daten wie Passwort und Kreditkartennummern. %1$s verwenden?</string>
+    <string name="ime_security_warning_global">Eingabemethoden können ggf. den von Ihnen eingegebenen Text erfassen, inkl. persönlicher Daten wie Passwort und Kreditkartennummern. %1$s verwenden?</string>
     <string name="ime_security_warning_title_global">Tastatur einschalten</string>
     <string name="immediately_destroy_activities">Aktivitäten beenden</string>
     <string name="immediately_destroy_activities_summary">Jede Aktivität beenden, sobald der Benutzer diese verlässt</string>

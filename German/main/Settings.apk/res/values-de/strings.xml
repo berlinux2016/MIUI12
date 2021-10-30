@@ -3356,7 +3356,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
     <string name="encryption_interstitial_message_password">"Sie können dieses Gerät zusätzlich durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?"</string>
-    <string name="encryption_interstitial_message_password_for_biometrics">"Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, einschließlich Alarme, empfangen.
+    <string name="encryption_interstitial_message_password_for_biometrics">"Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort anfordern zum Starten des Geräts?"</string>
     <string name="encryption_interstitial_message_password_for_face">"Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
@@ -3368,7 +3368,7 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort
     <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Musterabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, inkl. Wecker, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster zum Gerätestart anfordern?"</string>
-    <string name="encryption_interstitial_message_pattern_for_biometrics">"Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, einschließlich Alarme, empfangen.
+    <string name="encryption_interstitial_message_pattern_for_biometrics">"Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster anfordern zum Starten des Geräts?"</string>
     <string name="encryption_interstitial_message_pattern_for_face">"Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch Musterabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
@@ -3380,7 +3380,7 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster z
     <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, inkl. Wecker, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN zum Gerätestart anfordern?"</string>
-    <string name="encryption_interstitial_message_pin_for_biometrics">"Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, einschließlich Alarme, empfangen.
+    <string name="encryption_interstitial_message_pin_for_biometrics">"Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
 
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN anfordern zum Starten des Geräts?"</string>
     <string name="encryption_interstitial_message_pin_for_face">"Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.
@@ -4322,7 +4322,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="ignore_optimizations_on_desc">Ihr Akku wird eventuell schneller leer</string>
     <string name="ignore_optimizations_title">%s erlauben, die Optimierung zu ignorieren?</string>
     <string name="ime_security_warning">%1$s kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. persönlicher Daten wie Passwörter und Kreditkartennummern</string>
-    <string name="ime_security_warning_global">Eingabemethoden können evtl. den von Ihnen eingegebenen Text erfassen, einschl. persönlicher Daten wie Passwort und Kreditkartennummern. %1$s verwenden?</string>
+    <string name="ime_security_warning_global">Eingabemethoden können evtl. den von Ihnen eingegebenen Text erfassen, inkl. persönlicher Daten wie Passwort und Kreditkartennummern. %1$s verwenden?</string>
     <string name="ime_security_warning_title_global">Tastatur einschalten</string>
     <string name="imei_information_summary">Relevante IMEI-Informationen</string>
     <string name="imei_information_title">IMEI-Informationen</string>
@@ -5857,7 +5857,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden."</string>
     <string name="mqs_privacy_automatically_upload">Beim nächsten Mal automatisch hochladen</string>
     <string name="mqs_privacy_dialog_cancel">Abbrechen</string>
     <string name="mqs_privacy_dialog_confirm">Hochladen</string>
-    <string name="mqs_privacy_dialog_content">Anscheinend sind in letzter Zeit Fehler auf Ihrem Gerät aufgetreten. Sie können Protokolle hochladen, die uns helfen, dieses Problem zu lokalisieren und zu lösen. Protokolle können Ihre persönlichen Informationen enthalten, einschließlich der Informationen über Ihren Standort. Jetzt hochladen?</string>
+    <string name="mqs_privacy_dialog_content">Anscheinend sind in letzter Zeit Fehler auf Ihrem Gerät aufgetreten. Sie können Protokolle hochladen, die uns helfen, dieses Problem zu lokalisieren und zu lösen. Protokolle können Ihre persönlichen Informationen enthalten, inkl. der Informationen über Ihren Standort. Jetzt hochladen?</string>
     <string name="mqs_privacy_dialog_title">Protokolle hochladen</string>
     <string name="mr_button_content_description">Übertragungstaste</string>
     <string name="mr_cast_button_connected">Übertragungstaste - verbunden</string>
