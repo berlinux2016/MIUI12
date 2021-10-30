@@ -33,7 +33,7 @@
     <string name="update_latest_version">Bereits die neueste Version</string>
     <string name="update_network_error">Bitte Netzwerk überprüfen und erneut versuchen</string>
     <string name="update_new_version">Neue Version gefunden</string>
-    <string name="update_title">Neue Version V%s gefunden</string>
+    <string name="update_title">Neue Version %s gefunden</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Nicht jetzt</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Update ist verfügbar</string>
 
@@ -41,7 +41,7 @@
     <string name="device_storage_space_low_dialog_title">Nicht genügend Gerätespeicherplatz</string>
     <string name="device_storage_space_low_notice_des">Fotos und Videos in die Cloud hochladen, um den lokalen Speicherplatz von %s freizugeben</string>
     <string name="device_storage_space_low_notice_title">Telefonspeicherplatz wird voll sein</string>
-    <string name="device_storage_space_low_textline_button">One key release</string>
+    <string name="device_storage_space_low_textline_button">Ein-Tasten-Freigabe</string>
     <string name="device_storage_space_low_textline_des">Telefonspeicherplatz ist fast voll, %s Speicherplatz freigeben</string>
 
     <string name="abc_action_bar_home_description">Zur Startseite</string>
