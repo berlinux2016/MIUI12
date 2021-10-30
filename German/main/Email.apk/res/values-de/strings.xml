@@ -566,7 +566,7 @@
     <string name="email_address">E-Mail-Adresse</string>
     <string name="email_no_snippet">[Leere E-Mail]</string>
     <string name="email_setting">E-Mail</string>
-    <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mailkonto;E-Mailkonto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-Mailkonversation;Mail Akku;Feedback senden</string>
+    <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-Mailkonversation;Mail Akku;Feedback senden</string>
     <string name="email_sync_failed">E-Mail synchronisieren fehlgeschlagen</string>
     <string name="eml_parse_message">EML-Datei öffnen…</string>
     <string name="empty_account_tip">Konto nicht gefunden</string>
@@ -846,7 +846,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentifizierung des Kontos ver
     <string name="mailbox_folder">Ordner</string>
     <string name="mailbox_list_account_selector_combined_view">Kombiniertes Konto</string>
     <string name="mailbox_name_display_ad">Werbung</string>
-    <string name="mailbox_name_display_add_account">E-Mailkonto hinzufügen</string>
+    <string name="mailbox_name_display_add_account">E-Mail-Konto hinzufügen</string>
     <string name="mailbox_name_display_circular">Benachrichtigungen</string>
     <string name="mailbox_name_display_drafts">Entwürfe</string>
     <string name="mailbox_name_display_inbox">Posteingang</string>
@@ -1077,7 +1077,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentifizierung des Kontos ver
     <string name="no">Nein</string>
     <string name="no_application_found">Keine App zum Öffnen des Anhangs gefunden</string>
     <string name="no_application_found_title">Diesen Anhang öffnen</string>
-    <string name="no_bill_discribe">Rechnungen nicht gefunden. Versuchen Sie, zu einem anderen E-Mailkonto zu wechseln.</string>
+    <string name="no_bill_discribe">Rechnungen nicht gefunden. Versuchen Sie, zu einem anderen E-Mail-Konto zu wechseln.</string>
     <string name="no_contacts">Keine Kontakte</string>
     <string name="no_content_in_body">[Kein Inhalt]</string>
     <string name="no_conversations">Keine Nachrichten</string>
@@ -1500,8 +1500,8 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
 \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"</string>
     <string name="ser_resp_err_map_landing_more_failure">Zu viele erfolglose Anmeldeversuche</string>
     <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche</string>
-    <string name="ser_resp_err_map_mailbox_locked">E-Mailkonto ist passwortgeschützt</string>
-    <string name="ser_resp_err_map_mailbox_not_open">Kein E-Mailkonto</string>
+    <string name="ser_resp_err_map_mailbox_locked">E-Mail-Konto ist passwortgeschützt</string>
+    <string name="ser_resp_err_map_mailbox_not_open">Kein E-Mail-Konto</string>
     <string name="ser_resp_err_map_max_connections">Zu viele Verbindungsversuche</string>
     <string name="ser_resp_err_map_nouser">Benutzer nicht vorhanden</string>
     <string name="ser_resp_err_map_or">%1$s oder %2$s</string>
