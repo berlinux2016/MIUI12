@@ -1363,8 +1363,8 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="privacy_settings_call_phone_for_pad">Anrufen</string>
     <string name="privacy_settings_contacts">Kontakte und Telefon</string>
     <string name="privacy_settings_contacts_for_pad">Datenschutz</string>
-    <string name="privacy_settings_mallowed">Erlaubt</string>
-    <string name="privacy_settings_mnotallowed">Nicht erlaubt</string>
+    <string name="privacy_settings_mallowed">Gewährt</string>
+    <string name="privacy_settings_mnotallowed">Nicht gewährt</string>
     <string name="privacy_settings_permission_description">Berechtigungsdetails</string>
     <string name="privacy_settings_permission_related">Berechtigungen</string>
     <string name="privacy_settings_phone_position">Standort</string>

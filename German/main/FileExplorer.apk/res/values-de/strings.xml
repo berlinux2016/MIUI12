@@ -728,9 +728,9 @@
     <string name="popup_msg_wb">Dieses Video mit Ihren Freunden über Weibo teilen</string>
     <string name="popup_msg_wx">Dieses Video mit Ihren Freunden über WeChat teilen</string>
     <string name="port_range">Port muss zwischen 1024-65535 sein</string>
-    <string name="pref_permission_allowed">Erlaubt</string>
+    <string name="pref_permission_allowed">Gewährt</string>
     <string name="pref_permission_manage_key_storage">Zugriff auf Fotos und Dateien auf dem Gerät</string>
-    <string name="pref_permission_not_allowed">Nicht erlaubt</string>
+    <string name="pref_permission_not_allowed">Nicht gewährt</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="pretty_girl">Weiblich</string>
     <string name="privacy_policy">Datenschutzerklärung</string>

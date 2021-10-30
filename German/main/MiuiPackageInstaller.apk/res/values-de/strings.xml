@@ -624,7 +624,7 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
     <string name="untrusted_external_source_warning_summary">Ihr Gerät und Ihre persönlichen Daten sind anfällig für Angriffe durch installierte Apps aus unbekannten Quellen. Indem Sie die Installation von Apps aus dieser Quelle zulassen, akzeptieren Sie die Verantwortung für jegliche Schäden oder Datenverluste, die während der Nutzung dieser Apps auftreten können.</string>
     <string name="untrusted_external_source_warning_summary_tablet">Ihr Gerät und Ihre persönlichen Daten sind anfällig für Angriffe durch die aus unbekannten Quellen installierten Apps. Indem Sie die Installation von Apps aus dieser Quelle zulassen, erklären Sie sich damit einverstanden, die Verantwortung für jegliche Schäden oder Datenverluste zu übernehmen, die während der Verwendung dieser Apps auftreten können.</string>
     <string name="user_is_not_allowed_dlg_text">Aktueller Benutzer darf diese Deinstallation nicht durchführen.</string>
-    <string name="user_is_not_allowed_dlg_title">Nicht erlaubt</string>
+    <string name="user_is_not_allowed_dlg_title">Nicht zulässig</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="verify_account_title">Identität prüfen, um die Installation zu bestätigen</string>
