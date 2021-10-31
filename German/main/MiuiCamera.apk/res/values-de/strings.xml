@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 
-    <string name="pref_retain_ai_scene">KI-Kamera</string>
-    <string name="pref_retain_ai_scene_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand beibehalten</string>
-    <string name="pref_retain_beauty">Schönheitseffekt</string>
-    <string name="pref_retain_beauty_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird die letzte Einstellung von Schönheitsparametern verwendet</string>
-    <string name="pref_retain_camera_mode">Kameramodus</string>
-    <string name="pref_retain_camera_mode_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird der vorherige Aufnahmemodus und der vordere und hintere Status auf dem ersten Bildschirm beibehalten</string>
-    <string name="pref_retain_camera_status_description">Beim Starten der Kamera die letzte Funktionseinstellung verwenden, anstatt jedes Mal in den Ausgangszustand zurückzusetzen</string>
-    <string name="pref_retain_camera_status_title">Kamerastatus beibehalten</string>
-    <string name="pref_retain_live_shot">Dynamisches Foto</string>
-    <string name="pref_retain_live_shot_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand beibehalten</string>
 
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -1634,6 +1624,16 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_camera_reference_capture_title_left_golden_spiral">Goldene Spirale A</string>
     <string name="pref_camera_reference_capture_title_right_golden_spiral">Goldene Spirale B</string>
     <string name="pref_camera_referenceline_title">Referenzlinien</string>
+    <string name="pref_retain_ai_scene">KI-Kamera</string>
+    <string name="pref_retain_ai_scene_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand verwendet</string>
+    <string name="pref_retain_beauty">Schönheitseffekt</string>
+    <string name="pref_retain_beauty_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird die letzte Einstellung von Schönheitsparametern verwendet</string>
+    <string name="pref_retain_camera_mode">Kameramodus</string>
+    <string name="pref_retain_camera_mode_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird der vorherige Aufnahmemodus und der vordere und hintere Status auf dem ersten Bildschirm beibehalten</string>
+    <string name="pref_retain_camera_status_description">Beim Starten der Kamera die letzte Funktionseinstellung verwenden, anstatt jedes Mal in den Ausgangszustand zurückzusetzen</string>
+    <string name="pref_retain_camera_status_title">Kamerastatus beibehalten</string>
+    <string name="pref_retain_live_shot">Dynamisches Foto</string>
+    <string name="pref_retain_live_shot_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand beibehalten</string>
     <string name="pref_camera_saturation_title">Sättigung</string>
     <string name="pref_camera_scenedetect_title">Automatische Szenenerkennung</string>
     <string name="pref_camera_scenemode_entry_backlight">Gegenlicht</string>
