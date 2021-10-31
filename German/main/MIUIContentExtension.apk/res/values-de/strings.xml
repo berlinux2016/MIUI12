@@ -507,7 +507,6 @@ The restrictions above will be combined with the items you add to your blocklist
     <string name="v7_preference_on">AN</string>
     <string name="webview_load_error">"Couldn't load, check network connection and try again"</string>
     <string name="wednesday">Mittwoch</string>
-    <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="yesterday">Gestern</string>
