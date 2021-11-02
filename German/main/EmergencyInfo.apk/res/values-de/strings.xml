@@ -206,6 +206,7 @@ auswählen"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Ausgegraut bedeutet keine Unterstützung durch Telefon oder Headset</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
     <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP-Version</string>
+    <string name="bluetooth_select_map_version_dialog_title">Bluetooth MAP-Version wählen</string>
     <string name="bluetooth_show_devices_without_names">Bluetooth-Gerät ohne Namen anzeigen</string>
     <string name="bluetooth_show_devices_without_names_summary">System zeigt Bluetooth-Gerät ohne Namen an (nur MAC-Adresse)</string>
     <string name="bluetooth_talkback_headphone">Kopfhörer</string>
