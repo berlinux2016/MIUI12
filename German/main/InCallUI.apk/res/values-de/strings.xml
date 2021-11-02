@@ -25,6 +25,8 @@
     <string name="ai_mode_auto">Automatiscch</string>
     <string name="ai_mode_manual">Manuell</string>
     <string name="ai_mode_subtitles">Untertitel</string>
+    <string name="antifraud_center">Plattform zur Betrugsbekämpfung</string>
+    <string name="antifraud_center_incoming_prompt">Verpassen Sie keine Anrufe der offiziellen Warnplattform zur Betrugsbekämpfung</string>
     <string name="antispam_local_marked">Lokal markiert</string>
     <string name="antispam_notification_title">Unbekannte Nummer</string>
     <string name="antispam_provider">Identifiziert von %s</string>
@@ -210,6 +212,7 @@
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
@@ -328,6 +331,7 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="speakerphone_tip">Falten Sie das Gerät, um die Hörmuschel oder den Lautsprecher zu benutzen</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>

@@ -360,6 +360,9 @@
     <string name="copy">Kopieren</string>
     <string name="copy_url">URL kopieren</string>
     <string name="could_not_load_data">Daten wurden nicht geladen, aktualisieren und erneut versuchen</string>
+    <string name="crash_page_button">Erneut versuchen</string>
+    <string name="crash_page_description">Beim Anzeigen dieser Webseite ist ein Fehler aufgetreten.</string>
+    <string name="crash_page_title">Oh, Mist!</string>
     <string name="create_qr_code">QR-Code</string>
     <string name="current_version_pad">Tablet</string>
     <string name="current_version_pc">Startbildschirm</string>
@@ -382,6 +385,7 @@ werden nicht im Verlauf angezeigt."</string>
     <string name="data_traffic_prompt_title">Sie verwenden mobile Daten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit festlegen</string>
+    <string name="debug_crash">Debuggen von Abstürzen aktivieren</string>
     <string name="debug_youtube_file">YouTube-Datei debuggen</string>
     <string name="debug_youtube_in_release">Youtube im Release debuggen</string>
     <string name="delete">Löschen</string>
@@ -851,6 +855,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="monday_shortest">M</string>
     <string name="month_april_shortest">A</string>
     <string name="month_august_shortest">A</string>
+    <string name="month_day_format">d. MMM</string>
     <string name="month_december">Dezember</string>
     <string name="month_december_short">Dez</string>
     <string name="month_december_shortest">D</string>
@@ -1350,7 +1355,7 @@ Diese Seite jetzt wirklich verlassen?"</string>
     <string name="pf_guide_msg_if_has_downloading">Laufende Downloads können nicht zum privaten Ordner hinzugefügt werden</string>
     <string name="pf_move_out">Aus privatem Ordner entfernen</string>
     <string name="pf_move_out_dialog_btn_confirm">Entfernen</string>
-    <string name="pf_move_out_dialog_content">Entfernte Elemente werden an ihrem ursprünglichen Ort gespeichert.</string>
+    <string name="pf_move_out_dialog_content">Gelöschte Elemente werden unter den letzten Dateien angezeigt.</string>
     <string name="pf_move_out_dialog_title">Aus privatem Ordner entfernen</string>
     <string name="pf_toast_add_success">Erfolgreich in privaten Ordner verschoben</string>
     <string name="phone">Speicher</string>

@@ -72,6 +72,8 @@ Sie können damit Ihre Trainingseinheiten und Aktivitäten verfolgen."</string>
     <string name="app_setting">Apps</string>
     <string name="audio_permission_dialog_desc">Erlaubnis für Audioaufnahmen wurde aufgehoben, bitte wieder erteilen.</string>
     <string name="audio_permission_dialog_title">Erlaubnis für Audio-Aufnahmen erteilen</string>
+    <string name="audio_permission_subtitle">Zum Erkennen von Schnarchen und Sprechen</string>
+    <string name="audio_permission_title">Audio aufnehmen</string>
     <string name="audio_record_perm_description">Schnarchen und Träumen im Schlaf aufzeichnen</string>
     <string name="audio_record_permission_description">Zur Aufzeichnung von Sprechen und Schnarchen während der Schlafzyklusanalyse</string>
     <string name="auth_description">%1$s erlauben, Daten von den folgenden Geräten zu synchronisieren</string>
@@ -147,6 +149,8 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
     <string name="blood_type_select">Typ %1$s</string>
     <string name="body_bmi_descripe_content">Der Body-Mass-Index (BMI) ist definiert als die Körpermasse in Kilogramm geteilt durch das Quadrat der Körpergröße in Metern. Die Kenntnis Ihres BMI könnte Ihnen helfen zu verstehen, ob Ihr Gewicht einen negativen Einfluss auf Ihre Gesundheit hat.</string>
     <string name="body_composition">Körperzusammensetzung</string>
+    <string name="body_sport_permission_subtitle">Zur Erfassung Ihrer Schritte</string>
+    <string name="body_sport_permission_title">Zugriff auf Gesundheits- und Aktivitätsdaten</string>
     <string name="body_water">Wasser</string>
     <string name="body_water_descripe_content">Der Körperwasseranteil bezieht sich auf den Anteil des Wassers am Gesamtgewicht des menschlichen Körpers. Normalerweise enthält Muskelgewebe mehr Wasser als andere Körperteile.</string>
     <string name="body_weight">Gewicht</string>
@@ -169,6 +173,8 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
     <string name="buy">Kaufen</string>
     <string name="calories">Kalorien</string>
     <string name="camera_permission_desc">Zum Einstellen von Profilfotos</string>
+    <string name="camera_permission_subtitle">Zur Ermittlung von Blutflussänderungen für die Erkennung der Herzfrequenz und zur Einstellung von Profilfotos</string>
+    <string name="camera_permission_title">Kamera verwenden</string>
     <string name="cancel">Abbrechen</string>
     <string name="cancel_edit">Änderungen verwerfen</string>
     <string name="cancel_mark_end">Zeitraum ist noch nicht abgelaufen</string>
@@ -204,6 +210,8 @@ Wenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie 
     <string name="completed_stand">Stehen abgeschlossen</string>
     <string name="confirm_opening">Öffnen bestätigen</string>
     <string name="contact_permission_desc">Zum Einstellen von Notfallkontakten</string>
+    <string name="contact_permission_subtitle">Zum Einrichten von Notfallkontakten</string>
+    <string name="contact_permission_title">Kontaktezugriff</string>
     <string name="copy">Kopieren</string>
     <string name="copy_done">Erfolgreich kopiert</string>
     <string name="course_consume_title">Verbrauchen</string>
@@ -488,6 +496,8 @@ Wenn Ihr Gerät hier aufgeführt ist, können Sie Datenquellen manuell in Xiaomi
     <string name="expand_all">Alle anzeigen</string>  
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
+    <string name="external_storage_permission_subtitle">Zum Einstellen von Profilfotos</string>
+    <string name="external_storage_permission_title">Zugriff auf und Speichern von Elementen im Speicher</string>
     <string name="fall_sleep_hard">Einschlafprobleme</string>
     <string name="falling_duration">Einschlafen</string>
     <string name="falling_duration_hard_description">"Einschlafen ist die Zeit zwischen dem Beginn des Schlafes und dem vollständigen Einschlafen. Wenn Sie länger als 30 Minuten zum Einschlafen brauchen, kann dies ein Zeichen von Schlaflosigkeit sein.
@@ -736,6 +746,8 @@ mit einem Finger"</string>
     <string name="location_permission_dialog_negative">Jetzt nicht</string>
     <string name="location_permission_dialog_positive">Erlauben</string>
     <string name="location_permission_dialog_title">Standortberechtigung erforderlich</string>
+    <string name="location_permission_subtitle">Zur Aufzeichnung von Outdoor-Trainings und Routen</string>
+    <string name="location_permission_title">Standortzugriff</string>
     <string name="location_service_dialog_content">Schalten Sie in den Einstellungen die Standortdienste ein, um Ihre Workouts im Freien verfolgen zu können.</string>
     <string name="location_service_dialog_negative">Jetzt nicht</string>
     <string name="location_service_dialog_positive">Einschalten</string>
@@ -1391,6 +1403,9 @@ auf Ihren persönlichen Daten beraten."</string>
     <string name="sport_btn_pause">Pause</string>
     <string name="sport_btn_unlock">Entsperren</string>
     <string name="sport_counter_begin">Jetzt starten</string>
+    <string name="sport_data_use_subtitle">Um Ihr Training und Ihren Fitnessfortschritt zu verfolgen, erfassen und verarbeiten wir Ihre Daten, inkl. Trainingsrouten, Schlafdaten, Herzfrequenz und Gewicht.</string>
+    <string name="sport_data_use_tip">Lesen Sie und akzeptieren Sie unsere &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Gesundheits- und Aktivitätsdaten-Nutzungsrichtlinie&lt;/a>&lt;/font>, um besser zu verstehen, wie wir Ihre Daten erfassen und verarbeiten. Sie können diesen Dienst nicht nutzen, wenn Sie unserer Erfassung und Verarbeitung nicht zustimmen.</string>
+    <string name="sport_data_use_title">Datenberechtigungen</string>
     <string name="sport_home_begin">Start</string>
     <string name="sport_home_set_goal">Ziel festlegen</string>
     <string name="sport_invalid_dialog_distance_content">Die Strecke, die Sie während dieses Workouts zurückgelegt haben, ist zu kurz, um eine Verlaufsaufzeichnung zu erstellen. Dieses Workout trotzdem beenden?</string>
@@ -1515,6 +1530,7 @@ auf Ihren persönlichen Daten beraten."</string>
     <string name="sync_status_never_done">Nicht synchronisiert</string>
     <string name="sync_status_oauth_error">Daten synchronisieren nicht möglich. Zuerst die erforderlichen Berechtigungen erteilen.</string>
     <string name="system_app_setting">System-App-Einstellungen</string>
+    <string name="system_permission">Berechtigungsdetails</string>
     <string name="systolic_pressure">Systolisch</string>
     <string name="tb_audio_progress_bar">Audiowiedergabeleiste</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Max. systolischer Druck: %2$d Millimeter Quecksilber. Min. diastolischer Druck: %3$d Millimeter Quecksilber.</string>

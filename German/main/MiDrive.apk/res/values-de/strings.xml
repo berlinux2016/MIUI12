@@ -299,6 +299,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="goto_sign_up">Konto erstellen</string>
     <string name="h5_ppt_to_pdf_introduce_title">Über die Konvertierung von PPT in PDF</string>
     <string name="home_action_up">Zurück</string>
+    <string name="hybrid_provider">Provided by %1$s</string>
     <string name="i_know">Verstanden</string>
     <string name="identity">Identifikation</string>
     <string name="image_loading_error">Bild wurde nicht geladen</string>
@@ -375,7 +376,7 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
     <string name="monday_shortest">M</string>
     <string name="month_april_shortest">A</string>
     <string name="month_august_shortest">A</string>
-    <string name="month_day_format">dd.MM.</string>
+    <string name="month_day_format">d. MMM</string>
     <string name="month_december">Dezember</string>
     <string name="month_december_short">Dez</string>
     <string name="month_december_shortest">D</string>
@@ -737,6 +738,14 @@ Stellen Sie sicher, dass Sie das aktuelle Mi-Konto als Ihr MIUI-Systemkonto verw
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="system_alert">Internetverbindung</string>
+    <string name="talkback_continue">Fortsetzen</string>
+    <string name="talkback_doc_filter">Filter-Taste</string>
+    <string name="talkback_list_play">Alles abspielen</string>
+    <string name="talkback_next_song">Nächster Titel</string>
+    <string name="talkback_play">Abspielen</string>
+    <string name="talkback_previous_song">Vorheriger Titel</string>
+    <string name="talkback_random_play">Zufallswiedergabe</string>
+    <string name="talkback_single_play">Einen in Schleife</string>
     <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>
     <string name="text_select_all">Alles wählen</string>
     <string name="text_select_nothing">Alles abwählen</string>
