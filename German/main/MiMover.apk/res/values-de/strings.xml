@@ -242,6 +242,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="guest_unfinished_task_alert_title">Unerledigte Aufgaben</string>
     <string name="guest_wainting_title">Fahren Sie mit Ihrem neuen Gerät fort</string>
     <string name="hide_password_description">Passwort verstecken</string>
+    <string name="high_temp_summary">Ihr Gerät kann sich während der Übertragung großer Datenmengen erhitzen. Das ist normal. Ihr Gerät wird sich nach Abschluss der Übertragung abkühlen.</string>
     <string name="host_boot_installation_bottom_tips">Sie können Mi Mover nicht finden? Zum Herunterladen tippen.</string>
     <string name="host_boot_installation_button">Weiter</string>
     <string name="host_boot_installation_content">"1. Gehen Sie zu Einstellungen auf Ihrem alten Gerät.
@@ -356,6 +357,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="manual_connection_hint">Tippen Sie auf \"Manuell verbinden\" auf Ihrem alten Gerät.</string>
     <string name="manual_connection_summary2">Wenn Sie diesen Hotspot nicht finden, aktualisieren Sie die Liste der verfügbaren WLAN und versuchen Sie es erneut.</string>
     <string name="manual_connection_title">Manuell mit dem alten Gerät verbinden</string>
+    <string name="message_request_manage_external_storage_perm">Mi Mover muss auf alle Dateien auf diesem Gerät zugreifen können, um sie von Ihrem alten Gerät auf ein neues zu verschieben.</string>
     <string name="message_request_package_stats_perm">Mi Mover benötigt diese Erlaubnis, um zu erfahren, welche Apps auf einem Gerät installiert sind, und um diese Apps auf ein anderes Gerät zu übertragen.</string>
     <string name="midnight">Nacht</string>
     <string name="miui_need_location_permission_summary">Mi Mover den Standortzugriff erlauben, um Geräte in der Nähe zu finden. Sie werden Mi Mover ohne dieses Erlaubnis nicht nutzen können.</string>
@@ -381,6 +383,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
@@ -518,6 +521,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="password">Passwort eingeben</string>
     <string name="password_null">Passwort darf nicht leer sein</string>
     <string name="perm_location">Standort</string>
+    <string name="perm_manage_external_storage">Zugriff auf alle Dateien</string>
     <string name="perm_package_stats">Zugriff auf App-Nutzungsstatistiken</string>
     <string name="perm_payment_dspt">App erlauben, mit Mi Pay Dienst zu bezahlen</string>
     <string name="perm_read_call_log">Zugriff auf Anrufliste</string>
@@ -768,6 +772,7 @@ Mindestens %s freigeben."</string>
     <string name="time_spent">Zeit: <g id="time">%1$s</g></string>
     <string name="title_open_wlan">WLAN einschalten</string>
     <string name="title_request_alert_window_perm">Popups erlauben</string>
+    <string name="title_request_manage_external_storage_perm">Berechtigungen erforderlich</string>
     <string name="title_request_package_stats_perm">Berechtigungen erforderlich</string>
     <string name="title_request_write_settings_perm">Berechtigung zum Ändern von Systemeinstellungen erforderlich</string>
     <string name="today">Heute</string>

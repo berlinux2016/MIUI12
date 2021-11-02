@@ -326,6 +326,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="headset_loss_notify_summary">Anscheinend ist mindestens einer Ihrer Ohrhörer nicht in der Ladehülle. Sehen Sie nach!</string>
     <string name="headset_loss_notify_title">Warnung bei fehlendem Ohrhörer</string>
     <string name="hint_feedback_main">Problem beschreiben</string>
+    <string name="i_get_it">Verstanden</string>
     <string name="identity">Identifikation</string>
     <string name="inconsistent_pwd">Passwörter stimmen nicht überein</string>
     <string name="input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
@@ -733,6 +734,8 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_category_title">Datenschutz</string>
     <string name="privacy_policy_title">Datenschutzerklärung</string>
+    <string name="privacy_policy_update_hint">%1$s Datenschutzerklärung wurde aktualisiert:\n%2$s\nLesen und akzeptieren Sie die neue Version von %3$s, bevor Sie fortfahren.</string>
+    <string name="privacy_policy_update_title">Datenschutzerklärung aktualisiert</string>
     <string name="psw_hint">Passwort</string>
     <string name="psw_sign_in">Mit Passwort anmelden</string>
     <string name="pull_to_refresh_pull_label">Zum Aktualisieren herunterziehen</string>
@@ -940,6 +943,8 @@ Größe: %2$s"</string>
     <string name="user_avatar_update_title">Profilbild ändern</string>
     <string name="user_avatar_uploading">Einen Moment…</string>
     <string name="user_id_hint">E-Mail/Telefon/Mi-Konto-ID</string>
+    <string name="user_must_known">Achtung</string>
+    <string name="user_must_known_content">Sie können unsere Dienste nicht weiter nutzen, wenn Sie der neuen Version unserer %s nicht zustimmen. Jetzt der aktualisierten Datenschutzerklärung zustimmen?</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="v_code_title">Verifizierungscode eingeben</string>
@@ -948,7 +953,11 @@ Größe: %2$s"</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung mit Download Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
+    <string name="withdraw_consent_failed">Zustimmung widerrufen nicht möglich</string>
+    <string name="withdraw_consent_failed_hint">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="withdrawing">Zustimmung widerrufen…</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vorgestellte Version %1$s
 Größe: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Vorgestellte Version %1$s
