@@ -259,6 +259,8 @@
     <string name="apn_settings_not_available">Einstellungen Zugangspunktnamen sind für diesen Benutzer nicht verfügbar</string>
     <string name="app_name">Einstellung</string>
     <string name="app_process_limit_title">Hintergrundprozesslimit</string>
+    <string name="arrears_sim_summary">Laden Sie Ihr Telefonguthaben auf, um in Verbindung zu bleiben.</string>
+    <string name="arrears_sim_title">Unzureichende Deckung</string>
     <string name="atr_disable">Verkehrsmeldungen deaktiviert</string>
     <string name="atr_enable">Verkehrsmeldungen aktiviert</string>
     <string name="audio_mode_earpiece">Hörmuschel</string>
@@ -1504,6 +1506,8 @@ Immer diese Nummer verwenden"</string>
     <string name="mi_mobile_sim_activate_message">SIM %d aktivieren, um Mi Mobile verwenden zu können. Dies kann bis zu 5 Min dauern.</string>
     <string name="mi_mobile_sim_activate_ok">Aktivieren</string>
     <string name="mi_mobile_sim_activate_title">Wilkommen bei Mi Mobile!</string>
+    <string name="mi_sim_not_active">Mi Mobile SIM ist nicht aktiviert</string>
+    <string name="mi_sim_not_active_tips">Mi Mobile ist jetzt Ihre zweite SIM-Karte. Anscheinend haben Sie sie schon lange nicht mehr aktiviert. Sie können Mi Mobile deaktivieren, damit Ihre primäre SIM-Karte besser funktioniert.</string>
     <string name="mi_sim_settings_summary">Verwenden Sie die mobile Datenverbindung ohne SIM-Karte</string>
     <string name="midnight">Nacht</string>
     <string name="mismatchPin">Eingegebene PINs stimmen nicht überein. Erneut versuchen.</string>
@@ -1687,6 +1691,7 @@ Immer diese Nummer verwenden"</string>
     <string name="msim_switch_data_conn_toast">SIM-Karten getauscht. Netzwerktyp hat sich geändert. Zusätzliche Informationen über SIM-Karten und Mobilfunknetze im Menü Einstellungen ansehen.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM-Slot 2 unterstützt nur GSM Netze. Bevorzugte Netzwerkarte für diesen Slot wurde auf reines 2G abgeändert.</string>
     <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
     <string name="mtrl_picker_a11y_next_month">Zum Folgemonat wechseln</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>

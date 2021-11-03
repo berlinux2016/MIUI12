@@ -164,6 +164,10 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="other">%d Benutzern folgen</item>
         <item quantity="one">%d Benutzer folgen</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d neue Benachrichtigungen</item>
         <item quantity="one">%d neue Benachrichtigung</item>

@@ -2043,6 +2043,23 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1-Tag-Boost</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3-Tage-Boost</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2-Tage-Boost</string>
+    <string name="gd_app_edit_done">Fertig</string>
+    <string name="gd_app_edit_title">Apps hinzufügen</string>
+    <string name="gd_setting_desc_action1">Popup öffnen</string>
+    <string name="gd_setting_desc_action2">Verknüpfung verwenden</string>
+    <string name="gd_setting_group_custom_gtb_apps">Spiele</string>
+    <string name="gd_setting_group_custom_line_location">Toolbox-Position</string>
+    <string name="gd_setting_group_custom_settings">Personalisierung</string>
+    <string name="gd_setting_group_custom_vtb_apps">Video-Apps</string>
+    <string name="gd_setting_group_smart_tool_box">Intelligente Toolbox</string>
+    <string name="gd_setting_group_title_switch">Szenen</string>
+    <string name="gd_setting_gtb">Beim Spielen anzeigen</string>
+    <string name="gd_setting_gtb_desc">Besondere Funktionen für Spiele</string>
+    <string name="gd_setting_miui_dock">Immer anzeigen</string>
+    <string name="gd_setting_shorthand">Schnellnotizen</string>
+    <string name="gd_setting_title">Intelligente Toolbox</string>
+    <string name="gd_setting_vtb">Beim Abspielen von Videos anzeigen</string>
+    <string name="gd_setting_vtb_desc">Besondere Funktionen für die Videowiedergabe</string>
     <string name="gdpr_msg"><Data>Um Sicherheitsrisiken erkennen und Ihre Daten schützen zu können, müssen wir die erforderliche Menge an Informationen über Ihr Gerät sammeln. Lesen und akzeptieren Sie unsere &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Datenschutzerklärung&lt;/a&gt; bevor Sie unsere Dienste in Anspruch nehmen. Falls Sie uns nicht gestatten, solche Informationen zu sammeln, können Sie diese App trotzdem nutzen, aber einige Funktionen stehen Ihnen dann nicht zur Verfügung.</Data></string>
     <string name="get_detail_by_click">Tippen für Details</string>
     <string name="get_sys_info">Infos abrufen…</string>
@@ -2654,6 +2671,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="no_game">Keine Spiele gefunden</string>
     <string name="no_limit_by_month">Unbegrenzte monatliche Daten</string>
     <string name="no_open">Jetzt nicht</string>
+    <string name="no_privacy_permission">Zustimmung zur Datenschutzerklärung nicht erforderlich</string>
     <string name="noon">Mittag</string>
     <string name="not_available">Nicht verfügbar</string>
     <string name="not_limited_brand">Unbegrenzt</string>
@@ -4580,6 +4598,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="summary_realname_verify">Verifizieren Sie Ihre Identität, um Zahlungen sicherer zu machen</string>
     <string name="summary_restrict_data_usage">Sie haben die Datennutzung für diese App eingeschränkt.</string>
     <string name="summary_result_screen_brightness_format">Bildschirmhelligkeit auf %s einstellen</string>
+    <string name="summary_safe_mode">Risiken während der Installation neutralisieren</string>
     <string name="summary_show_notification">Cache löschen, Akkustatus anzeigen und Elemente in der Benachrichtigungsleiste blockieren</string>
     <string name="summary_telecom_operator">Monatliche Datennutzung über Ihren Mobilfunkanbieter abfragen</string>
     <string name="summary_usb">Verhindern, dass Malware über USB übertragen wird</string>
@@ -4959,6 +4978,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="title_result_typeface">Textgröße &amp; Schriftgrad</string>
     <string name="title_result_wlan">WLAN</string>
     <string name="title_result_zen_mode">DND-Modus</string>
+    <string name="title_safe_mode">Sicheren Modus einschalten</string>
     <string name="title_show_notification">Benachrichtigungsleiste</string>
     <string name="title_system_auto_download">Updates werden automatisch heruntergeladen</string>
     <string name="title_telecom_operator">Automatisch anpassen</string>

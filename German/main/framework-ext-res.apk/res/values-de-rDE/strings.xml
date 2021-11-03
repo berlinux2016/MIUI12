@@ -162,6 +162,9 @@
     <string name="global_actions_reboot">Neustart</string>
     <string name="global_actions_shutdown">Herunterfahren</string>
     <string name="global_actions_silent_mode">Lautlos</string>
+    <string name="global_pad">Mein Tablet</string>
+    <string name="global_pc">Mein Laptop</string>
+    <string name="global_phone">Mein Telefon</string>
     <string name="glorious">Ruhm</string>
     <string name="gotosetting">Festlegen</string>
     <string name="greenandblue">Regenbogen</string>
