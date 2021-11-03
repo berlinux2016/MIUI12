@@ -73,6 +73,7 @@
     <string name="cancel_description">Abbrechen</string>
     <string name="cancel_moving_dialog_message">Importieren jetzt stoppen?</string>
     <string name="cancel_moving_dialog_title">Importieren stoppen</string>
+    <string name="cancel_tranfer">Abbrechen</string>
     <string name="cannot_use_mi_huanji_button">Verstanden</string>
     <string name="cannot_use_mi_huanji_summary">Anscheinend sichert MIUI jetzt Daten. Laufende Sicherungen beenden oder Gerät neu starten, damit Mi Mover mit der Übertragung beginnen kann.</string>
     <string name="cannot_use_mi_huanji_title">Übertragung jetzt nicht möglich</string>

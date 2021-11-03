@@ -604,6 +604,10 @@ Mi Health genügend Daten analysiert hat."</string>
     <string name="tuesday_shortest">D</string>
     <string name="turn_off_a_repeat_alarm">Wiederkehrenden Wecker ausschalten</string>
     <string name="turn_off_this_repeat_alarm">Diesen wiederkehrenden Wecker ausschalten</string>
+    <string name="tv_blank_list_other_text">Hier ist noch nichts</string>
+    <string name="tv_blank_list_show_text">Hier ist noch nichts. Nach einem Ort suchen, um ihn zu Ihrer Weltuhr hinzuzufügen.</string>
+    <string name="tv_world_clock_edit_title1">Auf dem Startbildschirm angezeigte Orte</string>
+    <string name="tv_world_clock_edit_title2">Andere gespeicherte Orte</string>
     <string name="upcoming_alarm">Anstehender Wecker: %s</string>
     <string name="upcoming_alarm_hint">Sie können diesen Wecker jetzt beenden</string>
     <string name="update_health_app">Mi Health aktualisieren</string>
@@ -630,8 +634,10 @@ Mi Health genügend Daten analysiert hat."</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
     <string name="week_ringtone_recommend_desc">Naturalarm spielt je nach Datum unterschiedliche Töne ab. Als Standardalarm festlegen?</string>
+    <string name="white_noise">Umgebungsgeräusche</string>
     <string name="white_noise_selector">Audio wählen</string>
     <string name="workday_alarm_clock">Wecker an Werktagen</string>
+    <string name="worldclock_edit_label">Weltuhr</string>
     <string name="worldclock_empty_text">Keine Weltzeituhren</string>
     <string name="worldclock_input_hint_text">Nach Land oder Stadt suchen</string>
     <string name="worldclock_local_time">Lokalzeit</string>

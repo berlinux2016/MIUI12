@@ -211,6 +211,8 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="talkback_back">Zurück</string>
     <string name="talkback_hide_passcode">Passcode verbergen</string>
     <string name="talkback_show_passcode">Passcode anzeigen</string>
+    <string name="talkback_hide_pwd">Passwort verbergen</string>
+    <string name="talkback_show_pwd">Passwort anzeigen</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
