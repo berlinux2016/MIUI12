@@ -70,6 +70,7 @@
     <string name="attach_take_photo">Bild aufnehmen</string>
     <string name="attach_transaction">Geld überweisen</string>
     <string name="attach_video_call">Videoanruf</string>
+    <string name="attachment_panel_show_part">Seite %1$d</string>
     <string name="audio_download_failed">Audio wurde nicht heruntergeladen</string>
     <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
     <string name="audio_message_mx_offline">Sprachnachricht wurde nicht geladen. Mi Message ist offline oder nicht verfügbar.</string>
