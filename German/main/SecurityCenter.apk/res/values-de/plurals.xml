@@ -304,11 +304,12 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">Kostenlose %d-Tag-Testversion erhalten</item>
     </plurals>
     <plurals name="gd_app_edit_desc">
-        <item quantity="other">Bis zu %d Apps hinzufügen. Hinzugefügte Elemente ziehen, um sie neu anzuordnen.</item>
-        <item quantity="one">Bis zu %d App hinzufügen. Hinzugefügte Elemente ziehen, um sie neu anzuordnen.</item>
+        <item quantity="other">Bis zu %d Apps hinzufügen. Hinzugefügte Elemente ziehen, um sie neu zu sortieren.</item>
+        <item quantity="one">Bis zu %d App hinzufügen. Hinzugefügte Elemente ziehen, um sie neu zu sortieren.</item>
     </plurals>
     <plurals name="gd_app_edit_desc_new">
-        <item quantity="other">Maximal %d Apps hinzufügen, lange drücken und die Apps ziehen, um die Reihenfolge anzupassen.</item>
+        <item quantity="other">Bis zu %d Apps hinzufügen. Gedrückt halten, um neu zu sortieren.</item>
+        <item quantity="one">Bis zu %d App hinzufügen. Gedrückt halten, um neu zu sortieren.</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Diese Funktion senkt die Bildschirmhelligkeit nach %d Minuten Inaktivität automatisch, um Strom zu sparen. Funktion an lassen?</item>
