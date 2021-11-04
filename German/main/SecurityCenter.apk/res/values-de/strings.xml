@@ -118,6 +118,12 @@
     <string name="ad_btn_default_text">Mehr erfahren</string>
     <string name="ad_floating_window_title">Popup-Fenster zum Entsperren schließen</string>
     <string name="ad_split_screen_title">Zum Entsperren geteilten Bildschirm verlassen</string>
+    <string name="ad_text_adx">Werbung</string>
+    <string name="ad_text_btn_download">Jetzt installieren</string>
+    <string name="ad_text_develop">Entwickler: %1$s</string>
+    <string name="ad_text_permission">Genehmigung</string>
+    <string name="ad_text_privacy">Privatsphäre </string>
+    <string name="ad_text_version">Version: %1$s</string>
     <string name="ad_update_time">Letztes Update am %s</string>
     <string name="ad_update_time_unKnown">Letztes Update unbekannt</string>
     <string name="adb_install_no_network">Netzwerkverbindung aufbauen und erneut versuchen</string>
@@ -2045,6 +2051,7 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2-Tage-Boost</string>
     <string name="gd_app_edit_done">Fertig</string>
     <string name="gd_app_edit_title">Apps hinzufügen</string>
+    <string name="gd_app_edit_title_new">Häufig verwendete kleine Popup-Apps bearbeiten</string>
     <string name="gd_setting_desc_action1">Popup öffnen</string>
     <string name="gd_setting_desc_action2">Verknüpfung verwenden</string>
     <string name="gd_setting_group_custom_gtb_apps">Spiele</string>
@@ -2055,6 +2062,9 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gd_setting_group_title_switch">Szenen</string>
     <string name="gd_setting_gtb">Beim Spielen anzeigen</string>
     <string name="gd_setting_gtb_desc">Besondere Funktionen für Spiele</string>
+    <string name="gd_setting_guide_one">Auf die App tippen, um das Popup zu öffnen</string>
+    <string name="gd_setting_guide_three">Schieben, um die intelligente Spiele-Toolbox zu öffnen</string>
+    <string name="gd_setting_guide_two">Schieben, um die intelligente Video-Toolbox zu öffnen</string>
     <string name="gd_setting_miui_dock">Immer anzeigen</string>
     <string name="gd_setting_shorthand">Schnellnotizen</string>
     <string name="gd_setting_title">Intelligente Toolbox</string>
