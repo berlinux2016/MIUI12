@@ -4856,7 +4856,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="location_low_battery_use">Niedriger Akkuverbrauch</string>
     <string name="location_menu_scanning">Scannen</string>
     <string name="location_mode_battery_saving_description">WLAN und Mobilfunknetz zur Standortbestimmung verwenden</string>
-    <string name="location_mode_battery_saving_title">Strom sparen</string>
+    <string name="location_mode_battery_saving_title">Stromsparen</string>
     <string name="location_mode_high_accuracy_description">GPS, WLAN und Mobilfunknetz zur Standortbestimmung verwenden</string>
     <string name="location_mode_high_accuracy_title">Hohe Genauigkeit</string>
     <string name="location_mode_location_off_title">Standort aus</string>
@@ -6893,7 +6893,7 @@ Gleichzeitig Ein/Aus- und Lautertaste drücken."</string>
     <string name="power_mode_balanced_title">Ausgeglichen</string>
     <string name="power_monitor_summary">Tools zur Stromüberwachung</string>
     <string name="power_monitor_title">Stromüberwachung</string>
-    <string name="power_optimize">Strom sparen</string>
+    <string name="power_optimize">Stromsparen</string>
     <string name="power_overcounted">Überzählt</string>
     <string name="power_phone">Anrufe</string>
     <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
@@ -7926,8 +7926,8 @@ App-Pinning verwenden: \u0009
     <string name="search_power_checker">Akkuprüfer;Akku prüfen</string>
     <string name="search_power_hide_mode_title">Akkuverbrauch von Apps verwalten;Akkuverbrauch von Apps;Akkuverbrauch;Akkustatistik</string>
     <string name="search_power_mode">Leistungseinstellungen;Leistung</string>
-    <string name="search_power_optimize">Stromsparen;Strom sparen;Strom sparen</string>
-    <string name="search_power_usage_summary_title">Akku &amp; Leistung;Akku und Leistung;Akku;Leistung;Stromsparen;Strom sparen;Strom sparen</string>
+    <string name="search_power_optimize">Stromsparen;Strom sparen</string>
+    <string name="search_power_usage_summary_title">Akku &amp; Leistung;Akku und Leistung;Akku;Leistung;Stromsparen;Strom sparen</string>
     <string name="search_pref_edge_handgrip">Kantensteuerung</string>
     <string name="search_pref_volume_wake_title">Mit Lautstärketasten aufwecken;Lautstärketasten</string>
     <string name="search_preferred_network_type_title">Bevorzugter Netzwerktyp;Bevorzugtes Netzwerk;Netzwerktyp</string>

@@ -299,7 +299,7 @@
     <string name="back">Zurück</string>
     <string name="bank_card_detail">Kreditkartendetails</string>
     <string name="battery_saver">Stromsparen</string>
-    <string name="battery_saver_keywords">Strom sparen;E-Mail Akku</string>
+    <string name="battery_saver_keywords">Stromsparen;E-Mail Akku</string>
     <string name="bill_center_setting">Zahlungseinstellungen</string>
     <string name="bill_center_setting_head">Infos von diesen Konten importieren</string>
     <string name="bill_cycle_text">Rechnungszeitraum</string>
@@ -1198,7 +1198,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="path_about_account_setting">E-Mail/Einstellungen/Konten</string>
     <string name="path_about_add_account">E-Mail/Einstellungen/Konto hinzufügen</string>
-    <string name="path_about_battery_saver">E-Mail/Einstellungen/Strom sparen</string>
+    <string name="path_about_battery_saver">E-Mail/Einstellungen/Stromsparen</string>
     <string name="path_about_confirm_before_delete">E-Mail/Einstellungen/Vor dem Löschen bestätigen</string>
     <string name="path_about_confirm_before_send">E-Mail/Einstellungen/Vor dem Senden bestätigen</string>
     <string name="path_about_conversation_list">E-Mail/Hauptfenster</string>

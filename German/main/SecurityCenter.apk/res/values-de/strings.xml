@@ -721,7 +721,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_default_task_title_listen_music">Musik hören</string>
     <string name="auto_task_default_task_title_meet">Besprechung</string>
     <string name="auto_task_default_task_title_noon_break">Mittagsschlaf</string>
-    <string name="auto_task_default_task_title_save_power">Strom sparen</string>
+    <string name="auto_task_default_task_title_save_power">Stromsparen</string>
     <string name="auto_task_default_task_title_sleep">Schlafen</string>
     <string name="auto_task_default_task_title_watch_video">Videos ansehen</string>
     <string name="auto_task_delete_task">Aufgabe löschen</string>
@@ -2283,7 +2283,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
     <string name="keywords_networkassistant_1">Daten;Verkehr</string>
     <string name="keywords_networkassistant_2">Daten;Datentarif</string>
     <string name="keywords_networkassistant_4">Verbindung;Internet;Test</string>
-    <string name="keywords_powercenter">Strom sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Batterie;Akkuprobleme;Strom;Entleerung; Erhitzung;Stromsparen;Stromsparen</string>
+    <string name="keywords_powercenter">Strom sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Batterie;Akkuprobleme;Strom;Entleerung;Erhitzung;Stromsparen</string>
     <string name="keywords_powercenter_powerrank">Stromverbrauch</string>
     <string name="keywords_securitycenter">Sicherheit;Physikalische Prüfung;Scannen</string>
     <string name="keywords_securitycenter_settings">Akkuverbrauch;Autostart verwalten;Über USB installieren;App-Berechtigungen;Mobile Daten kaufen;Blockliste;Datennutzung;Datenverbrauch;Datentarif kalibrieren;Testnetzwerk;Akku sparen;Heizung;Einschalten;Ausschalten;Akku;Entleeren;Akkuprobleme;Strom;Akkusparen;Stromsparen;Stromsparmodus;Stromsparmodus;Akkusparmodus;Autostart;Berechtigungen;Autostart;Autostart;MIUI Autostart;App-Autostart;Autostart-Apps;Kettenstart;Start;Ausgelöster Start;USB-Installation;vom Computer installieren;ADB installieren;ADB-Installation;Ort;Kontaktezugriff;Daten;mobile Daten;Kaufdaten;Aufladedaten;Datentarif;Block;Schwarze Liste;Smart-Blockliste;Betrug;Verkäufe;Agenten;Anrufblockliste;Nachrichtenblockliste;Nachrichtenblockliste;SMS-Blockliste;Schwarze Liste;Blockliste;Blockliste;Betrug;Blockkontakt;Blockkontakte;Traffic;Kalibrieren;Verbindung;Internet;Test;Akkuverbrauch;Akku-Optimierung;Stromverbrauch;Spiel;Speed Booster;Ruhm des Königs;Performance-Modus;DND</string>
@@ -2983,7 +2983,7 @@ Stromverbrauch"</string>
     <string name="pc_hidemode_normal_title">Ausgeglichen</string>
     <string name="pc_hidemode_performance">Leistung</string>
     <string name="pc_hidemode_performance_title">Leistungsmodus</string>
-    <string name="pc_hidemode_power_save">Strom sparen</string>
+    <string name="pc_hidemode_power_save">Stromsparen</string>
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s Min hinzugefügt, ca. %2$s T betriebsbereit</string>
