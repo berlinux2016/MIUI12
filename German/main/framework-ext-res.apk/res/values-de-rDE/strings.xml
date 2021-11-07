@@ -260,7 +260,7 @@
     <string name="notification_channel_hotspot">Hotspot-Benachrichtigung</string>
     <string name="notificationxylophone">Benachrichtigung (Xylophon)</string>
     <string name="onehour">30 Min</string>
-    <string name="open_close_tip_action">Verstanden</string>
+    <string name="open_close_tip_action">OK</string>
     <string name="open_close_tip_content">Aktionsleiste gedrückt halten und hochwischen, um das Popup zu schließen</string>
     <string name="other_ime">Weitere Tastaturen</string>
     <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
