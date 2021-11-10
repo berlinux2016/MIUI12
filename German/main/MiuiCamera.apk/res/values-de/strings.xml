@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="beauty_lens">Große Blende</string>
+     <string name="beauty_lens_1">Menschen</string>
+     <string name="beauty_lens_1_description">Professionelles Bokeh erstellen und Ihre Aufnahmen in bemerkenswerte Porträts verwenden.</string>
+     <string name="beauty_lens_2">Haustiere</string>
+     <string name="beauty_lens_2_description">Hintergrund verwischen und dabei alle Details des Fells und der Schnurrhaare beibehalten!</string>
+     <string name="beauty_lens_3">Lebensmittel</string>
+     <string name="beauty_lens_3_description">Leckere Sachen in den Vordergrund stellen und lebendiger aussehen lassen.</string>
+     <string name="beauty_lens_4">Objekte</string>
+     <string name="beauty_lens_4_description">Texturen verbessern und Standbilder auf Posterniveau erstellen.</string>
+     <string name="beauty_lens_description_title">Große Blende</string>
+     <string name="beauty_lens_none">Unscharf</string>
+     <string name="beauty_lens_use_hint">Große Blende verwenden, um den Hintergrund unscharf zu machen und die Gegenstände im Vordergrund hervorzuheben.</string>
+     <string name="beauty_mo_fe">Natürlich</string>
+     <string name="beauty_mo_ma">Klassisch</string>
+     <string name="beauty_s_cl">Haut</string>
+     <string name="beauty_sm_or">Haut</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>

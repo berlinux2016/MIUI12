@@ -170,6 +170,8 @@
     <string name="mint_keyboard_oobe_terms">Datenschutzerklärung von Mint Keyboard</string>
     <string name="miui_privacy_policy_no_network">Keine Internetverbindung. Lesen Sie die Datenschutzerklärung auf %s.</string>
     <string name="miui_terms_no_network">Keine Internetverbindung. Sehen Sie sich die Nutzervereinbarung auf %s an.</string>
+    <string name="miuix_access_state_desc">Ausgewählt</string>
+    <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -184,6 +186,8 @@
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
+    <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -257,10 +261,10 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Allgemeine Geschäftsbedingungen</string>
     <string name="other_settings_location">Standort</string>
     <string name="other_settings_location_summary">Apps und Webseiten den Standortzugriff erlauben, um standortbezogene Dienste anzubieten.</string>
-    <string name="other_settings_upload_debug_log_detail">"Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.
-Die Daten, die Sie senden, enthalten allgemeine Infos über Ihr Gerät und wie Sie es verwenden (z. B. Akkustand, System- und App-Aktivität und Fehler). Die Daten werden verwendet, um MIUI-Geräte zu verbessern.
-Deaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigten Infos zu senden.
-Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > Datenschutz > Nutzung und Diagnose steuern."</string>
+    <string name="other_settings_upload_debug_log_detail">"Helfen Sie, Ihr MIUI-Gerät zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies wird dazu beitragen, die Akkulaufzeit, die MIUI-System- und App-Stabilität und mehr zu verbessern.
+Die Daten, die Sie senden, enthalten allgemeine Informationen über Ihr Gerät und Ihre Nutzung (z.B. Akkustand, System- und App-Aktivitäten und Fehler). Die Daten werden verwendet, um MIUI-Geräte zu verbessern.
+Wenn Sie diese Funktion deaktivieren, hat dies keinen Einfluss auf die Fähigkeit Ihres Geräts, Informationen zu senden, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigt werden.
+Um diese Funktion zu steuern, suchen Sie in den Einstellungen nach \"Nutzung und Diagnose\"."</string>
     <string name="other_settings_upload_debug_log_summary">Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.</string>
     <string name="other_settings_upload_debug_log_title">Nutzungs- und Diagnosedaten senden</string>
     <string name="other_settings_user_experience">Programm zur Benutzererfahrung</string>

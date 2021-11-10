@@ -1211,6 +1211,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile 
     <string name="descx_quick_scan_preparation">Einen Moment…</string>
     <string name="detail_app_button">App-Info</string>
     <string name="details_subtitle">Nutzungsdetails</string>
+    <string name="dev_sign_notification_content">Sie verwenden jetzt Android 12 Beta. Ihr Feedback hilft uns, Probleme zu identifizieren und zu beheben. Vielen Dank für die Teilnahme an diesem Programm!</string>
     <string name="device_manager_apply_step_1">Geräteadministrator für diese App aktivieren?</string>
     <string name="device_manager_apply_step_2">"Aktivierung des Geräteadministrators für diese App kann zur Gefährdung Ihrer personenbezogenen Daten führen.
 Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswort kann zurückgesetzt werden."</string>

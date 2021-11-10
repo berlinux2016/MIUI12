@@ -61,6 +61,8 @@
     <string name="freeform_demo_final_restart">Nochmal beginnen</string>
     <string name="freeform_demo_final_title">Sie sind bereit zu rocken!</string>
     <string name="freeform_demo_go_on">Weiter</string>
+    <string name="freeform_demo_next_tutorial">Weiter</string>
+    <string name="freeform_demo_previous_tutorial">Zurück</string>
     <string name="freeform_demo_title_finish">Sehr schön 👍</string>
     <string name="freeform_demo_title_skip">Überspringen</string>
     <string name="freeform_slide_to_small_freeform">Popup minimieren</string>
