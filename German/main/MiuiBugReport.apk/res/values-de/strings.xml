@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="catch_full_log_item_title_camera">Kamera</string>
-  <string name="catch_full_log_item_title_charge">Laden</string>
-  <string name="catch_full_log_item_title_trace">Trace</string>
-  <string name="catch_full_log_privacy_content_camera">Sie erstellen Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Informationen zur Kameranutzung enthalten (einschließlich CPU-Häufigkeit, Systemaufrufe, Speichernutzung usw.). Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Indem Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten bei der Erstellung von Protokollen erfassen und die Protokolle dann auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen.</string>
-  <string name="catch_full_log_privacy_content_charge">Sie erstellen Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Ladeinformationen enthalten. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Indem Sie unten auf "\Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten bei der Erstellung von Protokollen erfassen und die Protokolle dann auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen.</string>
-  <string name="catch_full_log_privacy_content_trace">Sie erstellen Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Statistiken über die App-Nutzung enthalten (einschließlich CPU-Häufigkeit, Systemaufrufe, Speichernutzung usw.). Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Indem Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten bei der Erstellung von Protokollen erfassen und die Protokolle dann auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen.</string>
-  <string name="miuix_access_state_desc">Ausgewählt</string>
-  <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-  <string name="miuix_indexer_selected">%s ausgewählt</string>
-  <string name="withdraw">Widerrufen</string>
-  <string name="withdraw_consent">Zustimmung widerrufen</string>
-  <string name="withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von %1$s. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
-
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -101,19 +88,25 @@
 %3$d. Zu dieser Seite zurückkehren und auf \"Fertigstellen und hochladen\" tippen."</string>
     <string name="catch_full_log_item_content_title">Schritte:</string>
     <string name="catch_full_log_item_title_audio">Audio, Rufton und Audioaufnahme</string>
+    <string name="catch_full_log_item_title_camera">Kamera</string>
+    <string name="catch_full_log_item_title_charge">Laden</string>
     <string name="catch_full_log_item_title_dump_heap">Verzögern</string>
     <string name="catch_full_log_item_title_gps">Standortdienste</string>
     <string name="catch_full_log_item_title_sensor">Sensoren</string>
     <string name="catch_full_log_item_title_signal">Telefon, Signal und Mobilfunknetze</string>
+    <string name="catch_full_log_item_title_trace">Trace</string>
     <string name="catch_full_log_item_title_wifi">WLAN</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">Tippen, um zu den Protokollen zurückzukehren</string>
     <string name="catch_full_log_notification_title">Protokoll erstellen…</string>
     <string name="catch_full_log_privacy_content_audio">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können die Informationen über das Audio auf Ihrem Gerät enthalten, inkl. der Wiedergabehistorie und des Aufnahmeverlaufs. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
     <string name="catch_full_log_privacy_content_bt">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Informationen zur Nutzung von Bluetooth-Geräten enthalten (inkl. Anrufliste, Nachrichten, übertragene Dateien usw.). Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
+    <string name="catch_full_log_privacy_content_camera">Sie erstellen Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Informationen zur Kameranutzung enthalten (einschließlich CPU-Häufigkeit, Systemaufrufe, Speichernutzung usw.). Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Indem Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten bei der Erstellung von Protokollen erfassen und die Protokolle dann auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen.</string>
+    <string name="catch_full_log_privacy_content_charge">Sie erstellen Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Ladeinformationen enthalten. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Indem Sie unten auf "\Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten bei der Erstellung von Protokollen erfassen und die Protokolle dann auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen.</string>
     <string name="catch_full_log_privacy_content_gps">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Ihre persönlichen Daten und Standortinformationen enthalten. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
     <string name="catch_full_log_privacy_content_sensor">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können die von den Sensoren Ihres Geräts gesammelten Informationen enthalten (inkl. Umgebungslichtsensor, Barometer, Schrittzähler, Magnetometer etc.). Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
     <string name="catch_full_log_privacy_content_signal">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Ihre Nachrichten, die Anrufliste, Netzwerkinformationen und Kommunikationsdaten enthalten. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
+    <string name="catch_full_log_privacy_content_trace">Sie erstellen Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Statistiken über die App-Nutzung enthalten (einschließlich CPU-Häufigkeit, Systemaufrufe, Speichernutzung usw.). Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Indem Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten bei der Erstellung von Protokollen erfassen und die Protokolle dann auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu lokalisieren und zu lösen.</string>
     <string name="catch_full_log_privacy_content_wifi">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Ihre persönlichen Daten, Standortinformationen sowie die IP- und MAC-Adressen Ihres Geräts enthalten. Wenn Sie mit einem unverschlüsselten WLAN verbunden sind, können wir evtl. auch auf Teile Ihrer Kommunikationsdaten zugreifen. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
     <string name="catch_full_log_privacy_content_wifi_china">Sie generieren Protokolle und speichern sie auf Ihrem Gerät. Die Protokolle können Ihre persönlichen Daten, Standortinformationen sowie die IP- und MAC-Adressen Ihres Geräts enthalten. Wenn Sie mit einem unverschlüsselten WLAN verbunden sind, können wir evtl. auch auf Teile Ihrer Kommunikationsdaten zugreifen. Seien Sie vorsichtig und geben Sie diese Protokolle nicht an andere Personen weiter. Wenn Sie unten auf \"Zustimmen\" tippen, erklären Sie sich damit einverstanden, dass wir die oben genannten Daten während der Erstellung von Protokollen sammeln und dann die Protokolle auf unsere Server hochladen, um die von Ihnen gemeldeten Probleme zu finden und zu lösen.</string>
     <string name="catch_full_log_start_dump_hprof">Verzögertes Protokoll erstellen</string>
@@ -427,6 +420,8 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="michat_webview_title">Details anzeigen</string>
     <string name="midnight">Nacht</string>
     <string name="min_error">Ihr %1$s sollte länger sein</string>
+    <string name="miuix_access_state_desc">Ausgewählt</string>
+    <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -441,6 +436,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -953,9 +949,12 @@ Größe: %2$s"</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
+    <string name="withdraw">Widerrufen</string>
+    <string name="withdraw_consent">Zustimmung widerrufen</string>
     <string name="withdraw_consent_failed">Zustimmung widerrufen nicht möglich</string>
     <string name="withdraw_consent_failed_hint">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von %1$s. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
     <string name="withdrawing">Zustimmung widerrufen…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vorgestellte Version %1$s
