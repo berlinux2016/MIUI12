@@ -11,7 +11,7 @@
   <string name="miuix_indexer_selected">%s ausgewählt</string>
   <string name="withdraw">Widerrufen</string>
   <string name="withdraw_consent">Zustimmung widerrufen</string>
-  <string name="withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung mit der Datenschutzerklärung von %1$s. Die bereits gesammelten und aufbewahrten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
+  <string name="withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von %1$s. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
 
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>

@@ -3,7 +3,7 @@
     <string name="gd_setting_title">Intelligente Toolbox</string>
     <string name="bluetooth_ble_audio_source_remove_fail">Broadcast-Quelle entfernen nicht möglich, bitte erneut versuchen!</string>
     <string name="bluetooth_ble_audio_stop_synchronize_confirmed">OK</string>
-    <string name="bluetooth_ble_audio_stop_synchronize_message">Nach dem Anhalten kann der Kopfhörer das Bluetooth-Radio nicht mehr hören.</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_message">Nach dem Anhalten kann der Kopfhörer das Bluetooth-Radio nicht mehr empfangen.</string>
     <string name="bluetooth_ble_audio_stop_synchronize_title">Audiosynchronisation stoppen</string>
 
     <string name="Accounts_settings_title">Konten</string>
@@ -2186,7 +2186,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
     <string name="close_twice_auth_step_3">3. Tippen Sie auf \"Zwei-Faktor-Authentifizierung deaktivieren\". Zum Bestätigen erneut tippen.</string>
     <string name="close_twice_auth_steps">Deaktivieren Sie die Apple ID Zwei-Faktor-Authentifizierung wie folgt:</string>
     <string name="close_twice_auth_tutor">Apple ID Zwei-Faktor-Authentifizierung deaktivieren</string>
-    <string name="closed_beta">Stabil (Internal)</string>
+    <string name="closed_beta">Stabil (Intern)</string>
     <string name="cloud_app_name">Xiaomi Cloud Sicherung</string>
     <string name="cloud_backup_hint">Um auf die Sicherungen zuzugreifen, bitte anmelden</string>
     <string name="cloud_backup_login">Mit Mi-Konto anmelden</string>
