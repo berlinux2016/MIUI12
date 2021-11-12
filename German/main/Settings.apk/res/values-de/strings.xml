@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="gd_setting_title">Intelligente Toolbox</string>
-    <string name="bluetooth_ble_audio_source_remove_fail">Broadcast-Quelle entfernen nicht möglich, bitte erneut versuchen!</string>
-    <string name="bluetooth_ble_audio_stop_synchronize_confirmed">OK</string>
-    <string name="bluetooth_ble_audio_stop_synchronize_message">Nach dem Anhalten kann der Kopfhörer das Bluetooth-Radio nicht mehr empfangen.</string>
-    <string name="bluetooth_ble_audio_stop_synchronize_title">Audiosynchronisation stoppen</string>
+
 
     <string name="Accounts_settings_title">Konten</string>
     <string name="Data_set">"Daten: "</string>
@@ -1393,6 +1389,10 @@ seit ^2"</string>
     <string name="bluetooth_bcast_rcvr_device_name">Rundfunkempfänger</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Abbrechen</string>
     <string name="bluetooth_blacklist_remove_device">Entsperren</string>
+    <string name="bluetooth_ble_audio_source_remove_fail">Broadcast-Quelle entfernen nicht möglich, bitte erneut versuchen!</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_confirmed">OK</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_message">Nach dem Anhalten kann der Kopfhörer das Bluetooth-Radio nicht mehr empfangen.</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_title">Audiosynchronisation stoppen</string>
     <string name="bluetooth_broadcast">Rundfunk</string>
     <string name="bluetooth_broadcast_audio">Bluetooth Rundfunk-Audio</string>
     <string name="bluetooth_broadcast_audio_sharing">Bluetooth Rundfunk-Audio teilen</string>
@@ -3993,6 +3993,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
     <string name="game_settings_summary">Verknüpfung Spielübersicht einschalten etc.</string>
     <string name="game_settings_title">Spieleinstellungen</string>
     <string name="game_storage_settings">Spiele</string>
+    <string name="gd_setting_title">Intelligente Toolbox</string>
     <string name="general_category_title">Allgemein</string>
     <string name="general_notification_header">Verwalten</string>
     <string name="general_text">Textfeld</string>
