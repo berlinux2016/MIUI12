@@ -520,6 +520,7 @@
     <string name="dialog_system_auto_sync_account_no_open">Kontosynchronisation aktivieren, um E-Mails automatisch zu erhalten</string>
     <string name="dialog_system_auto_sync_master_no_open">Synchronisation aktivieren, um E-Mails automatisch zu erhalten</string>
     <string name="disable_admin_warning">ACHTUNG: Wenn Sie die Berechtigung der E-Mail-App zur Verwaltung Ihres Telefons deaktivieren, werden alle E-Mailkonten, die diese Berechtigung benötigen, mit allen zugehörigen E-Mails, Kontakten, Terminen und weiteren Daten gelöscht.</string>
+    <string name="disallow_qq_auth_how_get_auth_code">Wie erhalte ich einen Autorisierungscode?</string>
     <string name="discard">Verwerfen</string>
     <string name="discard_drafts">Entwürfe verwerfen</string>
     <string name="dismiss_tip_hover_text">Tipp schließen</string>
@@ -1129,6 +1130,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="ntes_send_to_content">Wenn Ihre aktuelle Rufnummer mit dem Konto verknüpft ist, tippen Sie auf \"SMS senden\".</string>
     <string name="ntes_verification_code">Code eingeben: %s</string>
     <string name="oauth_error_description">Authentifizierung nicht möglich</string>
+    <string name="oauth_find_browser_error_description">Bitte Browser installieren, bevor Sie sich anmelden</string>
     <string name="oauth_gmail_login_notify">Geben Sie auf der folgenden Anmeldeseite den Benutzernamen und das Passwort Ihres Google-Kontos ein</string>
     <string name="oauth_login_continue">Weiter</string>
     <string name="oauth_login_continue_qq">"Autorisierungscode erhalten und anmelden >"</string>

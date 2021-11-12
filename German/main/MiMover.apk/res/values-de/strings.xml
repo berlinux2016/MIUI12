@@ -180,6 +180,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="err_bakfile_broken">Diese Sicherung kann nicht verwendet werden.</string>
     <string name="err_bakfile_not_exist">Sicherungsdatei existiert nicht</string>
     <string name="err_binder_died">App wurde unerwartet gestoppt</string>
+    <string name="err_install_incompatible">Kompatibilitätsproblem</string>
     <string name="err_low_storage">Nicht genügend Speicherplatz</string>
     <string name="err_no_gms">Inkompatible App-Version. Diese App separat installieren.</string>
     <string name="err_not_allow">Nicht unterstützt</string>

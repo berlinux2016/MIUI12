@@ -144,6 +144,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">Bilder oder Videos, die größer als 100 MB sind, können nicht hochgeladen werden</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">App-Name eingeben</string>
     <string name="miui_feedback_main_answer_title">Es gibt eine Antwort auf diese Frage</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Servicehotline: 0120-300-521
+Öffnungszeiten: 9:00 - 18:00 (außer an Feiertagen und geplanten Ferien)
+E-Mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_item_catch_full_log">Protokolle abrufen</string>
     <string name="miui_feedback_main_item_customer_service">Dienstleistungen nach Verkauf</string>
     <string name="miui_feedback_main_item_feedback_list">Mein Feedback</string>

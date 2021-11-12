@@ -433,6 +433,7 @@ Einjährige und fünfjährige LPRs werden am 20. eines jeden Monats (Verzögerun
     <string name="no_sim">Keine SIM-Karte gefunden</string>
     <string name="none">Nichts</string>
     <string name="noon">Mittag</string>
+    <string name="not_set">Nicht festgelegt</string>
     <string name="not_supported_due_to_language">Diese Funktion ist nur im Chinesischen verfügbar</string>
     <string name="note">Hinweis</string>
     <string name="organization">Firma</string>

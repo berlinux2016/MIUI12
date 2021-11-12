@@ -197,6 +197,7 @@
     <string name="incall_error_supp_service_unknown">Nicht unterstützter Dienst</string>
     <string name="incoming_answer_voice_text">Sprachantwort</string>
     <string name="incoming_call_forwarded_title">Weitergeleiteter Anruf</string>
+    <string name="incoming_circle_ext_video_answer_p">Hochwischen, um mit Video zu antworten</string>
     <string name="incoming_circle_text_answer">Freigeben</string>
     <string name="incoming_circle_text_answer_p">Hochwischen</string>
     <string name="incoming_circle_text_message">Freigeben</string>
@@ -204,7 +205,7 @@
     <string name="incoming_circle_text_reject">Freigeben</string>
     <string name="incoming_circle_text_reject_p">Hochwischen</string>
     <string name="incoming_circle_text_video_answer">Videoantwort freigeben</string>
-    <string name="incoming_circle_ext_video_answer_p">Hochwischen, um mit Video zu antworten</string>
+    <string name="incoming_circle_text_video_answer_p">Hochwischen, um mit Video zu antworten</string>
     <string name="incoming_video_crs_call">Video CRS-Anruf empfangen von</string>
     <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
     <string name="manager_conference_done">Fertig</string>

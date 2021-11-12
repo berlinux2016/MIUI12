@@ -32,6 +32,7 @@
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="default_error_msg">Unbekannter Fehler</string>
+    <string name="device_max_screen_count_toast">Dieses Gerät unterstützt nur das gleichzeitige Öffnen von zwei Fenstern</string>
     <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>
     <string name="display_not_support_secondary_toast">Diese App kann nicht in neuem Fenster geöffnet werden</string>
     <string name="download_aborted">Wegen einer Verbindungsunterbrechung übertragen nicht möglich</string>

@@ -46,6 +46,7 @@
     <string name="cloud_find_device">Gerät finden</string>
     <string name="cloud_find_device_off">Aus</string>
     <string name="cloud_find_device_on">An</string>
+    <string name="cloud_service_open_authorization">Willkommen bei den Xiaomi Cloud-Diensten! Sie können die Xiaomi Cloud nutzen, um Ihre Notizen, Fotos und Videos, Aufnahmen und andere Elemente aus System-Apps auf allen verbundenen Geräten zu synchronisieren. Sicherungen des Startbildschirm-Layouts werden ebenfalls in der Xiaomi Cloud gespeichert. Sie können alle synchronisierten Elemente auf i.mi.com ansehen.</string>
     <string name="cloud_space_full_gallery_notification_content_text">Tarif upgraden, um mehr Cloud-Speicherplatz zu erhalten</string>
     <string name="cloud_storage_already_full">Cloud-Speicher ist voll: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Belegt: %1$s/%2$s</string>
