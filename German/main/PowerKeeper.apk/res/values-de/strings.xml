@@ -298,9 +298,9 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
     <string name="set_gsmcore_summary">Google Play-Dienste im Extrem-Stromsparmodus deaktivieren</string>
     <string name="set_gsmcore_title">Google Play-Dienste deaktivieren</string>
     <string name="show_system_app">System-Apps einblenden</string>
-    <string name="sleep_config_enhance_description">Wenn MIUI erkennt, dass Sie schlafen, werden Hintergrund-Apps geschlossen, NFC, Bluetooth, GPS, mobile Daten und WLAN-Nutzung eingeschränkt und der Bildschirm aktiviert sich nicht bei Benachrichtigungen.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Wenn MIUI erkennt, dass Sie schlafen, schließt es Hintergrund-Apps. Schränkt die Nutzung von Bluetooth, GPS, mobile Daten und WLAN ein und der Bildschirm leuchtet nicht bei Benachrichtigungen.</string>
-    <string name="sleep_config_enhance_description_pad">Wenn MIUI erkennt, dass Sie schlafen, schließt es Hintergrund-Apps. Schränkt die Nutzung von Bluetooth, mobile Daten und WLAN ein und der Bildschirm leuchtet nicht bei Benachrichtigungen.</string>
+    <string name="sleep_config_enhance_description">Um den Akku zu schonen, schließt MIUI Hintergrund-Apps, schränkt die Nutzung von NFC, Bluetooth, GPS, mobilen Daten und WLAN ein und lässt den Bildschirm für Benachrichtigungen nicht aufleuchten, wenn Sie Nachts schlafen.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Um den Akku zu schonen, schließt MIUI Hintergrund-Apps, schränkt die Nutzung von Bluetooth, GPS, mobilen Daten und WLAN ein und lässt den Bildschirm für Benachrichtigungen nicht aufleuchten, wenn Sie Nachts schlafen.</string>
+    <string name="sleep_config_enhance_description_pad">Um den Akku zu schonen, schließt MIUI Hintergrund-Apps, schränkt die Nutzung von Bluetooth und WLAN ein und lässt den Bildschirm für Benachrichtigungen nicht aufleuchten, wenn Sie Nachts schlafen.</string>
     <string name="sleep_config_enhance_title">Schlafmodus</string>
     <string name="sleepmode_disclaimer_agree">Einverstanden</string>
     <string name="sleepmode_disclaimer_cancel">Abbrechen</string>

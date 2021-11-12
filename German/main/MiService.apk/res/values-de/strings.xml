@@ -1,4 +1,16 @@
 <resources>
+    <string name="i_get_it">Verstanden</string>
+    <string name="privacy_policy_update_hint">"%1$s Datenschutzerklärung wurde aktualisiert:
+%2$s
+Bitte die neue Version von %3$s lesen und akzeptieren , bevor Sie fortfahren."</string>
+    <string name="privacy_policy_update_title">Datenschutzerklärung aktulisiert</string>
+    <string name="user_must_known">Achtung</string>
+    <string name="user_must_known_content">"Sie können unsere Dienste nur dann weiter nutzen, wenn Sie der neuen Version unserer %s zustimmen. Aktualisierter Datenschutzerklärung jetzt zustimmen?"</string>
+    <string name="withdraw_consent_failed">"Die Zustimmung konnte nicht widerrufen werden"</string>
+    <string name="withdraw_consent_failed_hint">Serverfehler. Einen Moment warten und erneut versuchen.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät muss mit dem Netz verbunden sein, damit Sie Ihre Zustimmung zurückziehen können. Netzwerkeinstellungen überprpüfen und erneut versuchen.</string>
+    <string name="withdrawing">Widerruf zustimmen…</string>
+    
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
