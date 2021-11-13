@@ -590,6 +590,8 @@
     <string name="create_new_face">Neue Person</string>
     <string name="create_quick_icon_on_desk">Verknüpfung erstellen</string>
     <string name="creating_baby_album">Album erstellen…</string>
+    <string name="creativity_summary">Zusätzliche Kreativität und Bearbeitungsfunktionen anzeigen</string>
+    <string name="creativity_title">Kreativität</string>
     <string name="crop_label">Zuschneiden</string>
     <string name="cta_agreement_declare"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor Sie diese App nutzen.</Data></string>
     <string name="cta_network_declare">Um Fotos und Videos mit der Xiaomi Cloud zu synchronisieren, benötigt diese App eine Internetverbindung.</string>
