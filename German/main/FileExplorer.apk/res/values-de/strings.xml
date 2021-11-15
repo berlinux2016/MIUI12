@@ -573,6 +573,8 @@
     <string name="my_follows">Mein Feed</string>
     <string name="name_empty">Name eingeben</string>
     <string name="need_login">Erst Anmelden</string>
+    <string name="need_open_content">Erlauben Sie Dateimanager den Zugriff auf Ihre Fotos und Dateien, um diese Funktion zu nutzen.</string>
+    <string name="need_open_permission">Berechtigungen erforderlich</string>
     <string name="need_read_storage_permission">Für eine korrekte Funktion benötigt Explorer Zugriff auf den internen Speicher</string>
     <string name="net_error_text">Netzwerkfehler</string>
     <string name="network_dialog_checkbox_tip">Nicht wieder anzeigen</string>
@@ -597,6 +599,7 @@
     <string name="no_login_str">Nicht angemeldet</string>
     <string name="no_message">Keine Nachrichten</string>
     <string name="no_new_content_tip">Alle Elemente sind auf dem neuesten Stand</string>
+    <string name="no_permission">Erteilen Sie die erforderlichen Berechtigungen für den Zugriff auf diese Funktion</string>
     <string name="no_recent_files">Keine zuletzt verwendeten Dateien</string>
     <string name="no_search_content">Keine Ergebnisse</string>
     <string name="no_topic">Keine Themen</string>
@@ -1010,6 +1013,8 @@
     <string name="title_recent">Zuletzt</string>
     <string name="title_report_video">Melden</string>
     <string name="title_select_volume">Ordner auswählen</string>
+    <string name="to_open">Einstellungen</string>
+    <string name="to_setting">Einstellungen</string>
     <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>

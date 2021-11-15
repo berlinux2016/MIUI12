@@ -73,7 +73,8 @@
     <string name="miservice_notification_open_feedback_title">Wir stellen vor: \"Dienste &amp; Feedback\"</string>
     <string name="miservice_notification_scan_content">Scanner zum Übersetzen von Wörtern und Sätzen verwenden</string>
     <string name="miservice_notification_scan_title">Im Handumdrehen übersetzen</string>
-    <string name="mishare_settings_summary_international">"Sie können Mi Share verwenden, um Elemente an Geräte in der Nähe zu senden.
+    <string name="mishare_settings_summary_international">"Mit Mi Share können Sie Elemente drahtlos an andere Geräte in der Nähe senden.
+Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern unterstützt. Sie können die Liste der unterstützten Geräte auf der offiziellen Website der jeweiligen Marke überprüfen."</string>
     <string name="miui_feedback_answer_detail_community">Antworten auf Ihre Fragen finden Sie in der Mi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Ja</string>
     <string name="miui_feedback_answer_detail_feedback_result">Vielen Dank für Ihr Feedback!</string>
@@ -415,6 +416,4 @@ Die Liste der kompatiblen Geräte finden Sie auf unserer Website. Wenn Ihr Lapto
     <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät muss mit dem Netz verbunden sein, damit Sie Ihre Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="withdrawing">Widerruf zustimmen…</string>
     <string name="yesterday">Gestern</string>
-Mi Share ist kompatibel mit Mi- und Redmi Telefonen.
-OPPO, Vivo, Realme und andere Marken werden in Kürze auch mit Mi Share kompatibel sein. Sie können die Liste der kompatiblen Geräte auf unserer Website einsehen."</string>
 </resources>

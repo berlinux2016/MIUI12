@@ -637,6 +637,8 @@
     <string name="deny">Verweigern</string>
     <string name="description">Beschreibung</string>
     <string name="detail_title">Detailinfo</string>
+    <string name="device_list_all">Alle Geräte</string>
+    <string name="device_list_more">Mehr</string>
     <string name="device_offline">Anderes Gerät ist offline. Wieder von vorn beginnen.</string>
     <string name="device_status_failed">Senden fehlgeschlagen</string>
     <string name="device_status_sending">Senden…</string>

@@ -168,7 +168,7 @@ https://appleid.apple.com/#!&amp;page=signin zum Schließen"</string>
     <string name="enable_local_backup">Lokale Sicherungen einschalten</string>
     <string name="enable_local_backup_and_restore">Lokale Sicherungen einschalten</string>
     <string name="enable_local_backup_tips">Aktivieren Sie diese Funktion, damit Sie Sicherungen auf diesem Gerät speichern und auf Ihren Computer oder ein USB-Speichergerät kopieren können. Jetzt einschalten?</string>
-    <string name="enable_local_backup_tips_global">Aktivieren Sie diese Funktion, damit Sie Daten auf Ihrem Gerät oder Computer sichern und wiederherstellen können. Jetzt einschalten?</string>
+    <string name="enable_local_backup_tips_global">Aktivieren Sie diese Funktion, um Sicherungen auf diesem Gerät zu speichern und auf Ihren Computer zu kopieren. Jetzt einschalten?</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="err_acquire_system_service">Systemdienst wurde nicht gestartet</string>
@@ -403,6 +403,10 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
     <string name="new_local_detail_description">"Hinweis:
 %1$d. Kopieren Sie Sicherungen auf Ihren Computer, um Datenverluste zu vermeiden. %2$s.
 %3$d. Sicherungen werden in MIUI-Backup-AllBackup gespeichert."</string>
+    <string name="new_local_detail_description_global">"Hinweis:
+%1$d. Kopieren Sie Sicherungen auf Ihren Computer, um Datenverluste zu vermeiden. %2$s.
+%3$d. Sicherungen werden in MIUI-Backup-AllBackup gespeichert.
+%4$d. Einige Apps unterstützen möglicherweise keine Sicherungen."</string>
     <string name="new_local_tab_backup">Sichern</string>
     <string name="new_local_tab_backup_pad">Sichern</string>
     <string name="new_local_tab_restore">Wiederherstellen</string>
