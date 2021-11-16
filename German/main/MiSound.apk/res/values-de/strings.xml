@@ -378,6 +378,7 @@ Fernbedienungstasten"</string>
     <string name="sound_transmission_title">Kabelloses Mikrofon</string>
     <string name="spatial_audio">Kopfbewegung verfolgen</string>
     <string name="spatial_audio_summary">Surround-Sound anhand der Kopfbewegung anpassen</string>
+    <string name="speaker_scenario_selection">Lautsprecher-Audio</string>
     <string name="start_test_sound">Test starten</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
