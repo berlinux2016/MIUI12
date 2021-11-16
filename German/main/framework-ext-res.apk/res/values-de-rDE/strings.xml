@@ -241,10 +241,10 @@
     <string name="messagesent">Nachricht gesendet</string>
     <string name="miaudiovisual_notification_summary">Einschalten, um Effekte auf dem Sperrbildschirm anzuzeigen</string>
     <string name="miaudiovisual_notification_title">Audio- und visuelle Effekte</string>
-    <string name="miui_forbid_poweroff_when_device_locked">Ausschalten nicht möglich, Gerät ist gesperrt.</string>
+    <string name="miui_forbid_poweroff_when_device_locked">Ausschalten nicht möglich, Gerät ist gesperrt</string>
     <string name="miui_multiwindow_not_support_cvw">Fenstergröße für diese App kann nicht angepasst werden</string>
-    <string name="miui_multiwindow_not_support_small_window">%1$s unterstützt kiene Popups</string>
-    <string name="miui_multiwindow_not_support_split">%1$s unterstützt keine geteilte Bildschirmanzeige.</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s unterstützt keine Popups</string>
+    <string name="miui_multiwindow_not_support_split">%1$s unterstützt keine geteilte Bildschirmanzeige</string>
     <string name="miui_screen_ratio_hint">Probleme mit der Auflösung</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Nicht wieder anzeigen</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Einstellungen</string>

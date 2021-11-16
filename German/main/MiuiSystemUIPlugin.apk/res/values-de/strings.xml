@@ -265,6 +265,7 @@
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="quick_controls_subtitle">Steuerelemente für Ihre angeschlossenen Geräte hinzufügen</string>
     <string name="quick_controls_title">Gerätesteuerungen</string>
+    <string name="quick_settings_aitranslate_label">MI KI Übersetzer</string>
     <string name="quick_settings_hang_label">Popups</string>
     <string name="quick_settings_hang_on">Sie können jetzt Popups verwenden</string>
     <string name="quick_settings_pcmode_cancel_button">ABBRECHEN</string>

@@ -764,6 +764,10 @@ um den Akku zu schonen"</item>
         <item quantity="other">%s Apps haben permanenten Zugriff</item>
         <item quantity="one">%s App hat permanenten Zugriff</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Für %s Apps zugelassen</item>
+        <item quantity="one">Für %s App zugelassen</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s-mal</item>
         <item quantity="one">%s-mal</item>

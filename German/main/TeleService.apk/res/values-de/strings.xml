@@ -162,6 +162,7 @@
     <string name="accessor_expires_text">Mietvertrag läuft ab am %s</string>
     <string name="accessor_info_title">Apps, die Daten teilen</string>
     <string name="accessor_no_description_text">Keine Beschreibung durch die App</string>
+    <string name="according_to_carrier">Einstellungen anzeigen</string>
     <string name="actionBarCBVideo">Videoanruf sperren (%s)</string>
     <string name="actionBarCBVoice">Videoanruf sperren (%s)</string>
     <string name="actionBarCFVideo">Videorufumleitung (%s)</string>
@@ -968,6 +969,8 @@ Mobile Daten trotzdem nutzen?"</string>
     <string name="display_name_title">Anzeigename</string>
     <string name="do_not_show_again">Nicht mehr anzeigen</string>
     <string name="doneButton">Fertig</string>
+    <string name="dsda_summary">5G+4G Dual-SIM-Standby wird von ausgewählten Netzen unterstützt</string>
+    <string name="dsda_title">5G+4G DSDA einschalten</string>
     <string name="dsds_dialog_cancel">Abbrechen</string>
     <string name="dsds_dialog_confirm">Neustart</string>
     <string name="dsds_dialog_message">Sie müssen Ihr Gerät neu starten, um diese Einstellung zu ändern.</string>
@@ -1128,6 +1131,10 @@ Mobile Daten trotzdem nutzen?"</string>
     <string name="fdn_summary">Ausgehende Anrufe auf Beschränkungsliste oder auf bestimmte Vorwahlen beschränken</string>
     <string name="fdn_with_label">Rufnummernbeschränkung (%s)</string>
     <string name="fire_type_description">Feuer</string>
+    <string name="fiveg_info">5G-Info anzeigen</string>
+    <string name="fiveg_power_switch_summary">5G-Konnektivität in bestimmten Szenarien weniger stromintensiv machen</string>
+    <string name="fiveg_power_switch_title">5G-Stromsparen</string>
+    <string name="fiveg_sa_vice_switch_summary">Sekundäre SIM-Karte kann unabhängiges 5G-Netz nutzen</string>
     <string name="fiveg_available_status1">NR verfügbar:</string>
     <string name="fiveg_bearer_status1">5G-Bearer-Status:</string>
     <string name="fiveg_carrier_aggregation_title">5G Carrier Aggregation</string>
@@ -1200,6 +1207,8 @@ Mobile Daten trotzdem nutzen?"</string>
     <string name="force_resizable_activities_summary">Alle Aktivitäten in der Größe für Multi-Window verändern, unabhängig von Manifestwerten</string>
     <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
     <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
+    <string name="forced_to_display">Anzeigen erzwingen</string>
+    <string name="forced_to_hide">Ausblenden erzwingen</string>
     <string name="four_point_five_switch_summary">4.5G nutzen, um die Geschwindigkeit der mobilen Datenverbindung zu erhöhen und die Sprachqualität zu verbessern</string>
     <string name="frequecy_num">LTE CHANNEL NUM</string>
     <string name="friday">Freitag</string>
@@ -1219,6 +1228,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter, falls das Problem weiterhin besteht."<
 Trotzdem zum neuen Mobilfunkanbieter wechseln?"</string>
     <string name="general_news_settings">Allgemeine Nachrichten</string>
     <string name="general_setting">Einstellungen</string>
+    <string name="general_settings_category">Allgemein</string>
     <string name="get_pin2">PIN2 eingeben</string>
     <string name="get_smsc_address_error">Netzwerkverbindung nicht möglich</string>
     <string name="get_smsc_address_timeout">Zeitüberschreitung der Verbindung</string>
@@ -1678,6 +1688,7 @@ Immer diese Nummer verwenden"</string>
     <string name="msim_setting_default_voice_description">SIM %d für Anrufe</string>
     <string name="msim_setting_install_virtual_sim_install">Installieren</string>
     <string name="msim_setting_install_virtual_sim_message">Mi Carrier Services installieren, um SIM-Karten zu kaufen und Ihren Tarif zu verwalten</string>
+    <string name="msim_setting_install_virtual_sim_tip">Mi Carrier-Dienste</string>
     <string name="msim_setting_no_sim_indicator">Keine SIM-Karte</string>
     <string name="msim_setting_no_sim_number">Nicht festgelegt</string>
     <string name="msim_setting_no_sim_package_info">Keine Guthabeninfo</string>
@@ -1722,6 +1733,8 @@ Immer diese Nummer verwenden"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
     <string name="multi_category_disable">Multikategorie deaktiviert</string>
     <string name="multi_category_enable">Multikategorie aktiviert</string>
+    <string name="n28_summary">803MHz-Frequenzband verwenden</string>
+    <string name="n28_title">Band N28</string>
     <string name="national_disable">Nationale Nachrichten ausgeschaltet</string>
     <string name="national_enable">Nationale Nachrichten eingeschaltet</string>
     <string name="netcheck_title">Diagnostik Mobilfunknetz</string>
@@ -1837,11 +1850,13 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
     <string name="onscreenShowDialpadText">Tastenfeld</string>
     <string name="onscreenSwapCallsText">Tauschen</string>
     <string name="onscreenVideoCallText">Videoanruf</string>
+    <string name="opconfig_info">OpConfig-Info anzeigen</string>
     <string name="open_miui">Einschalten</string>
     <string name="opened_dual_4g_confirm_prompt">Anscheinend haben Sie nur eine 4G SIM-Karte. Dual 4G wurde automatisch eingeschaltet.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM-%1$s unterstützt nur 4G. Um sicherzustellen, dass Ihre SIM-Karte normal funktioniert, wurde Dual 4G eingeschaltet.</string>
     <string name="operation_successfully">Fertig</string>
     <string name="operator">Mobilfunkanbieter</string>
+    <string name="optimization_settings_category">Optimierung</string>
     <string name="osu_completing_sign_up">Anmeldung abschließen…</string>
     <string name="osu_connect_failed">Verbinden nicht möglich</string>
     <string name="osu_opening_provider">%1$s öffnen</string>
@@ -1874,6 +1889,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
     <string name="other_available_phone_accounts">Andere verfügbare Konten</string>
     <string name="other_settings">Weitere Anrufeinstellungen</string>
     <string name="other_settings_category">Andere</string>
+    <string name="other_settings_categorys">Weitere Funktionen</string>
     <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
     <string name="overseas_roaming_setting">Datenroaming</string>
     <string name="pane_title_emergency_dialpad">Notfallwähltastatur</string>
@@ -2313,6 +2329,8 @@ UT-Schnittstelle: %5$s"</string>
     <string name="running_process_item_user_label">Benutzer: %1$s</string>
     <string name="runningservices_settings_summary">Aktuell laufende Dienste anzeigen und kontrollieren</string>
     <string name="runningservices_settings_title">Laufende Dienste</string>
+    <string name="sa_switch_debug_summary">Optionen für 5G-Netzwerkmodus in weiteren SIM-Einstellungen anzeigen</string>
+    <string name="sa_switch_debug_title">Optionen für 5G-Netzwerkmodus anzeigen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
@@ -2381,6 +2399,12 @@ UT-Schnittstelle: %5$s"</string>
     <string name="show_screen_updates_summary">In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird</string>
     <string name="show_touches">Berührungen anzeigen</string>
     <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
+    <string name="show_volte_switch_summary">VoLTE-Schalter in SIM-Details anzeigen</string>
+    <string name="show_volte_switch_title">VoLTE-Schalter anzeigen</string>
+    <string name="show_vonr_switch_summary">VoNR-Schalter in SIM-Details anzeigen</string>
+    <string name="show_vonr_switch_title">VoNR-Schalter anzeigen</string>
+    <string name="show_vowifi_switch_summary">Schalter WLAN-Anruf in SIM-Details anzeigen</string>
+    <string name="show_vowifi_switch_title">Schalter WLAN-Anruf anzeigen</string>
     <string name="simContacts_airplaneMode">Deaktivieren Sie zum Importieren der Kontakte von der SIM-Karte zunächst den Flugmodus</string>
     <string name="simContacts_empty">Keine Kontakte auf Ihrer SIM-Karte</string>
     <string name="simContacts_emptyLoading">SIM-Karte lesen…</string>
@@ -2576,6 +2600,7 @@ UT-Schnittstelle: %5$s"</string>
     <string name="support_forbidden_fakecell">Hinweis: Die Verbindungseinschränkung zu gefälschten Basisstationen kann das Signal in Gebieten mit schlechter Abdeckung verringern.</string>
     <string name="switch_dds_to_sub_alert">Legen Sie diese Karte als Standard-Datenkarte fest.</string>
     <string name="switch_dds_to_sub_alert_msg">Bitte mobile Daten auf CT SIM umstellen</string>
+    <string name="switch_debug_menu">Weitere Netzwerkeinstellungen</string>
     <string name="switch_off">Aus</string>
     <string name="switch_on">An</string>
     <string name="t9_indexing_method_title">T9-Sucheingabe</string>
@@ -2766,6 +2791,8 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
     <string name="uplmn_list_setting_add_plmn">Neuer PLMN</string>
     <string name="uplmn_list_setting_title">Bevorzugte Netzwerke</string>
     <string name="uplmn_numeric_is_empty">Netzwerk-ID eingeben</string>
+    <string name="uplmn_summary">Verfügbare Netzbetreibereinstellungen in den SIM-Details anzeigen</string>
+    <string name="uplmn_title">Netzbetreibereinstellungen</string>
     <string name="usb_audio_disable_routing">USB Audiorouting deaktivieren</string>
     <string name="usb_audio_disable_routing_summary">Autorouting zu USB Audioperipheriegeräten deaktivieren</string>
     <string name="use_system_language_to_select_input_method_subtypes">Systemsprachen verwenden</string>
