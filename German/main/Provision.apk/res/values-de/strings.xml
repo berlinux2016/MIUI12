@@ -507,7 +507,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="service_policy_adjust_content">Xunlei Datenschutzerklärung</string>
     <string name="service_policy_download"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Xunlei Datenschutzerklärung&lt;/a> und &lt;a href=%1$s>Xunlei Netzwerkdienste-Nutzervereinbarung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="service_privacy_index">Datenschutzerklärung</string>
-    <string name="service_security_over_r"><Data>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.&lt;br/>&lt;br/>In Übereinstimmung mit den Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>-Standards wird eine einmalige Berechtigung innerhalb einer bestimmten Zeitspanne (ca. &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) entzogen, wenn die entsprechende App nicht mehr läuft. Wenn Sie die App während dieser kurzen Zeitspanne öffnen, wird die Berechtigung entzogen.</Data></string>
+    <string name="service_security_over_r"><Data>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.&lt;br/>&lt;br/>Gemäß den Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>-Standards wird eine einmalige Berechtigung innerhalb einer bestimmten Zeitspanne (etwa &lt;xliff:g example=5 seconds id=short>%3$s&lt;/xliff:g>) entzogen, nachdem die entsprechende App nicht mehr läuft. Wenn Sie die App während dieser kurzen Zeitspanne öffnen, wird die Berechtigung entzogen.</Data></string>
     <string name="service_sim_activation">SIM-Kartenaktivierung</string>
     <string name="servicestate_title">Erklärung zur Basisdiensten</string>
     <string name="setting_locale">Region einrichten…</string>
