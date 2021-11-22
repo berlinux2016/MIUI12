@@ -2489,6 +2489,7 @@ UT-Schnittstelle: %5$s"</string>
     <string name="smart_dual_sim_title">Intelligente Dual-SIM</string>
     <string name="smart_forwarding_settings_menu">Intelligente Weiterleitung</string>
     <string name="smart_forwarding_settings_menu_summary">Wenn eine Nummer nicht erreichbar ist, leiten Sie Anrufe immer an Ihre andere Nummer weiter</string>
+    <string name="smart_multinetwork_acceleration_title">Intelligente Multinetzwerkbeschleunigung</string>
     <string name="smsc_dialog_message">Achten Sie darauf, dass die von Ihnen eingegebene Nummer korrekt ist. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Mobilfunkanbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
     <string name="softap_beacon_protection">SoftAp Beacon-Schutz aktivieren</string>
     <string name="softap_beacon_protection_summary">SoftAp Beacon-Schutz über Hotspot aktivieren</string>
@@ -2966,7 +2967,7 @@ Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt temporär voll</string>
     <string name="wifi_auth_password_wrong">Passwort scheint falsch zu sein</string>
     <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
-    <string name="wifi_call_accept">Überspringen</string>
+    <string name="wifi_call_accept">Akzeptieren</string>
     <string name="wifi_call_available_message">Sie können jetzt über WLAN anrufen. Wenn Sie mit WLAN verbunden sind, können Sie auch dann sprechen, wenn Sie sich in Gebieten ohne Mobilfunkabdeckung befinden.</string>
     <string name="wifi_call_available_message_for_ATT_MX">Sie sind dabei, sich mit einem WLAN zu verbinden. Die Gesprächsqualität kann je nach Netzwerk variieren.</string>
     <string name="wifi_call_available_title">WLAN-Anrufe einschalten</string>

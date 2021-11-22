@@ -3940,6 +3940,7 @@ Das funktioniert nur, wenn die Systemnavigation auf Gesten eingestellt ist."</st
     <string name="freeform_guide_slide_up_to_close_title">Popups schließen</string>
     <string name="freeform_vedio_description">"·Taste gedrückt halten und eine Benachrichtigung herunterziehen, um sie in einem Popup zu öffnen.
 ·Auf \"Popups\" in Zuletzt verwendet tippen, um Apps auszuwählen."</string>
+    <string name="freeform_vedio_description_pad">Elemente aus dem Dock ziehen, um Popups zu öffnen</string>
     <string name="frequently_fragment_delete">Löschen</string>
     <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
     <string name="friday">Freitag</string>
@@ -8027,6 +8028,7 @@ App-Pinning verwenden: \u0009
     <string name="secure_keyguard_business_title">Bildschirmsperre festlegen</string>
     <string name="secure_lock_encryption_warning">Da Sie einen Eingabehilfendienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern</string>
     <string name="security_center_title">Sicherheit</string>
+    <string name="security_check_progress_dialog_message">Auf Sicherheitsprobleme prüfen…</string>
     <string name="security_dashboard_summary">Bildschirmsperre, Fingerabdruck</string>
     <string name="security_dashboard_summary_face">Bildschirmsperre, Gesichtsentsperrung</string>
     <string name="security_dashboard_summary_no_fingerprint">Bildschirmsperre</string>

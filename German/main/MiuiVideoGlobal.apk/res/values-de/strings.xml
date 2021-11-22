@@ -156,6 +156,7 @@
     <string name="click_to_reload_more">Tippen, um mehr zu zeigen</string>
     <string name="click_to_retry">Erneut versuchen</string>
     <string name="close">Schließen</string>
+    <string name="close_notify_panel_tips">Der Mini-Player wird in der Benachrichtigungsleiste angezeigt, wenn die Hintergrundwiedergabe eingeschaltet ist.</string>
     <string name="cloud_auto_pip_play_switch">Bild-in-Bild automatisch verwenden</string>
     <string name="cloud_online_player">Spieler</string>
     <string name="cloud_online_switch">Personalisierte Empfehlungen</string>
@@ -487,6 +488,22 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Text bearbeiten</string>
     <string name="galleryplus_subtitle_edit_reminder">Eingegebener Text ist zu lang</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Sprache wurde während der Aufnahme nicht erkannt</string>
+    <string name="galleryplus_talkback_btn_back">Zurück</string>
+    <string name="galleryplus_talkback_btn_cancel">Abbrechen</string>
+    <string name="galleryplus_talkback_btn_fold_speed_view">Abspielgeschwindigkeit ausblenden</string>
+    <string name="galleryplus_talkback_btn_lock_orientation">Drehen aus</string>
+    <string name="galleryplus_talkback_btn_mute">Stummschalten</string>
+    <string name="galleryplus_talkback_btn_play">Abspielen</string>
+    <string name="galleryplus_talkback_btn_rotate_screen">Bildschirm drehen</string>
+    <string name="galleryplus_talkback_btn_save">Speichern</string>
+    <string name="galleryplus_talkback_btn_send">Senden</string>
+    <string name="galleryplus_talkback_btn_unfold_speed_view">Abspielgeschwindigkeit</string>
+    <string name="galleryplus_talkback_btn_unmute">Stummschalten aufheben</string>
+    <string name="galleryplus_talkback_focused_speed">Gewählt, %sX</string>
+    <string name="galleryplus_talkback_sound_track_item_ai_music">Automatischer Soundtrack</string>
+    <string name="galleryplus_talkback_sound_track_item_local_music">Lokaler Soundtrack</string>
+    <string name="galleryplus_talkback_sound_track_item_no_music">Kein Soundtrack</string>
+    <string name="galleryplus_talkback_unfocused_speed">Nicht gewählt, %sX</string>
     <string name="galleryplus_v_agree">Zustimmen</string>
     <string name="galleryplus_v_cancel">Abbrechen</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Alle Änderungen verwerfen und die Bearbeitung von Untertiteln jetzt beenden?</string>
@@ -541,6 +558,12 @@ für Videos"</string>
     <string name="library_roundedimageview_libraryDescription">Schneller ImageView (und Drawable), der abgerundete Ecken (und Ovale oder Kreise) unterstützt, basierend auf dem Originalbeispiel von Romain Guy</string>
     <string name="live_now">Jetzt live</string>
     <string name="loading">Einen Moment…</string>
+    <string name="local_diversion_close_recommend">Schließen</string>
+    <string name="local_diversion_download_more_video">Weitere Videos</string>
+    <string name="local_diversion_manage_local_video">Dateien verwalten</string>
+    <string name="local_diversion_open_mivideo">"In Mi Video ansehen
+für das beste Seherlebnis"</string>
+    <string name="local_diversion_recommend_title">Beliebt</string>
     <string name="local_empty_guide">Von Ihnen gedrehte Videos werden hier erscheinen</string>
     <string name="local_play_tip">Lokales Video abspielen</string>
     <string name="local_push_setting_power_tag">Benachrichtigungen über lokale Videos</string>
@@ -1020,6 +1043,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>
     <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
+    <string name="pip_not_supported_toast">MIUI aktualisieren, um Bild-in-Bild verwenden zu können</string>
     <string name="playlist_create">Erstelen</string>
     <string name="playlist_detail_recomm_title">Empfohlene Playlisten</string>
     <string name="playlist_finish">Fertig</string>
@@ -1137,8 +1161,12 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="plus_tab_gallery">Ordner</string>
     <string name="plus_tab_time">Zeitleiste</string>
     <string name="popup_click_for_download_video">Video herunterladen</string>
+    <string name="popup_pip_activate_button">Einstellungen</string>
+    <string name="popup_pip_not_activated">Erst die Verwendung von Bild-in-Bild durch Mi Video zulassen</string>
     <string name="privacy_revoke_setting">Indem Sie den Schalter umlegen, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Video.</string>
     <string name="privacy_revoke_title">Zustimmung widerrufen</string>
+    <string name="pro_prize_popup_style_one">Werbung für %s entfernen</string>
+    <string name="pro_prize_popup_style_two">Weitere Funktionen für %s freischalten</string>
     <string name="progressbar_title">Auf Sicherheitsprobleme prüfen…</string>
     <string name="psw_hint">Passwort</string>
     <string name="psw_sign_in">Mit Passwort anmelden</string>
@@ -1510,5 +1538,6 @@ Delta-Update-Größe: %2$s"</string>
     <string name="ytb_login_hint">Anmelden, um Ihre YouTube-Abos anzuzeigen</string>
     <string name="ytb_logout">Abmelden</string>
     <string name="ytb_play_next">Weiter</string>
+    <string name="ytb_trending">Beliebt</string>
     <string name="ytb_subscribed">Abos</string>
 </resources>

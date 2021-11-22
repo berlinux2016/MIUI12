@@ -56,7 +56,7 @@
     <string name="clock_introduction">Sie können diese App verwenden, um die Zeit anzuzeigen, sowie Timer, Weltuhr, Stoppuhr, Wecker einstellen und vieles mehr.</string>
     <string name="close">Schließen</string>
     <string name="close_location_service_setting">Sie können den Standortzugriff deaktivieren unter Einstellungen &gt; Privatsphäre schützen &gt; Berechtigungen für einzelne Apps in Sicherheit verwalten oder einschränken.</string>
-    <string name="cloud_service_discount">Rabatt für Cloud-Dienste</string>
+    <string name="cloud_service_discount">Rabatte für Speichertarife</string>
     <string name="cm_terms_content">Um die Servicequalität zu verbessern, kann Ihr Mobilfunkanbieter persönliche Daten und Geräteinfos über WLAN oder die mobile Datenverbindung auf seine Server hochladen. Diese Information wird nur für statistische Zwecke verwendet, um die Servicequalität zu verbessern oder Ihnen personalisierte Inhalte anzubieten. Diese Information kann Sie nicht persönlich identifizieren und wird nicht an Dritte weitergeleitet.</string>
     <string name="cm_terms_title">Mobilfunkbetreibervereinbarung</string>
     <string name="compass_introduction">Sie können diese App zur Navigation sowie zur Anzeige von Koordinaten, Luftdruck und Höhe verwenden.</string>
@@ -89,7 +89,7 @@
     <string name="disagreement_function">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Funktion nicht nutzen. Sie können diese Funktion in solchen Fällen nicht nutzen.</string>
     <string name="disagreement_location_service">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diesen Dienst nicht nutzen.</string>
     <string name="disagreement_location_service_abnormal">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie die Standortdienste nicht nutzen. Sie können Standortdienste jederzeit unter Einstellungen &gt; Datenschutz ein- oder ausschalten.</string>
-    <string name="disagreement_mi_account_abnormal">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie die Mi Konto-Dienste nicht nutzen. Sie können die Mi Konto-Dienste jederzeit unter Einstellungen > Mi Konto ein- oder ausschalten.</string>
+    <string name="disagreement_mi_account_abnormal">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie die Mi-Konto-Dienste nicht nutzen. Sie können die Mi-Konto-Dienste jederzeit unter Einstellungen > Mi-Konto ein- oder ausschalten.</string>
     <string name="disagreement_service_not_working_properly">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie diese App nicht nutzen.</string>
     <string name="disagreement_terminate_miuidaemon">Wir verwenden die Berechtigungen nur, wenn Sie mit der Übertragung von Daten von Ihrem Gerät beginnen, wenn der Bildschirm beschädigt ist. Wenn Sie nicht zustimmen, diese Berechtigungen zu gewähren, können Sie diese App nicht verwenden.</string>
     <string name="disagreement_terminate_service">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen. In solchen Fällen können Sie in den Einstellungen die Berechtigungen deinstallieren, abmelden oder einschränken.</string>
@@ -101,7 +101,7 @@
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="evening">Nachmittag</string>
-    <string name="exclusive_member_merchandise">Exklusive Waren für Mitglieder</string>
+    <string name="exclusive_member_merchandise">Exklusive Waren</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="fast_application_introduction">Quick Apps Service Framework ist ein grundlegender Framework-Dienst, der die Verteilung und den Betrieb von Quick Apps unterstützt.</string>
     <string name="fast_pairing_introduction">Mi Link nutzt die Bluetooth-Funktionen von MIUI, um schnell eine Verbindung zu Bluetooth-Geräten in der Nähe herzustellen.</string>
@@ -165,10 +165,10 @@
     <string name="location_location">Notfallrettungsorganisationen können auf Anfrage Ihren aktuellen Standort erfahren</string>
     <string name="location_miui">Um MIUI nutzen zu können, müssen Sie den oben genannten Bedingungen zustimmen</string>
     <string name="lockscreen_introduction">Hintergrundkarussell erlaubt Ihnen, täglich frische Bilder an Ihren Sperrbildschirm zu senden.</string>
-    <string name="member_exclusive_medal">Exklusive Medaille für Mitglieder</string>
-    <string name="membership_rights_tip">Loggen Sie sich in Ihr Xiaomi Konto ein, um exklusive Rechte zu erhalten</string>
+    <string name="member_exclusive_medal">Mitgliedschaftsabzeichen</string>
+    <string name="membership_rights_tip">Mit Mi-Konto anmelden, um exklusive Vorteile zu erhalten</string>
     <string name="message_introduction">Mit dieser App können Sie SMS senden und empfangen.</string>
-    <string name="mi_account_introduction">Mit Mi Konto können Sie sich bei Systemkonten registrieren, anmelden und diese verwalten.</string>
+    <string name="mi_account_introduction">Mit Mi-Konto können Sie sich bei Systemkonten registrieren, anmelden und diese verwalten.</string>
     <string name="midnight">Nacht</string>
     <string name="mint_keyboard_oobe_checkbox">Ich habe die Datenschutzerklärung von Mint Keyboard gelesen und bin damit einverstanden</string>
     <string name="mint_keyboard_oobe_terms">Datenschutzerklärung von Mint Keyboard</string>
@@ -479,7 +479,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="service_fast_pairing_policy"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Mi Link Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet-Kommunikationsdienste</string>
     <string name="service_location_share_policy"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Datenschutzerklärung für Standortdienste&lt;/a>, bevor Sie fortfahren.</Data></string>
-    <string name="service_mi_account">Mi Konto</string>
+    <string name="service_mi_account">Mi-Konto</string>
     <string name="service_name_address_dialing">Kontakte und Telefon</string>
     <string name="service_name_album">Galerie</string>
     <string name="service_name_application_package">Paket-Installer</string>
@@ -524,6 +524,11 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="sim_card_detection_mobile_not_available">SIM-Karte konnte sich nicht mit dem Netzwerk verbinden</string>
     <string name="sim_card_detection_sb_esim">eSIM aktivieren</string>
     <string name="sim_card_detection_sb_nonactivated">Nicht aktiviert</string>
+    <string name="sim_card_dial_card1">SIM1 für Anrufe</string>
+    <string name="sim_card_dial_card2">SIM2 für Anrufe</string>
+    <string name="sim_card_do_not_select_dial_card">SIM-Karte zum Wählen auswählen</string>
+    <string name="sim_card_network_card1">Daten-SIM1</string>
+    <string name="sim_card_network_card2">Daten-SIM2</string>
     <string name="sim_dectection_next">Weiter</string>
     <string name="sim_redetection">Erneut prüfen</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Ihre SIM-Karte konnte sich nicht mit einem gültigen Mobilfunknetz verbinden. Achten Sie darauf, dass Sie genügend Guthaben besitzen und versuchen Sie es erneut.</string>
@@ -693,9 +698,9 @@ Sie müssen der Datenschutzerklärung von Mint Keyboard zustimmen, bevor Sie die
     <string name="wednesday_shortest">M</string>
     <string name="welcome">Willkommen</string>
     <string name="withdraw_consent">Wenn Sie Ihre Zustimmung widerrufen, werden die Hintergrundkarussell-Dienste deaktiviert.</string>
-    <string name="xiaomi_game_discounts">Xiaomi Spiele-Rabatte</string>
-    <string name="xiaomi_membership_rights">Xiaomi Mitgliedschaftsrechte</string>
-    <string name="xiaomi_video_discount">Xiaomi Video-Rabatt</string>
+    <string name="xiaomi_game_discounts">Spiele-Angebote</string>
+    <string name="xiaomi_membership_rights">Xiaomi Cloud-Mitgliedschaft</string>
+    <string name="xiaomi_video_discount">Mi Video-Angebote</string>
     <string name="yesterday">Gestern</string>
     <string name="zone_picker_title">Zeitzone auswählen</string>
 </resources>
