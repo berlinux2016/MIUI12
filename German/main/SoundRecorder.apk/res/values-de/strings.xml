@@ -149,6 +149,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="head_set_tip_dialog_title">Internes Mikrofon verwenden</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="invalid_argument">Ungültiges Argument</string>
+    <string name="invisible_mode_error_tip">Inkognito-Modus in den Einstellungen ausschalten, um das Mikrofon benutzen zu können</string>
     <string name="keywords_search_call_record">Anrufe aufnehmen;Anruf aufnehmen;Anrufaufnahme;Anrufaufnahmen</string>
     <string name="keywords_search_record">Neue Aufnahme;Aufnahme hinzufügen;Aufnahme;Aufnahmen;Protokoll;protokollieren;Rekorder;Sprachaufnahme;Sprachrekorder;Rekorder App;Aufnahme App;Wie nehme ich auf;Wie nehme ich Ton auf;Wo ist der Rekorder;MIUI Rekorder</string>
     <string name="keywords_search_record_list">Rekorder;Protokoll;Protokolle;Aufnehmen;Aufnahme teilen;Aufnahmen teilen;Aufnahme;Aufnahmen</string>
@@ -186,6 +187,8 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="mi_account_ok">Zum Anmelden</string>
     <string name="mi_account_title">Anmelden Mi-Konto</string>
     <string name="midnight">Nacht</string>
+    <string name="miuix_access_state_desc">Ausgewählt</string>
+    <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -203,6 +206,8 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
+    <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -361,6 +366,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="preference_tip_rename">Aufnahmen selbst benennen</string>
     <string name="privacy_policy_title">Datenschutzerklärung</string>
     <string name="privacy_settings">Datenschutz</string>
+    <string name="progress">Fortschrittsbalken Wiedergabe</string>
     <string name="recognition_button_add_to_queue">Zur Warteschlange hinzufügen</string>
     <string name="recognition_button_cancel">Nicht jetzt</string>
     <string name="recognition_button_start">Umwandeln</string>
@@ -478,6 +484,11 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
     <string name="rename_no_more_tip">Nicht wieder anzeigen</string>
     <string name="retry">Erneut versuchen</string>
     <string name="runtime_permission_ungranted">Rekorder kann ohne erteilte Berechtigungen nicht verwendet werden</string>
+    <string name="saf_permission_dialog_content">Wegen Android-Beschränkungen benötigt Recorder die Erlaubnis, auf Aufnahmen anderer Apps zuzugreifen. Erlauben Sie Recorder, auf diese Aufnahmen zuzugreifen, um sie zu sehen.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Einstellungen</string>
+    <string name="saf_permission_dialog_later">Nein danke</string>
+    <string name="saf_permission_dialog_no_more_tip">Nicht mehr anzeigen</string>
+    <string name="saf_permission_dialog_title">Berechtigungen erforderlich</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
@@ -495,6 +506,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
     <string name="search_silent_mode">Klingelton lautlos schalten bei der Aufnahme</string>
     <string name="search_tip_rename">Aufnahmedatei manuell benennen</string>
     <string name="send">Senden</string>
+    <string name="settings_saf_permission">Berechtigungen Dateiverwaltung</string>
     <string name="share">Teilen</string>
     <string name="share_dialog_title">Teilen mit</string>
     <string name="shortcut_records">Aufnahmen</string>

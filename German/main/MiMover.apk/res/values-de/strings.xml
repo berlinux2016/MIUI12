@@ -803,6 +803,7 @@ Videos, Dokumente und Apps auf ein neues Gerät verschieben"</string>
     <string name="transfer_connect_fail_summary">Auf Schaltfläche unten tippen, um manuell zu verbinden</string>
     <string name="transfer_finish_bottom_tip">Wenn Sie Ihr altes Gerät nicht mehr verwenden, können Sie alle Daten auf dem Gerät löschen, wenn Sie bestätigt haben, dass alle wichtigen Elemente erfolgreich übertragen wurden.</string>
     <string name="transfer_finish_summary">%1$s (%2$s) übertragen</string>
+    <string name="transfer_long_pause_in_progress">Übertragen…</string>
     <string name="transfer_lose_connect_summary">Anscheinend wurde die Verbindung unterbrochen. Verbindung wieder herstellen.</string>
     <string name="transfer_lose_connect_title">Verbindung unterbrochen</string>
     <string name="transfer_multi_connect_summary">Ihre Übertragung wurde aus Sicherheitsgründen unterbrochen. Sie können auf \"Erneut verbinden"\ tippen, um trotzdem weiterzumachen.</string>

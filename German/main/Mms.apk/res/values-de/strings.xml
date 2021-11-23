@@ -188,6 +188,12 @@
     <string name="context_menu_send_sms">Nachricht senden</string>
     <string name="context_menu_view_contact">Kontakt anzeigen</string>
     <string name="context_menu_view_mms">MMS anzeigen</string>
+    <string name="conv_content_defraud_tip">Betrug melden</string>
+    <string name="conv_content_risk">Von unbekannter Nummer gesendet</string>
+    <string name="conv_head_link_tip">Betrug melden</string>
+    <string name="conv_head_risk_tip">Könnte Betrug im Ausland sein</string>
+    <string name="conv_item_official">Offiziell</string>
+    <string name="conv_item_risk_tip">Risiko</string>
     <string name="conversation">Nachrichten</string>
     <string name="conversation_style">Sprechblase</string>
     <string name="converting_to_picture_message">In MMS umwandeln…</string>

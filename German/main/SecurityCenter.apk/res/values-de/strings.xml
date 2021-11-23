@@ -713,7 +713,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_default_task_summary_listen_music">Musik abspielen und Kopfhörertyp auswählen</string>
     <string name="auto_task_default_task_summary_meet">Besprechungszeit planen und DND-Modus einschalten</string>
     <string name="auto_task_default_task_summary_noon_break">Mittagsschlaf planen und DND-Modus einschalten</string>
-    <string name="auto_task_default_task_summary_save_power">Stromsparen einschalten, wenn der Akku weniger als %s hat</string>
+    <string name="auto_task_default_task_summary_save_power">Stromsparen einschalten, wenn der Akku weniger als 30 % hat</string>
     <string name="auto_task_default_task_summary_sleep">Schlafenszeit planen und Geräteverhalten anpassen</string>
     <string name="auto_task_default_task_summary_watch_video">App öffnen, WLAN einschalten, Lautstärke einstellen</string>
     <string name="auto_task_default_task_title_driver_car">Fahren</string>
