@@ -76,6 +76,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="app_disable_transparent_wallpaper">Ohne transparenten Hintergrund</string>
     <string name="app_enable_transparent_wallpaper">Mit transparentem Hintergrund</string>
     <string name="app_name">Themen</string>
+    <string name="app_name_pad">Personalisierung</string>
     <string name="application_list_permission_desc">Zur Anzeige von Apps, die mit transparenten Hintergrundbildern kompatibel sind</string>
     <string name="apply_choosen_type_resource">Gewählte Elemente anwenden</string>
     <string name="apply_default_font_tip">Aktuellen Systemfont verwenden?</string>
@@ -114,11 +115,13 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="boot_audio_dialog_title">Achtung</string>
     <string name="both_all_apply_failured">Hintergrund wurde nicht angewendet</string>
     <string name="both_all_apply_success">Hintergrund wurde angewendet</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="browse_mode">Online-Modus</string>
     <string name="browse_mode_desc">Themen stellen eine Verbindung zum Internet her und nutzen sowohl lokale als auch Online-Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
     <string name="browser_local_resource">Lokale Ressourcen</string>
     <string name="can_not_apply">Anwenden nicht möglich</string>
     <string name="can_not_apply_error">Dieses Videoformat wird nicht unterstützt</string>
+    <string name="can_not_apply_pc_video">PC-Modus unterstützt keine Live-Hintergründe</string>
     <string name="can_not_apply_size_invalid">Dieses Video ist zu groß</string>
     <string name="cancel_download">Download abgebrochen</string>
     <string name="card_data_request_error">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
@@ -384,6 +387,10 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="font_compat_dialog_title">Kompatibilitätsprobleme</string>
     <string name="font_compat_dialog_trial_confirm">Versuchen</string>
     <string name="font_compat_dialog_trial_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben. Diese Schriftart trotzdem ausprobieren?</string>
+    <string name="font_pad_setting_charge_font">Bezahlt</string>
+    <string name="font_pad_setting_find_more_title">Weitere Schriftarten</string>
+    <string name="font_pad_setting_free_font">Kostenlos</string>
+    <string name="font_pad_setting_local_font">Lokale Schriftarten</string>
     <string name="font_trial_end_purchase">Fonts kaufen</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Transparenten Hintergrund erst im Hauptprofil anwenden</string>
     <string name="forbid_video_wallpaper_by_second_space">Dynamischen Hintergrund erst im Hauptprofil anwenden</string>
@@ -445,6 +452,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="hide_mamual_hide_miwallpaper">Ausgeblendete Startbildschirm-Effekte nicht anzeigen</string>
     <string name="hide_mamual_hide_theme">Ausgeblendete Themen nicht anzeigen</string>
     <string name="hide_mamual_hide_wallpaper">Ausgeblendete Hintergründe nicht anzeigen</string>
+    <string name="hide_phone_wallpaper">Telefon-Hintergrundbilder ausblenden</string>
     <string name="hide_pull_down_message">Schmuck ausblenden?</string>
     <string name="hide_pull_down_negative">Nicht ausblenden</string>
     <string name="hide_pull_down_positive">Ausblenden</string>
@@ -454,6 +462,9 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="home_daily">Tägliche Highlights</string>
     <string name="i_know">Verstanden</string>
     <string name="icon_content_description">Dialogsymbol</string>
+    <string name="icon_pad_setting_find_more_title">Weitere Symbole</string>
+    <string name="icon_pad_setting_local_icon">Lolale Symbole</string>
+    <string name="icon_pad_setting_title">Symbole</string>
     <string name="in_the_end">Keine Elemente zum Anzeigen</string>
     <string name="incall_show_apply">Profilvideo für ausgehende Anrufe</string>
     <string name="incall_show_apply_fail">Einstellen fehlgeschlagen</string>
@@ -481,6 +492,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="lab">Themenlabor</string>
     <string name="like_list">Elemente, die mir gefallen haben</string>
     <string name="live_wallpaper">Dynamisches Hintergrundbild</string>
+    <string name="load_from_local_photos">Galerie</string>
     <string name="loading">Laden…</string>
     <string name="loading_picture">Bild laden…</string>
     <string name="loading_resource_detail_fail">Laden der Quelle fehlgeschlagen</string>
@@ -503,8 +515,18 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="long_click_can_hide_resource">Gedrückt halten, um Elemente auszublenden</string>
     <string name="long_ringtone_resource">Lang</string>
     <string name="loop_wallpaper_is_here">Hintergrund-Diashows sind ab sofort verfügbar</string>
+    <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
     <string name="material_slider_range_end">Bereichsende,</string>
     <string name="material_slider_range_start">Bereichsanfang,</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="mi_wallpaper">MIUI Hintergrund</string>
     <string name="midnight">Nacht</string>
     <string name="mine_tab_not_login">"Anmelden, um Elemente anzuzeigen.
@@ -545,6 +567,8 @@ dd.MM."</string>
     <string name="miuishare_title_more">Mehr</string>
     <string name="miuishare_title_share">Teilen</string>
     <string name="miuishare_wechat_timeline_title">WeChat-Momente</string>
+    <string name="miuix_access_state_desc">Ausgewählt</string>
+    <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
@@ -570,6 +594,8 @@ dd.MM."</string>
     <string name="miuix_compat_dialog_title">Standardthema auf \"%s\" angewendet</string>
     <string name="miuix_compat_dialog_update_title">Eine Update ist erforderlich</string>
     <string name="miuix_compat_mms">Nachrichten</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
+    <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -717,6 +743,7 @@ Anzeigen und Verwenden der Elemente, die Sie gekauft oder zu den Favoriten hinzu
     <string name="personalize_title">Hintergründe und persönliche Anpassung</string>
     <string name="personalize_wallpaper_sub_title">Superhintergrundbilder &amp; vorgestellte Bilder</string>
     <string name="personalize_wallpaper_title">Hintergründe</string>
+    <string name="personalized_cta_content_text">Willkommen bei Themen! Mit dieser App können Sie Ihre Hintergrundbilder, Klingeltöne, Schriftarten und mehr verwalten.</string>
     <string name="phone_exit_theme_warning_content">"Sie können die folgenden Aktionen nicht mehr durchführen, wenn Sie sich abmelden:
 1. Die von Ihnen gekauften oder zu den Favoriten hinzugefügten Artikel anzeigen und verwenden.
 2. Kommentare und Likes hinzufügen, anderen Personen folgen und mit ihnen interagieren."</string>
@@ -940,6 +967,10 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_delete">Löschen</string>
     <string name="resource_delete_all">%1$d ausgewählte Quellen löschen?</string>
     <string name="resource_delete_confirm">Diese Quellen löschen?</string>
+    <string name="resource_delete_font_title">Schriftarten löschen</string>
+    <string name="resource_delete_icon_title">Symbole löschen</string>
+    <string name="resource_delete_ring_title">Klingeltöne löschen</string>
+    <string name="resource_delete_wallpaper_title">Hintergrundbilder löschen</string>
     <string name="resource_delta_update_failed">Update fehlgeschlagen: Thema erneut laden…</string>
     <string name="resource_delta_update_successful">Update erfolgreich</string>
     <string name="resource_delta_update_total">%1$d Update (%2$s) gespeichert</string>
@@ -985,6 +1016,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_free_use_last_one_day">Ihre Testversion läuft morgen ab.</string>
     <string name="resource_get_auth_checking">Berechtigung prüfen…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Sie haben bereits 10 Geräte für dieses Konto aktiviert</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">Sie können Personalisierung mit einem Konto auf bis zu 10 Geräten verwenden.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Maximale Anzahl an Geräten erreicht</string>
     <string name="resource_get_auth_has_been_undercarriaged">Dieses Thema ist nicht mehr verfügbar</string>
     <string name="resource_get_auth_not_official">Themen von Drittanbietern werden nicht unterstützt</string>
@@ -1183,6 +1215,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="show_mamual_hide_miwallpaper">Ausgeblendete Startbildschirm-Effekte anzeigen</string>
     <string name="show_mamual_hide_theme">Ausgeblendete Themen anzeigen</string>
     <string name="show_mamual_hide_wallpaper">Ausgeblendete Hintergründe anzeigen</string>
+    <string name="show_phone_wallpaper">Telefon-Hintergrundbilder anzeigen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -1230,10 +1263,14 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="system_aod_dialog_title">Always-On-Display ist aus</string>
     <string name="system_cta_agree_desc">Dieser App die Internetverbindung erlauben und die oben aufgeführten obligatorischen Berechtigungen erteilen.</string>
     <string name="system_cta_all_purpose">Willkommen bei Themen! Mit dieser App können Sie Ihre Themen, Hintergründe, Klingeltöne und Fonts verwalten.</string>
+    <string name="system_cta_all_purpose_fold">Willkommen bei Hintergrundbild und Personalisierung! Mit dieser App können Sie Ihre AOD-Themen, Hintergrundbilder, Klingeltöne und Schriftarten verwalten.</string>
+    <string name="system_cta_all_purpose_pad">Willkommen bei Personalisierung! Mit dieser App können Sie Ihre Hintergrundbilder, Klingeltöne, App-Symbole und Schriftarten verwalten.</string>
     <string name="system_cta_main_purpose">Verwalten und Verwenden von Online- und Offline-Themen, Hintergründen, Klingeltönen, Fonts und Video-Hintergründen</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Berechtigungen erforderlich</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Für den Zugriff auf die IMEI und die Bereitstellung von Download-Diensten</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Zur Anmeldung und Verwaltung von Systemkonten</string>
     <string name="system_cta_runtime_perm_desc_storage">Zur Verwendung der auf Ihrem Gerät gespeicherten Elemente zur Personalisierung und zum Speichern gekaufter Elemente</string>
+    <string name="system_cta_runtime_perm_desc_storage_pad">Zur Verwendung der auf Ihrem Gerät gespeicherten Elemente zur Personalisierung und zum Speichern gekaufter Elemente</string>
     <string name="system_precust">Vorinstalliert</string>
     <string name="tag_ad">Werbung</string>
     <string name="task_already_exist">Diese Aufgabe existiert bereits</string>
@@ -1481,6 +1518,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_apply">Anwenden</string>
     <string name="wallpaper_apply_full">Für beide anwenden</string>
     <string name="wallpaper_apply_large">Auf Hauptbildschirm anwenden</string>
+    <string name="wallpaper_apply_pcmode">PC-Modus-Hintergrundbild einstellen</string>
     <string name="wallpaper_apply_small">Auf 2. Bildschirm anwenden</string>
     <string name="wallpaper_auto_change_title">Sperrbildschirm</string>
     <string name="wallpaper_crop">Zuschneiden</string>

@@ -3935,6 +3935,7 @@ Es schien keine Pferde oder andere Tiere zu geben; die Männer beförderten Sach
     <string name="freeform_guide_settings">Popups</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Unteren Fensterrand gedrückt halten und in die obere rechte Ecke ziehen.
 Das funktioniert nur, wenn die Systemnavigation auf Gesten eingestellt ist."</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Ecke ziehen, um eine App zu minimieren</string>
     <string name="freeform_guide_slide_to_small_freeform_title">App minimieren</string>
     <string name="freeform_guide_slide_up_to_close_summary">Von der Aktionsleiste eines Popups hochklappen</string>
     <string name="freeform_guide_slide_up_to_close_title">Popups schließen</string>
@@ -5963,6 +5964,8 @@ Betriebssystem auswählen:"</string>
     <string name="multi_user_mode_backup_message">Sicherung kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus zum Fortfahren.</string>
     <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus zum Fortfahren.</string>
     <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
+    <string name="multi_window_cvw_summary">Ecke ziehen, um zu einem Popup zu wechseln und dessen Größe anzupassen</string>
+    <string name="multi_window_cvw_title">Popup</string>
     <string name="multifunction_keyboard">Multifunktional</string>
     <string name="multiple_users_main_switch_title">Mehrere Benutzer verwenden</string>
     <string name="music_app_unavailable">Musik-App wird benötigt. Stellen Sie sicher, dass diese installiert ist.</string>
