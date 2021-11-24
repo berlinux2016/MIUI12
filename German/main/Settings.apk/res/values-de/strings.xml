@@ -3939,7 +3939,7 @@ Das funktioniert nur, wenn die Systemnavigation auf Gesten eingestellt ist."</st
     <string name="freeform_guide_slide_up_to_close_summary">Von der Aktionsleiste eines Popups hochklappen</string>
     <string name="freeform_guide_slide_up_to_close_title">Popups schließen</string>
     <string name="freeform_vedio_description">"·Taste gedrückt halten und eine Benachrichtigung herunterziehen, um sie in einem Popup zu öffnen.
-·Auf \"Popups\" in Zuletzt verwendet tippen, um Apps auszuwählen."</string>
+·Auf \"Popups\" in zuletzt verwendet tippen, um Apps auszuwählen."</string>
     <string name="freeform_vedio_description_pad">Elemente aus dem Dock ziehen, um Popups zu öffnen</string>
     <string name="frequently_fragment_delete">Löschen</string>
     <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
