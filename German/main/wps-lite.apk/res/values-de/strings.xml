@@ -113,6 +113,7 @@
     <string name="et_sort_ascend">Aufsteigend</string>
     <string name="et_sort_descend">Absteigend</string>
     <string name="et_sort_empty">Keine zu sortierenden Inhalte gefunden. Wählen Sie andere Bereiche aus.</string>
+    <string name="et_sort_hint_title">Aktuellen Auswahlbereich sortieren</string>
     <string name="et_sort_title_tips">Datenüberschriften sollten sortiert werden.</string>
     <string name="et_sorter_expand_selection">Neben der Auswahl befinden sich weitere Daten. Welche Daten möchten Sie sortieren?</string>
     <string name="et_sorter_expand_selection_cancel">Aktuelle Auswahl</string>
