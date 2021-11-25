@@ -209,7 +209,7 @@
     <string name="category_file">Dateien</string>
     <string name="category_folder">Ordner</string>
     <string name="category_installed_app">Installierte Apps</string>
-    <string name="category_move_limit_notice">Sie können 3 bis 7 Elemente in den oberen Bildschirmteil verschieben</string>
+    <string name="category_move_limit_notice">Sie können %1$d bis %2$d Elemente in den oberen Bildschirmteil verschieben</string>
     <string name="category_music">Musik</string>
     <string name="category_other">Weitere</string>
     <string name="category_photo">Fotos</string>
@@ -427,7 +427,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="download_btn_select_none">Alles abwählen</string>
     <string name="download_business_app_new_version">Die neueste Version dieser App ist bereits installiert</string>
     <string name="download_business_app_update_install">Bereit zur Installation des Updates.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 ausgewählt</string>
+    <string name="download_business_v5_edit_mode_title_empty">Elemente wählen</string>
     <string name="download_change_dir">Ordner ändern</string>
     <string name="download_complete">Erfolgreich heruntergeladen</string>
     <string name="download_completed">Heruntergeladen</string>
@@ -448,7 +448,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="download_dialog_failed_body">Später erneut versuchen oder diese Datei aus der Download-Warteschlange entfernen?</string>
     <string name="download_dialog_file_already_exists">Sie haben diese Datei bereits heruntergeladen</string>
     <string name="download_dialog_file_length_hint_txt">"Dateigröße: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Weniger als 1 KB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Weniger als %1$d KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Download fehlgeschlagen</string>
     <string name="download_dialog_file_length_nolength_txt">Einen Moment…</string>
     <string name="download_dialog_file_missing_body">Datei nicht gefunden. Haben Sie sie verschoben oder gelöscht?</string>
@@ -666,6 +666,8 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
     <string name="gaid">GAID (Zum Exportieren tippen)</string>
+    <string name="game_center_recommend_play">Spielen</string>
+    <string name="game_center_recommend_title">Für Sie empfohlen</string>
     <string name="game_news_flow_download_bar_download">Herunterladen</string>
     <string name="game_news_flow_download_bar_play">Spielen</string>
     <string name="game_played">Zuletzt</string>
@@ -777,9 +779,9 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="lockpattern_need_to_unlock_wrong">Erneut versuchen</string>
     <string name="lockpattern_pattern_confirmed_header">Hier ist Ihr Entsperrmuster:</string>
     <string name="lockpattern_pattern_entered_header">Erledigt!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Erneut versuchen. Verbinden Sie mindestens 4 Punkte.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Erneut versuchen. Verbinden Sie mindestens %1$d Punkte.</string>
     <string name="lockpattern_recording_inprogress">Loslassen, wenn Ihr Muster fertig ist</string>
-    <string name="lockpattern_recording_intro_header">Verbinden Sie mindestens 4 Punkte.</string>
+    <string name="lockpattern_recording_intro_header">Verbinden Sie mindestens %1$d Punkte</string>
     <string name="lockpattern_retry_button_text">Zurücksetzen</string>
     <string name="login_failed_toast">Anmeldung fehlgeschlagen, neu laden und erneut versuchen</string>
     <string name="login_or_register">oder</string>
@@ -790,7 +792,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="make_private_msg_1">Diese Datei ausblenden?</string>
     <string name="make_private_msg_2">Diese Dateien ausblenden?</string>
     <string name="max_tabs_warning">Weitere Tabs können nicht geöffnet werden</string>
-    <string name="maximum_input_alert">Maximal 2048 Zeichen möglich</string>
+    <string name="maximum_input_alert">Maximal %1$d Zeichen möglich</string>
     <string name="media_error_action_refresh">Neu laden</string>
     <string name="media_error_action_replace_video_source">Quelle wurde nicht gewechselt</string>
     <string name="media_error_failure">Video kann nicht abgespielt werden</string>
@@ -2077,8 +2079,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">%2$s von %1$s verwendet</string>
     <string name="vpn_detail_guide1">Alle Server freischalten, um Ihre Verbindung zu beschleunigen</string>
     <string name="vpn_detail_guide2">VPN-Dienste abonnieren, um auf mehr Webseiten zuzugreifen</string>
-    <string name="vpn_detail_guide3">Sie haben fast keinen Traffic mehr. Testen Sie unseren 12-Monatstarif! Tippen, um mehr über Ihre Optionen zu erfahren.</string>
-    <string name="vpn_detail_guide4">Sie haben keinen Traffic mehr. Testen Sie unseren 12-Monatstarif! Tippen, um mehr über Ihre Optionen zu erfahren.</string>
+    <string name="vpn_detail_guide3">Sie haben fast keinen Traffic mehr. Testen Sie unseren %1$d-Monatstarif! Tippen, um mehr über Ihre Optionen zu erfahren.</string>
+    <string name="vpn_detail_guide4">Sie haben keinen Traffic mehr. Testen Sie unseren %1$d-Monatstarif! Tippen, um mehr über Ihre Optionen zu erfahren.</string>
     <string name="vpn_detail_guide5">Sie haben fast keinen Traffic mehr</string>
     <string name="vpn_detail_guide6">Sie haben keinen Traffic mehr</string>
     <string name="vpn_detail_subscribe">Abonnieren</string>
@@ -2110,7 +2112,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">So funktioniert es</string>
     <string name="whatsapp_intro_dialog_title">Neue Funktion</string>
     <string name="whatsapp_no_status_tips">Noch keine Bilder oder Videos hier. Sehen Sie sich Ihre WhatsApp-Status-Updates an und kommen Sie wieder hierher zurück.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp speichert Fotos und Videos, die Sie durchstöbern, in einem versteckten Ordner. Diese Elemente verschwinden nach 24 Stunden. Jetzt können Sie Mi Browser verwenden, um sie zu speichern.</string>
+    <string name="whatsapp_principle_page_message">WhatsApp speichert Fotos und Videos, die Sie durchstöbern, in einem versteckten Ordner. Diese Elemente verschwinden nach %1$d Stunden. Jetzt können Sie Mi Browser verwenden, um sie zu speichern.</string>
     <string name="whatsapp_principle_page_title">Sie können Bilder und Videos aus WhatsApp-Statusmeldungen mit Mi Browser speichern</string>
     <string name="whatsapp_principle_step_1">Stöbern Sie in Bildern und Videos auf dem Tab \"Status\" in WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Kommen Sie hierher zurück, um sie zu speichern.</string>
