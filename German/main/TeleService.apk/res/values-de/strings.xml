@@ -241,6 +241,7 @@
     <string name="allContactdeleteSuccess">Alle SIM-Kontakte erfolgreich gelöscht</string>
     <string name="all_day">GT</string>
     <string name="all_empty_alert">Details des neuen SIP-Kontos eingeben</string>
+    <string name="allow">Erlauben</string>
     <string name="allow_mock_location">Scheinstandorte zulassen</string>
     <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
     <string name="already_auto">Bereits in automatischer Auswahl</string>
@@ -262,6 +263,7 @@
     <string name="app_process_limit_title">Hintergrundprozesslimit</string>
     <string name="arrears_sim_summary">Laden Sie Ihr Telefonguthaben auf, um in Verbindung zu bleiben.</string>
     <string name="arrears_sim_title">Unzureichende Deckung</string>
+    <string name="ask">Anfragen</string>
     <string name="atr_disable">Verkehrsmeldungen deaktiviert</string>
     <string name="atr_enable">Verkehrsmeldungen aktiviert</string>
     <string name="audio_mode_earpiece">Hörmuschel</string>
@@ -1803,6 +1805,7 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt keinen Schutz vor gefälschten Basisstationen auf Chipebene.</string>
     <string name="not_voice_capable">Sprachanruf wird nicht unterstützt</string>
+    <string name="notallow">Nicht erlauben</string>
     <string name="notification_channel_demo">Demo-Gerät</string>
     <string name="notification_channel_sip_account">Veraltete SIP-Konten</string>
     <string name="notification_demo_version_text">Telefonieren oder mobile Daten nutzen nicht möglich</string>
@@ -1828,6 +1831,8 @@ Kontaktieren Sie Ihren Mobilfunkanbieter."</string>
     <string name="numerous_emergency_numbers_title">Notfallnummern</string>
     <string name="nw_subset_unlock_failed">SIM-Netzbereichentsperranfrage erfolglos</string>
     <string name="nw_subset_unlock_success">SIM-Netzbereichentsperranfrage erfolgreich</string>
+    <string name="obtain_location_information">Standort</string>
+    <string name="obtain_location_information_summary">Dient zur Netzwerkoptimierung an Ihrem Standort</string>
     <string name="oem_radio_info_label">OEM-spezifische Info/Einstellungen</string>
     <string name="oem_unlock_enable">OEM-Entsperrung</string>
     <string name="oem_unlock_enable_summary">Entsperrung des Bootloaders erlauben</string>
@@ -1935,6 +1940,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
     <string name="pause_prompt_str">Töne senden</string>
     <string name="pause_prompt_yes">Ja</string>
     <string name="payphone">Telefonzelle</string>
+    <string name="permission_description">Berechtigungsinfo</string>
     <string name="pci_num">LTE PCI NUM</string>
     <string name="phoneAppLabel">Telefondienste</string>
     <string name="phoneIconLabel">Telefon</string>
@@ -2015,6 +2021,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
     <string name="prefered_network_type_3g_promp">Sie sollten VoLTE ausschalten, bevor Sie 3G als bevorzugten Netzwerktyp auswählen. Jetzt ausschalten?</string>
     <string name="preference_auto_ip_summary_disable">Deaktiviert</string>
     <string name="preference_category_ringtone">Klingelton &amp; Vibration</string>
+    <string name="preference_check_privacy">Datenschutzerklärung anzeigen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preference_countrycode_title">Ländercode</string>
     <string name="preference_data_usage_summary">Datenvolumen festlegen, um Ihre mobilen Daten zu kontrollieren</string>
@@ -2023,6 +2030,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
     <string name="preference_dial_pad_touch_tone_off">Aus</string>
     <string name="preference_dial_pad_touch_tone_piano">Klaviertasten</string>
     <string name="preference_dial_pad_touch_tone_title">Wahltastentöne</string>
+    <string name="preference_permission_related">Berechtigungsbezogen</string>
     <string name="preference_telocation_summary_countrycode_off">Landesvorwahl nicht automatisch wählen</string>
     <string name="preference_telocation_summary_countrycode_on">Landesvorwahl automatisch wählen</string>
     <string name="preference_telocation_summary_teloc_off">Kontaktstandort verbergen</string>
@@ -2106,6 +2114,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
     <string name="preferred_wificall_title">Netzwerkeinstellungen</string>
     <string name="primary_account_summary_with">Hauptkonto %s</string>
     <string name="privacy_policy_title">Datenschutzerklärung</string>
+    <string name="privacy_setting">Einstellung Privatsphäre</string>
     <string name="private_dns_broken">Private DNS-Server ist nicht erreichbar</string>
     <string name="private_dns_mode_off">Aus</string>
     <string name="private_dns_mode_opportunistic">Automatisch</string>
@@ -2220,6 +2229,8 @@ UT-Schnittstelle: %5$s"</string>
     <string name="radio_off_error">Aktivieren Sie Ihre Mobilfunkverbindung, bevor Sie diese Einstellungen anzeigen</string>
     <string name="rc_unlock_failed">Firmen-RUIM-Entsperrung fehlgeschlagen</string>
     <string name="rc_unlock_success">Entsperren der Firmen-RUIM erfolgreich</string>
+    <string name="read_call_log">Aufzeichnen</string>
+    <string name="read_call_log_summary">Dient zur Implementierung der Anrufaufzeichnungsfunktion</string>
     <string name="reading_settings">Einstellungen lesen…</string>
     <string name="regional_disable">Regionalnachrichten deaktiviert</string>
     <string name="regional_enable">Regionalnachrichten aktiviert</string>

@@ -375,7 +375,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="downloading_apk_black_shark">Herunterladen… Fortschritt in den Dateien anzeigen.</string>
     <string name="downloading_empty">Leer</string>
     <string name="downloading_pause_apk">Angehalten. Download in der Benachrichtigungleiste fortsetzen.</string>
-    <string name="downloads_operating">Bearbeitung…</string>
+    <string name="downloads_operating">Bearbeiten…</string>
     <string name="drm_check_permission_error">Mit dem Netzwerk verbinden, um zu prüfen, ob dieser Titel für Sie verfügbar ist.</string>
     <string name="drm_login_message">Wegen Urheberrechtsbeschränkungen müssen Sie sich anmelden, um zu prüfen, ob Ihnen dieser Titel zur Verfügung steht.</string>
     <string name="early_morning">Morgen</string>
@@ -552,6 +552,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="individuation_service_switch">Personalisierte Empfehlungen</string>
     <string name="input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
     <string name="input_hint_prefix">%1$s eingeben</string>
+    <string name="input_length_exceeds_limit">Der von Ihnen eingegebene Text ist zu lang</string>
     <string name="input_new_pwd">Neues Passwort eingeben</string>
     <string name="installing_apk">Installieren…</string>
     <string name="insufficient_space">Nicht genügend Platz auf dem internen Speicher Ihres Geräts</string>
@@ -1027,6 +1028,9 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
     <string name="retry">Erneut versuchen</string>
     <string name="retry_after_network_available">Netzwerkverbindung fehlgeschlagen. Verbindung prüfen und erneut versuchen.</string>
     <string name="retry_download">Erneut versuchen</string>
+    <string name="request_agree">Erlauben</string>
+    <string name="request_cancel">Abbrechen</string>
+    <string name="request_gallery_permission_message">Galeriezugriff erlauben:&lt;br />Für die Einstellung von Profilfotos</string>
     <string name="ringtone_not_support">Titelformat wird nicht unterstützt</string>
     <string name="runtime_permission_ungranted">Aufnahme kann wegen fehlender Berechtigungen nicht gestartet werden</string>
     <string name="same_new_and_old_pwd">Passwort kann nicht dasselbe wie das aktuelle sein</string>

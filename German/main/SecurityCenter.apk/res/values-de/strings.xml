@@ -2060,7 +2060,7 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gd_setting_group_custom_line_location">Toolbox-Position</string>
     <string name="gd_setting_group_custom_settings">Personalisierung</string>
     <string name="gd_setting_group_custom_vtb_apps">Video-Apps</string>
-    <string name="gd_setting_group_smart_tool_box">Intelligente Toolbox</string>
+    <string name="gd_setting_group_smart_tool_box">Seitenleiste</string>
     <string name="gd_setting_group_title_switch">Szenen</string>
     <string name="gd_setting_gtb">Beim Spielen anzeigen</string>
     <string name="gd_setting_gtb_desc">Besondere Funktionen für Spiele</string>
@@ -2069,7 +2069,7 @@ Spielsitzungen aufzeichnen"</string>
     <string name="gd_setting_guide_two">Schieben, um die intelligente Video-Toolbox zu öffnen</string>
     <string name="gd_setting_miui_dock">Immer anzeigen</string>
     <string name="gd_setting_shorthand">Schnellnotizen</string>
-    <string name="gd_setting_title">Intelligente Toolbox</string>
+    <string name="gd_setting_title">Seitenleiste</string>
     <string name="gd_setting_vtb">Beim Abspielen von Videos anzeigen</string>
     <string name="gd_setting_vtb_desc">Besondere Funktionen für die Videowiedergabe</string>
     <string name="gdpr_msg"><Data>Um Sicherheitsrisiken erkennen und Ihre Daten schützen zu können, müssen wir die erforderliche Menge an Informationen über Ihr Gerät sammeln. Lesen und akzeptieren Sie unsere &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Datenschutzerklärung&lt;/a&gt; bevor Sie unsere Dienste in Anspruch nehmen. Falls Sie uns nicht gestatten, solche Informationen zu sammeln, können Sie diese App trotzdem nutzen, aber einige Funktionen stehen Ihnen dann nicht zur Verfügung.</Data></string>
@@ -3083,7 +3083,7 @@ Stromverbrauch"</string>
     <string name="permission_instruction_read_contacts">Diese Berechtigung erlaubt Apps den Zugriff auf die auf Ihrem Gerät gespeicherten Kontaktinformationen. Diese Informationen können die Häufigkeit Ihrer Kommunikation mit bestimmten Kontakten über Anrufe, E-Mails und andere Methoden enthalten. Diese Berechtigung erlaubt Apps auch, Kontakte zu speichern. Bösartige Apps können diese Berechtigung verwenden, um Kontakte ohne Ihre Zustimmung freizugeben.</string>
     <string name="permission_instruction_read_notify_sms">Diese Berechtigung erlaubt Apps, auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherte Benachrichtigungstexte zu lesen.</string>
     <string name="permission_instruction_read_phone_state">Diese Berechtigung erlaubt Apps den Zugriff auf Ihre Rufnummer, IMEI, IMSI und andere Gerätekennungen. Apps verwenden diese Berechtigung normalerweise, um festzustellen, ob Ihre Anrufe weitergeleitet werden. Wenn Sie eine virtuelle Geräte-ID verwenden, können Apps nicht auf Ihre tatsächlichen Gerätekennungen zugreifen.</string>
-    <string name="permission_instruction_read_sms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Textnachrichten zu lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
+    <string name="permission_instruction_read_sms">Diese Berechtigung erlaubt Apps, alle Text- und Multimedia-Nachrichten lesen, die auf Ihrem Gerät oder Ihrer SIM-Karte gespeichert sind. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
     <string name="permission_instruction_read_write_calendar">Diese Berechtigung erlaubt Apps den Zugriff auf Ihren Kalender sowie das Lesen, Hinzufügen, Entfernen, Bearbeiten, Freigeben und Speichern von Kalendereinträgen. Bösartige Anps können diese Berechtigung verwenden, um Nachrichten in Ihrem Namen zu senden oder Kalendereinträge ohne Ihre Zustimmung zu bearbeiten.</string>
     <string name="permission_instruction_receive_mms">Diese Berechtigung erlaubt Apps, alle Multimedia-Nachrichten zu lesen, die auf Ihrem Gerät oder Ihrer SIM-Karte gespeichert sind. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
     <string name="permission_instruction_record_audio">Diese Berechtigung erlaubt Apps, das Mikrofon für Audioaufnahmen zu verwenden. Bedenken Sie, dass diese Berechtigung Apps erlaubt, alles aufzunehmen, inkl. Ihrer Gespräche mit anderen. Am besten erlauben Sie Apps die Verwendung dieser Berechtigung nur während der App-Nutzung.</string>
@@ -3325,6 +3325,8 @@ Stromverbrauch"</string>
     <string name="power_optimize_save_on_lockscreen">Stromsparen, wenn Gerät gesperrt ist</string>
     <string name="power_optimize_set_lockscreen_time_holder">Gerät nach %d Sekunden Inaktivität sperren</string>
     <string name="power_phone">Anrufe</string>
+    <string name="power_rank_surface_flinger">Rendern</string>
+    <string name="power_rank_system">Android-System</string>
     <string name="power_save_mode">Stromsparen</string>
     <string name="power_save_mode_auto_exit_summary">Ausschalten, wenn Akku über 60 % oder voll aufgeladen ist</string>
     <string name="power_save_mode_auto_exit_summary_new">Ausschalten, wenn der Akku %s oder vollständig geladen ist</string>

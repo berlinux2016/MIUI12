@@ -483,6 +483,8 @@ Prüfen Sie Ihre SIM-Karte."</string>
     <string name="messaging">Nachrichten</string>
     <string name="mi_message_title">Mi Message</string>
     <string name="midnight">Nacht</string>
+    <string name="miuix_access_state_desc">Ausgewählt</string>
+    <string name="miuix_alphabet_indexer_name">Seitenleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle auswählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
@@ -500,6 +502,8 @@ Prüfen Sie Ihre SIM-Karte."</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
+    <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -1100,6 +1104,9 @@ Schauen Sie sich die empfohlenen an!"</string>
     <string name="send_to_count">%1$s Nachrichten gesendet</string>
     <string name="sent_at_time">Gesendet um: %1s</string>
     <string name="sent_label">"Gesendet: "</string>
+    <string name="service_abandon_alert">Achtung</string>
+    <string name="service_abandon_retry_deny">Zurück</string>
+    <string name="service_abandon_retry_setting">Einstellungen</string>
     <string name="service_message_not_found">Nachricht abgelaufen oder nicht verfügbar</string>
     <string name="service_network_problem">Senden wegen eines Netzwerkproblems nicht möglich</string>
     <string name="service_not_activated">Dienst nicht verfügbar</string>
@@ -1113,6 +1120,7 @@ Schauen Sie sich die empfohlenen an!"</string>
     <string name="show_sender">Absenderinformationen anzeigen</string>
     <string name="sim1">SIM1</string>
     <string name="sim2">SIM2</string>
+    <string name="sim_activation_service_retry_main_purpose">SIM-Aktivierung muss eingeschalten sein, damit Mi Message normal funktioniert. Sie können die SIM-Aktivierung unter Einstellungen > Apps verwalten aktivieren.</string>
     <string name="sim_card1">SIM-Karte 1</string>
     <string name="sim_card2">SIM-Karte 2</string>
     <string name="sim_card_cloud">%s (Mi Nachricht)</string>
@@ -1402,6 +1410,7 @@ Bisherige Versuche: %s."</string>
     <string name="wednesday_shortest">M</string>
     <string name="wild_msg_processing">Verarbeiten…</string>
     <string name="wild_msg_title">Wählen Sie die Rufnummern für die Synchronisation</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Mi-Konto-Dienste müssen eingeschaltet sein, damit diese Funktion normal funktioniert. Sie können die Mi-Konto-Dienste unter Einstellungen > Apps verwalten aktivieren.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
     <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
