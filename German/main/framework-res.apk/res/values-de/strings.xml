@@ -253,7 +253,7 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
     <string name="alert_windows_notification_message">Wenn %s diese Funktion nicht verwenden soll, öffnen Sie Einstellungen und schalten Sie es aus.</string>
     <string name="alert_windows_notification_title">%s wird über anderen Apps angezeigt</string>
     <string name="alert_windows_notification_turn_off_action">Ausschalten</string>
-    <string name="allow">Zulassen</string>
+    <string name="allow">Erlauben</string>
     <string name="allow_button">Erlauben</string>
     <string name="alwaysUse">Immer für diese Aktion verwenden</string>
     <string name="android_preparing_apk">%1$s vorbereiten</string>

@@ -35,7 +35,7 @@
     <string name="age_label_today_date">Heute</string>
     <string name="age_label_total_summary">Übersicht</string>
     <string name="age_label_weeks">Wochen</string>
-    <string name="allow">Zustimmen</string>
+    <string name="allow">Erlauben</string>
     <string name="app_name">Rechner</string>
     <string name="app_notification_info">Rechner arbeitet im Hintergrund</string>
     <string name="base_rate">Basiszinssatz</string>

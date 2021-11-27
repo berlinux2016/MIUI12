@@ -591,7 +591,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="all_apps">Alle Apps</string>
     <string name="all_network_unavailable">Keine Netzwerke verfügbar</string>
     <string name="all_volume_title">Lautstärke</string>
-    <string name="allow">Zulassen</string>
+    <string name="allow">Erlauben</string>
     <string name="allow_all_rotations_title">Alle Drehungen zulassen</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Nach Erstellung des Widgets hat %1$s Zugriff auf alle von ihm angezeigten Daten</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>

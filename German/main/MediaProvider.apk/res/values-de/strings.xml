@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>>
-    <string name="allow">Zulassen</string>
+    <string name="allow">Erlauben</string>
     <string name="app_label">Medienspeicher</string>
     <string name="artist_label">Künstler</string>
     <string name="cache_clearing_dialog_text">%s würde gerne einige temporäre Dateien löschen. Dies kann zu einer erhöhten Nutzung des Akkus oder der Mobilfunkdaten führen.</string>

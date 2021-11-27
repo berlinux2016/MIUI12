@@ -54,7 +54,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="afternoon">Nachmittag</string>
     <string name="all_resources">Alle</string>
     <string name="all_ringtone_resource">Alle</string>
-    <string name="allow">Gewährt</string>
+    <string name="allow">Erlauben</string>
     <string name="already_latest_version">Aktuell</string>
     <string name="already_newest_version">Aktuelle Version ist auf dem neuesten Stand</string>
     <string name="anonymous_resource_link_error">Hinzufügen nicht möglich</string>
