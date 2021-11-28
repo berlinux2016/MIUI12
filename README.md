@@ -9,9 +9,9 @@ This repository contains the german translation of the MIUI V12/12.6 Weekly ROM 
 
 All strings were translated by the community - special thanks go to:
 
-Sorted in alphabetical order
+Sorted by activity
 
-Benny1995, berlinux2016, bReathl3sS, cpu82, energY8989, FireEmerald, he-leon, Hen Ry [DE], ingbrzy, jnsfe, johndebur, lynx7, malchik-solnce, muhamed89, MeiGuddet, pareh, reflexxx, ScratchBuild, vivanco-vivanco, Wackelblume, WorXeN, wpm936 and more..!
+@Henry2o1o, @MeiGuddet, @WorXeN, @ingbrzy, @berlinux2016, @ScratchBuild, @malchik-solnce, @pareh, @lynx7, @cp82, @energY8989, @BodoTh, @aaf-caliban, @EdlerProgrammierer, @ReeCorDs, @Syrrr, @FireEmerald, @he-leon, @danielchc, @vivanco-vivanco, @darosto
 
 ## Reporting issues
 
