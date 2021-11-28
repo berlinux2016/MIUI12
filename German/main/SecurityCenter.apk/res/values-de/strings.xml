@@ -4565,7 +4565,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="summary_cloud_space_almost_full">Speicherplatz kaufen</string>
     <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und Zugang zu weiteren Funktionen</string>
     <string name="summary_cmcc_app_check">Einige Apps wurden nicht geprüft</string>
-    <string name="summary_condition_charge_to_target">Wenn der Akku bis zum eingestellten Wert geladen ist</string>
+    <string name="summary_condition_charge_to_target">Wenn der Akku bis zum eingestellten\nWert geladen ist</string>
     <string name="summary_condition_charge_to_target_percent">Wenn der Akku bis %d %% geladen ist</string>
     <string name="summary_condition_close_absorbed_mode">Nach dem Ausschalten des Fokusmodus</string>
     <string name="summary_condition_in_charge">Beim Laden</string>
@@ -4573,7 +4573,7 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="summary_condition_missing_call">Verpasster Anruf</string>
     <string name="summary_condition_no_in_charge">Wenn nicht geladen wird</string>
     <string name="summary_condition_open_absorbed_mode">Nach dem Einschalten des Fokusmodus</string>
-    <string name="summary_condition_reduce_to_target">Wenn der Akku den eingestellten Wert erreicht hat</string>
+    <string name="summary_condition_reduce_to_target">Wenn der Akku den eingestellten Wert\nerreicht hat</string>
     <string name="summary_condition_reduce_to_target_percent">Wenn der Akku bei %d %% ist</string>
     <string name="summary_condition_scan_rubbish">Bereinigung</string>
     <string name="summary_condition_scan_virus">Virenscan</string>
