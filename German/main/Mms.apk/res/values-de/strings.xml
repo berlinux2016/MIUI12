@@ -1092,7 +1092,7 @@ Schauen Sie sich die empfohlenen an!"</string>
     <string name="select_top_text">Text oben</string>
     <string name="send">Senden</string>
     <string name="send_message_dlg_check_hint">Nicht mehr anzeigen</string>
-    <string name="send_message_dlg_mgs">CMCC Hinweis: Um den kostenlosen Postservice anbieten zu können, müssen wir Ihr Gerät in der Geräteverwaltung anmelden (Postservice ist eine Plattform von CMCC, der die Endgeräte verwaltet. Es unterstützt Remoteeinstellungen und App-Aktualisierungen). Zur Registrierung wird eine kostenlose SMS mit Geräteinformationen gesendet. Die SMS wird einmalig gesendet und enthält kein personenbezogenen Daten (Nicht aus HongKong, Macao, Taiwan und während internationalem Roaming senden). Wählen Sie OK, um der Registrierung zuzustimmen. Wählen Sie \"Abbrechen\" wenn Sie den Service von CMCC nicht verwenden möchten.</string>
+    <string name="send_message_dlg_mgs">CMCC-Hinweis: Wir müssen Ihr Gerät in unserer Geräteverwaltungsplattform registrieren, um Ihnen kostenlosen Kundendienst und Support anbieten zu können. Diese CMCC-Plattform verwaltet mobile Geräte und ermöglicht Ihnen, Einstellungen zu ändern und Software aus der Ferne zu aktualisieren. Für die Registrierung erhalten Sie eine kostenlose Textnachricht mit den Ihren Geräteinformationen. Die Nachricht wird nur einmal verschickt und enthält keine persönlichen Daten. Diese Nachricht kann nicht von Kunden aus Hongkong, Macao, Taiwan und Übersee gesendet werden. Wählen Sie \"OK\", um zuzustimmen und Ihr Gerät zu registrieren. Wählen Sie \"Abbrechen\", wenn Sie mit den Bedingungen nicht einverstanden sind. In diesem Fall werden Ihnen keine Dienste zur Verfügung gestellt.</string>
     <string name="send_message_dlg_title">Geräteverwaltung</string>
     <string name="send_message_notification_msg">Zum Anzeigen der Details tippen</string>
     <string name="send_message_notification_tickerText">Gerät fordert Berechtigungen an</string>
@@ -1120,7 +1120,7 @@ Schauen Sie sich die empfohlenen an!"</string>
     <string name="show_sender">Absenderinformationen anzeigen</string>
     <string name="sim1">SIM1</string>
     <string name="sim2">SIM2</string>
-    <string name="sim_activation_service_retry_main_purpose">SIM-Aktivierung muss eingeschalten sein, damit Mi Message normal funktioniert. Sie können die SIM-Aktivierung unter Einstellungen > Apps verwalten aktivieren.</string>
+    <string name="sim_activation_service_retry_main_purpose">SIM-Aktivierung muss eingeschaltet sein, damit Mi Message normal funktioniert. Sie können die SIM-Aktivierung unter Einstellungen > Apps verwalten aktivieren.</string>
     <string name="sim_card1">SIM-Karte 1</string>
     <string name="sim_card2">SIM-Karte 2</string>
     <string name="sim_card_cloud">%s (Mi Nachricht)</string>
