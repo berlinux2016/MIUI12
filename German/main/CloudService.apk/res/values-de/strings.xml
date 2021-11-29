@@ -94,8 +94,9 @@
     <string name="dialog_add_shortcut_content">Startbildschirm-Verknüpfung für Xiaomi Cloud hinzufügen, um den Cloud-Speicher effizienter verwalten zu können</string>
     <string name="dialog_add_shortcut_title">Verknüpfung hinzufügen</string>
     <string name="dialog_storage_full_title">Cloud-Speicher ist voll</string>
-    <string name="dialog_storage_low_content">Cloud-Speichertarif aktualisieren, um Elemente normal synchronisieren zu können</string>
+    <string name="dialog_storage_low_content">Cloud-Speichertarif aktualisieren, um mit der Synchronisation von Elöementen fortzufahren.</string>
     <string name="dialog_storage_low_title">Unzureichender Cloud-Speicher</string>
+    <string name="dialog_storage_upgrade_later">Nein danke</string>
     <string name="dialog_title_prompt">Achtung</string>
     <string name="disable_find_device_error">Gerätesuche ausschalten nicht möglich %1$s</string>
     <string name="do_not_merge">Nicht zusammenführen</string>
@@ -665,6 +666,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
     <string name="notification_reinstall_key_text">Identität verifizieren und erneut versuchen</string>
     <string name="notification_sync_fail_title">Passwörter synchronisieren nicht möglich</string>
     <string name="notification_update_key_text">Passwortmanager-Passcode geändert. Prüfen Sie den neuen Passcode.</string>
+    <string name="open_service_title">Einschalten</string>
     <string name="other_sync_item">Andere Inhalte zur Synchronisation</string>
     <string name="pay_info_dialog_confirm_to_pay">%s zahlen</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Verbleibende Mi Coins nutzen: %s</string>
