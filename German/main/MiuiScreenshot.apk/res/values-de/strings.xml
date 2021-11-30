@@ -25,6 +25,7 @@
     <string name="app_name">Bildschirmfoto</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Zum Speichern von Screenshots</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="early_morning">Morgen</string>
@@ -61,6 +62,7 @@
     <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
     <string name="long_screenshot_guide_text">"Hier tippen, um einen
 Screenshot mit Bildlauf zu erstellen"</string>
+    <string name="long_screenshot_intercepted_error">Screenshot wurde nicht erstellt. Erneut versuchen.</string>
     <string name="long_screenshot_out_of_memory_error">Bild ist zu groß</string>
     <string name="long_screenshot_processing">Verarbeiten…</string>
     <string name="long_screenshot_stop">Fertig</string>

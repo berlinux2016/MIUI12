@@ -1642,6 +1642,8 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="other_album_operation_remove_from_other_albums">Wiederherstellen</string>
     <string name="other_settings">Weitere Einstellungen</string>
     <string name="owner_album_subtitle">Geteilt mit %1$s Benutzern</string>
+    <string name="pc_redmi_device_model_name">Redmi-Laptop</string>
+    <string name="pc_xiaomi_device_model_name">Xiaomi-Laptop</string>
     <string name="people_album_empty_title">Fotos können nach Personen sortiert werden</string>
     <string name="people_jump_failed">Warten, bis Fotos mit Personen mit der Cloud synchronisiert sind und erneut versuchen</string>
     <string name="people_mark_mode_title">\"%s\" auswählen</string>
