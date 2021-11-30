@@ -4662,6 +4662,11 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="sys_app_prot_cracked_confirm">Verstanden</string>
     <string name="sys_cpu_title">CPU-Nutzung</string>
     <string name="sys_freememory_title">Verfügbar</string>
+    <string name="system_anti_fraud_dialog_confirm_btn_txt">Verstanden</string>
+    <string name="system_anti_fraud_dialog_content">Anscheinend haben Sie gerade einen betrügerischen Anruf oder eine Nachricht erhalten. Die Fortsetzung dieser Zahlung kann zu finanziellen Verlusten führen.</string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font color=#747474>Wenn Kundendienstmitarbeiter, Behörden oder Ihnen bekannte Personen Sie auffordern, diese Zahlung durchzuführen, &lt;/font>&lt;font color=#F22424>prüfen Sie deren Identität, bevor Sie fortfahren.&lt;/font></string>
+    <string name="system_anti_fraud_dialog_image_txt">Schutz vor Betrug</string>
+    <string name="system_anti_fraud_dialog_title">Warnung vor Betrug</string>
     <string name="system_app">System-Apps</string>
     <string name="system_app_permission_instruction">Diese App benötigt die folgenden Berechtigungen, um grundlegende Systemdienste bereitzustellen. Die Verwaltung von Berechtigungen ist für diese App eingeschränkt, da eine Änderung des Berechtigungsstatus zu Anomalien im Systembetrieb führen kann.</string>
     <string name="system_application">System-Apps</string>
