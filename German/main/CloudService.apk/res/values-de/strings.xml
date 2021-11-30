@@ -94,7 +94,7 @@
     <string name="dialog_add_shortcut_content">Startbildschirm-Verknüpfung für Xiaomi Cloud hinzufügen, um den Cloud-Speicher effizienter verwalten zu können</string>
     <string name="dialog_add_shortcut_title">Verknüpfung hinzufügen</string>
     <string name="dialog_storage_full_title">Cloud-Speicher ist voll</string>
-    <string name="dialog_storage_low_content">Cloud-Speichertarif aktualisieren, um mit der Synchronisation von Elöementen fortzufahren.</string>
+    <string name="dialog_storage_low_content">Cloud-Speichertarif aktualisieren, um mit der Synchronisation von Elementen fortzufahren.</string>
     <string name="dialog_storage_low_title">Unzureichender Cloud-Speicher</string>
     <string name="dialog_storage_upgrade_later">Nein danke</string>
     <string name="dialog_title_prompt">Achtung</string>
