@@ -65,8 +65,10 @@ Screenshot mit Bildlauf zu erstellen"</string>
     <string name="long_screenshot_intercepted_error">Screenshot wurde nicht erstellt. Erneut versuchen.</string>
     <string name="long_screenshot_out_of_memory_error">Bild ist zu groß</string>
     <string name="long_screenshot_processing">Verarbeiten…</string>
+    <string name="long_screenshot_processing_description_accessibility">Verarbeitung</string>
     <string name="long_screenshot_stop">Fertig</string>
     <string name="long_screenshot_top_msg">Screenshot erstellen…</string>
+    <string name="long_screenshot_top_msg_description_accessibility">Screenshot erstellen</string>
     <string name="long_screenshot_top_msg_manual">Screenshot zurechtschneiden und zum Abschließen Taste drücken</string>
     <string name="memory_leak">Speicherleck</string>
     <string name="midnight">Nacht</string>
