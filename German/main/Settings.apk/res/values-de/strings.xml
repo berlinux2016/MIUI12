@@ -3448,6 +3448,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
     <string name="enterprise_privacy_settings_summary_with_name">Von %s verwaltete Änderungen &amp; Einstellungen</string>
     <string name="enterprise_privacy_usage_stats">Zeit- und Datenaufwand pro App</string>
     <string name="enterprise_privacy_wipe_device">Admin kann alle Gerätedaten löschen</string>
+    <string name="environmental_speech_recognition">Umgebungsgeräusche erkennen</string>
     <string name="eq_auto">Benutzerdefiniert</string>
     <string name="eq_cancel">Abbrechen</string>
     <string name="eq_classical">Klassik</string>
