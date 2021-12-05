@@ -1639,7 +1639,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="operation_unforce_top">Lösen</string>
     <string name="operation_unhide">Anzeigen</string>
     <string name="operation_video_compress">Video komprimieren</string>
-    <string name="operation_watermark">Schutzwasserzeichen</string>
+    <string name="operation_watermark">Wasserzeichenschutz</string>
     <string name="orientation_lock_tip">Ausrichtung fixiert</string>
     <string name="orientation_unlock_tip">Automatisch drehen aktiviert</string>
     <string name="origin_gif_name">Originaldatei</string>
@@ -1734,7 +1734,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Anscheinend sind Sie nicht mit WLAN verbunden. %1$d MB an mobilen Daten verwenden, um das Plugin herunterzuladen?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Anscheinend sind Sie nicht mit WLAN verbunden. %1$d MB an mobilen Daten verwenden, um das Plugin herunterzuladen?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Plugin herunterladen</string>
-    <string name="photo_editor_privacy_watermark">Schutzwasserzeichen</string>
+    <string name="photo_editor_privacy_watermark">Wasserzeichenschutz</string>
     <string name="photo_editor_remove_watermark">Wasserzeichen entfernen</string>
     <string name="photo_editor_remove_watermark_on">Wasserzeichen hinzufügen</string>
     <string name="photo_editor_remover">Löschen</string>
@@ -2938,7 +2938,7 @@ Umwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum erst
     <string name="vlog_video_trans_code_cons">Importieren…</string>
     <string name="voice_assistant">Spracheingabe</string>
     <string name="watch_all_photo">Galerie</string>
-    <string name="watermark_enter">Schutzwasserzeichen</string>
+    <string name="watermark_enter">Wasserzeichenschutz</string>
     <string name="watermark_summary">Fotos von auf diesem Gerät gespeicherten IDs erkennen und Aufforderungen zum Hinzufügen von Schutzwasserzeichen erhalten</string>
     <string name="watermark_title">Schutzwasserzeichen</string>
     <string name="web_sso_login_fail">Sie müssen sich erneut anmelden</string>
