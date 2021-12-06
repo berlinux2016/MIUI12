@@ -2500,7 +2500,7 @@ UT-Schnittstelle: %5$s"</string>
     <string name="smart_dual_sim_title">Intelligente Dual-SIM</string>
     <string name="smart_forwarding_settings_menu">Intelligente Weiterleitung</string>
     <string name="smart_forwarding_settings_menu_summary">Wenn eine Nummer nicht erreichbar ist, leiten Sie Anrufe immer an Ihre andere Nummer weiter</string>
-    <string name="smart_multinetwork_acceleration_title">Intelligente Multinetzwerkbeschleunigung</string>
+    <string name="smart_multinetwork_acceleration_title">Intelligente Netzwerkbeschleunigung</string>
     <string name="smsc_dialog_message">Achten Sie darauf, dass die von Ihnen eingegebene Nummer korrekt ist. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Mobilfunkanbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
     <string name="softap_beacon_protection">SoftAp Beacon-Schutz aktivieren</string>
     <string name="softap_beacon_protection_summary">SoftAp Beacon-Schutz über Hotspot aktivieren</string>

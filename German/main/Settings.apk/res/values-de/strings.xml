@@ -2849,6 +2849,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="deny">Ablehnen</string>
     <string name="deselect_all">Alle abwählen</string>
     <string name="detail_app_button">App-Info</string>
+    <string name="detailed_wifi_logging_disabled">Detaillierte WLAN-Protokollierung ist aus</string>
+    <string name="detailed_wifi_logging_enabled">Detaillierte WLAN-Protokollierung ist an</string>
     <string name="details_subtitle">Nutzungsdetails</string>
     <string name="details_title">Nutzungsdetails</string>
     <string name="dev_logpersist_clear_warning_message">Wenn wir den permanenten Logger nicht mehr zur Überwachung verwenden, müssen wir die auf Ihrem Gerät gespeicherten Log-Daten löschen.</string>
@@ -5464,6 +5466,7 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
     <string name="memory_usage">Speicherverbrauch</string>
     <string name="memory_usage_apps">Von Apps verwendeter Speicher</string>
     <string name="memory_use_summary">%1$s durchschn. Verbrauch in den letzten 3 Stunden</string>
+    <string name="memorycard_calculating">Berechnen…</string>
     <string name="menu_cancel">Verwerfen</string>
     <string name="menu_check">Erfahrung</string>
     <string name="menu_delete">APN löschen</string>
