@@ -1278,7 +1278,7 @@ Weiterhin zeigen?"</string>
     <string name="input_password_hint_text_v11">Passwort eingeben</string>
     <string name="input_pattern_after_boot_msg">Muster bestätigen ist erforderlich, wenn das Gerät neu gestartet wird</string>
     <string name="input_pattern_after_face_not_allowed">Geben Sie Ihr Passwort mind. einmal alle %d Stunden ein, um dieses Gerät sicher zu halten</string>
-    <string name="input_pattern_after_restart_msg">System-Sicherheitsschutz, bitte Ihr Passwort eingeben</string>
+    <string name="input_pattern_after_restart_msg">Bildschirmsperre bestätigen, um fortzufahren</string>
     <string name="input_pattern_hint_text">Entsperrmuster zeichnen</string>
     <string name="input_pattern_hint_text_v11">Muster zeichnen</string>
     <string name="input_pattern_or_finger_after_face_not_allowed">Geben Sie Ihr Passwort ein oder verwenden Sie Ihren Fingerabdruck mind. einmal alle %d Stunden, um dieses Gerät sicher zu halten</string>
