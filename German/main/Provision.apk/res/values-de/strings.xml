@@ -239,7 +239,7 @@
     <string name="move_data_dialog_use">Nutzen</string>
     <string name="msim_setting_default_data">Daten-SIM</string>
     <string name="msim_setting_default_voice">Standard-SIM für Anrufe</string>
-    <string name="multisim_settings_category">SIM-Karteneinstellungen</string>
+    <string name="multisim_settings_category">SIM-Einstellungen</string>
     <string name="multisim_settings_sb_title">1 SIM-Karte erkannt</string>
     <string name="multisim_settings_title">2 SIM-Karten erkannt</string>
     <string name="navigation_picker_gesture_guide">Gestenanleitung</string>
