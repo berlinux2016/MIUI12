@@ -39,7 +39,7 @@
     </plurals>
     <plurals name="character_pitch_plus">
         <item quantity="other">Vergrößerte Zeichenabstände. Zeichenabstand %s.</item>
-        <item quantity="one">Vergrößerter Zeichenabstand Zeichenabstand %s.</item>
+        <item quantity="one">Vergrößerter Zeichenabstand. Zeichenabstand %s.</item>
     </plurals>
     <plurals name="choose_long_gif_limit_toast_tip">
         <item quantity="other">"Wiedergabedauer für Animationen darf %d Sek nicht überschreiten.
