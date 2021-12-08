@@ -28,6 +28,9 @@
     <string name="afternoon">Nachmittag</string>
     <string name="agree_and_continue">Zustimmen</string>
     <string name="agreement_and_privacy_description">Lesen und akzeptieren Sie die Xiaomi Cloud &lt;a href=%1$s>&lt;u>Datenschutzerklärung&lt;/u>&lt;/a> und &lt;a href=%2$s>&lt;u>Nutzervereinbarung&lt;/u>&lt;/a> bevor Sie fortfahren.</string>
+    <string name="alert_sync_data_merge_dialog_title">Elemente werden zusammengeführt</string>
+    <string name="alert_sync_merge_dialog_cancel">Abbrechen</string>
+    <string name="alert_sync_merge_dialog_confirm">Einschalten</string>
     <string name="antispam_sync">\"Bitte nicht stören\"-Einstellungen</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Ungültiges Konto oder Passwort</string>

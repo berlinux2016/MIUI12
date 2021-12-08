@@ -2400,6 +2400,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
     <string name="connected_wifi">Verbunden</string>
     <string name="connecting_to_vpn">Verbindung zum VPN</string>
     <string name="connection_and_sharing">Verbinden &amp; Teilen</string>
+    <string name="connection_control">Verbindungen verwalten</string> 
     <string name="contact_data">Kontakte</string>
     <string name="contact_discovery_opt_in_dialog_message">"Rufnummern Ihrer Kontakte werden in regelmäßigen Abständen an %1$s gesendet.
 
@@ -4481,6 +4482,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="interact_across_profiles_switch_enabled">Verbunden</string>
     <string name="interact_across_profiles_title">Verbundene Arbeits- &amp; persönliche Apps</string>
     <string name="interaction_control_category_title">Interaktionssteuerung</string>
+    <string name="interconnection">Zusammenschaltung</string>
     <string name="interesting_text">Realistische haptische Wahrnehmungen machen Ihre Interaktion mit dem Bildschirm deutlicher und artikulierter.</string>
     <string name="interesting_title">Realistische Berührung</string>
     <string name="internal_memory">Interner Speicher</string>
