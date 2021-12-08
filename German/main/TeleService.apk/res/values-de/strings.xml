@@ -1683,7 +1683,7 @@ Immer diese Nummer verwenden"</string>
     <string name="msim_set_icc_card_error">ICC-Kartenfehler</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Einstellung während eines Anrufs nicht möglich</string>
     <string name="msim_set_sub_not_supported_slot_id_error">SIM-Kartenfehler</string>
-    <string name="msim_setting_categery_title">SIM-Karteneinstellungen</string>
+    <string name="msim_setting_categery_title">SIM-Einstellungen</string>
     <string name="msim_setting_default_data">Daten-SIM</string>
     <string name="msim_setting_default_data_description">%d als Daten-SIM</string>
     <string name="msim_setting_default_voice">Standard für Anrufe</string>
