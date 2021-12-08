@@ -265,7 +265,7 @@ Verbinden Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) m
     <string name="paipai_connect_btn_text">Fertig</string>
     <string name="paipai_connect_tv1_text">Mit Gerät verbunden</string>
     <string name="paipai_connect_tv2_text">Übertragene Daten</string>
-    <string name="paipai_error_dialog_msg">Netzwerkeinstellungen überprüfen und erneut versuchen.</string>
+    <string name="paipai_error_dialog_msg">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="paipai_error_dialog_negative">Verstanden</string>
     <string name="path_setting_cast">Verbinden &amp; Teilen/Übertragen</string>
     <string name="path_setting_cast_demo">Verbinden &amp; Teilen/Übertragen/Demos</string>

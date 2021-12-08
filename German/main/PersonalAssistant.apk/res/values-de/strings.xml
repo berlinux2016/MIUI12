@@ -1886,7 +1886,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
     <string name="order_status_label">Bestellstatus: %1$s</string>
     <string name="order_type_recharge">Aufladen</string>
     <string name="pa_accessibility_picker_back">Zurück</string>
-    <string name="pa_accessibility_picker_search_cancel">Widget-Suchleiste. Doppeltippen zum Abzubrechen.</string>
+    <string name="pa_accessibility_picker_search_cancel">Widget-Suchleiste. Doppeltippen zum Abbrechen.</string>
     <string name="pa_accessibility_picker_search_tips">Widget-Suchleiste. Doppeltippen zum Suchen.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">App-Liste des Widget-Shops. Derzeit sind insgesamt %s Elemente ausgewählt. %s befindet sich im Element %s. Enthält %s Arten von Widgets. Doppeltippen, um die Widget-Einführung aufzurufen</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s ausgewählt.</string>
@@ -1902,7 +1902,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Widget Store. Alle Widgets für %s anzeigen wählen. Doppeltipp, um alle Widgets für %s anzuzeigen.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Widget Store. %s gewählt. Doppeltipp, um %s zu öffnen</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Widget Store. %s gewählt. Ziehen, um dieses Element zu Infoassistent hinzuzufügen. Doppeltipp, um Widget-Details anzuzeigen.</string>
-    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Doppeltippen, um zu bearbeiten.</string>
+    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Doppeltippen zum Bearbeiten</string>
     <string name="pa_app_label">Infoassistent</string>
     <string name="pa_cancel">Abbrechen</string>
     <string name="pa_clear">Bereinigen</string>
@@ -2008,7 +2008,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Rufnummer, wenden Sie si
     <string name="pa_picker_list_app_title">Apps mit Widgets</string>
     <string name="pa_picker_list_load_complete">Tippen, um mehr zu laden</string>
     <string name="pa_picker_list_load_end">Keine Elemente mehr anzeigen</string>
-    <string name="pa_picker_list_load_failed">Elemente laden nicht möglich. Tippen, um es erneut zu versuchen</string>
+    <string name="pa_picker_list_load_failed">Elemente laden nicht möglich. Tippen, um es erneut zu versuchen.</string>
     <string name="pa_picker_list_loading">Einen Moment…</string>
     <string name="pa_picker_loading">Einen Moment…</string>
     <string name="pa_picker_retry">Erneut versuchen</string>

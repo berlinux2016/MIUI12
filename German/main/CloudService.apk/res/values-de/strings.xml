@@ -68,6 +68,7 @@
     <string name="connect_network_china">Mit WLAN verbinden oder SIM-Karte einlegen</string>
     <string name="connect_wlan">Mit WLAN verbinden</string>
     <string name="connect_wlan_china">Mit WLAN verbinden</string>
+    <string name="contact_alert_sync_data_merge_dialog_msg">Wenn Sie die Synchronisation aktivieren, werden die von diesem Gerät hochgeladenen Kontakte mit den in der Cloud gespeicherten Kontakten zusammengeführt. Synchronisation trotzdem einschalten?</string>
     <string name="copy">Kopieren</string>
     <string name="cta_notification_content_text">%s die Internetverbindung erlauben, um Elemente wiederherzustellen</string>
     <string name="cta_notification_content_title">Elemente aus %s wiederherstellen nicht möglich</string>
