@@ -1081,7 +1081,7 @@ dd.MM."</string>
     <string name="time_picker_label_minute">Min</string>
     <string name="toast_ad_down_tip">App herunterladen…</string>
     <string name="toast_ad_down_tip2">%s herunterladen</string>
-    <string name="toast_connect_failed_tip">Verbindung nicht möglich. Einen Moment warten und es erneut versuchen.</string>
+    <string name="toast_connect_failed_tip">Verbindung nicht möglich. Einen Moment warten und erneut versuchen.</string>
     <string name="toast_has_close_gallery">Hintergrundkarussell erfolgreich deaktiviert</string>
     <string name="toast_has_open_gallery">Hintergrundkarussell erfolgreich aktiviert</string>
     <string name="toast_load_failed_tip">Elemente wurden nicht geladen</string>

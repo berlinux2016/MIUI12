@@ -458,8 +458,8 @@ Prüfen Sie Ihre SIM-Karte."</string>
     <string name="message_download_failed_title">Nachricht nicht heruntergeladen</string>
     <string name="message_expired">Abgelaufen</string>
     <string name="message_failed">Fehlgeschlagen</string>
-    <string name="message_failed_and_cotanct_operator">Fehler aufgetreten. <font color="#1c86ee">Ihren Anbieter kontaktieren</font>.</string>
-    <string name="message_failed_and_feedback">Fehler aufgetreten. <font color="#1c86ee">Problem melden</font>.</string>
+    <string name="message_failed_and_cotanct_operator">Ein Fehler ist aufgetreten. <font color="#1c86ee">Anbieter kontaktieren</font>.</string>
+    <string name="message_failed_and_feedback">Ein Fehler ist aufgetreten. <font color="#1c86ee">Problem melden</font>.</string>
     <string name="message_failed_body">Prüfen Sie die Nachricht und versuchen Sie es erneut</string>
     <string name="message_number">Rufnummer:</string>
     <string name="message_pending">Senden</string>
