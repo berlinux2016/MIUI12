@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="other_settings_ad_dialog_content_for_global">Wenn die personalisierten Werbeempfehlungen deaktiviert sind, sehen Sie immer noch die gleiche Menge an Werbung in den MIUI-System-Apps, wie wenn die Funktion aktiviert ist. Die Anzeigen von Xiaomi und Drittanbieter-Plattformen werden jedoch nicht mehr relevant sein, da sie nicht auf Ihren persönlichen Vorlieben basieren.</string>
+    <string name="start_up_slogan_thirteen_china">Wo alle Dinge miteinander verbunden sind</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -368,7 +371,7 @@ Um diese Funktion zu steuern, suchen Sie in den Einstellungen nach \"Nutzung und
     <string name="permission_send_message">SMS senden:</string>
     <string name="permission_use_camera">Kamerazugriff</string>
     <string name="permission_use_camera_camera_summary">Zum Aufnehmen von Fotos und Videos und zur Verwendung des Blitzes</string>
-    <string name="permission_use_camera_desktop_summary">Zur Festlegung, ob die Taschenlampenfunktion unterstützt werden soll;</string>
+    <string name="permission_use_camera_desktop_summary">Zur Festlegung, ob die Lampenfunktion unterstützt werden soll;</string>
     <string name="permission_use_camera_fast_application_summary">Um Quick Apps den Kamerazugriff zu erlauben;</string>
     <string name="permission_use_camera_ims_summary">Für Videoanrufe.</string>
     <string name="permission_use_microphone">Zugriff auf Mikrofon</string>
@@ -564,7 +567,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="start_up_slogan">Nur für Sie allein</string>
+    <string name="start_up_slogan">Wo alle Dinge miteinander verbunden sind</string>
     <string name="summary_not_set">Nicht eingestellt</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>

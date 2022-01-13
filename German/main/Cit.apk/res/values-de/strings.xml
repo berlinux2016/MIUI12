@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="AudioOnOff">\u0009Audio an/aus</string>
     <string name="FpTest">FpTestlauf</string>
     <string name="FpTest_result">FpTestergebnis:</string>
+    <string name="SAROnOff">\u0009SAR an/aus</string>
     <string name="SDCard">SD-Karte</string>
     <string name="SD_INTERNAL_SDCard_mounted">Interne SD-Karte erkennen</string>
     <string name="SD_INTERNAL_SDCard_unmounted">Interne SD-Karte nicht verfügbar</string>
@@ -11,7 +13,7 @@
     <string name="SD_SDCard_unmounted">SD-Karte entfernt</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
@@ -231,7 +233,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
     <string name="cit_charge_usb_dcp">Aufladen: USB_DCP</string>
     <string name="cit_charge_usb_hvdcp">Aufladen: USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Aufladen: USB_PD</string>
-    <string name="cit_charger_check_title">Test Ladegerät</string>
+    <string name="cit_charger_check_title">Ladegerättest</string>
     <string name="cit_charger_in">Ladegerät angeschlossen</string>
     <string name="cit_charger_in_check_title">Ladegerätanschlusstest</string>
     <string name="cit_charger_plugin_check_summary">Wenn das USB-Ladegerät angeschlossen ist, sollte der Text \"Laden über USB/AC\" unten angezeigt werden.</string>
@@ -258,6 +260,8 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
     <string name="cit_diag_signal_title">Signalstabilitäts-Logger auslesen</string>
     <string name="cit_diag_wait">Bitte warten… Dateien kopieren</string>
     <string name="cit_dial_emergencycall">112 wählen</string>
+    <string name="cit_digital_hall_sensor_check_summary">Winkelwert wird unten angezeigt</string>
+    <string name="cit_digital_hall_sensor_check_title">Digitaler Hall-Test</string>
     <string name="cit_display_check_summary">Stellen Sie sicher, dass die Farben über den gesamten Bildschirm gleichmäßig dargestellt werden. Achten Sie darauf, dass es keine unregelmäßigen hellen und dunklen Flecken gibt.</string>
     <string name="cit_display_check_title">Anzeige</string>
     <string name="cit_display_continue">Bildschirm berühren, um den Test zu starten</string>
@@ -564,6 +568,14 @@ Wenn Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, zum Abspiel
     <string name="cit_tool_bluetooth_le_power_run">STARTEN</string>
     <string name="cit_tool_bluetooth_le_rx_4x_channel">Kanal:</string>
     <string name="cit_tool_bluetooth_le_rx_50_channel">Kanal:</string>
+    <string name="cit_tool_bluetooth_le_rx_num">Rx-Paketanzahl:</string>
+    <string name="cit_tool_bluetooth_le_tx_4x_antenna">Antenne:</string>
+    <string name="cit_tool_bluetooth_le_tx_4x_channel">Kanal:</string>
+    <string name="cit_tool_bluetooth_le_tx_4x_payload">Nutzlast:</string>
+    <string name="cit_tool_bluetooth_le_tx_50_antenna">Antenne:</string>
+    <string name="cit_tool_bluetooth_le_tx_50_channel">Kanal:</string>
+    <string name="cit_tool_bluetooth_le_tx_50_payload">Nutzlast:</string>
+    <string name="cit_tool_bluetooth_le_tx_antenna">Antenne:</string>
     <string name="cit_tool_bluetooth_le_tx_channel">Kanal:</string>
     <string name="cit_tool_bluetooth_not_on">Bluetooth ist NICHT aktiviert</string>
     <string name="cit_tool_bluetooth_off">Bluetooth deaktivieren</string>
@@ -712,6 +724,10 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
     <string name="cit_torch_off">Blitzlicht ausschalten</string>
     <string name="cit_torch_on">Blitzlicht einschalten</string>
     <string name="cit_torch_second">Der zweite Blitz</string>
+    <string name="cit_touch_auto_main_tips">Selbsttest Startbildschirm läuft, bitte den Bildschirm nicht berühren</string>
+    <string name="cit_touch_auto_operate_expand_screen_tips">Bitte erst den Bildschirm erweitern und dann den Selbsttest des Hauptbildschirms durchführen</string>
+    <string name="cit_touch_auto_operate_fold_screen_tips">Bitte erst den Bildschirm falten und dann den Selbsttest des zweiten Bildschirms durchführen</string>
+    <string name="cit_touch_auto_vice_tips">Selbsttest des Unterbildschirms läuft, bitte den Bildschirm nicht berühren</string>
     <string name="cit_touch_calib_fail">Touch-Kalibrierung fehlgeschlagen, bitte erneut versuchen</string>
     <string name="cit_touch_calib_instruction">Kalibrierung starten</string>
     <string name="cit_touch_calib_pass">Touch-Kalibrierung bestanden, bitte normal verwenden</string>
@@ -794,6 +810,18 @@ Bestätigen Sie, dass die Farben auf dem gesamten Bildschirm einheitlich dargest
     <string name="dispaly_sar_sensor_values">Alle aktuellen Sensorwerte anzeigen</string>
     <string name="display_test_finish">Bildschirmtest abgeschlossen</string>
     <string name="dsi_sar_on_off_tips">DSI SAR Ein/Aus-Schalter</string>
+    <string name="edittextdisplay">"
+\u0009\u0009\u0009Willkommen bei SAR-Tool !
+
+\u0009\u0009\u0009Alle Berechtigungen wurden aktiviert
+\u0009\u0009\u0009SAR-Schalter ist aus, bitte manuell einschalten
+\u0009\u0009\u0009SAR gesperrt, bitte DSI-Wert einstellen"</string>
+    <string name="edittextdisplayf">"
+\u0009\u0009\u0009Berechtigungen wurden eingeschränkt
+
+\u0009\u0009Stellen Sie sicher, dass die xml-Datei im internen
+\u0009\u0009\u0009Netzwerk und im Antwortpfad übergeben wird:
+\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
     <string name="enrol">Registrieren</string>
     <string name="error">Fehler</string>
     <string name="error_app_internal">Interner App-Fehler</string>

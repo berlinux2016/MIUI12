@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="fiveg_switch_per_slot_summary">5G nutzen, um die Geschwindigkeit der mobilen Datenverbindung zu erhöhen</string>
+
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Firmen-PIN entsperren</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Firmenentsperrung nicht erfolgreich</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM Firmenentsperrung anfragen…</string>
@@ -111,7 +113,7 @@
     <string name="Result_title">Ergebnis</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
@@ -594,7 +596,7 @@ Abtastrate"</string>
     <string name="call_record_auto_whitelist_no_item">Drücken Sie die (+) Taste, um eine Nummer hinzuzufügen</string>
     <string name="call_record_loading_content">Laden…</string>
     <string name="call_record_off_summary">Aus</string>
-    <string name="call_record_on_summary">Ein</string>
+    <string name="call_record_on_summary">AN</string>
     <string name="call_record_setting">Anrufaufnahme</string>
     <string name="call_record_whitelist_custom">Ausgewählte Nummern</string>
     <string name="call_recording_notification_message">Tippen zum Anhören</string>
@@ -1010,7 +1012,7 @@ Mobile Daten trotzdem nutzen?"</string>
     <string name="emergency_information_confirm_hint">Erneut tippen, um Infos anzuzeigen</string>
     <string name="emergency_information_hint">Notfallinformation</string>
     <string name="emergency_information_owner_hint">Besitzer</string>
-    <string name="emergency_medical_records">Krankenakte</string>
+    <string name="emergency_medical_records">Medizinische Unterlagen</string>
     <string name="emm_cause_11">Aktueller Anbieter unterstützt diesen Dienst nicht.</string>
     <string name="emm_cause_14">Aktueller Anbieter unterstützt keine mobilen Datendienste.</string>
     <string name="emm_cause_2">Rufnummer wurde nicht registriert. Gerät ausschalten, wieder einschalten und erneut versuchen.</string>
@@ -1406,7 +1408,7 @@ Sie können weiterhin Notrufe tätigen."</string>
     <string name="lable_all_outgoing_international">Internationale ausgehende Anrufe</string>
     <string name="lable_call_barring">Anrufsperre</string>
     <string name="lable_disable">Aus</string>
-    <string name="lable_enable">Ein</string>
+    <string name="lable_enable">AN</string>
     <string name="lable_incoming_calls_except">Eingehende Anrufe bei Roaming</string>
     <string name="lable_network_not_supported">Netzwerk wird nicht unterstützt</string>
     <string name="lafs_disable">Lokale Flugpläne ausgeschaltet</string>
@@ -1496,7 +1498,7 @@ Notrufe sind nur in Gebieten mit Mobilfunkversorgung möglich."</string>
     <string name="menu_dial_string">Anruf</string>
     <string name="menu_edit">Kontakt bearbeiten</string>
     <string name="menu_new_display_open">In neuem Fenster öffnen</string>
-    <string name="menu_pc_open">Mit Computerprogramm öffnen</string>
+    <string name="menu_pc_open">Am PC öffnen</string>
     <string name="messageCFB">Nummer falls besetzt</string>
     <string name="messageCFNRc">Nummer nicht erreichbar</string>
     <string name="messageCFNRc_kr_kt">"Netzdienst, der alle eingehenden Anrufe und Textnachrichten an eine bestimmte Nummer umleitet, wenn Sie keine Anrufe annehmen können (z. B. wenn Sie telefonieren oder Ihr Gerät ausgeschaltet ist). Sie müssen diesen Dienst abonnieren. Wenden Sie sich ans Kundenzentrum (114+[Senden]), um diesen Dienst zu abonnieren oder abzubestellen. *72+[Nummer zur Weiterleitung von Anrufen an][Senden] eingeben zum Aktivieren oder *720[Senden] zum Deaktivieren.

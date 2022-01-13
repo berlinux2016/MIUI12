@@ -1,11 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="deferred_setup_hintViewTitle">Prüfen…</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Ecke ziehen, um eine App zu minimieren</string>
+    <string name="headset_ambient_sound">Umgebungsgeräusche</string>
+    <string name="multi_window_cvw_summary_global">Ecke ziehen, um zu einem Popup zu wechseln und dessen Größe anzupassen</string>
+    <string name="string_KB_per_log_buffer">%d KB per pro Log-Puffer</string>
+    <string name="string_MB_per_log_buffer">%d MB pro Log-Puffer</string>
+    <string name="string_off">Aus</string>
+    <string name="string_offed">AN</string>
+
     <string name="Accounts_settings_title">Konten</string>
     <string name="Data_set">"Daten: "</string>
     <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
@@ -38,6 +47,7 @@
     <string name="abc_slices_permission_request">%1$s möchte %2$s Teile anzeigen</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="about_ad_service_instructions">Über Werbedienste und Datenschutz</string>
+    <string name="about_ad_service_instructions_for_global">Über Werbedienste und Datenschutz in MIUI-System-Apps</string>
     <string name="about_phone_device_name_warning">Ihr Gerätename ist für Apps auf Ihrem Telefon sichtbar. Er kann auch von anderen Personen gesehen werden, wenn Sie sich mit Bluetooth-Geräten verbinden oder einen WLAN-Hotspot einrichten.</string>
     <string name="about_phone_enter_xiaomi_net">Mehr erfahren</string>
     <string name="about_settings">Über das Telefon</string>
@@ -77,16 +87,10 @@
     <string name="accessibility_autoclick_shorter_desc">Kürzer</string>
     <string name="accessibility_back">Zurück</string>
     <string name="accessibility_banner_message_dismiss">Verwerfen</string>
-    <string name="accessibility_button_description">"Eingabehilfen können von jedem Bildschirm aus schnell genutzt werden.
-
-Gehen Sie dazu zu den Eingabehilfeneinstellungen und wählen Sie eine Funktion. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfentaste aus."</string>
+    <string name="accessibility_button_description">"Eingabehilfen können von jedem Bildschirm aus schnell genutzt werden.\n\nGehen Sie dazu zu den Eingabehilfeneinstellungen und wählen Sie eine Funktion. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfentaste aus."</string>
     <string name="accessibility_button_fade_summary">Blendet nach ein paar Sekunden aus, damit man den Bildschirm besser sehen kann</string>
     <string name="accessibility_button_fade_title">Ausblenden bei Nichtgebrauch</string>
-    <string name="accessibility_button_gesture_description">"Barrierefreie Funktionen sind von jedem Bildschirm aus schnell zugänglich.
-
-Gehen Sie zu den Eingabehilfen-Einstellungen und wählen Sie eine Funktion aus. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfetaste.
-
-Um stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wechseln Sie zur 2- oder 3-Tasten-Navigation."</string>
+    <string name="accessibility_button_gesture_description">"Barrierefreie Funktionen sind von jedem Bildschirm aus schnell zugänglich.\n\nGehen Sie zu den Eingabehilfen-Einstellungen und wählen Sie eine Funktion aus. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfetaste.\n\nUm stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wechseln Sie zur 2- oder 3-Tasten-Navigation."</string>
     <string name="accessibility_button_gesture_title">Eingabehilfentaste &amp; -geste</string>
     <string name="accessibility_button_high_label">Nicht transparent</string>
     <string name="accessibility_button_intro">Eingabehilfentaste verwenden. Die Geste ist bei der 3-Tasten-Navigation nicht verfügbar.</string>
@@ -106,9 +110,7 @@ Um stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wech
     <string name="accessibility_category_work">Arbeitsprofilkonten - %s</string>
     <string name="accessibility_clear">Löschen</string>
     <string name="accessibility_close_tab">Aktuellen Tab schließen</string>
-    <string name="accessibility_control_timeout_preference_summary">"Wählen Sie, wie lange Nachrichten angezeigt werden sollen, die Sie auffordern, Maßnahmen zu ergreifen, aber nur vorübergehend sichtbar sind.
-
-Nicht alle Apps unterstützen diese Einstellung."</string>
+    <string name="accessibility_control_timeout_preference_summary">"Wählen Sie, wie lange Nachrichten angezeigt werden sollen, die Sie auffordern, Maßnahmen zu ergreifen, aber nur vorübergehend sichtbar sind.\n\nNicht alle Apps unterstützen diese Einstellung."</string>
     <string name="accessibility_control_timeout_preference_title">Zeit zum Handeln</string>
     <string name="accessibility_daltonizer_master_switch_title">Farbkorrektur verwenden</string>
     <string name="accessibility_daltonizer_primary_switch_title">Farbkorrektur verwenden</string>
@@ -138,8 +140,7 @@ Nicht alle Apps unterstützen diese Einstellung."</string>
 Falls das Gerät mehrere Benutzer hat, werden die Eingabehilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre solange aktiviert, bis das Gerät entsperrt ist."</string>
     <string name="accessibility_global_gesture_preference_summary_off">Aus</string>
     <string name="accessibility_global_gesture_preference_summary_on">An</string>
-    <string name="accessibility_global_gesture_preference_title">"Eingabehilfen-
-verknüpfung"</string>
+    <string name="accessibility_global_gesture_preference_title">"Eingabehilfen-\Nverknüpfung"</string>
     <string name="accessibility_haptic">Eingabehilfen</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s aktuell aktiv</string>
     <string name="accessibility_hearingaid_adding_summary">Hörgerät hinzufügen</string>
@@ -166,20 +167,18 @@ verknüpfung"</string>
     <string name="accessibility_magnification_mode_dialog_title">Wählen, wie vergrößert werden soll</string>
     <string name="accessibility_magnification_mode_title">Vergrößerungsbereich</string>
     <string name="accessibility_magnification_service_settings_title">Vergrößerungseinstellungen</string>
-    <string name="accessibility_magnification_switch_shortcut_message">"Vergrößerung des Teilbildschirms durch Dreifach-Tipp verursacht Verzögerungen beim Tippen und anderen Dingen.
-
-Die Eingabehilfentaste schwebt auf Ihrem Bildschirm über anderen Apps. Antippen zum Vergrößern."</string>
+    <string name="accessibility_magnification_switch_shortcut_message">Vergrößerung des Teilbildschirms durch Dreifachtippen verursacht Verzögerungen beim Tippen und anderen Dingen.\n\nDie Eingabehilfentaste schwebt auf Ihrem Bildschirm über anderen Apps. Antippen zum Vergrößern.</string>
     <string name="accessibility_magnification_switch_shortcut_negative_button">Dreifach-Tipp verwenden</string>
     <string name="accessibility_magnification_switch_shortcut_positive_button">Auf Eingabehilfentaste umschalten</string>
     <string name="accessibility_magnification_switch_shortcut_title">Auf Eingabehilfentaste umschalten?</string>
     <string name="accessibility_manual_zen_less_time">Weniger Zeit</string>
     <string name="accessibility_manual_zen_more_time">Mehr Zeit</string>
-    <string name="accessibility_menu_description">"Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.
-
-Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen."</string>
+    <string name="accessibility_menu_description">Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.\n\nSchalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen.</string>
+    <string name="accessibility_menu_description_pad">Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.\n\nSchalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen.</string>
     <string name="accessibility_menu_item_settings">Einstellungen</string>
     <string name="accessibility_menu_service_name">Menü Eingabehilfen</string>
     <string name="accessibility_menu_summary">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</string>
+    <string name="accessibility_menu_summary_pad">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</string>
     <string name="accessibility_more_settings">Weitere Einstellungen</string>
     <string name="accessibility_no_calling">Keine Anrufe</string>
     <string name="accessibility_no_data">Keine Daten</string>
@@ -187,8 +186,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
     <string name="accessibility_no_service_selected">Kein Dienst gewählt</string>
     <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
     <string name="accessibility_no_wifi">WLAN getrennt</string>
-    <string name="accessibility_notification_vibration_title">"Klingeln &amp; vibrieren
-bei Benachrichtigung"</string>
+    <string name="accessibility_notification_vibration_title">"Klingeln &amp; vibrieren\nbei Benachrichtigung"</string>
     <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
     <string name="accessibility_phone_one_bar">Telefonie 1 Balken</string>
     <string name="accessibility_phone_signal_full">Telefonie volles Signal</string>
@@ -421,7 +419,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern hochwischen und halten."</str
     <string name="adaptive_brightness_main_switch_title">Adaptive Helligkeit verwenden</string>
     <string name="adaptive_connectivity_summary">Verlängert die Akkulaufzeit und verbessert die Geräteleistung durch automatische Verwaltung der Netzwerkverbindungen</string>
     <string name="adaptive_connectivity_switch_off">Aus</string>
-    <string name="adaptive_connectivity_switch_on">Ein</string>
+    <string name="adaptive_connectivity_switch_on">AN</string>
     <string name="adaptive_connectivity_title">Adaptive Konnektivität</string>
     <string name="adaptive_sleep_camera_lock_summary">Kamera muss für Screen Attention entsperrt sein</string>
     <string name="adaptive_sleep_contextual_slice_summary">Bildschirm beim Betrachten eingeschaltet lassen</string>
@@ -664,6 +662,8 @@ benachrichtigungen erlauben"</string>
     <string name="aod_style_description">Uhr, Datum, Zeit, Benachrichtigungen etc. anzeigen bei Bildschirm aus</string>
     <string name="aod_style_title">Stil</string>
     <string name="aod_to_close">Ausschalten</string>
+    <string name="ap_connect_failed">Verbindung fehlgeschlagen</string>
+    <string name="ap_connected_battery_level">" | Akku %1$s"</string>
     <string name="apn_auth_type">Authentifizierungstyp</string>
     <string name="apn_auth_type_none">Keine</string>
     <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
@@ -894,7 +894,11 @@ benachrichtigungen erlauben"</string>
     <string name="auto_clean_description">"Über diese Funktion:
 1. Führen Sie diese Funktion ein- oder zweimal aus, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist.
 2. Wenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5 mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln."</string>
+    <string name="auto_clean_description_pad">"Über diese Funktion:
+- Führen Sie diese Funktion ein- oder zweimal aus, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist.
+- Wenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion %1$d-%2$d-mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln."</string>
     <string name="auto_clean_summary">Ein 30-Sekunden-Audio abspielen, um den Lautsprecher zu reinigen</string>
+    <string name="auto_clean_summary_new">Einen %d-Sekundenton abspielen, um den Lautsprecher zu reinigen. Funktion mehrmals hintereinander verwenden, um größere Mengen von Schmutz zu entfernen.</string>
     <string name="auto_clean_title">Lautsprecher reinigen</string>
     <string name="auto_connect_disable">Auto-Verbinden ist aus</string>
     <string name="auto_disable_broadcast_audio">Automatisches Ausschalten des Rundfunks</string>
@@ -934,7 +938,7 @@ benachrichtigungen erlauben"</string>
     <string name="auto_sync_account_title">Daten automatisch synchronisieren</string>
     <string name="auto_sync_personal_account_title">Private Daten automatisch synchronisieren</string>
     <string name="auto_sync_work_account_title">Arbeitsdaten automatisch synchronisieren</string>
-    <string name="auto_task_operation_close">Schließen</string>
+    <string name="auto_task_operation_close">Ausschalten</string>
     <string name="autofill_app">Automatisches Ausfüllen</string>
     <string name="autofill_confirmation_message">&lt;b>Stellen Sie sicher, dass Sie dieser App vertrauen.&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> verwendet alles auf Ihrem Bildschirm, um festzustellen, was automatisch ausgefüllt werden kann.</string>
     <string name="autofill_keywords">automatisch, ausfüllen, automatisch ausfüllen</string>
@@ -1110,7 +1114,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="battery_desc_bluetooth">Akkuverbrauch durch Bluetooth</string>
     <string name="battery_desc_camera">Akkuverbrauch durch Kamera</string>
     <string name="battery_desc_display">Akkuverbrauch durch Bildschirm und Beleuchtung</string>
-    <string name="battery_desc_flashlight">Akkuverbrauch durch die Taschenlampe</string>
+    <string name="battery_desc_flashlight">Akkuverbrauch durch die Lampe</string>
     <string name="battery_desc_overcounted">Überzählter Stromverbrauch</string>
     <string name="battery_desc_radio">Akkuverbrauch durch Mobilfunk</string>
     <string name="battery_desc_standby">Akkuverbrauch im Ruhezustand</string>
@@ -1218,7 +1222,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="battery_stats_camera_on_label">Kamera ein</string>
     <string name="battery_stats_charging_label">Laden</string>
     <string name="battery_stats_duration">%1$s seit Stromtrennung</string>
-    <string name="battery_stats_flashlight_on_label">Taschenlampe ein</string>
+    <string name="battery_stats_flashlight_on_label">Lampe ein</string>
     <string name="battery_stats_gps_on_label">GPS aktiv</string>
     <string name="battery_stats_on_battery">%1$s mit Akku</string>
     <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
@@ -1469,7 +1473,7 @@ Sie haben sich noch nicht mit %2$s verbunden."</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Neu starten</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Gerät neu starten, um diese Einstellung zu ändern</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Gerät neu starten?</string>
-    <string name="bluetooth_disable_absolute_volume">Absolute Volume deaktivieren</string>
+    <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
     <string name="bluetooth_disable_absolute_volume_summary">Absolute Lautstärke für Bluetooth deaktivieren im Falle von Lautstärkeproblemen mit Remote-Geräten, wie z. B. inakzeptabel laute Lautstärke oder fehlende Kontrollmöglichkeit.</string>
     <string name="bluetooth_disable_inband_ringing">In-Band Klingeln deaktivieren</string>
     <string name="bluetooth_disable_inband_ringing_summary">Keine benutzerdefinierten Klingeltöne auf Bluetooth-Headsets abspielen.</string>
@@ -2151,6 +2155,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
     <string name="clear_all_data">Alle Daten löschen</string>
     <string name="clear_cache_btn_text">Cache leeren</string>
     <string name="clear_data_alert_info">Alle auf diesem Gerät gespeicherten Sicherungen werden endgültig gelöscht. Sichern Sie wichtige Elemente auf Ihrem Computer und in der Xiaomi Cloud, bevor Sie einen Werksreset durchführen.</string>
+    <string name="clear_data_alert_info_pad">Alle auf diesem Gerät gespeicherten Sicherungen werden endgültig gelöscht. Sichern Sie wichtige Elemente auf Ihrem Computer und in der Xiaomi Cloud, bevor Sie fortfahren.</string>
     <string name="clear_data_dlg_text">Alle Daten dieser App werden endgültig gelöscht. Dazu zählen alle Dateien, Einstellungen, Konten, Datenbanken usw.</string>
     <string name="clear_data_dlg_title">App-Daten löschen?</string>
     <string name="clear_data_failed">App-Daten können nicht gelöscht werden</string>
@@ -2225,7 +2230,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
     <string name="color_game_led_dialog_freq">Sekunden</string>
     <string name="color_game_led_end_time">Ende</string>
     <string name="color_game_led_feature_off">Aus</string>
-    <string name="color_game_led_feature_on">Ein</string>
+    <string name="color_game_led_feature_on">AN</string>
     <string name="color_game_led_freq">%s Sek</string>
     <string name="color_game_led_freq_entries">Alle %d Sek</string>
     <string name="color_game_led_freq_title">Frequenz</string>
@@ -2619,7 +2624,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
     <string name="dark_ui_summary_on_auto_mode_custom">Wird automatisch um %1$s deaktiviert</string>
     <string name="dark_ui_summary_on_auto_mode_never">Wird nie automatisch deaktiviert</string>
     <string name="dark_ui_text">Beim dunklen Design ist der Hintergrund schwarz, damit Ihr Akku länger hält. Zeitpläne für das dunkle Design werden erst aktiviert, wenn der Bildschirm aus ist.</string>
-    <string name="dark_ui_title">Dunkler Modus</string>
+    <string name="dark_ui_title">Dark Mode</string>
     <string name="dark_wallpaper_mode">Hintergrundbild an den Dark Mode anpassen</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Zuklappen</string>
     <string name="dashboard_title">Einstellungen</string>
@@ -2965,8 +2970,10 @@ Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese App."</st
     <string name="dialog_softbank_esime_context">Dieses Gerät benötigt eine Internetverbindung, um die eSIM aktivieren zu können. Auch die eSIM-Aktivierung überspringen?</string>
     <string name="dialog_softbank_esime_title">eSIM-Aktivierung überspringen</string>
     <string name="dialog_speaker_auto_clean_button">Verstanden</string>
-    <string name="dialog_speaker_auto_clean_content">Reinigung dauert 30 Sekunden. Diese Seite nicht verlassen. Klanglautstärke für den besten Effekt maximieren.</string>
+    <string name="dialog_speaker_auto_clean_content">Reinigung dauert 30 Sekunden. Diese Seite nicht verlassen. Lautstärke für besten Effekt auf Maximum stellen.</string>
+    <string name="dialog_speaker_auto_clean_content_new">Jetzt den Ton abspielen, der den Lautsprecher reinigt. Lautstärke für besten Effekt auf Maximum stellen.</string>
     <string name="dialog_speaker_auto_clean_title">Achtung</string>
+    <string name="dialog_speaker_auto_clean_title_new">Lautsprecher reinigen</string>
     <string name="dialog_stop_message">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s Ihr Telefon aktiv hält.
 
 Um dieses Problem zu beheben, stoppen Sie die App.
@@ -3211,7 +3218,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
     <string name="dual_wifi_avaliable_slave_wifi_5G">Verfügbare Hilfsnetzwerke (5-GHz-Band)</string>
     <string name="dual_wifi_enabler_summary">WLAN-Geschwindigkeit durch Kombination von Netzwerken erhöhen</string>
     <string name="dual_wifi_off">Aus</string>
-    <string name="dual_wifi_on">Ein</string>
+    <string name="dual_wifi_on">AN</string>
     <string name="dual_wifi_primary_wifi_connected">Haupt-WLAN</string>
     <string name="dual_wifi_slave_wifi_connected">Hilfs-WLAN</string>
     <string name="dual_wifi_summary">WLAN-Geschwindigkeit durch Verbindung mit Hilfsnetzwerken erhöhen</string>
@@ -3336,7 +3343,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
     <string name="enable_webview_multiprocess">Multiprozess WebView</string>
     <string name="enable_webview_multiprocess_desc">WebView Renderer separat ausführen</string>
     <string name="enable_wifi_display">Kabellose Übertragung aktivieren</string>
-    <string name="enabled">Ein</string>
+    <string name="enabled">AN</string>
     <string name="enabled_5g_mode_title">5G aktivieren</string>
     <string name="enabled_authorised_apps_summary">Ihre Berechtigung wird widerrufen, wenn Sie die Schalter der einzelnen Apps umlegen.</string>
     <string name="enabled_authorised_apps_title">Erteilte Berechtigung</string>
@@ -3541,6 +3548,9 @@ Gerät neu starten und erneut versuchen."</string>
     <string name="external_data_size_label">USB-Speicherdaten</string>
     <string name="external_ram_dialog_btn_cancel">Später</string>
     <string name="external_ram_dialog_btn_ok">Neustart</string>
+    <string name="external_ram_dialog_icon_confirm">Verstanden</string>
+    <string name="external_ram_dialog_icon_info">System erweitert den RAM um %1$s %2$s</string>
+    <string name="external_ram_dialog_icon_title">Speichererweiterung ist an</string>
     <string name="external_ram_dialog_message">Ihr Gerät neu starten, um die Änderungen zu übernehmen.</string>
     <string name="external_ram_dialog_title">Gerät neu starten</string>
     <string name="external_ram_remind_toast">Speicherplatz wird knapp. Speichererweiterung wurde vorerst deaktiviert.</string>
@@ -3797,7 +3807,7 @@ Sicherungsdateien nicht ändern oder umbenennen."</string>
     <string name="flashback_open_switch_title">App-Karteikarten</string>
     <string name="flashback_shansong_summary">Lieferfortschritt anzeigen</string>
     <string name="flashback_status_close">Aus</string>
-    <string name="flashback_status_open">Ein</string>
+    <string name="flashback_status_open">AN</string>
     <string name="flashback_summary">Schlüsselinformationen anzeigen, wenn Apps als Popups angezeigt werden</string>
     <string name="flashback_support_apps_title">Verfügbare Apps</string>
     <string name="flashback_title">App-Karteikarten</string>
@@ -4114,7 +4124,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
     <string name="gxzw_anim_pulse">Pulsieren</string>
     <string name="gxzw_anim_rhythm">Rhythmus</string>
     <string name="gxzw_anim_star">Sternenlicht</string>
-    <string name="gxzw_anim_title">Fingerabdruck-Animation</string>
+    <string name="gxzw_anim_title">Fingerabdruck-\nAnimation</string>
     <string name="gxzw_anim_unlock_effect">%s Fingerabdruck-Animation</string>
     <string name="gxzw_aod_show_summary">Heben Sie das Gerät an oder tippen Sie auf den Bildschirm, damit das Fingerabdrucksymbol erscheint. Diese Funktion erhöht den Stromverbrauch des Systems.</string>
     <string name="gxzw_aod_show_tittle">Fingerabdrucksymbol bei Bildschirm aus</string>
@@ -4380,7 +4390,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="input_hint_prefix">Eingabe %1$s</string>
     <string name="input_method">Tastatur</string>
     <string name="input_method_bottom_close">Aus</string>
-    <string name="input_method_bottom_open">Ein</string>
+    <string name="input_method_bottom_open">AN</string>
     <string name="input_method_clipboard_settings">Einstellungen Zwischenablage</string>
     <string name="input_method_cloud_data_title">Cloud-Zwischenablage</string>
     <string name="input_method_cloud_paste_mode_bubble_des">Sie werden ein Popup sehen. Popup antippen, um den kopierten Text einzugeben.</string>
@@ -4432,6 +4442,9 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
     <string name="input_settings">Eingabeeinstellungen</string>
     <string name="input_text">Texteingabeleiste</string>
+    <string name="inputdebuglog_select_level">Eingabe Protokollstufe </string>
+    <string name="inputdebuglog_select_level_show">Stufe %d</string>
+    <string name="inputdebuglog_select_level_summary">Stufe wählen</string>
     <string name="insert_sim_card_and_try_again">SIM-Karte einlegen und erneut versuchen</string>
     <string name="install_all_warning">Apps aus unbekannten Quellen können gefährlich für Ihr Telefon und Ihre persönlichen Daten sein. Sie stimmen zu, dass Sie die Verantwortung für alle Schäden an Ihrem Telefon und jegliche Datenverluste tragen, die aus der Verwendung dieser Apps entstehen können.</string>
     <string name="install_applications">Unbekannte Herkunft</string>
@@ -4614,7 +4627,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_face_unlock">Gesicht;entsperren;verifizieren;anmelden</string>
     <string name="keywords_factory_data_reset">Zum Löschen wischen</string>
     <string name="keywords_fingerprint_settings">fingerabdruck</string>
-    <string name="keywords_flashlight">Blitzlicht;Licht;Taschenlampe</string>
+    <string name="keywords_flashlight">Blitzlicht;Licht;Taschenlampe;Lampe</string>
     <string name="keywords_font_size">Textgröße, Großdruck, große Schrift, großer Text, Sehschwäche, Text größer machen, Schrift vergrößern, Schriftvergrößerung</string>
     <string name="keywords_gesture">Geste;Gesten</string>
     <string name="keywords_gesture_navigation_settings">Gestennavigation, Rückenempfindlichkeit, Rückengeste</string>
@@ -4700,6 +4713,23 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="knock_long_press_horizontal_slid">Mit einem Fingerknöchel waagerecht drücken und wischen</string>
     <string name="knock_slide_shape">Kreis mit einem Fingerknöchel zeichnen</string>
     <string name="knock_slide_v">V mit einem Fingerknöchel zeichnen</string>
+    <string name="ks_add_title">Verknüpfung hinzufügen</string>
+    <string name="ks_back_home">Startbildschirm</string>
+    <string name="ks_category_app">Apps öffnen</string>
+    <string name="ks_category_key">Tastenverknüpfungen</string>
+    <string name="ks_category_system">Systemverknüpfungen</string>
+    <string name="ks_dialog_add_text">Tastenkombination eingeben, um eine Tastenverknüpfung hinzuzufügen.</string>
+    <string name="ks_dialog_conflict">Verknüpfung wird bereits für \"%s\" verwendet</string>
+    <string name="ks_dialog_modify_text">Tastenkombination eingeben, um diesen Verknüpfung zu bearbeiten.</string>
+    <string name="ks_dialog_reset_btn">Wiederherstellen</string>
+    <string name="ks_dialog_reset_text_app">Standard-Verknüpfungseinstellungen zum App-Öffnen werden wiederhergestellt. Ihre benutzerdefinierten Verknüpfungen werden gelöscht. Trotzdem wiederherstellen?</string>
+    <string name="ks_dialog_reset_text_system">Standardeinstellungen für Systemverknüpfungen jetzt wiederherstellen?</string>
+    <string name="ks_dialog_title">%s öffnen</string>
+    <string name="ks_launch_control_center">Kontrollzentrum</string>
+    <string name="ks_launch_notification_center">Benachrichtigungsleiste</string>
+    <string name="ks_reset_title">Standardeinstellungen wiederherstellen</string>
+    <string name="ks_search_summary">Suche</string>
+    <string name="ks_title">Tastenverknüpfungen</string>
     <string name="label_available">verfügbare Netzwerke, verfügbare Netze</string>
     <string name="label_global_roaming_settings">Roaming-Einstellungen</string>
     <string name="label_mi_stats">Mi Analyse</string>
@@ -4940,7 +4970,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lock_profile_wipe_warning_content_pattern">Wenn Sie bei diesem Versuch ein falsches Muster eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
     <string name="lock_profile_wipe_warning_content_pin">Wenn Sie bei diesem Versuch eine falsche PIN eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
     <string name="lock_profile_wipe_warning_title">Letzter Versuch</string>
-    <string name="lock_screen_action">Elemente, die nach Herunterziehen am Sperrbildschirm angezeigt werden</string>
+    <string name="lock_screen_action">Auf Sperrbildschirm angezeigte Elemente nach dem Herunterwischen</string>
     <string name="lock_screen_after_fold_screen_summary">Bei Verwendung der Frontkamera oder der Hörmuschel wird der Bildschirm nach dem Umklappen nicht gesperrt</string>
     <string name="lock_screen_after_fold_screen_title">Bildschirm nach dem Falten sperren</string>
     <string name="lock_screen_display_category_name">Sperrbildschirm</string>
@@ -5481,6 +5511,8 @@ Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt."</string>
     <string name="menu_item_show_more">Mehr anzeigen</string>
     <string name="menu_key">Menü</string>
     <string name="menu_new">Neuer APN</string>
+    <string name="menu_new_display_open">In neuem Fenster öffnen</string>
+    <string name="menu_pc_open">Am PC öffnen</string>
     <string name="menu_proc_stats_duration">Dauer</string>
     <string name="menu_proc_stats_type">Statistiktyp</string>
     <string name="menu_proc_stats_type_background">Hintergrund</string>
@@ -6196,7 +6228,7 @@ Betriebssystem auswählen:"</string>
     <string name="nfc_secure_settings_title">Geräteentsperrung für NFC erforderlich</string>
     <string name="nfc_secure_toggle_summary">NFC-Zahlung und -Transit nur dann zulassen, wenn der Bildschirm entsperrt ist</string>
     <string name="nfc_setting_off">Aus</string>
-    <string name="nfc_setting_on">Ein</string>
+    <string name="nfc_setting_on">AN</string>
     <string name="night">Abend</string>
     <string name="night_display_activation_off_custom">Ausschalten bis %1$s</string>
     <string name="night_display_activation_off_manual">Jetzt ausschalten</string>
@@ -6764,7 +6796,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
     <string name="permissions_usage_summary">Anzeigen, welche Apps kürzlich Berechtigungen verwendet haben</string>
     <string name="permissions_usage_title">Datenschutzübersicht</string>
     <string name="permit_draw_overlay">Überlagerung von Apps erlauben</string>
-    <string name="permit_manage_external_storage">Zugriff auf die Verwaltung aller Dateien zulassen</string>
+    <string name="permit_manage_external_storage">Verwaltung aller Dateien zulassen</string>
     <string name="permit_running_network">Hintergrunddaten</string>
     <string name="permit_usage_access">Nutzungszugang erlauben</string>
     <string name="permit_write_settings">Änderung von Systemeinstellungen erlauben</string>
@@ -6907,8 +6939,8 @@ Gleichzeitig Ein/Aus- und Lautertaste drücken."</string>
     <string name="power_mgr">Akku-Optimierung</string>
     <string name="power_mode">Stromeinstellungen</string>
     <string name="power_mode_balanced_title">Ausgeglichen</string>
-    <string name="power_monitor_summary">Tools zur Stromüberwachung</string>
-    <string name="power_monitor_title">Stromüberwachung</string>
+    <string name="power_monitor_summary">Tools zur Überwachung des Stromverbrauchs</string>
+    <string name="power_monitor_title">Stromverbrauch</string>
     <string name="power_optimize">Stromsparen</string>
     <string name="power_overcounted">Überzählt</string>
     <string name="power_phone">Anrufe</string>
@@ -7214,6 +7246,8 @@ sensible Informationen enthalten können"</string>
     <string name="profile_section_header">Profilbenachrichtigungen</string>
     <string name="profiles_settings_title">Systemprofile</string>
     <string name="progress_backup_hint">Sichern…</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Stopp</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Lautsprecher reinigen…</string>
     <string name="progress_restore_hint">Wiederherstellen…</string>
     <string name="progress_scanning">Suche läuft</string>
     <string name="promote_conversation_summary">Zum Unterhaltungsbereich hinzufügen</string>
@@ -7408,7 +7442,8 @@ UT Interface: %5$s"</string>
 "<li>Alle Rechtebeschränkungen</li>"
  App-Daten gehen nicht verloren."</string>
     <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
-    <string name="reset_confirm_directory">Hinweis: Vor dem Wiederherstellen von Elementen prüfen, ob der Ordner \"MIUI-backup-AllBackup\" auf Ihrem Mobilgerät vorhanden ist. Ist dies nicht der Fall, erstellen Sie ihn.</string>
+    <string name="reset_confirm_directory">Hinweis: Prüfen Sie vor der Wiederherstellung von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
+    <string name="reset_confirm_directory_pad">Hinweis: Prüfen Sie vor der Wiederherstellung von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
     <string name="reset_dashboard_summary">Netzwerk, Apps oder Gerät können zurückgestzt werden</string>
     <string name="reset_dashboard_summary_onlyApps">Apps können zurückgesetzt werden</string>
     <string name="reset_dashboard_title">Zurücksetzen</string>
@@ -7637,7 +7672,7 @@ Mindestens %s freigeben."</string>
     <string name="screen_enhance_engine_sr_title">Superauflösung</string>
     <string name="screen_enhance_engine_title">KI-Bildgenerator</string>
     <string name="screen_enhance_status_disable">Aus</string>
-    <string name="screen_enhance_status_enable">Ein</string>
+    <string name="screen_enhance_status_enable">AN</string>
     <string name="screen_fps_summary">Eine höhere Aktualisierungsrate macht das Bild glatter, während eine niedrigere Aktualisierungsrate den Akku schont</string>
     <string name="screen_fps_summary_power_save">Verwendung eines festen Taktes verbraucht weniger Strom</string>
     <string name="screen_fps_summary_smooth">Einige Apps erhöhen die Aktualisierungsrate automatisch, um die Bildqualität zu verbessern</string>
@@ -8419,7 +8454,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
     <string name="shoulder_key_shortcut_none">Nichts</string>
     <string name="shoulder_key_shortcut_settings">Schultertasten</string>
     <string name="shoulder_key_shortcut_single_click">Drücken</string>
-    <string name="shoulder_key_shortcut_turn_on_torch">Taschenlampe</string>
+    <string name="shoulder_key_shortcut_turn_on_torch">Lampe</string>
     <string name="shoulder_key_shortcut_vibrate">Vibrieren</string>
     <string name="shoulder_key_sound_settings">Toneffekte</string>
     <string name="shoulder_key_sound_switch_title">Toneffekte</string>
@@ -8796,9 +8831,9 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="speed_label_very_fast">Sehr schnell</string>
     <string name="speed_label_very_slow">Sehr langsam</string>
     <string name="speed_mode">Geschwindigkeitsmodus</string>
-    <string name="speed_mode_noti_summary">Geschwindigkeitsmodus erhöht den Stromverbrauch und die Wärmeentwicklung</string>
-    <string name="speed_mode_noti_title">Geschwindigkeitsmodus an</string>
-    <string name="speed_mode_summary">Um Apps zu debuggen</string>
+    <string name="speed_mode_noti_summary">Ihr Gerät wird wärmer und verbraucht mehr Strom</string>
+    <string name="speed_mode_noti_title">Zum Geschwindigkeitsmodus gewechselt</string>
+    <string name="speed_mode_summary">Vorrang der Leistung vor Stromverbrauch und Temperaturkontrolle</string>
     <string name="spell_checker_master_switch_title">Rechtschreibprüfung nutzen</string>
     <string name="spell_checker_not_selected">Nicht ausgewählt</string>
     <string name="spell_checker_primary_switch_title">Rechtschreibprüfung verwenden</string>
@@ -9532,6 +9567,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="to_close">Ausschalten</string>
     <string name="to_switch_networks_disconnect_ethernet">Um das Netzwerk zu wechseln, trennen Sie die Ethernet-Verbindung.</string>
     <string name="toast_apply_font_fail">Schriftart nicht einstellbar</string>
+    <string name="toast_disconnect_earphone">Kopfhörer trennen und erneut versuchen</string>
     <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
     <string name="toast_need_login">Melden Sie sich in Ihrem Mi-Konto an</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Keine Übertragung bei bestehender WLAN-Verbindung und aktiviertem Hotspot</string>
@@ -9839,7 +9875,7 @@ Gefällt Ihnen Mi Mover?"</string>
     <string name="turn_on_keyguard_password_alert_forget_title">!! ACHTUNG - NICHT VERGESSEN !!</string>
     <string name="turn_on_radio">Radio einschalten</string>
     <string name="turn_on_security_lock">Bildschirmsperre auswählen</string>
-    <string name="turn_on_torch">Taschenlampe aktivieren</string>
+    <string name="turn_on_torch">Lampe einschalten</string>
     <string name="turn_on_wifi">WLAN einschalten</string>
     <string name="turn_on_wifi_dialog_text">WLAN ist deaktiviert, wenn mobiler Hotspot aktiv ist. Um WLAN einzuschalten, schalten Sie bitte mobilen Hotspot aus.</string>
     <string name="turn_on_wifi_dialog_title">WLAN einschalten</string>
@@ -10187,7 +10223,8 @@ Speicher freigeben oder nur wichtige Elemente übertragen."</string>
     <string name="use_otg_file_transfers_summary">Langsames Laden mit 500mA und Dateien übertragen</string>
     <string name="use_otg_title">USB-OTG</string>
     <string name="use_personalized_ad_service">Personalisierte Werbung anzeigen</string>
-    <string name="use_personalized_ad_service_summary">Wenn Empfehlungen ausgeschaltet sind, sehen Sie immer noch die gleiche Anzahl von Anzeigen wie bei aktivierter Funktion, jedoch nicht auf der Grundlage Ihrer Verhaltensdaten oder Ihrer persönlichen Daten.</string>
+    <string name="use_personalized_ad_service_summary">Wenn Empfehlungen aus sind, sehen Sie immer noch die gleiche Menge Werbung wie bei aktivierter Funktion, jedoch nicht auf der Grundlage Ihrer Verhaltensdaten oder Ihrer persönlichen Daten.</string>
+    <string name="use_personalized_ad_service_summary_for_global">Wenn die personalisierten Werbeempfehlungen aus sind, sehen Sie immer noch die gleiche Menge Werbung in den MIUI-System-Apps, wie wenn die Funktion aktiviert ist. Die Anzeigen von Xiaomi und Drittanbieter-Plattformen werden jedoch nicht mehr relevant sein, da sie nicht auf Ihren persönlichen Vorlieben basieren.</string>
     <string name="use_privacy_password_immediate">Verwenden</string>
     <string name="use_system_language_to_select_input_method_subtypes">Systemsprache verwenden</string>
     <string name="use_this_wlan">Verbunden bleiben</string>
@@ -10388,7 +10425,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
     <string name="voicemail_number_not_set">&lt;Nicht eingestellt</string>
     <string name="voip_assistant_settings">VoIP-Assistent</string>
     <string name="voip_assistant_settings_off">Aus</string>
-    <string name="voip_assistant_settings_on">Ein</string>
+    <string name="voip_assistant_settings_on">AN</string>
     <string name="voip_assistant_settings_summary">VoIP-Anrufe aufnehmen und Sprachausgabeoptimierung verwenden</string>
     <string name="volte_5G_limited_text">"Dies schaltet auch Ihre 5G-Verbindung aus.
 Während eines Sprachanrufs können Sie das Internet nicht nutzen und einige Apps funktionieren eventuell nicht."</string>
@@ -10922,7 +10959,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
     <string name="wifi_link_turbo_mode">Beschleunigungsmodus</string>
     <string name="wifi_link_turbo_no_app">Noch keine Apps vorhanden.</string>
     <string name="wifi_link_turbo_off">Aus</string>
-    <string name="wifi_link_turbo_on">Ein</string>
+    <string name="wifi_link_turbo_on">AN</string>
     <string name="wifi_link_turbo_recommendation">Empfohlene Apps</string>
     <string name="wifi_link_turbo_recommendation_summary">Empfehlungen auf der Grundlage der Datennutzungsstatistik erhalten</string>
     <string name="wifi_link_turbo_summary">Mobile Daten nutzen, um die Verbindungsgeschwindigkeit zu erhöhen. Bei Verwendung dieser Funktion können zusätzliche Anbieterkosten anfallen.</string>
@@ -10999,7 +11036,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
     <string name="wifi_privacy_settings">Datenschutz</string>
     <string name="wifi_privacy_settings_ephemeral_summary">Zufällige MAC</string>
     <string name="wifi_property">WLAN-Eigenschaften</string>
-    <string name="wifi_protection_on">Ein</string>
+    <string name="wifi_protection_on">AN</string>
     <string name="wifi_protection_settings_title">Schutz vor WLAN-Sondierungsanfragen</string>
     <string name="wifi_protection_tip">MIUI schützt Ihre persönlichen Daten vor WLAN-Sondierungsanfragen von zufälligen MAC-Adressen und WLAN-Sondierungsschnüffeln, wenn Ihr Gerät nach WLAN sucht.</string>
     <string name="wifi_quick_toggle_summary">WLAN einschalten</string>

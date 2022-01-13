@@ -144,7 +144,7 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="app_name">Rechtemanager</string>
+    <string name="app_name">Berechtigungen</string>
     <string name="background_location_access_reminder_notification_content">Diese App hat jederzeit Zugriff auf Ihren Standort. Zum Ändern hier tippen.</string>
     <string name="background_location_access_reminder_notification_title">%s hat Ihren Standort genutzt</string>
     <string name="blur_location_is_on_tip">%%1$s verwendet Ihren ungefähren Standort. Weiter verwenden anstelle des genauen Standorts?</string>
@@ -242,6 +242,7 @@
     <string name="miuix_appcompat_select_all">Alle wählen</string>
     <string name="miuix_appcompat_select_all_description">Alle wählen</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
+    <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
@@ -434,7 +435,7 @@
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">EIN</string>
+    <string name="v7_preference_on">AN</string>
     <string name="virtual_reject_notice_content">Eine leere Antwort wurde an die App geschickt, um Ihre persönlichen Daten zu schützen.</string>
     <string name="virtual_reject_notice_title_calendar">Kalenderzugriff durch %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Anruflistenzugriff durch %1$s</string>

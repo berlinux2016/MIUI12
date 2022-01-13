@@ -2,12 +2,12 @@
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
     <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">EIN</string>
+    <string name="abc_capital_on">AN</string>
     <string name="abc_search_hint">Suchen…</string>
     <string name="abc_searchview_description_clear">Anfrage löschen</string>
     <string name="abc_searchview_description_query">Suchanfrage</string>
@@ -37,6 +37,7 @@
     <string name="calibrate_success">Kalibriert</string>
     <string name="calibrate_tip">Schwenken Sie Ihr Gerät, um den Ball entlang des Kreises zu bewegen</string>
     <string name="calibrate_title">Kompass kalibrieren</string>
+    <string name="calibrating">Kompass kalibrieren</string>
     <string name="cancel">Abbrechen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
@@ -160,6 +161,7 @@
     <string name="month_september_shortest">S</string>
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
+    <string name="new_cta_app_purpose">Wegbeschreibung und Koordinaten anzeigen</string>
     <string name="new_cta_v2_app_purpose">Anzeige von Richtungen, Koordinaten, Luftdruck und aktueller Höhe</string>
     <string name="new_permission_camera_desc">Zur Kalibrierung</string>
     <string name="new_permission_location_desc">Zur Anzeige von Koordinaten</string>

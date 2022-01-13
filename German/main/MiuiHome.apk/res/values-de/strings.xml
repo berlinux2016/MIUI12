@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="menu_no_word">Keinen Text anzeigen</string>
+    <string name="menu_no_word_setting_tip" formatted="false">%d×%d-Layout ohne Text verwenden</string>
+
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
     <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">EIN</string>
+    <string name="abc_capital_on">AN</string>
     <string name="abc_search_hint">Suchen…</string>
     <string name="abc_searchview_description_clear">Anfrage löschen</string>
     <string name="abc_searchview_description_query">Suchanfrage</string>
@@ -398,7 +401,7 @@
     <string name="launcher_search_bar_provider_title">Suchleistenanbieter</string>
     <string name="launcher_search_bar_title">Suchleiste auf der Startseite</string>
     <string name="launcher_search_bar_value_disable">Aus</string>
-    <string name="launcher_search_bar_value_enable">Ein</string>
+    <string name="launcher_search_bar_value_enable">AN</string>
     <string name="launcher_search_provider_title">Suchanbieter Startbildschirm</string>
     <string name="launcher_slide_up_search_provider_title">Suchanbieter beim Hochwischen</string>
     <string name="launcher_slide_up_title">Am Startbildschirm hochwischen</string>
@@ -446,7 +449,7 @@
     <string name="menu_lock">Symbolpositionen sperren</string>
     <string name="menu_more">Mehr</string>
     <string name="menu_new_display_open">In neuem Fenster öffnen</string>
-    <string name="menu_pc_open">Mit Computerprogramm öffnen</string>
+    <string name="menu_pc_open">Am PC öffnen</string>
     <string name="menu_picktheme">Thema wählen</string>
     <string name="menu_reset_scene">Standardlayout</string>
     <string name="menu_search">Suchen</string>
@@ -668,6 +671,10 @@
     <string name="recents_title_market">Apps finden</string>
     <string name="recents_title_security_scan">Virenscan</string>
     <string name="recents_tv_small_window_text">Popups</string>
+    <string name="recents_worldcirculate_text">Zum Auswählen loslassen</string>
+    <string name="recnets_worldcirculate_display_computer_info">App arbeitet an %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Tippen, um sie hierher zurückzubringen.</string>
+    <string name="recnets_worldcirculate_display_pad_info">App arbeitet an %s.</string>
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
     <string name="recommend_app">App-Vorschläge</string>
     <string name="recommend_apps_default_title">Leer</string>
@@ -871,7 +878,7 @@
     <string name="user_query_notification_text">Ist die Desktop-Bedienung komfortabel? Wird die Animation flüssig dargestellt? Erzählen Sie uns von der Teilnahme an der Umfrage!</string>
     <string name="user_query_notification_title">Der MIUI System-Desktop lädt Sie zur Teilnahme an der Nutzungsumfrage ein</string>
     <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">EIN</string>
+    <string name="v7_preference_on">AN</string>
     <string name="wallpaper">Hintergrund</string>
     <string name="wallpaper_auto_change_title">Bildschirmsperre</string>
     <string name="wallpaper_failed_message">Hintergrund wurde nicht angewendet</string>

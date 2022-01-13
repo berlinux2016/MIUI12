@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">Eine App auswählen</string>
     <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">EIN</string>
+    <string name="abc_capital_on">AN</string>
     <string name="abc_search_hint">Suchen…</string>
     <string name="abc_searchview_description_clear">Anfrage löschen</string>
     <string name="abc_searchview_description_query">Suchanfrage</string>
@@ -230,7 +230,7 @@ Beachten Sie, dass diese App eine Internetverbindung und die folgenden Genehmigu
     <string name="notification_content_asr_recoginzing">Umwandeln…</string>
     <string name="notification_message">Nur über neue Nachrichten in ausgewählten Ordnern benachrichtigen?</string>
     <string name="notification_off">Aus</string>
-    <string name="notification_on">Ein</string>
+    <string name="notification_on">AN</string>
     <string name="operation_settging">Aktionen</string>
     <string name="organization">Firma</string>
     <string name="other_ime">Andere Tastaturen</string>
@@ -405,7 +405,7 @@ Beachten Sie, dass diese App eine Internetverbindung und die folgenden Genehmigu
     <string name="user_experience_program">Programm zur Benutzererfahrung</string>
     <string name="user_manual">Benutzerhandbuch</string>
     <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">EIN</string>
+    <string name="v7_preference_on">AN</string>
     <string name="vendor_permission_allow_content_policy1">Nutzervereinbarung</string>
     <string name="wait_for_wlan_china">Auf WLAN warten</string>
     <string name="web_sso_login_fail">Sie müssen sich erneut anmelden</string>

@@ -177,7 +177,7 @@
     <string name="bh_network_ctl">Verbindung verwalten</string>
     <string name="bh_no_card">Keine SIM</string>
     <string name="bh_no_permission_read_call_log_desc">Diese Berechtigung erlaubt die Anzeige der Gesprächsdauer</string>
-    <string name="bh_no_permission_read_contact_desc">Diese Berechtigung erlaubt den Zugriff auf Telefonnummern in Kontakten</string>
+    <string name="bh_no_permission_read_contact_desc">Diese Berechtigung erlaubt den Zugriff auf Rufnummern in Kontakten</string>
     <string name="bh_no_sim">SIM-Karte ist nicht installiert</string>
     <string name="bh_no_sim_inserted">SIM-Karte ist nicht installiert</string>
     <string name="bh_none">Nichts</string>
@@ -356,7 +356,7 @@
     <string name="call_record_history">Gesprächsaufzeichnungen</string>
     <string name="call_record_password">Datenschutzpasswort</string>
     <string name="call_record_password_closed">Aus</string>
-    <string name="call_record_password_opened">Ein</string>
+    <string name="call_record_password_opened">AN</string>
     <string name="call_record_password_summary">Gesprächsaufzeichnungen mit einem zusätzlichen Passwort schützen</string>
     <string name="call_record_setting_miui">Aufnahmeeinstellungen</string>
     <string name="call_record_storage_list">Gesprächsaufzeichnungen</string>
@@ -886,6 +886,7 @@ Grund: \"%s\""</string>
     <string name="hybrid_webpage_not_available">Internetseite nicht verfügbar</string>
     <string name="ic_menu_back">Zurück</string>
     <string name="ic_menu_done">Fertig</string>
+    <string name="identify_numbers_text">Anrufer-ID einschalten, um Spam-Anrufe zu erkennen</string>
     <string name="imLabelsGroup">Chat</string>
     <string name="imei_invalid">Ungültige IMEI</string>
     <string name="import_all_sim_entries_miui">Alle Kontakte importieren</string>

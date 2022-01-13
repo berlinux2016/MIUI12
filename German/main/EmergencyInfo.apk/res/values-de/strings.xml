@@ -6,7 +6,7 @@
     <string name="ab_positive">AB positiv</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
@@ -664,7 +664,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren"</string>
     <string name="user_setup_profile_dialog_message">Profil jetzt einrichten?</string>
     <string name="user_switch_to_user">Wechseln zu %s</string>
     <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">EIN</string>
+    <string name="v7_preference_on">AN</string>
     <string name="verify_apps_over_usb_summary">Prüfen Sie über ADB/ADT installierte Apps auf schädliches Verhalten</string>
     <string name="verify_apps_over_usb_title">Apps über USB prüfen</string>
     <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>

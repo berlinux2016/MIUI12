@@ -2,13 +2,13 @@
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_action_mode_select_all">Alles</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
     <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">EIN</string>
+    <string name="abc_capital_on">AN</string>
     <string name="abc_search_hint">Suchen…</string>
     <string name="abc_searchview_description_clear">Anfrage löschen</string>
     <string name="abc_searchview_description_query">Suchanfrage</string>
@@ -171,7 +171,7 @@
     <string name="accessibility_reduce">Verkleinern</string>
     <string name="accessibility_reference_line_image_off">Gitterlinien nicht anzeigen</string>
     <string name="accessibility_reference_line_image_on">Gitterlinien anzeigen</string>
-    <string name="accessibility_reference_line_text">Bedienfeld mit Referenzlinienoptionen öffnen</string>
+    <string name="accessibility_reference_line_text">Bedienfeld mit Rasterlinienoptionen öffnen</string>
     <string name="accessibility_review_thumbnail">Neueste Fotos</string>
     <string name="accessibility_seek_bar_line">Suchleistenlinie</string>
     <string name="accessibility_select_all">Alle auswählen</string>
@@ -377,6 +377,18 @@ und optimiert Ihre Fotos anhand dieser Informationen."</string>
     <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
     <string name="beauty_fragment_tab_name_makeup">Fortgeschritten</string>
     <string name="beauty_fragment_tab_name_makeups">Make-up</string>
+    <string name="beauty_lens">Große Blende</string>
+    <string name="beauty_lens_1">Menschen</string>
+    <string name="beauty_lens_1_description">Professionelles Bokeh erzeugen und Aufnahmen in bemerkenswerte Porträts verwandeln</string>
+    <string name="beauty_lens_2">Haustiere</string>
+    <string name="beauty_lens_2_description">Hintergrund unscharf machen und dabei alle Details des Fells und der Schnurrhaare beibehalten</string>
+    <string name="beauty_lens_3">Essen</string>
+    <string name="beauty_lens_3_description">Die leckeren Sachen in den Vordergrund bringen und sie lebendiger aussehen lassen</string>
+    <string name="beauty_lens_4">Gegenstände</string>
+    <string name="beauty_lens_4_description">Texturen verbessern und Stillleben auf Posterebene erstellen</string>
+    <string name="beauty_lens_description_title">Große Blende</string>
+    <string name="beauty_lens_none">Unschärfe</string>
+    <string name="beauty_lens_use_hint">Große Blende verwenden, um den Hintergrund unscharf zu machen und die Gegenstände im Vordergrund hervorzuheben</string>
     <string name="beauty_makeups_gentleman">Silber</string>
     <string name="beauty_makeups_nude">Nackt</string>
     <string name="beauty_makeups_pinkfemale">Blütenblatt</string>
@@ -519,6 +531,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
     <string name="color_effect_entry_blackgold_describe">Dieser kontrastreiche Filter hält nur gelbe und dunkelblaue Farben zurück. Verwenden Sie ihn auf gut beleuchteten Straßen einer nächtlichen Stadt.</string>
     <string name="color_effect_entry_blackice">Glatteis</string>
     <string name="color_effect_entry_blackwhite">Schwarz-Weiß</string>
+    <string name="color_effect_entry_classic">Klassisch</string>
     <string name="color_effect_entry_fade">Verblassen</string>
     <string name="color_effect_entry_first">Aufgang</string>
     <string name="color_effect_entry_glimmer">Schein</string>
@@ -1030,6 +1043,9 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
     <string name="live_sticker_updating">Aktualisieren…</string>
     <string name="live_workspace_title">Entwürfe</string>
     <string name="live_workspace_title_edit">Zu löschende Elemente auswählen</string>
+    <string name="live_workspace_title_pause">Stopp</string>
+    <string name="live_workspace_title_play">Abspielen</string>
+    <string name="live_workspace_title_pre_edit">Zu löschende Objekte wählen</string>
     <string name="loading">Laden…</string>
     <string name="loading_video">Video laden…</string>
     <string name="local_music">Lokale Musik</string>
@@ -1326,7 +1342,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
     <string name="pano_dialog_waiting_previous">Warten auf Abschluss des vorherigen Panoramas</string>
     <string name="pano_go_on_moving">Bewegen Sie Ihr Gerät kontinuierlich entlang der Linie</string>
     <string name="pano_how_to_use_prompt">"Berühren Sie den Auslöser, um ein Panoramafoto aufzunehmen"</string>
-    <string name="pano_how_to_use_prompt_align_reference_line">Richten Sie den Pfeil an der Referenzlinie aus</string>
+    <string name="pano_how_to_use_prompt_align_reference_line">Richten Sie den Pfeil an der Rasterlinie aus</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Fortsetzen</string>
     <string name="pano_how_to_use_prompt_slow_down">Bitte langsamer</string>
     <string name="pano_how_to_use_prompt_start">Tippen Sie auf den Pfeil, um die Aufnahmerichtung zu wechseln und gleichmäßig das Mobiltelefon zu drehen</string>
@@ -1587,7 +1603,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_camera_manual_mode_title">Manuell</string>
     <string name="pref_camera_mfnr_sat_enable_title">MFNR einschalten</string>
     <string name="pref_camera_movie_solid_entry_off">Aus</string>
-    <string name="pref_camera_movie_solid_entry_on">Ein</string>
+    <string name="pref_camera_movie_solid_entry_on">AN</string>
     <string name="pref_camera_movie_solid_title">Bildstabilisierung</string>
     <string name="pref_camera_multilevel_entry_high">Hoch</string>
     <string name="pref_camera_multilevel_entry_higher">Höher</string>
@@ -1639,7 +1655,9 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_camera_reference_capture_title_jiugongge">Raster</string>
     <string name="pref_camera_reference_capture_title_left_golden_spiral">Goldene Spirale A</string>
     <string name="pref_camera_reference_capture_title_right_golden_spiral">Goldene Spirale B</string>
-    <string name="pref_camera_referenceline_title">Referenzlinien</string>
+    <string name="pref_camera_referenceline_title">Rasterlinien</string>
+    <string name="pref_camera_track_focus_intro_description">Wenn Sie Fotos oder Videos mit sich bewegenden Motiven aufnehmen, erkennt diese Funktion Menschen, Katzen und Hunde und hält sie automatisch im Fokus. Außerdem können Sie jedes Motiv doppelt antippen, um Bewegungen zu verfolgen.</string>
+    <string name="pref_camera_track_focus_intro_goto">Einschalten</string>
     <string name="pref_retain_ai_scene">KI-Kamera</string>
     <string name="pref_retain_ai_scene_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird der letzte Schaltzustand verwendet</string>
     <string name="pref_retain_beauty">Schönheitseffekt</string>
@@ -1704,8 +1722,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_camera_touchafaec_entry_off">Aus</string>
     <string name="pref_camera_touchafaec_entry_on">An</string>
     <string name="pref_camera_touchafaec_title">AF/AEC berühren</string>
-    <string name="pref_camera_track_focus_preferred_description">Diese Funktion einschalten, um den Fokus auf Menschen und Tiere automatisch beizubehalten. Sie können auch manuell Motive für die Verfolgung auswählen.</string>
-    <string name="pref_camera_track_focus_preferred_title">Schärfenachführung</string>
+    <string name="pref_camera_track_focus_preferred_description">Bewegende Menschen, Katzen und Hunde automatisch im Fokus halten oder tippen Sie doppelt auf ein beliebiges Motiv, um es zu verfolgen.</string>
+    <string name="pref_camera_track_focus_preferred_title">Fokus-Bewegungsverfolgung</string>
     <string name="pref_camera_ubifocus_title">Neufokussieren</string>
     <string name="pref_camera_ultra_wide_ldc_description">Verzerrte Motive automatisch korrigieren</string>
     <string name="pref_camera_ultra_wide_ldc_title">Verzerrung bei Ultraweitwinkelaufnahmen korrigieren</string>
@@ -1841,7 +1859,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_video_cast_setting_summary">Einschalten, um ein Video mit mehreren Geräten aufnehmen zu können</string>
     <string name="pref_video_cast_setting_title">Duale Telefonaufnahme</string>
     <string name="pref_video_denoise_off">Aus</string>
-    <string name="pref_video_denoise_on">Ein</string>
+    <string name="pref_video_denoise_on">AN</string>
     <string name="pref_video_denoise_title">Rauschfilter</string>
     <string name="pref_video_encoder_entry_h264">H.264 Hohe Kompatibilität</string>
     <string name="pref_video_encoder_entry_h265">H.265 Hohe Leistung</string>
@@ -1874,13 +1892,13 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30-Sek-Intervall)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Zeitrafferintervall</string>
     <string name="pref_watermark_off">Aus</string>
-    <string name="pref_watermark_on">Ein</string>
+    <string name="pref_watermark_on">AN</string>
     <string name="pref_watermark_style_entry_dualcamera">Dualkameramodus</string>
     <string name="pref_watermark_style_entry_off">Aus</string>
     <string name="pref_watermark_style_entry_timestamp">Zeitstempel</string>
     <string name="pref_watermark_style_title">Zeitstempelart</string>
     <string name="pref_watermark_title">Wasserzeichen</string>
-    <string name="pref_wind_denoise_default">Ein</string>
+    <string name="pref_wind_denoise_default">AN</string>
     <string name="pref_wind_denoise_title">Windfilter</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="prek_b_j_o">Einschalten, um einen Stereo-Surround-Effekt zu erzeugen. Zum Querformatmodus wechseln oder Kopfhörer anschließen, um den besten Effekt zu erzielen</string>
@@ -2186,7 +2204,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
     <string name="timefreeze_guide_tip6">Objekte in der Luft schweben lassen.</string>
     <string name="timefreeze_guide_tip7">Oder entdecken Sie Ihre eigenen Tricks!</string>
     <string name="timefreeze_guide_title">Zeitraffervideos</string>
-    <string name="timer_burst">Selbstauslöser-Timer</string>
+    <string name="timer_burst">Zeitgesteuert</string>
     <string name="timer_burst_manu_param_interval">Intervall ohne Belichtung</string>
     <string name="timer_burst_param_interval">Intervall</string>
     <string name="timer_burst_param_total_count">Gesamte Aufnahmezeit</string>

@@ -2,12 +2,12 @@
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
     <string name="abc_action_mode_done">Fertig</string>
     <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
     <string name="abc_activitychooserview_choose_application">App wählen</string>
     <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">EIN</string>
+    <string name="abc_capital_on">AN</string>
     <string name="abc_search_hint">Suchen…</string>
     <string name="abc_searchview_description_clear">Anfrage löschen</string>
     <string name="abc_searchview_description_query">Suchanfrage</string>
@@ -238,7 +238,7 @@ dd.MM."</string>
     <string name="notification_nothing">Nichts</string>
     <string name="notification_screen_on">Beleuchteter Bildschirm</string>
     <string name="off">Aus</string>
-    <string name="on">Ein</string>
+    <string name="on">AN</string>
     <string name="only_show_bg_description">Uhrzeit, Datum und andere Elemente nicht anzeigen</string>
     <string name="only_show_bg_title">Nur Hintergrund anzeigen</string>
     <string name="open_aod_mode">Einschalten</string>
